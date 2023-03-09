@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-09 03:23:38 UTC`
+📆 Last Updated: `2023-03-09 04:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 6 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 7 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
-| 8 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 9 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
-| 10 | [BIGGEST IMPROVER](http://twitter.com/search?q=BIGGEST+IMPROVER) | N/A |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [WOODEN SPOON](http://twitter.com/search?q=WOODEN+SPOON) | N/A |
-| 13 | [BIGGEST SLIDER](http://twitter.com/search?q=BIGGEST+SLIDER) | N/A |
-| 14 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 15 | [TAYLA](http://twitter.com/search?q=TAYLA) | N/A |
-| 16 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 17 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 8 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 9 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
+| 12 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 13 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 14 | [WOODEN SPOON](http://twitter.com/search?q=WOODEN+SPOON) | N/A |
+| 15 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
+| 16 | [BIGGEST SLIDER](http://twitter.com/search?q=BIGGEST+SLIDER) | N/A |
+| 17 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
 | 18 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 21 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 22 | [Australian Reading Hour](http://twitter.com/search?q=Australian+Reading+Hour) | N/A |
+| 19 | [BIGGEST IMPROVER](http://twitter.com/search?q=BIGGEST+IMPROVER) | N/A |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 21 | [Westworld](http://twitter.com/search?q=Westworld) | N/A |
+| 22 | [lorde](http://twitter.com/search?q=lorde) | N/A |
 | 23 | [Parliament House](http://twitter.com/search?q=Parliament+House) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 26 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 27 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 28 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 33 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 34 | [Tom Morris](http://twitter.com/search?q=Tom+Morris) | N/A |
-| 35 | [Richard Glenn](http://twitter.com/search?q=Richard+Glenn) | N/A |
-| 36 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 37 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 38 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 39 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 40 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 42 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 43 | [PREMIERS](http://twitter.com/search?q=PREMIERS) | N/A |
-| 44 | [Netball Australia](http://twitter.com/search?q=Netball+Australia) | N/A |
-| 45 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 24 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 27 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 28 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 29 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
+| 30 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 31 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 32 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 35 | [Tom Morris](http://twitter.com/search?q=Tom+Morris) | N/A |
+| 36 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 37 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 40 | [Richard Glenn](http://twitter.com/search?q=Richard+Glenn) | N/A |
+| 41 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 42 | [Seafolly](http://twitter.com/search?q=Seafolly) | N/A |
+| 43 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 44 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 45 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
 | 46 | [Nick Coatsworth](http://twitter.com/search?q=Nick+Coatsworth) | N/A |
-| 47 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 48 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 47 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 48 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 50 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 50 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
 
 
 

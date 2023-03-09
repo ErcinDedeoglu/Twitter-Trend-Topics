@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-09 03:23:54 UTC`
+📆 Last Updated: `2023-03-09 04:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
-| 2 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 5 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 6 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
-| 7 | [#अपराधी_अपराध_छोड़_देते_थे](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%80_%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7_%e0%a4%9b%e0%a5%8b%e0%a4%a1%e0%a4%bc_%e0%a4%a6%e0%a5%87%e0%a4%a4%e0%a5%87_%e0%a4%a5%e0%a5%87) | N/A |
-| 8 | [Bolte Anubhav](http://twitter.com/search?q=Bolte+Anubhav) | N/A |
-| 9 | [Satsang Matra Se](http://twitter.com/search?q=Satsang+Matra+Se) | N/A |
-| 10 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim  Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim++Ji) | N/A |
-| 12 | [Calendar](http://twitter.com/search?q=Calendar) | N/A |
-| 13 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 14 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 15 | [No Headway InSSRCase](http://twitter.com/search?q=No+Headway+InSSRCase) | N/A |
-| 16 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 17 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 18 | [अनुपम खेर](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%aa%e0%a4%ae+%e0%a4%96%e0%a5%87%e0%a4%b0) | N/A |
-| 19 | [Mr India](http://twitter.com/search?q=Mr+India) | N/A |
-| 20 | [goldiee one one noodles](http://twitter.com/search?q=goldiee+one+one+noodles) | N/A |
-| 21 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 22 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 23 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 24 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 25 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 26 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 29 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 30 | [Pappu Pager](http://twitter.com/search?q=Pappu+Pager) | N/A |
-| 31 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 34 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 35 | [मिस्टर इंडिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a4%b0+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 36 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 37 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 38 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 39 | [पावन प्रेरणा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 40 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 41 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
-| 42 | [Narendra Modi Stadium](http://twitter.com/search?q=Narendra+Modi+Stadium) | N/A |
-| 43 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 44 | [श्री नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 45 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
-| 46 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
-| 47 | [Jai Jagannath](http://twitter.com/search?q=Jai+Jagannath) | N/A |
-| 48 | [Govinda](http://twitter.com/search?q=Govinda) | N/A |
-| 49 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 2 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 3 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 4 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
+| 5 | [#अपराधी_अपराध_छोड़_देते_थे](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%80_%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7_%e0%a4%9b%e0%a5%8b%e0%a4%a1%e0%a4%bc_%e0%a4%a6%e0%a5%87%e0%a4%a4%e0%a5%87_%e0%a4%a5%e0%a5%87) | N/A |
+| 6 | [Bolte Anubhav](http://twitter.com/search?q=Bolte+Anubhav) | N/A |
+| 7 | [Satsang Matra Se](http://twitter.com/search?q=Satsang+Matra+Se) | N/A |
+| 8 | [#BGT23](http://twitter.com/search?q=%23BGT23) | N/A |
+| 9 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 10 | [Calendar](http://twitter.com/search?q=Calendar) | N/A |
+| 11 | [No Headway InSSRCase](http://twitter.com/search?q=No+Headway+InSSRCase) | N/A |
+| 12 | [Saint Gurmeet Ram Rahim  Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim++Ji) | N/A |
+| 13 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 14 | [श्री हरि विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
+| 15 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 16 | [Mr India](http://twitter.com/search?q=Mr+India) | N/A |
+| 17 | [अनुपम खेर](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%aa%e0%a4%ae+%e0%a4%96%e0%a5%87%e0%a4%b0) | N/A |
+| 18 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 19 | [Anthony Albanese](http://twitter.com/search?q=Anthony+Albanese) | N/A |
+| 20 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 23 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
+| 24 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
+| 25 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 28 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 29 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 30 | [#NarendraModiStadium](http://twitter.com/search?q=%23NarendraModiStadium) | N/A |
+| 31 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
+| 32 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 33 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 34 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 35 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 36 | [#AnupamKher](http://twitter.com/search?q=%23AnupamKher) | N/A |
+| 37 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 38 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 39 | [#AhmedabadTest](http://twitter.com/search?q=%23AhmedabadTest) | N/A |
+| 40 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 41 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
+| 42 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 43 | [#BHARATMATRIMONY](http://twitter.com/search?q=%23BHARATMATRIMONY) | N/A |
+| 44 | [#SUGADAY](http://twitter.com/search?q=%23SUGADAY) | N/A |
+| 45 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

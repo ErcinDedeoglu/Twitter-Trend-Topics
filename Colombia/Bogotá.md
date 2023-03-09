@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-09 03:23:24 UTC`
+📆 Last Updated: `2023-03-09 04:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,50 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 2 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
-| 3 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 4 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 5 | [#ESPNF90Colombia](http://twitter.com/search?q=%23ESPNF90Colombia) | N/A |
-| 6 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 7 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 8 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 9 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 10 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 1 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 2 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 3 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 4 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 5 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 6 | [#ESPNF90Colombia](http://twitter.com/search?q=%23ESPNF90Colombia) | N/A |
+| 7 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 8 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 9 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 10 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 11 | [Millos](http://twitter.com/search?q=Millos) | N/A |
 | 12 | [De La Rosa](http://twitter.com/search?q=De+La+Rosa) | N/A |
-| 13 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 14 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 15 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 18 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 19 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 20 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 21 | [En Brasil](http://twitter.com/search?q=En+Brasil) | N/A |
-| 22 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 23 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 24 | [Larry](http://twitter.com/search?q=Larry) | N/A |
-| 25 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 26 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
-| 27 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 28 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 29 | [Botero](http://twitter.com/search?q=Botero) | N/A |
-| 30 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 31 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 32 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 33 | [#DiaInternacionalDeLasMujeres](http://twitter.com/search?q=%23DiaInternacionalDeLasMujeres) | N/A |
-| 34 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 35 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 46 | [#DiaDeLasMujeres](http://twitter.com/search?q=%23DiaDeLasMujeres) | N/A |
-| 47 | [#OrgulloDeMujerColombiana](http://twitter.com/search?q=%23OrgulloDeMujerColombiana) | N/A |
+| 13 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 14 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 15 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 16 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
+| 17 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 18 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 19 | [En Brasil](http://twitter.com/search?q=En+Brasil) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 22 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
+| 23 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 24 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 25 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
+| 26 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 27 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 28 | [Botero](http://twitter.com/search?q=Botero) | N/A |
+| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 30 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 31 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 32 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 33 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 34 | [#DiaInternacionalDeLasMujeres](http://twitter.com/search?q=%23DiaInternacionalDeLasMujeres) | N/A |
+| 35 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 36 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 37 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [#LaDescarga](http://twitter.com/search?q=%23LaDescarga) | N/A |
+| 40 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 41 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 44 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-09 03:24:09 UTC`
+📆 Last Updated: `2023-03-09 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for Oman
 | 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 8 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 9 | [عائشة](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9) | N/A |
-| 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 11 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 12 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 9 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 10 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 11 | [عائشة](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9) | N/A |
+| 12 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 13 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 14 | [الابتزاز الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%b2%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 15 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 16 | [الشاعره العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 15 | [الشاعره العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 16 | [بدر بن سعود بن حارب البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
 | 17 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 18 | [بدر بن سعود بن حارب البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
-| 19 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 20 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
-| 21 | [الاسبوع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 22 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 23 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 24 | [حمد العزاني](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
-| 25 | [الاسعاف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 26 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 27 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 28 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 29 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 30 | [علي المواطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
-| 31 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 32 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 33 | [المستهلك الصغير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%87%d9%84%d9%83+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1) | N/A |
-| 34 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 35 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 36 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 37 | [الرقابه الابويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 38 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 39 | [٨ مارس](http://twitter.com/search?q=%d9%a8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 40 | [الطالبات الموهوبات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%88%d8%a8%d8%a7%d8%aa) | N/A |
-| 41 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 43 | [الغاز الطبيعي المسال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84) | N/A |
-| 44 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 45 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 46 | [الحالات الطاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 47 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 48 | [نادي النهضه](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%b6%d9%87) | N/A |
-| 49 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 18 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
+| 19 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
+| 20 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 21 | [حمد العزاني](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [الاسعاف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 23 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 24 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 25 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 26 | [والي الامام](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
+| 27 | [علي المواطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
+| 28 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 29 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 30 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 31 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 32 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 33 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 34 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 35 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 36 | [٨ مارس](http://twitter.com/search?q=%d9%a8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 37 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 38 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 39 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 40 | [الغاز الطبيعي المسال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84) | N/A |
+| 41 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 42 | [الاسبوع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 43 | [الحالات الطاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 44 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 45 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 46 | [نادي النهضه](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%b6%d9%87) | N/A |
+| 47 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 48 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 49 | [الانذار المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
 | 50 | [المهارات الموسيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%8a%d9%82%d9%8a%d9%87) | N/A |
 
 

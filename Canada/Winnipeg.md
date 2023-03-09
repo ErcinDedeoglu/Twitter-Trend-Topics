@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-09 03:23:16 UTC`
+📆 Last Updated: `2023-03-09 04:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 4 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 5 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 6 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 7 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 8 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 9 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 10 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 11 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 12 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 13 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 14 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 15 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 18 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 21 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 28 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 29 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 31 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
-| 32 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 33 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 34 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 35 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 36 | [#MGTOW](http://twitter.com/search?q=%23MGTOW) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 10 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 11 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 12 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 13 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 14 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 15 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 16 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 17 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 20 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 21 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 22 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 25 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 26 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 27 | [Amal](http://twitter.com/search?q=Amal) | N/A |
+| 28 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 29 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
+| 30 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 31 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 32 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 33 | [Kaprizov](http://twitter.com/search?q=Kaprizov) | N/A |
+| 34 | [bonne journée](http://twitter.com/search?q=bonne+journ%c3%a9e) | N/A |
+| 35 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 36 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 37 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 38 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 39 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 40 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 41 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 42 | [Winnipeg](http://twitter.com/search?q=Winnipeg) | N/A |
+| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 44 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
+| 45 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 46 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 47 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
+| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 
 
 

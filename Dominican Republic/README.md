@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-09 03:24:06 UTC`
+📆 Last Updated: `2023-03-09 04:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Dominican Republic
 | 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 4 | [#AumentoSalarial](http://twitter.com/search?q=%23AumentoSalarial) | N/A |
 | 5 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 6 | [#corripioresponde](http://twitter.com/search?q=%23corripioresponde) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 8 | [#opinasin](http://twitter.com/search?q=%23opinasin) | N/A |
 | 9 | [Comité Nacional de Salarios](http://twitter.com/search?q=Comit%c3%a9+Nacional+de+Salarios) | N/A |
 | 10 | [Bravos de Atlanta](http://twitter.com/search?q=Bravos+de+Atlanta) | N/A |
 | 11 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
-| 12 | [Robinson Canó](http://twitter.com/search?q=Robinson+Can%c3%b3) | N/A |
+| 12 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 | 13 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 14 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 15 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Luis Ortiz](http://twitter.com/search?q=Luis+Ortiz) | N/A |
+| 16 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 18 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
-| 19 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 20 | [Onfalia Morillo](http://twitter.com/search?q=Onfalia+Morillo) | N/A |
-| 21 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
-| 22 | [wellington cepeda](http://twitter.com/search?q=wellington+cepeda) | N/A |
-| 23 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 24 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 25 | [Rodney Linares](http://twitter.com/search?q=Rodney+Linares) | N/A |
-| 26 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 27 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
-| 28 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 29 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 19 | [Onfalia Morillo](http://twitter.com/search?q=Onfalia+Morillo) | N/A |
+| 20 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 21 | [wellington cepeda](http://twitter.com/search?q=wellington+cepeda) | N/A |
+| 22 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
+| 23 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
+| 24 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 26 | [Rodney Linares](http://twitter.com/search?q=Rodney+Linares) | N/A |
+| 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 28 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 29 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 30 | [Los Naranjos](http://twitter.com/search?q=Los+Naranjos) | N/A |
-| 31 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
-| 32 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 33 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 34 | [dicent](http://twitter.com/search?q=dicent) | N/A |
-| 35 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 36 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
-| 37 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 38 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 31 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 32 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
+| 33 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
+| 34 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 35 | [dicent](http://twitter.com/search?q=dicent) | N/A |
+| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 38 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 40 | [Organización](http://twitter.com/search?q=Organizaci%c3%b3n) | N/A |
-| 41 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
-| 42 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 43 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 44 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 45 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 46 | [alba jiménez](http://twitter.com/search?q=alba+jim%c3%a9nez) | N/A |
+| 41 | [Napo](http://twitter.com/search?q=Napo) | N/A |
+| 42 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
+| 43 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 44 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 45 | [alba jiménez](http://twitter.com/search?q=alba+jim%c3%a9nez) | N/A |
+| 46 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
 | 47 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 48 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 49 | [La B](http://twitter.com/search?q=La+B) | N/A |
-| 50 | [Lotería](http://twitter.com/search?q=Loter%c3%ada) | N/A |
+| 49 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 50 | [La B](http://twitter.com/search?q=La+B) | N/A |
 
 
 

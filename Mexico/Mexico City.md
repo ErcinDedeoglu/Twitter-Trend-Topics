@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-09 03:23:21 UTC`
+📆 Last Updated: `2023-03-09 04:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
-| 2 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 1 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 4 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
 | 5 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 6 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 7 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 6 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 7 | [#VentajaColosal](http://twitter.com/search?q=%23VentajaColosal) | N/A |
 | 8 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 9 | [#FueraMora](http://twitter.com/search?q=%23FueraMora) | N/A |
-| 10 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 11 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 12 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 13 | [#Edomex](http://twitter.com/search?q=%23Edomex) | N/A |
-| 14 | [Benjamin Mora](http://twitter.com/search?q=Benjamin+Mora) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [GUERRERO MEDALLISTA](http://twitter.com/search?q=GUERRERO+MEDALLISTA) | N/A |
-| 17 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 18 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 19 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 20 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 21 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 22 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 24 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
+| 9 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 10 | [#FueraMora](http://twitter.com/search?q=%23FueraMora) | N/A |
+| 11 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 12 | [Benjamin Mora](http://twitter.com/search?q=Benjamin+Mora) | N/A |
+| 13 | [GUERRERO MEDALLISTA](http://twitter.com/search?q=GUERRERO+MEDALLISTA) | N/A |
+| 14 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 15 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
+| 18 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 19 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
+| 20 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 21 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 22 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 23 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 24 | [Bicampeón](http://twitter.com/search?q=Bicampe%c3%b3n) | N/A |
 | 25 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 26 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 29 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 26 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 27 | [San Pedro Sula](http://twitter.com/search?q=San+Pedro+Sula) | N/A |
+| 28 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 31 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 32 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
-| 33 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
-| 34 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 35 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 36 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 37 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 38 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
-| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 40 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 35 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 36 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 37 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
+| 38 | [Ministra Piña](http://twitter.com/search?q=Ministra+Pi%c3%b1a) | N/A |
+| 39 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 40 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
 | 41 | [Salgado Macedonio](http://twitter.com/search?q=Salgado+Macedonio) | N/A |
-| 42 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 43 | [Glorieta](http://twitter.com/search?q=Glorieta) | N/A |
-| 44 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
-| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 46 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 47 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 48 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 49 | [Paseo de la Reforma](http://twitter.com/search?q=Paseo+de+la+Reforma) | N/A |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 44 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 47 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 48 | [Paseo de la Reforma](http://twitter.com/search?q=Paseo+de+la+Reforma) | N/A |
+| 49 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
 | 50 | [Igualdad](http://twitter.com/search?q=Igualdad) | N/A |
 
 
