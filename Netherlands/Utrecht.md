@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-09 22:16:56 UTC`
+📆 Last Updated: `2023-03-09 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 4 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
-| 5 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 6 | [BPOC](http://twitter.com/search?q=BPOC) | N/A |
-| 7 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
-| 8 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 9 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 10 | [Wilfred Genee](http://twitter.com/search?q=Wilfred+Genee) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 13 | [ASML](http://twitter.com/search?q=ASML) | N/A |
-| 14 | [Miljoen Nederlanders](http://twitter.com/search?q=Miljoen+Nederlanders) | N/A |
-| 15 | [Svenja](http://twitter.com/search?q=Svenja) | N/A |
-| 16 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 17 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
-| 20 | [Dijsselbloem](http://twitter.com/search?q=Dijsselbloem) | N/A |
-| 21 | [Alliander](http://twitter.com/search?q=Alliander) | N/A |
-| 22 | [Berlijn](http://twitter.com/search?q=Berlijn) | N/A |
-| 23 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 24 | [kapje](http://twitter.com/search?q=kapje) | N/A |
-| 25 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
-| 26 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
-| 27 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 28 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 29 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 30 | [Van der Burg](http://twitter.com/search?q=Van+der+Burg) | N/A |
-| 31 | [Olav Kooij](http://twitter.com/search?q=Olav+Kooij) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 33 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 34 | [Tweehonderd Duitse](http://twitter.com/search?q=Tweehonderd+Duitse) | N/A |
-| 35 | [Kontje](http://twitter.com/search?q=Kontje) | N/A |
-| 36 | [Rabo](http://twitter.com/search?q=Rabo) | N/A |
-| 37 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Cordoba](http://twitter.com/search?q=Cordoba) | N/A |
-| 40 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 41 | [Willem Engel](http://twitter.com/search?q=Willem+Engel) | N/A |
-| 42 | [Crimineel](http://twitter.com/search?q=Crimineel) | N/A |
-| 43 | [Erwtensoep](http://twitter.com/search?q=Erwtensoep) | N/A |
-| 44 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 45 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 46 | [oever](http://twitter.com/search?q=oever) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
+| 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 4 | [#hlf8](http://twitter.com/search?q=%23hlf8) | N/A |
+| 5 | [BPOC](http://twitter.com/search?q=BPOC) | N/A |
+| 6 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
+| 7 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 8 | [wilfred genee](http://twitter.com/search?q=wilfred+genee) | N/A |
+| 9 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 10 | [ASML](http://twitter.com/search?q=ASML) | N/A |
+| 11 | [miljoen nederlanders](http://twitter.com/search?q=miljoen+nederlanders) | N/A |
+| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 13 | [Hugo de Jonge](http://twitter.com/search?q=Hugo+de+Jonge) | N/A |
+| 14 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
+| 15 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Dijsselbloem](http://twitter.com/search?q=Dijsselbloem) | N/A |
+| 18 | [alliander](http://twitter.com/search?q=alliander) | N/A |
+| 19 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 20 | [kapje](http://twitter.com/search?q=kapje) | N/A |
+| 21 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
+| 22 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 23 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
+| 24 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 25 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 26 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 27 | [Van der Burg](http://twitter.com/search?q=Van+der+Burg) | N/A |
+| 28 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
+| 29 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 30 | [richelle](http://twitter.com/search?q=richelle) | N/A |
+| 31 | [Tweehonderd Duitse](http://twitter.com/search?q=Tweehonderd+Duitse) | N/A |
+| 32 | [kontje](http://twitter.com/search?q=kontje) | N/A |
+| 33 | [rabo](http://twitter.com/search?q=rabo) | N/A |
+| 34 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Cordoba](http://twitter.com/search?q=Cordoba) | N/A |
+| 37 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 38 | [Willem Engel](http://twitter.com/search?q=Willem+Engel) | N/A |
+| 39 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 40 | [erwtensoep](http://twitter.com/search?q=erwtensoep) | N/A |
+| 41 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 42 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
+| 43 | [oever](http://twitter.com/search?q=oever) | N/A |
+| 44 | [Zuidas](http://twitter.com/search?q=Zuidas) | N/A |
+| 45 | [nettert](http://twitter.com/search?q=nettert) | N/A |
+| 46 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 47 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 48 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 49 | [Nettert](http://twitter.com/search?q=Nettert) | N/A |
+| 48 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 49 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
 
 
 

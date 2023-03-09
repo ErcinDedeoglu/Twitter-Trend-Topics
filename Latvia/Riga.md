@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-09 22:16:58 UTC`
+📆 Last Updated: `2023-03-09 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,12 +23,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 6 | [kancītis](http://twitter.com/search?q=kanc%c4%abtis) | N/A |
 | 7 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 8 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 9 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
+| 9 | [stambulas](http://twitter.com/search?q=stambulas) | N/A |
 | 10 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 11 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 12 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 13 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
-| 14 | [Gruzijas](http://twitter.com/search?q=Gruzijas) | N/A |
+| 14 | [gruzijas](http://twitter.com/search?q=gruzijas) | N/A |
 | 15 | [talsos](http://twitter.com/search?q=talsos) | N/A |
 | 16 | [America](http://twitter.com/search?q=America) | N/A |
 | 17 | [starptautiskajā](http://twitter.com/search?q=starptautiskaj%c4%81) | N/A |
@@ -39,10 +39,10 @@ This is top 50 for [Latvia](</Latvia>)
 | 22 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
 | 23 | [talsu](http://twitter.com/search?q=talsu) | N/A |
 | 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 25 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 25 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 26 | [daugavpili](http://twitter.com/search?q=daugavpili) | N/A |
 | 27 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 28 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 28 | [polijas](http://twitter.com/search?q=polijas) | N/A |
 | 29 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
 | 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 31 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for [Latvia](</Latvia>)
 | 34 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 35 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 36 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 37 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 38 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 39 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
-| 42 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 43 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 44 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
-| 45 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 46 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 47 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
-| 48 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 37 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 38 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 39 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 40 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
+| 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 44 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 45 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
+| 46 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 47 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 48 | [ссср](http://twitter.com/search?q=%d1%81%d1%81%d1%81%d1%80) | N/A |
 | 49 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
 
 

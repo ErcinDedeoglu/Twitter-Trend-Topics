@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-09 22:16:49 UTC`
+📆 Last Updated: `2023-03-09 23:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
-| 2 | [DOMITILA MERECE UM CARRO](http://twitter.com/search?q=DOMITILA+MERECE+UM+CARRO) | N/A |
-| 3 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 4 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 5 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 6 | [#SorteioLohPromos](http://twitter.com/search?q=%23SorteioLohPromos) | N/A |
-| 7 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 9 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 10 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 11 | [GUIME MERECE RESPEITO](http://twitter.com/search?q=GUIME+MERECE+RESPEITO) | N/A |
-| 12 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 13 | [#TheRoadToAbidjan](http://twitter.com/search?q=%23TheRoadToAbidjan) | N/A |
-| 14 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
-| 15 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 16 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
-| 17 | [Arthur Sales](http://twitter.com/search?q=Arthur+Sales) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [Bundão Nobre](http://twitter.com/search?q=Bund%c3%a3o+Nobre) | N/A |
-| 20 | [MAITE PERRONI](http://twitter.com/search?q=MAITE+PERRONI) | N/A |
-| 21 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
-| 22 | [Fabuloso](http://twitter.com/search?q=Fabuloso) | N/A |
-| 23 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 24 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
-| 25 | [Luis Fabiano](http://twitter.com/search?q=Luis+Fabiano) | N/A |
-| 26 | [FON NO SCCP](http://twitter.com/search?q=FON+NO+SCCP) | N/A |
-| 27 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 28 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 29 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 30 | [Sasha Velour](http://twitter.com/search?q=Sasha+Velour) | N/A |
-| 31 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 32 | [Jandaia](http://twitter.com/search?q=Jandaia) | N/A |
-| 33 | [Casteel](http://twitter.com/search?q=Casteel) | N/A |
-| 34 | [Anna Wintour](http://twitter.com/search?q=Anna+Wintour) | N/A |
-| 35 | [Dudu Nobre](http://twitter.com/search?q=Dudu+Nobre) | N/A |
-| 36 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
-| 37 | [Marrone](http://twitter.com/search?q=Marrone) | N/A |
-| 38 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 39 | [BOLSONARO LADRÃO](http://twitter.com/search?q=BOLSONARO+LADR%c3%83O) | N/A |
-| 40 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 41 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 43 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 44 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
-| 45 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 46 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 47 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 48 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 49 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 50 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 3 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 4 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 5 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 6 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 7 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 8 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 9 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 10 | [gabigol](http://twitter.com/search?q=gabigol) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 13 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
+| 14 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 15 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 16 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 17 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 19 | [#diainternacionaldamulher](http://twitter.com/search?q=%23diainternacionaldamulher) | N/A |
+| 20 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 21 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
+| 22 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 23 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 24 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 25 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
+| 28 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 29 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 30 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 31 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 32 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 33 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 34 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 35 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
+| 36 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 37 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 38 | [o psg](http://twitter.com/search?q=o+psg) | N/A |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 41 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 42 | [jemerson](http://twitter.com/search?q=jemerson) | N/A |
+| 43 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 44 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 45 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
+| 46 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 47 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 48 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 49 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
+| 50 | [maiara e maraisa em alto mar](http://twitter.com/search?q=maiara+e+maraisa+em+alto+mar) | N/A |
 
 
 

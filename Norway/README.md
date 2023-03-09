@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-09 22:17:30 UTC`
+📆 Last Updated: `2023-03-09 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,36 +32,36 @@ This is top 50 for Norway
 | 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 17 | [god 8](http://twitter.com/search?q=god+8) | N/A |
-| 18 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
+| 18 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 | 19 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 20 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
+| 20 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
 | 21 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 22 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
 | 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 24 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 25 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
+| 25 | [hamar](http://twitter.com/search?q=hamar) | N/A |
 | 26 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
 | 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 29 | [Tengstedt](http://twitter.com/search?q=Tengstedt) | N/A |
+| 29 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
 | 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 32 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
 | 33 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
 | 34 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 36 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
 | 37 | [schjelderup](http://twitter.com/search?q=schjelderup) | N/A |
 | 38 | [Deilig](http://twitter.com/search?q=Deilig) | N/A |
 | 39 | [trur](http://twitter.com/search?q=trur) | N/A |
 | 40 | [Epic](http://twitter.com/search?q=Epic) | N/A |
 | 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 43 | [Virker](http://twitter.com/search?q=Virker) | N/A |
+| 43 | [virker](http://twitter.com/search?q=virker) | N/A |
 | 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 45 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 47 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 47 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
 | 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 49 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 50 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |

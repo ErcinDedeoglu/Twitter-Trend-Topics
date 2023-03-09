@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-09 22:17:17 UTC`
+📆 Last Updated: `2023-03-09 23:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 2 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 3 | [Muharremİnce SeçimŞarkısı](http://twitter.com/search?q=Muharrem%c4%b0nce+Se%c3%a7im%c5%9eark%c4%b1s%c4%b1) | N/A |
-| 4 | [#BirleşeBirleşeBaşaracağız](http://twitter.com/search?q=%23Birle%c5%9feBirle%c5%9feBa%c5%9faraca%c4%9f%c4%b1z) | N/A |
-| 5 | [#bakanlıkuyumaikmyesahipçik](http://twitter.com/search?q=%23bakanl%c4%b1kuyumaikmyesahip%c3%a7ik) | N/A |
-| 6 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
-| 7 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
-| 8 | [#TekGündemDeprem](http://twitter.com/search?q=%23TekG%c3%bcndemDeprem) | N/A |
-| 9 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 10 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 11 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
-| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 13 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 14 | [Temettü](http://twitter.com/search?q=Temett%c3%bc) | N/A |
-| 15 | [Zeki Yavru](http://twitter.com/search?q=Zeki+Yavru) | N/A |
-| 16 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 17 | [Sahte](http://twitter.com/search?q=Sahte) | N/A |
-| 18 | [İrfan Can](http://twitter.com/search?q=%c4%b0rfan+Can) | İrfan Can is a Turkish given name. It is composed of two words: İrfan, which means "knowledge" or "erudition," and Can, which means "soul" or "spirit." In English, the name could be translated as "Knowledgeable Soul." |
-| 19 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 22 | [İlk 11](http://twitter.com/search?q=%c4%b0lk+11) | N/A |
-| 23 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
-| 24 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
-| 25 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
-| 26 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 27 | [Cezaevinden SesKaydı](http://twitter.com/search?q=Cezaevinden+SesKayd%c4%b1) | N/A |
-| 28 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
-| 29 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 30 | [Haymana](http://twitter.com/search?q=Haymana) | N/A |
-| 31 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 32 | [Acil Yardım](http://twitter.com/search?q=Acil+Yard%c4%b1m) | N/A |
-| 33 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 34 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 35 | [SnYanık1000Dyt](http://twitter.com/search?q=SnYan%c4%b1k1000Dyt) | N/A |
-| 36 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
-| 37 | [Haydi Fenerbahçe](http://twitter.com/search?q=Haydi+Fenerbah%c3%a7e) | N/A |
-| 38 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 39 | [Oyak](http://twitter.com/search?q=Oyak) | N/A |
-| 40 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 41 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
-| 42 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
-| 43 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
-| 44 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
-| 45 | [Mühürsüz](http://twitter.com/search?q=M%c3%bch%c3%bcrs%c3%bcz) | N/A |
-| 46 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 47 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 48 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
-| 49 | [Yaprak](http://twitter.com/search?q=Yaprak) | N/A |
-| 50 | [Yoldaş](http://twitter.com/search?q=Yolda%c5%9f) | N/A |
+| 1 | [Sahte](http://twitter.com/search?q=Sahte) | N/A |
+| 2 | [#Kraliçe](http://twitter.com/search?q=%23Krali%c3%a7e) | N/A |
+| 3 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 4 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
+| 5 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
+| 6 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 7 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
+| 8 | [Muharremİnce SeçimŞarkısı](http://twitter.com/search?q=Muharrem%c4%b0nce+Se%c3%a7im%c5%9eark%c4%b1s%c4%b1) | N/A |
+| 9 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 10 | [uygunfiyatda tthizmeti](http://twitter.com/search?q=uygunfiyatda+tthizmeti) | N/A |
+| 11 | [arkandayız martı](http://twitter.com/search?q=arkanday%c4%b1z+mart%c4%b1) | N/A |
+| 12 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
+| 13 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 14 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 15 | [Sevilla - Fenerbahçe](http://twitter.com/search?q=Sevilla+-+Fenerbah%c3%a7e) | N/A |
+| 16 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 17 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 18 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
+| 19 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 20 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 21 | [İsmet Demirdöğen](http://twitter.com/search?q=%c4%b0smet+Demird%c3%b6%c4%9fen) | N/A |
+| 22 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
+| 23 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 24 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
+| 25 | [Haymana Mutabakatı](http://twitter.com/search?q=Haymana+Mutabakat%c4%b1) | N/A |
+| 26 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 27 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 28 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
+| 29 | [Temettü](http://twitter.com/search?q=Temett%c3%bc) | N/A |
+| 30 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 31 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 32 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 33 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
+| 34 | [Dolar 15](http://twitter.com/search?q=Dolar+15) | N/A |
+| 35 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
+| 36 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
+| 37 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 38 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
+| 39 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 40 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
+| 41 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 42 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
+| 43 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
+| 44 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
+| 45 | [SnYanık1000Dyt](http://twitter.com/search?q=SnYan%c4%b1k1000Dyt) | N/A |
+| 46 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 47 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 49 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
+| 50 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 
 
 

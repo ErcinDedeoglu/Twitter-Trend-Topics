@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-09 22:16:41 UTC`
+📆 Last Updated: `2023-03-09 23:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 2 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 3 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 4 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 6 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 7 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
-| 8 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 9 | [#NextLeaderOfScotland](http://twitter.com/search?q=%23NextLeaderOfScotland) | N/A |
-| 10 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 11 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 12 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
-| 13 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 14 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 15 | [Joaquin](http://twitter.com/search?q=Joaquin) | N/A |
-| 16 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 17 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
-| 18 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 19 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 20 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
-| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 22 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 23 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 24 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
-| 25 | [Old Oak Common](http://twitter.com/search?q=Old+Oak+Common) | N/A |
-| 26 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
-| 27 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 28 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
-| 29 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 30 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 31 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 32 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
-| 33 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 34 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 35 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 36 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 37 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 38 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 40 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 41 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 42 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 43 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 44 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 45 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 48 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 4 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 9 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 10 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 13 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 15 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 17 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 18 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 19 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 20 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 21 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 22 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 23 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 24 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 28 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 33 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 34 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 35 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 36 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 37 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 38 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 39 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 40 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 41 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 42 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 43 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 44 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 45 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 47 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 48 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
+| 49 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 50 | [Albania](http://twitter.com/search?q=Albania) | N/A |
 
 
 
