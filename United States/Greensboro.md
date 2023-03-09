@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-09 06:17:09 UTC`
+📆 Last Updated: `2023-03-09 07:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 2 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 3 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 4 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 2 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
+| 3 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 4 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
 | 5 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 8 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 11 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 12 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 13 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 15 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 17 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 21 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 24 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
-| 25 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 26 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 27 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 28 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 29 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 30 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 11 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 12 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 13 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 16 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 17 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 19 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 20 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 21 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 22 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 23 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
+| 24 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 26 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 27 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 28 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 29 | [The Aussies](http://twitter.com/search?q=The+Aussies) | N/A |
+| 30 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 31 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
 | 32 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 33 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 34 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 36 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 37 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
-| 38 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 39 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 40 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 41 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 42 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 43 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 44 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 45 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 46 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 47 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 48 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 49 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 33 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 35 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 36 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 37 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 38 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 39 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 40 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 42 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 43 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 44 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 45 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 46 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 47 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 48 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 49 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
 
 
 

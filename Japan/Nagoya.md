@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-09 06:16:49 UTC`
+📆 Last Updated: `2023-03-09 07:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [#おおまえチャン](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8a%e3%81%be%e3%81%88%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
 | 2 | [合格発表](http://twitter.com/search?q=%e5%90%88%e6%a0%bc%e7%99%ba%e8%a1%a8) | N/A |
 | 3 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 4 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
-| 5 | [ダイイチルビー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a4%e3%83%81%e3%83%ab%e3%83%93%e3%83%bc) | N/A |
-| 6 | [国内線航空券タイムセールの販売中止](http://twitter.com/search?q=%e5%9b%bd%e5%86%85%e7%b7%9a%e8%88%aa%e7%a9%ba%e5%88%b8%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%ae%e8%b2%a9%e5%a3%b2%e4%b8%ad%e6%ad%a2) | N/A |
-| 7 | [JAL企業](http://twitter.com/search?q=JAL%e4%bc%81%e6%a5%ad) | N/A |
-| 8 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 9 | [JALスマイルキャンペーン](http://twitter.com/search?q=JAL%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
-| 10 | [せつ菜の謎解き成功](http://twitter.com/search?q=%e3%81%9b%e3%81%a4%e8%8f%9c%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 11 | [焔聖騎士](http://twitter.com/search?q=%e7%84%94%e8%81%96%e9%a8%8e%e5%a3%ab) | N/A |
-| 12 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 13 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
-| 14 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
-| 15 | [プレスリリース](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b9%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9) | N/A |
-| 16 | [ジブリパーク](http://twitter.com/search?q=%e3%82%b8%e3%83%96%e3%83%aa%e3%83%91%e3%83%bc%e3%82%af) | N/A |
-| 17 | [#裏グミの日](http://twitter.com/search?q=%23%e8%a3%8f%e3%82%b0%e3%83%9f%e3%81%ae%e6%97%a5) | N/A |
-| 18 | [体操服ユウカ](http://twitter.com/search?q=%e4%bd%93%e6%93%8d%e6%9c%8d%e3%83%a6%e3%82%a6%e3%82%ab) | N/A |
-| 19 | [ドジェジョン](http://twitter.com/search?q=%e3%83%89%e3%82%b8%e3%82%a7%e3%82%b8%e3%83%a7%e3%83%b3) | N/A |
-| 20 | [#まシャカのうまシャカシャカシャカポテト](http://twitter.com/search?q=%23%e3%81%be%e3%82%b7%e3%83%a3%e3%82%ab%e3%81%ae%e3%81%86%e3%81%be%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%9d%e3%83%86%e3%83%88) | N/A |
-| 21 | [冨樫先生](http://twitter.com/search?q=%e5%86%a8%e6%a8%ab%e5%85%88%e7%94%9f) | 冨樫先生 is the pen name of Japanese author, Ryōtarō Shiba. His works are known for their historical accuracy and attention to detail. In English, his name translates to "Mr. Tomokashi". |
-| 22 | [声優無法地帯](http://twitter.com/search?q=%e5%a3%b0%e5%84%aa%e7%84%a1%e6%b3%95%e5%9c%b0%e5%b8%af) | N/A |
-| 23 | [#ザクの日](http://twitter.com/search?q=%23%e3%82%b6%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 24 | [スーパー葛葉デビル](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e8%91%9b%e8%91%89%e3%83%87%e3%83%93%e3%83%ab) | N/A |
-| 25 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 26 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
-| 27 | [プロファー](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
-| 28 | [メタルス](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%b9) | N/A |
-| 29 | [イボンコペッタンコ](http://twitter.com/search?q=%e3%82%a4%e3%83%9c%e3%83%b3%e3%82%b3%e3%83%9a%e3%83%83%e3%82%bf%e3%83%b3%e3%82%b3) | N/A |
-| 30 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 31 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
-| 32 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 33 | [レズビアン](http://twitter.com/search?q=%e3%83%ac%e3%82%ba%e3%83%93%e3%82%a2%e3%83%b3) | N/A |
-| 34 | [エーアイ](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%a2%e3%82%a4) | N/A |
-| 35 | [昭和生まれ](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e7%94%9f%e3%81%be%e3%82%8c) | N/A |
-| 36 | [リターンズ](http://twitter.com/search?q=%e3%83%aa%e3%82%bf%e3%83%bc%e3%83%b3%e3%82%ba) | N/A |
-| 37 | [シロコテラー](http://twitter.com/search?q=%e3%82%b7%e3%83%ad%e3%82%b3%e3%83%86%e3%83%a9%e3%83%bc) | N/A |
-| 38 | [まじろー](http://twitter.com/search?q=%e3%81%be%e3%81%98%e3%82%8d%e3%83%bc) | N/A |
-| 39 | [シャルル](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%ab) | N/A |
-| 40 | [ベビーカー禁止](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%bc%e3%82%ab%e3%83%bc%e7%a6%81%e6%ad%a2) | N/A |
-| 41 | [プレナパテス](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%8a%e3%83%91%e3%83%86%e3%82%b9) | N/A |
-| 42 | [Ayaseさん](http://twitter.com/search?q=Ayase%e3%81%95%e3%82%93) | N/A |
-| 43 | [ミエちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [斗真くん](http://twitter.com/search?q=%e6%96%97%e7%9c%9f%e3%81%8f%e3%82%93) | N/A |
-| 45 | [Zepp新宿](http://twitter.com/search?q=Zepp%e6%96%b0%e5%ae%bf) | N/A |
-| 46 | [リンク1](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%82%af1) | N/A |
-| 47 | [韓国逆転](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e9%80%86%e8%bb%a2) | N/A |
-| 48 | [バザール](http://twitter.com/search?q=%e3%83%90%e3%82%b6%e3%83%bc%e3%83%ab) | N/A |
-| 49 | [ヨッシーアイランド](http://twitter.com/search?q=%e3%83%a8%e3%83%83%e3%82%b7%e3%83%bc%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 50 | [グッズの名前](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
+| 4 | [#SHOWたいむ](http://twitter.com/search?q=%23SHOW%e3%81%9f%e3%81%84%e3%82%80) | N/A |
+| 5 | [国内線航空券タイムセールの販売中止](http://twitter.com/search?q=%e5%9b%bd%e5%86%85%e7%b7%9a%e8%88%aa%e7%a9%ba%e5%88%b8%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%ae%e8%b2%a9%e5%a3%b2%e4%b8%ad%e6%ad%a2) | N/A |
+| 6 | [JALスマイルキャンペーン](http://twitter.com/search?q=JAL%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
+| 7 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
+| 8 | [エドマン](http://twitter.com/search?q=%e3%82%a8%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 9 | [盗塁失敗](http://twitter.com/search?q=%e7%9b%97%e5%a1%81%e5%a4%b1%e6%95%97) | N/A |
+| 10 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
+| 11 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 12 | [ダイイチルビー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a4%e3%83%81%e3%83%ab%e3%83%93%e3%83%bc) | N/A |
+| 13 | [せつ菜の謎解き成功](http://twitter.com/search?q=%e3%81%9b%e3%81%a4%e8%8f%9c%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 14 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 15 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [ミエセス](http://twitter.com/search?q=%e3%83%9f%e3%82%a8%e3%82%bb%e3%82%b9) | N/A |
+| 17 | [プレスリリース](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b9%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9) | N/A |
+| 18 | [宝塚歌劇公式ホームページ](http://twitter.com/search?q=%e5%ae%9d%e5%a1%9a%e6%ad%8c%e5%8a%87%e5%85%ac%e5%bc%8f%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8) | 宝塚歌劇公式ホームページ is the official website of Takarazuka Revue, a Japanese all-female musical theater troupe. The website provides information about the troupe's performances, cast members, and other related news. In English, it translates to "Takarazuka Revue Official Homepage". |
+| 19 | [冨樫先生](http://twitter.com/search?q=%e5%86%a8%e6%a8%ab%e5%85%88%e7%94%9f) | 冨樫先生 is the pen name of Japanese author, Ryōtarō Shiba. His works are known for their historical accuracy and attention to detail. In English, his name translates to "Mr. Tomokashi". |
+| 20 | [ライオン2頭](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b32%e9%a0%ad) | N/A |
+| 21 | [焔聖騎士](http://twitter.com/search?q=%e7%84%94%e8%81%96%e9%a8%8e%e5%a3%ab) | N/A |
+| 22 | [接続障害](http://twitter.com/search?q=%e6%8e%a5%e7%b6%9a%e9%9a%9c%e5%ae%b3) | N/A |
+| 23 | [タッチアウト](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
+| 24 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
+| 25 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
+| 26 | [#まシャカのうまシャカシャカシャカポテト](http://twitter.com/search?q=%23%e3%81%be%e3%82%b7%e3%83%a3%e3%82%ab%e3%81%ae%e3%81%86%e3%81%be%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%9d%e3%83%86%e3%83%88) | N/A |
+| 27 | [ルーズベルトゲーム](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ba%e3%83%99%e3%83%ab%e3%83%88%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 28 | [韓国負け](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e8%b2%a0%e3%81%91) | N/A |
+| 29 | [ミエちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [体操服ユウカ](http://twitter.com/search?q=%e4%bd%93%e6%93%8d%e6%9c%8d%e3%83%a6%e3%82%a6%e3%82%ab) | N/A |
+| 31 | [ドジェジョン](http://twitter.com/search?q=%e3%83%89%e3%82%b8%e3%82%a7%e3%82%b8%e3%83%a7%e3%83%b3) | N/A |
+| 32 | [アクセス集中](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e9%9b%86%e4%b8%ad) | N/A |
+| 33 | [ジブリパーク](http://twitter.com/search?q=%e3%82%b8%e3%83%96%e3%83%aa%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 34 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
+| 35 | [声優無法地帯](http://twitter.com/search?q=%e5%a3%b0%e5%84%aa%e7%84%a1%e6%b3%95%e5%9c%b0%e5%b8%af) | N/A |
+| 36 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 37 | [イボンコペッタンコ](http://twitter.com/search?q=%e3%82%a4%e3%83%9c%e3%83%b3%e3%82%b3%e3%83%9a%e3%83%83%e3%82%bf%e3%83%b3%e3%82%b3) | N/A |
+| 38 | [プロファー](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
+| 39 | [和歌山・アドベンチャーワールド](http://twitter.com/search?q=%e5%92%8c%e6%ad%8c%e5%b1%b1%e3%83%bb%e3%82%a2%e3%83%89%e3%83%99%e3%83%b3%e3%83%81%e3%83%a3%e3%83%bc%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 40 | [まじろー](http://twitter.com/search?q=%e3%81%be%e3%81%98%e3%82%8d%e3%83%bc) | N/A |
+| 41 | [メタルス](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%b9) | N/A |
+| 42 | [スーパー葛葉デビル](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e8%91%9b%e8%91%89%e3%83%87%e3%83%93%e3%83%ab) | N/A |
+| 43 | [レズビアン](http://twitter.com/search?q=%e3%83%ac%e3%82%ba%e3%83%93%e3%82%a2%e3%83%b3) | N/A |
+| 44 | [オージー](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%bc) | N/A |
+| 45 | [うきちゃん](http://twitter.com/search?q=%e3%81%86%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
+| 47 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
+| 48 | [リターンズ](http://twitter.com/search?q=%e3%83%aa%e3%82%bf%e3%83%bc%e3%83%b3%e3%82%ba) | N/A |
+| 49 | [エーアイ](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%a2%e3%82%a4) | N/A |
+| 50 | [昭和生まれ](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e7%94%9f%e3%81%be%e3%82%8c) | N/A |
 
 
 

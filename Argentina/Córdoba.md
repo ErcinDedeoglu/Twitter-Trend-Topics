@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-09 06:16:37 UTC`
+📆 Last Updated: `2023-03-09 07:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 3 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
-| 4 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 5 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 6 | [#TengoHatersLlegue](http://twitter.com/search?q=%23TengoHatersLlegue) | N/A |
-| 7 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
-| 8 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 9 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 10 | [Ganó River](http://twitter.com/search?q=Gan%c3%b3+River) | N/A |
-| 11 | [#GranHermanoArgentina](http://twitter.com/search?q=%23GranHermanoArgentina) | N/A |
-| 12 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 13 | [Elias Gomez](http://twitter.com/search?q=Elias+Gomez) | N/A |
-| 14 | [#TeAmamosTalCualSosMarcos](http://twitter.com/search?q=%23TeAmamosTalCualSosMarcos) | N/A |
-| 15 | [Pirez](http://twitter.com/search?q=Pirez) | N/A |
-| 16 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 17 | [Fassi](http://twitter.com/search?q=Fassi) | N/A |
-| 18 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 19 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 20 | [TOMATELA](http://twitter.com/search?q=TOMATELA) | N/A |
-| 21 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 22 | [Centurión](http://twitter.com/search?q=Centuri%c3%b3n) | Centurión is a Spanish word meaning "centurion," which is a military rank in the Roman army. It was the highest rank in the infantry and was typically held by experienced officers who commanded a century (a unit of 100 soldiers). |
-| 23 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 24 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 25 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
-| 26 | [Gandolfi](http://twitter.com/search?q=Gandolfi) | N/A |
-| 27 | [Lacalle Pou](http://twitter.com/search?q=Lacalle+Pou) | Lacalle Pou is a political slogan used by Luis Alberto Lacalle, a former President of Uruguay. The phrase translates to "Lacalle Yes" in English, and it is used to express support for Lacalle's policies and leadership. |
-| 28 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
-| 29 | [Juli y Romi](http://twitter.com/search?q=Juli+y+Romi) | N/A |
-| 30 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
-| 31 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
-| 32 | [#RacingCba](http://twitter.com/search?q=%23RacingCba) | N/A |
-| 33 | [#RiverPlate](http://twitter.com/search?q=%23RiverPlate) | N/A |
+| 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 9 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 10 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 11 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 12 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 13 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 14 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 16 | [elias gomez](http://twitter.com/search?q=elias+gomez) | N/A |
+| 17 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 19 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
+| 20 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 21 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 22 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 23 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 24 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
+| 25 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 26 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 27 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 28 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 29 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 30 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 31 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
+| 32 | [González Pirez](http://twitter.com/search?q=Gonz%c3%a1lez+Pirez) | N/A |
+| 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 34 | [Chaco For Ever](http://twitter.com/search?q=Chaco+For+Ever) | N/A |
+| 35 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 36 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 37 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 38 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 39 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 40 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 41 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 42 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 43 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 44 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 45 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 48 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 49 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 50 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 
 
 

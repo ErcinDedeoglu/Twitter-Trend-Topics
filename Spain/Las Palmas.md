@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-09 06:16:43 UTC`
+📆 Last Updated: `2023-03-09 07:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,40 +29,40 @@ This is top 50 for [Spain](</Spain>)
 | 12 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
 | 13 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
 | 14 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 15 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 16 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 17 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 15 | [HOY 9](http://twitter.com/search?q=HOY+9) | N/A |
+| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 17 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
 | 18 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 21 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 22 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 23 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 24 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 25 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 26 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
-| 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 19 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
+| 20 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 21 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 22 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 23 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 27 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
 | 28 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 29 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
 | 30 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
 | 32 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 33 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 34 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 38 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
-| 41 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
-| 42 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 43 | [Ver Tu Horóscopo COMPLETO](http://twitter.com/search?q=Ver+Tu+Hor%c3%b3scopo+COMPLETO) | N/A |
-| 44 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
-| 45 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 46 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 47 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 48 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 33 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 34 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 35 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 36 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 37 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 40 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 41 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 42 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
+| 45 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 46 | [Marieta](http://twitter.com/search?q=Marieta) | N/A |
+| 47 | [Modo Tildes](http://twitter.com/search?q=Modo+Tildes) | N/A |
+| 48 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
 
 
 
