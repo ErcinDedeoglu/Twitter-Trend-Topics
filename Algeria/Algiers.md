@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-09 07:16:08 UTC`
+📆 Last Updated: `2023-03-09 08:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [Algeria](</Algeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 2 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 3 | [عيد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 6 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 3 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 4 | [عيد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 8 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 | 9 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 10 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for [Algeria](</Algeria>)
 | 22 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 23 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
 | 24 | [نصف الحياه](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
-| 25 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 26 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 27 | [الامن الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 28 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 29 | [شرق جانت](http://twitter.com/search?q=%d8%b4%d8%b1%d9%82+%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
-| 30 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 31 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 25 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 26 | [الامن الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 28 | [شرق جانت](http://twitter.com/search?q=%d8%b4%d8%b1%d9%82+%d8%ac%d8%a7%d9%86%d8%aa) | N/A |
+| 29 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 30 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 31 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 34 | [algériennes](http://twitter.com/search?q=alg%c3%a9riennes) | N/A |
-| 35 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 36 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 37 | [الانباء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 38 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [الذخيره الحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%ae%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%8a%d9%87) | N/A |
-| 41 | [السجن الموبد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ac%d9%86+%d8%a7%d9%84%d9%85%d9%88%d8%a8%d8%af) | N/A |
-| 42 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 43 | [الدار البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
-| 44 | [علي الدوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 45 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 48 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 49 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 50 | [الجوله الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 33 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 34 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 35 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 37 | [الذخيره الحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%ae%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%8a%d9%87) | N/A |
+| 38 | [السجن الموبد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ac%d9%86+%d8%a7%d9%84%d9%85%d9%88%d8%a8%d8%af) | N/A |
+| 39 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 40 | [الدار البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
+| 41 | [علي الدوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 42 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 43 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 46 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 47 | [الجوله الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 48 | [Algériennes](http://twitter.com/search?q=Alg%c3%a9riennes) | N/A |
+| 49 | [شيخ الاسلام](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 50 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
 
 
 

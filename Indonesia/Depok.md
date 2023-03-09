@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-09 07:15:59 UTC`
+📆 Last Updated: `2023-03-09 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 2 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 3 | [#TambakBUBK](http://twitter.com/search?q=%23TambakBUBK) | N/A |
-| 4 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 5 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 6 | [Ide Keren SampeinAja](http://twitter.com/search?q=Ide+Keren+SampeinAja) | N/A |
-| 7 | [UrusanGue Asikin Indonesia](http://twitter.com/search?q=UrusanGue+Asikin+Indonesia) | N/A |
-| 8 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
-| 9 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 10 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 11 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 13 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
-| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 15 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 16 | [Urap](http://twitter.com/search?q=Urap) | N/A |
-| 17 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 18 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 19 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 20 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 21 | [BSI MOBILE](http://twitter.com/search?q=BSI+MOBILE) | N/A |
-| 22 | [HASANAH CARD](http://twitter.com/search?q=HASANAH+CARD) | N/A |
-| 23 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 24 | [BSI SMART](http://twitter.com/search?q=BSI+SMART) | N/A |
-| 25 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 26 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 27 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 28 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 29 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 30 | [U-KISS](http://twitter.com/search?q=U-KISS) | N/A |
-| 31 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 32 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 33 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 34 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
-| 35 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 36 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 37 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 38 | [Pee Wee Gaskins](http://twitter.com/search?q=Pee+Wee+Gaskins) | N/A |
-| 39 | [Bomba](http://twitter.com/search?q=Bomba) | N/A |
-| 40 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 41 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
-| 42 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
-| 43 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 44 | [Pesta Rakyat Ganjar Pranowo](http://twitter.com/search?q=Pesta+Rakyat+Ganjar+Pranowo) | N/A |
-| 45 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 46 | [Happy Birthday Taeyeon](http://twitter.com/search?q=Happy+Birthday+Taeyeon) | N/A |
-| 47 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 48 | [Luxcrime](http://twitter.com/search?q=Luxcrime) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#BaktiBTNuntukNTT](http://twitter.com/search?q=%23BaktiBTNuntukNTT) | N/A |
+| 4 | [#PerindoPartaiBersih](http://twitter.com/search?q=%23PerindoPartaiBersih) | N/A |
+| 5 | [#BPJSuangRakyat](http://twitter.com/search?q=%23BPJSuangRakyat) | N/A |
+| 6 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 7 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 8 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 9 | [Urap](http://twitter.com/search?q=Urap) | N/A |
+| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [BPJS Kesehatan](http://twitter.com/search?q=BPJS+Kesehatan) | N/A |
+| 12 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 13 | [Lumbung](http://twitter.com/search?q=Lumbung) | N/A |
+| 14 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 15 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
+| 16 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 17 | [Nanda](http://twitter.com/search?q=Nanda) | N/A |
+| 18 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 19 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 20 | [Ngomongin](http://twitter.com/search?q=Ngomongin) | N/A |
+| 21 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 22 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 23 | [Radikal](http://twitter.com/search?q=Radikal) | N/A |
+| 24 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 25 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 26 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 27 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 28 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 29 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 30 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 31 | [#KARINAxBOTTEGAVENETA](http://twitter.com/search?q=%23KARINAxBOTTEGAVENETA) | N/A |
+| 32 | [#TambakBUBK](http://twitter.com/search?q=%23TambakBUBK) | N/A |
+| 33 | [#KronologiKasusHelmut](http://twitter.com/search?q=%23KronologiKasusHelmut) | N/A |
+| 34 | [#SaktiWahyuTrenggono](http://twitter.com/search?q=%23SaktiWahyuTrenggono) | N/A |
+| 35 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 36 | [#OhmNanonreadyforJP](http://twitter.com/search?q=%23OhmNanonreadyforJP) | N/A |
+| 37 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 38 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 39 | [#WTSBLACKPINKJAKARTA](http://twitter.com/search?q=%23WTSBLACKPINKJAKARTA) | N/A |
+| 40 | [#SaksikanGPPalembang](http://twitter.com/search?q=%23SaksikanGPPalembang) | N/A |
+| 41 | [#BudidayaBerkelanjutan](http://twitter.com/search?q=%23BudidayaBerkelanjutan) | N/A |
+| 42 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
+| 43 | [#TopBiutifulXJamPlanet](http://twitter.com/search?q=%23TopBiutifulXJamPlanet) | N/A |
+| 44 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
 
 
 

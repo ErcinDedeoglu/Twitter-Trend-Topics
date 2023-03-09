@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-09 07:16:27 UTC`
+📆 Last Updated: `2023-03-09 08:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 4 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 5 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 8 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 9 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 10 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 11 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 12 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 13 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 14 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 15 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 16 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 17 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 18 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
-| 19 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
-| 20 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 21 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 8 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 9 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 11 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 12 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 13 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 15 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 16 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 17 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 19 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 20 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 21 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
 | 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 23 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 23 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
 | 24 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 26 | [The Aussies](http://twitter.com/search?q=The+Aussies) | N/A |
-| 27 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 28 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 29 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 30 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 25 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 26 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 27 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 28 | [The Aussies](http://twitter.com/search?q=The+Aussies) | N/A |
+| 29 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 31 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 32 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 33 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 34 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 35 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 36 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 37 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 38 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 39 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 40 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 41 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 42 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 43 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 44 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 45 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 46 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 47 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
-| 48 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 49 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 50 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 32 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 33 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 34 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 35 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 36 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 37 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 38 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 39 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 40 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 42 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 43 | [Oregon State](http://twitter.com/search?q=Oregon+State) | N/A |
+| 44 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 45 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 46 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 47 | [Petey Piranha](http://twitter.com/search?q=Petey+Piranha) | N/A |
+| 48 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
+| 49 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 50 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-09 07:16:30 UTC`
+📆 Last Updated: `2023-03-09 08:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Dominican Republic
 | 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 8 | [#PioDeportesWBC2023](http://twitter.com/search?q=%23PioDeportesWBC2023) | N/A |
 | 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 10 | [Comité Nacional de Salarios](http://twitter.com/search?q=Comit%c3%a9+Nacional+de+Salarios) | N/A |
+| 10 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
 | 11 | [Bravos de Atlanta](http://twitter.com/search?q=Bravos+de+Atlanta) | N/A |
 | 12 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
 | 13 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
@@ -35,18 +35,18 @@ This is top 50 for Dominican Republic
 | 18 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 20 | [wellington cepeda](http://twitter.com/search?q=wellington+cepeda) | N/A |
-| 21 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
-| 22 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 23 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 21 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 22 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
+| 23 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
 | 24 | [Luis Ortiz](http://twitter.com/search?q=Luis+Ortiz) | N/A |
 | 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 26 | [Rodney Linares](http://twitter.com/search?q=Rodney+Linares) | N/A |
+| 26 | [rodney linares](http://twitter.com/search?q=rodney+linares) | N/A |
 | 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
 | 28 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
 | 29 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 30 | [los naranjos](http://twitter.com/search?q=los+naranjos) | N/A |
 | 31 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 32 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
+| 32 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
 | 33 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
 | 34 | [jeremy peña](http://twitter.com/search?q=jeremy+pe%c3%b1a) | N/A |
 | 35 | [Gregory Soto](http://twitter.com/search?q=Gregory+Soto) | N/A |

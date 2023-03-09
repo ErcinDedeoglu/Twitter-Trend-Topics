@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-09 07:16:21 UTC`
+📆 Last Updated: `2023-03-09 08:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 2 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
-| 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
+| 1 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
+| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 3 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
+| 4 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
 | 5 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
 | 6 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 13 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 14 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 15 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 13 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 15 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
 | 16 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 17 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 18 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 19 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 20 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 21 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 22 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 23 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 24 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
-| 25 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
-| 26 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 27 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 17 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 18 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 19 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 20 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 21 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 22 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 23 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 24 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 25 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 26 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 27 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
 | 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 29 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 29 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
 | 30 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 31 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 32 | [The Aussies](http://twitter.com/search?q=The+Aussies) | N/A |
-| 33 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 34 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 35 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 36 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 31 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 32 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 33 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 34 | [The Aussies](http://twitter.com/search?q=The+Aussies) | N/A |
+| 35 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 36 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 37 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 38 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 39 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 40 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 41 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 42 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 43 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 44 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 45 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 46 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 47 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 48 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 49 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 50 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 38 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 39 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 40 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 41 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 42 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 43 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 44 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 45 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 46 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 47 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 48 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 49 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 50 | [Oregon State](http://twitter.com/search?q=Oregon+State) | N/A |
 
 
 

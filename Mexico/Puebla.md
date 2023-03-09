@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-09 07:15:45 UTC`
+📆 Last Updated: `2023-03-09 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 3 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 4 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 5 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 6 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 7 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 8 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 9 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 10 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 11 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 12 | [Ness](http://twitter.com/search?q=Ness) | N/A |
-| 13 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 14 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 15 | [FUIMOS TODAS](http://twitter.com/search?q=FUIMOS+TODAS) | N/A |
-| 16 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
-| 17 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 18 | [Orlegui](http://twitter.com/search?q=Orlegui) | N/A |
-| 19 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 20 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
-| 21 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 22 | [Kika](http://twitter.com/search?q=Kika) | N/A |
-| 23 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 24 | [José Luis](http://twitter.com/search?q=Jos%c3%a9+Luis) | N/A |
-| 25 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 28 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 29 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 30 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
-| 31 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 32 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 33 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
-| 34 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
-| 35 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 36 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 37 | [Salgado Macedonio](http://twitter.com/search?q=Salgado+Macedonio) | N/A |
-| 38 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 39 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 40 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 41 | [#EllasEnViX](http://twitter.com/search?q=%23EllasEnViX) | N/A |
-| 42 | [#DiaDeLasMujeres](http://twitter.com/search?q=%23DiaDeLasMujeres) | N/A |
-| 43 | [#CobardeMatoncito](http://twitter.com/search?q=%23CobardeMatoncito) | N/A |
-| 44 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 45 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
-| 46 | [#SUGADAY](http://twitter.com/search?q=%23SUGADAY) | N/A |
-| 47 | [#MexicoFeminicida](http://twitter.com/search?q=%23MexicoFeminicida) | N/A |
-| 48 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 5 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 10 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 11 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 12 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 15 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 16 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 17 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 18 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 19 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 20 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 22 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 23 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 25 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 26 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 27 | [Ness](http://twitter.com/search?q=Ness) | N/A |
+| 28 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 30 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 31 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 32 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 33 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 34 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 35 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 36 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 37 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
+| 38 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
+| 39 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 40 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 41 | [GUERRERO MEDALLISTA](http://twitter.com/search?q=GUERRERO+MEDALLISTA) | N/A |
+| 42 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 43 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 44 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 45 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 46 | [FUIMOS TODAS](http://twitter.com/search?q=FUIMOS+TODAS) | N/A |
+| 47 | [Bancomer](http://twitter.com/search?q=Bancomer) | N/A |
+| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 49 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
+| 50 | [Conasupo](http://twitter.com/search?q=Conasupo) | N/A |
 
 
 
