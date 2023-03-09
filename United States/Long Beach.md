@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-09 01:45:52 UTC`
+📆 Last Updated: `2023-03-09 02:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StingersUp](http://twitter.com/search?q=%23StingersUp) | N/A |
-| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 3 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 4 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 5 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 8 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 9 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 10 | [Venmo](http://twitter.com/search?q=Venmo) | N/A |
-| 11 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 12 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 13 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 16 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 17 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 18 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 19 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
-| 20 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 21 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 22 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 23 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 24 | [Michael Bolton](http://twitter.com/search?q=Michael+Bolton) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 27 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 28 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 29 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 30 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 31 | [Jay Lethal](http://twitter.com/search?q=Jay+Lethal) | Jay Lethal is the ring name of an American professional wrestler, currently signed to Ring of Honor (ROH). His real name is Jamar Shipman. He is a former two-time ROH World Champion and a former six-time ROH World Television Champion. The name "Jay Lethal" is derived from his initials, JL. |
-| 32 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 33 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 34 | [Capela](http://twitter.com/search?q=Capela) | N/A |
-| 35 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 37 | [Tyler Wahl](http://twitter.com/search?q=Tyler+Wahl) | N/A |
-| 38 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 40 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 41 | [B-52s](http://twitter.com/search?q=B-52s) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 44 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 45 | [Love Shack](http://twitter.com/search?q=Love+Shack) | N/A |
-| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 47 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 48 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 49 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 50 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 2 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 3 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 6 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 9 | [#StingersUp](http://twitter.com/search?q=%23StingersUp) | N/A |
+| 10 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 11 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 12 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 17 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 18 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 19 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 20 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 21 | [Venmo](http://twitter.com/search?q=Venmo) | N/A |
+| 22 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 23 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 24 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 25 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 26 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 27 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 28 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
+| 29 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 30 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 31 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 32 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 33 | [Michael Bolton](http://twitter.com/search?q=Michael+Bolton) | N/A |
+| 34 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 35 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 36 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 37 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 38 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 39 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 40 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
+| 41 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 42 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 43 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 44 | [All Atlantic](http://twitter.com/search?q=All+Atlantic) | N/A |
+| 45 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 46 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 47 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 48 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 49 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 50 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
 
 
 

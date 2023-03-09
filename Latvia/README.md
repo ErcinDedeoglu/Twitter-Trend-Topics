@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-09 01:46:01 UTC`
+📆 Last Updated: `2023-03-09 02:44:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#babydogeceo](http://twitter.com/search?q=%23babydogeceo) | N/A |
+| 1 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
 | 2 | [#OptimusinuOpinu](http://twitter.com/search?q=%23OptimusinuOpinu) | N/A |
-| 3 | [Sieviešu](http://twitter.com/search?q=Sievie%c5%a1u) | N/A |
+| 3 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [#bluuish](http://twitter.com/search?q=%23bluuish) | N/A |
 | 6 | [#gacuteam](http://twitter.com/search?q=%23gacuteam) | N/A |
@@ -33,16 +33,16 @@ This is top 50 for Latvia
 | 16 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 | 17 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
 | 18 | [Saeima](http://twitter.com/search?q=Saeima) | N/A |
-| 19 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 19 | [paldies](http://twitter.com/search?q=paldies) | N/A |
 | 20 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
 | 21 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 22 | [izglītības](http://twitter.com/search?q=izgl%c4%abt%c4%abbas) | N/A |
 | 23 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
 | 24 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
 | 25 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
-| 26 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
+| 26 | [bahmutu](http://twitter.com/search?q=bahmutu) | N/A |
 | 27 | [vaira vīķe-freiberga](http://twitter.com/search?q=vaira+v%c4%ab%c4%b7e-freiberga) | N/A |
-| 28 | [Veselības](http://twitter.com/search?q=Vesel%c4%abbas) | N/A |
+| 28 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
 | 29 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 30 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
 | 31 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Latvia
 | 36 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 37 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 38 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 39 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 39 | [tevis](http://twitter.com/search?q=tevis) | N/A |
 | 40 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
 | 41 | [padomju](http://twitter.com/search?q=padomju) | N/A |
 | 42 | [Baltics](http://twitter.com/search?q=Baltics) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Latvia
 | 46 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 47 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 48 | [pārāk](http://twitter.com/search?q=p%c4%81r%c4%81k) | N/A |
-| 49 | [Kapēc](http://twitter.com/search?q=Kap%c4%93c) | N/A |
+| 49 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
 | 50 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
 
 

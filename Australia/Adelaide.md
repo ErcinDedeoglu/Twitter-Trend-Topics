@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-09 01:45:29 UTC`
+📆 Last Updated: `2023-03-09 02:43:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
-| 5 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 7 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 8 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 6 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
+| 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 8 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
 | 9 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
-| 12 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 13 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 18 | [Parliament House](http://twitter.com/search?q=Parliament+House) | N/A |
-| 19 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 22 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 23 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 24 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 28 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 29 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 30 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 31 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 33 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 34 | [ben mckay](http://twitter.com/search?q=ben+mckay) | N/A |
-| 35 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 36 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 37 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [WOODEN SPOON](http://twitter.com/search?q=WOODEN+SPOON) | N/A |
+| 12 | [BIGGEST IMPROVER](http://twitter.com/search?q=BIGGEST+IMPROVER) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [BIGGEST SLIDER](http://twitter.com/search?q=BIGGEST+SLIDER) | N/A |
+| 15 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 16 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 17 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 18 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 19 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 20 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Parliament House](http://twitter.com/search?q=Parliament+House) | N/A |
+| 24 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 27 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 28 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 29 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 30 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 31 | [Nick Coatsworth](http://twitter.com/search?q=Nick+Coatsworth) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
+| 34 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 36 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 37 | [Richard Glenn](http://twitter.com/search?q=Richard+Glenn) | N/A |
 | 38 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 44 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 45 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 46 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 47 | [Seafolly](http://twitter.com/search?q=Seafolly) | N/A |
-| 48 | [Tom Morris](http://twitter.com/search?q=Tom+Morris) | N/A |
-| 49 | [Wannon](http://twitter.com/search?q=Wannon) | N/A |
-| 50 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 39 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 40 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 42 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 43 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 44 | [Tom Morris](http://twitter.com/search?q=Tom+Morris) | N/A |
+| 45 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 48 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 49 | [Seafolly](http://twitter.com/search?q=Seafolly) | N/A |
+| 50 | [PREMIERS](http://twitter.com/search?q=PREMIERS) | N/A |
 
 
 

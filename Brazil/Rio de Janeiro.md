@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-09 01:45:18 UTC`
+📆 Last Updated: `2023-03-09 02:43:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 2 | [De Lucca](http://twitter.com/search?q=De+Lucca) | N/A |
-| 3 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 6 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 7 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
-| 8 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 9 | [VAMOS FLUMINENSE](http://twitter.com/search?q=VAMOS+FLUMINENSE) | N/A |
-| 10 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
-| 11 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
-| 12 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
-| 13 | [Guarda Municipal](http://twitter.com/search?q=Guarda+Municipal) | N/A |
-| 14 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 15 | [FlaTV](http://twitter.com/search?q=FlaTV) | N/A |
-| 16 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 17 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 18 | [John Textor](http://twitter.com/search?q=John+Textor) | N/A |
-| 19 | [FluminenC](http://twitter.com/search?q=FluminenC) | N/A |
-| 20 | [Guga](http://twitter.com/search?q=Guga) | N/A |
-| 21 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 23 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 24 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
-| 25 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 26 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 27 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 28 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 29 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 30 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 31 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
-| 32 | [MAIARA E MARAISA EM ALTO MAR](http://twitter.com/search?q=MAIARA+E+MARAISA+EM+ALTO+MAR) | N/A |
-| 33 | [#CariocaNaBand](http://twitter.com/search?q=%23CariocaNaBand) | N/A |
-| 34 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
-| 35 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 36 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
-| 37 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 38 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 41 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 42 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 43 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 44 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 45 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 46 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 47 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 48 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 49 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 50 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 1 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 2 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 3 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 4 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 5 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
+| 6 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
+| 7 | [VAI SE FUDER](http://twitter.com/search?q=VAI+SE+FUDER) | N/A |
+| 8 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 9 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 10 | [TIME SEM VERGONHA](http://twitter.com/search?q=TIME+SEM+VERGONHA) | N/A |
+| 11 | [FLUMINENSE FOOTBALL CLUB](http://twitter.com/search?q=FLUMINENSE+FOOTBALL+CLUB) | N/A |
+| 12 | [BURRO](http://twitter.com/search?q=BURRO) | N/A |
+| 13 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 14 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 15 | [Matheus Ferraz](http://twitter.com/search?q=Matheus+Ferraz) | N/A |
+| 16 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 17 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 18 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 19 | [vice de novo](http://twitter.com/search?q=vice+de+novo) | N/A |
+| 20 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 21 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 22 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 23 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 24 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 25 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 26 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 27 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 28 | [#ficaVP](http://twitter.com/search?q=%23ficaVP) | N/A |
+| 29 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 30 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 31 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 32 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 33 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 34 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
+| 35 | [#CariocaNaBand](http://twitter.com/search?q=%23CariocaNaBand) | N/A |
+| 36 | [#ForaVP](http://twitter.com/search?q=%23ForaVP) | N/A |
+| 37 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 38 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 39 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 40 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 41 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 42 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 43 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 44 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 45 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 46 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 47 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
+| 48 | [Matheus Cunha](http://twitter.com/search?q=Matheus+Cunha) | Matheus Cunha is a Brazilian professional footballer who plays as a forward for RB Leipzig. His name in English translates to Matthew Cunha. |
+| 49 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 50 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
 
 
 

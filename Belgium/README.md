@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-09 01:45:58 UTC`
+📆 Last Updated: `2023-03-09 02:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Belgium
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 | 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 7 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 8 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 9 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 10 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 11 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 12 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 5 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 6 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 9 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 10 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 12 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
 | 13 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 14 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 15 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
@@ -47,24 +47,24 @@ This is top 50 for Belgium
 | 30 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
 | 31 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
 | 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Vlaanderen](http://twitter.com/search?q=Vlaanderen) | N/A |
-| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 36 | [Vlaamse](http://twitter.com/search?q=Vlaamse) | N/A |
-| 37 | [van grieken](http://twitter.com/search?q=van+grieken) | N/A |
-| 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 39 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 40 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 41 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 43 | [voor gent](http://twitter.com/search?q=voor+gent) | N/A |
-| 44 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 45 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 46 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 47 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
-| 48 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 49 | [Dumolyn](http://twitter.com/search?q=Dumolyn) | N/A |
-| 50 | [Crevits](http://twitter.com/search?q=Crevits) | N/A |
+| 33 | [Vlaanderen](http://twitter.com/search?q=Vlaanderen) | N/A |
+| 34 | [Vlaamse](http://twitter.com/search?q=Vlaamse) | N/A |
+| 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 36 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 37 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 38 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [voor gent](http://twitter.com/search?q=voor+gent) | N/A |
+| 41 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 43 | [Van Grieken](http://twitter.com/search?q=Van+Grieken) | N/A |
+| 44 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 45 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 46 | [dumolyn](http://twitter.com/search?q=dumolyn) | N/A |
+| 47 | [crevits](http://twitter.com/search?q=crevits) | N/A |
+| 48 | [watteeuw](http://twitter.com/search?q=watteeuw) | N/A |
+| 49 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 50 | [hawaï](http://twitter.com/search?q=hawa%c3%af) | N/A |
 
 
 

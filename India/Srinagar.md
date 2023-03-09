@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-09 01:45:45 UTC`
+📆 Last Updated: `2023-03-09 02:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [India](</India>)
 | 1 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
 | 2 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 5 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 6 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 7 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 8 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 12 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 13 | [श्री हरि विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
-| 14 | [goldiee one one noodles](http://twitter.com/search?q=goldiee+one+one+noodles) | N/A |
-| 15 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 16 | [अनुपम खेर](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%aa%e0%a4%ae+%e0%a4%96%e0%a5%87%e0%a4%b0) | N/A |
-| 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 18 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 19 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 20 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 21 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 22 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 26 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 27 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
-| 28 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 29 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 30 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 32 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 33 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 34 | [bindumadhavi as radha](http://twitter.com/search?q=bindumadhavi+as+radha) | N/A |
-| 35 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
-| 36 | [सुख तथा पूर्ण मोक्ष](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 38 | [Women Of India](http://twitter.com/search?q=Women+Of+India) | N/A |
-| 39 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 41 | [श्री विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
-| 42 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 43 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 44 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 46 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 47 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 48 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 49 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 4 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 5 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 6 | [#GiftOfSmile](http://twitter.com/search?q=%23GiftOfSmile) | N/A |
+| 7 | [#अपराधी_अपराध_छोड़_देते_थे](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%80_%e0%a4%85%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%a7_%e0%a4%9b%e0%a5%8b%e0%a4%a1%e0%a4%bc_%e0%a4%a6%e0%a5%87%e0%a4%a4%e0%a5%87_%e0%a4%a5%e0%a5%87) | N/A |
+| 8 | [Bolte Anubhav](http://twitter.com/search?q=Bolte+Anubhav) | N/A |
+| 9 | [Satsang Matra Se](http://twitter.com/search?q=Satsang+Matra+Se) | N/A |
+| 10 | [Saint Gurmeet Ram Rahim  Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim++Ji) | N/A |
+| 11 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 13 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 14 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 15 | [अनुपम खेर](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%aa%e0%a4%ae+%e0%a4%96%e0%a5%87%e0%a4%b0) | N/A |
+| 16 | [No Headway InSSRCase](http://twitter.com/search?q=No+Headway+InSSRCase) | N/A |
+| 17 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 18 | [goldiee one one noodles](http://twitter.com/search?q=goldiee+one+one+noodles) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 21 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 22 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 23 | [Mr India](http://twitter.com/search?q=Mr+India) | N/A |
+| 24 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 28 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 29 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
+| 30 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 31 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 32 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 33 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 34 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 36 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 37 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 38 | [पावन प्रेरणा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 39 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 40 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 41 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
+| 44 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 45 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
+| 46 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 47 | [Om Sai Ram](http://twitter.com/search?q=Om+Sai+Ram) | N/A |
+| 48 | [श्री नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 49 | [Govinda](http://twitter.com/search?q=Govinda) | N/A |
 
 
 

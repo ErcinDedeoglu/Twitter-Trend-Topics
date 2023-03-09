@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-09 01:45:43 UTC`
+📆 Last Updated: `2023-03-09 02:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 12 | [the night of forgiveness](http://twitter.com/search?q=the+night+of+forgiveness) | N/A |
 | 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 14 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
-| 17 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 15 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [hafeez](http://twitter.com/search?q=hafeez) | N/A |
 | 18 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
 | 19 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
 | 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 21 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 23 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 24 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 25 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 26 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 22 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 23 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 26 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 27 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
-| 28 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
-| 29 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 30 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 31 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 32 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 33 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 34 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 35 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
-| 36 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 37 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 38 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 39 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 40 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
-| 41 | [Well Done](http://twitter.com/search?q=Well+Done) | N/A |
-| 42 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 43 | [Handlers](http://twitter.com/search?q=Handlers) | N/A |
-| 44 | [Deen](http://twitter.com/search?q=Deen) | N/A |
-| 45 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 46 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 47 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 48 | [Speechless](http://twitter.com/search?q=Speechless) | N/A |
-| 49 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 28 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 29 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 30 | [Deen](http://twitter.com/search?q=Deen) | N/A |
+| 31 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 32 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 33 | [Photoshopped](http://twitter.com/search?q=Photoshopped) | N/A |
+| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 36 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 38 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 41 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 42 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 43 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 44 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 45 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 46 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
+| 47 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
+| 48 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 49 | [Count](http://twitter.com/search?q=Count) | N/A |
 
 
 

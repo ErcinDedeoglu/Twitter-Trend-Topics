@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-09 01:46:00 UTC`
+📆 Last Updated: `2023-03-09 02:44:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for Israel
 | 2 | [של נועה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%95%d7%a2%d7%94) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 4 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 7 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 5 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
+| 6 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 8 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
 | 9 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 10 | [דירוג אשראי](http://twitter.com/search?q=%d7%93%d7%99%d7%a8%d7%95%d7%92+%d7%90%d7%a9%d7%a8%d7%90%d7%99) | N/A |
@@ -30,9 +30,9 @@ This is top 50 for Israel
 | 13 | [חיים טופול](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%98%d7%95%d7%a4%d7%95%d7%9c) | N/A |
 | 14 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
 | 15 | [#קו_אדום](http://twitter.com/search?q=%23%d7%a7%d7%95_%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 16 | [של הטייס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%98%d7%99%d7%99%d7%a1) | N/A |
-| 17 | [של אלבשן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
-| 18 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 16 | [של אלבשן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
+| 17 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 18 | [של הטייס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%98%d7%99%d7%99%d7%a1) | N/A |
 | 19 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 20 | [ר מיכאל](http://twitter.com/search?q=%d7%a8+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
 | 21 | [מתן כהנא](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%9b%d7%94%d7%a0%d7%90) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Israel
 | 40 | [רון ארד](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%90%d7%a8%d7%93) | N/A |
 | 41 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
 | 42 | [המחאה נגד](http://twitter.com/search?q=%d7%94%d7%9e%d7%97%d7%90%d7%94+%d7%a0%d7%92%d7%93) | N/A |
-| 43 | [פורים בירושלים](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 44 | [של מיכאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
-| 45 | [מיליון דולר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
-| 46 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 47 | [שיר טוב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 48 | [ל משרד](http://twitter.com/search?q=%d7%9c+%d7%9e%d7%a9%d7%a8%d7%93) | N/A |
-| 49 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
-| 50 | [מר כלכלה](http://twitter.com/search?q=%d7%9e%d7%a8+%d7%9b%d7%9c%d7%9b%d7%9c%d7%94) | N/A |
+| 43 | [של מיכאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
+| 44 | [מיליון דולר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
+| 45 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 46 | [שיר טוב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 47 | [ל משרד](http://twitter.com/search?q=%d7%9c+%d7%9e%d7%a9%d7%a8%d7%93) | N/A |
+| 48 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
+| 49 | [מר כלכלה](http://twitter.com/search?q=%d7%9e%d7%a8+%d7%9b%d7%9c%d7%9b%d7%9c%d7%94) | N/A |
+| 50 | [פורים בירושלים](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 
 
 

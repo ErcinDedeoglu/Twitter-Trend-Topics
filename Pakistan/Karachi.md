@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-09 01:45:43 UTC`
+📆 Last Updated: `2023-03-09 02:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
 | 3 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
 | 4 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 5 | [#AuratMarch2023](http://twitter.com/search?q=%23AuratMarch2023) | N/A |
+| 5 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
 | 6 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
 | 7 | [express tribune](http://twitter.com/search?q=express+tribune) | N/A |
 | 8 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 13 | [the night of forgiveness](http://twitter.com/search?q=the+night+of+forgiveness) | N/A |
 | 14 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 15 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
-| 18 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 16 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [hafeez](http://twitter.com/search?q=hafeez) | N/A |
 | 19 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
 | 20 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
 | 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 22 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 24 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 25 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 26 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 27 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 22 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 23 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 24 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 27 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 28 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
-| 29 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
-| 30 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 32 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 33 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 34 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 35 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 36 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
-| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 38 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 39 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 40 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 41 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
-| 42 | [Well Done](http://twitter.com/search?q=Well+Done) | N/A |
-| 43 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 44 | [Handlers](http://twitter.com/search?q=Handlers) | N/A |
-| 45 | [Deen](http://twitter.com/search?q=Deen) | N/A |
-| 46 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 47 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 48 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 49 | [Speechless](http://twitter.com/search?q=Speechless) | N/A |
-| 50 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 29 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 30 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 31 | [Deen](http://twitter.com/search?q=Deen) | N/A |
+| 32 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 33 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 34 | [Photoshopped](http://twitter.com/search?q=Photoshopped) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 37 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 39 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 42 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 43 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
+| 44 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 45 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 46 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 47 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
+| 48 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
+| 49 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 50 | [Count](http://twitter.com/search?q=Count) | N/A |
 
 
 

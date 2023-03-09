@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-09 01:45:25 UTC`
+📆 Last Updated: `2023-03-09 02:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 1 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 2 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
-| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 4 | [#Marefuori3](http://twitter.com/search?q=%23Marefuori3) | N/A |
-| 5 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 6 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
-| 7 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 8 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 9 | [Il PSG](http://twitter.com/search?q=Il+PSG) | N/A |
-| 10 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 11 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 3 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
+| 6 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 7 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 8 | [MICHELE BRAVI](http://twitter.com/search?q=MICHELE+BRAVI) | N/A |
+| 9 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
+| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 12 | [joe formaggio](http://twitter.com/search?q=joe+formaggio) | N/A |
 | 13 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 14 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 15 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 16 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 17 | [MICHELE BRAVI](http://twitter.com/search?q=MICHELE+BRAVI) | N/A |
-| 18 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 19 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 20 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 21 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 22 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 24 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 25 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 26 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 27 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 28 | [GIUSEPPE GIOFRÈ](http://twitter.com/search?q=GIUSEPPE+GIOFR%c3%88) | N/A |
-| 29 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
-| 30 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 31 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 32 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 33 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 34 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 35 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 36 | [#bayernpsg](http://twitter.com/search?q=%23bayernpsg) | N/A |
-| 37 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
-| 38 | [#Inter115](http://twitter.com/search?q=%23Inter115) | N/A |
-| 39 | [#BuonCompleannoInter](http://twitter.com/search?q=%23BuonCompleannoInter) | N/A |
-| 40 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 41 | [#TOTACM](http://twitter.com/search?q=%23TOTACM) | N/A |
-| 42 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
-| 43 | [#Donnarumma](http://twitter.com/search?q=%23Donnarumma) | N/A |
-| 44 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 45 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 46 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
-| 47 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 48 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 49 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 14 | [GIUSEPPE GIOFRÈ](http://twitter.com/search?q=GIUSEPPE+GIOFR%c3%88) | N/A |
+| 15 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 16 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
+| 17 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
+| 18 | [Il PSG](http://twitter.com/search?q=Il+PSG) | N/A |
+| 19 | [chiuda](http://twitter.com/search?q=chiuda) | N/A |
+| 20 | [don mazzi](http://twitter.com/search?q=don+mazzi) | N/A |
+| 21 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 22 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 24 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 25 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
+| 26 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 27 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 28 | [Milos](http://twitter.com/search?q=Milos) | N/A |
+| 29 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 30 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 31 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 32 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 33 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 34 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 35 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 36 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 37 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 38 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 39 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 40 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 41 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 43 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 44 | [Malick](http://twitter.com/search?q=Malick) | N/A |
+| 45 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 48 | [Thiaw](http://twitter.com/search?q=Thiaw) | N/A |
+| 49 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 
 
 

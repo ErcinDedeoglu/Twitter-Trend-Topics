@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-09 01:45:29 UTC`
+📆 Last Updated: `2023-03-09 02:43:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RamadandariHati](http://twitter.com/search?q=%23RamadandariHati) | N/A |
-| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 3 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 4 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 5 | [Syariah Islam Kaffah](http://twitter.com/search?q=Syariah+Islam+Kaffah) | N/A |
-| 6 | [#BersamaDakwahkanIslam](http://twitter.com/search?q=%23BersamaDakwahkanIslam) | N/A |
-| 7 | [Semangat Ngaji Berjama'ah](http://twitter.com/search?q=Semangat+Ngaji+Berjama%27ah) | N/A |
-| 8 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 14 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 15 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 16 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 17 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 18 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 19 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 20 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 23 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 24 | [#KemenkeuLumbungMaling](http://twitter.com/search?q=%23KemenkeuLumbungMaling) | N/A |
-| 25 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 26 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
-| 27 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 28 | [#ForzaMilan](http://twitter.com/search?q=%23ForzaMilan) | N/A |
-| 29 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 30 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 31 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 33 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 34 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 35 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
+| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 2 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 3 | [#RamadandariHati](http://twitter.com/search?q=%23RamadandariHati) | N/A |
+| 4 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 5 | [#TopBiutifulXJamPlanet](http://twitter.com/search?q=%23TopBiutifulXJamPlanet) | N/A |
+| 6 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 7 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 8 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 9 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 10 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 11 | [Syariah Islam Kaffah](http://twitter.com/search?q=Syariah+Islam+Kaffah) | N/A |
+| 12 | [Semangat Ngaji Berjama'ah](http://twitter.com/search?q=Semangat+Ngaji+Berjama%27ah) | N/A |
+| 13 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 17 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 22 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 23 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 24 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 25 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 27 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 28 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 29 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 30 | [#BersamaDakwahkanIslam](http://twitter.com/search?q=%23BersamaDakwahkanIslam) | N/A |
+| 31 | [#KemenkeuLumbungMaling](http://twitter.com/search?q=%23KemenkeuLumbungMaling) | N/A |
+| 32 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
+| 33 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 34 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 35 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 36 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 37 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
+| 38 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 39 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 40 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 41 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 42 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
 
 
 
