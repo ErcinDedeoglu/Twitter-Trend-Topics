@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-10 01:46:05 UTC`
+📆 Last Updated: `2023-03-10 02:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#shafey](http://twitter.com/search?q=%23shafey) | N/A |
-| 2 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 3 | [#Feyenoord](http://twitter.com/search?q=%23Feyenoord) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 6 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 8 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 9 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 10 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 11 | [BPOC](http://twitter.com/search?q=BPOC) | N/A |
-| 12 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
-| 13 | [Wilfred Genee](http://twitter.com/search?q=Wilfred+Genee) | N/A |
-| 14 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 15 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
-| 16 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 17 | [miljoen nederlanders](http://twitter.com/search?q=miljoen+nederlanders) | N/A |
-| 18 | [ASML](http://twitter.com/search?q=ASML) | N/A |
-| 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 21 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 22 | [Jehova](http://twitter.com/search?q=Jehova) | N/A |
-| 23 | [Gerard Joling](http://twitter.com/search?q=Gerard+Joling) | N/A |
-| 24 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 25 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 26 | [Trusten](http://twitter.com/search?q=Trusten) | N/A |
-| 27 | [alliander](http://twitter.com/search?q=alliander) | N/A |
-| 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 30 | [Dijsselbloem](http://twitter.com/search?q=Dijsselbloem) | N/A |
-| 31 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 32 | [Rijsbergen](http://twitter.com/search?q=Rijsbergen) | N/A |
-| 33 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 34 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 35 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
-| 36 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 37 | [Van der Burg](http://twitter.com/search?q=Van+der+Burg) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 40 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 41 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 44 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 45 | [Zuidas](http://twitter.com/search?q=Zuidas) | N/A |
-| 46 | [Olav Kooij](http://twitter.com/search?q=Olav+Kooij) | N/A |
-| 47 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 48 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 49 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 50 | [Harry de Winter](http://twitter.com/search?q=Harry+de+Winter) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 3 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
+| 4 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 6 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [#shaFEY](http://twitter.com/search?q=%23shaFEY) | N/A |
+| 9 | [BPOC](http://twitter.com/search?q=BPOC) | N/A |
+| 10 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 11 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 12 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 13 | [asml](http://twitter.com/search?q=asml) | N/A |
+| 14 | [Mooi](http://twitter.com/search?q=Mooi) | N/A |
+| 15 | [Echt](http://twitter.com/search?q=Echt) | N/A |
+| 16 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 17 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 18 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 19 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
+| 20 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 21 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [dijsselbloem](http://twitter.com/search?q=dijsselbloem) | N/A |
+| 24 | [alliander](http://twitter.com/search?q=alliander) | N/A |
+| 25 | [kapje](http://twitter.com/search?q=kapje) | N/A |
+| 26 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
+| 27 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 28 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
+| 29 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 30 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 31 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 32 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
+| 33 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
+| 34 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 35 | [richelle](http://twitter.com/search?q=richelle) | N/A |
+| 36 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 37 | [tweehonderd duitse](http://twitter.com/search?q=tweehonderd+duitse) | N/A |
+| 38 | [kontje](http://twitter.com/search?q=kontje) | N/A |
+| 39 | [rabo](http://twitter.com/search?q=rabo) | N/A |
+| 40 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 41 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
+| 42 | [Cordoba](http://twitter.com/search?q=Cordoba) | N/A |
+| 43 | [willem engel](http://twitter.com/search?q=willem+engel) | N/A |
+| 44 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 45 | [erwtensoep](http://twitter.com/search?q=erwtensoep) | N/A |
+| 46 | [Jeetje](http://twitter.com/search?q=Jeetje) | N/A |
+| 47 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 48 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
+| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 50 | [oever](http://twitter.com/search?q=oever) | N/A |
 
 
 

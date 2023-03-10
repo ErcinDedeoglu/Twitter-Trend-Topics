@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-10 01:45:51 UTC`
+📆 Last Updated: `2023-03-10 02:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ACCTourney](http://twitter.com/search?q=%23ACCTourney) | N/A |
-| 2 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
-| 3 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 4 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 5 | [#NewRokuTVs](http://twitter.com/search?q=%23NewRokuTVs) | N/A |
-| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 7 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 10 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 11 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 12 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
-| 13 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 14 | [Ungrateful](http://twitter.com/search?q=Ungrateful) | N/A |
-| 15 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
-| 16 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 17 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 18 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 19 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 20 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 21 | [Baretta](http://twitter.com/search?q=Baretta) | N/A |
-| 22 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 23 | [Sammy Hagar](http://twitter.com/search?q=Sammy+Hagar) | N/A |
-| 24 | [Fire DK](http://twitter.com/search?q=Fire+DK) | N/A |
-| 25 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 26 | [San Jose State](http://twitter.com/search?q=San+Jose+State) | N/A |
-| 27 | [In Cold Blood](http://twitter.com/search?q=In+Cold+Blood) | N/A |
-| 28 | [Tim Miles](http://twitter.com/search?q=Tim+Miles) | N/A |
-| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 30 | [Dainja](http://twitter.com/search?q=Dainja) | N/A |
-| 31 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
-| 32 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 33 | [Scott Mayfield](http://twitter.com/search?q=Scott+Mayfield) | N/A |
-| 34 | [Jason Zucker](http://twitter.com/search?q=Jason+Zucker) | N/A |
-| 35 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 36 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 37 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 39 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 40 | [FIRE DONKEY KONG](http://twitter.com/search?q=FIRE+DONKEY+KONG) | N/A |
-| 41 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 42 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 43 | [Colin Kaepernick](http://twitter.com/search?q=Colin+Kaepernick) | N/A |
-| 44 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 45 | [RED RUBY HAIL MARY](http://twitter.com/search?q=RED+RUBY+HAIL+MARY) | N/A |
-| 46 | [Tom Petty](http://twitter.com/search?q=Tom+Petty) | N/A |
-| 47 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
-| 48 | [Chris Pratt](http://twitter.com/search?q=Chris+Pratt) | N/A |
-| 49 | [Brad Underwood](http://twitter.com/search?q=Brad+Underwood) | N/A |
+| 1 | [#ncties23](http://twitter.com/search?q=%23ncties23) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 6 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 8 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 9 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 12 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 13 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 14 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 15 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 16 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 17 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 19 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 20 | [ravens](http://twitter.com/search?q=ravens) | N/A |
+| 21 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 22 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 23 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 24 | [ANTIFA](http://twitter.com/search?q=ANTIFA) | N/A |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 27 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 28 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 32 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
+| 33 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 34 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 35 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 36 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
+| 37 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 38 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 40 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 41 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 42 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 43 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 44 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 45 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
+| 46 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 47 | [happy friday eve](http://twitter.com/search?q=happy+friday+eve) | N/A |
+| 48 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 49 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 50 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
 
 
 

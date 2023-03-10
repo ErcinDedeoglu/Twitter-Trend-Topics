@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-10 01:45:22 UTC`
+📆 Last Updated: `2023-03-10 02:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
-| 2 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 4 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 5 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 6 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 7 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 8 | [#drojette](http://twitter.com/search?q=%23drojette) | N/A |
-| 9 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 10 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 11 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 12 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 13 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 14 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 15 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 16 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 17 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 18 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 19 | [Elia](http://twitter.com/search?q=Elia) | N/A |
-| 20 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 21 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 22 | [Ciacci](http://twitter.com/search?q=Ciacci) | N/A |
-| 23 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 24 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 25 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 26 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 27 | [Grande Fratello](http://twitter.com/search?q=Grande+Fratello) | N/A |
-| 28 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 29 | [Angel](http://twitter.com/search?q=Angel) | N/A |
-| 30 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 31 | [Veneto](http://twitter.com/search?q=Veneto) | N/A |
-| 32 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 33 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 34 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 35 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 36 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [#JuventusFriburgo](http://twitter.com/search?q=%23JuventusFriburgo) | N/A |
-| 39 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 40 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
-| 41 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
-| 42 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
-| 43 | [#UNBUONINIZIO](http://twitter.com/search?q=%23UNBUONINIZIO) | N/A |
-| 44 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 45 | [#GloboTerracqueo](http://twitter.com/search?q=%23GloboTerracqueo) | N/A |
-| 46 | [#donnavassi](http://twitter.com/search?q=%23donnavassi) | N/A |
-| 47 | [#dakita](http://twitter.com/search?q=%23dakita) | N/A |
-| 48 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 49 | [#cineglobo](http://twitter.com/search?q=%23cineglobo) | N/A |
-| 50 | [#UnaDelleMiglioriSensazioni](http://twitter.com/search?q=%23UnaDelleMiglioriSensazioni) | N/A |
+| 1 | [#unaTARDIVA_gita_aCUTRO](http://twitter.com/search?q=%23unaTARDIVA_gita_aCUTRO) | N/A |
+| 2 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 3 | [#RomaRealSociedad](http://twitter.com/search?q=%23RomaRealSociedad) | N/A |
+| 4 | [#tottenhammilan](http://twitter.com/search?q=%23tottenhammilan) | N/A |
+| 5 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 7 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
+| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 9 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 10 | [zaia](http://twitter.com/search?q=zaia) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 13 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 14 | [viterbo](http://twitter.com/search?q=viterbo) | N/A |
+| 15 | [figc](http://twitter.com/search?q=figc) | N/A |
+| 16 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
+| 17 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 18 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 19 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
+| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 21 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 23 | [cecilia sala](http://twitter.com/search?q=cecilia+sala) | N/A |
+| 24 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
+| 25 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 26 | [joe formaggio](http://twitter.com/search?q=joe+formaggio) | N/A |
+| 27 | [covisoc](http://twitter.com/search?q=covisoc) | N/A |
+| 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 29 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 30 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 31 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 32 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 33 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 34 | [bianca balti](http://twitter.com/search?q=bianca+balti) | N/A |
+| 35 | [berlinguer](http://twitter.com/search?q=berlinguer) | N/A |
+| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 37 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 38 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
+| 39 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
+| 40 | [#terremoto](http://twitter.com/search?q=%23terremoto) | N/A |
+| 41 | [#Inter115](http://twitter.com/search?q=%23Inter115) | N/A |
+| 42 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 43 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 44 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 45 | [#JuveFriburgo](http://twitter.com/search?q=%23JuveFriburgo) | N/A |
+| 46 | [#BuonCompleannoInter](http://twitter.com/search?q=%23BuonCompleannoInter) | N/A |
+| 47 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 49 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 50 | [#bayernpsg](http://twitter.com/search?q=%23bayernpsg) | N/A |
 
 
 

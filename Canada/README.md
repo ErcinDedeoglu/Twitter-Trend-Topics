@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-10 01:46:01 UTC`
+📆 Last Updated: `2023-03-10 02:44:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 4 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 5 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 7 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 8 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 9 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 10 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 11 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 12 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
-| 13 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 14 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 15 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 17 | [Josh Anderson](http://twitter.com/search?q=Josh+Anderson) | N/A |
-| 18 | [Amal](http://twitter.com/search?q=Amal) | N/A |
-| 19 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 20 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 23 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 24 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 25 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 26 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 27 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 29 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 31 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 32 | [Guhle](http://twitter.com/search?q=Guhle) | N/A |
-| 33 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 34 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 35 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 36 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
-| 37 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 38 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 39 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 40 | [Shore](http://twitter.com/search?q=Shore) | N/A |
-| 41 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 42 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 43 | [Alexis Lafrenière](http://twitter.com/search?q=Alexis+Lafreni%c3%a8re) | N/A |
-| 44 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 45 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 46 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
-| 47 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
-| 48 | [Christine Sinclair](http://twitter.com/search?q=Christine+Sinclair) | N/A |
-| 49 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 50 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 6 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 7 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
+| 8 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 9 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 10 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 11 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 12 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
+| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 14 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 15 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 16 | [grade 11](http://twitter.com/search?q=grade+11) | N/A |
+| 17 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 18 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 19 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 21 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 22 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 23 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
+| 26 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 27 | [bonne journée](http://twitter.com/search?q=bonne+journ%c3%a9e) | N/A |
+| 28 | [corey perry](http://twitter.com/search?q=corey+perry) | N/A |
+| 29 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 30 | [bank of canada](http://twitter.com/search?q=bank+of+canada) | N/A |
+| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
+| 33 | [Singh](http://twitter.com/search?q=Singh) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 36 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 37 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 38 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 40 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 41 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 42 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 43 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 44 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 45 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 46 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 47 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
+| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 50 | [la grc](http://twitter.com/search?q=la+grc) | N/A |
 
 
 

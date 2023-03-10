@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-10 01:46:02 UTC`
+📆 Last Updated: `2023-03-10 02:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sneachta](http://twitter.com/search?q=%23sneachta) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#MUNBET](http://twitter.com/search?q=%23MUNBET) | N/A |
-| 6 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 7 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 8 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 9 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 12 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 15 | [Ireland Football](http://twitter.com/search?q=Ireland+Football) | N/A |
-| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 17 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 18 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 19 | [primary curriculum framework](http://twitter.com/search?q=primary+curriculum+framework) | N/A |
-| 20 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 21 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 26 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 27 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 29 | [The FAI](http://twitter.com/search?q=The+FAI) | N/A |
-| 30 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 33 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 36 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 37 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 38 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 39 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 42 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 43 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
-| 44 | [John McGhee](http://twitter.com/search?q=John+McGhee) | N/A |
-| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 46 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
-| 47 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 48 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 49 | [Thurles](http://twitter.com/search?q=Thurles) | N/A |
-| 50 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#sneachta](http://twitter.com/search?q=%23sneachta) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [burkes](http://twitter.com/search?q=burkes) | N/A |
+| 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 14 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 15 | [primary curriculum framework](http://twitter.com/search?q=primary+curriculum+framework) | N/A |
+| 16 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 17 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 20 | [the fai](http://twitter.com/search?q=the+fai) | N/A |
+| 21 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 24 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 25 | [Scream VI](http://twitter.com/search?q=Scream+VI) | N/A |
+| 26 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 27 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 29 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 30 | [president higgins](http://twitter.com/search?q=president+higgins) | N/A |
+| 31 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 32 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
+| 33 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 34 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 35 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 36 | [padraig](http://twitter.com/search?q=padraig) | N/A |
+| 37 | [Stick](http://twitter.com/search?q=Stick) | N/A |
+| 38 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
+| 39 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 41 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 42 | [thurles](http://twitter.com/search?q=thurles) | N/A |
+| 43 | [oireachtas](http://twitter.com/search?q=oireachtas) | N/A |
+| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 45 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 46 | [DART](http://twitter.com/search?q=DART) | N/A |
+| 47 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
+| 48 | [garda](http://twitter.com/search?q=garda) | N/A |
+| 49 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
+| 50 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 
 
 

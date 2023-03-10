@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-10 01:45:45 UTC`
+📆 Last Updated: `2023-03-10 02:43:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
-| 2 | [#FridayFitness](http://twitter.com/search?q=%23FridayFitness) | N/A |
-| 3 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
-| 4 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 5 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 6 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 12 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 13 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
-| 14 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 16 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 17 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
-| 20 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
-| 21 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 22 | [No Headway InSSRCase](http://twitter.com/search?q=No+Headway+InSSRCase) | N/A |
-| 23 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
-| 24 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 25 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Calendar](http://twitter.com/search?q=Calendar) | N/A |
-| 28 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
-| 29 | [Sushant Keeps Inspiring Us](http://twitter.com/search?q=Sushant+Keeps+Inspiring+Us) | N/A |
-| 30 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 31 | [bolte anubhav](http://twitter.com/search?q=bolte+anubhav) | N/A |
-| 32 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 33 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
-| 34 | [Suprabhatam](http://twitter.com/search?q=Suprabhatam) | N/A |
-| 35 | [Mask](http://twitter.com/search?q=Mask) | N/A |
-| 36 | [satsang matra se](http://twitter.com/search?q=satsang+matra+se) | N/A |
-| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 38 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 40 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
-| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 44 | [रसायन कृपा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8+%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be) | N/A |
-| 45 | [नानक देव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 46 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 47 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 48 | [Jai Shree Krishna](http://twitter.com/search?q=Jai+Shree+Krishna) | N/A |
-| 49 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 4 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 5 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 6 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 7 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 8 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 9 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 10 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 13 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
+| 14 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 15 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
+| 16 | [australian pm](http://twitter.com/search?q=australian+pm) | N/A |
+| 17 | [calendar](http://twitter.com/search?q=calendar) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
+| 20 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
+| 21 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
+| 22 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 23 | [deandra d](http://twitter.com/search?q=deandra+d) | N/A |
+| 24 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 25 | [bolte anubhav](http://twitter.com/search?q=bolte+anubhav) | N/A |
+| 26 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 27 | [satsang matra se](http://twitter.com/search?q=satsang+matra+se) | N/A |
+| 28 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 29 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [sant rampal ji maharaj](http://twitter.com/search?q=sant+rampal+ji+maharaj) | N/A |
+| 31 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 34 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
+| 35 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [Thik](http://twitter.com/search?q=Thik) | N/A |
+| 37 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 38 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
+| 39 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
+| 40 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
+| 41 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
+| 42 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 43 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
+| 44 | [#upisafetyshield](http://twitter.com/search?q=%23upisafetyshield) | N/A |
+| 45 | [#realmemusicstudio](http://twitter.com/search?q=%23realmemusicstudio) | N/A |
+| 46 | [#amritpaltrapforsikhs](http://twitter.com/search?q=%23amritpaltrapforsikhs) | N/A |
 
 
 

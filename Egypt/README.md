@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-10 01:46:02 UTC`
+📆 Last Updated: `2023-03-10 02:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Egypt
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#يوم_الشهيد](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
-| 2 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 3 | [#رجاله_الاهلي_قدها](http://twitter.com/search?q=%23%d8%b1%d8%ac%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%82%d8%af%d9%87%d8%a7) | N/A |
-| 4 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 5 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 6 | [#كهربا_خط_احمر_ياتحاد_العار](http://twitter.com/search?q=%23%d9%83%d9%87%d8%b1%d8%a8%d8%a7_%d8%ae%d8%b7_%d8%a7%d8%ad%d9%85%d8%b1_%d9%8a%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
-| 7 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 8 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 9 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 10 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 11 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 12 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 13 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 14 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 15 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 1 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 2 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 3 | [#يوم_الشهيد](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
+| 4 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 5 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 6 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
+| 7 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 8 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 9 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 10 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 11 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 12 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 13 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 14 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 15 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
 | 16 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
-| 17 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
-| 18 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 19 | [الندوه التثقيفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%af%d9%88%d9%87+%d8%a7%d9%84%d8%aa%d8%ab%d9%82%d9%8a%d9%81%d9%8a%d9%87) | N/A |
-| 20 | [علي التايم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%85) | N/A |
-| 21 | [اتحاد العار](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
-| 22 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 23 | [لحم الحمير](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%b1) | N/A |
-| 24 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
-| 25 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 26 | [تامر امين](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 27 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
-| 28 | [الاغاني الكرينج](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%86%d8%ac) | N/A |
-| 29 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 30 | [علوان](http://twitter.com/search?q=%d8%b9%d9%84%d9%88%d8%a7%d9%86) | N/A |
-| 31 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 32 | [كيرلس السادس](http://twitter.com/search?q=%d9%83%d9%8a%d8%b1%d9%84%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 33 | [النهارده الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 34 | [بيتيس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | بيتيس (pronounced "bay-tees") is an Arabic word meaning "my house". It is often used as a term of endearment, similar to saying "my home" or "my place". |
-| 35 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 36 | [حمزة نمرة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%86%d9%85%d8%b1%d8%a9) | N/A |
-| 37 | [عامل لايك](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d9%84%d8%a7%d9%8a%d9%83) | N/A |
-| 38 | [علي الارهاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d9%87%d8%a7%d8%a8) | N/A |
-| 39 | [احمد حجازي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | N/A |
-| 40 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 41 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 42 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
-| 43 | [ويك اند](http://twitter.com/search?q=%d9%88%d9%8a%d9%83+%d8%a7%d9%86%d8%af) | N/A |
-| 44 | [٩ مارس](http://twitter.com/search?q=%d9%a9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 45 | [عبد المنعم رياض](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 46 | [التضخم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b6%d8%ae%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 47 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 48 | [علي اللاعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8) | N/A |
-| 49 | [كامب ديفيد](http://twitter.com/search?q=%d9%83%d8%a7%d9%85%d8%a8+%d8%af%d9%8a%d9%81%d9%8a%d8%af) | N/A |
-| 50 | [منح الجنسيه](http://twitter.com/search?q=%d9%85%d9%86%d8%ad+%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 17 | [الندوه التثقيفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%af%d9%88%d9%87+%d8%a7%d9%84%d8%aa%d8%ab%d9%82%d9%8a%d9%81%d9%8a%d9%87) | N/A |
+| 18 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 19 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
+| 20 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 21 | [علي الارهاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d9%87%d8%a7%d8%a8) | N/A |
+| 22 | [كيرلس السادس](http://twitter.com/search?q=%d9%83%d9%8a%d8%b1%d9%84%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 23 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 24 | [النهارده الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 25 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
+| 26 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 27 | [9 مارس](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 28 | [عبد المنعم رياض](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 29 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 30 | [تامر امين](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 33 | [البيض البودره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b6+%d8%a7%d9%84%d8%a8%d9%88%d8%af%d8%b1%d9%87) | N/A |
+| 34 | [اتحاد العار](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
+| 35 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 36 | [كامب ديفيد](http://twitter.com/search?q=%d9%83%d8%a7%d9%85%d8%a8+%d8%af%d9%8a%d9%81%d9%8a%d8%af) | N/A |
+| 37 | [التضخم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b6%d8%ae%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 38 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 39 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 40 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 41 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 42 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 43 | [لحم الحمير](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%b1) | N/A |
+| 44 | [الحدود القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
+| 45 | [ناصر الخليفي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%81%d9%8a) | N/A |
+| 46 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 47 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 48 | [شهداء مصر](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d9%85%d8%b5%d8%b1) | N/A |
+| 49 | [مثلث القياده](http://twitter.com/search?q=%d9%85%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87) | N/A |
+| 50 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 
 
 
