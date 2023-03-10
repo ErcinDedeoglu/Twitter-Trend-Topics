@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-10 05:16:49 UTC`
+📆 Last Updated: `2023-03-10 06:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 3 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
-| 4 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 5 | [#engeneselcaday](http://twitter.com/search?q=%23engeneselcaday) | N/A |
-| 6 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
-| 7 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
-| 8 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
-| 9 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 10 | [gayuma mv out now](http://twitter.com/search?q=gayuma+mv+out+now) | N/A |
-| 11 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 12 | [JAEMIN](http://twitter.com/search?q=JAEMIN) | N/A |
-| 13 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
-| 14 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
-| 15 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 16 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
-| 17 | [jang uk](http://twitter.com/search?q=jang+uk) | N/A |
-| 18 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 19 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
-| 20 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
-| 21 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 22 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
-| 23 | [the corrs](http://twitter.com/search?q=the+corrs) | N/A |
-| 24 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 25 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 26 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 27 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
-| 28 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 29 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
-| 30 | [inang](http://twitter.com/search?q=inang) | N/A |
-| 31 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
-| 32 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 33 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 34 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
-| 35 | [congratulations hobi](http://twitter.com/search?q=congratulations+hobi) | N/A |
-| 36 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 37 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
-| 38 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 39 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
-| 40 | [jessey](http://twitter.com/search?q=jessey) | N/A |
-| 41 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
-| 42 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 43 | [akari](http://twitter.com/search?q=akari) | N/A |
-| 44 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 45 | [over me](http://twitter.com/search?q=over+me) | N/A |
-| 46 | [CHOCO MUCHO](http://twitter.com/search?q=CHOCO+MUCHO) | N/A |
-| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 48 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
-| 49 | [Mingyu](http://twitter.com/search?q=Mingyu) | N/A |
+| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 3 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
+| 4 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 5 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
+| 6 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
+| 7 | [GOT THE THRILLS](http://twitter.com/search?q=GOT+THE+THRILLS) | N/A |
+| 8 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 9 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 11 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 12 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 13 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 14 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
+| 15 | [POKE CHEEK](http://twitter.com/search?q=POKE+CHEEK) | N/A |
+| 16 | [LISA IN PARIS VLOG](http://twitter.com/search?q=LISA+IN+PARIS+VLOG) | N/A |
+| 17 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 18 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 19 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 21 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
+| 22 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 23 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
+| 24 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 25 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
+| 26 | [Wallflower](http://twitter.com/search?q=Wallflower) | N/A |
+| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 28 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 29 | [Steak](http://twitter.com/search?q=Steak) | N/A |
+| 30 | [TOP FOR VERSACE](http://twitter.com/search?q=TOP+FOR+VERSACE) | N/A |
+| 31 | [MY SEVEN](http://twitter.com/search?q=MY+SEVEN) | N/A |
+| 32 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
+| 33 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
+| 34 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 35 | [PRETTY U](http://twitter.com/search?q=PRETTY+U) | N/A |
+| 36 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 37 | [BACK IT UP](http://twitter.com/search?q=BACK+IT+UP) | N/A |
+| 38 | [katniss everdeen](http://twitter.com/search?q=katniss+everdeen) | N/A |
+| 39 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 40 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 41 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 42 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 43 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 44 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
+| 45 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
+| 46 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 47 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 48 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
+| 49 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
 
 
 

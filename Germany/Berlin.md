@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-10 05:16:33 UTC`
+📆 Last Updated: `2023-03-10 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 2 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
-| 3 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 4 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
-| 7 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
-| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 10 | [pässe](http://twitter.com/search?q=p%c3%a4sse) | N/A |
-| 11 | [sprengstoff](http://twitter.com/search?q=sprengstoff) | N/A |
-| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 13 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 14 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 15 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 16 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 17 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
-| 18 | [männern](http://twitter.com/search?q=m%c3%a4nnern) | N/A |
-| 19 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 20 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 21 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 22 | [taucher](http://twitter.com/search?q=taucher) | N/A |
-| 23 | [flinta](http://twitter.com/search?q=flinta) | N/A |
-| 24 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 25 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [herzinfarkt](http://twitter.com/search?q=herzinfarkt) | N/A |
-| 30 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
-| 31 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 32 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 33 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 34 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 35 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 36 | [warnung](http://twitter.com/search?q=warnung) | N/A |
-| 37 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 38 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 39 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 40 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
-| 41 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 42 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 43 | [blumen](http://twitter.com/search?q=blumen) | N/A |
-| 44 | [sprengung](http://twitter.com/search?q=sprengung) | N/A |
-| 45 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 46 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 47 | [patientenakte](http://twitter.com/search?q=patientenakte) | N/A |
-| 48 | [wärmepumpen](http://twitter.com/search?q=w%c3%a4rmepumpen) | N/A |
-| 49 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 50 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 4 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 5 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 6 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
+| 7 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 9 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 10 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
+| 11 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 13 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 14 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 15 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 16 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 17 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 18 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
+| 19 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 20 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 21 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
+| 22 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 23 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 24 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 25 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 26 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 27 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 28 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 30 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 31 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 32 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
+| 33 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 34 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 35 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 36 | [Tote und Verletzte](http://twitter.com/search?q=Tote+und+Verletzte) | N/A |
+| 37 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 38 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 39 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 40 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 41 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 42 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 43 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 44 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 45 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 46 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 47 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 48 | [Erzwungen](http://twitter.com/search?q=Erzwungen) | N/A |
+| 49 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 50 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-10 05:16:58 UTC`
+📆 Last Updated: `2023-03-10 06:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
-| 4 | [#iuvlq](http://twitter.com/search?q=%23iuvlq) | N/A |
-| 5 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
-| 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 7 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
+| 1 | [#Zakat4HabibUni](http://twitter.com/search?q=%23Zakat4HabibUni) | N/A |
+| 2 | [Habib University](http://twitter.com/search?q=Habib+University) | N/A |
+| 3 | [#JummahMubarak](http://twitter.com/search?q=%23JummahMubarak) | N/A |
+| 4 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
+| 5 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
+| 6 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
+| 7 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
 | 8 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 9 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 10 | [rashid khan](http://twitter.com/search?q=rashid+khan) | N/A |
-| 11 | [mohsin naqvi](http://twitter.com/search?q=mohsin+naqvi) | N/A |
-| 12 | [axact](http://twitter.com/search?q=axact) | N/A |
-| 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 9 | [Shariah](http://twitter.com/search?q=Shariah) | N/A |
+| 10 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 11 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
+| 12 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 13 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
 | 14 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
-| 15 | [model town](http://twitter.com/search?q=model+town) | N/A |
-| 16 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
-| 17 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 18 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
-| 19 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
+| 15 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
+| 16 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 17 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 18 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 19 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 20 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
-| 21 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 22 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
-| 23 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 24 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
-| 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 26 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 27 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
-| 28 | [#lqviu](http://twitter.com/search?q=%23lqviu) | N/A |
-| 29 | [#releaseshoaibshaikh](http://twitter.com/search?q=%23releaseshoaibshaikh) | N/A |
-| 30 | [#گندی_ویڈیو_والی_عورت](http://twitter.com/search?q=%23%da%af%d9%86%d8%af%db%8c_%d9%88%db%8c%da%88%db%8c%d9%88_%d9%88%d8%a7%d9%84%db%8c_%d8%b9%d9%88%d8%b1%d8%aa) | N/A |
-| 31 | [#zaman_park_lahore](http://twitter.com/search?q=%23zaman_park_lahore) | N/A |
-| 32 | [#حسنین_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%ad%d8%b3%d9%86%db%8c%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 33 | [#منشی_محسن_نقوی_شرم_کرو](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b4%db%8c_%d9%85%d8%ad%d8%b3%d9%86_%d9%86%d9%82%d9%88%db%8c_%d8%b4%d8%b1%d9%85_%da%a9%d8%b1%d9%88) | N/A |
-| 34 | [#انسانیت_کا_قتل](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3%d8%a7%d9%86%db%8c%d8%aa_%da%a9%d8%a7_%d9%82%d8%aa%d9%84) | N/A |
-| 35 | [#youthwithhinabutt](http://twitter.com/search?q=%23youthwithhinabutt) | N/A |
-| 36 | [#نشئی_بھگوڑا_گھڑی_چور](http://twitter.com/search?q=%23%d9%86%d8%b4%d8%a6%db%8c_%d8%a8%da%be%da%af%d9%88%da%91%d8%a7_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 37 | [#findabidmir](http://twitter.com/search?q=%23findabidmir) | N/A |
-| 38 | [#arrestkamyanaandmohsin](http://twitter.com/search?q=%23arrestkamyanaandmohsin) | N/A |
-| 39 | [#پاکستان_پکارے_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d9%be%da%a9%d8%a7%d8%b1%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 40 | [#عورت_مارچ](http://twitter.com/search?q=%23%d8%b9%d9%88%d8%b1%d8%aa_%d9%85%d8%a7%d8%b1%da%86) | N/A |
-| 41 | [#آؤ_لمبی_لمبی_چھوڑیں](http://twitter.com/search?q=%23%d8%a2%d8%a4_%d9%84%d9%85%d8%a8%db%8c_%d9%84%d9%85%d8%a8%db%8c_%da%86%da%be%d9%88%da%91%db%8c%da%ba) | N/A |
-| 42 | [#حق_دو_قید_نہیں](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%af%d9%88_%d9%82%db%8c%d8%af_%d9%86%db%81%db%8c%da%ba) | N/A |
-| 43 | [#auratmarch2023](http://twitter.com/search?q=%23auratmarch2023) | N/A |
-| 44 | [#istandwithbol](http://twitter.com/search?q=%23istandwithbol) | N/A |
-| 45 | [#ispr](http://twitter.com/search?q=%23ispr) | N/A |
-| 46 | [#babarazam𓃵](http://twitter.com/search?q=%23babarazam%f0%93%83%b5) | N/A |
-| 47 | [#qgvpz](http://twitter.com/search?q=%23qgvpz) | N/A |
-| 48 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
-| 49 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 23 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 24 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
+| 25 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
+| 26 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 29 | [Insaf](http://twitter.com/search?q=Insaf) | N/A |
+| 30 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 31 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
+| 32 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 33 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 34 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 35 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 37 | [May Allah Almighty](http://twitter.com/search?q=May+Allah+Almighty) | N/A |
+| 38 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 39 | [The Pakistani](http://twitter.com/search?q=The+Pakistani) | N/A |
+| 40 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 41 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 42 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
+| 46 | [President](http://twitter.com/search?q=President) | N/A |
+| 47 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
+| 48 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 49 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 50 | [Count](http://twitter.com/search?q=Count) | N/A |
 
 
 

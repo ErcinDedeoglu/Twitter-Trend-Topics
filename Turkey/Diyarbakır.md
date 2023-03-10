@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-10 05:17:02 UTC`
+📆 Last Updated: `2023-03-10 06:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,41 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 2 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
-| 3 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
-| 4 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 5 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
-| 6 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 7 | [muharremince seçimşarkısı](http://twitter.com/search?q=muharremince+se%c3%a7im%c5%9fark%c4%b1s%c4%b1) | N/A |
-| 8 | [uygunfiyatda tthizmeti](http://twitter.com/search?q=uygunfiyatda+tthizmeti) | N/A |
-| 9 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 10 | [büyük türkiye hareketi](http://twitter.com/search?q=b%c3%bcy%c3%bck+t%c3%bcrkiye+hareketi) | N/A |
-| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 12 | [aslı baykal](http://twitter.com/search?q=asl%c4%b1+baykal) | N/A |
-| 13 | [bisiklet](http://twitter.com/search?q=bisiklet) | N/A |
-| 14 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 15 | [mücahit kılıçdaroğlu](http://twitter.com/search?q=m%c3%bccahit+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 16 | [kıyma 300](http://twitter.com/search?q=k%c4%b1yma+300) | N/A |
-| 17 | [i̇smet demirdöğen](http://twitter.com/search?q=i%cc%87smet+demird%c3%b6%c4%9fen) | N/A |
-| 18 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 19 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 20 | [haymana mutabakatı](http://twitter.com/search?q=haymana+mutabakat%c4%b1) | N/A |
-| 21 | [talepnet önceaf](http://twitter.com/search?q=talepnet+%c3%b6nceaf) | N/A |
-| 22 | [Teşekkür](http://twitter.com/search?q=Te%c5%9fekk%c3%bcr) | N/A |
-| 23 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
-| 24 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 27 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 28 | [togg](http://twitter.com/search?q=togg) | N/A |
-| 29 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 30 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 31 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
-| 32 | [afgelmezse oydayok](http://twitter.com/search?q=afgelmezse+oydayok) | N/A |
-| 33 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
-| 34 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 35 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
-| 36 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
-| 37 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 38 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
-| 39 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
-| 40 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
-| 41 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
-| 42 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 43 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 44 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 45 | [USDT   BUY](http://twitter.com/search?q=USDT+++BUY) | N/A |
-| 46 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 47 | [Fenerbahçeye](http://twitter.com/search?q=Fenerbah%c3%a7eye) | N/A |
-| 48 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 49 | [Canım](http://twitter.com/search?q=Can%c4%b1m) | N/A |
+| 1 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
+| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 3 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 4 | [#StajyerAnkaraUlusta](http://twitter.com/search?q=%23StajyerAnkaraUlusta) | N/A |
+| 5 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 6 | [Hacılar](http://twitter.com/search?q=Hac%c4%b1lar) | N/A |
+| 7 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 11 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
+| 12 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 13 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 14 | [Mücahid](http://twitter.com/search?q=M%c3%bccahid) | N/A |
+| 15 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 16 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 17 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
+| 18 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
+| 19 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
+| 20 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
+| 23 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 24 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 25 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 26 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 27 | [Kadıköy'de](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y%27de) | Kadıköy'de is a Turkish phrase meaning "in Kadıköy". Kadıköy is a district of Istanbul, Turkey. |
+| 28 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 29 | [#BenAnlatayım](http://twitter.com/search?q=%23BenAnlatay%c4%b1m) | N/A |
+| 30 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 31 | [#2000sonrasiTorbaya](http://twitter.com/search?q=%232000sonrasiTorbaya) | N/A |
+| 32 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
+| 33 | [#SEVvFB](http://twitter.com/search?q=%23SEVvFB) | N/A |
+| 34 | [#BursasporSahipsizDeğildir](http://twitter.com/search?q=%23BursasporSahipsizDe%c4%9fildir) | N/A |
+| 35 | [#5000VeKısmiHakkımız](http://twitter.com/search?q=%235000VeK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
 
 
 

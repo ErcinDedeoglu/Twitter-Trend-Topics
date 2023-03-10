@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-10 05:17:18 UTC`
+📆 Last Updated: `2023-03-10 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kvinnedagen](http://twitter.com/search?q=%23kvinnedagen) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [helseplattformen](http://twitter.com/search?q=helseplattformen) | N/A |
-| 5 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 10 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 11 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 12 | [sporting](http://twitter.com/search?q=sporting) | N/A |
-| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 14 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
-| 15 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
-| 16 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
-| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 19 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 20 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 21 | [fantastisk](http://twitter.com/search?q=fantastisk) | N/A |
-| 22 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
-| 23 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 1 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 3 | [#kvinnedagen](http://twitter.com/search?q=%23kvinnedagen) | N/A |
+| 4 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 5 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 6 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 7 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 8 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 9 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 10 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 11 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 12 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 14 | [#MUNBET](http://twitter.com/search?q=%23MUNBET) | N/A |
+| 15 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 16 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 19 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 22 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 23 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
 | 24 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 25 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 26 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 27 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
-| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 32 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 33 | [amsterdam](http://twitter.com/search?q=amsterdam) | N/A |
-| 34 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
-| 37 | [schjelderup](http://twitter.com/search?q=schjelderup) | N/A |
-| 38 | [trur](http://twitter.com/search?q=trur) | N/A |
-| 39 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 41 | [Absolutt](http://twitter.com/search?q=Absolutt) | N/A |
-| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 43 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 44 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 45 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 48 | [Nordstream](http://twitter.com/search?q=Nordstream) | N/A |
-| 49 | [exit](http://twitter.com/search?q=exit) | N/A |
-| 50 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 28 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 33 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 34 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 38 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 41 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 42 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
+| 43 | [neste](http://twitter.com/search?q=neste) | N/A |
+| 44 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 45 | [schjelderup](http://twitter.com/search?q=schjelderup) | N/A |
+| 46 | [giske](http://twitter.com/search?q=giske) | N/A |
+| 47 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 48 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 49 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 50 | [Tusen](http://twitter.com/search?q=Tusen) | N/A |
 
 
 
