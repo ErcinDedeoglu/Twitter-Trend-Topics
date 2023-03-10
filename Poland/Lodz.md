@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-10 15:16:29 UTC`
+📆 Last Updated: `2023-03-10 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 3 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
 | 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 5 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
-| 6 | [#PrzyszłośćToPolska](http://twitter.com/search?q=%23Przysz%c5%82o%c5%9b%c4%87ToPolska) | N/A |
+| 5 | [#PrzyszłośćToPolska](http://twitter.com/search?q=%23Przysz%c5%82o%c5%9b%c4%87ToPolska) | N/A |
+| 6 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
 | 7 | [dzień kobiet](http://twitter.com/search?q=dzie%c5%84+kobiet) | N/A |
 | 8 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 9 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 12 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 12 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 13 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
 | 14 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
-| 15 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 15 | [grot](http://twitter.com/search?q=grot) | N/A |
 | 16 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
 | 17 | [suski](http://twitter.com/search?q=suski) | N/A |
-| 18 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 19 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
-| 20 | [brzezińskiego](http://twitter.com/search?q=brzezi%c5%84skiego) | N/A |
-| 21 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 18 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 19 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 20 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 21 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
 | 22 | [Proszę](http://twitter.com/search?q=Prosz%c4%99) | N/A |
-| 23 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 24 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 23 | [Mig-29](http://twitter.com/search?q=Mig-29) | N/A |
+| 24 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
 | 25 | [piotr borys](http://twitter.com/search?q=piotr+borys) | N/A |
-| 26 | [Dnia Mężczyzn](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzn) | N/A |
+| 26 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
 | 27 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 28 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 29 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
-| 30 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 31 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
-| 32 | [bayernu](http://twitter.com/search?q=bayernu) | N/A |
+| 28 | [Dnia Mężczyzn](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzn) | N/A |
+| 29 | [tygrysek](http://twitter.com/search?q=tygrysek) | N/A |
+| 30 | [brzeziński](http://twitter.com/search?q=brzezi%c5%84ski) | N/A |
+| 31 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 32 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
 | 33 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
 | 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 35 | [sportingu](http://twitter.com/search?q=sportingu) | N/A |
-| 36 | [dyplomatołki](http://twitter.com/search?q=dyplomato%c5%82ki) | N/A |
-| 37 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
-| 38 | [zaporoska elektrownia atomowa](http://twitter.com/search?q=zaporoska+elektrownia+atomowa) | N/A |
-| 39 | [polskie msz](http://twitter.com/search?q=polskie+msz) | N/A |
-| 40 | [światowy dzień nerek](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+nerek) | N/A |
-| 41 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 42 | [fis cup](http://twitter.com/search?q=fis+cup) | N/A |
-| 43 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 44 | [gliński](http://twitter.com/search?q=gli%c5%84ski) | N/A |
-| 45 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
-| 46 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
-| 47 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
-| 48 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 49 | [Mój Boże](http://twitter.com/search?q=M%c3%b3j+Bo%c5%bce) | N/A |
+| 35 | [dyplomatołki](http://twitter.com/search?q=dyplomato%c5%82ki) | N/A |
+| 36 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 37 | [polskie msz](http://twitter.com/search?q=polskie+msz) | N/A |
+| 38 | [fis cup](http://twitter.com/search?q=fis+cup) | N/A |
+| 39 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 40 | [gliński](http://twitter.com/search?q=gli%c5%84ski) | N/A |
+| 41 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
+| 42 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
+| 43 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
+| 44 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 45 | [jp 2](http://twitter.com/search?q=jp+2) | N/A |
+| 46 | [partii republikańskiej](http://twitter.com/search?q=partii+republika%c5%84skiej) | N/A |
+| 47 | [glapa](http://twitter.com/search?q=glapa) | N/A |
+| 48 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 49 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
 
 
 

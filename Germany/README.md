@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-10 15:17:05 UTC`
+📆 Last Updated: `2023-03-10 16:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 1 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#throwbackthursday](http://twitter.com/search?q=%23throwbackthursday) | N/A |
 | 4 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
 | 5 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
 | 6 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 7 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 8 | [Zweitnamen](http://twitter.com/search?q=Zweitnamen) | N/A |
-| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 13 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 14 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Befunde](http://twitter.com/search?q=Befunde) | N/A |
-| 17 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 18 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
-| 19 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 20 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 21 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 22 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 23 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 24 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 25 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 26 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 27 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 28 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 29 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 30 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 31 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 32 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 33 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 34 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 35 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 36 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 37 | [Fremden](http://twitter.com/search?q=Fremden) | N/A |
-| 38 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 39 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 40 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
-| 41 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 42 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
-| 43 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 44 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 45 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 46 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 47 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 48 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 49 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 50 | [Paare](http://twitter.com/search?q=Paare) | N/A |
+| 7 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 8 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 11 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 12 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 13 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 14 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
+| 15 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 16 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 18 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 20 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 21 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 22 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 23 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 24 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 25 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 26 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 27 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 28 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 29 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 30 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 31 | [Paare](http://twitter.com/search?q=Paare) | N/A |
+| 32 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 33 | [Fremden](http://twitter.com/search?q=Fremden) | N/A |
+| 34 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 35 | [warnung](http://twitter.com/search?q=warnung) | N/A |
+| 36 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 37 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 38 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
+| 39 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 40 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 41 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 42 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 43 | [Fahrerlaubnis](http://twitter.com/search?q=Fahrerlaubnis) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [zehner](http://twitter.com/search?q=zehner) | N/A |
+| 46 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 47 | [Zweitnamen](http://twitter.com/search?q=Zweitnamen) | N/A |
+| 48 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 49 | [Sekten](http://twitter.com/search?q=Sekten) | N/A |
+| 50 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-10 15:16:20 UTC`
+📆 Last Updated: `2023-03-10 16:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 7 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 8 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 5 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 6 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 7 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 10 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 13 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 14 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 15 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 18 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 19 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 22 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 23 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 24 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 15 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 17 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 18 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 19 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 20 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 21 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 22 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
+| 23 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 25 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 27 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 26 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 27 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 28 | [London](http://twitter.com/search?q=London) | N/A |
-| 29 | [CITV](http://twitter.com/search?q=CITV) | N/A |
-| 30 | [Monbiot](http://twitter.com/search?q=Monbiot) | N/A |
-| 31 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 32 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 31 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 33 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 | 34 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 35 | [mae muller](http://twitter.com/search?q=mae+muller) | N/A |
+| 35 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
 | 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 39 | [Toad](http://twitter.com/search?q=Toad) | N/A |
-| 40 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 42 | [Cameron Smith](http://twitter.com/search?q=Cameron+Smith) | N/A |
-| 43 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 45 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 46 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 37 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 38 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 39 | [Cameron Smith](http://twitter.com/search?q=Cameron+Smith) | N/A |
+| 40 | [Monbiot](http://twitter.com/search?q=Monbiot) | N/A |
+| 41 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 42 | [CITV](http://twitter.com/search?q=CITV) | N/A |
+| 43 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 44 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 45 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 46 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
 | 47 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 48 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 49 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 50 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 48 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [Nicky Henderson](http://twitter.com/search?q=Nicky+Henderson) | N/A |
 
 
 

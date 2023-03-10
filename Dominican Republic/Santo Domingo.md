@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-10 15:16:21 UTC`
+📆 Last Updated: `2023-03-10 16:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,33 +31,33 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 14 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 15 | [Bandera Dominicana](http://twitter.com/search?q=Bandera+Dominicana) | N/A |
 | 16 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
-| 17 | [Guillermo moreno](http://twitter.com/search?q=Guillermo+moreno) | N/A |
-| 18 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 19 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
-| 20 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
-| 21 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 22 | [Robinson Canó](http://twitter.com/search?q=Robinson+Can%c3%b3) | N/A |
-| 23 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 24 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 25 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 17 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
+| 20 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
+| 21 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [Robinson Canó](http://twitter.com/search?q=Robinson+Can%c3%b3) | N/A |
+| 24 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 25 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
 | 29 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
 | 30 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
 | 31 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 32 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 33 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 34 | [Peña Guaba](http://twitter.com/search?q=Pe%c3%b1a+Guaba) | N/A |
-| 35 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
-| 36 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 38 | [intrant](http://twitter.com/search?q=intrant) | N/A |
-| 39 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 41 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 32 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 33 | [Peña Guaba](http://twitter.com/search?q=Pe%c3%b1a+Guaba) | N/A |
+| 34 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 37 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 38 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 39 | [intrant](http://twitter.com/search?q=intrant) | N/A |
+| 40 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 41 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 42 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 43 | [lozano](http://twitter.com/search?q=lozano) | N/A |
+| 43 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
 | 44 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 45 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
 | 46 | [francisco javier garcía](http://twitter.com/search?q=francisco+javier+garc%c3%ada) | N/A |

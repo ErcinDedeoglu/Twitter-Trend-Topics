@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-10 15:16:51 UTC`
+📆 Last Updated: `2023-03-10 16:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
-| 2 | [#Ban_Communal_SDPI](http://twitter.com/search?q=%23Ban_Communal_SDPI) | N/A |
-| 3 | [#FridaysWithArmaan](http://twitter.com/search?q=%23FridaysWithArmaan) | N/A |
-| 4 | [#PWFCitadel2023](http://twitter.com/search?q=%23PWFCitadel2023) | N/A |
+| 1 | [#FridaysWithArmaan](http://twitter.com/search?q=%23FridaysWithArmaan) | N/A |
+| 2 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
+| 3 | [#PWFCitadel2023](http://twitter.com/search?q=%23PWFCitadel2023) | N/A |
+| 4 | [#Ban_Communal_SDPI](http://twitter.com/search?q=%23Ban_Communal_SDPI) | N/A |
 | 5 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
 | 6 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 7 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 8 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
+| 7 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
+| 8 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
 | 9 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 10 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 12 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
-| 13 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
-| 14 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 15 | [Ritesh Agarwal](http://twitter.com/search?q=Ritesh+Agarwal) | N/A |
-| 16 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 17 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
-| 18 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 19 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
-| 20 | [LAST CALL TEASER OUT NOW](http://twitter.com/search?q=LAST+CALL+TEASER+OUT+NOW) | N/A |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 23 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 24 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 10 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
+| 11 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 12 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 13 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 14 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 15 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
+| 16 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 17 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 18 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 19 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
+| 20 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 21 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
+| 22 | [LAST CALL TEASER OUT NOW](http://twitter.com/search?q=LAST+CALL+TEASER+OUT+NOW) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
 | 25 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 26 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
-| 27 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
-| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 32 | [AK AS BUDHWAR ON NETFLIX](http://twitter.com/search?q=AK+AS+BUDHWAR+ON+NETFLIX) | N/A |
-| 33 | [Modiji Ensure Justice 4SSR](http://twitter.com/search?q=Modiji+Ensure+Justice+4SSR) | N/A |
-| 34 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 35 | [Calendar](http://twitter.com/search?q=Calendar) | N/A |
-| 36 | [Mask](http://twitter.com/search?q=Mask) | N/A |
-| 37 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
-| 38 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 39 | [माधव राष्ट्रीय उद्यान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 40 | [Sanjay Singh](http://twitter.com/search?q=Sanjay+Singh) | N/A |
-| 41 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 42 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
-| 43 | [Shreyanka Patil](http://twitter.com/search?q=Shreyanka+Patil) | N/A |
-| 44 | [T&C Apply](http://twitter.com/search?q=T%26C+Apply) | N/A |
-| 45 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 46 | [B. ThinkShield for Mobile](http://twitter.com/search?q=B.+ThinkShield+for+Mobile) | N/A |
-| 47 | [Yuva](http://twitter.com/search?q=Yuva) | N/A |
-| 48 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
-| 49 | [प्रथम भारतीय महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 26 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 27 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 28 | [रितेश अग्रवाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 29 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
+| 30 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
+| 31 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
+| 32 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 33 | [AK AS BUDHWAR ON NETFLIX](http://twitter.com/search?q=AK+AS+BUDHWAR+ON+NETFLIX) | N/A |
+| 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 35 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 36 | [Modiji Ensure Justice 4SSR](http://twitter.com/search?q=Modiji+Ensure+Justice+4SSR) | N/A |
+| 37 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 38 | [Ravichandran Ashwin](http://twitter.com/search?q=Ravichandran+Ashwin) | N/A |
+| 39 | [Prisoners Say](http://twitter.com/search?q=Prisoners+Say) | N/A |
+| 40 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
+| 41 | [Calendar](http://twitter.com/search?q=Calendar) | N/A |
+| 42 | [Shreyanka](http://twitter.com/search?q=Shreyanka) | N/A |
+| 43 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 44 | [B. ThinkShield](http://twitter.com/search?q=B.+ThinkShield) | N/A |
+| 45 | [T&C Apply](http://twitter.com/search?q=T%26C+Apply) | N/A |
+| 46 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 47 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 48 | [पुलिस प्रशासन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8) | N/A |
+| 49 | [Shivaji](http://twitter.com/search?q=Shivaji) | N/A |
 
 
 

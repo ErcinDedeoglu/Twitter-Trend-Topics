@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-10 15:16:23 UTC`
+📆 Last Updated: `2023-03-10 16:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 4 | [#KornoPasaElAuxiliar](http://twitter.com/search?q=%23KornoPasaElAuxiliar) | N/A |
-| 5 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 6 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 1 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
+| 2 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
 | 7 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 8 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 14 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 8 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 9 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 15 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
 | 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 17 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
 | 18 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 19 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 20 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 21 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 22 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 23 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 24 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
-| 25 | [Edith](http://twitter.com/search?q=Edith) | N/A |
+| 19 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 20 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 21 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 22 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 23 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 24 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 25 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
 | 26 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 27 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 27 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 28 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 29 | [este 8m](http://twitter.com/search?q=este+8m) | N/A |
-| 30 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 31 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 32 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 33 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 34 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 35 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 36 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 37 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 30 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
+| 31 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 32 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 33 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 34 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
+| 35 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 36 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
+| 37 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 | 38 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 39 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 40 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 41 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 42 | [cada 8m](http://twitter.com/search?q=cada+8m) | N/A |
-| 43 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
-| 44 | [Día Mundial del Riñón](http://twitter.com/search?q=D%c3%ada+Mundial+del+Ri%c3%b1%c3%b3n) | N/A |
-| 45 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 46 | [freenbecky in latam](http://twitter.com/search?q=freenbecky+in+latam) | N/A |
-| 47 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 48 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 49 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 50 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 39 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 40 | [ovidio guzmán](http://twitter.com/search?q=ovidio+guzm%c3%a1n) | N/A |
+| 41 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 42 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 43 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 44 | [cada 8m](http://twitter.com/search?q=cada+8m) | N/A |
+| 45 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
+| 46 | [Día Mundial del Riñón](http://twitter.com/search?q=D%c3%ada+Mundial+del+Ri%c3%b1%c3%b3n) | N/A |
+| 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 48 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 50 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 
 
 
