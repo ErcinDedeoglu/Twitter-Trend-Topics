@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-10 12:18:49 UTC`
+📆 Last Updated: `2023-03-10 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,15 +41,15 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 24 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 25 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
 | 26 | [#AIart](http://twitter.com/search?q=%23AIart) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 29 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 31 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 33 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
-| 34 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 35 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 27 | [West](http://twitter.com/search?q=West) | N/A |
+| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 29 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 30 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 31 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 32 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 33 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 34 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
+| 35 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 36 | [invercargill](http://twitter.com/search?q=invercargill) | N/A |
 | 37 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |

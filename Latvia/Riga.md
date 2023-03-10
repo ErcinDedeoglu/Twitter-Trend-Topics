@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-10 12:18:24 UTC`
+📆 Last Updated: `2023-03-10 13:21:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,23 +20,23 @@ This is top 50 for [Latvia](</Latvia>)
 | 3 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 4 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 5 | [stambulas](http://twitter.com/search?q=stambulas) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 8 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
-| 9 | [gruzijas](http://twitter.com/search?q=gruzijas) | N/A |
-| 10 | [talsos](http://twitter.com/search?q=talsos) | N/A |
-| 11 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 12 | [talsu](http://twitter.com/search?q=talsu) | N/A |
-| 13 | [daugavpili](http://twitter.com/search?q=daugavpili) | N/A |
-| 14 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 15 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 16 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 17 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 18 | [#ESfondi](http://twitter.com/search?q=%23ESfondi) | N/A |
-| 19 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 20 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 21 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 22 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
+| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 7 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
+| 8 | [gruzijas](http://twitter.com/search?q=gruzijas) | N/A |
+| 9 | [talsos](http://twitter.com/search?q=talsos) | N/A |
+| 10 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 11 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 12 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 14 | [daugavpili](http://twitter.com/search?q=daugavpili) | N/A |
+| 15 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 16 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 17 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 18 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 19 | [#ESfondi](http://twitter.com/search?q=%23ESfondi) | N/A |
+| 20 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 21 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 22 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 23 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 25 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
@@ -45,25 +45,25 @@ This is top 50 for [Latvia](</Latvia>)
 | 28 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
 | 29 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 30 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 31 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 32 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
-| 33 | [avenu](http://twitter.com/search?q=avenu) | N/A |
-| 34 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
-| 35 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
-| 36 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 37 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
-| 38 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 39 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 40 | [dievam](http://twitter.com/search?q=dievam) | N/A |
-| 41 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
-| 42 | [izglītības](http://twitter.com/search?q=izgl%c4%abt%c4%abbas) | N/A |
-| 43 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 44 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 45 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
-| 46 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
-| 47 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 48 | [tevis](http://twitter.com/search?q=tevis) | N/A |
-| 49 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 31 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 32 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 33 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
+| 34 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 35 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
+| 36 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
+| 37 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 38 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
+| 39 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
+| 40 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 41 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 42 | [dievam](http://twitter.com/search?q=dievam) | N/A |
+| 43 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
+| 44 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 45 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 46 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 47 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 48 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
+| 49 | [Toties](http://twitter.com/search?q=Toties) | N/A |
 
 
 

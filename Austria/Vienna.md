@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-10 12:18:16 UTC`
+📆 Last Updated: `2023-03-10 13:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Austria](</Austria>)
 | 7 | [Gegenwart](http://twitter.com/search?q=Gegenwart) | N/A |
 | 8 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
 | 9 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 10 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 11 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
-| 12 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 13 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 14 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 15 | [Karli](http://twitter.com/search?q=Karli) | N/A |
+| 10 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
+| 11 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 12 | [Karli](http://twitter.com/search?q=Karli) | N/A |
+| 13 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 14 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 15 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
 | 16 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 17 | [brunner](http://twitter.com/search?q=brunner) | N/A |
-| 18 | [freien](http://twitter.com/search?q=freien) | N/A |
-| 19 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 17 | [freien](http://twitter.com/search?q=freien) | N/A |
+| 18 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 19 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
 | 20 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 | 21 | [maskenpflicht](http://twitter.com/search?q=maskenpflicht) | N/A |
 | 22 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 23 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 24 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 25 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 26 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 27 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 28 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
-| 29 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 30 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 31 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 32 | [beidl](http://twitter.com/search?q=beidl) | N/A |
-| 33 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 34 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 35 | [plakate](http://twitter.com/search?q=plakate) | N/A |
-| 36 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 37 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 38 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 41 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
-| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 43 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 44 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
-| 45 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
-| 46 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 47 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 48 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
-| 49 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
-| 50 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 23 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 24 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
+| 25 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 26 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 27 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 28 | [beidl](http://twitter.com/search?q=beidl) | N/A |
+| 29 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 30 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 31 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 32 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 33 | [plakate](http://twitter.com/search?q=plakate) | N/A |
+| 34 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 35 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 36 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 39 | [Jungen](http://twitter.com/search?q=Jungen) | N/A |
+| 40 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
+| 41 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 42 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
+| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 44 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
+| 45 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
+| 46 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
+| 47 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 48 | [herrengasse](http://twitter.com/search?q=herrengasse) | N/A |
+| 49 | [Gespräche](http://twitter.com/search?q=Gespr%c3%a4che) | N/A |
+| 50 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
 
 
 

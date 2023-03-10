@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Niigata
 
-📆 Last Updated: `2023-03-10 12:18:29 UTC`
+📆 Last Updated: `2023-03-10 13:21:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 2 | [韓国のピッチャー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 1 | [犠牲フライ](http://twitter.com/search?q=%e7%8a%a0%e7%89%b2%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 2 | [#日本アカデミー賞](http://twitter.com/search?q=%23%e6%97%a5%e6%9c%ac%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%b3%9e) | #日本アカデミー賞 is the Japan Academy Prize, an annual award ceremony held by the Nippon Academy-Sho Association to recognize excellence in Japanese films. It is considered to be one of the most prestigious awards in the Japanese film industry. The award ceremony is held annually in February or March and winners are presented with a golden statuette of a kirin, a mythical creature from Japanese folklore. |
 | 3 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 4 | [キムグァンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b0%e3%82%a1%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 5 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 6 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
-| 7 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 8 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
-| 9 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
-| 10 | [日本逆転](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e9%80%86%e8%bb%a2) | N/A |
-| 11 | [源田大丈夫](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 12 | [源田交代](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e4%ba%a4%e4%bb%a3) | N/A |
-| 13 | [イジョンフ](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95) | N/A |
-| 14 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 15 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
-| 16 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
-| 17 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
-| 18 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
-| 19 | [中野くん](http://twitter.com/search?q=%e4%b8%ad%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
-| 20 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 21 | [スクチェン](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%81%e3%82%a7%e3%83%b3) | N/A |
-| 22 | [ダルさん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%95%e3%82%93) | N/A |
-| 23 | [ガルラガン](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%a9%e3%82%ac%e3%83%b3) | N/A |
-| 24 | [キムガンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%ac%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 25 | [前向きロケット団](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | N/A |
-| 26 | [今永のストレート](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%ae%e3%82%b9%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
-| 27 | [今永投手](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e6%8a%95%e6%89%8b) | N/A |
-| 28 | [源田心配](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%bf%83%e9%85%8d) | N/A |
-| 29 | [ツーラン](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 30 | [韓国のイチロー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 31 | [ミンギュ髪](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5%e9%ab%aa) | N/A |
-| 32 | [今永キレッキレ](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%82%ad%e3%83%ac%e3%83%83%e3%82%ad%e3%83%ac) | N/A |
-| 33 | [永ナイスピッチング](http://twitter.com/search?q=%e6%b0%b8%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
-| 34 | [ショート中野](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%88%e4%b8%ad%e9%87%8e) | N/A |
-| 35 | [球数投げ](http://twitter.com/search?q=%e7%90%83%e6%95%b0%e6%8a%95%e3%81%92) | N/A |
-| 36 | [源田怪我](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e6%80%aa%e6%88%91) | N/A |
-| 37 | [ザロスト](http://twitter.com/search?q=%e3%82%b6%e3%83%ad%e3%82%b9%e3%83%88) | N/A |
-| 38 | [韓国の投手](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e6%8a%95%e6%89%8b) | N/A |
-| 39 | [韓国の先発](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e5%85%88%e7%99%ba) | N/A |
-| 40 | [サガ無規制](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e7%84%a1%e8%a6%8f%e5%88%b6) | N/A |
-| 41 | [今永昇太](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e6%98%87%e5%a4%aa) | N/A |
-| 42 | [公立学校教員](http://twitter.com/search?q=%e5%85%ac%e7%ab%8b%e5%ad%a6%e6%a0%a1%e6%95%99%e5%93%a1) | N/A |
-| 43 | [定本くん](http://twitter.com/search?q=%e5%ae%9a%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
-| 44 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 45 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 46 | [論理ナイト](http://twitter.com/search?q=%e8%ab%96%e7%90%86%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 47 | [ヤンウィジ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%82%a6%e3%82%a3%e3%82%b8) | N/A |
-| 48 | [村上と岡本](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%a8%e5%b2%a1%e6%9c%ac) | N/A |
+| 4 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 5 | [こんちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 6 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 7 | [#にじよんあにめーしょん](http://twitter.com/search?q=%23%e3%81%ab%e3%81%98%e3%82%88%e3%82%93%e3%81%82%e3%81%ab%e3%82%81%e3%83%bc%e3%81%97%e3%82%87%e3%82%93) | #にじよんあにめーしょん is a hashtag used on Twitter to promote the Japanese anime series Nijiyon AniMe-shon. The English translation of the hashtag is "Nijiyon Anime-shon Promotion". |
+| 8 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
+| 9 | [韓国のピッチャー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 10 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 11 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 12 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 13 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
+| 14 | [近藤健介](http://twitter.com/search?q=%e8%bf%91%e8%97%a4%e5%81%a5%e4%bb%8b) | N/A |
+| 15 | [安藤サクラ](http://twitter.com/search?q=%e5%ae%89%e8%97%a4%e3%82%b5%e3%82%af%e3%83%a9) | N/A |
+| 16 | [ヒトリセカイ](http://twitter.com/search?q=%e3%83%92%e3%83%88%e3%83%aa%e3%82%bb%e3%82%ab%e3%82%a4) | N/A |
+| 17 | [テンフィ](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%83%95%e3%82%a3) | テンフィ (Tenfi) is a Japanese term used to describe a person who is clumsy, awkward, or socially inept. It can also be used to describe someone who is clumsy in their movements or has difficulty with physical tasks. In English, it could be translated as "clumsy" or "awkward". |
+| 18 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
+| 19 | [最低限の仕事](http://twitter.com/search?q=%e6%9c%80%e4%bd%8e%e9%99%90%e3%81%ae%e4%bb%95%e4%ba%8b) | N/A |
+| 20 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 21 | [クレアさん](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%82%a2%e3%81%95%e3%82%93) | N/A |
+| 22 | [キムグァンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b0%e3%82%a1%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 23 | [源田交代](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e4%ba%a4%e4%bb%a3) | N/A |
+| 24 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
+| 25 | [打球速度](http://twitter.com/search?q=%e6%89%93%e7%90%83%e9%80%9f%e5%ba%a6) | N/A |
+| 26 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
+| 27 | [イジョンフ](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95) | N/A |
+| 28 | [日本逆転](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e9%80%86%e8%bb%a2) | N/A |
+| 29 | [打撃の天才](http://twitter.com/search?q=%e6%89%93%e6%92%83%e3%81%ae%e5%a4%a9%e6%89%8d) | N/A |
+| 30 | [村上の進塁打](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%ae%e9%80%b2%e5%a1%81%e6%89%93) | N/A |
+| 31 | [源田大丈夫](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 32 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
+| 33 | [生き返れ村上](http://twitter.com/search?q=%e7%94%9f%e3%81%8d%e8%bf%94%e3%82%8c%e6%9d%91%e4%b8%8a) | N/A |
+| 34 | [あと4点](http://twitter.com/search?q=%e3%81%82%e3%81%a84%e7%82%b9) | N/A |
+| 35 | [サムソンリー](http://twitter.com/search?q=%e3%82%b5%e3%83%a0%e3%82%bd%e3%83%b3%e3%83%aa%e3%83%bc) | N/A |
+| 36 | [コンスケ](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%82%b9%e3%82%b1) | N/A |
+| 37 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 38 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 39 | [第ゼロ感](http://twitter.com/search?q=%e7%ac%ac%e3%82%bc%e3%83%ad%e6%84%9f) | 第ゼロ感 is a Japanese term that literally translates to "Zero-th Feeling". It is used to describe the feeling of being in a state of nothingness or emptiness, and can be used to describe a person's mental state or the atmosphere of a place. In English, it could be described as an emotional void or an existential crisis. |
+| 40 | [ナイス最低限](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e6%9c%80%e4%bd%8e%e9%99%90) | N/A |
+| 41 | [自慢のワイルド右腕](http://twitter.com/search?q=%e8%87%aa%e6%85%a2%e3%81%ae%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89%e5%8f%b3%e8%85%95) | N/A |
+| 42 | [こんちゃーーー](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%a1%e3%82%83%e3%83%bc%e3%83%bc%e3%83%bc) | N/A |
+| 43 | [FLOW](http://twitter.com/search?q=FLOW) | N/A |
+| 44 | [CHASE](http://twitter.com/search?q=CHASE) | N/A |
+| 45 | [中野くん](http://twitter.com/search?q=%e4%b8%ad%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
+| 46 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
+| 47 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
+| 48 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 49 | [リンスカム](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%82%b9%e3%82%ab%e3%83%a0) | N/A |
+| 50 | [初見のフォーク](http://twitter.com/search?q=%e5%88%9d%e8%a6%8b%e3%81%ae%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af) | N/A |
 
 
 

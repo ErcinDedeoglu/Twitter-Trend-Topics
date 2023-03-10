@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-10 12:18:24 UTC`
+📆 Last Updated: `2023-03-10 13:21:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Sweden](</Sweden>)
 | 3 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
 | 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
-| 7 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 8 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 9 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
-| 10 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 13 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 15 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 16 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 17 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 20 | [Berg](http://twitter.com/search?q=Berg) | N/A |
-| 21 | [internationella](http://twitter.com/search?q=internationella) | N/A |
-| 22 | [skalk](http://twitter.com/search?q=skalk) | N/A |
-| 23 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 24 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 25 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
-| 26 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 27 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
-| 28 | [karlin](http://twitter.com/search?q=karlin) | N/A |
-| 29 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 31 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 32 | [#brynäs](http://twitter.com/search?q=%23bryn%c3%a4s) | N/A |
-| 33 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 34 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 35 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 39 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 40 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 41 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
-| 42 | [Väst](http://twitter.com/search?q=V%c3%a4st) | N/A |
-| 43 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
-| 44 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 45 | [Frågan](http://twitter.com/search?q=Fr%c3%a5gan) | N/A |
-| 46 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
-| 47 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
-| 48 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 50 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 6 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
+| 7 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 8 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
+| 9 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
+| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
+| 12 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 13 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 14 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 15 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 18 | [skalk](http://twitter.com/search?q=skalk) | N/A |
+| 19 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 20 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
+| 21 | [#internationellakvinnodagen](http://twitter.com/search?q=%23internationellakvinnodagen) | N/A |
+| 22 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
+| 23 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 24 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
+| 25 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
+| 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 27 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 28 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 29 | [#brynäs](http://twitter.com/search?q=%23bryn%c3%a4s) | N/A |
+| 30 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 31 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
+| 32 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 33 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 34 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 35 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 36 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
+| 37 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 38 | [Frågan](http://twitter.com/search?q=Fr%c3%a5gan) | N/A |
+| 39 | [Vidrigt](http://twitter.com/search?q=Vidrigt) | N/A |
+| 40 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 41 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
+| 42 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 46 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 47 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 48 | [Väst](http://twitter.com/search?q=V%c3%a4st) | N/A |
+| 49 | [evamärta](http://twitter.com/search?q=evam%c3%a4rta) | N/A |
+| 50 | [moderaternas](http://twitter.com/search?q=moderaternas) | N/A |
 
 
 

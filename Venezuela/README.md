@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-10 12:19:09 UTC`
+📆 Last Updated: `2023-03-10 13:21:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
-| 2 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 3 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
-| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 9 | [josé altuve](http://twitter.com/search?q=jos%c3%a9+altuve) | N/A |
-| 10 | [emely](http://twitter.com/search?q=emely) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [sarago](http://twitter.com/search?q=sarago) | N/A |
-| 13 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 14 | [Graciaaas](http://twitter.com/search?q=Graciaaas) | N/A |
-| 15 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 17 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
-| 18 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 19 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 21 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 22 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 23 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 24 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
-| 25 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
-| 26 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
-| 27 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
-| 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 29 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
-| 30 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 31 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 34 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 35 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 36 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 37 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 38 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 39 | [venevisión](http://twitter.com/search?q=venevisi%c3%b3n) | N/A |
-| 40 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
-| 41 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
-| 42 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 43 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
-| 44 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 45 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 46 | [Registro Electoral](http://twitter.com/search?q=Registro+Electoral) | N/A |
-| 47 | [Cova](http://twitter.com/search?q=Cova) | N/A |
-| 48 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 49 | [mini lunch](http://twitter.com/search?q=mini+lunch) | N/A |
-| 50 | [mechada](http://twitter.com/search?q=mechada) | N/A |
+| 2 | [Dr. José María Vargas](http://twitter.com/search?q=Dr.+Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 3 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 4 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
+| 5 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 6 | [#chávezfeminista](http://twitter.com/search?q=%23ch%c3%a1vezfeminista) | N/A |
+| 7 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 9 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [José Altuve](http://twitter.com/search?q=Jos%c3%a9+Altuve) | N/A |
+| 12 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 13 | [sarago](http://twitter.com/search?q=sarago) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Graciaaas](http://twitter.com/search?q=Graciaaas) | N/A |
+| 16 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
+| 17 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 18 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
+| 19 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 20 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
+| 21 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
+| 22 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 23 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
+| 24 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 25 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 26 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 27 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 28 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 29 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
+| 32 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 33 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
+| 34 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 35 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
+| 36 | [Fospuca](http://twitter.com/search?q=Fospuca) | N/A |
+| 37 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 38 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
+| 39 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 40 | [Cova](http://twitter.com/search?q=Cova) | N/A |
+| 41 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 42 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
+| 43 | [mechada](http://twitter.com/search?q=mechada) | N/A |
+| 44 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 45 | [Orencio](http://twitter.com/search?q=Orencio) | N/A |
+| 46 | [lila Morillo](http://twitter.com/search?q=lila+Morillo) | N/A |
+| 47 | [Barquisimeto](http://twitter.com/search?q=Barquisimeto) | N/A |
+| 48 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 49 | [hugo rafael chávez frías](http://twitter.com/search?q=hugo+rafael+ch%c3%a1vez+fr%c3%adas) | N/A |
+| 50 | [Madurismo](http://twitter.com/search?q=Madurismo) | N/A |
 
 
 

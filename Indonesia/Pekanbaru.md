@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-10 12:18:25 UTC`
+📆 Last Updated: `2023-03-10 13:21:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mitologi Indonesia](http://twitter.com/search?q=Mitologi+Indonesia) | N/A |
-| 2 | [Kaos Metal Keren](http://twitter.com/search?q=Kaos+Metal+Keren) | N/A |
-| 3 | [Baju Hammersonic](http://twitter.com/search?q=Baju+Hammersonic) | N/A |
-| 4 | [MINGYU POTONG RAMBUT](http://twitter.com/search?q=MINGYU+POTONG+RAMBUT) | N/A |
-| 5 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
-| 6 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
-| 7 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 8 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
-| 9 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 10 | [Dead Inside Collection](http://twitter.com/search?q=Dead+Inside+Collection) | N/A |
-| 11 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 14 | [KunciGoods](http://twitter.com/search?q=KunciGoods) | N/A |
-| 15 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
-| 16 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 17 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 18 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 19 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 20 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 21 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 22 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 23 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 24 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 26 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 27 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 28 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 29 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 30 | [Yoimiya](http://twitter.com/search?q=Yoimiya) | N/A |
-| 31 | [fadil](http://twitter.com/search?q=fadil) | N/A |
-| 32 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 33 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 35 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 36 | [Happy Birthday My Love](http://twitter.com/search?q=Happy+Birthday+My+Love) | N/A |
-| 37 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 38 | [Jenius](http://twitter.com/search?q=Jenius) | N/A |
-| 39 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 40 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 41 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 42 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
-| 43 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 44 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 1 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
+| 2 | [Mitologi Indonesia](http://twitter.com/search?q=Mitologi+Indonesia) | N/A |
+| 3 | [Kaos Metal Keren](http://twitter.com/search?q=Kaos+Metal+Keren) | N/A |
+| 4 | [GOING RANGERS](http://twitter.com/search?q=GOING+RANGERS) | N/A |
+| 5 | [Baju Hammersonic](http://twitter.com/search?q=Baju+Hammersonic) | N/A |
+| 6 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 7 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 8 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
+| 9 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
+| 10 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
+| 11 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 12 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 13 | [Ulang](http://twitter.com/search?q=Ulang) | N/A |
+| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 15 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 16 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
+| 17 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 18 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
+| 19 | [KunciGoods](http://twitter.com/search?q=KunciGoods) | N/A |
+| 20 | [Dead Inside Collection](http://twitter.com/search?q=Dead+Inside+Collection) | N/A |
+| 21 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 22 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 23 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
+| 24 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 26 | [HAECHAN MAGAZINE PREORDER NOW](http://twitter.com/search?q=HAECHAN+MAGAZINE+PREORDER+NOW) | N/A |
+| 27 | [Pretty U](http://twitter.com/search?q=Pretty+U) | N/A |
+| 28 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 29 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 30 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 31 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 32 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 33 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 34 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 35 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 36 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 38 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 39 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 40 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 41 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 42 | [Happy Birthday My Love](http://twitter.com/search?q=Happy+Birthday+My+Love) | N/A |
+| 43 | [Salim](http://twitter.com/search?q=Salim) | N/A |
+| 44 | [Slank](http://twitter.com/search?q=Slank) | N/A |
 
 
 
