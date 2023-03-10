@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-10 22:16:08 UTC`
+📆 Last Updated: `2023-03-10 23:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 2 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 1 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 2 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
 | 3 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
-| 4 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
-| 5 | [#CreweAlex](http://twitter.com/search?q=%23CreweAlex) | N/A |
-| 6 | [David Icke](http://twitter.com/search?q=David+Icke) | N/A |
-| 7 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 8 | [#tailenderslive](http://twitter.com/search?q=%23tailenderslive) | N/A |
-| 9 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 10 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 11 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 14 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 17 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 18 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 5 | [Jimmy Hill](http://twitter.com/search?q=Jimmy+Hill) | N/A |
+| 6 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
+| 7 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 8 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 10 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 11 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 13 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 14 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 15 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 16 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
+| 17 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
+| 18 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
 | 19 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
 | 20 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 21 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 22 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 23 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 24 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 25 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 26 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 27 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 28 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 29 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 31 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
-| 32 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 34 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 35 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 36 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 37 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 38 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
-| 39 | [Will & Jessie](http://twitter.com/search?q=Will+%26+Jessie) | N/A |
-| 40 | [McInnes](http://twitter.com/search?q=McInnes) | N/A |
-| 41 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 42 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 43 | [MP or a TV](http://twitter.com/search?q=MP+or+a+TV) | N/A |
-| 44 | [Commentators](http://twitter.com/search?q=Commentators) | N/A |
-| 45 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 46 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 47 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 24 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 25 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 26 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 27 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 28 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 29 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
+| 30 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 31 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 32 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 33 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 34 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 36 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 38 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 39 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 40 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 41 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 42 | [McInnes](http://twitter.com/search?q=McInnes) | N/A |
+| 43 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 44 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 45 | [Commentators](http://twitter.com/search?q=Commentators) | N/A |
+| 46 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
+| 47 | [Will & Jessie](http://twitter.com/search?q=Will+%26+Jessie) | N/A |
 | 48 | [Ron & Lana](http://twitter.com/search?q=Ron+%26+Lana) | N/A |
-| 49 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
+| 49 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
 
 
 

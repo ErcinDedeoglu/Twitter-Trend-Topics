@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-10 22:16:52 UTC`
+📆 Last Updated: `2023-03-10 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 5 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 6 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 7 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 8 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 9 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 12 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 13 | [#GoBucks](http://twitter.com/search?q=%23GoBucks) | N/A |
-| 14 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 15 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
-| 16 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 17 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 18 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 19 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 20 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 22 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 24 | [Pitino](http://twitter.com/search?q=Pitino) | N/A |
-| 25 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
-| 26 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 27 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 28 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 29 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 30 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
+| 1 | [East](http://twitter.com/search?q=East) | N/A |
+| 2 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 3 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 4 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 5 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 6 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 7 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 8 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 9 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 10 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [#KeepPounding](http://twitter.com/search?q=%23KeepPounding) | N/A |
+| 13 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 15 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 16 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 17 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
+| 18 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
+| 19 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 20 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
+| 21 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 22 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 24 | [1 WR](http://twitter.com/search?q=1+WR) | N/A |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 27 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 28 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 29 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 30 | [FLEECED](http://twitter.com/search?q=FLEECED) | N/A |
 | 31 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 32 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 33 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 34 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 35 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 36 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
-| 37 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 38 | [Bruce Thornton](http://twitter.com/search?q=Bruce+Thornton) | N/A |
-| 39 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
-| 40 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 41 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 42 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
-| 43 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 44 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
-| 45 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 46 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
-| 47 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
-| 48 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
+| 32 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 33 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 34 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
+| 35 | [HAUL](http://twitter.com/search?q=HAUL) | N/A |
+| 36 | [Ballard](http://twitter.com/search?q=Ballard) | N/A |
+| 37 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 38 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 39 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 40 | [Terrace Marshall](http://twitter.com/search?q=Terrace+Marshall) | N/A |
+| 41 | [Dennis Gates](http://twitter.com/search?q=Dennis+Gates) | N/A |
+| 42 | [Tepper](http://twitter.com/search?q=Tepper) | N/A |
+| 43 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 44 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 45 | [Kmet](http://twitter.com/search?q=Kmet) | N/A |
+| 46 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 47 | [No. 9](http://twitter.com/search?q=No.+9) | N/A |
+| 48 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 
 
 

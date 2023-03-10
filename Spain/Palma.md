@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-10 22:16:25 UTC`
+📆 Last Updated: `2023-03-10 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 2 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 3 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
-| 4 | [#FirstDates10M](http://twitter.com/search?q=%23FirstDates10M) | N/A |
-| 5 | [#RealOviedoTenerife](http://twitter.com/search?q=%23RealOviedoTenerife) | N/A |
-| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 7 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 8 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 9 | [Unal](http://twitter.com/search?q=Unal) | N/A |
-| 10 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 11 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 12 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 13 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 14 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 15 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 16 | [Munir](http://twitter.com/search?q=Munir) | N/A |
-| 17 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 18 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 19 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 20 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 21 | [Darius Thompson](http://twitter.com/search?q=Darius+Thompson) | N/A |
-| 22 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 23 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 24 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
-| 25 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 26 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
-| 27 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 28 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 29 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 30 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 31 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 32 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 33 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 34 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 35 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 36 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 37 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 39 | [Barçagate](http://twitter.com/search?q=Bar%c3%a7agate) | N/A |
-| 40 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 41 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 42 | [Domingo 12](http://twitter.com/search?q=Domingo+12) | N/A |
-| 43 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 44 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
-| 45 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 46 | [#ChupChupEspecialF4](http://twitter.com/search?q=%23ChupChupEspecialF4) | N/A |
-| 47 | [#APOYOROCIO10M](http://twitter.com/search?q=%23APOYOROCIO10M) | N/A |
-| 48 | [#PartidazoMovistarChampions](http://twitter.com/search?q=%23PartidazoMovistarChampions) | N/A |
+| 1 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 2 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
+| 3 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 4 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
+| 5 | [Unal](http://twitter.com/search?q=Unal) | N/A |
+| 6 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 7 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 8 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 9 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 10 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
+| 11 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 12 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 15 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 16 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 17 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 18 | [Portu](http://twitter.com/search?q=Portu) | N/A |
+| 19 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
+| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 21 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 22 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 23 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
+| 24 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 26 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 27 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 28 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 29 | [Darius Thompson](http://twitter.com/search?q=Darius+Thompson) | N/A |
+| 30 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 31 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 32 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 33 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 34 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 35 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
+| 36 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 37 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 38 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 39 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 40 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 41 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 42 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 43 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 44 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 45 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 48 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
 
 
 

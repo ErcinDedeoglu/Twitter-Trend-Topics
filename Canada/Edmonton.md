@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-10 22:16:06 UTC`
+📆 Last Updated: `2023-03-10 23:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 6 | [#RIPKiska](http://twitter.com/search?q=%23RIPKiska) | N/A |
-| 7 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 8 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 10 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 11 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
-| 12 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
-| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 14 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Sunwing](http://twitter.com/search?q=Sunwing) | N/A |
+| 2 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 3 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 4 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 5 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 8 | [#RIPKiska](http://twitter.com/search?q=%23RIPKiska) | N/A |
+| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 10 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
+| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 13 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 16 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 17 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 18 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 19 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 18 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
+| 19 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
 | 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 21 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 22 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
-| 23 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 24 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
-| 25 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 26 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 27 | [Pierre Karl Péladeau](http://twitter.com/search?q=Pierre+Karl+P%c3%a9ladeau) | N/A |
-| 28 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
-| 29 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
-| 30 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 31 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 32 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 33 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 35 | [Beijing 2019](http://twitter.com/search?q=Beijing+2019) | N/A |
-| 36 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 37 | [Pitre](http://twitter.com/search?q=Pitre) | N/A |
+| 21 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 22 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 23 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 24 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 25 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 26 | [Sunwing](http://twitter.com/search?q=Sunwing) | N/A |
+| 27 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
+| 28 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 29 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 30 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 31 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 32 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
+| 33 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 34 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
+| 35 | [Pierre Karl Péladeau](http://twitter.com/search?q=Pierre+Karl+P%c3%a9ladeau) | N/A |
+| 36 | [Gustafsson](http://twitter.com/search?q=Gustafsson) | N/A |
+| 37 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
 | 38 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 39 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 40 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 41 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
-| 42 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 43 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 44 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
-| 45 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 46 | [Most Canadians](http://twitter.com/search?q=Most+Canadians) | N/A |
-| 47 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 48 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 49 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 39 | [Iran and Saudi Arabia](http://twitter.com/search?q=Iran+and+Saudi+Arabia) | N/A |
+| 40 | [Beijing 2019](http://twitter.com/search?q=Beijing+2019) | N/A |
+| 41 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 42 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 43 | [Pitre](http://twitter.com/search?q=Pitre) | N/A |
+| 44 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 45 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 46 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 47 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 48 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 49 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
 
 
 

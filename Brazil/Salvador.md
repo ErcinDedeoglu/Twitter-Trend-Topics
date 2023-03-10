@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-10 22:16:17 UTC`
+📆 Last Updated: `2023-03-10 23:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 2 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
-| 3 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 4 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 5 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 6 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 7 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 9 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 10 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 11 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
-| 12 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
-| 13 | [Inter de Milão](http://twitter.com/search?q=Inter+de+Mil%c3%a3o) | N/A |
-| 14 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 15 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 16 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
-| 17 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 18 | [#ADona065](http://twitter.com/search?q=%23ADona065) | N/A |
-| 19 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 20 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 21 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
-| 22 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
-| 23 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 24 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
-| 25 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 26 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
-| 27 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 28 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
-| 29 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 30 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
-| 31 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 32 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 33 | [Dona Elza](http://twitter.com/search?q=Dona+Elza) | N/A |
-| 34 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 35 | [Y - Melhor](http://twitter.com/search?q=Y+-+Melhor) | N/A |
-| 36 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
-| 39 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
-| 40 | [Froid](http://twitter.com/search?q=Froid) | N/A |
-| 41 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
-| 42 | [Cláudio Castro](http://twitter.com/search?q=Cl%c3%a1udio+Castro) | N/A |
-| 43 | [Clodovil](http://twitter.com/search?q=Clodovil) | N/A |
-| 44 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
-| 45 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 46 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 47 | [Vota](http://twitter.com/search?q=Vota) | N/A |
-| 48 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 1 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 2 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 3 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 4 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 5 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 7 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
+| 8 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
+| 9 | [NIVER DA BRUNA](http://twitter.com/search?q=NIVER+DA+BRUNA) | N/A |
+| 10 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 11 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 12 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
+| 13 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
+| 14 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 15 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 16 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 17 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 18 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 19 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 20 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 21 | [#TrêsVezesAna030](http://twitter.com/search?q=%23Tr%c3%aasVezesAna030) | N/A |
+| 22 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 23 | [HEG NO PODPAH](http://twitter.com/search?q=HEG+NO+PODPAH) | N/A |
+| 24 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
+| 25 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 26 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 27 | [Inter de Milão](http://twitter.com/search?q=Inter+de+Mil%c3%a3o) | N/A |
+| 28 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 29 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 30 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 31 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
+| 32 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
+| 33 | [#LulaMulheresComDireitos](http://twitter.com/search?q=%23LulaMulheresComDireitos) | N/A |
+| 34 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
+| 35 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 36 | [DJ Nath](http://twitter.com/search?q=DJ+Nath) | N/A |
+| 37 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
+| 38 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
+| 39 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
+| 40 | [Dona Elza](http://twitter.com/search?q=Dona+Elza) | N/A |
+| 41 | [Tatá](http://twitter.com/search?q=Tat%c3%a1) | Tatá is a term of endearment used in Brazil, usually between family members or close friends. It is derived from the Portuguese word for "daddy" and can be translated to English as "daddy" or "dear". |
+| 42 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
+| 43 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
+| 44 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 45 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 46 | [Ana Letícia](http://twitter.com/search?q=Ana+Let%c3%adcia) | N/A |
+| 47 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 48 | [Saldo](http://twitter.com/search?q=Saldo) | N/A |
 
 
 

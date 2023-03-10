@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-10 22:17:05 UTC`
+📆 Last Updated: `2023-03-10 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Sweden
 | 5 | [Örnsköldsvik](http://twitter.com/search?q=%c3%96rnsk%c3%b6ldsvik) | N/A |
 | 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 7 | [Anders Lindberg](http://twitter.com/search?q=Anders+Lindberg) | N/A |
-| 8 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
-| 9 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 10 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 11 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
-| 12 | [Almtuna](http://twitter.com/search?q=Almtuna) | N/A |
-| 13 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 14 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 15 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
-| 16 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
-| 17 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 18 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 19 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 20 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
-| 21 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 22 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 23 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 24 | [Behöver](http://twitter.com/search?q=Beh%c3%b6ver) | N/A |
-| 25 | [Hockeyallsvenskan](http://twitter.com/search?q=Hockeyallsvenskan) | N/A |
+| 8 | [David Ritschard](http://twitter.com/search?q=David+Ritschard) | N/A |
+| 9 | [#Björklöven](http://twitter.com/search?q=%23Bj%c3%b6rkl%c3%b6ven) | N/A |
+| 10 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 12 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 13 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 14 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
+| 15 | [Almtuna](http://twitter.com/search?q=Almtuna) | N/A |
+| 16 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 17 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 18 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 19 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
+| 20 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
+| 21 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
+| 22 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 23 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 24 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 25 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
 | 26 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 27 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 28 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 30 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 27 | [Behöver](http://twitter.com/search?q=Beh%c3%b6ver) | N/A |
+| 28 | [Hockeyallsvenskan](http://twitter.com/search?q=Hockeyallsvenskan) | N/A |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 31 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
 | 32 | [Sydafrika](http://twitter.com/search?q=Sydafrika) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 33 | [Dricker](http://twitter.com/search?q=Dricker) | N/A |
 | 34 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
 | 35 | [cibus](http://twitter.com/search?q=cibus) | N/A |
-| 36 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 36 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 37 | [mångfald](http://twitter.com/search?q=m%c3%a5ngfald) | N/A |
 | 38 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 39 | [Hisingsbron](http://twitter.com/search?q=Hisingsbron) | N/A |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [Blockad](http://twitter.com/search?q=Blockad) | N/A |
+| 41 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
 | 42 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
 | 43 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 44 | [Dricker](http://twitter.com/search?q=Dricker) | N/A |
+| 44 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 46 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 46 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 47 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
 | 48 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 50 | [Sänk](http://twitter.com/search?q=S%c3%a4nk) | N/A |
+| 49 | [sänk](http://twitter.com/search?q=s%c3%a4nk) | N/A |
+| 50 | [Hisingsbron](http://twitter.com/search?q=Hisingsbron) | N/A |
 
 
 

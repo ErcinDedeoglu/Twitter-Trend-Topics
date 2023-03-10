@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-10 22:16:23 UTC`
+📆 Last Updated: `2023-03-10 23:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 3 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 5 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 6 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 7 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 8 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 9 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 10 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 11 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 12 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 13 | [Loretta Goggi](http://twitter.com/search?q=Loretta+Goggi) | N/A |
-| 14 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 16 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 17 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 18 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
-| 19 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 20 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 21 | [Limone](http://twitter.com/search?q=Limone) | N/A |
-| 22 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
-| 25 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 26 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 27 | [Luca e Paolo](http://twitter.com/search?q=Luca+e+Paolo) | N/A |
-| 28 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 29 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 30 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 31 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 32 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 33 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 34 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 36 | [#manuelagnelli](http://twitter.com/search?q=%23manuelagnelli) | N/A |
+| 2 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
+| 3 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 4 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 5 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 6 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 7 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
+| 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 9 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 10 | [Spiaze](http://twitter.com/search?q=Spiaze) | N/A |
+| 11 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 12 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 14 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 15 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 16 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 17 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 18 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 19 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 20 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 21 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 22 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 23 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 26 | [Limone](http://twitter.com/search?q=Limone) | N/A |
+| 27 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 28 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 29 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 30 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 31 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 32 | [Luca e Paolo](http://twitter.com/search?q=Luca+e+Paolo) | N/A |
+| 33 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 34 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 35 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 36 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
 | 37 | [#propagandacutro](http://twitter.com/search?q=%23propagandacutro) | N/A |
-| 38 | [#spiaze](http://twitter.com/search?q=%23spiaze) | N/A |
-| 39 | [#CagliariAscoli](http://twitter.com/search?q=%23CagliariAscoli) | N/A |
-| 40 | [#spiegoneschianchi](http://twitter.com/search?q=%23spiegoneschianchi) | N/A |
-| 41 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
-| 42 | [#forzaCasteddu](http://twitter.com/search?q=%23forzaCasteddu) | N/A |
-| 43 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 44 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
-| 45 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 46 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 47 | [#GloboTerracqueo](http://twitter.com/search?q=%23GloboTerracqueo) | N/A |
-| 48 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 38 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 39 | [#Nzola](http://twitter.com/search?q=%23Nzola) | N/A |
+| 40 | [#manuelagnelli](http://twitter.com/search?q=%23manuelagnelli) | N/A |
+| 41 | [#CagliariAscoli](http://twitter.com/search?q=%23CagliariAscoli) | N/A |
+| 42 | [#FIGCMAFIA](http://twitter.com/search?q=%23FIGCMAFIA) | N/A |
+| 43 | [#anala](http://twitter.com/search?q=%23anala) | N/A |
+| 44 | [#forzaCasteddu](http://twitter.com/search?q=%23forzaCasteddu) | N/A |
+| 45 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 46 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 47 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 48 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
 
 
 

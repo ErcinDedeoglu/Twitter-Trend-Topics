@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-10 22:16:47 UTC`
+📆 Last Updated: `2023-03-10 23:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
-| 2 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
-| 3 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 2 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 3 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
 | 4 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
 | 5 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
 | 6 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
-| 7 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 8 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 9 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
-| 10 | [Çadırda](http://twitter.com/search?q=%c3%87ad%c4%b1rda) | N/A |
-| 11 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 12 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
-| 13 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
-| 14 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 15 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 16 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 17 | [Umuttur](http://twitter.com/search?q=Umuttur) | N/A |
-| 18 | [BiziBurada Unutmayın](http://twitter.com/search?q=BiziBurada+Unutmay%c4%b1n) | N/A |
-| 19 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 20 | [AmasızFakatsız YüceMeclise](http://twitter.com/search?q=Amas%c4%b1zFakats%c4%b1z+Y%c3%bcceMeclise) | N/A |
-| 21 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 22 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 7 | [Çadırda](http://twitter.com/search?q=%c3%87ad%c4%b1rda) | N/A |
+| 8 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
+| 9 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 10 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 11 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 12 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
+| 13 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 14 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
+| 15 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 16 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
+| 17 | [BiziBurada Unutmayın](http://twitter.com/search?q=BiziBurada+Unutmay%c4%b1n) | N/A |
+| 18 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 19 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
+| 20 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 21 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 22 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
 | 23 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 24 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
+| 24 | [Umuttur](http://twitter.com/search?q=Umuttur) | N/A |
 | 25 | [Adalettir](http://twitter.com/search?q=Adalettir) | N/A |
-| 26 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 27 | [Vesely](http://twitter.com/search?q=Vesely) | N/A |
-| 28 | [Ronaldo Türkiyede](http://twitter.com/search?q=Ronaldo+T%c3%bcrkiyede) | N/A |
-| 29 | [Alev](http://twitter.com/search?q=Alev) | N/A |
-| 30 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 31 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 26 | [Ronaldo Türkiyede](http://twitter.com/search?q=Ronaldo+T%c3%bcrkiyede) | N/A |
+| 27 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
+| 28 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 30 | [Alev](http://twitter.com/search?q=Alev) | N/A |
+| 31 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 32 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
 | 33 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
-| 34 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [İttifak](http://twitter.com/search?q=%c4%b0ttifak) | N/A |
-| 37 | [Tahir](http://twitter.com/search?q=Tahir) | N/A |
-| 38 | [Aykut Kocaman](http://twitter.com/search?q=Aykut+Kocaman) | N/A |
-| 39 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 40 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
-| 41 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
-| 42 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 43 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 44 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 45 | [Pelin](http://twitter.com/search?q=Pelin) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 36 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
+| 37 | [İttifaka](http://twitter.com/search?q=%c4%b0ttifaka) | N/A |
+| 38 | [Tahir](http://twitter.com/search?q=Tahir) | N/A |
+| 39 | [Aykut Kocaman](http://twitter.com/search?q=Aykut+Kocaman) | N/A |
+| 40 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 41 | [Pelin](http://twitter.com/search?q=Pelin) | N/A |
+| 42 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 43 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
+| 44 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 45 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
 | 46 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
 | 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 48 | [Motley](http://twitter.com/search?q=Motley) | N/A |
