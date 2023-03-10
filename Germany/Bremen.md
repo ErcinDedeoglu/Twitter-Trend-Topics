@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-09 23:16:36 UTC`
+📆 Last Updated: `2023-03-10 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
 | 3 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
-| 4 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 4 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
 | 5 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
 | 6 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
 | 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
@@ -27,7 +27,7 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
 | 11 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
 | 12 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 13 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 13 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
 | 14 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 15 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 16 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |

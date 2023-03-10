@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-09 23:16:38 UTC`
+📆 Last Updated: `2023-03-10 00:28:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,33 +35,33 @@ This is top 50 for [Spain](</Spain>)
 | 18 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 19 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 20 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 21 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 22 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 23 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 24 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 25 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 21 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 22 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 23 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 24 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 25 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
 | 26 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
 | 27 | [pacma](http://twitter.com/search?q=pacma) | N/A |
 | 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 | 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 30 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
 | 31 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 32 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 33 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 35 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 36 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 37 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 39 | [Moting](http://twitter.com/search?q=Moting) | N/A |
-| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 41 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
-| 42 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 43 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 44 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
-| 45 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 46 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
-| 47 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 32 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 33 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 34 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
+| 35 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 36 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
+| 37 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
+| 38 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 40 | [moting](http://twitter.com/search?q=moting) | N/A |
+| 41 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 42 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 43 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 44 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 45 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 46 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
+| 47 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
 | 48 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-09 23:17:16 UTC`
+📆 Last Updated: `2023-03-10 00:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for [Japan](</Japan>)
 | 10 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
 | 11 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
 | 12 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 13 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 14 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 15 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 16 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
+| 13 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
+| 14 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 15 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 16 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
 | 17 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
 | 18 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
 | 19 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
@@ -38,16 +38,16 @@ This is top 50 for [Japan](</Japan>)
 | 21 | [初戦勝利](http://twitter.com/search?q=%e5%88%9d%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
 | 22 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
 | 23 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 24 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 25 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 26 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 24 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
+| 25 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 26 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
 | 27 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
 | 28 | [フェン直](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e7%9b%b4) | N/A |
 | 29 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
 | 30 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
-| 31 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 32 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 33 | [中国代表](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e4%bb%a3%e8%a1%a8) | N/A |
+| 31 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 32 | [中国代表](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e4%bb%a3%e8%a1%a8) | N/A |
+| 33 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
 | 34 | [ルークの声](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%af%e3%81%ae%e5%a3%b0) | N/A |
 | 35 | [木村貴宏さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e8%b2%b4%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
 | 36 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
@@ -60,11 +60,11 @@ This is top 50 for [Japan](</Japan>)
 | 43 | [大谷ルール](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
 | 44 | [国際大会](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a4%a7%e4%bc%9a) | N/A |
 | 45 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 46 | [ガオガイガー](http://twitter.com/search?q=%e3%82%ac%e3%82%aa%e3%82%ac%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
-| 47 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
-| 48 | [戸郷さん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%95%e3%82%93) | N/A |
-| 49 | [キムタカ](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%ab) | N/A |
-| 50 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 46 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
+| 47 | [戸郷さん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%95%e3%82%93) | N/A |
+| 48 | [キムタカ](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%ab) | N/A |
+| 49 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 50 | [ガオガイガー](http://twitter.com/search?q=%e3%82%ac%e3%82%aa%e3%82%ac%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
 
 
 

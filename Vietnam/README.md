@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-09 23:17:16 UTC`
+📆 Last Updated: `2023-03-10 00:29:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,7 +41,7 @@ This is top 50 for Vietnam
 | 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 25 | [jimin mood photo](http://twitter.com/search?q=jimin+mood+photo) | N/A |
 | 26 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
-| 27 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 27 | [MNET](http://twitter.com/search?q=MNET) | N/A |
 | 28 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 30 | [sông lam](http://twitter.com/search?q=s%c3%b4ng+lam) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Vietnam
 | 38 | [thanh](http://twitter.com/search?q=thanh) | N/A |
 | 39 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
 | 40 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 41 | [yuga labs](http://twitter.com/search?q=yuga+labs) | N/A |
+| 41 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
 | 42 | [Wo Long Fallen Dynasty](http://twitter.com/search?q=Wo+Long+Fallen+Dynasty) | N/A |
 | 43 | [Peer](http://twitter.com/search?q=Peer) | N/A |
 | 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |

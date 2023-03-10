@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-09 23:17:09 UTC`
+📆 Last Updated: `2023-03-10 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#ANDVIL](http://twitter.com/search?q=%23ANDVIL) | N/A |
+| 1 | [#ANDVIL](http://twitter.com/search?q=%23ANDVIL) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
@@ -37,9 +37,9 @@ This is top 50 for Belgium
 | 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 22 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 23 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 23 | [choupo](http://twitter.com/search?q=choupo) | N/A |
 | 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 25 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
+| 25 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
 | 26 | [watteeuw](http://twitter.com/search?q=watteeuw) | N/A |
 | 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 28 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Belgium
 | 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 34 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
 | 35 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
-| 36 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 36 | [scott parker](http://twitter.com/search?q=scott+parker) | N/A |
 | 37 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 | 38 | [voor gent](http://twitter.com/search?q=voor+gent) | N/A |
 | 39 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Belgium
 | 43 | [bieke](http://twitter.com/search?q=bieke) | N/A |
 | 44 | [Steam](http://twitter.com/search?q=Steam) | N/A |
 | 45 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 46 | [European](http://twitter.com/search?q=European) | N/A |
-| 47 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 48 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 49 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 50 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 47 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 49 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 50 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-09 23:16:34 UTC`
+📆 Last Updated: `2023-03-10 00:28:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [brunner](http://twitter.com/search?q=brunner) | N/A |
 | 16 | [Freien](http://twitter.com/search?q=Freien) | N/A |
 | 17 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
-| 18 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 18 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 19 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
 | 20 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 21 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for [Austria](</Austria>)
 | 23 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
 | 24 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
 | 25 | [raucher](http://twitter.com/search?q=raucher) | N/A |
-| 26 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
+| 26 | [weltmännertag](http://twitter.com/search?q=weltm%c3%a4nnertag) | N/A |
 | 27 | [beidl](http://twitter.com/search?q=beidl) | N/A |
 | 28 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
 | 29 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 30 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
+| 30 | [plakate](http://twitter.com/search?q=plakate) | N/A |
 | 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 33 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for [Austria](</Austria>)
 | 38 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
 | 39 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 41 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
+| 41 | [erkrankungen](http://twitter.com/search?q=erkrankungen) | N/A |
 | 42 | [grundwehrdienst](http://twitter.com/search?q=grundwehrdienst) | N/A |
 | 43 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
 | 44 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |

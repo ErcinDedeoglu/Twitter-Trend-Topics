@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-09 23:16:41 UTC`
+📆 Last Updated: `2023-03-10 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,9 +45,9 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 29 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
 | 30 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 31 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 32 | [fadil](http://twitter.com/search?q=fadil) | N/A |
-| 33 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 31 | [fadil](http://twitter.com/search?q=fadil) | N/A |
+| 32 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 33 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 34 | [urap](http://twitter.com/search?q=urap) | N/A |
 | 35 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
 | 36 | [Salim](http://twitter.com/search?q=Salim) | N/A |

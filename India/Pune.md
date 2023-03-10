@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-09 23:16:58 UTC`
+📆 Last Updated: `2023-03-10 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [India](</India>)
 | 15 | [saika ishaque](http://twitter.com/search?q=saika+ishaque) | N/A |
 | 16 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
 | 17 | [deandra d](http://twitter.com/search?q=deandra+d) | N/A |
-| 18 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 18 | [meg lanning](http://twitter.com/search?q=meg+lanning) | N/A |
 | 19 | [Mask](http://twitter.com/search?q=Mask) | N/A |
 | 20 | [Vedas](http://twitter.com/search?q=Vedas) | N/A |
 | 21 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [India](</India>)
 | 26 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
 | 27 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 | 28 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 29 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 29 | [#vi20fanfest](http://twitter.com/search?q=%23vi20fanfest) | N/A |
 | 30 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
 | 31 | [#satishkaushikpassedaway](http://twitter.com/search?q=%23satishkaushikpassedaway) | N/A |
 | 32 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
@@ -55,12 +55,13 @@ This is top 50 for [India](</India>)
 | 38 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
 | 39 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
 | 40 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
-| 41 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 42 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 43 | [#agilan](http://twitter.com/search?q=%23agilan) | N/A |
-| 44 | [#hfcatkmb](http://twitter.com/search?q=%23hfcatkmb) | N/A |
-| 45 | [#Christopher](http://twitter.com/search?q=%23Christopher) | N/A |
-| 46 | [#UsmanKhawaja](http://twitter.com/search?q=%23UsmanKhawaja) | N/A |
+| 41 | [#KamalHaasan](http://twitter.com/search?q=%23KamalHaasan) | N/A |
+| 42 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
+| 43 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 44 | [#agilan](http://twitter.com/search?q=%23agilan) | N/A |
+| 45 | [#hfcatkmb](http://twitter.com/search?q=%23hfcatkmb) | N/A |
+| 46 | [#christopher](http://twitter.com/search?q=%23christopher) | N/A |
+| 47 | [#usmankhawaja](http://twitter.com/search?q=%23usmankhawaja) | N/A |
 
 
 

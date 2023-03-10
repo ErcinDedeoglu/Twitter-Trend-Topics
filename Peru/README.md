@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-09 23:17:13 UTC`
+📆 Last Updated: `2023-03-10 00:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 2 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
-| 3 | [#TheWeeknd](http://twitter.com/search?q=%23TheWeeknd) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 1 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 4 | [#TheWeeknd](http://twitter.com/search?q=%23TheWeeknd) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 7 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
 | 8 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
@@ -42,18 +42,18 @@ This is top 50 for Peru
 | 25 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
 | 26 | [Andy Polo](http://twitter.com/search?q=Andy+Polo) | N/A |
 | 27 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 28 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 28 | [abel](http://twitter.com/search?q=abel) | N/A |
 | 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [José Williams](http://twitter.com/search?q=Jos%c3%a9+Williams) | N/A |
+| 31 | [josé williams](http://twitter.com/search?q=jos%c3%a9+williams) | N/A |
 | 32 | [tambo](http://twitter.com/search?q=tambo) | N/A |
 | 33 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 34 | [nativa](http://twitter.com/search?q=nativa) | N/A |
 | 35 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 36 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 37 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
-| 38 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 39 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
+| 37 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
+| 38 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
+| 39 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
 | 40 | [Mesa Directiva](http://twitter.com/search?q=Mesa+Directiva) | N/A |
 | 41 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
 | 42 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Peru
 | 44 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
 | 45 | [panamericana norte](http://twitter.com/search?q=panamericana+norte) | N/A |
 | 46 | [cancha 1](http://twitter.com/search?q=cancha+1) | N/A |
-| 47 | [jaimito](http://twitter.com/search?q=jaimito) | N/A |
+| 47 | [Jaimito](http://twitter.com/search?q=Jaimito) | N/A |
 | 48 | [selección peruana](http://twitter.com/search?q=selecci%c3%b3n+peruana) | N/A |
 | 49 | [Judy](http://twitter.com/search?q=Judy) | N/A |
 | 50 | [el español](http://twitter.com/search?q=el+espa%c3%b1ol) | N/A |

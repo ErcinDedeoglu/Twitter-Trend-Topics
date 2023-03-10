@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-09 23:16:25 UTC`
+📆 Last Updated: `2023-03-10 00:28:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 15 | [puerta del conde](http://twitter.com/search?q=puerta+del+conde) | N/A |
 | 16 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 17 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 18 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 18 | [guillermo moreno](http://twitter.com/search?q=guillermo+moreno) | N/A |
 | 19 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
 | 20 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 21 | [bravos de atlanta](http://twitter.com/search?q=bravos+de+atlanta) | N/A |

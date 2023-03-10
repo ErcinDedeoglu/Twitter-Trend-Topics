@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-09 23:17:12 UTC`
+📆 Last Updated: `2023-03-10 00:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,12 +59,12 @@ This is top 50 for Latvia
 | 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 43 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
 | 44 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 45 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 46 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
-| 47 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 48 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 49 | [ссср](http://twitter.com/search?q=%d1%81%d1%81%d1%81%d1%80) | N/A |
-| 50 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
+| 45 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
+| 46 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
+| 47 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
+| 48 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 49 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 50 | [ссср](http://twitter.com/search?q=%d1%81%d1%81%d1%81%d1%80) | N/A |
 
 
 

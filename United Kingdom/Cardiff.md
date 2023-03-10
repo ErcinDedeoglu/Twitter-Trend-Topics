@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-09 23:16:23 UTC`
+📆 Last Updated: `2023-03-10 00:28:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,21 +25,21 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 9 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
 | 10 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 13 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 15 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 14 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 17 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 18 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 19 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 20 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 21 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 20 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 22 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
 | 23 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 24 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 25 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 25 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 28 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 36 | [Penny](http://twitter.com/search?q=Penny) | N/A |
 | 37 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 38 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 39 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 40 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 41 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 42 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 43 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 44 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 45 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 46 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 47 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 48 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
-| 49 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 50 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 39 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 40 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 41 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 42 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 43 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 44 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 45 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 46 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 47 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 49 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 50 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 
 
 

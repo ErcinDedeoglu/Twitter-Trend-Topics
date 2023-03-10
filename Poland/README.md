@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-09 23:17:13 UTC`
+📆 Last Updated: `2023-03-10 00:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,38 +25,38 @@ This is top 50 for Poland
 | 8 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 9 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 10 | [drogie panie](http://twitter.com/search?q=drogie+panie) | N/A |
-| 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 12 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 11 | [Grota](http://twitter.com/search?q=Grota) | N/A |
+| 12 | [tvp info](http://twitter.com/search?q=tvp+info) | N/A |
 | 13 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
 | 14 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 15 | [grot](http://twitter.com/search?q=grot) | N/A |
-| 16 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
-| 17 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 15 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
+| 16 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 17 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 18 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
 | 19 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 20 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 21 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 22 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 23 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
-| 24 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 25 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
-| 26 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
+| 20 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 21 | [gruzji](http://twitter.com/search?q=gruzji) | N/A |
+| 22 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 23 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 24 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
+| 25 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
+| 26 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
 | 27 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 28 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
-| 29 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 30 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 31 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 32 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
-| 33 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
-| 34 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 35 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 36 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 28 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 29 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 30 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
+| 31 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 32 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
+| 35 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 36 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
 | 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 39 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
 | 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 41 | [partii republikańskiej](http://twitter.com/search?q=partii+republika%c5%84skiej) | N/A |
-| 42 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
+| 42 | [jasina](http://twitter.com/search?q=jasina) | N/A |
 | 43 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
 | 44 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
 | 45 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |

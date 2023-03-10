@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-09 23:17:15 UTC`
+📆 Last Updated: `2023-03-10 00:29:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for Switzerland
 | 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 26 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 28 | [Energien](http://twitter.com/search?q=Energien) | N/A |
+| 28 | [energien](http://twitter.com/search?q=energien) | N/A |
 | 29 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
 | 30 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 31 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |

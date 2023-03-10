@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daejeon
 
-📆 Last Updated: `2023-03-09 23:17:00 UTC`
+📆 Last Updated: `2023-03-10 00:29:01 UTC`
 
 🔧 Updated every 1 hour!
 

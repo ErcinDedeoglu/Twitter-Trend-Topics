@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-09 23:17:08 UTC`
+📆 Last Updated: `2023-03-10 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Algeria
 | 24 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 27 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 28 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 29 | [السجن الموبد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ac%d9%86+%d8%a7%d9%84%d9%85%d9%88%d8%a8%d8%af) | N/A |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 32 | [النساء الجزايريات](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
-| 33 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
-| 34 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 35 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 36 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 37 | [الولايات المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 38 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 39 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 40 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 41 | [عبد الرزاق البدر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
-| 42 | [algériennes](http://twitter.com/search?q=alg%c3%a9riennes) | N/A |
-| 43 | [علي وجه الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 44 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 45 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 46 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 47 | [الدول الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 48 | [بلال](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84) | N/A |
-| 49 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 50 | [كينغ](http://twitter.com/search?q=%d9%83%d9%8a%d9%86%d8%ba) | N/A |
+| 27 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 30 | [النساء الجزايريات](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
+| 31 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
+| 32 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 33 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 34 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 35 | [الولايات المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 36 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 37 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 38 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 39 | [عبد الرزاق البدر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
+| 40 | [algériennes](http://twitter.com/search?q=alg%c3%a9riennes) | N/A |
+| 41 | [علي وجه الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 42 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 43 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 44 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 45 | [الدول الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 46 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 47 | [كينغ](http://twitter.com/search?q=%d9%83%d9%8a%d9%86%d8%ba) | N/A |
+| 48 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 49 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 50 | [السعيد شنقريحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af+%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9) | N/A |
 
 
 

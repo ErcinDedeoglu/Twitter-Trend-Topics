@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-09 23:16:36 UTC`
+📆 Last Updated: `2023-03-10 00:28:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Germany](</Germany>)
 | 11 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
 | 12 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
 | 13 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 14 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 14 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
 | 15 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 16 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 17 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |

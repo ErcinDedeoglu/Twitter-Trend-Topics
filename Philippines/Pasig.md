@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-09 23:16:47 UTC`
+📆 Last Updated: `2023-03-10 00:28:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,15 +41,15 @@ This is top 50 for [Philippines](</Philippines>)
 | 24 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
 | 25 | [the corrs](http://twitter.com/search?q=the+corrs) | N/A |
 | 26 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 27 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 28 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 29 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
-| 30 | [inang](http://twitter.com/search?q=inang) | N/A |
-| 31 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 32 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
-| 33 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 34 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
-| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 27 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 28 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
+| 29 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 30 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 31 | [inang](http://twitter.com/search?q=inang) | N/A |
+| 32 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 33 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
+| 34 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 35 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
 | 36 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
 | 37 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
 | 38 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |

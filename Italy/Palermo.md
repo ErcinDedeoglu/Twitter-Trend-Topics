@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-09 23:16:37 UTC`
+📆 Last Updated: `2023-03-10 00:28:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,18 +28,18 @@ This is top 50 for [Italy](</Italy>)
 | 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
 | 13 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 14 | [Viterbo](http://twitter.com/search?q=Viterbo) | N/A |
+| 14 | [viterbo](http://twitter.com/search?q=viterbo) | N/A |
 | 15 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
 | 16 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
 | 17 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
 | 18 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 19 | [Michele Bravi](http://twitter.com/search?q=Michele+Bravi) | N/A |
+| 19 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
 | 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 21 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
 | 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 23 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 24 | [cecilia sala](http://twitter.com/search?q=cecilia+sala) | N/A |
-| 25 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
+| 23 | [cecilia sala](http://twitter.com/search?q=cecilia+sala) | N/A |
+| 24 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
+| 25 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 26 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
 | 27 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
 | 28 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
@@ -51,14 +51,18 @@ This is top 50 for [Italy](</Italy>)
 | 34 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
 | 35 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
 | 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
-| 38 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 37 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 38 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
 | 39 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
 | 40 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 41 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 41 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
 | 42 | [Salvini](http://twitter.com/search?q=Salvini) | N/A |
 | 43 | [Canale di Sicilia](http://twitter.com/search?q=Canale+di+Sicilia) | N/A |
-| 44 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 44 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 45 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 46 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 47 | [Alto Adige](http://twitter.com/search?q=Alto+Adige) | N/A |
+| 48 | [Professore](http://twitter.com/search?q=Professore) | N/A |
 
 
 

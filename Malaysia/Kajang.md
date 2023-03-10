@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-03-09 23:16:47 UTC`
+📆 Last Updated: `2023-03-10 00:28:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,10 +59,10 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 42 | [abah](http://twitter.com/search?q=abah) | N/A |
 | 43 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
 | 44 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
-| 45 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 46 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 47 | [perak](http://twitter.com/search?q=perak) | N/A |
-| 48 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 45 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 46 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 47 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 48 | [perak](http://twitter.com/search?q=perak) | N/A |
 
 
 

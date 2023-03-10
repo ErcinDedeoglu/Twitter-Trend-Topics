@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-09 23:17:09 UTC`
+📆 Last Updated: `2023-03-10 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Austria
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [methoden](http://twitter.com/search?q=methoden) | N/A |
 | 7 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 8 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 8 | [bezahlung](http://twitter.com/search?q=bezahlung) | N/A |
 | 9 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 10 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
 | 11 | [attest](http://twitter.com/search?q=attest) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Austria
 | 15 | [brunner](http://twitter.com/search?q=brunner) | N/A |
 | 16 | [Freien](http://twitter.com/search?q=Freien) | N/A |
 | 17 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
-| 18 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 18 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 19 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
 | 20 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 21 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
@@ -44,18 +44,18 @@ This is top 50 for Austria
 | 27 | [beidl](http://twitter.com/search?q=beidl) | N/A |
 | 28 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
 | 29 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 30 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
+| 30 | [plakate](http://twitter.com/search?q=plakate) | N/A |
 | 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
+| 33 | [vermummungsverbot](http://twitter.com/search?q=vermummungsverbot) | N/A |
 | 34 | [Money](http://twitter.com/search?q=Money) | N/A |
 | 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 36 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 36 | [mohammad](http://twitter.com/search?q=mohammad) | N/A |
 | 37 | [antibiotika](http://twitter.com/search?q=antibiotika) | N/A |
 | 38 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
 | 39 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 41 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
+| 41 | [erkrankungen](http://twitter.com/search?q=erkrankungen) | N/A |
 | 42 | [grundwehrdienst](http://twitter.com/search?q=grundwehrdienst) | N/A |
 | 43 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
 | 44 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |

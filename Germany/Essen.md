@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-09 23:16:36 UTC`
+📆 Last Updated: `2023-03-10 00:28:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Germany](</Germany>)
 | 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
 | 13 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
 | 14 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 15 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
 | 16 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 18 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |

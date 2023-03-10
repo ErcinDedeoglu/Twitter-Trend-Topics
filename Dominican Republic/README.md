@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-09 23:17:10 UTC`
+📆 Last Updated: `2023-03-10 00:29:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,11 +31,11 @@ This is top 50 for Dominican Republic
 | 14 | [patria y libertad](http://twitter.com/search?q=patria+y+libertad) | N/A |
 | 15 | [puerta del conde](http://twitter.com/search?q=puerta+del+conde) | N/A |
 | 16 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 17 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 18 | [guillermo moreno](http://twitter.com/search?q=guillermo+moreno) | N/A |
+| 17 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 18 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
 | 19 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
-| 20 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 21 | [bravos de atlanta](http://twitter.com/search?q=bravos+de+atlanta) | N/A |
+| 20 | [bravos de atlanta](http://twitter.com/search?q=bravos+de+atlanta) | N/A |
+| 21 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 22 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
 | 23 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 24 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Dominican Republic
 | 26 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 27 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 28 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 29 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
-| 30 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 31 | [rodney linares](http://twitter.com/search?q=rodney+linares) | N/A |
-| 32 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
-| 33 | [los naranjos](http://twitter.com/search?q=los+naranjos) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
-| 36 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 37 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 38 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 39 | [la materialista](http://twitter.com/search?q=la+materialista) | N/A |
-| 40 | [onfalia morillo](http://twitter.com/search?q=onfalia+morillo) | N/A |
-| 41 | [Luis Ortiz](http://twitter.com/search?q=Luis+Ortiz) | N/A |
-| 42 | [peña guaba](http://twitter.com/search?q=pe%c3%b1a+guaba) | N/A |
-| 43 | [gregory soto](http://twitter.com/search?q=gregory+soto) | N/A |
-| 44 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
-| 45 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 46 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
-| 47 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 48 | [Muchas Felicidades](http://twitter.com/search?q=Muchas+Felicidades) | N/A |
-| 49 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 50 | [intrant](http://twitter.com/search?q=intrant) | N/A |
+| 29 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 30 | [rodney linares](http://twitter.com/search?q=rodney+linares) | N/A |
+| 31 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
+| 32 | [los naranjos](http://twitter.com/search?q=los+naranjos) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 35 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 36 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 37 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 38 | [la materialista](http://twitter.com/search?q=la+materialista) | N/A |
+| 39 | [onfalia morillo](http://twitter.com/search?q=onfalia+morillo) | N/A |
+| 40 | [luis ortiz](http://twitter.com/search?q=luis+ortiz) | N/A |
+| 41 | [peña guaba](http://twitter.com/search?q=pe%c3%b1a+guaba) | N/A |
+| 42 | [gregory soto](http://twitter.com/search?q=gregory+soto) | N/A |
+| 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 44 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
+| 45 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 46 | [Muchas Felicidades](http://twitter.com/search?q=Muchas+Felicidades) | N/A |
+| 47 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 48 | [intrant](http://twitter.com/search?q=intrant) | N/A |
+| 49 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 50 | [miércoles 8](http://twitter.com/search?q=mi%c3%a9rcoles+8) | N/A |
 
 
 

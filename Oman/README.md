@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-09 23:17:12 UTC`
+📆 Last Updated: `2023-03-10 00:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Oman
 | 6 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 7 | [الكاس الغاليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 8 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 9 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
-| 10 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 9 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 10 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
 | 11 | [اليوم العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 12 | [الراقي النهضاوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%82%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%b6%d8%a7%d9%88%d9%8a) | N/A |
 | 13 | [الامن الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |

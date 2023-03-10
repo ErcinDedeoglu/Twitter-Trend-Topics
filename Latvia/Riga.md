@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-09 23:16:40 UTC`
+📆 Last Updated: `2023-03-10 00:28:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,7 +46,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 29 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
 | 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 31 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 32 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
+| 32 | [bahmutu](http://twitter.com/search?q=bahmutu) | N/A |
 | 33 | [cerams](http://twitter.com/search?q=cerams) | N/A |
 | 34 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 35 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 42 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
 | 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 44 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
-| 45 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
-| 46 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 47 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 48 | [ссср](http://twitter.com/search?q=%d1%81%d1%81%d1%81%d1%80) | N/A |
-| 49 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
+| 44 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
+| 45 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
+| 46 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
+| 47 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 48 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 49 | [ссср](http://twitter.com/search?q=%d1%81%d1%81%d1%81%d1%80) | N/A |
 
 
 

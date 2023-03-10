@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-09 23:17:09 UTC`
+📆 Last Updated: `2023-03-10 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Australia
 | 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
 | 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
@@ -27,11 +27,11 @@ This is top 50 for Australia
 | 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 12 | [Latrell Mitchell](http://twitter.com/search?q=Latrell+Mitchell) | N/A |
-| 13 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
+| 13 | [rising star](http://twitter.com/search?q=rising+star) | N/A |
 | 14 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 | 15 | [mcbride](http://twitter.com/search?q=mcbride) | N/A |
 | 16 | [Cody walker](http://twitter.com/search?q=Cody+walker) | N/A |
-| 17 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
+| 17 | [uzzie](http://twitter.com/search?q=uzzie) | N/A |
 | 18 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
 | 19 | [Luai](http://twitter.com/search?q=Luai) | N/A |
 | 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Australia
 | 30 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
 | 31 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
 | 32 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 33 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
-| 34 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
-| 35 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
-| 36 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 37 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 38 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 39 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
-| 40 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
-| 41 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 42 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
-| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 44 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 45 | [tass](http://twitter.com/search?q=tass) | N/A |
-| 46 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 47 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 48 | [cameron green](http://twitter.com/search?q=cameron+green) | N/A |
-| 49 | ["Rabbits"](http://twitter.com/search?q=%22Rabbits%22) | N/A |
-| 50 | [Jason Demetriou](http://twitter.com/search?q=Jason+Demetriou) | N/A |
+| 33 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 34 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
+| 35 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 36 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 38 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
+| 39 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
+| 40 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 41 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
+| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 43 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
+| 44 | [tass](http://twitter.com/search?q=tass) | N/A |
+| 45 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 46 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 47 | [cameron green](http://twitter.com/search?q=cameron+green) | N/A |
+| 48 | ["Rabbits"](http://twitter.com/search?q=%22Rabbits%22) | N/A |
+| 49 | [Jason Demetriou](http://twitter.com/search?q=Jason+Demetriou) | N/A |
+| 50 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
 
 
 

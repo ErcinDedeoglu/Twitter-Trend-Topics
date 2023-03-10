@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-09 23:16:33 UTC`
+📆 Last Updated: `2023-03-10 00:28:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,12 +24,12 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [#dzienkobiet](http://twitter.com/search?q=%23dzienkobiet) | N/A |
 | 8 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 9 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 10 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 11 | [drogie panie](http://twitter.com/search?q=drogie+panie) | N/A |
-| 12 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 10 | [drogie panie](http://twitter.com/search?q=drogie+panie) | N/A |
+| 11 | [Grota](http://twitter.com/search?q=Grota) | N/A |
+| 12 | [tvp info](http://twitter.com/search?q=tvp+info) | N/A |
 | 13 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
-| 14 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 15 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 14 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 15 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
 | 17 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
 | 18 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
@@ -39,22 +39,22 @@ This is top 50 for [Poland](</Poland>)
 | 22 | [Borys](http://twitter.com/search?q=Borys) | N/A |
 | 23 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
 | 24 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
-| 25 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 26 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
-| 27 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 28 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 30 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
-| 31 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
-| 32 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 33 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 34 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 25 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 26 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 27 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 28 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
+| 29 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 30 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 31 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 32 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
+| 33 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 34 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
 | 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 37 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
 | 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 39 | [partii republikańskiej](http://twitter.com/search?q=partii+republika%c5%84skiej) | N/A |
-| 40 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
+| 40 | [jasina](http://twitter.com/search?q=jasina) | N/A |
 | 41 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
 | 42 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
 | 43 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |

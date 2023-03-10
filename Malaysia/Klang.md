@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-09 23:16:47 UTC`
+📆 Last Updated: `2023-03-10 00:28:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -62,7 +62,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 45 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
 | 46 | [Lily](http://twitter.com/search?q=Lily) | N/A |
 | 47 | [perak](http://twitter.com/search?q=perak) | N/A |
-| 48 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 48 | [mh17](http://twitter.com/search?q=mh17) | N/A |
 | 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 

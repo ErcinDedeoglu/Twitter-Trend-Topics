@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Volgograd
 
-📆 Last Updated: `2023-03-09 23:16:55 UTC`
+📆 Last Updated: `2023-03-10 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,22 +27,22 @@ This is top 50 for [Russia](</Russia>)
 | 10 | [Собянина](http://twitter.com/search?q=%d0%a1%d0%be%d0%b1%d1%8f%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
 | 11 | [с праздником](http://twitter.com/search?q=%d1%81+%d0%bf%d1%80%d0%b0%d0%b7%d0%b4%d0%bd%d0%b8%d0%ba%d0%be%d0%bc) | N/A |
 | 12 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [Каца](http://twitter.com/search?q=%d0%9a%d0%b0%d1%86%d0%b0) | N/A |
-| 15 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 16 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 17 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 18 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 19 | [какого](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 20 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 21 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 22 | [гнида](http://twitter.com/search?q=%d0%b3%d0%bd%d0%b8%d0%b4%d0%b0) | N/A |
-| 23 | [держись](http://twitter.com/search?q=%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
-| 24 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 25 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
-| 26 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
-| 27 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 28 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 13 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
+| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 15 | [Каца](http://twitter.com/search?q=%d0%9a%d0%b0%d1%86%d0%b0) | N/A |
+| 16 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 17 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 18 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 19 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 20 | [какого](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 21 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 22 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 23 | [гнида](http://twitter.com/search?q=%d0%b3%d0%bd%d0%b8%d0%b4%d0%b0) | N/A |
+| 24 | [держись](http://twitter.com/search?q=%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
+| 25 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
+| 26 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 27 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 28 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 29 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
 | 30 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 31 | [полностью](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Russia](</Russia>)
 | 33 | [хаха](http://twitter.com/search?q=%d1%85%d0%b0%d1%85%d0%b0) | N/A |
 | 34 | [весны](http://twitter.com/search?q=%d0%b2%d0%b5%d1%81%d0%bd%d1%8b) | N/A |
 | 35 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 36 | [Король и Шут](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d0%a8%d1%83%d1%82) | N/A |
+| 36 | [король и шут](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d1%88%d1%83%d1%82) | N/A |
 | 37 | [лгбт](http://twitter.com/search?q=%d0%bb%d0%b3%d0%b1%d1%82) | N/A |
 | 38 | [зеленский](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 39 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |

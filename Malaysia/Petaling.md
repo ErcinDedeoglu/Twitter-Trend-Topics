@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-09 23:17:16 UTC`
+📆 Last Updated: `2023-03-10 00:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,35 +35,36 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 19 | [current job](http://twitter.com/search?q=current+job) | N/A |
 | 20 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 21 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 23 | [klia](http://twitter.com/search?q=klia) | N/A |
-| 24 | [sprm](http://twitter.com/search?q=sprm) | N/A |
-| 25 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 26 | [yedam](http://twitter.com/search?q=yedam) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 29 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 32 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 33 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
-| 34 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
-| 35 | [ramasamy](http://twitter.com/search?q=ramasamy) | N/A |
-| 36 | [mahathir](http://twitter.com/search?q=mahathir) | N/A |
-| 37 | [highly recommended bl](http://twitter.com/search?q=highly+recommended+bl) | N/A |
-| 38 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 40 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 41 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
-| 42 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
-| 43 | [abah](http://twitter.com/search?q=abah) | N/A |
-| 44 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
-| 45 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [klia](http://twitter.com/search?q=klia) | N/A |
+| 23 | [sprm](http://twitter.com/search?q=sprm) | N/A |
+| 24 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 25 | [yedam](http://twitter.com/search?q=yedam) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 31 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 32 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
+| 33 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
+| 34 | [ramasamy](http://twitter.com/search?q=ramasamy) | N/A |
+| 35 | [mahathir](http://twitter.com/search?q=mahathir) | N/A |
+| 36 | [highly recommended bl](http://twitter.com/search?q=highly+recommended+bl) | N/A |
+| 37 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 40 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
+| 41 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
+| 42 | [abah](http://twitter.com/search?q=abah) | N/A |
+| 43 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
+| 44 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
+| 45 | [jennie](http://twitter.com/search?q=jennie) | N/A |
 | 46 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
 | 47 | [Lily](http://twitter.com/search?q=Lily) | N/A |
 | 48 | [perak](http://twitter.com/search?q=perak) | N/A |
-| 49 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 49 | [mh17](http://twitter.com/search?q=mh17) | N/A |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

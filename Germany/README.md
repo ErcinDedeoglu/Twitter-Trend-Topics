@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-09 23:17:10 UTC`
+📆 Last Updated: `2023-03-10 00:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,29 +15,29 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 1 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
 | 2 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
 | 3 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 6 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 6 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
 | 7 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
 | 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
 | 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 10 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 11 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 11 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 12 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
 | 13 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
 | 14 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 15 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
 | 16 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 18 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
 | 19 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
 | 20 | [Handys](http://twitter.com/search?q=Handys) | N/A |
 | 21 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 22 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 23 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 22 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 23 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
 | 24 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 26 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |

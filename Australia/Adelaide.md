@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-09 23:16:42 UTC`
+📆 Last Updated: `2023-03-10 00:28:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
 | 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for [Australia](</Australia>)
 | 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 12 | [Latrell Mitchell](http://twitter.com/search?q=Latrell+Mitchell) | N/A |
-| 13 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
+| 13 | [rising star](http://twitter.com/search?q=rising+star) | N/A |
 | 14 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 | 15 | [mcbride](http://twitter.com/search?q=mcbride) | N/A |
 | 16 | [Cody walker](http://twitter.com/search?q=Cody+walker) | N/A |
@@ -37,12 +37,12 @@ This is top 50 for [Australia](</Australia>)
 | 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 21 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
 | 22 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
-| 23 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
-| 24 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 25 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
-| 26 | [garner](http://twitter.com/search?q=garner) | N/A |
-| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 28 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 23 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 24 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
+| 25 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 26 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 27 | [garner](http://twitter.com/search?q=garner) | N/A |
+| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 29 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
 | 30 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
 | 31 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
