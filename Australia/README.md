@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-10 14:16:54 UTC`
+📆 Last Updated: `2023-03-10 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PERvWSW](http://twitter.com/search?q=%23PERvWSW) | N/A |
-| 2 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
-| 3 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
+| 2 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
+| 3 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
 | 4 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
 | 5 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
 | 6 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Australia
 | 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 10 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 | 11 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
-| 12 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 13 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 14 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
-| 15 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
-| 16 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 17 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
-| 18 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 19 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
-| 20 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
-| 21 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 22 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 23 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 24 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
-| 25 | [atkins](http://twitter.com/search?q=atkins) | N/A |
-| 26 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 27 | [steve smith](http://twitter.com/search?q=steve+smith) | N/A |
-| 28 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 29 | [tehan](http://twitter.com/search?q=tehan) | N/A |
-| 30 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 31 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 32 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
-| 33 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 34 | [Simpsons](http://twitter.com/search?q=Simpsons) | N/A |
-| 35 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 36 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 37 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 38 | [Sussexes](http://twitter.com/search?q=Sussexes) | N/A |
-| 39 | [McBride](http://twitter.com/search?q=McBride) | N/A |
-| 40 | [ms smith](http://twitter.com/search?q=ms+smith) | N/A |
-| 41 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 43 | [bunnies](http://twitter.com/search?q=bunnies) | N/A |
-| 44 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 45 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 46 | [great grandparents](http://twitter.com/search?q=great+grandparents) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 48 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 49 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 50 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 12 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 13 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
+| 14 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
+| 15 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 16 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
+| 17 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 18 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
+| 19 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
+| 20 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
+| 21 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 22 | [atkins](http://twitter.com/search?q=atkins) | N/A |
+| 23 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
+| 24 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 25 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 26 | [tehan](http://twitter.com/search?q=tehan) | N/A |
+| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 28 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 29 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 30 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
+| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 32 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 33 | [Sussexes](http://twitter.com/search?q=Sussexes) | N/A |
+| 34 | [netball australia](http://twitter.com/search?q=netball+australia) | N/A |
+| 35 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 36 | [Jake paul](http://twitter.com/search?q=Jake+paul) | N/A |
+| 37 | [great grandparents](http://twitter.com/search?q=great+grandparents) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 40 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 41 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 42 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 43 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 44 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 45 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
+| 46 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 47 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 48 | [NACC](http://twitter.com/search?q=NACC) | N/A |
+| 49 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-10 14:16:58 UTC`
+📆 Last Updated: `2023-03-10 15:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 2 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
-| 3 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 4 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 5 | [stambulas](http://twitter.com/search?q=stambulas) | N/A |
-| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 7 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
-| 8 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
-| 9 | [talsos](http://twitter.com/search?q=talsos) | N/A |
-| 10 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 11 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 12 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 14 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 15 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 16 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 17 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 18 | [#ESfondi](http://twitter.com/search?q=%23ESfondi) | N/A |
-| 19 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 20 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 21 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 22 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 23 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 24 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 25 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
-| 26 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 27 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 28 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 29 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 30 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
-| 31 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
-| 32 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 33 | [avenu](http://twitter.com/search?q=avenu) | N/A |
-| 34 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
-| 35 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
-| 36 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
-| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 38 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
-| 39 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 40 | [dievam](http://twitter.com/search?q=dievam) | N/A |
-| 41 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
-| 42 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
-| 43 | [CILVĒKS](http://twitter.com/search?q=CILV%c4%92KS) | N/A |
-| 44 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 45 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 46 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
-| 47 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 48 | [tevis](http://twitter.com/search?q=tevis) | N/A |
-| 49 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 50 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 1 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
+| 2 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 3 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 4 | [stambulas](http://twitter.com/search?q=stambulas) | N/A |
+| 5 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 6 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
+| 7 | [talsos](http://twitter.com/search?q=talsos) | N/A |
+| 8 | [Labi](http://twitter.com/search?q=Labi) | N/A |
+| 9 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 10 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 11 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 12 | [#ESfondi](http://twitter.com/search?q=%23ESfondi) | N/A |
+| 13 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 14 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 15 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 16 | [#latvia](http://twitter.com/search?q=%23latvia) | N/A |
+| 17 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 18 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 20 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 21 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
+| 22 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 23 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 24 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
+| 25 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
+| 26 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 27 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 28 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
+| 29 | [Sveiki](http://twitter.com/search?q=Sveiki) | N/A |
+| 30 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
+| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 32 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
+| 33 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
+| 34 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 35 | [CILVĒKS](http://twitter.com/search?q=CILV%c4%92KS) | N/A |
+| 36 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 37 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 38 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 39 | [tevis](http://twitter.com/search?q=tevis) | N/A |
+| 40 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 
 
 

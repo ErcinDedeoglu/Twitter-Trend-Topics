@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-10 14:16:12 UTC`
+📆 Last Updated: `2023-03-10 15:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [#BailaAutopiZta](http://twitter.com/search?q=%23BailaAutopiZta) | N/A |
 | 4 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
 | 5 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 6 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 7 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 8 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 7 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 8 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
 | 9 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
 | 10 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
 | 11 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 12 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
-| 13 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 14 | [aeropuerto de santiago](http://twitter.com/search?q=aeropuerto+de+santiago) | N/A |
-| 15 | [elena caffarena](http://twitter.com/search?q=elena+caffarena) | N/A |
-| 16 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
-| 17 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
-| 18 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 13 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
+| 14 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 15 | [aeropuerto de santiago](http://twitter.com/search?q=aeropuerto+de+santiago) | N/A |
+| 16 | [elena caffarena](http://twitter.com/search?q=elena+caffarena) | N/A |
+| 17 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 18 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
 | 19 | [idea de legislar](http://twitter.com/search?q=idea+de+legislar) | N/A |
 | 20 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
-| 21 | [tame Impala](http://twitter.com/search?q=tame+Impala) | N/A |
-| 22 | [jouannet](http://twitter.com/search?q=jouannet) | N/A |
-| 23 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 24 | [bajate](http://twitter.com/search?q=bajate) | N/A |
-| 25 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 26 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 27 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 30 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
+| 21 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 22 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 23 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [bajate](http://twitter.com/search?q=bajate) | N/A |
+| 26 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 27 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
+| 28 | [vardoc](http://twitter.com/search?q=vardoc) | N/A |
+| 29 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 30 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
 | 31 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 32 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 33 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 34 | [amarillos](http://twitter.com/search?q=amarillos) | N/A |
-| 35 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
-| 36 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 37 | [Querían](http://twitter.com/search?q=Quer%c3%adan) | N/A |
+| 32 | [Mónica Arce](http://twitter.com/search?q=M%c3%b3nica+Arce) | N/A |
+| 33 | [Daniela Aranguiz](http://twitter.com/search?q=Daniela+Aranguiz) | N/A |
+| 34 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 35 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 36 | [querían](http://twitter.com/search?q=quer%c3%adan) | N/A |
+| 37 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
 | 38 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
 | 39 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 40 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 40 | [Winter](http://twitter.com/search?q=Winter) | N/A |
 | 41 | [SECOM](http://twitter.com/search?q=SECOM) | N/A |
-| 42 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 43 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 44 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [iquique](http://twitter.com/search?q=iquique) | N/A |
-| 47 | [Efectivamente](http://twitter.com/search?q=Efectivamente) | N/A |
-| 48 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
-| 49 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
+| 42 | [Sabias](http://twitter.com/search?q=Sabias) | N/A |
+| 43 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 44 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 45 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 46 | [Rechazo](http://twitter.com/search?q=Rechazo) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 49 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
 
 
 
