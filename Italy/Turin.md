@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-10 04:16:38 UTC`
+📆 Last Updated: `2023-03-10 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [#tottenhammilan](http://twitter.com/search?q=%23tottenhammilan) | N/A |
 | 5 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
 | 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 8 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
+| 7 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
+| 8 | [Manila](http://twitter.com/search?q=Manila) | N/A |
 | 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
 | 10 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
 | 11 | [zaia](http://twitter.com/search?q=zaia) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Italy](</Italy>)
 | 14 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
 | 15 | [viterbo](http://twitter.com/search?q=viterbo) | N/A |
 | 16 | [figc](http://twitter.com/search?q=figc) | N/A |
-| 17 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
+| 17 | [umbertide](http://twitter.com/search?q=umbertide) | N/A |
 | 18 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
 | 19 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
 | 20 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
@@ -39,28 +39,28 @@ This is top 50 for [Italy](</Italy>)
 | 22 | [Milena](http://twitter.com/search?q=Milena) | N/A |
 | 23 | [de ligt](http://twitter.com/search?q=de+ligt) | N/A |
 | 24 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 25 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
-| 26 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
-| 27 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 25 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 26 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
+| 27 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
 | 28 | [Luca](http://twitter.com/search?q=Luca) | N/A |
 | 29 | [joe formaggio](http://twitter.com/search?q=joe+formaggio) | N/A |
 | 30 | [covisoc](http://twitter.com/search?q=covisoc) | N/A |
 | 31 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
 | 32 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 33 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 34 | [antonio conte](http://twitter.com/search?q=antonio+conte) | N/A |
-| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 36 | [el shaarawy](http://twitter.com/search?q=el+shaarawy) | N/A |
-| 37 | [bianca balti](http://twitter.com/search?q=bianca+balti) | N/A |
-| 38 | [berlinguer](http://twitter.com/search?q=berlinguer) | N/A |
-| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 40 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
+| 34 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
+| 35 | [antonio conte](http://twitter.com/search?q=antonio+conte) | N/A |
+| 36 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 37 | [el shaarawy](http://twitter.com/search?q=el+shaarawy) | N/A |
+| 38 | [bianca balti](http://twitter.com/search?q=bianca+balti) | N/A |
+| 39 | [berlinguer](http://twitter.com/search?q=berlinguer) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 41 | [umbria](http://twitter.com/search?q=umbria) | N/A |
 | 42 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
 | 43 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 44 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 45 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 46 | [#terremoto](http://twitter.com/search?q=%23terremoto) | N/A |
+| 46 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 
 
 

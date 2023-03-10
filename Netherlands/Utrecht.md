@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-10 04:16:39 UTC`
+📆 Last Updated: `2023-03-10 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,12 +23,12 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [bpoc](http://twitter.com/search?q=bpoc) | N/A |
 | 7 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 8 | [wilfred genee](http://twitter.com/search?q=wilfred+genee) | N/A |
-| 9 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
+| 9 | [smeets](http://twitter.com/search?q=smeets) | N/A |
 | 10 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 11 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 12 | [asml](http://twitter.com/search?q=asml) | N/A |
-| 13 | [miljoen nederlanders](http://twitter.com/search?q=miljoen+nederlanders) | N/A |
-| 14 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 12 | [miljoen nederlanders](http://twitter.com/search?q=miljoen+nederlanders) | N/A |
+| 13 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 14 | [ASML](http://twitter.com/search?q=ASML) | N/A |
 | 15 | [bikker](http://twitter.com/search?q=bikker) | N/A |
 | 16 | [nos sport](http://twitter.com/search?q=nos+sport) | N/A |
 | 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
@@ -37,13 +37,13 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 21 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 22 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
-| 23 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
-| 24 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
-| 25 | [de ligt](http://twitter.com/search?q=de+ligt) | N/A |
-| 26 | [paula](http://twitter.com/search?q=paula) | N/A |
-| 27 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
-| 28 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
-| 29 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [kuit](http://twitter.com/search?q=kuit) | N/A |
+| 24 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 25 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 26 | [de ligt](http://twitter.com/search?q=de+ligt) | N/A |
+| 27 | [paula](http://twitter.com/search?q=paula) | N/A |
+| 28 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
+| 29 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
 | 30 | [richelle](http://twitter.com/search?q=richelle) | N/A |
 | 31 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
 | 32 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 34 | [kontje](http://twitter.com/search?q=kontje) | N/A |
 | 35 | [rabo](http://twitter.com/search?q=rabo) | N/A |
 | 36 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
-| 37 | [Cordoba](http://twitter.com/search?q=Cordoba) | N/A |
+| 37 | [cordoba](http://twitter.com/search?q=cordoba) | N/A |
 | 38 | [willem engel](http://twitter.com/search?q=willem+engel) | N/A |
 | 39 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
 | 40 | [erwtensoep](http://twitter.com/search?q=erwtensoep) | N/A |

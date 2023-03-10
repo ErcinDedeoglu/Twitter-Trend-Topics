@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-10 04:17:12 UTC`
+📆 Last Updated: `2023-03-10 05:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for France
 | 4 | [#Pegases2023](http://twitter.com/search?q=%23Pegases2023) | N/A |
 | 5 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
 | 6 | [thierry casasnovas](http://twitter.com/search?q=thierry+casasnovas) | N/A |
-| 7 | [marlène schiappa](http://twitter.com/search?q=marl%c3%a8ne+schiappa) | N/A |
-| 8 | [sion](http://twitter.com/search?q=sion) | N/A |
+| 7 | [Marlène Schiappa](http://twitter.com/search?q=Marl%c3%a8ne+Schiappa) | N/A |
+| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
 | 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 10 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
 | 11 | [amraoui](http://twitter.com/search?q=amraoui) | N/A |
@@ -32,29 +32,26 @@ This is top 50 for France
 | 15 | [Maes](http://twitter.com/search?q=Maes) | N/A |
 | 16 | [kaori](http://twitter.com/search?q=kaori) | N/A |
 | 17 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 18 | [paris match](http://twitter.com/search?q=paris+match) | N/A |
+| 18 | [Paris Match](http://twitter.com/search?q=Paris+Match) | N/A |
 | 19 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
 | 20 | [andrea bescond](http://twitter.com/search?q=andrea+bescond) | N/A |
 | 21 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
 | 22 | [rer d](http://twitter.com/search?q=rer+d) | N/A |
-| 23 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 24 | [marcel amont](http://twitter.com/search?q=marcel+amont) | N/A |
-| 25 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 26 | [#noplp](http://twitter.com/search?q=%23noplp) | N/A |
-| 27 | [#kcwin](http://twitter.com/search?q=%23kcwin) | N/A |
-| 28 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 29 | [#Speedons](http://twitter.com/search?q=%23Speedons) | N/A |
-| 30 | [#valrevolution](http://twitter.com/search?q=%23valrevolution) | N/A |
-| 31 | [#ares13](http://twitter.com/search?q=%23ares13) | N/A |
-| 32 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 33 | [#joblife](http://twitter.com/search?q=%23joblife) | N/A |
-| 34 | [#parcoursup](http://twitter.com/search?q=%23parcoursup) | N/A |
-| 35 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 36 | [#vforvictory](http://twitter.com/search?q=%23vforvictory) | N/A |
-| 37 | [#parisnice](http://twitter.com/search?q=%23parisnice) | N/A |
-| 38 | [#bonuszonebetclic](http://twitter.com/search?q=%23bonuszonebetclic) | N/A |
-| 39 | [#greve9mars](http://twitter.com/search?q=%23greve9mars) | N/A |
-| 40 | [#MarioKart8Deluxe](http://twitter.com/search?q=%23MarioKart8Deluxe) | N/A |
+| 23 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 24 | [#noplp](http://twitter.com/search?q=%23noplp) | N/A |
+| 25 | [#kcwin](http://twitter.com/search?q=%23kcwin) | N/A |
+| 26 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 27 | [#Speedons](http://twitter.com/search?q=%23Speedons) | N/A |
+| 28 | [#valrevolution](http://twitter.com/search?q=%23valrevolution) | N/A |
+| 29 | [#ares13](http://twitter.com/search?q=%23ares13) | N/A |
+| 30 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 31 | [#joblife](http://twitter.com/search?q=%23joblife) | N/A |
+| 32 | [#parcoursup](http://twitter.com/search?q=%23parcoursup) | N/A |
+| 33 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 34 | [#vforvictory](http://twitter.com/search?q=%23vforvictory) | N/A |
+| 35 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 36 | [#bonuszonebetclic](http://twitter.com/search?q=%23bonuszonebetclic) | N/A |
+| 37 | [#greve9mars](http://twitter.com/search?q=%23greve9mars) | N/A |
 
 
 

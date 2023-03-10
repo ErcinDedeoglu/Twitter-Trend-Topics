@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-10 04:17:16 UTC`
+📆 Last Updated: `2023-03-10 05:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Qatar
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 7 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 8 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
-| 9 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 10 | [البطانه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 11 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 12 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 13 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 14 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 15 | [خليفه بن حمد](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 16 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 17 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 18 | [سفير دوله قطر](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%b1+%d8%af%d9%88%d9%84%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
-| 19 | [المنشات الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
-| 20 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 21 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 22 | [المراه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
-| 23 | [وزير الدوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 24 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 25 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 26 | [حقوق المراه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 27 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 28 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 29 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 30 | [طريق اللاعب](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8) | N/A |
-| 31 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 32 | [جامعة قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d9%82%d8%b7%d8%b1) | N/A |
-| 33 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 34 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 35 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
-| 36 | [الملتقي الهندسي الخليجي الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%8a+%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 37 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 38 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 39 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 40 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 41 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 42 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 43 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 45 | [محمد بن عبدالرحمن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
-| 46 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 47 | [معرض سوق واقف](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%b3%d9%88%d9%82+%d9%88%d8%a7%d9%82%d9%81) | N/A |
-| 48 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 49 | [Round of 16](http://twitter.com/search?q=Round+of+16) | N/A |
-| 50 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 8 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 9 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 10 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 11 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 12 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 13 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 14 | [خليفه بن حمد](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 16 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 17 | [سفير دوله قطر](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%b1+%d8%af%d9%88%d9%84%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
+| 18 | [المنشات الصحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d9%87) | N/A |
+| 19 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 20 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 21 | [وزير الدوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 22 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 23 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 24 | [حقوق المراه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 25 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 26 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 27 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 28 | [طريق اللاعب](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8) | N/A |
+| 29 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 30 | [جامعة قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d9%82%d8%b7%d8%b1) | N/A |
+| 31 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 32 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 33 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
+| 34 | [الملتقي الهندسي الخليجي الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%8a+%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 35 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 36 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 37 | [المراه القطريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
+| 38 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 39 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 40 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 41 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 42 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 43 | [محمد بن عبدالرحمن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
+| 44 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 45 | [معرض سوق واقف](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%b3%d9%88%d9%82+%d9%88%d8%a7%d9%82%d9%81) | N/A |
+| 46 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 47 | [Round of 16](http://twitter.com/search?q=Round+of+16) | N/A |
+| 48 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 49 | [مصرف قطر المركزي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d9%82%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 50 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 
 
 

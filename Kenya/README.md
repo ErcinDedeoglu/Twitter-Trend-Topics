@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-10 04:17:14 UTC`
+📆 Last Updated: `2023-03-10 05:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,10 +30,10 @@ This is top 50 for Kenya
 | 13 | [joseph boinnet](http://twitter.com/search?q=joseph+boinnet) | N/A |
 | 14 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 15 | [Minne](http://twitter.com/search?q=Minne) | N/A |
-| 16 | [handshake](http://twitter.com/search?q=handshake) | N/A |
+| 16 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
 | 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 18 | [cs moses kuria](http://twitter.com/search?q=cs+moses+kuria) | N/A |
-| 19 | [malala](http://twitter.com/search?q=malala) | N/A |
+| 19 | [Malala](http://twitter.com/search?q=Malala) | N/A |
 | 20 | [dj fatxo](http://twitter.com/search?q=dj+fatxo) | N/A |
 | 21 | [kanini kega](http://twitter.com/search?q=kanini+kega) | N/A |
 | 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
@@ -63,7 +63,7 @@ This is top 50 for Kenya
 | 46 | [Gaddafi](http://twitter.com/search?q=Gaddafi) | N/A |
 | 47 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 48 | [jubilee](http://twitter.com/search?q=jubilee) | N/A |
-| 49 | [penalty](http://twitter.com/search?q=penalty) | N/A |
+| 49 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
 | 50 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 
 

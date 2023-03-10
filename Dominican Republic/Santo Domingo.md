@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-10 04:16:25 UTC`
+📆 Last Updated: `2023-03-10 05:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 2 | [#votastequesi](http://twitter.com/search?q=%23votastequesi) | N/A |
 | 3 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
 | 4 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
-| 5 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 5 | [bandera nacional](http://twitter.com/search?q=bandera+nacional) | N/A |
 | 6 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 7 | [bandera dominicana](http://twitter.com/search?q=bandera+dominicana) | N/A |
 | 8 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 47 | [intrant](http://twitter.com/search?q=intrant) | N/A |
 | 48 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 49 | [miércoles 8](http://twitter.com/search?q=mi%c3%a9rcoles+8) | N/A |
-| 50 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 50 | [machado](http://twitter.com/search?q=machado) | N/A |
 
 
 

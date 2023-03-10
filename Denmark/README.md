@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-10 04:17:12 UTC`
+📆 Last Updated: `2023-03-10 05:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Denmark
 | 15 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
 | 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 17 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 18 | [Odin](http://twitter.com/search?q=Odin) | N/A |
+| 18 | [odin](http://twitter.com/search?q=odin) | N/A |
 | 19 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 20 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 21 | [nårh](http://twitter.com/search?q=n%c3%a5rh) | N/A |
@@ -53,9 +53,9 @@ This is top 50 for Denmark
 | 36 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 37 | [ærgerligt](http://twitter.com/search?q=%c3%a6rgerligt) | N/A |
 | 38 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
-| 39 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 40 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 41 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 41 | [matador](http://twitter.com/search?q=matador) | N/A |
 | 42 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 | 43 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 44 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |

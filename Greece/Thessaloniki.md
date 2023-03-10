@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-10 04:16:41 UTC`
+📆 Last Updated: `2023-03-10 05:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,7 +44,7 @@ This is top 50 for [Greece](</Greece>)
 | 27 | [παγκαλου](http://twitter.com/search?q=%cf%80%ce%b1%ce%b3%ce%ba%ce%b1%ce%bb%ce%bf%cf%85) | N/A |
 | 28 | [κκνσ](http://twitter.com/search?q=%ce%ba%ce%ba%ce%bd%cf%83) | N/A |
 | 29 | [καραμανλη](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%b1%ce%bc%ce%b1%ce%bd%ce%bb%ce%b7) | N/A |
-| 30 | [Αργυρω](http://twitter.com/search?q=%ce%91%cf%81%ce%b3%cf%85%cf%81%cf%89) | N/A |
+| 30 | [αργυρω](http://twitter.com/search?q=%ce%b1%cf%81%ce%b3%cf%85%cf%81%cf%89) | N/A |
 | 31 | [παναγιωτη](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7) | N/A |
 | 32 | [enel ρουμανιας](http://twitter.com/search?q=enel+%cf%81%ce%bf%cf%85%ce%bc%ce%b1%ce%bd%ce%b9%ce%b1%cf%82) | N/A |
 | 33 | [βενιζελου](http://twitter.com/search?q=%ce%b2%ce%b5%ce%bd%ce%b9%ce%b6%ce%b5%ce%bb%ce%bf%cf%85) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Greece](</Greece>)
 | 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 41 | [σπιρτζη](http://twitter.com/search?q=%cf%83%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7) | N/A |
 | 42 | [χρυσοχοιδης](http://twitter.com/search?q=%cf%87%cf%81%cf%85%cf%83%ce%bf%cf%87%ce%bf%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
-| 43 | [thessaloniki](http://twitter.com/search?q=thessaloniki) | N/A |
+| 43 | [Thessaloniki](http://twitter.com/search?q=Thessaloniki) | N/A |
 | 44 | [Γκοτσης](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
 | 45 | [θεου](http://twitter.com/search?q=%ce%b8%ce%b5%ce%bf%cf%85) | N/A |
 | 46 | [παπαγιαννη](http://twitter.com/search?q=%cf%80%ce%b1%cf%80%ce%b1%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
 | 47 | [αττικο](http://twitter.com/search?q=%ce%b1%cf%84%cf%84%ce%b9%ce%ba%ce%bf) | N/A |
 | 48 | [λαζαριδου](http://twitter.com/search?q=%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
 | 49 | [σερρες](http://twitter.com/search?q=%cf%83%ce%b5%cf%81%cf%81%ce%b5%cf%82) | N/A |
-| 50 | [Αστερη](http://twitter.com/search?q=%ce%91%cf%83%cf%84%ce%b5%cf%81%ce%b7) | N/A |
+| 50 | [αστερη](http://twitter.com/search?q=%ce%b1%cf%83%cf%84%ce%b5%cf%81%ce%b7) | N/A |
 
 
 

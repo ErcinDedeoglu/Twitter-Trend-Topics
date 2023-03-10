@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-10 04:16:56 UTC`
+📆 Last Updated: `2023-03-10 05:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#zilleshah](http://twitter.com/search?q=%23zilleshah) | N/A |
+| 3 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
 | 4 | [#iuvlq](http://twitter.com/search?q=%23iuvlq) | N/A |
 | 5 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
 | 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 7 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
-| 8 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
+| 7 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
+| 8 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
 | 9 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
 | 10 | [rashid khan](http://twitter.com/search?q=rashid+khan) | N/A |
 | 11 | [mohsin naqvi](http://twitter.com/search?q=mohsin+naqvi) | N/A |
@@ -40,8 +40,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 23 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
 | 24 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
 | 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 26 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
-| 27 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
+| 26 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
+| 27 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
 | 28 | [#lqviu](http://twitter.com/search?q=%23lqviu) | N/A |
 | 29 | [#releaseshoaibshaikh](http://twitter.com/search?q=%23releaseshoaibshaikh) | N/A |
 | 30 | [#گندی_ویڈیو_والی_عورت](http://twitter.com/search?q=%23%da%af%d9%86%d8%af%db%8c_%d9%88%db%8c%da%88%db%8c%d9%88_%d9%88%d8%a7%d9%84%db%8c_%d8%b9%d9%88%d8%b1%d8%aa) | N/A |
@@ -64,7 +64,6 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 47 | [#qgvpz](http://twitter.com/search?q=%23qgvpz) | N/A |
 | 48 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
 | 49 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 50 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-10 04:16:54 UTC`
+📆 Last Updated: `2023-03-10 05:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 4 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 8 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 7 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 8 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 9 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 11 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |

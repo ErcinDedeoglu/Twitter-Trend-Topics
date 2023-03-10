@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omsk
 
-📆 Last Updated: `2023-03-10 04:16:55 UTC`
+📆 Last Updated: `2023-03-10 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [волков](http://twitter.com/search?q=%d0%b2%d0%be%d0%bb%d0%ba%d0%be%d0%b2) | N/A |
-| 2 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 1 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 2 | [Волков](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%ba%d0%be%d0%b2) | N/A |
 | 3 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
 | 4 | [венедиктова](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2%d0%b0) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Russia](</Russia>)
 | 18 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
 | 19 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
 | 20 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 21 | [#CallofDuty](http://twitter.com/search?q=%23CallofDuty) | N/A |
+| 21 | [#callofduty](http://twitter.com/search?q=%23callofduty) | N/A |
 | 22 | [гнида](http://twitter.com/search?q=%d0%b3%d0%bd%d0%b8%d0%b4%d0%b0) | N/A |
 | 23 | [держись](http://twitter.com/search?q=%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
 | 24 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for [Russia](</Russia>)
 | 38 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
 | 39 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
 | 40 | [обнимаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 41 | [002 only](http://twitter.com/search?q=002+only) | N/A |
+| 41 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
 | 42 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
 | 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 44 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |

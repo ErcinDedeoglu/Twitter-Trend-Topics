@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-10 04:16:34 UTC`
+📆 Last Updated: `2023-03-10 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,24 +22,24 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [sejmie](http://twitter.com/search?q=sejmie) | N/A |
 | 6 | [#dzienkobiet](http://twitter.com/search?q=%23dzienkobiet) | N/A |
 | 7 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 8 | [#LPODIF](http://twitter.com/search?q=%23LPODIF) | N/A |
-| 9 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 10 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 8 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 9 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 10 | [#LPODIF](http://twitter.com/search?q=%23LPODIF) | N/A |
 | 11 | [drogie panie](http://twitter.com/search?q=drogie+panie) | N/A |
 | 12 | [grota](http://twitter.com/search?q=grota) | N/A |
 | 13 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
 | 14 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
 | 15 | [#baypsg](http://twitter.com/search?q=%23baypsg) | N/A |
-| 16 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
-| 17 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 18 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 19 | [janie pawle ii](http://twitter.com/search?q=janie+pawle+ii) | N/A |
+| 16 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 17 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 18 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 19 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 20 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 21 | [tygrysek](http://twitter.com/search?q=tygrysek) | N/A |
+| 21 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
 | 22 | [gruzji](http://twitter.com/search?q=gruzji) | N/A |
 | 23 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 24 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 25 | [suskiego](http://twitter.com/search?q=suskiego) | N/A |
+| 24 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 25 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
 | 26 | [onet](http://twitter.com/search?q=onet) | N/A |
 | 27 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
 | 28 | [wielki żal](http://twitter.com/search?q=wielki+%c5%bcal) | N/A |
@@ -52,11 +52,11 @@ This is top 50 for [Poland](</Poland>)
 | 35 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
 | 36 | [janem pawłem ii](http://twitter.com/search?q=janem+paw%c5%82em+ii) | N/A |
 | 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 38 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 | 39 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
 | 40 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
 | 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 42 | [mikołaja](http://twitter.com/search?q=miko%c5%82aja) | N/A |
 | 43 | [jasina](http://twitter.com/search?q=jasina) | N/A |
 | 44 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
 | 45 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-10 04:16:29 UTC`
+📆 Last Updated: `2023-03-10 05:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 1 | [JULIANA](http://twitter.com/search?q=JULIANA) | N/A |
+| 2 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 4 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 | 5 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Argentina](</Argentina>)
 | 21 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 22 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 23 | [elias gomez](http://twitter.com/search?q=elias+gomez) | N/A |
-| 24 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
-| 25 | [Hacha](http://twitter.com/search?q=Hacha) | N/A |
+| 24 | [Hacha](http://twitter.com/search?q=Hacha) | N/A |
+| 25 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
 | 26 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 27 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
-| 28 | [arba](http://twitter.com/search?q=arba) | N/A |
-| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 30 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 31 | [causa vialidad](http://twitter.com/search?q=causa+vialidad) | N/A |
-| 32 | [wado](http://twitter.com/search?q=wado) | N/A |
-| 33 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 27 | [Wado](http://twitter.com/search?q=Wado) | N/A |
+| 28 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
+| 29 | [arba](http://twitter.com/search?q=arba) | N/A |
+| 30 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 31 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 32 | [racing de córdoba](http://twitter.com/search?q=racing+de+c%c3%b3rdoba) | N/A |
+| 33 | [causa vialidad](http://twitter.com/search?q=causa+vialidad) | N/A |
 | 34 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 35 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 36 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 37 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 38 | [Evra](http://twitter.com/search?q=Evra) | N/A |
-| 39 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 40 | [imagine dragons](http://twitter.com/search?q=imagine+dragons) | N/A |
+| 35 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 36 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 37 | [Evra](http://twitter.com/search?q=Evra) | N/A |
+| 38 | [donnarumma](http://twitter.com/search?q=donnarumma) | N/A |
+| 39 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 40 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 | 41 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
 | 42 | [expoagro](http://twitter.com/search?q=expoagro) | N/A |
-| 43 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 44 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 45 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 46 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 47 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
-| 48 | [12-Espinaca](http://twitter.com/search?q=12-Espinaca) | N/A |
-| 49 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 50 | [nuno mendes](http://twitter.com/search?q=nuno+mendes) | N/A |
+| 43 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 44 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 45 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 46 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 47 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 48 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 49 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 50 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 
 
 

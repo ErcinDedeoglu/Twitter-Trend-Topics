@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-10 04:16:29 UTC`
+📆 Last Updated: `2023-03-10 05:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,31 +38,31 @@ This is top 50 for [Colombia](</Colombia>)
 | 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
 | 22 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
 | 23 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 24 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 24 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
 | 25 | [la unp](http://twitter.com/search?q=la+unp) | N/A |
 | 26 | [Coliseo de Gaira](http://twitter.com/search?q=Coliseo+de+Gaira) | N/A |
-| 27 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 28 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
-| 29 | [bancolombia](http://twitter.com/search?q=bancolombia) | N/A |
+| 27 | [arjona](http://twitter.com/search?q=arjona) | N/A |
+| 28 | [millos](http://twitter.com/search?q=millos) | N/A |
+| 29 | [Bancolombia](http://twitter.com/search?q=Bancolombia) | N/A |
 | 30 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 31 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
-| 32 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 33 | [pons](http://twitter.com/search?q=pons) | N/A |
-| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 32 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 33 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 34 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
 | 35 | [pericongo](http://twitter.com/search?q=pericongo) | N/A |
 | 36 | [iván mordisco](http://twitter.com/search?q=iv%c3%a1n+mordisco) | N/A |
 | 37 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 39 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
-| 40 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 41 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 42 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
-| 43 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 44 | [maría isabel urrutia](http://twitter.com/search?q=mar%c3%ada+isabel+urrutia) | N/A |
-| 45 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 46 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 48 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 38 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 39 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 40 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
+| 41 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 42 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 43 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
+| 44 | [rivera](http://twitter.com/search?q=rivera) | N/A |
+| 45 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
+| 46 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 47 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 49 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 | 50 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
 

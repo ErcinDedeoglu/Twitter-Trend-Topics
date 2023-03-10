@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-03-10 04:16:51 UTC`
+📆 Last Updated: `2023-03-10 05:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,8 +30,8 @@ This is top 50 for [Egypt](</Egypt>)
 | 13 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
 | 14 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
 | 15 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 16 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
-| 17 | [الندوه التثقيفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%af%d9%88%d9%87+%d8%a7%d9%84%d8%aa%d8%ab%d9%82%d9%8a%d9%81%d9%8a%d9%87) | N/A |
+| 16 | [الندوه التثقيفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%af%d9%88%d9%87+%d8%a7%d9%84%d8%aa%d8%ab%d9%82%d9%8a%d9%81%d9%8a%d9%87) | N/A |
+| 17 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
 | 18 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 19 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
 | 20 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for [Egypt](</Egypt>)
 | 24 | [النهارده الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
 | 25 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 26 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
-| 27 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 28 | [9 مارس](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 27 | [9 مارس](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 28 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 29 | [عبد المنعم رياض](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
 | 30 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
 | 31 | [تامر امين](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%a7%d9%85%d9%8a%d9%86) | N/A |

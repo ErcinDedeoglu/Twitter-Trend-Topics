@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-10 04:17:14 UTC`
+📆 Last Updated: `2023-03-10 05:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Kuwait
 | 22 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
 | 23 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 24 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 25 | [الحربش الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
-| 26 | [بوغبا](http://twitter.com/search?q=%d8%a8%d9%88%d8%ba%d8%a8%d8%a7) | N/A |
-| 27 | [عمر القطان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
-| 28 | [الطعون الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
-| 29 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 30 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 31 | [knet](http://twitter.com/search?q=knet) | N/A |
-| 32 | [منصور مانع الرحيان](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d9%85%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d8%a7%d9%86) | N/A |
-| 33 | [دور القران](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 34 | [نساء الارض](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 35 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 36 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 37 | [يابو فضل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%b6%d9%84) | N/A |
-| 38 | [جاسم يعقوب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 39 | [القوي العامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 40 | [سعيد سعد الرشيدي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 41 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 42 | [وزارة الكهرباء](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [يابو عبدالله](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 45 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 46 | [علي القطان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
-| 47 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 48 | [بندر جابر البخيتان الظفيري](http://twitter.com/search?q=%d8%a8%d9%86%d8%af%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a8%d8%ae%d9%8a%d8%aa%d8%a7%d9%86+%d8%a7%d9%84%d8%b8%d9%81%d9%8a%d8%b1%d9%8a) | N/A |
-| 49 | [الصندوق الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 50 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 25 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
+| 26 | [الحربش الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
+| 27 | [بوغبا](http://twitter.com/search?q=%d8%a8%d9%88%d8%ba%d8%a8%d8%a7) | N/A |
+| 28 | [عمر القطان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
+| 29 | [الطعون الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 30 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 32 | [knet](http://twitter.com/search?q=knet) | N/A |
+| 33 | [منصور مانع الرحيان](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d9%85%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d8%a7%d9%86) | N/A |
+| 34 | [دور القران](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 35 | [نساء الارض](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 36 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 37 | [وزارة الكهرباء](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1) | N/A |
+| 38 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 39 | [يابو فضل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%b6%d9%84) | N/A |
+| 40 | [جاسم يعقوب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 41 | [القوي العامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 42 | [سعيد سعد الرشيدي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 43 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [يابو عبدالله](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 46 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 47 | [علي القطان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
+| 48 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 49 | [بندر جابر البخيتان الظفيري](http://twitter.com/search?q=%d8%a8%d9%86%d8%af%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a8%d8%ae%d9%8a%d8%aa%d8%a7%d9%86+%d8%a7%d9%84%d8%b8%d9%81%d9%8a%d8%b1%d9%8a) | N/A |
+| 50 | [الصندوق الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
 
 
 

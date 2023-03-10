@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-10 04:17:11 UTC`
+📆 Last Updated: `2023-03-10 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Belgium
 | 5 | [delhaize](http://twitter.com/search?q=delhaize) | N/A |
 | 6 | [Kampenhout](http://twitter.com/search?q=Kampenhout) | N/A |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 8 | [#fcbpsg](http://twitter.com/search?q=%23fcbpsg) | N/A |
 | 9 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
 | 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 11 | [sané](http://twitter.com/search?q=san%c3%a9) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Belgium
 | 35 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 | 36 | [voor gent](http://twitter.com/search?q=voor+gent) | N/A |
 | 37 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 38 | [spurs](http://twitter.com/search?q=spurs) | N/A |
+| 38 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 40 | [stib](http://twitter.com/search?q=stib) | N/A |
 | 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |

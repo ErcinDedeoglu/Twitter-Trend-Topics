@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-10 04:16:34 UTC`
+📆 Last Updated: `2023-03-10 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 5 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 | 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [ireland football](http://twitter.com/search?q=ireland+football) | N/A |
-| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 10 | [burkes](http://twitter.com/search?q=burkes) | N/A |
-| 11 | [spurs](http://twitter.com/search?q=spurs) | N/A |
+| 8 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 9 | [ireland football](http://twitter.com/search?q=ireland+football) | N/A |
+| 10 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 12 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
 | 13 | [primary curriculum framework](http://twitter.com/search?q=primary+curriculum+framework) | N/A |
 | 14 | [castore](http://twitter.com/search?q=castore) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 36 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 38 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 39 | [thurles](http://twitter.com/search?q=thurles) | N/A |
+| 39 | [Thurles](http://twitter.com/search?q=Thurles) | N/A |
 | 40 | [oireachtas](http://twitter.com/search?q=oireachtas) | N/A |
 | 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 46 | [garda](http://twitter.com/search?q=garda) | N/A |
 | 47 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
 | 48 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 49 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 49 | [baltic](http://twitter.com/search?q=baltic) | N/A |
 | 50 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 
 

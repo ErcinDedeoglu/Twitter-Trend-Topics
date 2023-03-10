@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-10 04:16:54 UTC`
+📆 Last Updated: `2023-03-10 05:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,7 @@ This is top 50 for [Jordan](</Jordan>)
 | 47 | [الباص السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b5+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
 | 48 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
 | 49 | [اربد](http://twitter.com/search?q=%d8%a7%d8%b1%d8%a8%d8%af) | N/A |
-| 50 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 50 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 
 
 

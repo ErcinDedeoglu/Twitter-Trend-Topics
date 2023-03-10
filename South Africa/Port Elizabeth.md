@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-10 04:16:52 UTC`
+📆 Last Updated: `2023-03-10 05:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,7 +44,7 @@ This is top 50 for [South Africa](</South Africa>)
 | 27 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
 | 28 | [soshanguve](http://twitter.com/search?q=soshanguve) | N/A |
 | 29 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 30 | [west indies](http://twitter.com/search?q=west+indies) | N/A |
+| 30 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
 | 31 | [thabang the sport analyst](http://twitter.com/search?q=thabang+the+sport+analyst) | N/A |
 | 32 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 33 | [Gina](http://twitter.com/search?q=Gina) | N/A |
@@ -55,10 +55,10 @@ This is top 50 for [South Africa](</South Africa>)
 | 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 39 | [blue aiva the superstar](http://twitter.com/search?q=blue+aiva+the+superstar) | N/A |
 | 40 | [somizi](http://twitter.com/search?q=somizi) | N/A |
-| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 42 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
-| 43 | [exit](http://twitter.com/search?q=exit) | N/A |
-| 44 | [SANE](http://twitter.com/search?q=SANE) | N/A |
+| 41 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
+| 42 | [exit](http://twitter.com/search?q=exit) | N/A |
+| 43 | [SANE](http://twitter.com/search?q=SANE) | N/A |
+| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 45 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
 | 46 | [block 14](http://twitter.com/search?q=block+14) | N/A |
 | 47 | [canal walk](http://twitter.com/search?q=canal+walk) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-10 04:16:42 UTC`
+📆 Last Updated: `2023-03-10 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
 | 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 3 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 4 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 5 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
-| 6 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 7 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 8 | [#tambakbubk](http://twitter.com/search?q=%23tambakbubk) | N/A |
-| 9 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 10 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 11 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
+| 3 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
+| 4 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
+| 5 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 6 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 7 | [#tambakbubk](http://twitter.com/search?q=%23tambakbubk) | N/A |
+| 8 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 9 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
+| 10 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
+| 11 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
 | 12 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 13 | [pendiem](http://twitter.com/search?q=pendiem) | N/A |
 | 14 | [pak muh](http://twitter.com/search?q=pak+muh) | N/A |
-| 15 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 16 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 17 | [makoto shinkai](http://twitter.com/search?q=makoto+shinkai) | N/A |
+| 15 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 16 | [makoto shinkai](http://twitter.com/search?q=makoto+shinkai) | N/A |
+| 17 | [300 T](http://twitter.com/search?q=300+T) | N/A |
 | 18 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 19 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
+| 19 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 20 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
 | 21 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
 | 22 | [sporting](http://twitter.com/search?q=sporting) | N/A |
 | 23 | [over me](http://twitter.com/search?q=over+me) | N/A |
 | 24 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 25 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 | 26 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
 | 27 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
 | 28 | [fadil](http://twitter.com/search?q=fadil) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 44 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
 | 45 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
-| 46 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
+| 46 | [JAEMIN](http://twitter.com/search?q=JAEMIN) | N/A |
 | 47 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
-| 48 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
+| 48 | [PENGHIANAT](http://twitter.com/search?q=PENGHIANAT) | N/A |
 | 49 | [Your Name](http://twitter.com/search?q=Your+Name) | N/A |
 
 

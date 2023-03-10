@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-10 04:16:30 UTC`
+📆 Last Updated: `2023-03-10 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [#chávezfeminista](http://twitter.com/search?q=%23ch%c3%a1vezfeminista) | N/A |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 7 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 10 | [emely](http://twitter.com/search?q=emely) | N/A |
-| 11 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
-| 12 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 13 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 9 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 10 | [josé altuve](http://twitter.com/search?q=jos%c3%a9+altuve) | N/A |
+| 11 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 12 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 14 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
-| 15 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 16 | [julio montoya](http://twitter.com/search?q=julio+montoya) | N/A |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 16 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 17 | [julio montoya](http://twitter.com/search?q=julio+montoya) | N/A |
 | 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 19 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 20 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 21 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 21 | [bandera nacional](http://twitter.com/search?q=bandera+nacional) | N/A |
 | 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
 | 23 | [lila morillo](http://twitter.com/search?q=lila+morillo) | N/A |
 | 24 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
@@ -46,18 +46,18 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 29 | [orencio](http://twitter.com/search?q=orencio) | N/A |
 | 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 31 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 32 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 33 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 34 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 35 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 36 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
+| 32 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 33 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 34 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 35 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 36 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
 | 37 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
 | 38 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
 | 39 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
 | 40 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
 | 41 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
 | 42 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 43 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 43 | [batista](http://twitter.com/search?q=batista) | N/A |
 | 44 | [guayana](http://twitter.com/search?q=guayana) | N/A |
 | 45 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
 | 46 | [cova](http://twitter.com/search?q=cova) | N/A |

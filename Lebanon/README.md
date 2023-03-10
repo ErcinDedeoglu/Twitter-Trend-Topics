@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-10 04:17:14 UTC`
+📆 Last Updated: `2023-03-10 05:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#عيد_المعلم](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 2 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
-| 6 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 7 | [بيار صقر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d8%b1+%d8%b5%d9%82%d8%b1) | N/A |
-| 8 | [المراه اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 2 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 3 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 4 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
+| 7 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 8 | [بيار صقر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d8%b1+%d8%b5%d9%82%d8%b1) | N/A |
 | 9 | [محيط المطار](http://twitter.com/search?q=%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
 | 10 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 11 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-10 04:16:50 UTC`
+📆 Last Updated: `2023-03-10 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 9 | [black stars](http://twitter.com/search?q=black+stars) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 11 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
-| 12 | [Citi](http://twitter.com/search?q=Citi) | Citi is an abbreviation for the financial services company Citigroup. It is a multinational investment bank and financial services corporation headquartered in New York City. |
+| 12 | [citi](http://twitter.com/search?q=citi) | N/A |
 | 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 14 | [#sona2023](http://twitter.com/search?q=%23sona2023) | N/A |
 | 15 | [afcon](http://twitter.com/search?q=afcon) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 28 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
 | 29 | [thabang anthem](http://twitter.com/search?q=thabang+anthem) | N/A |
 | 30 | [Sammy Gyamfi](http://twitter.com/search?q=Sammy+Gyamfi) | N/A |
-| 31 | [danlad](http://twitter.com/search?q=danlad) | N/A |
+| 31 | [Danlad](http://twitter.com/search?q=Danlad) | N/A |
 | 32 | [kinbu](http://twitter.com/search?q=kinbu) | N/A |
 | 33 | [kuami eugene](http://twitter.com/search?q=kuami+eugene) | N/A |
 | 34 | [joseph amoako](http://twitter.com/search?q=joseph+amoako) | N/A |
