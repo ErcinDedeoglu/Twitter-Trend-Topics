@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-10 09:16:58 UTC`
+📆 Last Updated: `2023-03-10 10:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 3 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 6 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
-| 7 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
-| 8 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
-| 9 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 10 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 13 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 14 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 15 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
-| 16 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 17 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
-| 18 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
-| 19 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 20 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
-| 21 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 22 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 23 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 24 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 25 | [Ppop](http://twitter.com/search?q=Ppop) | N/A |
-| 26 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 27 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 28 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
-| 29 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 30 | [FOR SALE](http://twitter.com/search?q=FOR+SALE) | N/A |
-| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 32 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 33 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
-| 34 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
-| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 36 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 37 | [ISABELA](http://twitter.com/search?q=ISABELA) | N/A |
-| 38 | [Jessey](http://twitter.com/search?q=Jessey) | N/A |
+| 1 | [HAPPY KUMUNIVERSARY ANGGE](http://twitter.com/search?q=HAPPY+KUMUNIVERSARY+ANGGE) | N/A |
+| 2 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
+| 3 | [#마치_천국의_캐럿랜드](http://twitter.com/search?q=%23%eb%a7%88%ec%b9%98_%ec%b2%9c%ea%b5%ad%ec%9d%98_%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c) | N/A |
+| 4 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
+| 5 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 6 | [#호라이즌_여정의_시작](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c_%ec%97%ac%ec%a0%95%ec%9d%98_%ec%8b%9c%ec%9e%91) | N/A |
+| 7 | [TatakStarMagic WithDONNY](http://twitter.com/search?q=TatakStarMagic+WithDONNY) | N/A |
+| 8 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 9 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
+| 10 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 11 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
+| 12 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
+| 13 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 14 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 15 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 16 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
+| 17 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
+| 18 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
+| 19 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
+| 20 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
+| 21 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 22 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 23 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 24 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
+| 25 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 26 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 27 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
+| 28 | [Ppop](http://twitter.com/search?q=Ppop) | N/A |
+| 29 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 30 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 31 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
+| 32 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 33 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 34 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 35 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
+| 36 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
+| 37 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 38 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 39 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
-| 40 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 41 | [akari](http://twitter.com/search?q=akari) | N/A |
-| 42 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 43 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 44 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 45 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 46 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
-| 47 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
-| 48 | [Careless](http://twitter.com/search?q=Careless) | N/A |
-| 49 | [WE LOVE YOU KIARA](http://twitter.com/search?q=WE+LOVE+YOU+KIARA) | N/A |
+| 40 | [I LOVE YOUUUU](http://twitter.com/search?q=I+LOVE+YOUUUU) | N/A |
+| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 42 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
+| 43 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 44 | [WE LOVE YOU KIARA](http://twitter.com/search?q=WE+LOVE+YOU+KIARA) | N/A |
+| 45 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
+| 46 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 47 | [Maal](http://twitter.com/search?q=Maal) | N/A |
+| 48 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 49 | [Celine](http://twitter.com/search?q=Celine) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-10 09:17:19 UTC`
+📆 Last Updated: `2023-03-10 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
-| 2 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [Chone](http://twitter.com/search?q=Chone) | N/A |
-| 5 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [Chone](http://twitter.com/search?q=Chone) | N/A |
+| 4 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [#guayaquil](http://twitter.com/search?q=%23guayaquil) | N/A |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [YAKU](http://twitter.com/search?q=YAKU) | N/A |
 | 9 | [QUÉ TAN MAÑOSO ERES](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES) | N/A |
@@ -37,33 +37,33 @@ This is top 50 for Ecuador
 | 20 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
 | 21 | [9-Repe](http://twitter.com/search?q=9-Repe) | N/A |
 | 22 | [14-Encebollado](http://twitter.com/search?q=14-Encebollado) | N/A |
-| 23 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 24 | [1-Guatita](http://twitter.com/search?q=1-Guatita) | N/A |
-| 25 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
-| 26 | [10-Cangrejos](http://twitter.com/search?q=10-Cangrejos) | N/A |
-| 27 | [8-Tapao](http://twitter.com/search?q=8-Tapao) | N/A |
-| 28 | [lilax](http://twitter.com/search?q=lilax) | N/A |
-| 29 | [sorbetto](http://twitter.com/search?q=sorbetto) | N/A |
-| 30 | [samanes](http://twitter.com/search?q=samanes) | N/A |
-| 31 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
-| 32 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
-| 33 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
-| 34 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 35 | [Teodoro Maldonado Carbo](http://twitter.com/search?q=Teodoro+Maldonado+Carbo) | N/A |
-| 36 | [Arosemena](http://twitter.com/search?q=Arosemena) | N/A |
-| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 38 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 39 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
-| 40 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 41 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 23 | [1-Guatita](http://twitter.com/search?q=1-Guatita) | N/A |
+| 24 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
+| 25 | [10-Cangrejos](http://twitter.com/search?q=10-Cangrejos) | N/A |
+| 26 | [8-Tapao](http://twitter.com/search?q=8-Tapao) | N/A |
+| 27 | [lilax](http://twitter.com/search?q=lilax) | N/A |
+| 28 | [sorbetto](http://twitter.com/search?q=sorbetto) | N/A |
+| 29 | [samanes](http://twitter.com/search?q=samanes) | N/A |
+| 30 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
+| 31 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
+| 32 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
+| 33 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
+| 34 | [teodoro maldonado carbo](http://twitter.com/search?q=teodoro+maldonado+carbo) | N/A |
+| 35 | [Arosemena](http://twitter.com/search?q=Arosemena) | N/A |
+| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 38 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
+| 39 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 40 | [Capwell](http://twitter.com/search?q=Capwell) | N/A |
+| 41 | [GARECA](http://twitter.com/search?q=GARECA) | N/A |
 | 42 | [Montevideo](http://twitter.com/search?q=Montevideo) | N/A |
 | 43 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 44 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
 | 45 | [vitinha](http://twitter.com/search?q=vitinha) | N/A |
 | 46 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
 | 47 | [Maracaná](http://twitter.com/search?q=Maracan%c3%a1) | N/A |
 | 48 | [egas](http://twitter.com/search?q=egas) | N/A |
-| 49 | [HOSPITAL](http://twitter.com/search?q=HOSPITAL) | N/A |
+| 49 | [Hospital](http://twitter.com/search?q=Hospital) | N/A |
 | 50 | [INAMHI](http://twitter.com/search?q=INAMHI) | N/A |
 
 

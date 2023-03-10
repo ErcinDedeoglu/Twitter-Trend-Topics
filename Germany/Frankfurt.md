@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-10 09:16:45 UTC`
+📆 Last Updated: `2023-03-10 10:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,28 +15,28 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 2 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
-| 3 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 1 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
+| 2 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
+| 3 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 4 | [#FCBpsg](http://twitter.com/search?q=%23FCBpsg) | N/A |
 | 5 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
-| 6 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
-| 7 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
-| 8 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 10 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 11 | [Monika](http://twitter.com/search?q=Monika) | N/A |
-| 12 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 13 | [reisepässe](http://twitter.com/search?q=reisep%c3%a4sse) | N/A |
-| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 15 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 16 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 17 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
-| 18 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 19 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 6 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
+| 7 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 8 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
+| 9 | [Monika](http://twitter.com/search?q=Monika) | N/A |
+| 10 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 11 | [reisepässe](http://twitter.com/search?q=reisep%c3%a4sse) | N/A |
+| 12 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 13 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 14 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
+| 16 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 17 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 18 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
+| 19 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
 | 20 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 21 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
-| 22 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 21 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 22 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
 | 23 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 24 | [flinta](http://twitter.com/search?q=flinta) | N/A |
 | 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
@@ -46,25 +46,25 @@ This is top 50 for [Germany](</Germany>)
 | 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
 | 30 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
 | 31 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 32 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
-| 33 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 34 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 35 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 36 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 37 | [Rathaus](http://twitter.com/search?q=Rathaus) | N/A |
-| 38 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 39 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 40 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 32 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 33 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
+| 34 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 35 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
+| 36 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 37 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 38 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 39 | [Ruhig](http://twitter.com/search?q=Ruhig) | N/A |
+| 40 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
 | 41 | [zehner](http://twitter.com/search?q=zehner) | N/A |
 | 42 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 43 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 45 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 46 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 47 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 48 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 49 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 50 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 43 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
+| 44 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 45 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 46 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 47 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 48 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 49 | [helena](http://twitter.com/search?q=helena) | N/A |
+| 50 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
 
 
 

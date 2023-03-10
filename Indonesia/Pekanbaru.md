@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-10 09:16:50 UTC`
+📆 Last Updated: `2023-03-10 10:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
-| 2 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
-| 3 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
-| 4 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
-| 5 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 6 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 7 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 8 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
-| 9 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 10 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 11 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 13 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 14 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 15 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 16 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 17 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 18 | [SPORTING](http://twitter.com/search?q=SPORTING) | N/A |
-| 19 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
-| 20 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 21 | [komnas ham](http://twitter.com/search?q=komnas+ham) | N/A |
-| 22 | [fadil](http://twitter.com/search?q=fadil) | N/A |
-| 23 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 24 | [urap](http://twitter.com/search?q=urap) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 27 | [happy birthday my love](http://twitter.com/search?q=happy+birthday+my+love) | N/A |
-| 28 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 29 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 30 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 31 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 32 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
-| 33 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
-| 34 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 35 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
-| 36 | [en garde](http://twitter.com/search?q=en+garde) | N/A |
-| 37 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 38 | [Tata Ruang](http://twitter.com/search?q=Tata+Ruang) | N/A |
-| 39 | [EXO CBX](http://twitter.com/search?q=EXO+CBX) | N/A |
-| 40 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
-| 41 | [Your Name](http://twitter.com/search?q=Your+Name) | N/A |
-| 42 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
-| 43 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
-| 44 | [GEMASH](http://twitter.com/search?q=GEMASH) | N/A |
+| 1 | [Baju Hammersonic](http://twitter.com/search?q=Baju+Hammersonic) | N/A |
+| 2 | [Mitologi Indonesia](http://twitter.com/search?q=Mitologi+Indonesia) | N/A |
+| 3 | [Kaos Metal Keren](http://twitter.com/search?q=Kaos+Metal+Keren) | N/A |
+| 4 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
+| 5 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
+| 6 | [HAECHAN MAGAZINE PREORDER NOW](http://twitter.com/search?q=HAECHAN+MAGAZINE+PREORDER+NOW) | N/A |
+| 7 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
+| 8 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
+| 9 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
+| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 12 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
+| 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 14 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 15 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 16 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
+| 17 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 18 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 19 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 20 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 21 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 22 | [SPORTING](http://twitter.com/search?q=SPORTING) | N/A |
+| 23 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 24 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 25 | [fadil](http://twitter.com/search?q=fadil) | N/A |
+| 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 27 | [Ridwan Kamil](http://twitter.com/search?q=Ridwan+Kamil) | N/A |
+| 28 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 29 | [urap](http://twitter.com/search?q=urap) | N/A |
+| 30 | [Pengalihan](http://twitter.com/search?q=Pengalihan) | N/A |
+| 31 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
+| 32 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 33 | [happy birthday my love](http://twitter.com/search?q=happy+birthday+my+love) | N/A |
+| 34 | [Salim](http://twitter.com/search?q=Salim) | N/A |
+| 35 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
+| 36 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 37 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
+| 38 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
+| 39 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
+| 40 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 41 | [en garde](http://twitter.com/search?q=en+garde) | N/A |
+| 42 | [INA GO](http://twitter.com/search?q=INA+GO) | N/A |
+| 43 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 44 | [EXO CBX](http://twitter.com/search?q=EXO+CBX) | N/A |
 
 
 

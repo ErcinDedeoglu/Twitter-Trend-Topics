@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-10 09:16:30 UTC`
+📆 Last Updated: `2023-03-10 10:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [#transwomenarewomen](http://twitter.com/search?q=%23transwomenarewomen) | N/A |
 | 6 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
 | 7 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
 | 8 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 9 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 10 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 11 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 12 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 13 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 14 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 15 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 16 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 17 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 18 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 21 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 22 | [oyap](http://twitter.com/search?q=oyap) | N/A |
-| 23 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 24 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 25 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 26 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 27 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 28 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 29 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 30 | [bank of canada](http://twitter.com/search?q=bank+of+canada) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 33 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 34 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 35 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 36 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 9 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
+| 10 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 11 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 12 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 13 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 14 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 15 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 16 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 17 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 18 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 19 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 20 | [oyap](http://twitter.com/search?q=oyap) | N/A |
+| 21 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 22 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 23 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 24 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 25 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 26 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 27 | [bank of canada](http://twitter.com/search?q=bank+of+canada) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 31 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 32 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 33 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 34 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 35 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 36 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
 | 37 | [Costco](http://twitter.com/search?q=Costco) | N/A |
 | 38 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
 | 39 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
 | 40 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 41 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 42 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 43 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
+| 41 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 42 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 43 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 45 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 46 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
 | 47 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
 | 48 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 49 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
 
 
 
