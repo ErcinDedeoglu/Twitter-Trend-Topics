@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-10 21:16:52 UTC`
+📆 Last Updated: `2023-03-10 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
-| 2 | [Career Day](http://twitter.com/search?q=Career+Day) | N/A |
-| 3 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 4 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 5 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
-| 6 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 9 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 10 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 13 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 14 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 17 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 19 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 20 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 21 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 22 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 23 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
+| 1 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
+| 2 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 3 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 8 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 9 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 10 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 11 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 14 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 15 | [#GoBucks](http://twitter.com/search?q=%23GoBucks) | N/A |
+| 16 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 17 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
+| 18 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 19 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 20 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 21 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 22 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 23 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
 | 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 25 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 26 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 27 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
-| 28 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 30 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 31 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 32 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
-| 33 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
+| 27 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
+| 28 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 29 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 30 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 31 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 32 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 33 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
 | 34 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 35 | [Ronald Darby](http://twitter.com/search?q=Ronald+Darby) | N/A |
-| 36 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 37 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
-| 38 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 39 | [Chase Edmonds](http://twitter.com/search?q=Chase+Edmonds) | N/A |
-| 40 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 41 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 42 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 43 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 44 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 45 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
-| 46 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 47 | [Tua's 5th](http://twitter.com/search?q=Tua%27s+5th) | N/A |
-| 48 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 49 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 35 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 36 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
+| 37 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 39 | [Bruce Thornton](http://twitter.com/search?q=Bruce+Thornton) | N/A |
+| 40 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
+| 41 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 42 | [DMac](http://twitter.com/search?q=DMac) | N/A |
+| 43 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 44 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 45 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
+| 46 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 47 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
+| 48 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
+| 49 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
 
 
 

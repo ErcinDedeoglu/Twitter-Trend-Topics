@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-10 21:16:32 UTC`
+📆 Last Updated: `2023-03-10 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 1 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
 | 2 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
-| 3 | [#nrleelssharks](http://twitter.com/search?q=%23nrleelssharks) | N/A |
-| 4 | [#PERvWSW](http://twitter.com/search?q=%23PERvWSW) | N/A |
-| 5 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 6 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 7 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 8 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
-| 9 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 10 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 3 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 4 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 5 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 7 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
 | 11 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 12 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 13 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 14 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
+| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 13 | [Port Adelaide](http://twitter.com/search?q=Port+Adelaide) | N/A |
+| 14 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 15 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 16 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 17 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 16 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 17 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 18 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
 | 19 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 20 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 21 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 22 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 24 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 25 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 26 | [Oates](http://twitter.com/search?q=Oates) | N/A |
-| 27 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 28 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 31 | [tahs](http://twitter.com/search?q=tahs) | N/A |
-| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 33 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
-| 34 | [Wazza](http://twitter.com/search?q=Wazza) | N/A |
-| 35 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 36 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 37 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 38 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 39 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 40 | [ezra mam](http://twitter.com/search?q=ezra+mam) | N/A |
-| 41 | [Shaun Marsh](http://twitter.com/search?q=Shaun+Marsh) | N/A |
-| 42 | [Andrew Wilkie](http://twitter.com/search?q=Andrew+Wilkie) | N/A |
-| 43 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 44 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 45 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 47 | [Stranger](http://twitter.com/search?q=Stranger) | N/A |
-| 48 | [TASS](http://twitter.com/search?q=TASS) | N/A |
-| 49 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 50 | [will kennedy](http://twitter.com/search?q=will+kennedy) | N/A |
+| 20 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 21 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
+| 22 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 23 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 24 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 25 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 26 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 27 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 28 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
+| 29 | [Oates](http://twitter.com/search?q=Oates) | N/A |
+| 30 | [Robodebt](http://twitter.com/search?q=Robodebt) | N/A |
+| 31 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 32 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 33 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 34 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 35 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
+| 36 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 37 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
+| 38 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 39 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
+| 40 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 41 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 42 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 45 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 46 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 47 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 48 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
+| 49 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 50 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 
 
 

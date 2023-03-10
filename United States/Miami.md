@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-10 21:16:54 UTC`
+📆 Last Updated: `2023-03-10 22:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 2 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 3 | [#Classic23](http://twitter.com/search?q=%23Classic23) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 9 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 10 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 11 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 12 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 15 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 16 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 17 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 18 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 19 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 20 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 21 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
+| 1 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 2 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 3 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 8 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 9 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 10 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 11 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 14 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 15 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 16 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
+| 17 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 18 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 19 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 20 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 21 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
 | 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 23 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 24 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 25 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
-| 26 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 27 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 28 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 29 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 30 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
-| 31 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
+| 23 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 25 | [Pitino](http://twitter.com/search?q=Pitino) | N/A |
+| 26 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
+| 27 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 28 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 29 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 30 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 31 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
 | 32 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 33 | [Ronald Darby](http://twitter.com/search?q=Ronald+Darby) | N/A |
-| 34 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
-| 35 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 36 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 37 | [Chase Edmonds](http://twitter.com/search?q=Chase+Edmonds) | N/A |
-| 38 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 39 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 40 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 41 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 42 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 43 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 44 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
-| 45 | [Tua's 5th](http://twitter.com/search?q=Tua%27s+5th) | N/A |
-| 46 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 47 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
-| 48 | [Kwesi](http://twitter.com/search?q=Kwesi) | N/A |
-| 49 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 33 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 34 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 35 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 36 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
+| 37 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 38 | [Bruce Thornton](http://twitter.com/search?q=Bruce+Thornton) | N/A |
+| 39 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
+| 40 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 41 | [DMac](http://twitter.com/search?q=DMac) | N/A |
+| 42 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 43 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 44 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
+| 45 | [Foggy and Karen](http://twitter.com/search?q=Foggy+and+Karen) | N/A |
+| 46 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 47 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
+| 48 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
+| 49 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
 
 
 

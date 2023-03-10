@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-10 21:16:59 UTC`
+📆 Last Updated: `2023-03-10 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 2 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 5 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 6 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 7 | [L - Você](http://twitter.com/search?q=L+-+Voc%c3%aa) | N/A |
-| 8 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
-| 9 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 10 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 11 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 12 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 13 | [#ADona065](http://twitter.com/search?q=%23ADona065) | N/A |
-| 14 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 15 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
-| 16 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 17 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 18 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
-| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 20 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 21 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 22 | [Dona Elza](http://twitter.com/search?q=Dona+Elza) | N/A |
-| 23 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 24 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
-| 25 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
-| 26 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
-| 27 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
-| 28 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 29 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
-| 30 | [Cláudio Castro](http://twitter.com/search?q=Cl%c3%a1udio+Castro) | N/A |
-| 31 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
-| 32 | [Froid](http://twitter.com/search?q=Froid) | N/A |
-| 33 | [Clodovil](http://twitter.com/search?q=Clodovil) | N/A |
-| 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 35 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 36 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
-| 37 | [Nardes](http://twitter.com/search?q=Nardes) | N/A |
-| 38 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 39 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 40 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 41 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
-| 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 43 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 44 | [André Mendonça](http://twitter.com/search?q=Andr%c3%a9+Mendon%c3%a7a) | N/A |
-| 45 | [Rascunho](http://twitter.com/search?q=Rascunho) | N/A |
-| 46 | [Valdemar](http://twitter.com/search?q=Valdemar) | N/A |
-| 47 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 48 | [NAO MANDA AUDIO](http://twitter.com/search?q=NAO+MANDA+AUDIO) | N/A |
-| 49 | [Young Flu](http://twitter.com/search?q=Young+Flu) | N/A |
-| 50 | [Gustavo Tubarão](http://twitter.com/search?q=Gustavo+Tubar%c3%a3o) | N/A |
+| 1 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 2 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
+| 3 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 4 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 5 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 6 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 7 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 8 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
+| 9 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
+| 10 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 11 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
+| 12 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 13 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 14 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 15 | [Inter de Milão](http://twitter.com/search?q=Inter+de+Mil%c3%a3o) | N/A |
+| 16 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
+| 17 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 18 | [#ADona065](http://twitter.com/search?q=%23ADona065) | N/A |
+| 19 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 20 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 21 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 22 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 23 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
+| 24 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
+| 25 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
+| 26 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 27 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
+| 28 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
+| 29 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
+| 30 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 31 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
+| 32 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
+| 33 | [Dona Elza](http://twitter.com/search?q=Dona+Elza) | N/A |
+| 34 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 35 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 36 | [Y - Melhor](http://twitter.com/search?q=Y+-+Melhor) | N/A |
+| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 38 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 39 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
+| 40 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
+| 41 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
+| 42 | [Froid](http://twitter.com/search?q=Froid) | N/A |
+| 43 | [Cláudio Castro](http://twitter.com/search?q=Cl%c3%a1udio+Castro) | N/A |
+| 44 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
+| 45 | [Clodovil](http://twitter.com/search?q=Clodovil) | N/A |
+| 46 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 47 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 48 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 49 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 50 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 
 
 

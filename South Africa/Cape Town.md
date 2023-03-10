@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-10 21:16:41 UTC`
+📆 Last Updated: `2023-03-10 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 2 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 5 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 6 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 7 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 8 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 9 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 1 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
+| 2 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 3 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
+| 4 | [#PowerBall](http://twitter.com/search?q=%23PowerBall) | N/A |
+| 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 6 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 7 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
+| 8 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 9 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
 | 10 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 12 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
-| 13 | [Sekhukhune United](http://twitter.com/search?q=Sekhukhune+United) | N/A |
-| 14 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 15 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 16 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 17 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 18 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 21 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 22 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
-| 23 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
-| 24 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 25 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
-| 26 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
-| 27 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
-| 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 29 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 30 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
-| 31 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
-| 32 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
-| 33 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 34 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
-| 35 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 36 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 37 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
-| 38 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 39 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
-| 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 41 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 42 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 43 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 45 | [Councillor](http://twitter.com/search?q=Councillor) | N/A |
-| 46 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
-| 47 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 49 | [Sunnyside](http://twitter.com/search?q=Sunnyside) | N/A |
+| 11 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 12 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
+| 13 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
+| 14 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 15 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 16 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 17 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
+| 18 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 19 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 20 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 21 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 22 | [Sekhukhune United](http://twitter.com/search?q=Sekhukhune+United) | N/A |
+| 23 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
+| 24 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 25 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
+| 28 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
+| 29 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 33 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 34 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 35 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
+| 36 | [Blacks](http://twitter.com/search?q=Blacks) | N/A |
+| 37 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
+| 38 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
+| 39 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 40 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 41 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 42 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
+| 43 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 44 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 45 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 46 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 47 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 48 | [City Manager](http://twitter.com/search?q=City+Manager) | N/A |
+| 49 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
+| 50 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
 
 
 

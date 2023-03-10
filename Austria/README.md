@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 21:16:58 UTC`
+📆 Last Updated: `2023-03-10 22:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 2 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 3 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 4 | [#Österreich2030](http://twitter.com/search?q=%23%c3%96sterreich2030) | N/A |
-| 5 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
-| 6 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 7 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
-| 8 | [Vision](http://twitter.com/search?q=Vision) | N/A |
-| 9 | [Klarstellung](http://twitter.com/search?q=Klarstellung) | N/A |
-| 10 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 11 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 12 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 13 | [Psychopharmaka](http://twitter.com/search?q=Psychopharmaka) | N/A |
-| 14 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
-| 15 | [Zukunft der Nation](http://twitter.com/search?q=Zukunft+der+Nation) | N/A |
-| 16 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 17 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 18 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
-| 19 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 20 | [Unmögliche](http://twitter.com/search?q=Unm%c3%b6gliche) | N/A |
-| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 22 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 23 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 24 | [Motorrad](http://twitter.com/search?q=Motorrad) | N/A |
-| 25 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
-| 26 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
-| 27 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 28 | [Maschinen](http://twitter.com/search?q=Maschinen) | N/A |
-| 29 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
-| 30 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 31 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 32 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 33 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
-| 34 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 35 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 36 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
-| 37 | [Falter](http://twitter.com/search?q=Falter) | N/A |
-| 38 | [Wille](http://twitter.com/search?q=Wille) | N/A |
-| 39 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 40 | [Verträge](http://twitter.com/search?q=Vertr%c3%a4ge) | N/A |
-| 41 | [Vorgaben](http://twitter.com/search?q=Vorgaben) | N/A |
-| 42 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 43 | [Board of Governors](http://twitter.com/search?q=Board+of+Governors) | N/A |
-| 44 | [Farben](http://twitter.com/search?q=Farben) | N/A |
-| 45 | [Johanna Mikl](http://twitter.com/search?q=Johanna+Mikl) | N/A |
-| 46 | [Anschluss](http://twitter.com/search?q=Anschluss) | N/A |
-| 47 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 48 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 49 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 50 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 3 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
+| 4 | [#österreich2030](http://twitter.com/search?q=%23%c3%b6sterreich2030) | N/A |
+| 5 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 6 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 7 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 8 | [Psychopharmaka](http://twitter.com/search?q=Psychopharmaka) | N/A |
+| 9 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 10 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 11 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 12 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 13 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
+| 14 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 17 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 18 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 19 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 20 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
+| 21 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 22 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 23 | [brunner](http://twitter.com/search?q=brunner) | N/A |
+| 24 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 25 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
+| 26 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
+| 27 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 28 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 29 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 30 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 31 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 32 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 33 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 34 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
+| 35 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
+| 36 | [Händen](http://twitter.com/search?q=H%c3%a4nden) | N/A |
+| 37 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 38 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 39 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
+| 40 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 41 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 42 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 43 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 45 | [Kino](http://twitter.com/search?q=Kino) | N/A |
+| 46 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 47 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
+| 48 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 49 | [GM Legend](http://twitter.com/search?q=GM+Legend) | N/A |
+| 50 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 
 
 

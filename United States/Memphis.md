@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-10 21:16:53 UTC`
+📆 Last Updated: `2023-03-10 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 2 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 3 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 4 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 5 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 8 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 11 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 12 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 13 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 14 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [#FluffyTapatio](http://twitter.com/search?q=%23FluffyTapatio) | N/A |
-| 18 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 20 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 21 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 22 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 23 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 24 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 25 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
-| 26 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 28 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
-| 29 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 30 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 31 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 32 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 33 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 34 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
-| 35 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
-| 36 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 37 | [Ronald Darby](http://twitter.com/search?q=Ronald+Darby) | N/A |
-| 38 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 39 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
-| 40 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 41 | [Chase Edmonds](http://twitter.com/search?q=Chase+Edmonds) | N/A |
-| 42 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 43 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 44 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 45 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 46 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 1 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 2 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 3 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 8 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 9 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 10 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 11 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 14 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 15 | [#GoBucks](http://twitter.com/search?q=%23GoBucks) | N/A |
+| 16 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 17 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
+| 18 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 20 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 21 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 22 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 23 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 25 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 26 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 27 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
+| 28 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 29 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 30 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 31 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 32 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
+| 33 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 34 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 35 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 36 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 37 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
+| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 39 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 40 | [Bruce Thornton](http://twitter.com/search?q=Bruce+Thornton) | N/A |
+| 41 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
+| 42 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 43 | [DMac](http://twitter.com/search?q=DMac) | N/A |
+| 44 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 45 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 46 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
+| 47 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 48 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
 
 
 

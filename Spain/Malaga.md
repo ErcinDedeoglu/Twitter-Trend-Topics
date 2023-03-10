@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-10 21:16:29 UTC`
+📆 Last Updated: `2023-03-10 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 2 | [#FirstDates10M](http://twitter.com/search?q=%23FirstDates10M) | N/A |
-| 3 | [#Pasapalabra722](http://twitter.com/search?q=%23Pasapalabra722) | N/A |
-| 4 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 6 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 9 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 10 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 11 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 12 | [Darius Thompson](http://twitter.com/search?q=Darius+Thompson) | N/A |
-| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 14 | [Carlos Tartiere](http://twitter.com/search?q=Carlos+Tartiere) | N/A |
-| 15 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 16 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 17 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 19 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
-| 20 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 21 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 22 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 23 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 24 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 25 | [Fornite](http://twitter.com/search?q=Fornite) | N/A |
-| 26 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
-| 27 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 28 | [La Razón](http://twitter.com/search?q=La+Raz%c3%b3n) | N/A |
-| 29 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
-| 30 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 31 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 32 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 33 | [#RealOviedoTenerife](http://twitter.com/search?q=%23RealOviedoTenerife) | N/A |
-| 34 | [#CádizGetafe](http://twitter.com/search?q=%23C%c3%a1dizGetafe) | N/A |
-| 35 | [#TierraAmarga10Mar](http://twitter.com/search?q=%23TierraAmarga10Mar) | N/A |
-| 36 | [#PartidazoMovistarChampions](http://twitter.com/search?q=%23PartidazoMovistarChampions) | N/A |
-| 37 | [#PecadoOriginal10Mar](http://twitter.com/search?q=%23PecadoOriginal10Mar) | N/A |
-| 38 | [#EbruŞahin](http://twitter.com/search?q=%23Ebru%c5%9eahin) | N/A |
-| 39 | [#26FestivalMálaga](http://twitter.com/search?q=%2326FestivalM%c3%a1laga) | N/A |
-| 40 | [#Solos10M](http://twitter.com/search?q=%23Solos10M) | N/A |
-| 41 | [#APOYOROCIO10M](http://twitter.com/search?q=%23APOYOROCIO10M) | N/A |
-| 42 | [#YoMeRebelo10M](http://twitter.com/search?q=%23YoMeRebelo10M) | N/A |
-| 43 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 44 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 45 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 46 | [#CyACartuja](http://twitter.com/search?q=%23CyACartuja) | N/A |
-| 47 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 1 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 2 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
+| 3 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
+| 4 | [#FirstDates10M](http://twitter.com/search?q=%23FirstDates10M) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 7 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 8 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 9 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 10 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 11 | [Unal](http://twitter.com/search?q=Unal) | N/A |
+| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 13 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
+| 14 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 15 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 16 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 17 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 18 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 19 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 20 | [Darius Thompson](http://twitter.com/search?q=Darius+Thompson) | N/A |
+| 21 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 22 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 23 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 24 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 25 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
+| 26 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 27 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 28 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 29 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 30 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 31 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 32 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 33 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 34 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 35 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 36 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Barçagate](http://twitter.com/search?q=Bar%c3%a7agate) | N/A |
+| 39 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 40 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 41 | [Domingo 12](http://twitter.com/search?q=Domingo+12) | N/A |
+| 42 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 43 | [#RealOviedoTenerife](http://twitter.com/search?q=%23RealOviedoTenerife) | N/A |
+| 44 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 45 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 46 | [#ChupChupEspecialF4](http://twitter.com/search?q=%23ChupChupEspecialF4) | N/A |
+| 47 | [#APOYOROCIO10M](http://twitter.com/search?q=%23APOYOROCIO10M) | N/A |
 
 
 

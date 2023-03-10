@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-10 21:16:59 UTC`
+📆 Last Updated: `2023-03-10 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#votastequesi](http://twitter.com/search?q=%23votastequesi) | N/A |
-| 2 | [Francisco del Rosario Sánchez](http://twitter.com/search?q=Francisco+del+Rosario+S%c3%a1nchez) | N/A |
-| 3 | [Jesús Rojas Alou](http://twitter.com/search?q=Jes%c3%bas+Rojas+Alou) | N/A |
-| 4 | [Luz del Alba Jiménez](http://twitter.com/search?q=Luz+del+Alba+Jim%c3%a9nez) | N/A |
-| 5 | [Padre de la Patria](http://twitter.com/search?q=Padre+de+la+Patria) | N/A |
-| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 10 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
-| 11 | [patria y libertad](http://twitter.com/search?q=patria+y+libertad) | N/A |
-| 12 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 13 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 15 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 16 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 17 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 18 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 19 | [Silvia Peñaló](http://twitter.com/search?q=Silvia+Pe%c3%b1al%c3%b3) | N/A |
-| 20 | [eduardo estrella](http://twitter.com/search?q=eduardo+estrella) | N/A |
-| 21 | [Roberto Rosario](http://twitter.com/search?q=Roberto+Rosario) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Mella](http://twitter.com/search?q=Mella) | N/A |
-| 24 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
-| 25 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 26 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 27 | [doña milagros](http://twitter.com/search?q=do%c3%b1a+milagros) | N/A |
-| 28 | [Héctor Marte](http://twitter.com/search?q=H%c3%a9ctor+Marte) | N/A |
-| 29 | [Robinson Canó](http://twitter.com/search?q=Robinson+Can%c3%b3) | N/A |
-| 30 | [bandera dominicana](http://twitter.com/search?q=bandera+dominicana) | N/A |
-| 31 | [US$525](http://twitter.com/search?q=US%24525) | N/A |
-| 32 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 33 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 34 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 35 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 37 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 38 | [jueves 9](http://twitter.com/search?q=jueves+9) | N/A |
-| 39 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 40 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 41 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 43 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
-| 44 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 45 | [Sabana de la Mar](http://twitter.com/search?q=Sabana+de+la+Mar) | N/A |
-| 46 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 47 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 48 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
-| 49 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
-| 50 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 1 | [Francisco del Rosario Sánchez](http://twitter.com/search?q=Francisco+del+Rosario+S%c3%a1nchez) | N/A |
+| 2 | [Jesús Rojas Alou](http://twitter.com/search?q=Jes%c3%bas+Rojas+Alou) | N/A |
+| 3 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 7 | [Luz del Alba Jiménez](http://twitter.com/search?q=Luz+del+Alba+Jim%c3%a9nez) | N/A |
+| 8 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
+| 9 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 10 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 11 | [Bandera Dominicana](http://twitter.com/search?q=Bandera+Dominicana) | N/A |
+| 12 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
+| 13 | [#aumentosalarial](http://twitter.com/search?q=%23aumentosalarial) | N/A |
+| 14 | [La Vega](http://twitter.com/search?q=La+Vega) | La Vega is a city in the Dominican Republic. It is the capital of the La Vega Province and is located in the Cibao region of the country. The name La Vega translates to "the meadow" in English. |
+| 15 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 16 | [Padres de la Patria](http://twitter.com/search?q=Padres+de+la+Patria) | N/A |
+| 17 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
+| 18 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 19 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 20 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 21 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 22 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 23 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 24 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 25 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
+| 26 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 27 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 28 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 31 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 32 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
+| 33 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 34 | [Okey](http://twitter.com/search?q=Okey) | N/A |
+| 35 | [Moca](http://twitter.com/search?q=Moca) | N/A |
+| 36 | [JUAN PABLO DUARTE](http://twitter.com/search?q=JUAN+PABLO+DUARTE) | N/A |
+| 37 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 38 | [los mina](http://twitter.com/search?q=los+mina) | N/A |
+| 39 | [PUCMM](http://twitter.com/search?q=PUCMM) | N/A |
+| 40 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
+| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 44 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 45 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 46 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 48 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
+| 49 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 50 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
 
 
 

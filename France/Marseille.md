@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-10 21:16:25 UTC`
+📆 Last Updated: `2023-03-10 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LOSCOL](http://twitter.com/search?q=%23LOSCOL) | N/A |
-| 2 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 3 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 4 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 5 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 6 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 7 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 8 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 9 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 10 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 14 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 15 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
-| 16 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
-| 17 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 18 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 19 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 20 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
-| 21 | [Delphine](http://twitter.com/search?q=Delphine) | N/A |
-| 22 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 23 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 24 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 25 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
-| 26 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 27 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 28 | [Pékin](http://twitter.com/search?q=P%c3%a9kin) | N/A |
-| 29 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 30 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 31 | [Vatican](http://twitter.com/search?q=Vatican) | N/A |
-| 32 | [Creuse](http://twitter.com/search?q=Creuse) | N/A |
-| 33 | [Jacques](http://twitter.com/search?q=Jacques) | N/A |
-| 34 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 35 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
-| 36 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 37 | [#UFEO](http://twitter.com/search?q=%23UFEO) | N/A |
-| 38 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
-| 39 | [#SOCASNL](http://twitter.com/search?q=%23SOCASNL) | N/A |
-| 40 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 41 | [#GOTDS](http://twitter.com/search?q=%23GOTDS) | N/A |
+| 1 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 2 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 3 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 4 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 5 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 6 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 7 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 8 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 9 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 10 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 11 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 12 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 13 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 14 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 15 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 16 | [Riou](http://twitter.com/search?q=Riou) | N/A |
+| 17 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 18 | [Lille Lyon](http://twitter.com/search?q=Lille+Lyon) | N/A |
+| 19 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 20 | [Lolo White](http://twitter.com/search?q=Lolo+White) | N/A |
+| 21 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
+| 22 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
+| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 24 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 25 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 26 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
+| 27 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 28 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 29 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
+| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 32 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
+| 33 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 34 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 35 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 36 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
+| 37 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 38 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
+| 39 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
+| 40 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
 
 
 
