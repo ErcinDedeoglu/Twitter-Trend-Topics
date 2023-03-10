@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 19:16:41 UTC`
+📆 Last Updated: `2023-03-10 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 2 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
-| 3 | [#österreich2030](http://twitter.com/search?q=%23%c3%b6sterreich2030) | N/A |
-| 4 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
-| 5 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 6 | [#oevp](http://twitter.com/search?q=%23oevp) | N/A |
-| 7 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 8 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 9 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 10 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 11 | [landeshauptfrau](http://twitter.com/search?q=landeshauptfrau) | N/A |
-| 12 | [Boah](http://twitter.com/search?q=Boah) | N/A |
-| 13 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
-| 14 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
-| 15 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 16 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 17 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 18 | [Gegenwart](http://twitter.com/search?q=Gegenwart) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [brunner](http://twitter.com/search?q=brunner) | N/A |
+| 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 3 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
+| 4 | [#österreich2030](http://twitter.com/search?q=%23%c3%b6sterreich2030) | N/A |
+| 5 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 6 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 7 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 8 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 9 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 10 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 11 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 12 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 13 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
+| 14 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 15 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
+| 16 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 19 | [brunner](http://twitter.com/search?q=brunner) | N/A |
+| 20 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
 | 21 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
-| 22 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 23 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
-| 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 25 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
-| 26 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 27 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 28 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 29 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 30 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 31 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
-| 32 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
-| 33 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 34 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
-| 35 | [Freien](http://twitter.com/search?q=Freien) | N/A |
-| 36 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 37 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 38 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 39 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 40 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 41 | [Standort](http://twitter.com/search?q=Standort) | N/A |
-| 42 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 43 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 44 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 45 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 46 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 47 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
-| 48 | [GM Legend](http://twitter.com/search?q=GM+Legend) | N/A |
-| 49 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 50 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
+| 22 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 23 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 24 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 25 | [Boah](http://twitter.com/search?q=Boah) | N/A |
+| 26 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 27 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 28 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 29 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 30 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
+| 31 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 33 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 34 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 35 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 36 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 37 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 38 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
+| 39 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 40 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 41 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 42 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 43 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
+| 44 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
+| 45 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 46 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 47 | [GM Legend](http://twitter.com/search?q=GM+Legend) | N/A |
+| 48 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 49 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 50 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
 
 
 

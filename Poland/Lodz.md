@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-10 19:16:07 UTC`
+📆 Last Updated: `2023-03-10 20:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
-| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
-| 5 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 6 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 7 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
-| 8 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 9 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 2 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
+| 3 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
+| 4 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
+| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 7 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 8 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 9 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
 | 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 11 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 12 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 13 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 14 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 15 | [dnia kobiet](http://twitter.com/search?q=dnia+kobiet) | N/A |
-| 16 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
+| 11 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 12 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 13 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 14 | [Dnia Kobiet](http://twitter.com/search?q=Dnia+Kobiet) | N/A |
+| 15 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 17 | [grot](http://twitter.com/search?q=grot) | N/A |
-| 18 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 19 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 20 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
-| 21 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 22 | [Proszę](http://twitter.com/search?q=Prosz%c4%99) | N/A |
-| 23 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 18 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 19 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 20 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 21 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
+| 22 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
+| 23 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
 | 24 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 25 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
-| 26 | [dnia mężczyzn](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzn) | N/A |
-| 27 | [Gdańsku](http://twitter.com/search?q=Gda%c5%84sku) | N/A |
-| 28 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 29 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 30 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
-| 31 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 32 | [Tajlandii](http://twitter.com/search?q=Tajlandii) | N/A |
-| 33 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 34 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 35 | [Program](http://twitter.com/search?q=Program) | N/A |
-| 36 | [wielki żal](http://twitter.com/search?q=wielki+%c5%bcal) | N/A |
-| 37 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
-| 38 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
-| 39 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
-| 40 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
-| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [Iranu](http://twitter.com/search?q=Iranu) | N/A |
-| 43 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 44 | [wyrwał](http://twitter.com/search?q=wyrwa%c5%82) | N/A |
-| 45 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 46 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 47 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
-| 48 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 49 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 25 | [Proszę](http://twitter.com/search?q=Prosz%c4%99) | N/A |
+| 26 | [Dnia Mężczyzny](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzny) | N/A |
+| 27 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
+| 28 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 29 | [Gdańsku](http://twitter.com/search?q=Gda%c5%84sku) | N/A |
+| 30 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 31 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 32 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
+| 33 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 34 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 35 | [wielki żal](http://twitter.com/search?q=wielki+%c5%bcal) | N/A |
+| 36 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
+| 37 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
+| 38 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 39 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
+| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 41 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 42 | [Dobry](http://twitter.com/search?q=Dobry) | N/A |
+| 43 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 45 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
+| 46 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 47 | [JA PIERDOLE](http://twitter.com/search?q=JA+PIERDOLE) | N/A |
+| 48 | [Dzięki](http://twitter.com/search?q=Dzi%c4%99ki) | N/A |
+| 49 | [Pedofilia Obywatelska](http://twitter.com/search?q=Pedofilia+Obywatelska) | N/A |
 
 
 

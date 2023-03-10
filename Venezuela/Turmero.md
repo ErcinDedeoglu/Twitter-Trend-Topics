@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-10 19:16:04 UTC`
+📆 Last Updated: `2023-03-10 20:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
 | 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
 | 3 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 4 | [Médicos](http://twitter.com/search?q=M%c3%a9dicos) | N/A |
-| 5 | [Fernando Batista](http://twitter.com/search?q=Fernando+Batista) | N/A |
-| 6 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
-| 7 | [#ListosConCapriles](http://twitter.com/search?q=%23ListosConCapriles) | N/A |
-| 8 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
-| 9 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 10 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 11 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
-| 12 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [gasparín](http://twitter.com/search?q=gaspar%c3%adn) | N/A |
-| 15 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 16 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 17 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 18 | [Universidad de Caracas](http://twitter.com/search?q=Universidad+de+Caracas) | N/A |
-| 19 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 20 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 21 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
-| 22 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 23 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
-| 24 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 25 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 26 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 27 | [José Altuve](http://twitter.com/search?q=Jos%c3%a9+Altuve) | N/A |
-| 28 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 29 | [Chiken Fingers](http://twitter.com/search?q=Chiken+Fingers) | N/A |
-| 30 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 33 | [Cova](http://twitter.com/search?q=Cova) | N/A |
-| 34 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 4 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 5 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 6 | [Fernando Batista](http://twitter.com/search?q=Fernando+Batista) | N/A |
+| 7 | [#Felizjueves](http://twitter.com/search?q=%23Felizjueves) | N/A |
+| 8 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 9 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 11 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
+| 14 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 15 | [Aída Merlano](http://twitter.com/search?q=A%c3%adda+Merlano) | N/A |
+| 16 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 17 | [Universidad de Caracas](http://twitter.com/search?q=Universidad+de+Caracas) | N/A |
+| 18 | [GASPARÍN](http://twitter.com/search?q=GASPAR%c3%8dN) | N/A |
+| 19 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
+| 20 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 23 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
+| 24 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 25 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 26 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 27 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 28 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
+| 29 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 30 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 31 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 32 | [Chiken Fingers](http://twitter.com/search?q=Chiken+Fingers) | N/A |
+| 33 | [Sociedad Médica de Caracas](http://twitter.com/search?q=Sociedad+M%c3%a9dica+de+Caracas) | N/A |
+| 34 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
 | 35 | [Saragó](http://twitter.com/search?q=Sarag%c3%b3) | N/A |
-| 36 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
-| 37 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
-| 38 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 39 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 40 | [el libro](http://twitter.com/search?q=el+libro) | N/A |
-| 41 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 42 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 43 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 44 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
-| 45 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
-| 46 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 47 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 48 | [Perros Calientes](http://twitter.com/search?q=Perros+Calientes) | N/A |
-| 49 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
+| 36 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 37 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 40 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 41 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 42 | [el libro](http://twitter.com/search?q=el+libro) | N/A |
+| 43 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
+| 44 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 45 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
+| 46 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
+| 47 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 48 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
+| 49 | [El 10](http://twitter.com/search?q=El+10) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-10 19:16:21 UTC`
+📆 Last Updated: `2023-03-10 20:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 10 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
 | 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 12 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 13 | [LEE Zii Jia](http://twitter.com/search?q=LEE+Zii+Jia) | N/A |
-| 14 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 15 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 16 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 18 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 19 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 20 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 21 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 23 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
+| 13 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 14 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 15 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 16 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 17 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 18 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 19 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 21 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 22 | [CURRENT JOB](http://twitter.com/search?q=CURRENT+JOB) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 25 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 26 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
-| 27 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 28 | [Abah](http://twitter.com/search?q=Abah) | N/A |
-| 29 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 26 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 27 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
+| 28 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 29 | [Abah](http://twitter.com/search?q=Abah) | N/A |
 | 30 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 31 | [LOVE YOU](http://twitter.com/search?q=LOVE+YOU) | N/A |
 | 32 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
 | 33 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 34 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 35 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 34 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 36 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
 | 37 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 40 | [Congratssss](http://twitter.com/search?q=Congratssss) | N/A |
-| 41 | [Atiny](http://twitter.com/search?q=Atiny) | N/A |
-| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 38 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 39 | [Congratssss](http://twitter.com/search?q=Congratssss) | N/A |
+| 40 | [Atiny](http://twitter.com/search?q=Atiny) | N/A |
+| 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 43 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
 | 44 | [Momota](http://twitter.com/search?q=Momota) | N/A |
-| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 46 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 48 | [Arab](http://twitter.com/search?q=Arab) | N/A |
 | 49 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 50 | [Lily](http://twitter.com/search?q=Lily) | N/A |
 
 
 

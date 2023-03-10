@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-10 19:16:23 UTC`
+📆 Last Updated: `2023-03-10 20:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,35 +28,34 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 11 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
 | 12 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
 | 13 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 14 | [Wo Long Fallen Dynasty](http://twitter.com/search?q=Wo+Long+Fallen+Dynasty) | N/A |
-| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 16 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 17 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 18 | [Thái Lan](http://twitter.com/search?q=Th%c3%a1i+Lan) | N/A |
-| 19 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 20 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 21 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 22 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 23 | [englot](http://twitter.com/search?q=englot) | N/A |
-| 24 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 25 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 26 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
-| 27 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 28 | [#karinaxbottegaveneta](http://twitter.com/search?q=%23karinaxbottegaveneta) | N/A |
-| 29 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 30 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 31 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 32 | [#danghonghai](http://twitter.com/search?q=%23danghonghai) | N/A |
-| 33 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 34 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 35 | [#BTSArmy](http://twitter.com/search?q=%23BTSArmy) | N/A |
-| 36 | [#E4EMinors](http://twitter.com/search?q=%23E4EMinors) | N/A |
-| 37 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 38 | [#danang](http://twitter.com/search?q=%23danang) | N/A |
-| 39 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
-| 40 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
-| 41 | [#AxieWeek](http://twitter.com/search?q=%23AxieWeek) | N/A |
-| 42 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 15 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 16 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 17 | [Thái Lan](http://twitter.com/search?q=Th%c3%a1i+Lan) | N/A |
+| 18 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 19 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 20 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 22 | [englot](http://twitter.com/search?q=englot) | N/A |
+| 23 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
+| 24 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 25 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
+| 26 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
+| 27 | [#karinaxbottegaveneta](http://twitter.com/search?q=%23karinaxbottegaveneta) | N/A |
+| 28 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 29 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 30 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 31 | [#danghonghai](http://twitter.com/search?q=%23danghonghai) | N/A |
+| 32 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 33 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 34 | [#BTSArmy](http://twitter.com/search?q=%23BTSArmy) | N/A |
+| 35 | [#e4eminors](http://twitter.com/search?q=%23e4eminors) | N/A |
+| 36 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 37 | [#danang](http://twitter.com/search?q=%23danang) | N/A |
+| 38 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
+| 39 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
+| 40 | [#AxieWeek](http://twitter.com/search?q=%23AxieWeek) | N/A |
+| 41 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
 
 
 

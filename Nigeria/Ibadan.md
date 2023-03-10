@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-10 19:16:23 UTC`
+📆 Last Updated: `2023-03-10 20:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#OCCUPYINEC](http://twitter.com/search?q=%23OCCUPYINEC) | N/A |
 | 2 | [#RexxieBigTimeAlbum](http://twitter.com/search?q=%23RexxieBigTimeAlbum) | N/A |
-| 3 | [#standwithsanwoolu](http://twitter.com/search?q=%23standwithsanwoolu) | N/A |
-| 4 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 8 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 9 | [Smoked Titus](http://twitter.com/search?q=Smoked+Titus) | N/A |
-| 10 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 11 | [kanaga jnr is a star](http://twitter.com/search?q=kanaga+jnr+is+a+star) | N/A |
+| 3 | [#KudabankScam](http://twitter.com/search?q=%23KudabankScam) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [#standwithsanwoolu](http://twitter.com/search?q=%23standwithsanwoolu) | N/A |
+| 6 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 9 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 10 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 11 | [Opay](http://twitter.com/search?q=Opay) | N/A |
 | 12 | [Panla](http://twitter.com/search?q=Panla) | N/A |
-| 13 | [the brt](http://twitter.com/search?q=the+brt) | N/A |
-| 14 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 13 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
+| 14 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
 | 15 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
-| 16 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 17 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 18 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
-| 21 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 23 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 24 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 26 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
-| 27 | [I Am The Evidence](http://twitter.com/search?q=I+Am+The+Evidence) | N/A |
-| 28 | [Didier Drogba](http://twitter.com/search?q=Didier+Drogba) | N/A |
-| 29 | [Aunty Kate](http://twitter.com/search?q=Aunty+Kate) | N/A |
-| 30 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 31 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
-| 32 | [TRIAGE](http://twitter.com/search?q=TRIAGE) | N/A |
-| 33 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 34 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 35 | [BRT Bus](http://twitter.com/search?q=BRT+Bus) | N/A |
-| 36 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 37 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 16 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 17 | [Smoked](http://twitter.com/search?q=Smoked) | N/A |
+| 18 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 19 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
+| 20 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 24 | [Triage](http://twitter.com/search?q=Triage) | N/A |
+| 25 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 26 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 27 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
+| 28 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 29 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 30 | [JSS 1](http://twitter.com/search?q=JSS+1) | N/A |
+| 31 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 32 | [BRT Bus](http://twitter.com/search?q=BRT+Bus) | N/A |
+| 33 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 34 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
+| 35 | [Kingsley](http://twitter.com/search?q=Kingsley) | N/A |
+| 36 | [I Am The Evidence](http://twitter.com/search?q=I+Am+The+Evidence) | N/A |
+| 37 | [Aomine](http://twitter.com/search?q=Aomine) | N/A |
 | 38 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 39 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 41 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 42 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
-| 43 | [$GPT](http://twitter.com/search?q=%24GPT) | N/A |
-| 44 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
-| 45 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
-| 46 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
-| 47 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
-| 48 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 49 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 50 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 39 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
+| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 41 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
+| 42 | [2021 UCL](http://twitter.com/search?q=2021+UCL) | N/A |
+| 43 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
+| 44 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 45 | [Mikel Obi](http://twitter.com/search?q=Mikel+Obi) | N/A |
+| 46 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
+| 47 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 48 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
+| 49 | [Aunty Kate](http://twitter.com/search?q=Aunty+Kate) | N/A |
+| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 
 
 

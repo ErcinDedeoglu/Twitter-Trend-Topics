@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-10 19:16:10 UTC`
+📆 Last Updated: `2023-03-10 20:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCKSVS](http://twitter.com/search?q=%23FCKSVS) | N/A |
-| 2 | [#fcnebs](http://twitter.com/search?q=%23fcnebs) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 2 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
+| 3 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 4 | [#Karlsruhe](http://twitter.com/search?q=%23Karlsruhe) | N/A |
-| 5 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 7 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 8 | [sirene](http://twitter.com/search?q=sirene) | N/A |
+| 5 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 6 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
 | 9 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 10 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 12 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 13 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 14 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 15 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 16 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 10 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
+| 11 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
+| 12 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 13 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 16 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
 | 17 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
-| 18 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 19 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 20 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 18 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 19 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 20 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 21 | [Pommes](http://twitter.com/search?q=Pommes) | N/A |
 | 22 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 23 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 24 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 25 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 26 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 27 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 28 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 29 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 30 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 31 | [Katja](http://twitter.com/search?q=Katja) | N/A |
-| 32 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
-| 33 | [Philipp](http://twitter.com/search?q=Philipp) | N/A |
+| 23 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 24 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
+| 25 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 26 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 28 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 29 | [Currywurst](http://twitter.com/search?q=Currywurst) | N/A |
+| 30 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 31 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 32 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 33 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
 | 34 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 35 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 36 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 37 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 38 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 39 | [Apotheker](http://twitter.com/search?q=Apotheker) | N/A |
+| 35 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 36 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 37 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 38 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 39 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
 | 40 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 41 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 42 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 43 | [Paare](http://twitter.com/search?q=Paare) | N/A |
-| 44 | [Pommes](http://twitter.com/search?q=Pommes) | N/A |
-| 45 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 46 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
-| 47 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 41 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
+| 42 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 43 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
+| 44 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 45 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 47 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
+| 48 | [Helene Fischer](http://twitter.com/search?q=Helene+Fischer) | N/A |
+| 49 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
 
 
 

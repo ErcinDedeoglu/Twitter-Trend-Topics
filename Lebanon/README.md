@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-10 19:16:45 UTC`
+📆 Last Updated: `2023-03-10 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#وننتصر](http://twitter.com/search?q=%23%d9%88%d9%86%d9%86%d8%aa%d8%b5%d8%b1) | N/A |
-| 2 | [#عيد_المعلم](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
+| 1 | [#البوم_حياتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%88%d9%85_%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a) | N/A |
+| 2 | [#وننتصر](http://twitter.com/search?q=%23%d9%88%d9%86%d9%86%d8%aa%d8%b5%d8%b1) | N/A |
 | 3 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 4 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 4 | [#نصرالله_دجال](http://twitter.com/search?q=%23%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87_%d8%af%d8%ac%d8%a7%d9%84) | N/A |
 | 5 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
 | 6 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 7 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 8 | [#المقاومه_تصنع_الامل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87_%d8%aa%d8%b5%d9%86%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%84) | N/A |
-| 9 | [#صار_الوقت](http://twitter.com/search?q=%23%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d9%88%d9%82%d8%aa) | N/A |
-| 10 | [فارس سعيد](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 11 | [#سامي_الجميل](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 12 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 13 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
-| 14 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 15 | [تل أبيب](http://twitter.com/search?q=%d8%aa%d9%84+%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 16 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
-| 17 | [عيد معلم](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 18 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
-| 19 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
-| 20 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 21 | [الجمهوريه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 7 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
+| 8 | [عيد المعلم](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
+| 9 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 10 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 11 | [#صار_الوقت](http://twitter.com/search?q=%23%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d9%88%d9%82%d8%aa) | N/A |
+| 12 | [فارس سعيد](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 13 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
+| 14 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 15 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 16 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 17 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 18 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 19 | [الجمهوريه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 20 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 21 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
 | 22 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
 | 23 | [الطلاب العراقيين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%8a%d9%86) | N/A |
-| 24 | [دولار السوق السوداء](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d8%a1) | N/A |
-| 25 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 26 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
-| 27 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 24 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 25 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 26 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 27 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
 | 28 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
-| 29 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 30 | [بير العبد](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a8%d8%af) | N/A |
-| 31 | [الشرطه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 32 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 33 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 34 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
-| 35 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 29 | [بير العبد](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a8%d8%af) | N/A |
+| 30 | [الشرطه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 31 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 32 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 33 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
+| 34 | [الدول العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 35 | [مدارس المهدي](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
 | 36 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 37 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 38 | [علي لبنان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 39 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 40 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 39 | [النظام السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 42 | [ندي البستاني](http://twitter.com/search?q=%d9%86%d8%af%d9%8a+%d8%a7%d9%84%d8%a8%d8%b3%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 43 | [حسن نصرالله](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 44 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 45 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 46 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 47 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 48 | [جبران خليل جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 49 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 50 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |
+| 43 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 44 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 45 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 46 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 47 | [جبران خليل جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 48 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 49 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 50 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 
 
 
