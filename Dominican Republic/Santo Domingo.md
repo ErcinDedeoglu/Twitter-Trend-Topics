@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-10 13:20:57 UTC`
+📆 Last Updated: `2023-03-10 14:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [francisco del rosario sánchez](http://twitter.com/search?q=francisco+del+rosario+s%c3%a1nchez) | N/A |
 | 2 | [#votastequesi](http://twitter.com/search?q=%23votastequesi) | N/A |
-| 3 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 4 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
+| 3 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
+| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 5 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
 | 6 | [bandera dominicana](http://twitter.com/search?q=bandera+dominicana) | N/A |
 | 7 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 13 | [#Diadelamujer](http://twitter.com/search?q=%23Diadelamujer) | N/A |
 | 14 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 15 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 16 | [#piodeporteswbc2023](http://twitter.com/search?q=%23piodeporteswbc2023) | N/A |
-| 17 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
-| 18 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 19 | [Guillermo moreno](http://twitter.com/search?q=Guillermo+moreno) | N/A |
-| 20 | [Bravos de Atlanta](http://twitter.com/search?q=Bravos+de+Atlanta) | N/A |
-| 21 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 22 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
-| 23 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
-| 24 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 25 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 26 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
+| 16 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
+| 17 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 18 | [Guillermo moreno](http://twitter.com/search?q=Guillermo+moreno) | N/A |
+| 19 | [Bravos de Atlanta](http://twitter.com/search?q=Bravos+de+Atlanta) | N/A |
+| 20 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
+| 21 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
+| 22 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
+| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 24 | [robinson canó](http://twitter.com/search?q=robinson+can%c3%b3) | N/A |
+| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 26 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 28 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 29 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [miriam germán](http://twitter.com/search?q=miriam+germ%c3%a1n) | N/A |
-| 32 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 33 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 34 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 35 | [la materialista](http://twitter.com/search?q=la+materialista) | N/A |
-| 36 | [luis ortiz](http://twitter.com/search?q=luis+ortiz) | N/A |
-| 37 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 38 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 39 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 40 | [peña guaba](http://twitter.com/search?q=pe%c3%b1a+guaba) | N/A |
-| 41 | [gregory soto](http://twitter.com/search?q=gregory+soto) | N/A |
-| 42 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
-| 43 | [Muchas Felicidades](http://twitter.com/search?q=Muchas+Felicidades) | N/A |
-| 44 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 45 | [intrant](http://twitter.com/search?q=intrant) | N/A |
-| 46 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 47 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 48 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 49 | [lozano](http://twitter.com/search?q=lozano) | N/A |
-| 50 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [miriam germán](http://twitter.com/search?q=miriam+germ%c3%a1n) | N/A |
+| 30 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 31 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 32 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 33 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 34 | [peña guaba](http://twitter.com/search?q=pe%c3%b1a+guaba) | N/A |
+| 35 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 37 | [intrant](http://twitter.com/search?q=intrant) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 40 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 41 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 42 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
+| 43 | [lozano](http://twitter.com/search?q=lozano) | N/A |
+| 44 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 45 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 46 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
+| 47 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 48 | [francisco javier garcía](http://twitter.com/search?q=francisco+javier+garc%c3%ada) | N/A |
+| 49 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 50 | [ITB Berlín](http://twitter.com/search?q=ITB+Berl%c3%adn) | N/A |
 
 
 

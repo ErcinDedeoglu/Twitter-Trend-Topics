@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-10 13:21:13 UTC`
+📆 Last Updated: `2023-03-10 14:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 11 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
 | 12 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 13 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 14 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 15 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [Troligen](http://twitter.com/search?q=Troligen) | N/A |
+| 14 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 15 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 16 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
 | 17 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
 | 18 | [skalk](http://twitter.com/search?q=skalk) | N/A |
 | 19 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 20 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 21 | [#internationellakvinnodagen](http://twitter.com/search?q=%23internationellakvinnodagen) | N/A |
-| 22 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
-| 23 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 24 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
-| 25 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 27 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 28 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 29 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 30 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 31 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 33 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 34 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 35 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
-| 36 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 37 | [Frågan](http://twitter.com/search?q=Fr%c3%a5gan) | N/A |
-| 38 | [Vidrigt](http://twitter.com/search?q=Vidrigt) | N/A |
-| 39 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
-| 40 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
-| 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 43 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
-| 44 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 45 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 46 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 47 | [Väst](http://twitter.com/search?q=V%c3%a4st) | N/A |
-| 48 | [evamärta](http://twitter.com/search?q=evam%c3%a4rta) | N/A |
-| 49 | [moderaternas](http://twitter.com/search?q=moderaternas) | N/A |
+| 20 | [#internationellakvinnodagen](http://twitter.com/search?q=%23internationellakvinnodagen) | N/A |
+| 21 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
+| 22 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 23 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
+| 24 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
+| 25 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 26 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 27 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 28 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 29 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 30 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 31 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 32 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 33 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
+| 34 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 35 | [Vidrigt](http://twitter.com/search?q=Vidrigt) | N/A |
+| 36 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 37 | [nordnet](http://twitter.com/search?q=nordnet) | N/A |
+| 38 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 39 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 40 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 41 | [Väst](http://twitter.com/search?q=V%c3%a4st) | N/A |
+| 42 | [moderaternas](http://twitter.com/search?q=moderaternas) | N/A |
+| 43 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 44 | [Rumänien](http://twitter.com/search?q=Rum%c3%a4nien) | N/A |
+| 45 | [ringhals](http://twitter.com/search?q=ringhals) | N/A |
+| 46 | [Systemet](http://twitter.com/search?q=Systemet) | N/A |
+| 47 | [Gillman](http://twitter.com/search?q=Gillman) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 49 | [gulligt](http://twitter.com/search?q=gulligt) | N/A |
 
 
 

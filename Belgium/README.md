@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-10 13:21:43 UTC`
+📆 Last Updated: `2023-03-10 14:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#andvil](http://twitter.com/search?q=%23andvil) | N/A |
-| 2 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 4 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
-| 7 | [Kampenhout](http://twitter.com/search?q=Kampenhout) | N/A |
-| 8 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 9 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 6 | [Kampenhout](http://twitter.com/search?q=Kampenhout) | N/A |
+| 7 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 8 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 9 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 11 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
 | 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
@@ -35,36 +35,36 @@ This is top 50 for Belgium
 | 18 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
 | 19 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 20 | [watteeuw](http://twitter.com/search?q=watteeuw) | N/A |
-| 21 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 23 | [dreyer](http://twitter.com/search?q=dreyer) | N/A |
-| 24 | [vdab](http://twitter.com/search?q=vdab) | N/A |
+| 21 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 22 | [dreyer](http://twitter.com/search?q=dreyer) | N/A |
+| 23 | [vdab](http://twitter.com/search?q=vdab) | N/A |
+| 24 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
 | 25 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 28 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
-| 29 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 30 | [West](http://twitter.com/search?q=West) | N/A |
-| 31 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
-| 32 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 33 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 36 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 37 | [bieke](http://twitter.com/search?q=bieke) | N/A |
-| 38 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 39 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 40 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 26 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 27 | [West](http://twitter.com/search?q=West) | N/A |
+| 28 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
+| 29 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 30 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 31 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 35 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 36 | [bieke](http://twitter.com/search?q=bieke) | N/A |
+| 37 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 38 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 39 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 40 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
 | 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 42 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 44 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 45 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 46 | [patrick lefevere](http://twitter.com/search?q=patrick+lefevere) | N/A |
-| 47 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 48 | [purnelle](http://twitter.com/search?q=purnelle) | N/A |
-| 49 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 50 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 42 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 43 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 44 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 45 | [patrick lefevere](http://twitter.com/search?q=patrick+lefevere) | N/A |
+| 46 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 47 | [purnelle](http://twitter.com/search?q=purnelle) | N/A |
+| 48 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 49 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 50 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 
 
 

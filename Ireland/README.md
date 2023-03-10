@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-10 13:21:44 UTC`
+📆 Last Updated: `2023-03-10 14:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Ireland
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#sneachta](http://twitter.com/search?q=%23sneachta) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#STARAwards](http://twitter.com/search?q=%23STARAwards) | N/A |
+| 3 | [#STARAwards](http://twitter.com/search?q=%23STARAwards) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 | 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
@@ -34,37 +34,37 @@ This is top 50 for Ireland
 | 17 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 18 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
 | 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 22 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
-| 23 | [Rain](http://twitter.com/search?q=Rain) | N/A |
-| 24 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 25 | [Eoin](http://twitter.com/search?q=Eoin) | N/A |
-| 26 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
-| 27 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 28 | [padraig](http://twitter.com/search?q=padraig) | N/A |
-| 29 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 30 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 32 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
-| 33 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 34 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 35 | [The FAI](http://twitter.com/search?q=The+FAI) | N/A |
-| 36 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 38 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 39 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 40 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 41 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 42 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 43 | [Gender](http://twitter.com/search?q=Gender) | N/A |
-| 44 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 45 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 46 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 47 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 48 | [Clare](http://twitter.com/search?q=Clare) | N/A |
-| 49 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 50 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 21 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
+| 22 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 23 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 24 | [Taoiseach](http://twitter.com/search?q=Taoiseach) | N/A |
+| 25 | [padraig](http://twitter.com/search?q=padraig) | N/A |
+| 26 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 27 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
+| 28 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 29 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 30 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 31 | [the fai](http://twitter.com/search?q=the+fai) | N/A |
+| 32 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 33 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 34 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
+| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 36 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 37 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 38 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 39 | [Gender](http://twitter.com/search?q=Gender) | N/A |
+| 40 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 41 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
+| 42 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 43 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 44 | [Clare](http://twitter.com/search?q=Clare) | N/A |
+| 45 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 47 | [President Higgins](http://twitter.com/search?q=President+Higgins) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Thurles](http://twitter.com/search?q=Thurles) | N/A |
+| 50 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 
 
 

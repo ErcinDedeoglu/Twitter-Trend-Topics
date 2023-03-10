@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-10 13:21:50 UTC`
+📆 Last Updated: `2023-03-10 14:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Ukraine
 | 2 | [Da Vinci](http://twitter.com/search?q=Da+Vinci) | N/A |
 | 3 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 4 | [zolochiv](http://twitter.com/search?q=zolochiv) | N/A |
-| 5 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 6 | [Kinzhal](http://twitter.com/search?q=Kinzhal) | N/A |
+| 5 | [Kinzhal](http://twitter.com/search?q=Kinzhal) | N/A |
+| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 8 | [Lviv](http://twitter.com/search?q=Lviv) | N/A |
 | 9 | [майдане](http://twitter.com/search?q=%d0%bc%d0%b0%d0%b9%d0%b4%d0%b0%d0%bd%d0%b5) | N/A |
@@ -37,21 +37,21 @@ This is top 50 for Ukraine
 | 20 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
 | 21 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 22 | [#StandWithUkraine️](http://twitter.com/search?q=%23StandWithUkraine%ef%b8%8f) | N/A |
-| 23 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 24 | [клас](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81) | N/A |
-| 25 | [#CSGO](http://twitter.com/search?q=%23CSGO) | N/A |
-| 26 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 27 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 28 | [dnipro](http://twitter.com/search?q=dnipro) | N/A |
-| 29 | [молотова](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d1%82%d0%be%d0%b2%d0%b0) | N/A |
-| 30 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 31 | [януковича](http://twitter.com/search?q=%d1%8f%d0%bd%d1%83%d0%ba%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
-| 32 | [америке](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 25 | [клас](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81) | N/A |
+| 26 | [#CSGO](http://twitter.com/search?q=%23CSGO) | N/A |
+| 27 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 28 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
+| 29 | [dnipro](http://twitter.com/search?q=dnipro) | N/A |
+| 30 | [молотова](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d1%82%d0%be%d0%b2%d0%b0) | N/A |
+| 31 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 32 | [януковича](http://twitter.com/search?q=%d1%8f%d0%bd%d1%83%d0%ba%d0%be%d0%b2%d0%b8%d1%87%d0%b0) | N/A |
 | 33 | [Саакашвили](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b0%d0%ba%d0%b0%d1%88%d0%b2%d0%b8%d0%bb%d0%b8) | N/A |
 | 34 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 35 | [Maidan](http://twitter.com/search?q=Maidan) | N/A |
 | 36 | [В Харькове](http://twitter.com/search?q=%d0%92+%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 37 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 37 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 38 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 39 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
 | 40 | [Венедиктов](http://twitter.com/search?q=%d0%92%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2) | N/A |

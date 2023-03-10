@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-10 13:21:09 UTC`
+📆 Last Updated: `2023-03-10 14:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
-| 3 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 2 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 5 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
 | 6 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 7 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 8 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
-| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 13 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 14 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 15 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 16 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 20 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 21 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 22 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 23 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 24 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 25 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 26 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 27 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 28 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 29 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 30 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 31 | [Gesetzesentwurf](http://twitter.com/search?q=Gesetzesentwurf) | N/A |
-| 32 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 34 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 35 | [taucher](http://twitter.com/search?q=taucher) | N/A |
-| 36 | [Eintopf](http://twitter.com/search?q=Eintopf) | N/A |
-| 37 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 38 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 39 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 40 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 41 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 42 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 43 | [Energieerzeugung](http://twitter.com/search?q=Energieerzeugung) | N/A |
-| 44 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 45 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 46 | [Bezug zur Realität](http://twitter.com/search?q=Bezug+zur+Realit%c3%a4t) | N/A |
-| 47 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 11 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 12 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 13 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 15 | [Befunde](http://twitter.com/search?q=Befunde) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 18 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 19 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 20 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 21 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 22 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 23 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 24 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 25 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 26 | [Gesetzesentwurf](http://twitter.com/search?q=Gesetzesentwurf) | N/A |
+| 27 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 28 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 29 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 30 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 31 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 32 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 33 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 34 | [Eintopf](http://twitter.com/search?q=Eintopf) | N/A |
+| 35 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 36 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 37 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 38 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 39 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
+| 40 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 41 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 42 | [Energieerzeugung](http://twitter.com/search?q=Energieerzeugung) | N/A |
+| 43 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 44 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 45 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 46 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 47 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
 | 48 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 49 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 49 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-10 13:20:53 UTC`
+📆 Last Updated: `2023-03-10 14:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 5 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 4 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 5 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 | 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 7 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 8 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 9 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 10 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 12 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 13 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
-| 14 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 15 | [marc garneau](http://twitter.com/search?q=marc+garneau) | N/A |
-| 16 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 17 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 18 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 19 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 20 | [Mali](http://twitter.com/search?q=Mali) | Mali is a landlocked country in West Africa. Its name is derived from the Mandinka word mali, meaning "hippopotamus". It is bordered by Algeria to the north, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the south-west, and Senegal and Mauritania to the west. |
-| 21 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 22 | [shawn kemp](http://twitter.com/search?q=shawn+kemp) | N/A |
-| 23 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 24 | [Haïti](http://twitter.com/search?q=Ha%c3%afti) | N/A |
-| 25 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 26 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 27 | [oyap](http://twitter.com/search?q=oyap) | N/A |
-| 28 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 29 | [logan stanley](http://twitter.com/search?q=logan+stanley) | N/A |
-| 30 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 31 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 32 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 33 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 34 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 35 | [bank of canada](http://twitter.com/search?q=bank+of+canada) | N/A |
-| 36 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 37 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 38 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 39 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 42 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 45 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 46 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 47 | [daily quordle 409](http://twitter.com/search?q=daily+quordle+409) | N/A |
-| 48 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 49 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 50 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 8 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 10 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 11 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 13 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 14 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
+| 15 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 16 | [marc garneau](http://twitter.com/search?q=marc+garneau) | N/A |
+| 17 | [fred vanvleet](http://twitter.com/search?q=fred+vanvleet) | N/A |
+| 18 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 19 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 20 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 21 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 22 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 23 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 24 | [oyap](http://twitter.com/search?q=oyap) | N/A |
+| 25 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 26 | [logan stanley](http://twitter.com/search?q=logan+stanley) | N/A |
+| 27 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 28 | [grocery ceos](http://twitter.com/search?q=grocery+ceos) | N/A |
+| 29 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 30 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 31 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 32 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 33 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 34 | [Mason](http://twitter.com/search?q=Mason) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 37 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 40 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 41 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 42 | [daily quordle 409](http://twitter.com/search?q=daily+quordle+409) | N/A |
+| 43 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 44 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 45 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 46 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 47 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 48 | [Environment Canada](http://twitter.com/search?q=Environment+Canada) | N/A |
+| 49 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 50 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
 
 
 
