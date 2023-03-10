@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-10 02:43:44 UTC`
+📆 Last Updated: `2023-03-10 03:25:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 8 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
 | 9 | [black stars](http://twitter.com/search?q=black+stars) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
+| 11 | [ashaiman](http://twitter.com/search?q=ashaiman) | N/A |
 | 12 | [Citi](http://twitter.com/search?q=Citi) | Citi is an abbreviation for the financial services company Citigroup. It is a multinational investment bank and financial services corporation headquartered in New York City. |
 | 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 14 | [#sona2023](http://twitter.com/search?q=%23sona2023) | N/A |
@@ -36,13 +36,13 @@ This is top 50 for [Ghana](</Ghana>)
 | 19 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
 | 20 | [ayew](http://twitter.com/search?q=ayew) | N/A |
 | 21 | [Evra](http://twitter.com/search?q=Evra) | N/A |
-| 22 | [University of Ghana](http://twitter.com/search?q=University+of+Ghana) | N/A |
+| 22 | [university of ghana](http://twitter.com/search?q=university+of+ghana) | N/A |
 | 23 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 24 | [Sammy Gyamfi](http://twitter.com/search?q=Sammy+Gyamfi) | N/A |
+| 24 | [sammy gyamfi](http://twitter.com/search?q=sammy+gyamfi) | N/A |
 | 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 27 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
-| 28 | [Patrick Kpozo](http://twitter.com/search?q=Patrick+Kpozo) | N/A |
+| 28 | [patrick kpozo](http://twitter.com/search?q=patrick+kpozo) | N/A |
 | 29 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
 | 30 | [thabang anthem](http://twitter.com/search?q=thabang+anthem) | N/A |
 | 31 | [danlad](http://twitter.com/search?q=danlad) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Ghana](</Ghana>)
 | 45 | [ato forson](http://twitter.com/search?q=ato+forson) | N/A |
 | 46 | [ghana armed forces](http://twitter.com/search?q=ghana+armed+forces) | N/A |
 | 47 | [twenty-five](http://twitter.com/search?q=twenty-five) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 49 | [painstil](http://twitter.com/search?q=painstil) | N/A |
-| 50 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
+| 48 | [painstil](http://twitter.com/search?q=painstil) | N/A |
+| 49 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
+| 50 | [state of the nation address](http://twitter.com/search?q=state+of+the+nation+address) | N/A |
 
 
 

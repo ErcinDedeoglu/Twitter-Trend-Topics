@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-10 02:43:55 UTC`
+📆 Last Updated: `2023-03-10 03:25:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 10 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 11 | [nobby](http://twitter.com/search?q=nobby) | N/A |
-| 12 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 13 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 14 | [COVID](http://twitter.com/search?q=COVID) | N/A |
-| 15 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 16 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 17 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 18 | [Meng Foon](http://twitter.com/search?q=Meng+Foon) | N/A |
-| 19 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 12 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 13 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
+| 14 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 15 | [COVID](http://twitter.com/search?q=COVID) | N/A |
+| 16 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 19 | [Meng Foon](http://twitter.com/search?q=Meng+Foon) | N/A |
 | 20 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
 | 21 | [hobbiton](http://twitter.com/search?q=hobbiton) | N/A |
 | 22 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |

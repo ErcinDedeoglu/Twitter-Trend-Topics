@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-10 02:44:03 UTC`
+📆 Last Updated: `2023-03-10 03:25:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 2 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 3 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 6 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
-| 7 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 8 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 10 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 11 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 12 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 13 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 16 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
-| 17 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 18 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
-| 19 | [australian pm](http://twitter.com/search?q=australian+pm) | N/A |
-| 20 | [calendar](http://twitter.com/search?q=calendar) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
-| 23 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
-| 24 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
-| 25 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 26 | [deandra d](http://twitter.com/search?q=deandra+d) | N/A |
-| 27 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
-| 28 | [bolte anubhav](http://twitter.com/search?q=bolte+anubhav) | N/A |
-| 29 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 30 | [satsang matra se](http://twitter.com/search?q=satsang+matra+se) | N/A |
-| 31 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 32 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [sant rampal ji maharaj](http://twitter.com/search?q=sant+rampal+ji+maharaj) | N/A |
-| 34 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
-| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 36 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 37 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 38 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [Thik](http://twitter.com/search?q=Thik) | N/A |
-| 40 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
-| 41 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
-| 42 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 43 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
-| 44 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 45 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
-| 46 | [#upisafetyshield](http://twitter.com/search?q=%23upisafetyshield) | N/A |
-| 47 | [#realmemusicstudio](http://twitter.com/search?q=%23realmemusicstudio) | N/A |
+| 2 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 5 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 6 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 7 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 8 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 9 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 12 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 14 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 15 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
+| 16 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 17 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
+| 18 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
+| 19 | [calendar](http://twitter.com/search?q=calendar) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
+| 22 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
+| 23 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
+| 24 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 25 | [deandra d](http://twitter.com/search?q=deandra+d) | N/A |
+| 26 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 27 | [bolte anubhav](http://twitter.com/search?q=bolte+anubhav) | N/A |
+| 28 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 29 | [satsang matra se](http://twitter.com/search?q=satsang+matra+se) | N/A |
+| 30 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 31 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 32 | [sant rampal ji maharaj](http://twitter.com/search?q=sant+rampal+ji+maharaj) | N/A |
+| 33 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 36 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
+| 37 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
+| 38 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 39 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [Thik](http://twitter.com/search?q=Thik) | N/A |
+| 41 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 42 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
+| 43 | [#riplegend](http://twitter.com/search?q=%23riplegend) | N/A |
+| 44 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
+| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 46 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
 
 
 

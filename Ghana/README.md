@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-10 02:44:06 UTC`
+📆 Last Updated: `2023-03-10 03:25:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,13 +38,13 @@ This is top 50 for Ghana
 | 21 | [Evra](http://twitter.com/search?q=Evra) | N/A |
 | 22 | [University of Ghana](http://twitter.com/search?q=University+of+Ghana) | N/A |
 | 23 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 24 | [Sammy Gyamfi](http://twitter.com/search?q=Sammy+Gyamfi) | N/A |
-| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 26 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 27 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
-| 28 | [Patrick Kpozo](http://twitter.com/search?q=Patrick+Kpozo) | N/A |
-| 29 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
-| 30 | [thabang anthem](http://twitter.com/search?q=thabang+anthem) | N/A |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 26 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
+| 27 | [patrick kpozo](http://twitter.com/search?q=patrick+kpozo) | N/A |
+| 28 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
+| 29 | [thabang anthem](http://twitter.com/search?q=thabang+anthem) | N/A |
+| 30 | [sammy gyamfi](http://twitter.com/search?q=sammy+gyamfi) | N/A |
 | 31 | [danlad](http://twitter.com/search?q=danlad) | N/A |
 | 32 | [kinbu](http://twitter.com/search?q=kinbu) | N/A |
 | 33 | [kuami eugene](http://twitter.com/search?q=kuami+eugene) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Ghana
 | 45 | [ato forson](http://twitter.com/search?q=ato+forson) | N/A |
 | 46 | [ghana armed forces](http://twitter.com/search?q=ghana+armed+forces) | N/A |
 | 47 | [twenty-five](http://twitter.com/search?q=twenty-five) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 49 | [painstil](http://twitter.com/search?q=painstil) | N/A |
-| 50 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
+| 48 | [painstil](http://twitter.com/search?q=painstil) | N/A |
+| 49 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 50 | [state of the nation address](http://twitter.com/search?q=state+of+the+nation+address) | N/A |
 
 
 

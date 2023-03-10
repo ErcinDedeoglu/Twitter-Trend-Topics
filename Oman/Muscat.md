@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-10 02:43:50 UTC`
+📆 Last Updated: `2023-03-10 03:25:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,23 +29,23 @@ This is top 50 for [Oman](</Oman>)
 | 12 | [الراقي النهضاوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%82%d9%8a+%d8%a7%d9%84%d9%86%d9%87%d8%b6%d8%a7%d9%88%d9%8a) | N/A |
 | 13 | [الامن الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 14 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 15 | [احمد بن ناصر النعيمي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85%d9%8a) | N/A |
-| 16 | [الابتزاز الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%b2%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 17 | [الشاعره العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 19 | [قابوس الرياضي](http://twitter.com/search?q=%d9%82%d8%a7%d8%a8%d9%88%d8%b3+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 20 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 21 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 22 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 23 | [عائشة](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9) | N/A |
-| 24 | [نظام التقاعد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af) | N/A |
-| 25 | [بنت عمان](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 26 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 27 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 28 | [الاسبوع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 29 | [مازن عمان](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 30 | [الطلبه الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
-| 31 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 16 | [احمد بن ناصر النعيمي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85%d9%8a) | N/A |
+| 17 | [الابتزاز الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%b2%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
+| 18 | [الشاعره العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 19 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 20 | [قابوس الرياضي](http://twitter.com/search?q=%d9%82%d8%a7%d8%a8%d9%88%d8%b3+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 21 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 22 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 23 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 24 | [عائشة](http://twitter.com/search?q=%d8%b9%d8%a7%d8%a6%d8%b4%d8%a9) | N/A |
+| 25 | [نظام التقاعد](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af) | N/A |
+| 26 | [بنت عمان](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 27 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 28 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 29 | [الاسبوع العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 30 | [مازن عمان](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 31 | [الطلبه الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
 | 32 | [حمد العزاني](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
 | 33 | [21 مارس](http://twitter.com/search?q=21+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 34 | [الموسم الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |

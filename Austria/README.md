@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 02:44:04 UTC`
+📆 Last Updated: `2023-03-10 03:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 3 | [leitner](http://twitter.com/search?q=leitner) | N/A |
 | 4 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Austria
 | 27 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
 | 28 | [weltmännertag](http://twitter.com/search?q=weltm%c3%a4nnertag) | N/A |
 | 29 | [beidl](http://twitter.com/search?q=beidl) | N/A |
-| 30 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 30 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
 | 31 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
 | 32 | [plakate](http://twitter.com/search?q=plakate) | N/A |
 | 33 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |

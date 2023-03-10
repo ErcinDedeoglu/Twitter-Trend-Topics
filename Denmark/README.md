@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-10 02:44:05 UTC`
+📆 Last Updated: `2023-03-10 03:25:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for Denmark
 | 22 | [østersøen](http://twitter.com/search?q=%c3%b8sters%c3%b8en) | N/A |
 | 23 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 25 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 25 | [jakob](http://twitter.com/search?q=jakob) | N/A |
 | 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 27 | [uwe max](http://twitter.com/search?q=uwe+max) | N/A |
 | 28 | [nørrebro](http://twitter.com/search?q=n%c3%b8rrebro) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Denmark
 | 36 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 37 | [ærgerligt](http://twitter.com/search?q=%c3%a6rgerligt) | N/A |
 | 38 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
-| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 40 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
 | 41 | [Matador](http://twitter.com/search?q=Matador) | N/A |
 | 42 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |

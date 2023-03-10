@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-10 02:44:04 UTC`
+📆 Last Updated: `2023-03-10 03:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 3 | [felipe melo](http://twitter.com/search?q=felipe+melo) | N/A |
 | 4 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
 | 5 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 | 6 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 7 | [gerson](http://twitter.com/search?q=gerson) | N/A |
-| 8 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 9 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 10 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 11 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 7 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 8 | [MULHERES](http://twitter.com/search?q=MULHERES) | N/A |
+| 9 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 10 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 11 | [gerson](http://twitter.com/search?q=gerson) | N/A |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 14 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 15 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 16 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 17 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 13 | [#ficavp](http://twitter.com/search?q=%23ficavp) | N/A |
+| 14 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 15 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 16 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 17 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
 | 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 20 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 19 | [marcos braz](http://twitter.com/search?q=marcos+braz) | N/A |
+| 20 | [#quartobranco](http://twitter.com/search?q=%23quartobranco) | N/A |
 | 21 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 | 22 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 23 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 23 | [red hot](http://twitter.com/search?q=red+hot) | N/A |
 | 24 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
-| 25 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 25 | [#flaxflu](http://twitter.com/search?q=%23flaxflu) | N/A |
 | 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
 | 28 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |

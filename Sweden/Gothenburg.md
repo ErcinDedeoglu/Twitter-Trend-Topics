@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-10 02:43:34 UTC`
+📆 Last Updated: `2023-03-10 03:25:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,29 +41,29 @@ This is top 50 for [Sweden](</Sweden>)
 | 24 | [cibus](http://twitter.com/search?q=cibus) | N/A |
 | 25 | [skalk](http://twitter.com/search?q=skalk) | N/A |
 | 26 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 27 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 27 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
 | 28 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
 | 29 | [karlin](http://twitter.com/search?q=karlin) | N/A |
 | 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 31 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
-| 32 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 33 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 34 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
-| 37 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 38 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 39 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 40 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 41 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
-| 42 | [A-laget](http://twitter.com/search?q=A-laget) | N/A |
-| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 44 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
-| 45 | [nordnet](http://twitter.com/search?q=nordnet) | N/A |
-| 46 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 47 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 48 | [frankrike](http://twitter.com/search?q=frankrike) | N/A |
-| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [tbilisi](http://twitter.com/search?q=tbilisi) | N/A |
+| 35 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
+| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
+| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 39 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 40 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 41 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 42 | [Allsvenskan](http://twitter.com/search?q=Allsvenskan) | N/A |
+| 43 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
+| 44 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
+| 45 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 46 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 47 | [nordnet](http://twitter.com/search?q=nordnet) | N/A |
+| 48 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 49 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 
 
 

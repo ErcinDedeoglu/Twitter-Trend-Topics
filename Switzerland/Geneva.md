@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-10 02:43:33 UTC`
+📆 Last Updated: `2023-03-10 03:25:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 3 | [#baypsg](http://twitter.com/search?q=%23baypsg) | N/A |
 | 4 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 6 | [Demo](http://twitter.com/search?q=Demo) | N/A |
@@ -35,8 +35,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
 | 19 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
 | 20 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 21 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 22 | [Neutral](http://twitter.com/search?q=Neutral) | N/A |
+| 21 | [polen](http://twitter.com/search?q=polen) | N/A |
+| 22 | [neutral](http://twitter.com/search?q=neutral) | N/A |
 | 23 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
@@ -47,7 +47,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 30 | [barcelone](http://twitter.com/search?q=barcelone) | N/A |
 | 31 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 32 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 33 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 33 | [analyse](http://twitter.com/search?q=analyse) | N/A |
 | 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 36 | [zulassung](http://twitter.com/search?q=zulassung) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [skandal](http://twitter.com/search?q=skandal) | N/A |
 | 45 | [frechheit](http://twitter.com/search?q=frechheit) | N/A |
 | 46 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 47 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 47 | [special rapporteur](http://twitter.com/search?q=special+rapporteur) | N/A |
 | 48 | [Basically](http://twitter.com/search?q=Basically) | N/A |
 | 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 50 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 50 | [alkohol](http://twitter.com/search?q=alkohol) | N/A |
 
 
 

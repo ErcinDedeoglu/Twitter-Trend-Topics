@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-10 02:44:04 UTC`
+📆 Last Updated: `2023-03-10 03:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,15 +32,15 @@ This is top 50 for Belarus
 | 15 | [господи](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
 | 16 | [Скажи](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
 | 17 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 18 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 18 | [возможно](http://twitter.com/search?q=%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 | 19 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 20 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 21 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 21 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 22 | [украину](http://twitter.com/search?q=%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 23 | [itf tennis tour](http://twitter.com/search?q=itf+tennis+tour) | N/A |
 | 24 | [ахах](http://twitter.com/search?q=%d0%b0%d1%85%d0%b0%d1%85) | N/A |
-| 25 | [#Belarus](http://twitter.com/search?q=%23Belarus) | N/A |
-| 26 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 25 | [#belarus](http://twitter.com/search?q=%23belarus) | N/A |
+| 26 | [#creativesociety](http://twitter.com/search?q=%23creativesociety) | N/A |
 | 27 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 
 

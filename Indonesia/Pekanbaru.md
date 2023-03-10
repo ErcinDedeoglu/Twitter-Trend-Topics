@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-10 02:43:35 UTC`
+📆 Last Updated: `2023-03-10 03:25:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,9 +33,9 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 16 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 17 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
 | 18 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 20 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 21 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 19 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 20 | [over me](http://twitter.com/search?q=over+me) | N/A |
+| 21 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
 | 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 23 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
 | 24 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
@@ -53,12 +53,12 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 36 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
 | 37 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
 | 38 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 39 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
-| 40 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 41 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
-| 42 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
-| 43 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
-| 44 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
+| 41 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 42 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
+| 43 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
+| 44 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
 
 
 

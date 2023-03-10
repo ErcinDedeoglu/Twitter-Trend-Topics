@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-03-10 02:43:47 UTC`
+📆 Last Updated: `2023-03-10 03:25:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 4 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
+| 1 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 4 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
@@ -30,24 +30,24 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 13 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 14 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 15 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 16 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 17 | [كريس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3) | كريس (Kris) is a masculine given name of Greek origin, meaning "Christ-bearer". In English, it is usually spelled Chris. |
-| 18 | [دور الثمانيه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 19 | [الخدمات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 20 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 21 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الاقمار الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 23 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 24 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 25 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
-| 26 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 16 | [كريس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3) | كريس (Kris) is a masculine given name of Greek origin, meaning "Christ-bearer". In English, it is usually spelled Chris. |
+| 17 | [دور الثمانيه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 18 | [الخدمات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 20 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [الاقمار الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 22 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 23 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 24 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
+| 25 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 26 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 27 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
 | 28 | [رييس مجلس الاداره](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
 | 29 | [تشكيل مجلس](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
 | 30 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 31 | [اميره الشعراء](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d8%a7%d8%a1) | N/A |
 | 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 33 | [apple](http://twitter.com/search?q=apple) | N/A |
 | 34 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
 | 35 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |

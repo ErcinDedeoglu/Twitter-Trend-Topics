@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-10 02:44:08 UTC`
+📆 Last Updated: `2023-03-10 03:25:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 1 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
@@ -26,19 +26,19 @@ This is top 50 for Mexico
 | 9 | [el 8m](http://twitter.com/search?q=el+8m) | N/A |
 | 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 12 | [raptors](http://twitter.com/search?q=raptors) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 15 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 16 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 17 | [clippers](http://twitter.com/search?q=clippers) | N/A |
-| 18 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 19 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 20 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 21 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 22 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 23 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 24 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 12 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 16 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 17 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 18 | [clippers](http://twitter.com/search?q=clippers) | N/A |
+| 19 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 20 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 21 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 22 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 23 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 24 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
 | 25 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
 | 26 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 27 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
@@ -52,19 +52,19 @@ This is top 50 for Mexico
 | 35 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
 | 36 | [Día Mundial del Riñón](http://twitter.com/search?q=D%c3%ada+Mundial+del+Ri%c3%b1%c3%b3n) | N/A |
 | 37 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
-| 38 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 38 | [PABLO GÓMEZ](http://twitter.com/search?q=PABLO+G%c3%93MEZ) | N/A |
 | 39 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
 | 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 41 | [cada 8m](http://twitter.com/search?q=cada+8m) | N/A |
 | 42 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
 | 43 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
 | 44 | [benjamin mora](http://twitter.com/search?q=benjamin+mora) | N/A |
-| 45 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 45 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
 | 46 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 47 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 48 | [Felipe Calderón Hinojosa](http://twitter.com/search?q=Felipe+Calder%c3%b3n+Hinojosa) | N/A |
-| 49 | [Margarita Zavala](http://twitter.com/search?q=Margarita+Zavala) | N/A |
-| 50 | [mares](http://twitter.com/search?q=mares) | N/A |
+| 48 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 49 | [Al Aire](http://twitter.com/search?q=Al+Aire) | N/A |
+| 50 | [Felipe Calderón Hinojosa](http://twitter.com/search?q=Felipe+Calder%c3%b3n+Hinojosa) | N/A |
 
 
 

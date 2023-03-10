@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-03-10 02:43:41 UTC`
+📆 Last Updated: `2023-03-10 03:25:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [#MH370](http://twitter.com/search?q=%23MH370) | N/A |
 | 5 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
+| 7 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
 | 8 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
 | 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 10 | [macc](http://twitter.com/search?q=macc) | N/A |
-| 11 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 11 | [dream job](http://twitter.com/search?q=dream+job) | N/A |
 | 12 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 13 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
 | 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
@@ -61,7 +61,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 44 | [melaka](http://twitter.com/search?q=melaka) | N/A |
 | 45 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
 | 46 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 47 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 47 | [lily](http://twitter.com/search?q=lily) | N/A |
 | 48 | [Chennai](http://twitter.com/search?q=Chennai) | N/A |
 
 

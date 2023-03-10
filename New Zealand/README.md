@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-10 02:44:08 UTC`
+📆 Last Updated: `2023-03-10 03:25:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,22 +26,22 @@ This is top 50 for New Zealand
 | 9 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 10 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 11 | [nobby](http://twitter.com/search?q=nobby) | N/A |
-| 12 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 13 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 14 | [COVID](http://twitter.com/search?q=COVID) | N/A |
-| 15 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 16 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 17 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 18 | [Meng Foon](http://twitter.com/search?q=Meng+Foon) | N/A |
-| 19 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 12 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 13 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
+| 14 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 15 | [COVID](http://twitter.com/search?q=COVID) | N/A |
+| 16 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 19 | [Meng Foon](http://twitter.com/search?q=Meng+Foon) | N/A |
 | 20 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
 | 21 | [hobbiton](http://twitter.com/search?q=hobbiton) | N/A |
 | 22 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 23 | [matthew](http://twitter.com/search?q=matthew) | N/A |
 | 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [xero](http://twitter.com/search?q=xero) | N/A |
+| 25 | [Xero](http://twitter.com/search?q=Xero) | N/A |
 | 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 27 | [southee](http://twitter.com/search?q=southee) | N/A |
+| 27 | [Southee](http://twitter.com/search?q=Southee) | N/A |
 | 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 30 | [health minister](http://twitter.com/search?q=health+minister) | N/A |

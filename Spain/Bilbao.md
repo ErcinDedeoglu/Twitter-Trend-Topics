@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-03-10 02:43:32 UTC`
+📆 Last Updated: `2023-03-10 03:25:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Spain](</Spain>)
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 9 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 10 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 9 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 11 | [feliz 8m](http://twitter.com/search?q=feliz+8m) | N/A |
-| 12 | [chollometro](http://twitter.com/search?q=chollometro) | N/A |
-| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 14 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
-| 15 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
-| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 12 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 13 | [chollometro](http://twitter.com/search?q=chollometro) | N/A |
+| 14 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 15 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 16 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 18 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 19 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 21 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 22 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 23 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 24 | [el 8m](http://twitter.com/search?q=el+8m) | N/A |
-| 25 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 26 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 27 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 28 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 29 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 30 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 31 | [albiol](http://twitter.com/search?q=albiol) | N/A |
-| 32 | [pacma](http://twitter.com/search?q=pacma) | N/A |
-| 33 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
-| 34 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 35 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 36 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 37 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 38 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 40 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 41 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
-| 42 | [ana orantes](http://twitter.com/search?q=ana+orantes) | N/A |
-| 43 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 44 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 45 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 47 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 48 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 49 | [moting](http://twitter.com/search?q=moting) | N/A |
+| 19 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 20 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 21 | [el 8m](http://twitter.com/search?q=el+8m) | N/A |
+| 22 | [pau gasol](http://twitter.com/search?q=pau+gasol) | N/A |
+| 23 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 24 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 26 | [remiro](http://twitter.com/search?q=remiro) | N/A |
+| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 28 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 29 | [albiol](http://twitter.com/search?q=albiol) | N/A |
+| 30 | [pacma](http://twitter.com/search?q=pacma) | N/A |
+| 31 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
+| 32 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 33 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
+| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 35 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 36 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
+| 37 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
+| 38 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 39 | [sábado 11](http://twitter.com/search?q=s%c3%a1bado+11) | N/A |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 42 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 43 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 44 | [moting](http://twitter.com/search?q=moting) | N/A |
+| 45 | [Ángela Rodríguez Pam](http://twitter.com/search?q=%c3%81ngela+Rodr%c3%adguez+Pam) | N/A |
+| 46 | [el shaarawy](http://twitter.com/search?q=el+shaarawy) | N/A |
+| 47 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
+| 48 | [gorosabel](http://twitter.com/search?q=gorosabel) | N/A |
+| 49 | [Froilan](http://twitter.com/search?q=Froilan) | N/A |
 
 
 

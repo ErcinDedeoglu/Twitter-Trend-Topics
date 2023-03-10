@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-10 02:43:57 UTC`
+📆 Last Updated: `2023-03-10 03:25:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,18 +52,18 @@ This is top 50 for [United States](</United States>)
 | 35 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
 | 36 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
 | 37 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 38 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 40 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 41 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 42 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 43 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 44 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 45 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 46 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 47 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 48 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 49 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 38 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 39 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 41 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 42 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 43 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 44 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 45 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 46 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 47 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 48 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 49 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
 
 
 

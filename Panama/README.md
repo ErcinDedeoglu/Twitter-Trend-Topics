@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-10 02:44:09 UTC`
+📆 Last Updated: `2023-03-10 03:25:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,16 +20,16 @@ This is top 50 for Panama
 | 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 5 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [feliz día de la mujer](http://twitter.com/search?q=feliz+d%c3%ada+de+la+mujer) | N/A |
-| 9 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 9 | [ministerio de la mujer](http://twitter.com/search?q=ministerio+de+la+mujer) | N/A |
 | 10 | [#lobuenoseponemejor](http://twitter.com/search?q=%23lobuenoseponemejor) | N/A |
 | 11 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 15 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [The BEST](http://twitter.com/search?q=The+BEST) | N/A |
+| 15 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
 | 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 17 | [corredor sur](http://twitter.com/search?q=corredor+sur) | N/A |
 | 18 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
@@ -38,10 +38,10 @@ This is top 50 for Panama
 | 21 | [parque lefevre](http://twitter.com/search?q=parque+lefevre) | N/A |
 | 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 23 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 24 | [tauro](http://twitter.com/search?q=tauro) | N/A |
+| 24 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
 | 25 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 26 | [luis castillo](http://twitter.com/search?q=luis+castillo) | N/A |
-| 27 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
+| 27 | [martín](http://twitter.com/search?q=mart%c3%adn) | N/A |
 | 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 30 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
@@ -59,8 +59,8 @@ This is top 50 for Panama
 | 42 | [metrobus](http://twitter.com/search?q=metrobus) | N/A |
 | 43 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
 | 44 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 45 | [partido popular](http://twitter.com/search?q=partido+popular) | N/A |
-| 46 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 45 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
+| 46 | [el 8](http://twitter.com/search?q=el+8) | N/A |
 | 47 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
 | 48 | [presidencia de la república](http://twitter.com/search?q=presidencia+de+la+rep%c3%bablica) | N/A |
 | 49 | [la joya](http://twitter.com/search?q=la+joya) | N/A |

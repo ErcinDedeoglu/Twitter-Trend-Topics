@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-10 02:44:08 UTC`
+📆 Last Updated: `2023-03-10 03:25:36 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-10 02:43:41 UTC`
+📆 Last Updated: `2023-03-10 03:25:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,11 +22,11 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [#GermanOpen2023](http://twitter.com/search?q=%23GermanOpen2023) | N/A |
 | 6 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
+| 8 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
 | 9 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
 | 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 11 | [macc](http://twitter.com/search?q=macc) | N/A |
-| 12 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 12 | [dream job](http://twitter.com/search?q=dream+job) | N/A |
 | 13 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 14 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
 | 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |

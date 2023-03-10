@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-10 02:43:55 UTC`
+📆 Last Updated: `2023-03-10 03:25:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,23 +48,23 @@ This is top 50 for [United States](</United States>)
 | 31 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
 | 32 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
 | 33 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
-| 36 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 37 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 38 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 39 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 41 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 42 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 43 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 44 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 45 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 46 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 47 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 48 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 49 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 50 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 34 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
+| 37 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 38 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 39 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 40 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 41 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 42 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 43 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 44 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 45 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 46 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 47 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 48 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 49 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 50 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 
 
 

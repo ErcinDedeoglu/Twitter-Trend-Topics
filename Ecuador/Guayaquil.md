@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-10 02:43:23 UTC`
+📆 Last Updated: `2023-03-10 03:24:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 11 | [QUÉ TAN MAÑOSO ERES](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES) | N/A |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
+| 13 | [félix sánchez](http://twitter.com/search?q=f%c3%a9lix+s%c3%a1nchez) | N/A |
 | 14 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
 | 15 | [Caldo de 31](http://twitter.com/search?q=Caldo+de+31) | N/A |
 | 16 | [12-caldo](http://twitter.com/search?q=12-caldo) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 30 | [lilax](http://twitter.com/search?q=lilax) | N/A |
 | 31 | [sorbetto](http://twitter.com/search?q=sorbetto) | N/A |
 | 32 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 33 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
-| 34 | [Quishpe](http://twitter.com/search?q=Quishpe) | N/A |
+| 33 | [samanes](http://twitter.com/search?q=samanes) | N/A |
+| 34 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
 | 35 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
 | 36 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 39 | [arosemena](http://twitter.com/search?q=arosemena) | N/A |
-| 40 | [teodoro maldonado carbo](http://twitter.com/search?q=teodoro+maldonado+carbo) | N/A |
-| 41 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
-| 42 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 43 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 44 | [Montevideo](http://twitter.com/search?q=Montevideo) | N/A |
-| 45 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 46 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 47 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 48 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 49 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 50 | [inamhi](http://twitter.com/search?q=inamhi) | N/A |
+| 37 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 38 | [arosemena](http://twitter.com/search?q=arosemena) | N/A |
+| 39 | [teodoro maldonado carbo](http://twitter.com/search?q=teodoro+maldonado+carbo) | N/A |
+| 40 | [el 8](http://twitter.com/search?q=el+8) | N/A |
+| 41 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 42 | [Montevideo](http://twitter.com/search?q=Montevideo) | N/A |
+| 43 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 45 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 46 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 47 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 48 | [inamhi](http://twitter.com/search?q=inamhi) | N/A |
+| 49 | [maracaná](http://twitter.com/search?q=maracan%c3%a1) | N/A |
+| 50 | [egas](http://twitter.com/search?q=egas) | N/A |
 
 
 

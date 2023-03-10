@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-10 02:43:35 UTC`
+📆 Last Updated: `2023-03-10 03:25:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,32 +36,32 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 19 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 20 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
 | 21 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 22 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
-| 23 | [sporting](http://twitter.com/search?q=sporting) | N/A |
-| 24 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 25 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
-| 26 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 28 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
-| 29 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 30 | [fadil](http://twitter.com/search?q=fadil) | N/A |
-| 31 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
-| 32 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 33 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 34 | [urap](http://twitter.com/search?q=urap) | N/A |
-| 35 | [happy birthday my love](http://twitter.com/search?q=happy+birthday+my+love) | N/A |
-| 36 | [salim](http://twitter.com/search?q=salim) | N/A |
-| 37 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 38 | [congratulations j-hope](http://twitter.com/search?q=congratulations+j-hope) | N/A |
-| 39 | [kebumen](http://twitter.com/search?q=kebumen) | N/A |
-| 40 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
-| 41 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
-| 42 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 43 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 44 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
-| 45 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 46 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
-| 47 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
+| 22 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 23 | [over me](http://twitter.com/search?q=over+me) | N/A |
+| 24 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
+| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 26 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
+| 27 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 28 | [fadil](http://twitter.com/search?q=fadil) | N/A |
+| 29 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
+| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 31 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 32 | [urap](http://twitter.com/search?q=urap) | N/A |
+| 33 | [happy birthday my love](http://twitter.com/search?q=happy+birthday+my+love) | N/A |
+| 34 | [Salim](http://twitter.com/search?q=Salim) | N/A |
+| 35 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
+| 36 | [congratulations j-hope](http://twitter.com/search?q=congratulations+j-hope) | N/A |
+| 37 | [kebumen](http://twitter.com/search?q=kebumen) | N/A |
+| 38 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
+| 39 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
+| 40 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 41 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
+| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 45 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
+| 46 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
+| 47 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
 | 48 | [Pray For Lahat](http://twitter.com/search?q=Pray+For+Lahat) | N/A |
 
 

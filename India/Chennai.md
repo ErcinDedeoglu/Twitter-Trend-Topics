@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-10 02:43:53 UTC`
+📆 Last Updated: `2023-03-10 03:25:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 2 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 1 | [#atman](http://twitter.com/search?q=%23atman) | N/A |
+| 2 | [#silambarasantr](http://twitter.com/search?q=%23silambarasantr) | N/A |
 | 3 | [#agilan](http://twitter.com/search?q=%23agilan) | N/A |
 | 4 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
 | 5 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for [India](</India>)
 | 13 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
 | 14 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 15 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
-| 16 | [australian pm](http://twitter.com/search?q=australian+pm) | N/A |
+| 16 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
 | 17 | [calendar](http://twitter.com/search?q=calendar) | N/A |
 | 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 19 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
@@ -49,18 +49,18 @@ This is top 50 for [India](</India>)
 | 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 33 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
 | 34 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 35 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 36 | [Thik](http://twitter.com/search?q=Thik) | N/A |
-| 37 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 38 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
-| 39 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 40 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 41 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
-| 42 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
-| 43 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 44 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
-| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 46 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
+| 35 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
+| 36 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 37 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 38 | [Thik](http://twitter.com/search?q=Thik) | N/A |
+| 39 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 40 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 41 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 42 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 43 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 44 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
+| 45 | [#riplegend](http://twitter.com/search?q=%23riplegend) | N/A |
+| 46 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
 
 
 

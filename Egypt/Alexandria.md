@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-03-10 02:43:45 UTC`
+📆 Last Updated: `2023-03-10 03:25:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,11 +41,11 @@ This is top 50 for [Egypt](</Egypt>)
 | 24 | [النهارده الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
 | 25 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
 | 26 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 27 | [عبد المنعم رياض](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 28 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 29 | [تامر امين](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 30 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [٩ مارس](http://twitter.com/search?q=%d9%a9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 27 | [9 مارس](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 28 | [عبد المنعم رياض](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 29 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 30 | [تامر امين](http://twitter.com/search?q=%d8%aa%d8%a7%d9%85%d8%b1+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 | 32 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
 | 33 | [البيض البودره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b6+%d8%a7%d9%84%d8%a8%d9%88%d8%af%d8%b1%d9%87) | N/A |
 | 34 | [اتحاد العار](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [Egypt](</Egypt>)
 | 36 | [كامب ديفيد](http://twitter.com/search?q=%d9%83%d8%a7%d9%85%d8%a8+%d8%af%d9%8a%d9%81%d9%8a%d8%af) | N/A |
 | 37 | [التضخم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b6%d8%ae%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
 | 38 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 39 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 40 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 41 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 42 | [لحم الحمير](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%b1) | N/A |
-| 43 | [الحدود القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
-| 44 | [ناصر الخليفي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%81%d9%8a) | N/A |
-| 45 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
-| 46 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 47 | [شهداء مصر](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d9%85%d8%b5%d8%b1) | N/A |
-| 48 | [مثلث القياده](http://twitter.com/search?q=%d9%85%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87) | N/A |
-| 49 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 50 | [الشيخ مرزوق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
+| 39 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 40 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 41 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 42 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 43 | [لحم الحمير](http://twitter.com/search?q=%d9%84%d8%ad%d9%85+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%b1) | N/A |
+| 44 | [الحدود القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
+| 45 | [ناصر الخليفي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%81%d9%8a) | N/A |
+| 46 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 47 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 48 | [شهداء مصر](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d9%85%d8%b5%d8%b1) | N/A |
+| 49 | [مثلث القياده](http://twitter.com/search?q=%d9%85%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87) | N/A |
+| 50 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-10 02:44:04 UTC`
+📆 Last Updated: `2023-03-10 03:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,18 +18,18 @@ This is top 50 for Australia
 | 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 7 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
-| 8 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 7 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 8 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
 | 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 10 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 | 11 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 12 | [Latrell Mitchell](http://twitter.com/search?q=Latrell+Mitchell) | N/A |
+| 12 | [latrell mitchell](http://twitter.com/search?q=latrell+mitchell) | N/A |
 | 13 | [rising star](http://twitter.com/search?q=rising+star) | N/A |
 | 14 | [mcbride](http://twitter.com/search?q=mcbride) | N/A |
-| 15 | [Cody walker](http://twitter.com/search?q=Cody+walker) | N/A |
+| 15 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
 | 16 | [uzzie](http://twitter.com/search?q=uzzie) | N/A |
 | 17 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
 | 18 | [Luai](http://twitter.com/search?q=Luai) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Australia
 | 21 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
 | 22 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
 | 23 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
-| 24 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 25 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
-| 26 | [garner](http://twitter.com/search?q=garner) | N/A |
-| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 28 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 29 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
-| 30 | [atkins](http://twitter.com/search?q=atkins) | N/A |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 33 | [andrews](http://twitter.com/search?q=andrews) | N/A |
-| 34 | [ahmedabad](http://twitter.com/search?q=ahmedabad) | N/A |
-| 35 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
-| 36 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 38 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
-| 39 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
-| 40 | [harry's house](http://twitter.com/search?q=harry%27s+house) | N/A |
-| 41 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
-| 42 | [fine line](http://twitter.com/search?q=fine+line) | N/A |
-| 43 | [tass](http://twitter.com/search?q=tass) | N/A |
-| 44 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 45 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 24 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 25 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 26 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 27 | [garner](http://twitter.com/search?q=garner) | N/A |
+| 28 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 29 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 30 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
+| 31 | [atkins](http://twitter.com/search?q=atkins) | N/A |
+| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 33 | [ombudsman](http://twitter.com/search?q=ombudsman) | N/A |
+| 34 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 35 | [ahmedabad](http://twitter.com/search?q=ahmedabad) | N/A |
+| 36 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
+| 37 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 38 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 39 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
+| 40 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
+| 41 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 42 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
+| 43 | [fine line](http://twitter.com/search?q=fine+line) | N/A |
+| 44 | [Tass](http://twitter.com/search?q=Tass) | N/A |
+| 45 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
 | 46 | [cameron green](http://twitter.com/search?q=cameron+green) | N/A |
-| 47 | ["Rabbits"](http://twitter.com/search?q=%22Rabbits%22) | N/A |
-| 48 | [Jason Demetriou](http://twitter.com/search?q=Jason+Demetriou) | N/A |
-| 49 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
-| 50 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 47 | [rabbits](http://twitter.com/search?q=rabbits) | N/A |
+| 48 | [jason demetriou](http://twitter.com/search?q=jason+demetriou) | N/A |
+| 49 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 50 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
 
 
 

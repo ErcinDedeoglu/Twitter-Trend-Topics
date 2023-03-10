@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-10 02:44:07 UTC`
+📆 Last Updated: `2023-03-10 03:25:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
-| 2 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 2 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
 | 3 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
 | 4 | [galiņš](http://twitter.com/search?q=gali%c5%86%c5%a1) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Latvia
 | 35 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
 | 36 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 37 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 38 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 38 | [tevi](http://twitter.com/search?q=tevi) | N/A |
 | 39 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
 | 40 | [avena](http://twitter.com/search?q=avena) | N/A |
 | 41 | [блин](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b8%d0%bd) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for Latvia
 | 43 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
 | 44 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 45 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 46 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
+| 46 | [manuprāt](http://twitter.com/search?q=manupr%c4%81t) | N/A |
 | 47 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
 | 48 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 49 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-10 02:43:53 UTC`
+📆 Last Updated: `2023-03-10 03:25:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for [India](</India>)
 | 14 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
 | 15 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 16 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
-| 17 | [australian pm](http://twitter.com/search?q=australian+pm) | N/A |
+| 17 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
 | 18 | [calendar](http://twitter.com/search?q=calendar) | N/A |
 | 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 20 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
@@ -50,18 +50,18 @@ This is top 50 for [India](</India>)
 | 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 34 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
 | 35 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 36 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 37 | [Thik](http://twitter.com/search?q=Thik) | N/A |
-| 38 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
-| 39 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
-| 40 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 41 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
-| 42 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 43 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
-| 44 | [#upisafetyshield](http://twitter.com/search?q=%23upisafetyshield) | N/A |
-| 45 | [#realmemusicstudio](http://twitter.com/search?q=%23realmemusicstudio) | N/A |
-| 46 | [#amritpaltrapforsikhs](http://twitter.com/search?q=%23amritpaltrapforsikhs) | N/A |
-| 47 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 36 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
+| 37 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 38 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 39 | [Thik](http://twitter.com/search?q=Thik) | N/A |
+| 40 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 41 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
+| 42 | [#riplegend](http://twitter.com/search?q=%23riplegend) | N/A |
+| 43 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
+| 44 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 45 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
+| 46 | [#upisafetyshield](http://twitter.com/search?q=%23upisafetyshield) | N/A |
+| 47 | [#realmemusicstudio](http://twitter.com/search?q=%23realmemusicstudio) | N/A |
 
 
 

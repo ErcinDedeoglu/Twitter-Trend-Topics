@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-10 02:44:05 UTC`
+📆 Last Updated: `2023-03-10 03:25:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Francisco del Rosario Sánchez](http://twitter.com/search?q=Francisco+del+Rosario+S%c3%a1nchez) | N/A |
+| 1 | [francisco del rosario sánchez](http://twitter.com/search?q=francisco+del+rosario+s%c3%a1nchez) | N/A |
 | 2 | [#votastequesi](http://twitter.com/search?q=%23votastequesi) | N/A |
 | 3 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 4 | [Padre de la Patria](http://twitter.com/search?q=Padre+de+la+Patria) | N/A |
+| 4 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
 | 5 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
-| 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 7 | [bandera dominicana](http://twitter.com/search?q=bandera+dominicana) | N/A |
 | 8 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for Dominican Republic
 | 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 27 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 28 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
+| 27 | [el 8](http://twitter.com/search?q=el+8) | N/A |
+| 28 | [canó](http://twitter.com/search?q=can%c3%b3) | N/A |
 | 29 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 30 | [rodney linares](http://twitter.com/search?q=rodney+linares) | N/A |
 | 31 | [los cacaos](http://twitter.com/search?q=los+cacaos) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for Dominican Republic
 | 42 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
 | 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 44 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
-| 45 | [Muchas Felicidades](http://twitter.com/search?q=Muchas+Felicidades) | N/A |
+| 45 | [muchas felicidades](http://twitter.com/search?q=muchas+felicidades) | N/A |
 | 46 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 47 | [intrant](http://twitter.com/search?q=intrant) | N/A |
 | 48 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-10 02:43:36 UTC`
+📆 Last Updated: `2023-03-10 03:25:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,9 +37,9 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 20 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 21 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
 | 22 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 24 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 25 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 23 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 24 | [over me](http://twitter.com/search?q=over+me) | N/A |
+| 25 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
 | 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 27 | [dojaejung](http://twitter.com/search?q=dojaejung) | N/A |
 | 28 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 32 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
 | 33 | [urap](http://twitter.com/search?q=urap) | N/A |
 | 34 | [happy birthday my love](http://twitter.com/search?q=happy+birthday+my+love) | N/A |
-| 35 | [salim](http://twitter.com/search?q=salim) | N/A |
+| 35 | [Salim](http://twitter.com/search?q=Salim) | N/A |
 | 36 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
 | 37 | [congratulations j-hope](http://twitter.com/search?q=congratulations+j-hope) | N/A |
 | 38 | [kebumen](http://twitter.com/search?q=kebumen) | N/A |
@@ -57,13 +57,13 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 40 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
 | 41 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
 | 42 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 43 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
-| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 45 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
-| 46 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
-| 47 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
-| 48 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 49 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
+| 45 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 46 | [Wahyu Kenzo](http://twitter.com/search?q=Wahyu+Kenzo) | N/A |
+| 47 | [Penghianat](http://twitter.com/search?q=Penghianat) | N/A |
+| 48 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 49 | [Pray For Lahat](http://twitter.com/search?q=Pray+For+Lahat) | N/A |
 
 
 

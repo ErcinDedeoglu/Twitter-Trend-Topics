@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-10 02:43:34 UTC`
+📆 Last Updated: `2023-03-10 03:25:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,23 +17,23 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [#kvinnedagen](http://twitter.com/search?q=%23kvinnedagen) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 3 | [helseplattformen](http://twitter.com/search?q=helseplattformen) | N/A |
 | 4 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 6 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
 | 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 8 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 10 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 11 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
-| 12 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
-| 13 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 17 | [fantastisk](http://twitter.com/search?q=fantastisk) | N/A |
-| 18 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 19 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 8 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 10 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 11 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 12 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
+| 13 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
+| 14 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 17 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 18 | [fantastisk](http://twitter.com/search?q=fantastisk) | N/A |
+| 19 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
 | 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 21 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
 | 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |

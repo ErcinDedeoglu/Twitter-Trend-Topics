@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-10 02:44:08 UTC`
+📆 Last Updated: `2023-03-10 03:25:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Norway
 | ------- | ------------ | ------------ |
 | 1 | [#kvinnedagen](http://twitter.com/search?q=%23kvinnedagen) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 3 | [helseplattformen](http://twitter.com/search?q=helseplattformen) | N/A |
 | 4 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 6 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for Norway
 | 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 17 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 | 18 | [fantastisk](http://twitter.com/search?q=fantastisk) | N/A |
-| 19 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 19 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
 | 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 21 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
 | 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |

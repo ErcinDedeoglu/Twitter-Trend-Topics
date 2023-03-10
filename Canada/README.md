@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-10 02:44:04 UTC`
+📆 Last Updated: `2023-03-10 03:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,18 +21,18 @@ This is top 50 for Canada
 | 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 5 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 6 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 7 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 8 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 9 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 10 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 11 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 12 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
-| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 7 | [#trudeauchineseasset](http://twitter.com/search?q=%23trudeauchineseasset) | N/A |
+| 8 | [ben taylor](http://twitter.com/search?q=ben+taylor) | N/A |
+| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 11 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 12 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 13 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
 | 14 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
 | 15 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
 | 16 | [grade 11](http://twitter.com/search?q=grade+11) | N/A |
 | 17 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 18 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 18 | [fred vanvleet](http://twitter.com/search?q=fred+vanvleet) | N/A |
 | 19 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
 | 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 21 | [Holi](http://twitter.com/search?q=Holi) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Canada
 | 43 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
 | 44 | [Costco](http://twitter.com/search?q=Costco) | N/A |
 | 45 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 46 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 47 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
-| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 50 | [la grc](http://twitter.com/search?q=la+grc) | N/A |
+| 46 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 47 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 48 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
+| 49 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

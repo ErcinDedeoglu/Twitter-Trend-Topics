@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-10 02:44:09 UTC`
+📆 Last Updated: `2023-03-10 03:25:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [sporting](http://twitter.com/search?q=sporting) | N/A |
-| 2 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 2 | [sporting](http://twitter.com/search?q=sporting) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 4 | [INÁCIO](http://twitter.com/search?q=IN%c3%81CIO) | N/A |
 | 5 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
@@ -25,19 +25,19 @@ This is top 50 for Portugal
 | 8 | [Coates](http://twitter.com/search?q=Coates) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 10 | [St Juste](http://twitter.com/search?q=St+Juste) | N/A |
-| 11 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 11 | [adan](http://twitter.com/search?q=adan) | N/A |
 | 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 13 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
 | 14 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 15 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
-| 16 | [feliz dia da mulher](http://twitter.com/search?q=feliz+dia+da+mulher) | N/A |
-| 17 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 15 | [feliz dia da mulher](http://twitter.com/search?q=feliz+dia+da+mulher) | N/A |
+| 16 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
 | 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 20 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
 | 21 | [bellerin](http://twitter.com/search?q=bellerin) | N/A |
 | 22 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 23 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
+| 23 | [trincão](http://twitter.com/search?q=trinc%c3%a3o) | N/A |
 | 24 | [nuno mendes](http://twitter.com/search?q=nuno+mendes) | N/A |
 | 25 | [Morita](http://twitter.com/search?q=Morita) | N/A |
 | 26 | [palhinha](http://twitter.com/search?q=palhinha) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Portugal
 | 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 31 | [#SCPARS](http://twitter.com/search?q=%23SCPARS) | N/A |
 | 32 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 33 | [nuno santos](http://twitter.com/search?q=nuno+santos) | N/A |
+| 33 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
 | 34 | [#otriângulotvi](http://twitter.com/search?q=%23otri%c3%a2ngulotvi) | N/A |
 | 35 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 36 | [al musrati](http://twitter.com/search?q=al+musrati) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Portugal
 | 44 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 45 | [mata as minhas curiosidades](http://twitter.com/search?q=mata+as+minhas+curiosidades) | N/A |
 | 46 | [Geórgia](http://twitter.com/search?q=Ge%c3%b3rgia) | N/A |
-| 47 | [Pedro Gonçalves](http://twitter.com/search?q=Pedro+Gon%c3%a7alves) | N/A |
-| 48 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
+| 47 | [pedro gonçalves](http://twitter.com/search?q=pedro+gon%c3%a7alves) | N/A |
+| 48 | [antónio silva](http://twitter.com/search?q=ant%c3%b3nio+silva) | N/A |
 | 49 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
-| 50 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 50 | [ugarte](http://twitter.com/search?q=ugarte) | N/A |
 
 
 

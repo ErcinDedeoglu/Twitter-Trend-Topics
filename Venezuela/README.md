@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-10 02:44:11 UTC`
+📆 Last Updated: `2023-03-10 03:25:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Venezuela
 | 10 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 11 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
 | 12 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 13 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 14 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 13 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 14 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
 | 15 | [sarago](http://twitter.com/search?q=sarago) | N/A |
 | 16 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
 | 17 | [julio montoya](http://twitter.com/search?q=julio+montoya) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for Venezuela
 | 22 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
 | 23 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
 | 24 | [lila morillo](http://twitter.com/search?q=lila+morillo) | N/A |
-| 25 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
+| 25 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
 | 26 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
 | 27 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
 | 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
@@ -54,14 +54,14 @@ This is top 50 for Venezuela
 | 37 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
 | 38 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
 | 39 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
-| 40 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
-| 41 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
-| 42 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
-| 43 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 44 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 45 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 46 | [guayana](http://twitter.com/search?q=guayana) | N/A |
-| 47 | [Cova](http://twitter.com/search?q=Cova) | N/A |
+| 40 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
+| 41 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
+| 42 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 43 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
+| 44 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 45 | [guayana](http://twitter.com/search?q=guayana) | N/A |
+| 46 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
+| 47 | [cova](http://twitter.com/search?q=cova) | N/A |
 | 48 | [mechada](http://twitter.com/search?q=mechada) | N/A |
 | 49 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
 | 50 | [hugo rafael chávez frías](http://twitter.com/search?q=hugo+rafael+ch%c3%a1vez+fr%c3%adas) | N/A |

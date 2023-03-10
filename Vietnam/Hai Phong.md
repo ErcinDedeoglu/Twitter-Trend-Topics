@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-10 02:43:43 UTC`
+📆 Last Updated: `2023-03-10 03:25:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 24 | [jimin mood photo](http://twitter.com/search?q=jimin+mood+photo) | N/A |
 | 25 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
 | 26 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 27 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 28 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 30 | [sông lam](http://twitter.com/search?q=s%c3%b4ng+lam) | N/A |
-| 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 32 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 33 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 35 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 36 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 37 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 38 | [thanh](http://twitter.com/search?q=thanh) | N/A |
-| 39 | [layer 2](http://twitter.com/search?q=layer+2) | N/A |
-| 40 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 41 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
-| 42 | [wo long fallen dynasty](http://twitter.com/search?q=wo+long+fallen+dynasty) | N/A |
-| 43 | [Peer](http://twitter.com/search?q=Peer) | N/A |
-| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 46 | [chưa](http://twitter.com/search?q=ch%c6%b0a) | N/A |
-| 47 | [#merpclubxbounprem](http://twitter.com/search?q=%23merpclubxbounprem) | N/A |
-| 48 | [#FaceConceptPhoto](http://twitter.com/search?q=%23FaceConceptPhoto) | N/A |
-| 49 | [#onnytomoxcharlotte](http://twitter.com/search?q=%23onnytomoxcharlotte) | N/A |
-| 50 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
+| 27 | [hanoi](http://twitter.com/search?q=hanoi) | N/A |
+| 28 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 31 | [sông lam](http://twitter.com/search?q=s%c3%b4ng+lam) | N/A |
+| 32 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 33 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 34 | [dapps](http://twitter.com/search?q=dapps) | N/A |
+| 35 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 36 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
+| 37 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 38 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 39 | [thanh](http://twitter.com/search?q=thanh) | N/A |
+| 40 | [layer 2](http://twitter.com/search?q=layer+2) | N/A |
+| 41 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 42 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
+| 43 | [wo long fallen dynasty](http://twitter.com/search?q=wo+long+fallen+dynasty) | N/A |
+| 44 | [Peer](http://twitter.com/search?q=Peer) | N/A |
+| 45 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 46 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 47 | [chưa](http://twitter.com/search?q=ch%c6%b0a) | N/A |
+| 48 | [#merpclubxbounprem](http://twitter.com/search?q=%23merpclubxbounprem) | N/A |
+| 49 | [#FaceConceptPhoto](http://twitter.com/search?q=%23FaceConceptPhoto) | N/A |
+| 50 | [#onnytomoxcharlotte](http://twitter.com/search?q=%23onnytomoxcharlotte) | N/A |
 
 
 

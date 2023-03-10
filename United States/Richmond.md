@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-10 02:44:01 UTC`
+📆 Last Updated: `2023-03-10 03:25:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,19 +18,19 @@ This is top 50 for [United States](</United States>)
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 7 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 8 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 9 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 10 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 6 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 8 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 9 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 10 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
 | 11 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 13 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 14 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 16 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 15 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 16 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 17 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
 | 18 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
 | 19 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
@@ -44,26 +44,26 @@ This is top 50 for [United States](</United States>)
 | 27 | [ravens](http://twitter.com/search?q=ravens) | N/A |
 | 28 | [ANTIFA](http://twitter.com/search?q=ANTIFA) | N/A |
 | 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 31 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
-| 34 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 35 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 36 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 37 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 38 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 39 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 40 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 42 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 43 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 44 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 45 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 46 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 47 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 48 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 49 | [packers](http://twitter.com/search?q=packers) | N/A |
+| 30 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 31 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 32 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 33 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
+| 36 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 37 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 38 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 39 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 40 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 43 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 44 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 45 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 46 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 47 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 48 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 49 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-10 02:43:45 UTC`
+📆 Last Updated: `2023-03-10 03:25:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#skeemsaam](http://twitter.com/search?q=%23skeemsaam) | N/A |
 | 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 5 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
+| 4 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
+| 5 | [nehawu](http://twitter.com/search?q=nehawu) | N/A |
 | 6 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
 | 7 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
 | 8 | [#bulatheweekend](http://twitter.com/search?q=%23bulatheweekend) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for [South Africa](</South Africa>)
 | 12 | [slee](http://twitter.com/search?q=slee) | N/A |
 | 13 | [amstel](http://twitter.com/search?q=amstel) | N/A |
 | 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 16 | [ipeleng the finalist](http://twitter.com/search?q=ipeleng+the+finalist) | N/A |
-| 17 | [amazulu](http://twitter.com/search?q=amazulu) | N/A |
-| 18 | [wash](http://twitter.com/search?q=wash) | N/A |
-| 19 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
-| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 21 | [castle lite](http://twitter.com/search?q=castle+lite) | N/A |
-| 22 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 23 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 24 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 15 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 16 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 17 | [ipeleng the finalist](http://twitter.com/search?q=ipeleng+the+finalist) | N/A |
+| 18 | [amazulu](http://twitter.com/search?q=amazulu) | N/A |
+| 19 | [wash](http://twitter.com/search?q=wash) | N/A |
+| 20 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
+| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 22 | [castle lite](http://twitter.com/search?q=castle+lite) | N/A |
+| 23 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 24 | [orania](http://twitter.com/search?q=orania) | N/A |
 | 25 | [sadtu](http://twitter.com/search?q=sadtu) | N/A |
 | 26 | [xoli](http://twitter.com/search?q=xoli) | N/A |
 | 27 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
 | 28 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
 | 29 | [dishes](http://twitter.com/search?q=dishes) | N/A |
 | 30 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
-| 31 | [soshanguve](http://twitter.com/search?q=soshanguve) | N/A |
-| 32 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 33 | [west indies](http://twitter.com/search?q=west+indies) | N/A |
-| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 35 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 36 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
-| 37 | [gwede](http://twitter.com/search?q=gwede) | N/A |
-| 38 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 40 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [blue aiva the superstar](http://twitter.com/search?q=blue+aiva+the+superstar) | N/A |
-| 43 | [somizi](http://twitter.com/search?q=somizi) | N/A |
-| 44 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
-| 45 | [exit](http://twitter.com/search?q=exit) | N/A |
-| 46 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 47 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 48 | [block 14](http://twitter.com/search?q=block+14) | N/A |
-| 49 | [canal walk](http://twitter.com/search?q=canal+walk) | N/A |
-| 50 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [soshanguve](http://twitter.com/search?q=soshanguve) | N/A |
+| 33 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 34 | [west indies](http://twitter.com/search?q=west+indies) | N/A |
+| 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 36 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 37 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 38 | [gwede](http://twitter.com/search?q=gwede) | N/A |
+| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 41 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [blue aiva the superstar](http://twitter.com/search?q=blue+aiva+the+superstar) | N/A |
+| 44 | [somizi](http://twitter.com/search?q=somizi) | N/A |
+| 45 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
+| 46 | [exit](http://twitter.com/search?q=exit) | N/A |
+| 47 | [sane](http://twitter.com/search?q=sane) | N/A |
+| 48 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 49 | [block 14](http://twitter.com/search?q=block+14) | N/A |
+| 50 | [canal walk](http://twitter.com/search?q=canal+walk) | N/A |
 
 
 

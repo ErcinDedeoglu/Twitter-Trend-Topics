@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-10 02:44:11 UTC`
+📆 Last Updated: `2023-03-10 03:25:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for United States
 | 25 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
 | 26 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
 | 27 | [ravens](http://twitter.com/search?q=ravens) | N/A |
-| 28 | [ANTIFA](http://twitter.com/search?q=ANTIFA) | N/A |
+| 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 30 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
 | 31 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for United States
 | 36 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
 | 37 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
 | 38 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 39 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 41 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 42 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 43 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 44 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 45 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 46 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 47 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 48 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 49 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 50 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 39 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 40 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 43 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 44 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 45 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 46 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 47 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 48 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 49 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 50 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
 
 
 

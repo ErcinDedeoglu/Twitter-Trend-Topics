@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-10 02:44:11 UTC`
+📆 Last Updated: `2023-03-10 03:25:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [#GermanOpen2023](http://twitter.com/search?q=%23GermanOpen2023) | N/A |
 | 6 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
-| 9 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
-| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 8 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
+| 9 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 10 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
 | 11 | [macc](http://twitter.com/search?q=macc) | N/A |
 | 12 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 | 13 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 14 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 16 | [current job](http://twitter.com/search?q=current+job) | N/A |
+| 15 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 16 | [spurs](http://twitter.com/search?q=spurs) | N/A |
 | 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 18 | [klia](http://twitter.com/search?q=klia) | N/A |
 | 19 | [sprm](http://twitter.com/search?q=sprm) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 22 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 24 | [matthew](http://twitter.com/search?q=matthew) | N/A |
 | 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 26 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 27 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 44 | [Yooo](http://twitter.com/search?q=Yooo) | N/A |
 | 45 | [melaka](http://twitter.com/search?q=melaka) | N/A |
 | 46 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 47 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 48 | [lily](http://twitter.com/search?q=lily) | N/A |
+| 47 | [LILY](http://twitter.com/search?q=LILY) | N/A |
+| 48 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 49 | [Chennai](http://twitter.com/search?q=Chennai) | N/A |
 
 
