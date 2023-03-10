@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-10 03:25:39 UTC`
+📆 Last Updated: `2023-03-10 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,13 +46,13 @@ This is top 50 for Turkey
 | 29 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
 | 30 | [togg](http://twitter.com/search?q=togg) | N/A |
 | 31 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 32 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
-| 33 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 34 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
-| 35 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 36 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
-| 37 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
-| 38 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 32 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 33 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
+| 34 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 35 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
+| 36 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 37 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
+| 38 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
 | 39 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
 | 40 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
 | 41 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |

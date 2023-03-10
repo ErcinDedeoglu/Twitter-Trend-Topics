@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-10 03:25:16 UTC`
+📆 Last Updated: `2023-03-10 04:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 4 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 4 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 30 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 31 | [اميره الشعراء](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%b1%d8%a7%d8%a1) | N/A |
 | 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [apple](http://twitter.com/search?q=apple) | N/A |
+| 33 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 34 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
 | 35 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |

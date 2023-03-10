@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-03-10 03:25:30 UTC`
+📆 Last Updated: `2023-03-10 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for [United States](</United States>)
 | 8 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 9 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
 | 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 11 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 12 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 12 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
 | 13 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
 | 15 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
@@ -35,35 +35,35 @@ This is top 50 for [United States](</United States>)
 | 18 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
 | 19 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
 | 20 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 21 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 24 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 25 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 21 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 22 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 25 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
 | 26 | [ravens](http://twitter.com/search?q=ravens) | N/A |
 | 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 29 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 30 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 31 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 32 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
-| 35 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 36 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 37 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 38 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 39 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 40 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 41 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
-| 42 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 43 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 44 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 45 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 46 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 47 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 48 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 49 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 29 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 30 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 31 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
+| 34 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 35 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 36 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 37 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 38 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 39 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 40 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 41 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 42 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 43 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 44 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 45 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 46 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 47 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 48 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 49 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
 
 
 

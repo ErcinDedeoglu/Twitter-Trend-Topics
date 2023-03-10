@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-10 03:25:13 UTC`
+📆 Last Updated: `2023-03-10 04:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Thailand](</Thailand>)
 | 2 | [#ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
 | 3 | [#หยดน้ําตา4EVE_MV](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE_MV) | N/A |
 | 4 | [#tu86](http://twitter.com/search?q=%23tu86) | N/A |
-| 5 | [#JAEMIN](http://twitter.com/search?q=%23JAEMIN) | N/A |
+| 5 | [#JOONG22ndBDMEMORIES](http://twitter.com/search?q=%23JOONG22ndBDMEMORIES) | N/A |
 | 6 | [bambam gm 09march](http://twitter.com/search?q=bambam+gm+09march) | N/A |
 | 7 | [talk with tenlee](http://twitter.com/search?q=talk+with+tenlee) | N/A |
 | 8 | [tears out now](http://twitter.com/search?q=tears+out+now) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Thailand](</Thailand>)
 | 14 | [joyful day09 to engfa](http://twitter.com/search?q=joyful+day09+to+engfa) | N/A |
 | 15 | [mon petra](http://twitter.com/search?q=mon+petra) | N/A |
 | 16 | [happy birthday taeyeon](http://twitter.com/search?q=happy+birthday+taeyeon) | N/A |
-| 17 | [PM 2.5](http://twitter.com/search?q=PM+2.5) | N/A |
+| 17 | [#JAEMIN](http://twitter.com/search?q=%23JAEMIN) | N/A |
 | 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 19 | [#9แสนฟอลตัวพ่อซีพฤกษ์](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
 | 20 | [#provamedxgulflive](http://twitter.com/search?q=%23provamedxgulflive) | N/A |

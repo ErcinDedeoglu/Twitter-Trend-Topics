@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-10 03:25:38 UTC`
+📆 Last Updated: `2023-03-10 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,14 +31,14 @@ This is top 50 for Saudi Arabia
 | 14 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
 | 15 | [غوستافو](http://twitter.com/search?q=%d8%ba%d9%88%d8%b3%d8%aa%d8%a7%d9%81%d9%88) | غوستافو is a Spanish word meaning "gusto" or "taste". It is used to describe the flavor of food or drink. |
 | 16 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 17 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 18 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
-| 19 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 17 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 18 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 19 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 20 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 21 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
 | 22 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 23 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 24 | [شراحيلي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | شراحيلي is an Arabic phrase that translates to "My Darling" in English. It is a term of endearment used to express love and affection. |
+| 23 | [شراحيلي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | شراحيلي is an Arabic phrase that translates to "My Darling" in English. It is a term of endearment used to express love and affection. |
+| 24 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 25 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 26 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
 | 27 | [سعد السبيعي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Saudi Arabia
 | 45 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
 | 46 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
 | 47 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 48 | [ملعب الجوهره](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 48 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
 | 49 | [المراه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 50 | [فتح باب القبول](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84) | N/A |
 

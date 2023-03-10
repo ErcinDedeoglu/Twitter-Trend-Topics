@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-10 03:24:54 UTC`
+📆 Last Updated: `2023-03-10 04:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#HueleMal](http://twitter.com/search?q=%23HueleMal) | N/A |
-| 5 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 5 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
 | 8 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
 | 9 | [augusto rodríguez](http://twitter.com/search?q=augusto+rodr%c3%adguez) | N/A |
-| 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 13 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 14 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
-| 15 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 16 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 17 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
-| 18 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 19 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 20 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 21 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 22 | [la unp](http://twitter.com/search?q=la+unp) | N/A |
-| 23 | [Coliseo de Gaira](http://twitter.com/search?q=Coliseo+de+Gaira) | N/A |
-| 24 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 25 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
-| 26 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 27 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
-| 28 | [pons](http://twitter.com/search?q=pons) | N/A |
-| 29 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 30 | [unidad nacional de protección](http://twitter.com/search?q=unidad+nacional+de+protecci%c3%b3n) | N/A |
-| 31 | [pericongo](http://twitter.com/search?q=pericongo) | N/A |
-| 32 | [iván mordisco](http://twitter.com/search?q=iv%c3%a1n+mordisco) | N/A |
-| 33 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 34 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 35 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 36 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
-| 37 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 38 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 39 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 40 | [maría isabel urrutia](http://twitter.com/search?q=mar%c3%ada+isabel+urrutia) | N/A |
-| 41 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 42 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 44 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 45 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 46 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
-| 47 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 48 | [en brasil](http://twitter.com/search?q=en+brasil) | N/A |
-| 49 | [wilfrido](http://twitter.com/search?q=wilfrido) | N/A |
-| 50 | [carlos pizarro](http://twitter.com/search?q=carlos+pizarro) | N/A |
+| 10 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 11 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 14 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 15 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 16 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 17 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 18 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 19 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
+| 20 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 22 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 23 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 24 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 25 | [la unp](http://twitter.com/search?q=la+unp) | N/A |
+| 26 | [Coliseo de Gaira](http://twitter.com/search?q=Coliseo+de+Gaira) | N/A |
+| 27 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 28 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
+| 29 | [bancolombia](http://twitter.com/search?q=bancolombia) | N/A |
+| 30 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 31 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
+| 32 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 33 | [pons](http://twitter.com/search?q=pons) | N/A |
+| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 35 | [pericongo](http://twitter.com/search?q=pericongo) | N/A |
+| 36 | [iván mordisco](http://twitter.com/search?q=iv%c3%a1n+mordisco) | N/A |
+| 37 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
+| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 39 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
+| 40 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 41 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 42 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
+| 43 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 44 | [maría isabel urrutia](http://twitter.com/search?q=mar%c3%ada+isabel+urrutia) | N/A |
+| 45 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 46 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 48 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 49 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 50 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
 
 
 

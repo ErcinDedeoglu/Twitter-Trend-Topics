@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-10 03:25:11 UTC`
+📆 Last Updated: `2023-03-10 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [lily](http://twitter.com/search?q=lily) | N/A |
+| 1 | [LILY](http://twitter.com/search?q=LILY) | N/A |
 | 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 3 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
 | 4 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
@@ -28,42 +28,42 @@ This is top 50 for [Philippines](</Philippines>)
 | 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 12 | [gayuma mv out now](http://twitter.com/search?q=gayuma+mv+out+now) | N/A |
 | 13 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 14 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
 | 15 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
 | 16 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
-| 17 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
-| 18 | [jang uk](http://twitter.com/search?q=jang+uk) | N/A |
-| 19 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 17 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 18 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
+| 19 | [jang uk](http://twitter.com/search?q=jang+uk) | N/A |
+| 20 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
 | 21 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
 | 22 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
 | 23 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
 | 24 | [ppop kings](http://twitter.com/search?q=ppop+kings) | N/A |
 | 25 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
 | 26 | [the corrs](http://twitter.com/search?q=the+corrs) | N/A |
-| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 27 | [matthew](http://twitter.com/search?q=matthew) | N/A |
 | 28 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
 | 29 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 31 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 32 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
-| 33 | [inang](http://twitter.com/search?q=inang) | N/A |
-| 34 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
-| 35 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 36 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
-| 37 | [congratulations hobi](http://twitter.com/search?q=congratulations+hobi) | N/A |
+| 30 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 31 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 32 | [inang](http://twitter.com/search?q=inang) | N/A |
+| 33 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
+| 34 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 35 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
+| 36 | [congratulations hobi](http://twitter.com/search?q=congratulations+hobi) | N/A |
+| 37 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 38 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
 | 39 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 40 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 41 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
-| 42 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
-| 43 | [jessey](http://twitter.com/search?q=jessey) | N/A |
-| 44 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
-| 45 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 46 | [akari](http://twitter.com/search?q=akari) | N/A |
-| 47 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 48 | [over me](http://twitter.com/search?q=over+me) | N/A |
-| 49 | [CHOCO MUCHO](http://twitter.com/search?q=CHOCO+MUCHO) | N/A |
+| 40 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
+| 41 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
+| 42 | [jessey](http://twitter.com/search?q=jessey) | N/A |
+| 43 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
+| 44 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
+| 45 | [akari](http://twitter.com/search?q=akari) | N/A |
+| 46 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 47 | [over me](http://twitter.com/search?q=over+me) | N/A |
+| 48 | [CHOCO MUCHO](http://twitter.com/search?q=CHOCO+MUCHO) | N/A |
+| 49 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 50 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
 
 

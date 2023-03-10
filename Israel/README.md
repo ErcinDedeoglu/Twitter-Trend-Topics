@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-10 03:25:35 UTC`
+📆 Last Updated: `2023-03-10 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Israel
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
-| 2 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 1 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 2 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
 | 3 | [יום נישואין](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f) | N/A |
 | 4 | [מפקד חיל](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%97%d7%99%d7%9c) | N/A |
 | 5 | [חיים טופול](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%98%d7%95%d7%a4%d7%95%d7%9c) | N/A |

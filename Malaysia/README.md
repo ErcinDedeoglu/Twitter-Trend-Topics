@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-10 03:25:36 UTC`
+📆 Last Updated: `2023-03-10 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,7 +61,7 @@ This is top 50 for Malaysia
 | 44 | [Yooo](http://twitter.com/search?q=Yooo) | N/A |
 | 45 | [melaka](http://twitter.com/search?q=melaka) | N/A |
 | 46 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 47 | [lily](http://twitter.com/search?q=lily) | N/A |
+| 47 | [LILY](http://twitter.com/search?q=LILY) | N/A |
 | 48 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 49 | [Chennai](http://twitter.com/search?q=Chennai) | N/A |
 | 50 | [Najib](http://twitter.com/search?q=Najib) | N/A |

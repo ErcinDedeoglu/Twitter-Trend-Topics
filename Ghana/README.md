@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-10 03:25:34 UTC`
+📆 Last Updated: `2023-03-10 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Ghana
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [angola](http://twitter.com/search?q=angola) | N/A |
 | 3 | [chris hughton](http://twitter.com/search?q=chris+hughton) | N/A |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 7 | [baba rahman](http://twitter.com/search?q=baba+rahman) | N/A |
 | 8 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
 | 9 | [black stars](http://twitter.com/search?q=black+stars) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Ghana
 | 27 | [patrick kpozo](http://twitter.com/search?q=patrick+kpozo) | N/A |
 | 28 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
 | 29 | [thabang anthem](http://twitter.com/search?q=thabang+anthem) | N/A |
-| 30 | [sammy gyamfi](http://twitter.com/search?q=sammy+gyamfi) | N/A |
+| 30 | [Sammy Gyamfi](http://twitter.com/search?q=Sammy+Gyamfi) | N/A |
 | 31 | [danlad](http://twitter.com/search?q=danlad) | N/A |
 | 32 | [kinbu](http://twitter.com/search?q=kinbu) | N/A |
 | 33 | [kuami eugene](http://twitter.com/search?q=kuami+eugene) | N/A |

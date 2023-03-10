@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-10 03:25:13 UTC`
+📆 Last Updated: `2023-03-10 04:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,9 +27,9 @@ This is top 50 for [Algeria](</Algeria>)
 | 10 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
 | 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 12 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 13 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 14 | [ابن خلدون](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%ae%d9%84%d8%af%d9%88%d9%86) | N/A |
-| 15 | [خديجه بن](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a8%d9%86) | N/A |
+| 13 | [ابن خلدون](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%ae%d9%84%d8%af%d9%88%d9%86) | N/A |
+| 14 | [خديجه بن](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%a8%d9%86) | N/A |
+| 15 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
 | 16 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
 | 17 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 18 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
@@ -40,31 +40,31 @@ This is top 50 for [Algeria](</Algeria>)
 | 23 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 24 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 27 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
 | 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 29 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 30 | [النساء الجزايريات](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
-| 31 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
-| 32 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 33 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 34 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 35 | [الولايات المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 36 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 37 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 38 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 39 | [عبد الرزاق البدر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
-| 40 | [algériennes](http://twitter.com/search?q=alg%c3%a9riennes) | N/A |
-| 41 | [علي وجه الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 42 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 43 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 44 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 45 | [الدول الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 46 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 47 | [كينغ](http://twitter.com/search?q=%d9%83%d9%8a%d9%86%d8%ba) | N/A |
-| 48 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 49 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
-| 50 | [السعيد شنقريحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af+%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9) | N/A |
+| 30 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
+| 31 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 32 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 33 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 34 | [الولايات المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 35 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 36 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 37 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 38 | [عبد الرزاق البدر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%b2%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
+| 39 | [algériennes](http://twitter.com/search?q=alg%c3%a9riennes) | N/A |
+| 40 | [علي وجه الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 41 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 42 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 43 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 44 | [الدول الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 45 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 46 | [كينغ](http://twitter.com/search?q=%d9%83%d9%8a%d9%86%d8%ba) | N/A |
+| 47 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 48 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 49 | [السعيد شنقريحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af+%d8%b4%d9%86%d9%82%d8%b1%d9%8a%d8%ad%d8%a9) | N/A |
+| 50 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 
 
 

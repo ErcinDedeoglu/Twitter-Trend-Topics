@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-10 03:25:34 UTC`
+📆 Last Updated: `2023-03-10 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 

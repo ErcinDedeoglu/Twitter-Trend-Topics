@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-10 03:24:59 UTC`
+📆 Last Updated: `2023-03-10 04:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,7 +48,7 @@ This is top 50 for [France](</France>)
 | 31 | [#Speedons](http://twitter.com/search?q=%23Speedons) | N/A |
 | 32 | [#valrevolution](http://twitter.com/search?q=%23valrevolution) | N/A |
 | 33 | [#ares13](http://twitter.com/search?q=%23ares13) | N/A |
-| 34 | [#spoars](http://twitter.com/search?q=%23spoars) | N/A |
+| 34 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
 | 35 | [#joblife](http://twitter.com/search?q=%23joblife) | N/A |
 | 36 | [#parcoursup](http://twitter.com/search?q=%23parcoursup) | N/A |
 | 37 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
@@ -57,9 +57,6 @@ This is top 50 for [France](</France>)
 | 40 | [#bonuszonebetclic](http://twitter.com/search?q=%23bonuszonebetclic) | N/A |
 | 41 | [#greve9mars](http://twitter.com/search?q=%23greve9mars) | N/A |
 | 42 | [#MarioKart8Deluxe](http://twitter.com/search?q=%23MarioKart8Deluxe) | N/A |
-| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 44 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 45 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
 
 
 

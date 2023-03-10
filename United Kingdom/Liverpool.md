@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-10 03:24:48 UTC`
+📆 Last Updated: `2023-03-10 04:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 5 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 6 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 10 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 11 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 12 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 7 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 12 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
 | 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
 | 14 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 15 | [spurs](http://twitter.com/search?q=spurs) | N/A |
 | 16 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 18 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
@@ -49,22 +49,22 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 32 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 33 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 34 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 35 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 36 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 38 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 39 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 42 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 43 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 44 | [Stop The Boats](http://twitter.com/search?q=Stop+The+Boats) | N/A |
-| 45 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 46 | [home secretary](http://twitter.com/search?q=home+secretary) | N/A |
-| 47 | [ruby walsh](http://twitter.com/search?q=ruby+walsh) | N/A |
-| 48 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 49 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 50 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 35 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 36 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 37 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 38 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 41 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 42 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 43 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 44 | [home secretary](http://twitter.com/search?q=home+secretary) | N/A |
+| 45 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 46 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 47 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 48 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 49 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 50 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
 
 
 

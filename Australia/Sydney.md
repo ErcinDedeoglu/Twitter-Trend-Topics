@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-10 03:25:07 UTC`
+📆 Last Updated: `2023-03-10 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#indvaus](http://twitter.com/search?q=%23indvaus) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 7 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
-| 8 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 7 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 8 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
 | 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 10 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 | 11 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [Australia](</Australia>)
 | 31 | [atkins](http://twitter.com/search?q=atkins) | N/A |
 | 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 33 | [ombudsman](http://twitter.com/search?q=ombudsman) | N/A |
-| 34 | [andrews](http://twitter.com/search?q=andrews) | N/A |
+| 34 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
 | 35 | [ahmedabad](http://twitter.com/search?q=ahmedabad) | N/A |
 | 36 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
 | 37 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 38 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 39 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
 | 40 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
-| 41 | [harry's house](http://twitter.com/search?q=harry%27s+house) | N/A |
+| 41 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
 | 42 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
 | 43 | [fine line](http://twitter.com/search?q=fine+line) | N/A |
-| 44 | [tass](http://twitter.com/search?q=tass) | N/A |
+| 44 | [Tass](http://twitter.com/search?q=Tass) | N/A |
 | 45 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 46 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 47 | [cameron green](http://twitter.com/search?q=cameron+green) | N/A |
-| 48 | [rabbits](http://twitter.com/search?q=rabbits) | N/A |
-| 49 | [jason demetriou](http://twitter.com/search?q=jason+demetriou) | N/A |
-| 50 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 46 | [cameron green](http://twitter.com/search?q=cameron+green) | N/A |
+| 47 | [rabbits](http://twitter.com/search?q=rabbits) | N/A |
+| 48 | [jason demetriou](http://twitter.com/search?q=jason+demetriou) | N/A |
+| 49 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 50 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
 
 
 

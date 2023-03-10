@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-03-10 03:25:19 UTC`
+📆 Last Updated: `2023-03-10 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,7 +41,7 @@ This is top 50 for [Russia](</Russia>)
 | 24 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
 | 25 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 | 26 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
-| 27 | [apple](http://twitter.com/search?q=apple) | N/A |
+| 27 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 28 | [давайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
 | 29 | [полностью](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d0%bd%d0%be%d1%81%d1%82%d1%8c%d1%8e) | N/A |
 | 30 | [господь](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | N/A |

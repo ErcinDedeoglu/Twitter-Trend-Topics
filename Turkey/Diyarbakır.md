@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-10 03:25:23 UTC`
+📆 Last Updated: `2023-03-10 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,33 +37,33 @@ This is top 50 for [Turkey](</Turkey>)
 | 20 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
 | 21 | [haymana mutabakatı](http://twitter.com/search?q=haymana+mutabakat%c4%b1) | N/A |
 | 22 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
-| 23 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
-| 24 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 27 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 28 | [togg](http://twitter.com/search?q=togg) | N/A |
-| 29 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 30 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
-| 31 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 32 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
-| 33 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 34 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
-| 35 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
-| 36 | [şirin](http://twitter.com/search?q=%c5%9firin) | N/A |
-| 37 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
-| 38 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 39 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
-| 40 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
-| 41 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
-| 42 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
-| 43 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 44 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 45 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 46 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 47 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 48 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
-| 49 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 23 | [Teşekkür](http://twitter.com/search?q=Te%c5%9fekk%c3%bcr) | N/A |
+| 24 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
+| 25 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
+| 26 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 27 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 28 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 29 | [togg](http://twitter.com/search?q=togg) | N/A |
+| 30 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 31 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 32 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
+| 33 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 34 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
+| 35 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 36 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
+| 37 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
+| 38 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
+| 39 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
+| 40 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
+| 41 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
+| 42 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
+| 43 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
+| 44 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 45 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 46 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
+| 47 | [Cidden](http://twitter.com/search?q=Cidden) | N/A |
+| 48 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 49 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 
 
 

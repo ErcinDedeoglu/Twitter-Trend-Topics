@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-10 03:25:34 UTC`
+📆 Last Updated: `2023-03-10 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,9 +55,6 @@ This is top 50 for France
 | 38 | [#bonuszonebetclic](http://twitter.com/search?q=%23bonuszonebetclic) | N/A |
 | 39 | [#greve9mars](http://twitter.com/search?q=%23greve9mars) | N/A |
 | 40 | [#MarioKart8Deluxe](http://twitter.com/search?q=%23MarioKart8Deluxe) | N/A |
-| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 42 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 43 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
 
 
 

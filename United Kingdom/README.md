@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-10 03:25:39 UTC`
+📆 Last Updated: `2023-03-10 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for United Kingdom
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 4 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 5 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
 | 7 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 10 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 11 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 12 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
 | 14 | [spurs](http://twitter.com/search?q=spurs) | N/A |
 | 15 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
@@ -56,11 +56,11 @@ This is top 50 for United Kingdom
 | 39 | [Penny](http://twitter.com/search?q=Penny) | N/A |
 | 40 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 41 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 42 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 43 | [home secretary](http://twitter.com/search?q=home+secretary) | N/A |
-| 44 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 42 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 43 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 44 | [home secretary](http://twitter.com/search?q=home+secretary) | N/A |
 | 45 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 46 | [Stop The Boats](http://twitter.com/search?q=Stop+The+Boats) | N/A |
+| 46 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
 | 47 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 48 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 49 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |

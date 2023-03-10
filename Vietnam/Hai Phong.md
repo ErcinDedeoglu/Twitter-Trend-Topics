@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-10 03:25:13 UTC`
+📆 Last Updated: `2023-03-10 04:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,36 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 17 | [tung in los angeles](http://twitter.com/search?q=tung+in+los+angeles) | N/A |
 | 18 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [kava](http://twitter.com/search?q=kava) | N/A |
-| 21 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 22 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [jimin mood photo](http://twitter.com/search?q=jimin+mood+photo) | N/A |
-| 25 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
-| 26 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 27 | [hanoi](http://twitter.com/search?q=hanoi) | N/A |
-| 28 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [sông lam](http://twitter.com/search?q=s%c3%b4ng+lam) | N/A |
-| 32 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 33 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 34 | [dapps](http://twitter.com/search?q=dapps) | N/A |
-| 35 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 36 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 37 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 38 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 39 | [thanh](http://twitter.com/search?q=thanh) | N/A |
-| 40 | [layer 2](http://twitter.com/search?q=layer+2) | N/A |
-| 41 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 42 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
-| 43 | [wo long fallen dynasty](http://twitter.com/search?q=wo+long+fallen+dynasty) | N/A |
-| 44 | [Peer](http://twitter.com/search?q=Peer) | N/A |
-| 45 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 46 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 47 | [chưa](http://twitter.com/search?q=ch%c6%b0a) | N/A |
-| 48 | [#merpclubxbounprem](http://twitter.com/search?q=%23merpclubxbounprem) | N/A |
-| 49 | [#FaceConceptPhoto](http://twitter.com/search?q=%23FaceConceptPhoto) | N/A |
-| 50 | [#onnytomoxcharlotte](http://twitter.com/search?q=%23onnytomoxcharlotte) | N/A |
+| 20 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 21 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
+| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 25 | [hanoi](http://twitter.com/search?q=hanoi) | N/A |
+| 26 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [sông lam](http://twitter.com/search?q=s%c3%b4ng+lam) | N/A |
+| 30 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 31 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 32 | [dapps](http://twitter.com/search?q=dapps) | N/A |
+| 33 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 34 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
+| 35 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 36 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 37 | [thanh](http://twitter.com/search?q=thanh) | N/A |
+| 38 | [layer 2](http://twitter.com/search?q=layer+2) | N/A |
+| 39 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 40 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 41 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
+| 42 | [wo long fallen dynasty](http://twitter.com/search?q=wo+long+fallen+dynasty) | N/A |
+| 43 | [Peer](http://twitter.com/search?q=Peer) | N/A |
+| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 46 | [#merpclubxbounprem](http://twitter.com/search?q=%23merpclubxbounprem) | N/A |
+| 47 | [#FaceConceptPhoto](http://twitter.com/search?q=%23FaceConceptPhoto) | N/A |
+| 48 | [#onnytomoxcharlotte](http://twitter.com/search?q=%23onnytomoxcharlotte) | N/A |
+| 49 | [#geniusminyoongi](http://twitter.com/search?q=%23geniusminyoongi) | N/A |
 
 
 

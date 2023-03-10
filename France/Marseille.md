@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-10 03:24:59 UTC`
+📆 Last Updated: `2023-03-10 04:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,7 +46,7 @@ This is top 50 for [France](</France>)
 | 29 | [#Speedons](http://twitter.com/search?q=%23Speedons) | N/A |
 | 30 | [#valrevolution](http://twitter.com/search?q=%23valrevolution) | N/A |
 | 31 | [#ares13](http://twitter.com/search?q=%23ares13) | N/A |
-| 32 | [#spoars](http://twitter.com/search?q=%23spoars) | N/A |
+| 32 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
 | 33 | [#joblife](http://twitter.com/search?q=%23joblife) | N/A |
 | 34 | [#parcoursup](http://twitter.com/search?q=%23parcoursup) | N/A |
 | 35 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |

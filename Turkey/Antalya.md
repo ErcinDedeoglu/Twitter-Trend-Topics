@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-10 03:25:23 UTC`
+📆 Last Updated: `2023-03-10 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Turkey](</Turkey>)
 | 13 | [aslı baykal](http://twitter.com/search?q=asl%c4%b1+baykal) | N/A |
 | 14 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
 | 15 | [bisiklet](http://twitter.com/search?q=bisiklet) | N/A |
-| 16 | [mücahit kılıçdaroğlu](http://twitter.com/search?q=m%c3%bccahit+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 17 | [kıyma 300](http://twitter.com/search?q=k%c4%b1yma+300) | N/A |
-| 18 | [i̇smet demirdöğen](http://twitter.com/search?q=i%cc%87smet+demird%c3%b6%c4%9fen) | N/A |
-| 19 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 20 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 21 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 16 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 17 | [mücahit kılıçdaroğlu](http://twitter.com/search?q=m%c3%bccahit+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 18 | [kıyma 300](http://twitter.com/search?q=k%c4%b1yma+300) | N/A |
+| 19 | [i̇smet demirdöğen](http://twitter.com/search?q=i%cc%87smet+demird%c3%b6%c4%9fen) | N/A |
+| 20 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
+| 21 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
 | 22 | [haymana mutabakatı](http://twitter.com/search?q=haymana+mutabakat%c4%b1) | N/A |
 | 23 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
-| 24 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
-| 25 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
-| 26 | [İrfan Can](http://twitter.com/search?q=%c4%b0rfan+Can) | İrfan Can is a Turkish given name. It is composed of two words: İrfan, which means "knowledge" or "erudition," and Can, which means "soul" or "spirit." In English, the name could be translated as "Knowledgeable Soul." |
+| 24 | [Teşekkür](http://twitter.com/search?q=Te%c5%9fekk%c3%bcr) | N/A |
+| 25 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
+| 26 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
 | 27 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 28 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
 | 29 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
 | 30 | [togg](http://twitter.com/search?q=togg) | N/A |
 | 31 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 32 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
-| 33 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 34 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
-| 35 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 36 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
-| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 32 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 33 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
+| 34 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 35 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
+| 36 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 37 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
 | 38 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
-| 39 | [şirin](http://twitter.com/search?q=%c5%9firin) | N/A |
-| 40 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
-| 41 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 42 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 43 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
-| 44 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
-| 45 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
-| 46 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
-| 47 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 48 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 49 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
-| 50 | [Avrupa'da](http://twitter.com/search?q=Avrupa%27da) | N/A |
+| 39 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
+| 40 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
+| 41 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
+| 42 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
+| 43 | [kaptan](http://twitter.com/search?q=kaptan) | N/A |
+| 44 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
+| 45 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 46 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 47 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
+| 48 | [Cidden](http://twitter.com/search?q=Cidden) | N/A |
+| 49 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 50 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 
 
 

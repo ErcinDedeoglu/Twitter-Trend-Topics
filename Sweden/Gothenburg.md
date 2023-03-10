@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-10 03:25:05 UTC`
+📆 Last Updated: `2023-03-10 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,36 @@ This is top 50 for [Sweden](</Sweden>)
 | 17 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
 | 18 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
 | 19 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 20 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 21 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 24 | [cibus](http://twitter.com/search?q=cibus) | N/A |
-| 25 | [skalk](http://twitter.com/search?q=skalk) | N/A |
-| 26 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 27 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 28 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
-| 29 | [karlin](http://twitter.com/search?q=karlin) | N/A |
-| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 31 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
-| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 34 | [tbilisi](http://twitter.com/search?q=tbilisi) | N/A |
-| 35 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 37 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
-| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 39 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 40 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 41 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 42 | [Allsvenskan](http://twitter.com/search?q=Allsvenskan) | N/A |
-| 43 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
-| 44 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
-| 45 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 46 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
-| 47 | [nordnet](http://twitter.com/search?q=nordnet) | N/A |
-| 48 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 49 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 20 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 21 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 22 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 25 | [cibus](http://twitter.com/search?q=cibus) | N/A |
+| 26 | [skalk](http://twitter.com/search?q=skalk) | N/A |
+| 27 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
+| 28 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 29 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
+| 30 | [karlin](http://twitter.com/search?q=karlin) | N/A |
+| 31 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 32 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
+| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 35 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 36 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
+| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
+| 39 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 40 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 41 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 42 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 43 | [Allsvenskan](http://twitter.com/search?q=Allsvenskan) | N/A |
+| 44 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
+| 45 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
+| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 47 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 48 | [nordnet](http://twitter.com/search?q=nordnet) | N/A |
+| 49 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 
 
 

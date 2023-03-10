@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-10 03:25:33 UTC`
+📆 Last Updated: `2023-03-10 04:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 7 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 7 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
 | 8 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
 | 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 10 | [Antic](http://twitter.com/search?q=Antic) | N/A |

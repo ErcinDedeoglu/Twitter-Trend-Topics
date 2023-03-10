@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-10 03:24:54 UTC`
+📆 Last Updated: `2023-03-10 04:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,23 +25,23 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 10 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 11 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
-| 12 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 13 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 11 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 12 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 13 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
 | 14 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
-| 15 | [sarago](http://twitter.com/search?q=sarago) | N/A |
+| 15 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
 | 16 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
 | 17 | [julio montoya](http://twitter.com/search?q=julio+montoya) | N/A |
 | 18 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 21 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 22 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 23 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 22 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 23 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
 | 24 | [lila morillo](http://twitter.com/search?q=lila+morillo) | N/A |
-| 25 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 26 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
-| 27 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
+| 25 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
+| 26 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
+| 27 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
 | 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 30 | [orencio](http://twitter.com/search?q=orencio) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 46 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
 | 47 | [cova](http://twitter.com/search?q=cova) | N/A |
 | 48 | [mechada](http://twitter.com/search?q=mechada) | N/A |
-| 49 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 50 | [hugo rafael chávez frías](http://twitter.com/search?q=hugo+rafael+ch%c3%a1vez+fr%c3%adas) | N/A |
+| 49 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 50 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
 
 
 

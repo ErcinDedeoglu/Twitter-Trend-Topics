@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-10 03:25:37 UTC`
+📆 Last Updated: `2023-03-10 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for Peru
 | 16 | [binacional](http://twitter.com/search?q=binacional) | N/A |
 | 17 | [Piura](http://twitter.com/search?q=Piura) | N/A |
 | 18 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
-| 19 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 20 | [fuentes](http://twitter.com/search?q=fuentes) | N/A |
-| 21 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
-| 22 | [arguedas](http://twitter.com/search?q=arguedas) | N/A |
-| 23 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 24 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 25 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
+| 19 | [fuentes](http://twitter.com/search?q=fuentes) | N/A |
+| 20 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
+| 21 | [arguedas](http://twitter.com/search?q=arguedas) | N/A |
+| 22 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 23 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 24 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
+| 25 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
 | 26 | [abel](http://twitter.com/search?q=abel) | N/A |
 | 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |

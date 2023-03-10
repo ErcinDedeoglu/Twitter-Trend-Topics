@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-10 03:25:39 UTC`
+📆 Last Updated: `2023-03-10 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,7 @@ This is top 50 for Ukraine
 | 46 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
 | 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 48 | [запада](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
-| 49 | [black sea](http://twitter.com/search?q=black+sea) | N/A |
+| 49 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 50 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 
 

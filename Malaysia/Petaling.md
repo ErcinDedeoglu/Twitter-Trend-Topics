@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-10 03:25:40 UTC`
+📆 Last Updated: `2023-03-10 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,7 +50,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 33 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
 | 34 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
 | 35 | [abah](http://twitter.com/search?q=abah) | N/A |
-| 36 | [jeff wise](http://twitter.com/search?q=jeff+wise) | N/A |
+| 36 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
 | 37 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
 | 38 | [build always on top](http://twitter.com/search?q=build+always+on+top) | N/A |
 | 39 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |

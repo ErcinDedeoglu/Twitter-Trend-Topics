@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-10 03:25:14 UTC`
+📆 Last Updated: `2023-03-10 04:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 6 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 9 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Lasuth](http://twitter.com/search?q=Lasuth) | N/A |
-| 14 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 15 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 16 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
-| 17 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 18 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 19 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 20 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 21 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 22 | [brt bus](http://twitter.com/search?q=brt+bus) | N/A |
-| 23 | [Wetin](http://twitter.com/search?q=Wetin) | N/A |
-| 24 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 26 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [kanaga jnr is a star](http://twitter.com/search?q=kanaga+jnr+is+a+star) | N/A |
-| 29 | [the brt](http://twitter.com/search?q=the+brt) | N/A |
-| 30 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
-| 31 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 32 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 33 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 34 | [obey court order](http://twitter.com/search?q=obey+court+order) | N/A |
-| 35 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 36 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
-| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 38 | [mark essien](http://twitter.com/search?q=mark+essien) | N/A |
-| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 40 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 41 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 42 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 43 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 44 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 47 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 48 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 49 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [#reno8t](http://twitter.com/search?q=%23reno8t) | N/A |
+| 9 | [Lasuth](http://twitter.com/search?q=Lasuth) | N/A |
+| 10 | [#activateyoursim](http://twitter.com/search?q=%23activateyoursim) | N/A |
+| 11 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 12 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 13 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
+| 14 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 15 | [brt bus](http://twitter.com/search?q=brt+bus) | N/A |
+| 16 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 19 | [kanaga jnr is a star](http://twitter.com/search?q=kanaga+jnr+is+a+star) | N/A |
+| 20 | [the brt](http://twitter.com/search?q=the+brt) | N/A |
+| 21 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 22 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 23 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 24 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
+| 25 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 26 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
+| 27 | [mark essien](http://twitter.com/search?q=mark+essien) | N/A |
+| 28 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 29 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 30 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 31 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 32 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 33 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 34 | [wetin brt](http://twitter.com/search?q=wetin+brt) | N/A |
+| 35 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 36 | [twitter san](http://twitter.com/search?q=twitter+san) | N/A |
+| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 38 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 39 | [happy birthday grv](http://twitter.com/search?q=happy+birthday+grv) | N/A |
+| 40 | [compromise inec](http://twitter.com/search?q=compromise+inec) | N/A |
+| 41 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 42 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 43 | [sporting](http://twitter.com/search?q=sporting) | N/A |
+| 44 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 45 | [God Open My Door](http://twitter.com/search?q=God+Open+My+Door) | N/A |
+| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 47 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 48 | [almighty rufai](http://twitter.com/search?q=almighty+rufai) | N/A |
+| 49 | [obidients in abuja](http://twitter.com/search?q=obidients+in+abuja) | N/A |
 
 
 

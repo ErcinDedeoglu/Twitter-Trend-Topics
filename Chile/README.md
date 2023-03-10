@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-10 03:25:33 UTC`
+📆 Last Updated: `2023-03-10 04:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
-| 2 | [Jiles](http://twitter.com/search?q=Jiles) | N/A |
-| 3 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 4 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 2 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
+| 3 | [Jiles](http://twitter.com/search?q=Jiles) | N/A |
+| 4 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 5 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 6 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 7 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 8 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 9 | [#GobiernoTerminado](http://twitter.com/search?q=%23GobiernoTerminado) | N/A |
-| 10 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 7 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
+| 8 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 9 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 10 | [#GobiernoTerminado](http://twitter.com/search?q=%23GobiernoTerminado) | N/A |
 | 11 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 12 | [dgac](http://twitter.com/search?q=dgac) | N/A |
 | 13 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |

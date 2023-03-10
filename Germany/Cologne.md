@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-10 03:25:01 UTC`
+📆 Last Updated: `2023-03-10 04:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,12 +29,12 @@ This is top 50 for [Germany](</Germany>)
 | 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
 | 13 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
 | 14 | [yacht](http://twitter.com/search?q=yacht) | N/A |
-| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
-| 16 | [männern](http://twitter.com/search?q=m%c3%a4nnern) | N/A |
-| 17 | [pipeline](http://twitter.com/search?q=pipeline) | N/A |
-| 18 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
-| 19 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 20 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 15 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 16 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
+| 17 | [männern](http://twitter.com/search?q=m%c3%a4nnern) | N/A |
+| 18 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 19 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
+| 20 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
 | 21 | [taucher](http://twitter.com/search?q=taucher) | N/A |
 | 22 | [flinta](http://twitter.com/search?q=flinta) | N/A |
 | 23 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [Germany](</Germany>)
 | 36 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
 | 37 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
 | 38 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 39 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 40 | [blumen](http://twitter.com/search?q=blumen) | N/A |
-| 41 | [sprengung](http://twitter.com/search?q=sprengung) | N/A |
-| 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 43 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 44 | [patientenakte](http://twitter.com/search?q=patientenakte) | N/A |
-| 45 | [zehner](http://twitter.com/search?q=zehner) | N/A |
-| 46 | [wärmepumpen](http://twitter.com/search?q=w%c3%a4rmepumpen) | N/A |
-| 47 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 48 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 49 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 50 | [internationalen](http://twitter.com/search?q=internationalen) | N/A |
+| 39 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 40 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 41 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 42 | [blumen](http://twitter.com/search?q=blumen) | N/A |
+| 43 | [sprengung](http://twitter.com/search?q=sprengung) | N/A |
+| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 45 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 46 | [patientenakte](http://twitter.com/search?q=patientenakte) | N/A |
+| 47 | [wärmepumpen](http://twitter.com/search?q=w%c3%a4rmepumpen) | N/A |
+| 48 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 49 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 50 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 
 
 

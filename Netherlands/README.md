@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-10 03:25:37 UTC`
+📆 Last Updated: `2023-03-10 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,8 +35,8 @@ This is top 50 for Netherlands
 | 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 19 | [dijsselbloem](http://twitter.com/search?q=dijsselbloem) | N/A |
 | 20 | [alliander](http://twitter.com/search?q=alliander) | N/A |
-| 21 | [kapje](http://twitter.com/search?q=kapje) | N/A |
-| 22 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 21 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 22 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 23 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
 | 24 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
 | 25 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |

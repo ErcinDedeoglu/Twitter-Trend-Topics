@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-10 03:25:32 UTC`
+📆 Last Updated: `2023-03-10 04:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [India](</India>)
 | 4 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
 | 5 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
 | 6 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 7 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 8 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 7 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 8 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
 | 9 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
 | 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
@@ -32,9 +32,9 @@ This is top 50 for [India](</India>)
 | 15 | [bharat ratna](http://twitter.com/search?q=bharat+ratna) | N/A |
 | 16 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 17 | [no headway inssrcase](http://twitter.com/search?q=no+headway+inssrcase) | N/A |
-| 18 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
-| 19 | [calendar](http://twitter.com/search?q=calendar) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 18 | [calendar](http://twitter.com/search?q=calendar) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
 | 21 | [ks bharat](http://twitter.com/search?q=ks+bharat) | N/A |
 | 22 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
 | 23 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
@@ -50,17 +50,20 @@ This is top 50 for [India](</India>)
 | 33 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
 | 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 35 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 36 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 37 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
-| 38 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 39 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 40 | [Thik](http://twitter.com/search?q=Thik) | N/A |
-| 41 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 42 | [#narendramodistadium](http://twitter.com/search?q=%23narendramodistadium) | N/A |
-| 43 | [#riplegend](http://twitter.com/search?q=%23riplegend) | N/A |
-| 44 | [#shindekamahabudget](http://twitter.com/search?q=%23shindekamahabudget) | N/A |
-| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 46 | [#boycottbharatmatrimony](http://twitter.com/search?q=%23boycottbharatmatrimony) | N/A |
+| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 37 | [Analysis](http://twitter.com/search?q=Analysis) | N/A |
+| 38 | [Pixel](http://twitter.com/search?q=Pixel) | N/A |
+| 39 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
+| 40 | [Platform](http://twitter.com/search?q=Platform) | N/A |
+| 41 | [kate](http://twitter.com/search?q=kate) | N/A |
+| 42 | [Poora](http://twitter.com/search?q=Poora) | N/A |
+| 43 | [Balaji](http://twitter.com/search?q=Balaji) | N/A |
+| 44 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
+| 45 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 46 | [Aryan](http://twitter.com/search?q=Aryan) | N/A |
+| 47 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [Jai Hind](http://twitter.com/search?q=Jai+Hind) | Jai Hind is a Hindi phrase meaning “Victory to India” or “Long live India”. It is commonly used as a patriotic slogan to express support for India and its people. |
 
 
 

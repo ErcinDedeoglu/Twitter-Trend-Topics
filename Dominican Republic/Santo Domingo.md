@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-10 03:24:50 UTC`
+📆 Last Updated: `2023-03-10 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
 | 4 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
 | 5 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
-| 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
 | 7 | [bandera dominicana](http://twitter.com/search?q=bandera+dominicana) | N/A |
 | 8 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-10 03:25:20 UTC`
+📆 Last Updated: `2023-03-10 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,17 +54,17 @@ This is top 50 for [Oman](</Oman>)
 | 37 | [الحالات الطاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
 | 38 | [٨ مارس](http://twitter.com/search?q=%d9%a8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 39 | [الفوز المستحق](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ad%d9%82) | N/A |
-| 40 | [شباب عمان الثانيه](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%b9%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 41 | [فرع الغرفه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%ba%d8%b1%d9%81%d9%87) | N/A |
-| 42 | [التعلم الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
-| 43 | [مجمع السلطان](http://twitter.com/search?q=%d9%85%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 44 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 45 | [الانذار المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
-| 46 | [تنظيم الاتصالات](http://twitter.com/search?q=%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 47 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 48 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 50 | [ومعرض عمان](http://twitter.com/search?q=%d9%88%d9%85%d8%b9%d8%b1%d8%b6+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 40 | [قادر علي](http://twitter.com/search?q=%d9%82%d8%a7%d8%af%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
+| 41 | [شباب عمان الثانيه](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%b9%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 42 | [فرع الغرفه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%ba%d8%b1%d9%81%d9%87) | N/A |
+| 43 | [التعلم الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
+| 44 | [مجمع السلطان](http://twitter.com/search?q=%d9%85%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 45 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 46 | [الانذار المبكر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1) | N/A |
+| 47 | [تنظيم الاتصالات](http://twitter.com/search?q=%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 48 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
+| 49 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 
 
 

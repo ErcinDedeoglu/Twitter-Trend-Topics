@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-10 03:25:11 UTC`
+📆 Last Updated: `2023-03-10 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [min yoongi](http://twitter.com/search?q=min+yoongi) | N/A |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 7 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 8 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
-| 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 8 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 9 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
 | 10 | [macc](http://twitter.com/search?q=macc) | N/A |
-| 11 | [dream job](http://twitter.com/search?q=dream+job) | N/A |
+| 11 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 | 12 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 13 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 15 | [current job](http://twitter.com/search?q=current+job) | N/A |
+| 14 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 15 | [spurs](http://twitter.com/search?q=spurs) | N/A |
 | 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 17 | [klia](http://twitter.com/search?q=klia) | N/A |
 | 18 | [sprm](http://twitter.com/search?q=sprm) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 21 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 23 | [matthew](http://twitter.com/search?q=matthew) | N/A |
 | 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 25 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 26 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 32 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
 | 33 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
 | 34 | [abah](http://twitter.com/search?q=abah) | N/A |
-| 35 | [jeff wise](http://twitter.com/search?q=jeff+wise) | N/A |
+| 35 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
 | 36 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
 | 37 | [build always on top](http://twitter.com/search?q=build+always+on+top) | N/A |
 | 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
@@ -60,8 +60,8 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 43 | [Yooo](http://twitter.com/search?q=Yooo) | N/A |
 | 44 | [melaka](http://twitter.com/search?q=melaka) | N/A |
 | 45 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 46 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 47 | [lily](http://twitter.com/search?q=lily) | N/A |
+| 46 | [LILY](http://twitter.com/search?q=LILY) | N/A |
+| 47 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 48 | [Chennai](http://twitter.com/search?q=Chennai) | N/A |
 | 49 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 

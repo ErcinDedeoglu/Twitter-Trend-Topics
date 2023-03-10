@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-10 03:25:40 UTC`
+📆 Last Updated: `2023-03-10 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 11 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 | 12 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
 | 13 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 14 | [spurs](http://twitter.com/search?q=spurs) | N/A |
-| 15 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 14 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 15 | [spurs](http://twitter.com/search?q=spurs) | N/A |
 | 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 17 | [klia](http://twitter.com/search?q=klia) | N/A |
 | 18 | [sprm](http://twitter.com/search?q=sprm) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 32 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
 | 33 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
 | 34 | [abah](http://twitter.com/search?q=abah) | N/A |
-| 35 | [jeff wise](http://twitter.com/search?q=jeff+wise) | N/A |
+| 35 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
 | 36 | [get to know me](http://twitter.com/search?q=get+to+know+me) | N/A |
 | 37 | [build always on top](http://twitter.com/search?q=build+always+on+top) | N/A |
 | 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
@@ -60,8 +60,8 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 43 | [Yooo](http://twitter.com/search?q=Yooo) | N/A |
 | 44 | [melaka](http://twitter.com/search?q=melaka) | N/A |
 | 45 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 46 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 47 | [lily](http://twitter.com/search?q=lily) | N/A |
+| 46 | [LILY](http://twitter.com/search?q=LILY) | N/A |
+| 47 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 48 | [Chennai](http://twitter.com/search?q=Chennai) | N/A |
 | 49 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 

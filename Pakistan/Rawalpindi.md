@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-10 03:25:20 UTC`
+📆 Last Updated: `2023-03-10 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#zilleshah](http://twitter.com/search?q=%23zilleshah) | N/A |
-| 4 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
-| 5 | [#iuvlq](http://twitter.com/search?q=%23iuvlq) | N/A |
+| 4 | [#iuvlq](http://twitter.com/search?q=%23iuvlq) | N/A |
+| 5 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
 | 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
 | 7 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
 | 8 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
@@ -28,41 +28,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 11 | [mohsin naqvi](http://twitter.com/search?q=mohsin+naqvi) | N/A |
 | 12 | [axact](http://twitter.com/search?q=axact) | N/A |
 | 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 14 | [qalandars](http://twitter.com/search?q=qalandars) | N/A |
+| 14 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
 | 15 | [model town](http://twitter.com/search?q=model+town) | N/A |
 | 16 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
-| 17 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 18 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 19 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
-| 20 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
-| 21 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
+| 17 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
+| 18 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
+| 19 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
+| 20 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
+| 21 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
 | 22 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
-| 23 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
-| 24 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 25 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 26 | [Madam](http://twitter.com/search?q=Madam) | N/A |
-| 27 | [Chalo](http://twitter.com/search?q=Chalo) | N/A |
-| 28 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
-| 29 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 30 | [#lqviu](http://twitter.com/search?q=%23lqviu) | N/A |
-| 31 | [#releaseshoaibshaikh](http://twitter.com/search?q=%23releaseshoaibshaikh) | N/A |
-| 32 | [#گندی_ویڈیو_والی_عورت](http://twitter.com/search?q=%23%da%af%d9%86%d8%af%db%8c_%d9%88%db%8c%da%88%db%8c%d9%88_%d9%88%d8%a7%d9%84%db%8c_%d8%b9%d9%88%d8%b1%d8%aa) | N/A |
-| 33 | [#zaman_park_lahore](http://twitter.com/search?q=%23zaman_park_lahore) | N/A |
-| 34 | [#حسنین_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%ad%d8%b3%d9%86%db%8c%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 35 | [#pakistanunderfascism](http://twitter.com/search?q=%23pakistanunderfascism) | N/A |
-| 36 | [#منشی_محسن_نقوی_شرم_کرو](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b4%db%8c_%d9%85%d8%ad%d8%b3%d9%86_%d9%86%d9%82%d9%88%db%8c_%d8%b4%d8%b1%d9%85_%da%a9%d8%b1%d9%88) | N/A |
-| 37 | [#انسانیت_کا_قتل](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3%d8%a7%d9%86%db%8c%d8%aa_%da%a9%d8%a7_%d9%82%d8%aa%d9%84) | N/A |
-| 38 | [#youthwithhinabutt](http://twitter.com/search?q=%23youthwithhinabutt) | N/A |
-| 39 | [#نشئی_بھگوڑا_گھڑی_چور](http://twitter.com/search?q=%23%d9%86%d8%b4%d8%a6%db%8c_%d8%a8%da%be%da%af%d9%88%da%91%d8%a7_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 40 | [#findabidmir](http://twitter.com/search?q=%23findabidmir) | N/A |
-| 41 | [#عورت_مارچ](http://twitter.com/search?q=%23%d8%b9%d9%88%d8%b1%d8%aa_%d9%85%d8%a7%d8%b1%da%86) | N/A |
-| 42 | [#arrestkamyanaandmohsin](http://twitter.com/search?q=%23arrestkamyanaandmohsin) | N/A |
-| 43 | [#پاکستان_پکارے_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d9%be%da%a9%d8%a7%d8%b1%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 44 | [#آؤ_لمبی_لمبی_چھوڑیں](http://twitter.com/search?q=%23%d8%a2%d8%a4_%d9%84%d9%85%d8%a8%db%8c_%d9%84%d9%85%d8%a8%db%8c_%da%86%da%be%d9%88%da%91%db%8c%da%ba) | N/A |
-| 45 | [#حق_دو_قید_نہیں](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%af%d9%88_%d9%82%db%8c%d8%af_%d9%86%db%81%db%8c%da%ba) | N/A |
-| 46 | [#auratmarch2023](http://twitter.com/search?q=%23auratmarch2023) | N/A |
-| 47 | [#istandwithbol](http://twitter.com/search?q=%23istandwithbol) | N/A |
-| 48 | [#ispr](http://twitter.com/search?q=%23ispr) | N/A |
+| 23 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 24 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
+| 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 26 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
+| 27 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
+| 28 | [#lqviu](http://twitter.com/search?q=%23lqviu) | N/A |
+| 29 | [#releaseshoaibshaikh](http://twitter.com/search?q=%23releaseshoaibshaikh) | N/A |
+| 30 | [#گندی_ویڈیو_والی_عورت](http://twitter.com/search?q=%23%da%af%d9%86%d8%af%db%8c_%d9%88%db%8c%da%88%db%8c%d9%88_%d9%88%d8%a7%d9%84%db%8c_%d8%b9%d9%88%d8%b1%d8%aa) | N/A |
+| 31 | [#zaman_park_lahore](http://twitter.com/search?q=%23zaman_park_lahore) | N/A |
+| 32 | [#حسنین_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%ad%d8%b3%d9%86%db%8c%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 33 | [#منشی_محسن_نقوی_شرم_کرو](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b4%db%8c_%d9%85%d8%ad%d8%b3%d9%86_%d9%86%d9%82%d9%88%db%8c_%d8%b4%d8%b1%d9%85_%da%a9%d8%b1%d9%88) | N/A |
+| 34 | [#انسانیت_کا_قتل](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3%d8%a7%d9%86%db%8c%d8%aa_%da%a9%d8%a7_%d9%82%d8%aa%d9%84) | N/A |
+| 35 | [#youthwithhinabutt](http://twitter.com/search?q=%23youthwithhinabutt) | N/A |
+| 36 | [#نشئی_بھگوڑا_گھڑی_چور](http://twitter.com/search?q=%23%d9%86%d8%b4%d8%a6%db%8c_%d8%a8%da%be%da%af%d9%88%da%91%d8%a7_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
+| 37 | [#findabidmir](http://twitter.com/search?q=%23findabidmir) | N/A |
+| 38 | [#arrestkamyanaandmohsin](http://twitter.com/search?q=%23arrestkamyanaandmohsin) | N/A |
+| 39 | [#پاکستان_پکارے_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d9%be%da%a9%d8%a7%d8%b1%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 40 | [#عورت_مارچ](http://twitter.com/search?q=%23%d8%b9%d9%88%d8%b1%d8%aa_%d9%85%d8%a7%d8%b1%da%86) | N/A |
+| 41 | [#آؤ_لمبی_لمبی_چھوڑیں](http://twitter.com/search?q=%23%d8%a2%d8%a4_%d9%84%d9%85%d8%a8%db%8c_%d9%84%d9%85%d8%a8%db%8c_%da%86%da%be%d9%88%da%91%db%8c%da%ba) | N/A |
+| 42 | [#حق_دو_قید_نہیں](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%af%d9%88_%d9%82%db%8c%d8%af_%d9%86%db%81%db%8c%da%ba) | N/A |
+| 43 | [#auratmarch2023](http://twitter.com/search?q=%23auratmarch2023) | N/A |
+| 44 | [#istandwithbol](http://twitter.com/search?q=%23istandwithbol) | N/A |
+| 45 | [#ispr](http://twitter.com/search?q=%23ispr) | N/A |
+| 46 | [#babarazam𓃵](http://twitter.com/search?q=%23babarazam%f0%93%83%b5) | N/A |
+| 47 | [#qgvpz](http://twitter.com/search?q=%23qgvpz) | N/A |
+| 48 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 49 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 50 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 
 
 

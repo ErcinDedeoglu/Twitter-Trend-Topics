@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-10 03:25:17 UTC`
+📆 Last Updated: `2023-03-10 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for [Jordan](</Jordan>)
 | 22 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 23 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 26 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 27 | [رانيا العبدالله](http://twitter.com/search?q=%d8%b1%d8%a7%d9%86%d9%8a%d8%a7+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 28 | [المركبات الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 29 | [الاغوار الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 30 | [إيطاليا](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 31 | [السلطه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 32 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 33 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 34 | [علي نعمه الاسلام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 35 | [جامعه البترا](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d8%a7) | N/A |
-| 36 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
-| 37 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 38 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 39 | [نورد ستريم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1%d8%af+%d8%b3%d8%aa%d8%b1%d9%8a%d9%85) | N/A |
-| 40 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 41 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 42 | [التنسيق الامني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a) | N/A |
-| 43 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 44 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 45 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 46 | [jordanian](http://twitter.com/search?q=jordanian) | N/A |
-| 47 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 48 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 49 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
-| 50 | [الباص السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b5+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
+| 25 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 26 | [رانيا العبدالله](http://twitter.com/search?q=%d8%b1%d8%a7%d9%86%d9%8a%d8%a7+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 27 | [المركبات الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 28 | [الاغوار الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 29 | [إيطاليا](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 30 | [السلطه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 31 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 32 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 33 | [علي نعمه الاسلام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 34 | [جامعه البترا](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d8%a7) | N/A |
+| 35 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
+| 36 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 37 | [نورد ستريم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1%d8%af+%d8%b3%d8%aa%d8%b1%d9%8a%d9%85) | N/A |
+| 38 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 39 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 40 | [التنسيق الامني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d8%b3%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a) | N/A |
+| 41 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 42 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 43 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 44 | [jordanian](http://twitter.com/search?q=jordanian) | N/A |
+| 45 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 46 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
+| 47 | [الباص السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b5+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
+| 48 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 49 | [اربد](http://twitter.com/search?q=%d8%a7%d8%b1%d8%a8%d8%af) | N/A |
+| 50 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
 
 
 
