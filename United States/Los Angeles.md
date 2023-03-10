@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-10 00:29:05 UTC`
+📆 Last Updated: `2023-03-10 01:45:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 6 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 7 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 8 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 9 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 12 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 13 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 15 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 16 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 17 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 19 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 20 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 21 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 22 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 24 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 27 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 28 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 29 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 32 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
-| 35 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 36 | [Cole Sprouse](http://twitter.com/search?q=Cole+Sprouse) | N/A |
-| 37 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 38 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 39 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 40 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 41 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 42 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 43 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 44 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 45 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 46 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 47 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 48 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 49 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 50 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 1 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 2 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 3 | [Huntington Beach](http://twitter.com/search?q=Huntington+Beach) | N/A |
+| 4 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
+| 5 | [Compton](http://twitter.com/search?q=Compton) | N/A |
+| 6 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 7 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 8 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 9 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 10 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
+| 11 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 12 | [#CalBigGive](http://twitter.com/search?q=%23CalBigGive) | N/A |
+| 13 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 14 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
+| 17 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 22 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 23 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 26 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 27 | [Ungrateful](http://twitter.com/search?q=Ungrateful) | N/A |
+| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 29 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 30 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
+| 31 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 32 | [The Warriors](http://twitter.com/search?q=The+Warriors) | N/A |
+| 33 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 34 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
+| 35 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 36 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 37 | [Baretta](http://twitter.com/search?q=Baretta) | N/A |
+| 38 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 39 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 40 | [Sammy Hagar](http://twitter.com/search?q=Sammy+Hagar) | N/A |
+| 41 | [Fire DK](http://twitter.com/search?q=Fire+DK) | N/A |
+| 42 | [In Cold Blood](http://twitter.com/search?q=In+Cold+Blood) | N/A |
+| 43 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 44 | [San Jose State](http://twitter.com/search?q=San+Jose+State) | N/A |
+| 45 | [Tim Miles](http://twitter.com/search?q=Tim+Miles) | N/A |
+| 46 | [Dainja](http://twitter.com/search?q=Dainja) | N/A |
+| 47 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
+| 48 | [Scott Mayfield](http://twitter.com/search?q=Scott+Mayfield) | N/A |
+| 49 | [Jason Zucker](http://twitter.com/search?q=Jason+Zucker) | N/A |
+| 50 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
 
 
 

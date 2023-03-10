@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sapporo
 
-📆 Last Updated: `2023-03-10 00:28:45 UTC`
+📆 Last Updated: `2023-03-10 01:45:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
-| 2 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 3 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 4 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 5 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 6 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
-| 7 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 8 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 9 | [中国のピッチャー](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 10 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 11 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 12 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 13 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 14 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 15 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 16 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 17 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 18 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 19 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 20 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
-| 21 | [初戦勝利](http://twitter.com/search?q=%e5%88%9d%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 22 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 23 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 24 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 25 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 26 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 27 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 28 | [フェン直](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e7%9b%b4) | N/A |
-| 29 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
-| 30 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
-| 31 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 32 | [中国代表](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e4%bb%a3%e8%a1%a8) | N/A |
-| 33 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 34 | [ルークの声](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%af%e3%81%ae%e5%a3%b0) | N/A |
-| 35 | [木村貴宏さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e8%b2%b4%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
-| 36 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
-| 37 | [国際試合](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e8%a9%a6%e5%90%88) | N/A |
-| 38 | [レイトン](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
-| 39 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 40 | [フォアボール](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%82%a2%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 41 | [中国相手](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e7%9b%b8%e6%89%8b) | N/A |
-| 42 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 43 | [大谷ルール](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
-| 44 | [国際大会](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a4%a7%e4%bc%9a) | N/A |
-| 45 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 46 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
-| 47 | [戸郷さん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%95%e3%82%93) | N/A |
-| 48 | [キムタカ](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%ab) | N/A |
-| 49 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
-| 50 | [ガオガイガー](http://twitter.com/search?q=%e3%82%ac%e3%82%aa%e3%82%ac%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
+| 1 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 2 | [ハチワレ](http://twitter.com/search?q=%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
+| 3 | [ナガノ先生](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%85%88%e7%94%9f) | N/A |
+| 4 | [改造カード](http://twitter.com/search?q=%e6%94%b9%e9%80%a0%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 5 | [#法廷遊戯](http://twitter.com/search?q=%23%e6%b3%95%e5%bb%b7%e9%81%8a%e6%88%af) | N/A |
+| 6 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 7 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 8 | [人のツイート](http://twitter.com/search?q=%e4%ba%ba%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 9 | [フォルテクロスロックマン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ab%e3%83%86%e3%82%af%e3%83%ad%e3%82%b9%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3) | N/A |
+| 10 | [#毎日当選](http://twitter.com/search?q=%23%e6%af%8e%e6%97%a5%e5%bd%93%e9%81%b8) | N/A |
+| 11 | [めちゃイケ](http://twitter.com/search?q=%e3%82%81%e3%81%a1%e3%82%83%e3%82%a4%e3%82%b1) | N/A |
+| 12 | [トリプレットビート](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ac%e3%83%83%e3%83%88%e3%83%93%e3%83%bc%e3%83%88) | N/A |
+| 13 | [ゴーストトリック](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 14 | [敦賀気比](http://twitter.com/search?q=%e6%95%a6%e8%b3%80%e6%b0%97%e6%af%94) | N/A |
+| 15 | [大阪桐蔭](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e6%a1%90%e8%94%ad) | 大阪桐蔭 is a private university located in Osaka, Japan. The English translation of the name is Osaka Tōin University. It was founded in 1874 and is one of the oldest universities in Japan. |
+| 16 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 17 | [砂糖の日](http://twitter.com/search?q=%e7%a0%82%e7%b3%96%e3%81%ae%e6%97%a5) | N/A |
+| 18 | [東京大空襲](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e7%a9%ba%e8%a5%b2) | N/A |
+| 19 | [武田真治](http://twitter.com/search?q=%e6%ad%a6%e7%94%b0%e7%9c%9f%e6%b2%bb) | N/A |
+| 20 | [バスターMAXモード](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%82%bf%e3%83%bcMAX%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 21 | [きりりゅせ](http://twitter.com/search?q=%e3%81%8d%e3%82%8a%e3%82%8a%e3%82%85%e3%81%9b) | N/A |
+| 22 | [エグゾプライマル](http://twitter.com/search?q=%e3%82%a8%e3%82%b0%e3%82%be%e3%83%97%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%ab) | N/A |
+| 23 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
+| 24 | [ちいかわ不穏](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e4%b8%8d%e7%a9%8f) | N/A |
+| 25 | [PENTATONIX](http://twitter.com/search?q=PENTATONIX) | N/A |
+| 26 | [RE4体験版](http://twitter.com/search?q=RE4%e4%bd%93%e9%a8%93%e7%89%88) | N/A |
+| 27 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 28 | [コロナ給付金約550万円](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%8a%e7%b5%a6%e4%bb%98%e9%87%91%e7%b4%84550%e4%b8%87%e5%86%86) | N/A |
+| 29 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 30 | [バスター100倍](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%82%bf%e3%83%bc100%e5%80%8d) | N/A |
+| 31 | [悪夢の続き](http://twitter.com/search?q=%e6%82%aa%e5%a4%a2%e3%81%ae%e7%b6%9a%e3%81%8d) | N/A |
+| 32 | [世帯視聴率41・9](http://twitter.com/search?q=%e4%b8%96%e5%b8%af%e8%a6%96%e8%81%b4%e7%8e%8741%e3%83%bb9) | N/A |
+| 33 | [象の背中](http://twitter.com/search?q=%e8%b1%a1%e3%81%ae%e8%83%8c%e4%b8%ad) | N/A |
+| 34 | [不正受給疑惑](http://twitter.com/search?q=%e4%b8%8d%e6%ad%a3%e5%8f%97%e7%b5%a6%e7%96%91%e6%83%91) | N/A |
+| 35 | [日本―中国](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e2%80%95%e4%b8%ad%e5%9b%bd) | N/A |
+| 36 | [ポケセンオンライン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%bb%e3%83%b3%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
+| 37 | [ポケカ買い](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e8%b2%b7%e3%81%84) | N/A |
+| 38 | [ジェジエウ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%82%a8%e3%82%a6) | N/A |
+| 39 | [マリオの映画](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%aa%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 40 | [映画主演](http://twitter.com/search?q=%e6%98%a0%e7%94%bb%e4%b8%bb%e6%bc%94) | N/A |
+| 41 | [刈谷先輩](http://twitter.com/search?q=%e5%88%88%e8%b0%b7%e5%85%88%e8%bc%a9) | N/A |
+| 42 | [カードeリーダー](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89e%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 43 | [キハダ先生](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80%e5%85%88%e7%94%9f) | N/A |
+| 44 | [夫の会社](http://twitter.com/search?q=%e5%a4%ab%e3%81%ae%e4%bc%9a%e7%a4%be) | N/A |
+| 45 | [キハダSAR](http://twitter.com/search?q=%e3%82%ad%e3%83%8f%e3%83%80SAR) | N/A |
+| 46 | [箱根駅伝抜き](http://twitter.com/search?q=%e7%ae%b1%e6%a0%b9%e9%a7%85%e4%bc%9d%e6%8a%9c%e3%81%8d) | N/A |
+| 47 | [分娩早まり子](http://twitter.com/search?q=%e5%88%86%e5%a8%a9%e6%97%a9%e3%81%be%e3%82%8a%e5%ad%90) | N/A |
+| 48 | [ミントの日](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 49 | [加藤浩次](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e6%b5%a9%e6%ac%a1) | N/A |
+| 50 | [マリオの日](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%aa%e3%81%ae%e6%97%a5) | N/A |
 
 
 

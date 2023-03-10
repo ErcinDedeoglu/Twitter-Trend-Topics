@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-10 00:28:31 UTC`
+📆 Last Updated: `2023-03-10 01:45:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 4 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 5 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 6 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 7 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 8 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 9 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 10 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 11 | [gabigol](http://twitter.com/search?q=gabigol) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 14 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 15 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 16 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 17 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [#diainternacionaldamulher](http://twitter.com/search?q=%23diainternacionaldamulher) | N/A |
-| 20 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 21 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 22 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 23 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
-| 24 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 25 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
-| 26 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 29 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 30 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 31 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 32 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 33 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 34 | [MAITE PERRONI](http://twitter.com/search?q=MAITE+PERRONI) | N/A |
-| 35 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 36 | [mateusão](http://twitter.com/search?q=mateus%c3%a3o) | N/A |
-| 37 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 38 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 39 | [o psg](http://twitter.com/search?q=o+psg) | N/A |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 42 | [jemerson](http://twitter.com/search?q=jemerson) | N/A |
-| 43 | [igor jesus](http://twitter.com/search?q=igor+jesus) | N/A |
-| 44 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
-| 45 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 46 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 47 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 48 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 49 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
-| 50 | [maiara e maraisa em alto mar](http://twitter.com/search?q=maiara+e+maraisa+em+alto+mar) | N/A |
+| 1 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 2 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 3 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 4 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 5 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 6 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 7 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 8 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 9 | [Marcão](http://twitter.com/search?q=Marc%c3%a3o) | N/A |
+| 10 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 11 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
+| 12 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 13 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 14 | [bruno mars](http://twitter.com/search?q=bruno+mars) | N/A |
+| 15 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
+| 16 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 17 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 18 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 19 | [raffa](http://twitter.com/search?q=raffa) | N/A |
+| 20 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
+| 21 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 22 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 23 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
+| 24 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 25 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 26 | [NAMORANDO OU NÃO](http://twitter.com/search?q=NAMORANDO+OU+N%c3%83O) | N/A |
+| 27 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 28 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
+| 29 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 30 | [Talisson Calcinha](http://twitter.com/search?q=Talisson+Calcinha) | N/A |
+| 31 | [DOMITILA MERECE UM CARRO](http://twitter.com/search?q=DOMITILA+MERECE+UM+CARRO) | N/A |
+| 32 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 33 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 34 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 35 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 36 | [É O PEDRO RAUL](http://twitter.com/search?q=%c3%89+O+PEDRO+RAUL) | N/A |
+| 37 | [matue](http://twitter.com/search?q=matue) | N/A |
+| 38 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 39 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 40 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
+| 41 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 42 | [TRÉGUA NA BRIGA](http://twitter.com/search?q=TR%c3%89GUA+NA+BRIGA) | N/A |
+| 43 | [Palmeiras Futebol Clube](http://twitter.com/search?q=Palmeiras+Futebol+Clube) | N/A |
+| 44 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
+| 45 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 46 | [Atlético Nacional-COL](http://twitter.com/search?q=Atl%c3%a9tico+Nacional-COL) | N/A |
+| 47 | [#LAPTMontevideo](http://twitter.com/search?q=%23LAPTMontevideo) | N/A |
+| 48 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 49 | [Vila Nova](http://twitter.com/search?q=Vila+Nova) | N/A |
+| 50 | [ÁLBUM DA FLAY](http://twitter.com/search?q=%c3%81LBUM+DA+FLAY) | N/A |
 
 
 

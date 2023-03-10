@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 00:29:10 UTC`
+📆 Last Updated: `2023-03-10 01:46:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 4 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [methoden](http://twitter.com/search?q=methoden) | N/A |
-| 7 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 8 | [bezahlung](http://twitter.com/search?q=bezahlung) | N/A |
-| 9 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 10 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 11 | [attest](http://twitter.com/search?q=attest) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 4 | [#Hergovich](http://twitter.com/search?q=%23Hergovich) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 7 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
+| 8 | [Khol](http://twitter.com/search?q=Khol) | N/A |
+| 9 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 10 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 11 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
 | 12 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 13 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 14 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 15 | [brunner](http://twitter.com/search?q=brunner) | N/A |
-| 16 | [Freien](http://twitter.com/search?q=Freien) | N/A |
-| 17 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
-| 18 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 19 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
+| 13 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 14 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 15 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 16 | [brunner](http://twitter.com/search?q=brunner) | N/A |
+| 17 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 18 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
+| 19 | [freien](http://twitter.com/search?q=freien) | N/A |
 | 20 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 21 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 22 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 23 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 24 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
-| 25 | [raucher](http://twitter.com/search?q=raucher) | N/A |
-| 26 | [weltmännertag](http://twitter.com/search?q=weltm%c3%a4nnertag) | N/A |
-| 27 | [beidl](http://twitter.com/search?q=beidl) | N/A |
-| 28 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 29 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 30 | [plakate](http://twitter.com/search?q=plakate) | N/A |
-| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [vermummungsverbot](http://twitter.com/search?q=vermummungsverbot) | N/A |
-| 34 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 36 | [mohammad](http://twitter.com/search?q=mohammad) | N/A |
-| 37 | [antibiotika](http://twitter.com/search?q=antibiotika) | N/A |
-| 38 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
-| 39 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 41 | [erkrankungen](http://twitter.com/search?q=erkrankungen) | N/A |
-| 42 | [grundwehrdienst](http://twitter.com/search?q=grundwehrdienst) | N/A |
+| 21 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
+| 22 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 23 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
+| 24 | [Falter](http://twitter.com/search?q=Falter) | N/A |
+| 25 | [kampftag](http://twitter.com/search?q=kampftag) | N/A |
+| 26 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 27 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 28 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 29 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 30 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 31 | [Überblick](http://twitter.com/search?q=%c3%9cberblick) | N/A |
+| 32 | [Ausbau](http://twitter.com/search?q=Ausbau) | N/A |
+| 33 | [weltmännertag](http://twitter.com/search?q=weltm%c3%a4nnertag) | N/A |
+| 34 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 37 | [beidl](http://twitter.com/search?q=beidl) | N/A |
+| 38 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 39 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 40 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 41 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 42 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
 | 43 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
-| 44 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
-| 45 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 46 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 47 | [herrengasse](http://twitter.com/search?q=herrengasse) | N/A |
-| 48 | [Gespräche](http://twitter.com/search?q=Gespr%c3%a4che) | N/A |
-| 49 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 50 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
+| 44 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 45 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 46 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
+| 47 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
+| 48 | [Besucher](http://twitter.com/search?q=Besucher) | N/A |
+| 49 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

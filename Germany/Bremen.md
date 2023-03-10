@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-10 00:28:35 UTC`
+📆 Last Updated: `2023-03-10 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 3 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
-| 4 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
-| 5 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
-| 6 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 8 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 9 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 10 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 11 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 12 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 13 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
-| 14 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 15 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 16 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 17 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 18 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 19 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 20 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 21 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 22 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 24 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 25 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
-| 28 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 29 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 30 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
-| 31 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 32 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 33 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 34 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 35 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 36 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 37 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
-| 38 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 39 | [sprengung](http://twitter.com/search?q=sprengung) | N/A |
-| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 41 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 42 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 43 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
-| 44 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 45 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 46 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 47 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 48 | [internationalen](http://twitter.com/search?q=internationalen) | N/A |
+| 1 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
+| 4 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 5 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 6 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 8 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 9 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 10 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 11 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 13 | [Groß Borstel](http://twitter.com/search?q=Gro%c3%9f+Borstel) | N/A |
+| 14 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 15 | [Jehovah's Witnesses](http://twitter.com/search?q=Jehovah%27s+Witnesses) | N/A |
+| 16 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 18 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 19 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 21 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 22 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 23 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 24 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 25 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 26 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 27 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 28 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
+| 29 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 30 | [Verletzten](http://twitter.com/search?q=Verletzten) | N/A |
+| 31 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 32 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 33 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 34 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 35 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 36 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 37 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 38 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
+| 39 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 40 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 41 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 42 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 43 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
+| 44 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 45 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 47 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 48 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 
 
 

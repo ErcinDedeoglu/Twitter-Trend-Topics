@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-10 00:29:02 UTC`
+📆 Last Updated: `2023-03-10 01:45:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Larry Householder](http://twitter.com/search?q=Larry+Householder) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 8 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 9 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 12 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 13 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 14 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 15 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 16 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 17 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 19 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 20 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 21 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 22 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 24 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 27 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 28 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 29 | [Exoprimal](http://twitter.com/search?q=Exoprimal) | N/A |
-| 30 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 31 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 32 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 35 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [anderson cooper](http://twitter.com/search?q=anderson+cooper) | N/A |
-| 38 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 39 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 40 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 41 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 42 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 43 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 44 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 45 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 46 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 47 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 48 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 49 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 1 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 2 | [Householder](http://twitter.com/search?q=Householder) | N/A |
+| 3 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 4 | [#MACtion](http://twitter.com/search?q=%23MACtion) | N/A |
+| 5 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
+| 8 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 9 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 10 | [#NewRokuTVs](http://twitter.com/search?q=%23NewRokuTVs) | N/A |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 15 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 16 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 17 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 18 | [Andrew Funk](http://twitter.com/search?q=Andrew+Funk) | N/A |
+| 19 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 20 | [Ungrateful](http://twitter.com/search?q=Ungrateful) | N/A |
+| 21 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 22 | [Illini](http://twitter.com/search?q=Illini) | Illini is a nickname for the University of Illinois at Urbana-Champaign. It is derived from the word "Illiniwek," which was the name of a confederacy of Native American tribes that lived in what is now Illinois. The term is used to refer to students, alumni, and fans of the university. |
+| 23 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 24 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 25 | [Baretta](http://twitter.com/search?q=Baretta) | N/A |
+| 26 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 27 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 28 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 29 | [Sammy Hagar](http://twitter.com/search?q=Sammy+Hagar) | N/A |
+| 30 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
+| 31 | [Fire DK](http://twitter.com/search?q=Fire+DK) | N/A |
+| 32 | [San Jose State](http://twitter.com/search?q=San+Jose+State) | N/A |
+| 33 | [In Cold Blood](http://twitter.com/search?q=In+Cold+Blood) | N/A |
+| 34 | [Tim Miles](http://twitter.com/search?q=Tim+Miles) | N/A |
+| 35 | [Dainja](http://twitter.com/search?q=Dainja) | N/A |
+| 36 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
+| 37 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 38 | [Scott Mayfield](http://twitter.com/search?q=Scott+Mayfield) | N/A |
+| 39 | [Jason Zucker](http://twitter.com/search?q=Jason+Zucker) | N/A |
+| 40 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 41 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
+| 42 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 43 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 44 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 45 | [FIRE DONKEY KONG](http://twitter.com/search?q=FIRE+DONKEY+KONG) | N/A |
+| 46 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 47 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
+| 48 | [Colin Kaepernick](http://twitter.com/search?q=Colin+Kaepernick) | N/A |
+| 49 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
 
 
 

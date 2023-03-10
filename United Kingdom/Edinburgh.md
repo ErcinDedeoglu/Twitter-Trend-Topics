@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-10 00:28:22 UTC`
+📆 Last Updated: `2023-03-10 01:45:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NextLeaderOfScotland](http://twitter.com/search?q=%23NextLeaderOfScotland) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 5 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 10 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 14 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 17 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 18 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 19 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 20 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 22 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 23 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 25 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 28 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 32 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 33 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 34 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 35 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 36 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 37 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 38 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 39 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 40 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 41 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 42 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 43 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 44 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 45 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 46 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 47 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 49 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 50 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 1 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 2 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 5 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 6 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 7 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 8 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 9 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 10 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 12 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 13 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
+| 14 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 15 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 16 | [Dani](http://twitter.com/search?q=Dani) | N/A |
+| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Yasmin Alibhai-Brown](http://twitter.com/search?q=Yasmin+Alibhai-Brown) | N/A |
+| 20 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 21 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 22 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 23 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 24 | [Robbie Savage](http://twitter.com/search?q=Robbie+Savage) | N/A |
+| 25 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 26 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 27 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 28 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 29 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 30 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 31 | [Claude](http://twitter.com/search?q=Claude) | N/A |
+| 32 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 33 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 34 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
+| 35 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 36 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 37 | [My Captain](http://twitter.com/search?q=My+Captain) | N/A |
+| 38 | [Redacted](http://twitter.com/search?q=Redacted) | N/A |
+| 39 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 40 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 41 | [Tom and Samie](http://twitter.com/search?q=Tom+and+Samie) | N/A |
+| 42 | [Joaquin](http://twitter.com/search?q=Joaquin) | N/A |
+| 43 | [Alan Partridge](http://twitter.com/search?q=Alan+Partridge) | N/A |
+| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 45 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 46 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 47 | [Scream VI](http://twitter.com/search?q=Scream+VI) | N/A |
+| 48 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-10 00:28:30 UTC`
+📆 Last Updated: `2023-03-10 01:45:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#ChávezFeminista](http://twitter.com/search?q=%23Ch%c3%a1vezFeminista) | N/A |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [José Altuve](http://twitter.com/search?q=Jos%c3%a9+Altuve) | N/A |
-| 7 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
-| 10 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 11 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 12 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 13 | [sarago](http://twitter.com/search?q=sarago) | N/A |
-| 14 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 16 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 17 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 19 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 20 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 21 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 22 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
-| 23 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 24 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 25 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 26 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
-| 27 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
-| 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 29 | [orencio](http://twitter.com/search?q=orencio) | N/A |
-| 30 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 32 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 33 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 34 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 38 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
-| 39 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
-| 40 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
-| 41 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
-| 42 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
-| 43 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 44 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 45 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 46 | [guayana](http://twitter.com/search?q=guayana) | N/A |
+| 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 7 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 8 | [José Altuve](http://twitter.com/search?q=Jos%c3%a9+Altuve) | N/A |
+| 9 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
+| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 11 | [MAITE PERRONI](http://twitter.com/search?q=MAITE+PERRONI) | N/A |
+| 12 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 13 | [Orencio](http://twitter.com/search?q=Orencio) | N/A |
+| 14 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 15 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 16 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
+| 17 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 18 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 20 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
+| 21 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
+| 22 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 23 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
+| 24 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 25 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 26 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
+| 27 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 28 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
+| 29 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 30 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 31 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 32 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 33 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 34 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 35 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 36 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 37 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 38 | [Cristina Fernández](http://twitter.com/search?q=Cristina+Fern%c3%a1ndez) | N/A |
+| 39 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
+| 40 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 41 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 42 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 43 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 44 | [Cova](http://twitter.com/search?q=Cova) | N/A |
+| 45 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 46 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
 
 
 

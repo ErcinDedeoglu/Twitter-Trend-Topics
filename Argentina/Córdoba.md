@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-10 00:28:32 UTC`
+📆 Last Updated: `2023-03-10 01:45:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 8 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 9 | [the weeknd](http://twitter.com/search?q=the+weeknd) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [#BastaDeProscripción](http://twitter.com/search?q=%23BastaDeProscripci%c3%b3n) | N/A |
-| 12 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 14 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 15 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 16 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 17 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 18 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 19 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 20 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 21 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 22 | [elias gomez](http://twitter.com/search?q=elias+gomez) | N/A |
-| 23 | [Hacha](http://twitter.com/search?q=Hacha) | N/A |
-| 24 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 25 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 26 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
-| 27 | [arba](http://twitter.com/search?q=arba) | N/A |
-| 28 | [Vialidad](http://twitter.com/search?q=Vialidad) | N/A |
-| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 30 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 31 | [Wado](http://twitter.com/search?q=Wado) | N/A |
-| 32 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 33 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 34 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 35 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 36 | [Evra](http://twitter.com/search?q=Evra) | N/A |
-| 37 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 38 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 39 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 40 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 41 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
-| 42 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 43 | [Expoagro](http://twitter.com/search?q=Expoagro) | N/A |
-| 44 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 45 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 46 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 47 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 48 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 49 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 50 | [nuno mendes](http://twitter.com/search?q=nuno+mendes) | N/A |
+| 1 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 2 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 3 | [#martinciriovive](http://twitter.com/search?q=%23martinciriovive) | N/A |
+| 4 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 5 | [#FlojoDePruebas](http://twitter.com/search?q=%23FlojoDePruebas) | N/A |
+| 6 | [ENTRA COTI](http://twitter.com/search?q=ENTRA+COTI) | N/A |
+| 7 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
+| 8 | [REENCUENTRO NACHIAGO](http://twitter.com/search?q=REENCUENTRO+NACHIAGO) | N/A |
+| 9 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 10 | [CAZZU FT ÁNGELES AZULES](http://twitter.com/search?q=CAZZU+FT+%c3%81NGELES+AZULES) | N/A |
+| 11 | [#Edulneta](http://twitter.com/search?q=%23Edulneta) | N/A |
+| 12 | [#GranHermanoArgentina](http://twitter.com/search?q=%23GranHermanoArgentina) | N/A |
+| 13 | [NO VOY A LLORAR](http://twitter.com/search?q=NO+VOY+A+LLORAR) | N/A |
+| 14 | [#los8escalonesdelmillón](http://twitter.com/search?q=%23los8escalonesdelmill%c3%b3n) | N/A |
+| 15 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 16 | [ANGELA TORRES](http://twitter.com/search?q=ANGELA+TORRES) | N/A |
+| 17 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 18 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 19 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 22 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 23 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 24 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 25 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 26 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 27 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 28 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 29 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 30 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
+| 31 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
+| 32 | [Evra](http://twitter.com/search?q=Evra) | N/A |
+| 33 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
+| 34 | [LALI PATRIMONIO CULTURAL](http://twitter.com/search?q=LALI+PATRIMONIO+CULTURAL) | N/A |
+| 35 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 38 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 39 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 41 | [10-Polenta](http://twitter.com/search?q=10-Polenta) | N/A |
+| 42 | [8-Brócoli](http://twitter.com/search?q=8-Br%c3%b3coli) | N/A |
+| 43 | [4-Roquefort](http://twitter.com/search?q=4-Roquefort) | N/A |
+| 44 | [1-Zapallo](http://twitter.com/search?q=1-Zapallo) | N/A |
+| 45 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 46 | [5-Rúcula](http://twitter.com/search?q=5-R%c3%bacula) | N/A |
+| 47 | [12-Espinaca](http://twitter.com/search?q=12-Espinaca) | N/A |
+| 48 | [motley crue](http://twitter.com/search?q=motley+crue) | N/A |
 
 
 

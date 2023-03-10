@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-10 00:28:41 UTC`
+📆 Last Updated: `2023-03-10 01:45:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 1 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
 | 2 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 3 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
-| 4 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 5 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 6 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
-| 7 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 8 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
-| 9 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 10 | [pendiem](http://twitter.com/search?q=pendiem) | N/A |
-| 11 | [pak muh](http://twitter.com/search?q=pak+muh) | N/A |
-| 12 | [300 t](http://twitter.com/search?q=300+t) | N/A |
-| 13 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 3 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 4 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 5 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
+| 6 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
+| 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 9 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 10 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 11 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 12 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 13 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
 | 14 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 15 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 16 | [me by jisoo](http://twitter.com/search?q=me+by+jisoo) | N/A |
-| 17 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
-| 18 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 19 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
-| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 21 | [kamis](http://twitter.com/search?q=kamis) | N/A |
-| 22 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 23 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
-| 24 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 27 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 28 | [fadil](http://twitter.com/search?q=fadil) | N/A |
-| 29 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
-| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 31 | [urap](http://twitter.com/search?q=urap) | N/A |
-| 32 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 33 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 34 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
-| 35 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 36 | [kebumen](http://twitter.com/search?q=kebumen) | N/A |
-| 37 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
-| 38 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
-| 39 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 40 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 41 | [exo cbx](http://twitter.com/search?q=exo+cbx) | N/A |
-| 42 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 43 | [wahyu kenzo](http://twitter.com/search?q=wahyu+kenzo) | N/A |
-| 44 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 15 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 17 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
+| 18 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 19 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 20 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 23 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 24 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 25 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 26 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 27 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 28 | [Kak Lily](http://twitter.com/search?q=Kak+Lily) | N/A |
+| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 30 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 31 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 32 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 33 | [WE ARE SO PROUD OF YOU JIN](http://twitter.com/search?q=WE+ARE+SO+PROUD+OF+YOU+JIN) | N/A |
+| 34 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 36 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 37 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 38 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 39 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 40 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 41 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 42 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 43 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 
 
 

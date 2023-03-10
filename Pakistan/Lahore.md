@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-10 00:28:56 UTC`
+📆 Last Updated: `2023-03-10 01:45:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
+| 2 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
+| 3 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
 | 4 | [#اللہ_بڑابےنیازہے](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%db%81_%d8%a8%da%91%d8%a7%d8%a8%db%92%d9%86%db%8c%d8%a7%d8%b2%db%81%db%92) | N/A |
-| 5 | [#IUvLQ](http://twitter.com/search?q=%23IUvLQ) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 7 | [fakhar zaman](http://twitter.com/search?q=fakhar+zaman) | N/A |
-| 8 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
-| 9 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 10 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 11 | [mohsin naqvi](http://twitter.com/search?q=mohsin+naqvi) | N/A |
-| 12 | [axact](http://twitter.com/search?q=axact) | N/A |
-| 13 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 14 | [qalandars](http://twitter.com/search?q=qalandars) | N/A |
-| 15 | [model town](http://twitter.com/search?q=model+town) | N/A |
-| 16 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 17 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 18 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 19 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
-| 20 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 21 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
-| 22 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
-| 23 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 24 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
-| 25 | [#pzvqg](http://twitter.com/search?q=%23pzvqg) | N/A |
-| 26 | [#LQvIU](http://twitter.com/search?q=%23LQvIU) | N/A |
-| 27 | [#ReleaseShoaibShaikh](http://twitter.com/search?q=%23ReleaseShoaibShaikh) | N/A |
-| 28 | [#گندی_ویڈیو_والی_عورت](http://twitter.com/search?q=%23%da%af%d9%86%d8%af%db%8c_%d9%88%db%8c%da%88%db%8c%d9%88_%d9%88%d8%a7%d9%84%db%8c_%d8%b9%d9%88%d8%b1%d8%aa) | N/A |
-| 29 | [#Zaman_Park_Lahore](http://twitter.com/search?q=%23Zaman_Park_Lahore) | N/A |
-| 30 | [#حسنین_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%ad%d8%b3%d9%86%db%8c%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 31 | [#PakistanUnderFascism](http://twitter.com/search?q=%23PakistanUnderFascism) | N/A |
-| 32 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 33 | [#منشی_محسن_نقوی_شرم_کرو](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b4%db%8c_%d9%85%d8%ad%d8%b3%d9%86_%d9%86%d9%82%d9%88%db%8c_%d8%b4%d8%b1%d9%85_%da%a9%d8%b1%d9%88) | N/A |
-| 34 | [#انسانیت_کا_قتل](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3%d8%a7%d9%86%db%8c%d8%aa_%da%a9%d8%a7_%d9%82%d8%aa%d9%84) | N/A |
-| 35 | [#YouthWithHinaButt](http://twitter.com/search?q=%23YouthWithHinaButt) | N/A |
-| 36 | [#نشئی_بھگوڑا_گھڑی_چور](http://twitter.com/search?q=%23%d9%86%d8%b4%d8%a6%db%8c_%d8%a8%da%be%da%af%d9%88%da%91%d8%a7_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 37 | [#FindAbidMir](http://twitter.com/search?q=%23FindAbidMir) | N/A |
-| 38 | [#عورت_مارچ](http://twitter.com/search?q=%23%d8%b9%d9%88%d8%b1%d8%aa_%d9%85%d8%a7%d8%b1%da%86) | N/A |
-| 39 | [#arrestkamyanaandmohsin](http://twitter.com/search?q=%23arrestkamyanaandmohsin) | N/A |
-| 40 | [#پاکستان_پکارے_عمران_خان](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d9%be%da%a9%d8%a7%d8%b1%db%92_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 41 | [#آؤ_لمبی_لمبی_چھوڑیں](http://twitter.com/search?q=%23%d8%a2%d8%a4_%d9%84%d9%85%d8%a8%db%8c_%d9%84%d9%85%d8%a8%db%8c_%da%86%da%be%d9%88%da%91%db%8c%da%ba) | N/A |
-| 42 | [#حق_دو_قید_نہیں](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%af%d9%88_%d9%82%db%8c%d8%af_%d9%86%db%81%db%8c%da%ba) | N/A |
-| 43 | [#AuratMarch2023](http://twitter.com/search?q=%23AuratMarch2023) | N/A |
-| 44 | [#IStandWithBOL](http://twitter.com/search?q=%23IStandWithBOL) | N/A |
-| 45 | [#ispr](http://twitter.com/search?q=%23ispr) | N/A |
-| 46 | [#babarazam𓃵](http://twitter.com/search?q=%23babarazam%f0%93%83%b5) | N/A |
-| 47 | [#qgvpz](http://twitter.com/search?q=%23qgvpz) | N/A |
-| 48 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 49 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 7 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 8 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
+| 9 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
+| 10 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 12 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
+| 13 | [RASHID KHAN](http://twitter.com/search?q=RASHID+KHAN) | N/A |
+| 14 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 15 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 16 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
+| 17 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 18 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 19 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 20 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 23 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 24 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 25 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 28 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 29 | [DM ASAP](http://twitter.com/search?q=DM+ASAP) | N/A |
+| 30 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 31 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
+| 32 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 33 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
+| 34 | [Gotchu](http://twitter.com/search?q=Gotchu) | N/A |
+| 35 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 37 | [Bahria](http://twitter.com/search?q=Bahria) | N/A |
+| 38 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 39 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 40 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 41 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 42 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 43 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
+| 44 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
+| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 46 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 47 | [Brutal](http://twitter.com/search?q=Brutal) | N/A |
+| 48 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 49 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 50 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
 
 
 

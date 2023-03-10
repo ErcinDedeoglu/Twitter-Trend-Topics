@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-10 00:28:20 UTC`
+📆 Last Updated: `2023-03-10 01:45:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 2 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 3 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 4 | [#RomaRealSociedad](http://twitter.com/search?q=%23RomaRealSociedad) | N/A |
-| 5 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
-| 6 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 7 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 8 | [DOMITILA MERECE UM CARRO](http://twitter.com/search?q=DOMITILA+MERECE+UM+CARRO) | N/A |
-| 9 | [CRUELLA DE JESUS](http://twitter.com/search?q=CRUELLA+DE+JESUS) | N/A |
-| 10 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 11 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
-| 12 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 13 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 14 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 15 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 16 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 17 | [Evra](http://twitter.com/search?q=Evra) | N/A |
-| 18 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 19 | [ソシエダ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%82%a8%e3%83%80) | N/A |
-| 20 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 21 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 22 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
-| 23 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 24 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 25 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 26 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 27 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 28 | [Ereğli](http://twitter.com/search?q=Ere%c4%9fli) | N/A |
-| 29 | [異世界おじさん](http://twitter.com/search?q=%e7%95%b0%e4%b8%96%e7%95%8c%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
-| 30 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 31 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 32 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
-| 33 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 34 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
-| 35 | [第413回](http://twitter.com/search?q=%e7%ac%ac413%e5%9b%9e) | N/A |
-| 36 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 37 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
-| 38 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 39 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 40 | [Jiles](http://twitter.com/search?q=Jiles) | N/A |
-| 41 | [المباريات الكبيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1%d9%87) | N/A |
-| 42 | [MrBeast](http://twitter.com/search?q=MrBeast) | N/A |
-| 43 | [Sporting CP](http://twitter.com/search?q=Sporting+CP) | N/A |
-| 44 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
-| 45 | [Capcom Spotlight](http://twitter.com/search?q=Capcom+Spotlight) | N/A |
-| 46 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 47 | [oscar isaac](http://twitter.com/search?q=oscar+isaac) | N/A |
-| 48 | [東京大空襲](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e7%a9%ba%e8%a5%b2) | N/A |
-| 49 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
-| 50 | [カミナリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9f%e3%83%8a%e3%83%aa) | N/A |
+| 1 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [ハチワレ](http://twitter.com/search?q=%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
+| 4 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 5 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 6 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 7 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 8 | [#VERSACExJEFFSATUR_D2](http://twitter.com/search?q=%23VERSACExJEFFSATUR_D2) | N/A |
+| 9 | [ナガノ先生](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%85%88%e7%94%9f) | N/A |
+| 10 | [改造カード](http://twitter.com/search?q=%e6%94%b9%e9%80%a0%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 11 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
+| 12 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 13 | [raffa](http://twitter.com/search?q=raffa) | N/A |
+| 14 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 15 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 20 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 21 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 22 | [フォルテクロスロックマン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ab%e3%83%86%e3%82%af%e3%83%ad%e3%82%b9%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3) | N/A |
+| 23 | [人のツイート](http://twitter.com/search?q=%e4%ba%ba%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 24 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 25 | [めちゃイケ](http://twitter.com/search?q=%e3%82%81%e3%81%a1%e3%82%83%e3%82%a4%e3%82%b1) | N/A |
+| 26 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 27 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 28 | [ゴーストトリック](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 29 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 30 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 31 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 32 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 33 | [トリプレットビート](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ac%e3%83%83%e3%83%88%e3%83%93%e3%83%bc%e3%83%88) | N/A |
+| 34 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
+| 35 | [敦賀気比](http://twitter.com/search?q=%e6%95%a6%e8%b3%80%e6%b0%97%e6%af%94) | N/A |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 37 | [大阪桐蔭](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e6%a1%90%e8%94%ad) | 大阪桐蔭 is a private university located in Osaka, Japan. The English translation of the name is Osaka Tōin University. It was founded in 1874 and is one of the oldest universities in Japan. |
+| 38 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 39 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 40 | [武田真治](http://twitter.com/search?q=%e6%ad%a6%e7%94%b0%e7%9c%9f%e6%b2%bb) | N/A |
+| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 42 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 43 | [砂糖の日](http://twitter.com/search?q=%e7%a0%82%e7%b3%96%e3%81%ae%e6%97%a5) | N/A |
+| 44 | [東京大空襲](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e7%a9%ba%e8%a5%b2) | N/A |
+| 45 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 46 | [Karen Bachini](http://twitter.com/search?q=Karen+Bachini) | N/A |
+| 47 | [バスターMAXモード](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%82%bf%e3%83%bcMAX%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 49 | [きりりゅせ](http://twitter.com/search?q=%e3%81%8d%e3%82%8a%e3%82%8a%e3%82%85%e3%81%9b) | N/A |
+| 50 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-10 00:28:48 UTC`
+📆 Last Updated: `2023-03-10 01:45:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 2 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 3 | [welcome back kisses](http://twitter.com/search?q=welcome+back+kisses) | N/A |
-| 4 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 5 | [#engeneselcaday](http://twitter.com/search?q=%23engeneselcaday) | N/A |
-| 6 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
-| 7 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 8 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
-| 9 | [#tatayacoj](http://twitter.com/search?q=%23tatayacoj) | N/A |
+| 3 | [#MNLManiacGA](http://twitter.com/search?q=%23MNLManiacGA) | N/A |
+| 4 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 5 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 6 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
+| 7 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
+| 8 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
+| 9 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
 | 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 11 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
 | 12 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 13 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 14 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
-| 15 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
-| 16 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
-| 17 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 13 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 15 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 16 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 17 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 18 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 19 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
-| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 21 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
-| 22 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
-| 23 | [ppop kings](http://twitter.com/search?q=ppop+kings) | N/A |
-| 24 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
-| 25 | [the corrs](http://twitter.com/search?q=the+corrs) | N/A |
-| 26 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 27 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 28 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 29 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 30 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
-| 31 | [inang](http://twitter.com/search?q=inang) | N/A |
-| 32 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 33 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
-| 34 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 35 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
-| 36 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
-| 37 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
-| 38 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
-| 39 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 40 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 42 | [isabela](http://twitter.com/search?q=isabela) | N/A |
-| 43 | [jessey](http://twitter.com/search?q=jessey) | N/A |
-| 44 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
-| 45 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 46 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 47 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 48 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 49 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
-| 50 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 19 | [BETS Bulacan](http://twitter.com/search?q=BETS+Bulacan) | N/A |
+| 20 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 21 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 22 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 23 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
+| 24 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
+| 25 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 26 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
+| 27 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 29 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 30 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 31 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 32 | [PPOP Kings](http://twitter.com/search?q=PPOP+Kings) | N/A |
+| 33 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 34 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
+| 35 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 36 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 37 | [Magandang Umaga](http://twitter.com/search?q=Magandang+Umaga) | N/A |
+| 38 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 39 | [WE LOVE YOU KIARA](http://twitter.com/search?q=WE+LOVE+YOU+KIARA) | N/A |
+| 40 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 42 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
+| 43 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
+| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 45 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 46 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 47 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 48 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
+| 49 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 50 | [YARA ADDA OUT NOW](http://twitter.com/search?q=YARA+ADDA+OUT+NOW) | N/A |
 
 
 

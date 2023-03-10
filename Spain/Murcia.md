@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-10 00:28:39 UTC`
+📆 Last Updated: `2023-03-10 01:45:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 4 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
-| 5 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 8 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 11 | [feliz 8m](http://twitter.com/search?q=feliz+8m) | N/A |
-| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 13 | [chollometro](http://twitter.com/search?q=chollometro) | N/A |
-| 14 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
-| 15 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
-| 16 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 18 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 20 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 21 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 22 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 23 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 24 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 25 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 26 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 28 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
-| 29 | [pacma](http://twitter.com/search?q=pacma) | N/A |
-| 30 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 31 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 32 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 33 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 34 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 35 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 36 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 37 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 38 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 39 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 40 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [moting](http://twitter.com/search?q=moting) | N/A |
-| 43 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 45 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
-| 46 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 47 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 48 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
-| 49 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 50 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 1 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
+| 2 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
+| 3 | [#PremiosIdolo](http://twitter.com/search?q=%23PremiosIdolo) | N/A |
+| 4 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 5 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 6 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 7 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 8 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 9 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 10 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 11 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 12 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 13 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 14 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
+| 15 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 16 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 17 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 18 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
+| 19 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 20 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 21 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 22 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 23 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 24 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 25 | [Aguasantas](http://twitter.com/search?q=Aguasantas) | N/A |
+| 26 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 28 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 29 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 31 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 32 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 33 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 34 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 35 | [juan magan](http://twitter.com/search?q=juan+magan) | N/A |
+| 36 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 37 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 38 | [Telmo](http://twitter.com/search?q=Telmo) | N/A |
+| 39 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
+| 40 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 41 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 42 | [Nil Ojeda](http://twitter.com/search?q=Nil+Ojeda) | N/A |
+| 43 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 44 | [kidd keo](http://twitter.com/search?q=kidd+keo) | N/A |
+| 45 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 46 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 47 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 48 | [Tierra de Nadie](http://twitter.com/search?q=Tierra+de+Nadie) | N/A |
 
 
 
