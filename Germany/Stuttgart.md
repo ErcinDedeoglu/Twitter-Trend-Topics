@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-10 06:17:21 UTC`
+📆 Last Updated: `2023-03-10 07:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
-| 4 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 5 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 6 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
-| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 8 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
-| 9 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
-| 10 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 13 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 14 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 15 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 16 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 17 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 18 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 19 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 20 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 21 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 23 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 24 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 25 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 26 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
-| 27 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
-| 28 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 29 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 30 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 31 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
-| 32 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 33 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 1 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 2 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 3 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
+| 6 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
+| 7 | [schnee](http://twitter.com/search?q=schnee) | N/A |
+| 8 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 10 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 11 | [schufa](http://twitter.com/search?q=schufa) | N/A |
+| 12 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
+| 13 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 14 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
+| 16 | [männern](http://twitter.com/search?q=m%c3%a4nnern) | N/A |
+| 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 18 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 19 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 20 | [taucher](http://twitter.com/search?q=taucher) | N/A |
+| 21 | [flinta](http://twitter.com/search?q=flinta) | N/A |
+| 22 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 23 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 24 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 25 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 26 | [feminismus](http://twitter.com/search?q=feminismus) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 29 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
+| 30 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 31 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 32 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 33 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
 | 34 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 35 | [Tote und Verletzte](http://twitter.com/search?q=Tote+und+Verletzte) | N/A |
-| 36 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 37 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 38 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 39 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 40 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 41 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 42 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 43 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 44 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 45 | [Erzwungen](http://twitter.com/search?q=Erzwungen) | N/A |
-| 46 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 47 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 48 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 35 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 36 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 37 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 38 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 39 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 40 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 41 | [blumen](http://twitter.com/search?q=blumen) | N/A |
+| 42 | [sprengung](http://twitter.com/search?q=sprengung) | N/A |
+| 43 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 44 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 45 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 46 | [wärmepumpen](http://twitter.com/search?q=w%c3%a4rmepumpen) | N/A |
+| 47 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 48 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 49 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 
 
 

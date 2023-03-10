@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-10 06:17:56 UTC`
+📆 Last Updated: `2023-03-10 07:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 3 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 4 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
-| 5 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
-| 6 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
-| 7 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 8 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 9 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 10 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 11 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 12 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 13 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 14 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
-| 15 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
-| 16 | [FREENBECKY IN LATAM](http://twitter.com/search?q=FREENBECKY+IN+LATAM) | N/A |
-| 17 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 18 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 19 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
-| 20 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 21 | [La U](http://twitter.com/search?q=La+U) | N/A |
-| 22 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 23 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 24 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
-| 25 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 26 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 27 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 30 | [Solis](http://twitter.com/search?q=Solis) | N/A |
-| 31 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 32 | [Pretell](http://twitter.com/search?q=Pretell) | N/A |
-| 33 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
-| 34 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 35 | [alemania y marruecos](http://twitter.com/search?q=alemania+y+marruecos) | N/A |
-| 36 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 37 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 38 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 39 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 40 | [Aldair Fuentes](http://twitter.com/search?q=Aldair+Fuentes) | N/A |
-| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 42 | [Feliz Día](http://twitter.com/search?q=Feliz+D%c3%ada) | N/A |
-| 43 | [Petroperú](http://twitter.com/search?q=Petroper%c3%ba) | N/A |
-| 44 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
-| 45 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 46 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
-| 47 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 48 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 49 | [Gianfranco Chávez](http://twitter.com/search?q=Gianfranco+Ch%c3%a1vez) | N/A |
-| 50 | [Talara](http://twitter.com/search?q=Talara) | N/A |
+| 1 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
+| 5 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 6 | [mvll](http://twitter.com/search?q=mvll) | N/A |
+| 7 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 8 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 9 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [brandon palacios](http://twitter.com/search?q=brandon+palacios) | N/A |
+| 12 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 13 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 16 | [alemania y marruecos](http://twitter.com/search?q=alemania+y+marruecos) | N/A |
+| 17 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 18 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
+| 19 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 20 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 21 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 22 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 23 | [arguedas](http://twitter.com/search?q=arguedas) | N/A |
+| 24 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 25 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 26 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 27 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
+| 28 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 31 | [josé williams](http://twitter.com/search?q=jos%c3%a9+williams) | N/A |
+| 32 | [tambo](http://twitter.com/search?q=tambo) | N/A |
+| 33 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 34 | [nativa](http://twitter.com/search?q=nativa) | N/A |
+| 35 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 36 | [jaime chincha](http://twitter.com/search?q=jaime+chincha) | N/A |
+| 37 | [build always on top](http://twitter.com/search?q=build+always+on+top) | N/A |
+| 38 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 39 | [mesa directiva](http://twitter.com/search?q=mesa+directiva) | N/A |
+| 40 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 41 | [congratulations j-hope](http://twitter.com/search?q=congratulations+j-hope) | N/A |
+| 42 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 43 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
+| 44 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 45 | [ascues](http://twitter.com/search?q=ascues) | N/A |
+| 46 | [panamericana norte](http://twitter.com/search?q=panamericana+norte) | N/A |
+| 47 | [cancha 1](http://twitter.com/search?q=cancha+1) | N/A |
+| 48 | [jaimito](http://twitter.com/search?q=jaimito) | N/A |
+| 49 | [MNET](http://twitter.com/search?q=MNET) | N/A |
+| 50 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-10 06:17:54 UTC`
+📆 Last Updated: `2023-03-10 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 3 | [#JuventusFriburgo](http://twitter.com/search?q=%23JuventusFriburgo) | N/A |
-| 4 | [#UnaDelleMiglioriSensazioni](http://twitter.com/search?q=%23UnaDelleMiglioriSensazioni) | N/A |
-| 5 | [#10marzo](http://twitter.com/search?q=%2310marzo) | N/A |
-| 6 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 7 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 8 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 9 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 10 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 11 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
-| 12 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 13 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 14 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 15 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 16 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 18 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 19 | [Elia](http://twitter.com/search?q=Elia) | N/A |
-| 20 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 21 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 22 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 23 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 24 | [don matteo](http://twitter.com/search?q=don+matteo) | N/A |
-| 25 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 26 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 27 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 28 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 29 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 30 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 31 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 32 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
-| 33 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 34 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 35 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 38 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 39 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 40 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 41 | [ammonito](http://twitter.com/search?q=ammonito) | N/A |
-| 42 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
-| 43 | [petolicchio](http://twitter.com/search?q=petolicchio) | N/A |
-| 44 | [mary rose](http://twitter.com/search?q=mary+rose) | N/A |
-| 45 | [Viterbo](http://twitter.com/search?q=Viterbo) | N/A |
-| 46 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 47 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 48 | [figc](http://twitter.com/search?q=figc) | N/A |
-| 49 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 50 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 1 | [#unaTARDIVA_gita_aCUTRO](http://twitter.com/search?q=%23unaTARDIVA_gita_aCUTRO) | N/A |
+| 2 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 3 | [#romarealsociedad](http://twitter.com/search?q=%23romarealsociedad) | N/A |
+| 4 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 5 | [#tottenhammilan](http://twitter.com/search?q=%23tottenhammilan) | N/A |
+| 6 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
+| 7 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 9 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 10 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 11 | [consiglio di stato](http://twitter.com/search?q=consiglio+di+stato) | N/A |
+| 12 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 13 | [paratici](http://twitter.com/search?q=paratici) | N/A |
+| 14 | [viterbo](http://twitter.com/search?q=viterbo) | N/A |
+| 15 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 16 | [figc](http://twitter.com/search?q=figc) | N/A |
+| 17 | [umbertide](http://twitter.com/search?q=umbertide) | N/A |
+| 18 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 19 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
+| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 21 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 23 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 24 | [cecilia sala](http://twitter.com/search?q=cecilia+sala) | N/A |
+| 25 | [il psg](http://twitter.com/search?q=il+psg) | N/A |
+| 26 | [joe formaggio](http://twitter.com/search?q=joe+formaggio) | N/A |
+| 27 | [covisoc](http://twitter.com/search?q=covisoc) | N/A |
+| 28 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 29 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 30 | [sanchez](http://twitter.com/search?q=sanchez) | N/A |
+| 31 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 33 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
+| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 35 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 36 | [bianca balti](http://twitter.com/search?q=bianca+balti) | N/A |
+| 37 | [berlinguer](http://twitter.com/search?q=berlinguer) | N/A |
+| 38 | [umbria](http://twitter.com/search?q=umbria) | N/A |
+| 39 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 40 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 41 | [Uguale](http://twitter.com/search?q=Uguale) | N/A |
+| 42 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 43 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [#UominieDonne](http://twitter.com/search?q=%23UominieDonne) | N/A |
+| 46 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 47 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 48 | [#Inter115](http://twitter.com/search?q=%23Inter115) | N/A |
+| 49 | [#JuveFriburgo](http://twitter.com/search?q=%23JuveFriburgo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-10 06:17:58 UTC`
+📆 Last Updated: `2023-03-10 07:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 4 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 5 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 6 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [WE LOVE YOU KIARA](http://twitter.com/search?q=WE+LOVE+YOU+KIARA) | N/A |
-| 10 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 11 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 12 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 13 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [MH370](http://twitter.com/search?q=MH370) | N/A |
-| 16 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 17 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
-| 18 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Header](http://twitter.com/search?q=Header) | N/A |
-| 21 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 23 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 25 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 27 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 28 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 32 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 34 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 35 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 36 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 37 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 38 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 39 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
-| 40 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 45 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 46 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 50 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#embraceequity](http://twitter.com/search?q=%23embraceequity) | N/A |
+| 5 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 6 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [MH370](http://twitter.com/search?q=MH370) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 11 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 15 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [why why why](http://twitter.com/search?q=why+why+why) | N/A |
+| 18 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 19 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 20 | [MNET](http://twitter.com/search?q=MNET) | N/A |
+| 21 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 22 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 23 | [Mandarin](http://twitter.com/search?q=Mandarin) | N/A |
+| 24 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 25 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 26 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 28 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 29 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 30 | [Milo](http://twitter.com/search?q=Milo) | N/A |
+| 31 | [xhaka](http://twitter.com/search?q=xhaka) | N/A |
+| 32 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
+| 33 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 34 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 35 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 36 | [HARUTO](http://twitter.com/search?q=HARUTO) | N/A |
+| 37 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 38 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 39 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 40 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 41 | [telegram](http://twitter.com/search?q=telegram) | N/A |
+| 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 43 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 44 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
+| 45 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 46 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 47 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 48 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 49 | [byul](http://twitter.com/search?q=byul) | N/A |
+| 50 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
 
 
 

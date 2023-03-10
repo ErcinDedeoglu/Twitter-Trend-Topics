@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-10 06:17:06 UTC`
+📆 Last Updated: `2023-03-10 07:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 6 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 7 | [#ranboospace](http://twitter.com/search?q=%23ranboospace) | N/A |
-| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 9 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 10 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 12 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 13 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 14 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 15 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 16 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 17 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 18 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 19 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 20 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 21 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 22 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 23 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 24 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 26 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 28 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 30 | [Devin Shore](http://twitter.com/search?q=Devin+Shore) | N/A |
-| 31 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 32 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 33 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 34 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 35 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 38 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 39 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 40 | [Batherson](http://twitter.com/search?q=Batherson) | N/A |
-| 41 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 42 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 43 | [DJ Smith](http://twitter.com/search?q=DJ+Smith) | N/A |
-| 44 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
-| 45 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 46 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 47 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 48 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 49 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
-| 50 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#embraceequity](http://twitter.com/search?q=%23embraceequity) | N/A |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 6 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 7 | [#trudeauchineseasset](http://twitter.com/search?q=%23trudeauchineseasset) | N/A |
+| 8 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 9 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 11 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 12 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
+| 13 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 14 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 15 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 16 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 17 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 18 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 19 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 21 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 22 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 23 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 26 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 27 | [oyap](http://twitter.com/search?q=oyap) | N/A |
+| 28 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 29 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 30 | [corey perry](http://twitter.com/search?q=corey+perry) | N/A |
+| 31 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 32 | [martinelli](http://twitter.com/search?q=martinelli) | N/A |
+| 33 | [Singh](http://twitter.com/search?q=Singh) | N/A |
+| 34 | [bank of canada](http://twitter.com/search?q=bank+of+canada) | N/A |
+| 35 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 36 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Shore](http://twitter.com/search?q=Shore) | N/A |
+| 39 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 40 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 41 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 42 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 43 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 44 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 45 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 46 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 47 | [daily quordle 409](http://twitter.com/search?q=daily+quordle+409) | N/A |
 
 
 

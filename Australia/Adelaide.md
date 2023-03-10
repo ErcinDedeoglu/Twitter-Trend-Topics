@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-10 06:17:26 UTC`
+📆 Last Updated: `2023-03-10 07:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 2 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 3 | [#ranboospace](http://twitter.com/search?q=%23ranboospace) | N/A |
-| 4 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 6 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 7 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 8 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
-| 9 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 10 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 12 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
-| 13 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 14 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 15 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 16 | [australian reading hour](http://twitter.com/search?q=australian+reading+hour) | N/A |
-| 17 | [Andrew Wilkie](http://twitter.com/search?q=Andrew+Wilkie) | N/A |
-| 18 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
-| 19 | [Goodes](http://twitter.com/search?q=Goodes) | N/A |
-| 20 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 21 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 23 | [McBride](http://twitter.com/search?q=McBride) | N/A |
-| 24 | [Jarrad](http://twitter.com/search?q=Jarrad) | N/A |
-| 25 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
-| 26 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 27 | [Waleed](http://twitter.com/search?q=Waleed) | N/A |
-| 28 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 29 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 30 | [Tass](http://twitter.com/search?q=Tass) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
-| 33 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 34 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 35 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
-| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 37 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 38 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
-| 39 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 40 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 41 | [Kilmore](http://twitter.com/search?q=Kilmore) | N/A |
-| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 43 | [Illawarra](http://twitter.com/search?q=Illawarra) | N/A |
-| 44 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 45 | [Wordle 629 X](http://twitter.com/search?q=Wordle+629+X) | N/A |
-| 46 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 47 | [Wooden Spoon](http://twitter.com/search?q=Wooden+Spoon) | N/A |
-| 48 | [Josh Frydenberg](http://twitter.com/search?q=Josh+Frydenberg) | N/A |
-| 49 | [Kathleen Madgwick](http://twitter.com/search?q=Kathleen+Madgwick) | N/A |
-| 50 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 1 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#ausvind](http://twitter.com/search?q=%23ausvind) | N/A |
+| 7 | [usman khawaja](http://twitter.com/search?q=usman+khawaja) | N/A |
+| 8 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 9 | [rising star](http://twitter.com/search?q=rising+star) | N/A |
+| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 11 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 12 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 13 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 14 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 15 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 16 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
+| 17 | [uzzie](http://twitter.com/search?q=uzzie) | N/A |
+| 18 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 19 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 20 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 21 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
+| 22 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
+| 23 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
+| 24 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 25 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 26 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 27 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 28 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 31 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 32 | [kardashian](http://twitter.com/search?q=kardashian) | N/A |
+| 33 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 34 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 35 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
+| 36 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 37 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 38 | [cam green](http://twitter.com/search?q=cam+green) | N/A |
+| 39 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 40 | [seafolly](http://twitter.com/search?q=seafolly) | N/A |
+| 41 | [Supercars](http://twitter.com/search?q=Supercars) | N/A |
+| 42 | [fine line](http://twitter.com/search?q=fine+line) | N/A |
+| 43 | [Tass](http://twitter.com/search?q=Tass) | N/A |
+| 44 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 45 | [Rabbits](http://twitter.com/search?q=Rabbits) | N/A |
+| 46 | [jason demetriou](http://twitter.com/search?q=jason+demetriou) | N/A |
+| 47 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 48 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
+| 49 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 50 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
 
 
 
