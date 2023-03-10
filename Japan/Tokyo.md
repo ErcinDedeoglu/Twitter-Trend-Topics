@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-10 20:16:49 UTC`
+📆 Last Updated: `2023-03-10 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#オタ工](http://twitter.com/search?q=%23%e3%82%aa%e3%82%bf%e5%b7%a5) | N/A |
-| 2 | [リボンブローチ](http://twitter.com/search?q=%e3%83%aa%e3%83%9c%e3%83%b3%e3%83%96%e3%83%ad%e3%83%bc%e3%83%81) | N/A |
-| 3 | [#nottestellata](http://twitter.com/search?q=%23nottestellata) | N/A |
-| 4 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
-| 5 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 6 | [近ちゃん](http://twitter.com/search?q=%e8%bf%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 7 | [東北支援](http://twitter.com/search?q=%e6%9d%b1%e5%8c%97%e6%94%af%e6%8f%b4) | N/A |
-| 8 | [防災のため](http://twitter.com/search?q=%e9%98%b2%e7%81%bd%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
-| 9 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
-| 10 | [#bananamoon](http://twitter.com/search?q=%23bananamoon) | N/A |
-| 11 | [ヤフー社](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%83%bc%e7%a4%be) | N/A |
-| 12 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 13 | [経営破綻](http://twitter.com/search?q=%e7%b5%8c%e5%96%b6%e7%a0%b4%e7%b6%bb) | N/A |
-| 14 | [#大人の歌謡クラブ](http://twitter.com/search?q=%23%e5%a4%a7%e4%ba%ba%e3%81%ae%e6%ad%8c%e8%ac%a1%e3%82%af%e3%83%a9%e3%83%96) | N/A |
-| 15 | [つべらおつこれ](http://twitter.com/search?q=%e3%81%a4%e3%81%b9%e3%82%89%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
-| 16 | [米銀SVB](http://twitter.com/search?q=%e7%b1%b3%e9%8a%80SVB) | N/A |
-| 17 | [SVB破綻](http://twitter.com/search?q=SVB%e7%a0%b4%e7%b6%bb) | N/A |
-| 18 | [米当局発表](http://twitter.com/search?q=%e7%b1%b3%e5%bd%93%e5%b1%80%e7%99%ba%e8%a1%a8) | N/A |
-| 19 | [シリコンバレー銀行](http://twitter.com/search?q=%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%83%90%e3%83%ac%e3%83%bc%e9%8a%80%e8%a1%8c) | N/A |
-| 20 | [預金保護](http://twitter.com/search?q=%e9%a0%90%e9%87%91%e4%bf%9d%e8%ad%b7) | N/A |
-| 21 | [ヤフーとLINE](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%83%bc%e3%81%a8LINE) | ヤフーとLINE is a phrase that refers to two popular Japanese internet services: Yahoo! and LINE. In English, it can be translated as "Yahoo! and LINE". |
-| 22 | [風間ぽん](http://twitter.com/search?q=%e9%a2%a8%e9%96%93%e3%81%bd%e3%82%93) | 風間ぽん is a Japanese phrase that literally translates to "wind between us". It is used to express the feeling of being connected to someone even when they are far away. |
-| 23 | [ニノTwitter](http://twitter.com/search?q=%e3%83%8b%e3%83%8eTwitter) | N/A |
-| 24 | [銀行破綻](http://twitter.com/search?q=%e9%8a%80%e8%a1%8c%e7%a0%b4%e7%b6%bb) | N/A |
-| 25 | [第414回](http://twitter.com/search?q=%e7%ac%ac414%e5%9b%9e) | N/A |
-| 26 | [二宮和也](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e5%92%8c%e4%b9%9f) | N/A |
-| 27 | [犠牲フライ](http://twitter.com/search?q=%e7%8a%a0%e7%89%b2%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
-| 28 | [ポジティ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3) | N/A |
-| 29 | [LINE社](http://twitter.com/search?q=LINE%e7%a4%be) | N/A |
-| 30 | [二宮くん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e3%81%8f%e3%82%93) | 二宮くん is a nickname for the Japanese singer and actor, Takuya Ninomiya. It is a combination of his given name, Takuya, and the honorific suffix -kun. In English, it can be translated to "Takuya-kun". |
-| 31 | [風間くん](http://twitter.com/search?q=%e9%a2%a8%e9%96%93%e3%81%8f%e3%82%93) | 風間くん (Kazama-kun) is a Japanese manga series written and illustrated by Hideaki Fujii. It follows the story of Kazama, a high school student who has the ability to see and talk to ghosts. The title of the series is a play on words, as 風間 (Kazama) can mean both "wind" and "space". In English, it could be translated as "Kazama the Ghost Whisperer". |
-| 32 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 33 | [Twitter開設](http://twitter.com/search?q=Twitter%e9%96%8b%e8%a8%ad) | Twitter開設 is a Japanese phrase that translates to "setting up a Twitter account". It refers to the process of creating an account on the social media platform Twitter. |
-| 34 | [安藤サクラ](http://twitter.com/search?q=%e5%ae%89%e8%97%a4%e3%82%b5%e3%82%af%e3%83%a9) | N/A |
-| 35 | [ジョゼフ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%bc%e3%83%95) | N/A |
-| 36 | [ハチワレ](http://twitter.com/search?q=%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
-| 37 | [記念カード](http://twitter.com/search?q=%e8%a8%98%e5%bf%b5%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 38 | [ブーイング](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
-| 39 | [デッドボール](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%89%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 40 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
-| 41 | [ナガノ先生](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%8e%e5%85%88%e7%94%9f) | N/A |
-| 42 | [人のツイート](http://twitter.com/search?q=%e4%ba%ba%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
-| 43 | [二宮さん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e3%81%95%e3%82%93) | N/A |
-| 44 | [キメラ化](http://twitter.com/search?q=%e3%82%ad%e3%83%a1%e3%83%a9%e5%8c%96) | キメラ化 is a Japanese term that literally translates to "chimeraization". It is used to describe the process of combining two or more different elements into one, creating something new and unique. For example, it could be used to describe the combination of two different types of music, or the combination of two different types of technology. |
-| 45 | [岸井ゆきの](http://twitter.com/search?q=%e5%b2%b8%e4%ba%95%e3%82%86%e3%81%8d%e3%81%ae) | N/A |
-| 46 | [チェコ戦](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e6%88%a6) | N/A |
-| 47 | [ニッポンダイスキ](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3%e3%83%80%e3%82%a4%e3%82%b9%e3%82%ad) | N/A |
-| 48 | [中山牝馬S](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e7%89%9d%e9%a6%acS) | N/A |
-| 49 | [A-Studio](http://twitter.com/search?q=A-Studio) | A-Studio is a Russian pop music group that was formed in 1995. The name of the group is derived from the first letter of each of the founding members' surnames: Aleksandr, Sergey, Timur, and Oleg. In English, A-Studio stands for "Alexander-Sergey-Timur-Oleg". |
-| 50 | [ヒーローインタビュー](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 1 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
+| 2 | [バンギャ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%ae%e3%83%a3) | N/A |
+| 3 | [#jojo_anime](http://twitter.com/search?q=%23jojo_anime) | N/A |
+| 4 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
+| 5 | [ヘドバン](http://twitter.com/search?q=%e3%83%98%e3%83%89%e3%83%90%e3%83%b3) | N/A |
+| 6 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 7 | [#カネ梨和也](http://twitter.com/search?q=%23%e3%82%ab%e3%83%8d%e6%a2%a8%e5%92%8c%e4%b9%9f) | N/A |
+| 8 | [記念カード](http://twitter.com/search?q=%e8%a8%98%e5%bf%b5%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 9 | [チェコ戦](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e6%88%a6) | N/A |
+| 10 | [安藤サクラ](http://twitter.com/search?q=%e5%ae%89%e8%97%a4%e3%82%b5%e3%82%af%e3%83%a9) | N/A |
+| 11 | [ニッポンダイスキ](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3%e3%83%80%e3%82%a4%e3%82%b9%e3%82%ad) | N/A |
+| 12 | [髙橋宏斗](http://twitter.com/search?q=%e9%ab%99%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 13 | [#日本vs韓国](http://twitter.com/search?q=%23%e6%97%a5%e6%9c%acvs%e9%9f%93%e5%9b%bd) | N/A |
+| 14 | [優秀主演男優賞](http://twitter.com/search?q=%e5%84%aa%e7%a7%80%e4%b8%bb%e6%bc%94%e7%94%b7%e5%84%aa%e8%b3%9e) | 優秀主演男優賞 is an award given to the best male lead actor in a film or television show. It is an honor given to recognize the actor's outstanding performance. In English, it is known as the Outstanding Lead Actor Award. |
+| 15 | [#Mx2](http://twitter.com/search?q=%23Mx2) | #Mx2 is a hashtag used on social media to refer to the Mexican-American community. It is often used to show support for the Mexican-American community and to highlight their contributions to society. |
+| 16 | [#WBC日韓戦](http://twitter.com/search?q=%23WBC%e6%97%a5%e9%9f%93%e6%88%a6) | N/A |
+| 17 | [ニノちゃん](http://twitter.com/search?q=%e3%83%8b%e3%83%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 18 | [ウジくん](http://twitter.com/search?q=%e3%82%a6%e3%82%b8%e3%81%8f%e3%82%93) | N/A |
+| 19 | [韓国相手](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e7%9b%b8%e6%89%8b) | N/A |
+| 20 | [日本強すぎ](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%bc%b7%e3%81%99%e3%81%8e) | N/A |
+| 21 | [作成者不明](http://twitter.com/search?q=%e4%bd%9c%e6%88%90%e8%80%85%e4%b8%8d%e6%98%8e) | N/A |
+| 22 | [クリノプレミアム](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%8e%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0) | クリノプレミアム is a type of Japanese sake made from rice, water, and koji (a type of mold). It is characterized by its rich flavor and aroma. In English, it can be translated as "Kurino Premium". |
+| 23 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
+| 24 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
+| 25 | [ラーゲリ](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b2%e3%83%aa) | N/A |
+| 26 | [大量得点](http://twitter.com/search?q=%e5%a4%a7%e9%87%8f%e5%be%97%e7%82%b9) | N/A |
+| 27 | [ゆきのちゃん](http://twitter.com/search?q=%e3%82%86%e3%81%8d%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [そらるさん](http://twitter.com/search?q=%e3%81%9d%e3%82%89%e3%82%8b%e3%81%95%e3%82%93) | N/A |
+| 29 | [北海道と千葉](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%a8%e5%8d%83%e8%91%89) | N/A |
+| 30 | [北海道と関東](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%a8%e9%96%a2%e6%9d%b1) | N/A |
+| 31 | [千葉と北海道](http://twitter.com/search?q=%e5%8d%83%e8%91%89%e3%81%a8%e5%8c%97%e6%b5%b7%e9%81%93) | N/A |
+| 32 | [北海道の地震](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e5%9c%b0%e9%9c%87) | N/A |
+| 33 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 34 | [別の地震](http://twitter.com/search?q=%e5%88%a5%e3%81%ae%e5%9c%b0%e9%9c%87) | N/A |
+| 35 | [地震びっくり](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e3%81%b3%e3%81%a3%e3%81%8f%e3%82%8a) | N/A |
+| 36 | [東北支援](http://twitter.com/search?q=%e6%9d%b1%e5%8c%97%e6%94%af%e6%8f%b4) | N/A |
+| 37 | [千葉県北西部](http://twitter.com/search?q=%e5%8d%83%e8%91%89%e7%9c%8c%e5%8c%97%e8%a5%bf%e9%83%a8) | N/A |
+| 38 | [防災のため](http://twitter.com/search?q=%e9%98%b2%e7%81%bd%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
+| 39 | [北海道と東京](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%a8%e6%9d%b1%e4%ba%ac) | N/A |
+| 40 | [東日本大震災](http://twitter.com/search?q=%e6%9d%b1%e6%97%a5%e6%9c%ac%e5%a4%a7%e9%9c%87%e7%81%bd) | N/A |
+| 41 | [ヤフー社](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%83%bc%e7%a4%be) | N/A |
+| 42 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 43 | [地震速報](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 地震速報 (Jishin Sokuho) is a Japanese term meaning "earthquake bulletin". It is an alert system used to inform the public of earthquakes in Japan. The system provides information on the magnitude, location, and intensity of earthquakes, as well as any potential tsunami warnings. |
+| 44 | [関東と北海道](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e3%81%a8%e5%8c%97%e6%b5%b7%e9%81%93) | N/A |
+| 45 | [異常震域](http://twitter.com/search?q=%e7%95%b0%e5%b8%b8%e9%9c%87%e5%9f%9f) | 異常震域 is a Japanese term that literally translates to "abnormal seismic zone". It refers to an area where there is an increased risk of earthquakes due to geological or other factors. |
+| 46 | [地震のせい](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 47 | [地震情報](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e6%83%85%e5%a0%b1) | N/A |
+| 48 | [震源北海道](http://twitter.com/search?q=%e9%9c%87%e6%ba%90%e5%8c%97%e6%b5%b7%e9%81%93) | N/A |
+| 49 | [経営破綻](http://twitter.com/search?q=%e7%b5%8c%e5%96%b6%e7%a0%b4%e7%b6%bb) | N/A |
+| 50 | [同時地震](http://twitter.com/search?q=%e5%90%8c%e6%99%82%e5%9c%b0%e9%9c%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-10 20:16:45 UTC`
+📆 Last Updated: `2023-03-10 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
-| 2 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 3 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
-| 4 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 5 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 6 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 7 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
-| 8 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 9 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
-| 10 | [Umur 14](http://twitter.com/search?q=Umur+14) | N/A |
-| 11 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
-| 12 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
-| 13 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
-| 14 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 15 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 16 | [pendiem](http://twitter.com/search?q=pendiem) | N/A |
+| 1 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
+| 2 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
+| 3 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
+| 4 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 5 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 6 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
+| 7 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 8 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 9 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
+| 10 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
+| 11 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
+| 12 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 13 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
+| 14 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 15 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 16 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 17 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 18 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 19 | [pak muh](http://twitter.com/search?q=pak+muh) | N/A |
-| 20 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 21 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 22 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 23 | [MINGYU POTONG RAMBUT](http://twitter.com/search?q=MINGYU+POTONG+RAMBUT) | N/A |
-| 24 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
-| 25 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 26 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
-| 27 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
-| 28 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
-| 29 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 30 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 31 | [komnas ham](http://twitter.com/search?q=komnas+ham) | N/A |
-| 32 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 33 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 34 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
-| 35 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
-| 38 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 39 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 40 | [Lumbung](http://twitter.com/search?q=Lumbung) | N/A |
-| 41 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 42 | [Selebrasi](http://twitter.com/search?q=Selebrasi) | N/A |
-| 43 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 45 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
-| 46 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 47 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 48 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 19 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 22 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 23 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 24 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 25 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 26 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 27 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 28 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 29 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
+| 30 | [wahyu kenzo](http://twitter.com/search?q=wahyu+kenzo) | N/A |
+| 31 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 32 | [HAECHAN MAGAZINE PREORDER NOW](http://twitter.com/search?q=HAECHAN+MAGAZINE+PREORDER+NOW) | N/A |
+| 33 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 34 | [KYUNGSOO ANAK JAMET SEOUL](http://twitter.com/search?q=KYUNGSOO+ANAK+JAMET+SEOUL) | N/A |
+| 35 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 36 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 37 | [we are so proud of you jin](http://twitter.com/search?q=we+are+so+proud+of+you+jin) | N/A |
+| 38 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 39 | [SAY MY NAME](http://twitter.com/search?q=SAY+MY+NAME) | N/A |
+| 40 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 41 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 42 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 43 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 44 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 45 | [om jin](http://twitter.com/search?q=om+jin) | N/A |
+| 46 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 47 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 48 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 49 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 
 
 

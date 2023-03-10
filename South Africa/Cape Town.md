@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-10 20:16:56 UTC`
+📆 Last Updated: `2023-03-10 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
 | 2 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 3 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
-| 4 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
-| 5 | [#BecomingMzansi](http://twitter.com/search?q=%23BecomingMzansi) | N/A |
-| 6 | [Congratulations Blue](http://twitter.com/search?q=Congratulations+Blue) | N/A |
-| 7 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 8 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 9 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 10 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 11 | [Sekhukhune United](http://twitter.com/search?q=Sekhukhune+United) | N/A |
-| 12 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
-| 13 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 14 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 15 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 16 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
-| 17 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
-| 18 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 19 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
-| 20 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
-| 21 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 22 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 23 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
-| 24 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
-| 25 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 26 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 29 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
-| 30 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
-| 31 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
-| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 33 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
-| 34 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 35 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
-| 36 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 37 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 38 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 39 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
-| 40 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 41 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 43 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 44 | [Wash](http://twitter.com/search?q=Wash) | N/A |
-| 45 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
-| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 47 | [Bullet](http://twitter.com/search?q=Bullet) | N/A |
-| 48 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 49 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 50 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 4 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
+| 5 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 6 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
+| 7 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 8 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 9 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 10 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
+| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 12 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
+| 13 | [Sekhukhune United](http://twitter.com/search?q=Sekhukhune+United) | N/A |
+| 14 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 15 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 16 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 17 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 18 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
+| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 20 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 21 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 22 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
+| 23 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 24 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 25 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
+| 26 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
+| 27 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
+| 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 29 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 30 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
+| 31 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
+| 32 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
+| 33 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 34 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
+| 35 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 36 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 37 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
+| 38 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 39 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
+| 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 41 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 42 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 43 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 45 | [Councillor](http://twitter.com/search?q=Councillor) | N/A |
+| 46 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
+| 47 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
+| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 49 | [Sunnyside](http://twitter.com/search?q=Sunnyside) | N/A |
 
 
 

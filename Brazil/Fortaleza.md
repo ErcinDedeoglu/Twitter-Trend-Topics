@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-10 20:16:34 UTC`
+📆 Last Updated: `2023-03-10 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 2 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 1 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 2 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
 | 3 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 4 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 5 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 6 | [N - Você](http://twitter.com/search?q=N+-+Voc%c3%aa) | N/A |
-| 7 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 6 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 7 | [L - Você](http://twitter.com/search?q=L+-+Voc%c3%aa) | N/A |
 | 8 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
 | 9 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 10 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 11 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
-| 12 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
-| 13 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 14 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 15 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
-| 16 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 17 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
-| 18 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
-| 19 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 10 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 11 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 12 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 13 | [#ADona065](http://twitter.com/search?q=%23ADona065) | N/A |
+| 14 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 15 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 16 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
+| 17 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 18 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
+| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 20 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 21 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
-| 22 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 25 | [#AlfaceLider](http://twitter.com/search?q=%23AlfaceLider) | N/A |
-| 26 | [Cláudio Castro](http://twitter.com/search?q=Cl%c3%a1udio+Castro) | N/A |
-| 27 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 28 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 29 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 30 | [Nardes](http://twitter.com/search?q=Nardes) | N/A |
-| 31 | [#aBossandaBabeEP2](http://twitter.com/search?q=%23aBossandaBabeEP2) | N/A |
-| 32 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 33 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 34 | [Movimentar](http://twitter.com/search?q=Movimentar) | N/A |
-| 35 | [Jaded](http://twitter.com/search?q=Jaded) | N/A |
-| 36 | [mari maria](http://twitter.com/search?q=mari+maria) | N/A |
-| 37 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 38 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
-| 39 | [FROID](http://twitter.com/search?q=FROID) | N/A |
-| 40 | [Mayke](http://twitter.com/search?q=Mayke) | Mayke is a Dutch name derived from the Latin name Michael, meaning "who is like God?". It is also a variant of the English name Mike. |
-| 41 | [Clodovil](http://twitter.com/search?q=Clodovil) | N/A |
-| 42 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
-| 43 | [NAO MANDA AUDIO](http://twitter.com/search?q=NAO+MANDA+AUDIO) | N/A |
-| 44 | [Island](http://twitter.com/search?q=Island) | N/A |
-| 45 | [André Mendonça](http://twitter.com/search?q=Andr%c3%a9+Mendon%c3%a7a) | N/A |
-| 46 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 47 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [raffa moreira](http://twitter.com/search?q=raffa+moreira) | N/A |
+| 21 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 22 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
+| 23 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
+| 24 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
+| 25 | [Tsunoda](http://twitter.com/search?q=Tsunoda) | N/A |
+| 26 | [Ex BBB](http://twitter.com/search?q=Ex+BBB) | N/A |
+| 27 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 28 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
+| 29 | [Cláudio Castro](http://twitter.com/search?q=Cl%c3%a1udio+Castro) | N/A |
+| 30 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
+| 31 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Froid](http://twitter.com/search?q=Froid) | N/A |
+| 34 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 35 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
+| 36 | [Clodovil](http://twitter.com/search?q=Clodovil) | N/A |
+| 37 | [Nardes](http://twitter.com/search?q=Nardes) | N/A |
+| 38 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 39 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 40 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 41 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 42 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 43 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 44 | [Rascunho](http://twitter.com/search?q=Rascunho) | N/A |
+| 45 | [Valdemar](http://twitter.com/search?q=Valdemar) | N/A |
+| 46 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 47 | [NAO MANDA AUDIO](http://twitter.com/search?q=NAO+MANDA+AUDIO) | N/A |
+| 48 | [André Mendonça](http://twitter.com/search?q=Andr%c3%a9+Mendon%c3%a7a) | N/A |
+| 49 | [Young Flu](http://twitter.com/search?q=Young+Flu) | N/A |
+| 50 | [Gustavo Tubarão](http://twitter.com/search?q=Gustavo+Tubar%c3%a3o) | N/A |
 
 
 

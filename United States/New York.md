@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-10 20:17:10 UTC`
+📆 Last Updated: `2023-03-10 21:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 2 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 6 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 7 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 9 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 10 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 11 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 12 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 15 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 16 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 17 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 18 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
-| 19 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 21 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 22 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 23 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 24 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 25 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 27 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
-| 28 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 29 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 30 | [Josh Pastner](http://twitter.com/search?q=Josh+Pastner) | N/A |
-| 31 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 32 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
-| 33 | [Kwesi](http://twitter.com/search?q=Kwesi) | N/A |
-| 34 | [Middle Tennessee](http://twitter.com/search?q=Middle+Tennessee) | N/A |
-| 35 | [MTSU](http://twitter.com/search?q=MTSU) | N/A |
-| 36 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 37 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 38 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 2 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 3 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
+| 4 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 5 | [Jason Arno](http://twitter.com/search?q=Jason+Arno) | N/A |
+| 6 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 7 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 8 | [Massachusetts](http://twitter.com/search?q=Massachusetts) | N/A |
+| 9 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 11 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 12 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 15 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 16 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 17 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 18 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 19 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 22 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 24 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 25 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 26 | [DMac](http://twitter.com/search?q=DMac) | N/A |
+| 27 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 28 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
+| 29 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 30 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 31 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 32 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
+| 33 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 34 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 35 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 36 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 37 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
+| 38 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
 | 39 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 40 | [Mason Gillis](http://twitter.com/search?q=Mason+Gillis) | Mason Gillis is a surname of Scottish origin. It is derived from the Old English words "gill" meaning "servant" and "maesen" meaning "stone". The name can be translated to mean "servant of the stone". |
-| 41 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 42 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 43 | [Washington Mutual](http://twitter.com/search?q=Washington+Mutual) | N/A |
-| 44 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 46 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 47 | [Tua's 5th](http://twitter.com/search?q=Tua%27s+5th) | N/A |
-| 48 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 49 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 50 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
+| 40 | [Ronald Darby](http://twitter.com/search?q=Ronald+Darby) | N/A |
+| 41 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 42 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
+| 43 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 44 | [Chase Edmonds](http://twitter.com/search?q=Chase+Edmonds) | N/A |
+| 45 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 46 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 47 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 48 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 49 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 50 | [Tyreke Key](http://twitter.com/search?q=Tyreke+Key) | N/A |
 
 
 

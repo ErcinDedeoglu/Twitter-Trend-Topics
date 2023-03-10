@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-10 20:16:28 UTC`
+📆 Last Updated: `2023-03-10 21:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 1 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
 | 4 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 5 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
+| 5 | [#LasCosasQueMásExtraño](http://twitter.com/search?q=%23LasCosasQueM%c3%a1sExtra%c3%b1o) | N/A |
 | 6 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
-| 7 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 8 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 11 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 14 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 15 | [Hola Toño](http://twitter.com/search?q=Hola+To%c3%b1o) | N/A |
-| 16 | [Mijares](http://twitter.com/search?q=Mijares) | N/A |
-| 17 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 18 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 19 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 20 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 21 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 22 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 23 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 24 | [Luis Ángel Malagón](http://twitter.com/search?q=Luis+%c3%81ngel+Malag%c3%b3n) | N/A |
-| 25 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 26 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 28 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
-| 29 | [Emmanuel](http://twitter.com/search?q=Emmanuel) | N/A |
-| 30 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 33 | [Chipotle](http://twitter.com/search?q=Chipotle) | N/A |
-| 34 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 36 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 37 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
-| 38 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 39 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 40 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 41 | [Antonio Chedraui Mafud](http://twitter.com/search?q=Antonio+Chedraui+Mafud) | N/A |
-| 42 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 43 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 44 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 45 | [Igualdad Laboral 2023](http://twitter.com/search?q=Igualdad+Laboral+2023) | N/A |
-| 46 | [Fernando Ortiz](http://twitter.com/search?q=Fernando+Ortiz) | N/A |
-| 47 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 48 | [Banda MS](http://twitter.com/search?q=Banda+MS) | N/A |
-| 49 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 50 | [Lunario](http://twitter.com/search?q=Lunario) | N/A |
+| 7 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 8 | [#TrabajoQueTransformaOaxaca](http://twitter.com/search?q=%23TrabajoQueTransformaOaxaca) | N/A |
+| 9 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 12 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 13 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 14 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 15 | [Callo](http://twitter.com/search?q=Callo) | N/A |
+| 16 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 17 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 18 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 19 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 20 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 21 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 22 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 23 | [Periodismo](http://twitter.com/search?q=Periodismo) | N/A |
+| 24 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 25 | [Antonio Chedraui Mafud](http://twitter.com/search?q=Antonio+Chedraui+Mafud) | N/A |
+| 26 | [Juezas](http://twitter.com/search?q=Juezas) | N/A |
+| 27 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
+| 28 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 29 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
+| 30 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 31 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
+| 32 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 33 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 34 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 35 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 36 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 37 | [Lunario](http://twitter.com/search?q=Lunario) | N/A |
+| 38 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 39 | [Narcoestado](http://twitter.com/search?q=Narcoestado) | N/A |
+| 40 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 41 | [Festival](http://twitter.com/search?q=Festival) | N/A |
+| 42 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
+| 43 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 44 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 45 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 46 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 47 | [#100DíasTransformandoOaxaca](http://twitter.com/search?q=%23100D%c3%adasTransformandoOaxaca) | N/A |
+| 48 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 49 | [#Palenque](http://twitter.com/search?q=%23Palenque) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-10 20:17:16 UTC`
+📆 Last Updated: `2023-03-10 21:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 2 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
-| 3 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
 | 4 | [#Karlsruhe](http://twitter.com/search?q=%23Karlsruhe) | N/A |
-| 5 | [#FCKSVS](http://twitter.com/search?q=%23FCKSVS) | N/A |
+| 5 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
 | 6 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 7 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 8 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
-| 9 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
-| 12 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 13 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 14 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 15 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 16 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 17 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 18 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
-| 19 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 20 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 21 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
-| 22 | [Pommes](http://twitter.com/search?q=Pommes) | N/A |
-| 23 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 24 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 25 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 26 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 27 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 29 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 30 | [Currywurst](http://twitter.com/search?q=Currywurst) | N/A |
-| 31 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 32 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 33 | [Katja](http://twitter.com/search?q=Katja) | N/A |
-| 34 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 35 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 36 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 37 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 38 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 39 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 40 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 41 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 42 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 43 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 44 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
-| 45 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 46 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 47 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
-| 48 | [Helene Fischer](http://twitter.com/search?q=Helene+Fischer) | N/A |
-| 49 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 50 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 7 | [Llambi](http://twitter.com/search?q=Llambi) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 10 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 11 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
+| 12 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 15 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 16 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 17 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 18 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 19 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 20 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 21 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 22 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
+| 23 | [Younes](http://twitter.com/search?q=Younes) | N/A |
+| 24 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
+| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 26 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 27 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
+| 28 | ['Zeit'](http://twitter.com/search?q=%27Zeit%27) | N/A |
+| 29 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 30 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
+| 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 32 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 33 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
+| 34 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 35 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 36 | [Ludwigshafen](http://twitter.com/search?q=Ludwigshafen) | N/A |
+| 37 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 38 | [Apotheke](http://twitter.com/search?q=Apotheke) | N/A |
+| 39 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 40 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
+| 41 | [Gesundheitsdaten](http://twitter.com/search?q=Gesundheitsdaten) | N/A |
+| 42 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 43 | [schießerei](http://twitter.com/search?q=schie%c3%9ferei) | N/A |
+| 44 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 45 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 46 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 47 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 48 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 49 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 50 | [Aussteiger](http://twitter.com/search?q=Aussteiger) | N/A |
 
 
 

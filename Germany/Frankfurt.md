@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-10 20:16:39 UTC`
+📆 Last Updated: `2023-03-10 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 2 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
-| 3 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
 | 4 | [#Karlsruhe](http://twitter.com/search?q=%23Karlsruhe) | N/A |
-| 5 | [#FCKSVS](http://twitter.com/search?q=%23FCKSVS) | N/A |
+| 5 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 6 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 7 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 10 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 11 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
-| 12 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
-| 13 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 14 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 15 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 17 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 18 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
-| 19 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 20 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 22 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
-| 23 | [Pommes](http://twitter.com/search?q=Pommes) | N/A |
-| 24 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 26 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 27 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 29 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 30 | [Currywurst](http://twitter.com/search?q=Currywurst) | N/A |
-| 31 | [Katja](http://twitter.com/search?q=Katja) | N/A |
-| 32 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 33 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 34 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 35 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 36 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 37 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 38 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
-| 39 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 40 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 41 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 42 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 43 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
-| 44 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 45 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 46 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 47 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 48 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
-| 49 | [Helene Fischer](http://twitter.com/search?q=Helene+Fischer) | N/A |
-| 50 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 7 | [Llambi](http://twitter.com/search?q=Llambi) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 10 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 11 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 14 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 15 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 16 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 17 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 18 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 20 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
+| 21 | [Younes](http://twitter.com/search?q=Younes) | N/A |
+| 22 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 23 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
+| 24 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 26 | ['Zeit'](http://twitter.com/search?q=%27Zeit%27) | N/A |
+| 27 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 28 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 29 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 30 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 32 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
+| 33 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 34 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 35 | [Ludwigshafen](http://twitter.com/search?q=Ludwigshafen) | N/A |
+| 36 | [Apotheke](http://twitter.com/search?q=Apotheke) | N/A |
+| 37 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
+| 38 | [Köln](http://twitter.com/search?q=K%c3%b6ln) | N/A |
+| 39 | [Gesundheitsdaten](http://twitter.com/search?q=Gesundheitsdaten) | N/A |
+| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 41 | [schießerei](http://twitter.com/search?q=schie%c3%9ferei) | N/A |
+| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 43 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 45 | [Aussteiger](http://twitter.com/search?q=Aussteiger) | N/A |
+| 46 | [Magazine](http://twitter.com/search?q=Magazine) | N/A |
+| 47 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 48 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 49 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 50 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
 
 
 

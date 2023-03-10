@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-10 20:17:16 UTC`
+📆 Last Updated: `2023-03-10 21:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#LOSCOL](http://twitter.com/search?q=%23LOSCOL) | N/A |
 | 2 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 4 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 5 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 6 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 11 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 12 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 13 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 14 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 15 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
-| 16 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 17 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
-| 18 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 19 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 20 | [Dave Appadoo](http://twitter.com/search?q=Dave+Appadoo) | N/A |
-| 21 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 22 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 23 | [Midnight Express](http://twitter.com/search?q=Midnight+Express) | N/A |
-| 24 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 25 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 26 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
-| 27 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 28 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 29 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
-| 30 | [Hambourg](http://twitter.com/search?q=Hambourg) | N/A |
-| 31 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 32 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 33 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 35 | [Lille - Lyon](http://twitter.com/search?q=Lille+-+Lyon) | N/A |
-| 36 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 37 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
-| 38 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 39 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 40 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 41 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 42 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 43 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Delphine](http://twitter.com/search?q=Delphine) | N/A |
-| 46 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 47 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 48 | [Alexandra Henrion](http://twitter.com/search?q=Alexandra+Henrion) | N/A |
-| 49 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 50 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 3 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 4 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 5 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 6 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 7 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 8 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
+| 9 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 10 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 11 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 12 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 13 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
+| 14 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 15 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 16 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 20 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 21 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 22 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
+| 23 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 24 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 25 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 26 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
+| 27 | [Delphine](http://twitter.com/search?q=Delphine) | N/A |
+| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 29 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 30 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 31 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
+| 32 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
+| 33 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 34 | [Pékin](http://twitter.com/search?q=P%c3%a9kin) | N/A |
+| 35 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 36 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 37 | [Vatican](http://twitter.com/search?q=Vatican) | N/A |
+| 38 | [Creuse](http://twitter.com/search?q=Creuse) | N/A |
+| 39 | [Jacques](http://twitter.com/search?q=Jacques) | N/A |
+| 40 | [#UFEO](http://twitter.com/search?q=%23UFEO) | N/A |
+| 41 | [#SOCASNL](http://twitter.com/search?q=%23SOCASNL) | N/A |
+| 42 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
+| 43 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 44 | [#GOTDS](http://twitter.com/search?q=%23GOTDS) | N/A |
+| 45 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
+| 46 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 47 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
+| 48 | [#VALRevolution](http://twitter.com/search?q=%23VALRevolution) | N/A |
+| 49 | [#manif11mars](http://twitter.com/search?q=%23manif11mars) | N/A |
+| 50 | [#IPlayYuGiOhTCG](http://twitter.com/search?q=%23IPlayYuGiOhTCG) | N/A |
 
 
 

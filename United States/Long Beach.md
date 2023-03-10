@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-10 20:17:08 UTC`
+📆 Last Updated: `2023-03-10 21:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 2 | [Hard Summer](http://twitter.com/search?q=Hard+Summer) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 8 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 9 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 12 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 15 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 16 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 17 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 18 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
-| 19 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 21 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 22 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 23 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 24 | [DMac](http://twitter.com/search?q=DMac) | N/A |
-| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 26 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
-| 27 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 28 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 29 | [Josh Pastner](http://twitter.com/search?q=Josh+Pastner) | N/A |
-| 30 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 31 | [Kwesi](http://twitter.com/search?q=Kwesi) | N/A |
-| 32 | [Middle Tennessee](http://twitter.com/search?q=Middle+Tennessee) | N/A |
-| 33 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
-| 34 | [MTSU](http://twitter.com/search?q=MTSU) | N/A |
-| 35 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 36 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
-| 37 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 38 | [Mason Gillis](http://twitter.com/search?q=Mason+Gillis) | Mason Gillis is a surname of Scottish origin. It is derived from the Old English words "gill" meaning "servant" and "maesen" meaning "stone". The name can be translated to mean "servant of the stone". |
-| 39 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 40 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 41 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 43 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 44 | [Tua's 5th](http://twitter.com/search?q=Tua%27s+5th) | N/A |
-| 45 | [Washington Mutual](http://twitter.com/search?q=Washington+Mutual) | N/A |
-| 46 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 1 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 3 | [FUNKO](http://twitter.com/search?q=FUNKO) | N/A |
+| 4 | [Brock Purdy](http://twitter.com/search?q=Brock+Purdy) | Brock Purdy is the name of an American college football quarterback who currently plays for the Iowa State Cyclones. He is known for his strong arm and accuracy, as well as his leadership on the field. |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [Hard Summer](http://twitter.com/search?q=Hard+Summer) | N/A |
+| 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 8 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 9 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 10 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 11 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 12 | [LA Times](http://twitter.com/search?q=LA+Times) | N/A |
+| 13 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 14 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 15 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 20 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 22 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 23 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 25 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 26 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 27 | [DMac](http://twitter.com/search?q=DMac) | N/A |
+| 28 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 29 | [MarkyB](http://twitter.com/search?q=MarkyB) | N/A |
+| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 31 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 32 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 33 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
+| 34 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 35 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 36 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 37 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 38 | [Dantzler](http://twitter.com/search?q=Dantzler) | N/A |
+| 39 | [Jelly Walker](http://twitter.com/search?q=Jelly+Walker) | N/A |
+| 40 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 41 | [Ronald Darby](http://twitter.com/search?q=Ronald+Darby) | N/A |
+| 42 | [Ramey](http://twitter.com/search?q=Ramey) | N/A |
+| 43 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 44 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 45 | [Chase Edmonds](http://twitter.com/search?q=Chase+Edmonds) | N/A |
+| 46 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
 | 47 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 48 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 49 | [Bardo](http://twitter.com/search?q=Bardo) | N/A |
+| 48 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 49 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
 
 
 
