@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-10 07:16:09 UTC`
+📆 Last Updated: `2023-03-10 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 2 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 1 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
+| 2 | [#PremiosIdolo](http://twitter.com/search?q=%23PremiosIdolo) | N/A |
+| 3 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 4 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 5 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Abner](http://twitter.com/search?q=Abner) | N/A |
 | 8 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 9 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 12 | [feliz 8m](http://twitter.com/search?q=feliz+8m) | N/A |
-| 13 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
-| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 15 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 16 | [súria](http://twitter.com/search?q=s%c3%baria) | N/A |
-| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 18 | [layton](http://twitter.com/search?q=layton) | N/A |
-| 19 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 20 | [PAU GASOL](http://twitter.com/search?q=PAU+GASOL) | N/A |
-| 21 | [level 5](http://twitter.com/search?q=level+5) | N/A |
-| 22 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 23 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 24 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 25 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 26 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 28 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 29 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 30 | [albiol](http://twitter.com/search?q=albiol) | N/A |
-| 31 | [pacma](http://twitter.com/search?q=pacma) | N/A |
-| 32 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 33 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 34 | [muller](http://twitter.com/search?q=muller) | N/A |
-| 35 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 36 | [rocío carrasco](http://twitter.com/search?q=roc%c3%ado+carrasco) | N/A |
-| 37 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 38 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 39 | [musiala](http://twitter.com/search?q=musiala) | N/A |
-| 40 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 41 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
-| 42 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 43 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 45 | [ángela rodríguez pam](http://twitter.com/search?q=%c3%a1ngela+rodr%c3%adguez+pam) | N/A |
-| 46 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
-| 47 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 48 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 9 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Mt 21](http://twitter.com/search?q=Mt+21) | N/A |
+| 12 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 13 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 15 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 16 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 19 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 21 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 22 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 23 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 24 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 25 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 26 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 27 | [San Viernes](http://twitter.com/search?q=San+Viernes) | N/A |
+| 28 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 29 | [AYOZE](http://twitter.com/search?q=AYOZE) | N/A |
+| 30 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 31 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 32 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 33 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 34 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 36 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 37 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 38 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 39 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 40 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 41 | [Pepe Álvarez](http://twitter.com/search?q=Pepe+%c3%81lvarez) | N/A |
+| 42 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 43 | [Feller](http://twitter.com/search?q=Feller) | N/A |
+| 44 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 45 | [Luiz henrique](http://twitter.com/search?q=Luiz+henrique) | N/A |
+| 46 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 47 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
+| 48 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
 
 
 

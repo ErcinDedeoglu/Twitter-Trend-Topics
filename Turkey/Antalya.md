@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-10 07:16:29 UTC`
+📆 Last Updated: `2023-03-10 08:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
-| 2 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 3 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
-| 4 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 5 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
-| 6 | [#Eregl](http://twitter.com/search?q=%23Eregl) | N/A |
-| 7 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 8 | [muharremince seçimşarkısı](http://twitter.com/search?q=muharremince+se%c3%a7im%c5%9fark%c4%b1s%c4%b1) | N/A |
-| 9 | [uygunfiyatda tthizmeti](http://twitter.com/search?q=uygunfiyatda+tthizmeti) | N/A |
-| 10 | [arkandayız martı](http://twitter.com/search?q=arkanday%c4%b1z+mart%c4%b1) | N/A |
-| 11 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 12 | [ertem](http://twitter.com/search?q=ertem) | N/A |
-| 13 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
-| 14 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
-| 15 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 16 | [kıyma 300](http://twitter.com/search?q=k%c4%b1yma+300) | N/A |
-| 17 | [i̇smet demirdöğen](http://twitter.com/search?q=i%cc%87smet+demird%c3%b6%c4%9fen) | N/A |
-| 18 | [yapıkayıt mağdurları](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+ma%c4%9fdurlar%c4%b1) | N/A |
-| 19 | [anayasa mahkemesi](http://twitter.com/search?q=anayasa+mahkemesi) | N/A |
-| 20 | [haymana mutabakatı](http://twitter.com/search?q=haymana+mutabakat%c4%b1) | N/A |
-| 21 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 22 | [talepnet önceaf](http://twitter.com/search?q=talepnet+%c3%b6nceaf) | N/A |
-| 23 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 24 | [Teşekkür](http://twitter.com/search?q=Te%c5%9fekk%c3%bcr) | N/A |
-| 25 | [mehmet tevfik göksu](http://twitter.com/search?q=mehmet+tevfik+g%c3%b6ksu) | N/A |
-| 26 | [temettü](http://twitter.com/search?q=temett%c3%bc) | N/A |
-| 27 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 28 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 29 | [togg](http://twitter.com/search?q=togg) | N/A |
-| 30 | [nedim](http://twitter.com/search?q=nedim) | N/A |
-| 31 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 32 | [yunus günçe](http://twitter.com/search?q=yunus+g%c3%bcn%c3%a7e) | N/A |
-| 33 | [afgelmezse oydayok](http://twitter.com/search?q=afgelmezse+oydayok) | N/A |
-| 34 | [dolar 15](http://twitter.com/search?q=dolar+15) | N/A |
-| 35 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
-| 36 | [durmak yok yola devam](http://twitter.com/search?q=durmak+yok+yola+devam) | N/A |
-| 37 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 38 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 40 | [İrfan Can](http://twitter.com/search?q=%c4%b0rfan+Can) | İrfan Can is a Turkish given name. It is composed of two words: İrfan, which means "knowledge" or "erudition," and Can, which means "soul" or "spirit." In English, the name could be translated as "Knowledgeable Soul." |
-| 41 | [lütfedip](http://twitter.com/search?q=l%c3%bctfedip) | N/A |
-| 42 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 43 | [suzan şahin](http://twitter.com/search?q=suzan+%c5%9fahin) | N/A |
-| 44 | [snyanık1000dyt](http://twitter.com/search?q=snyan%c4%b1k1000dyt) | N/A |
-| 45 | [ihsan](http://twitter.com/search?q=ihsan) | N/A |
-| 46 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 47 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 48 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 49 | [USDT   BUY](http://twitter.com/search?q=USDT+++BUY) | N/A |
-| 50 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 1 | [#SVLvFB](http://twitter.com/search?q=%23SVLvFB) | N/A |
+| 2 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 3 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 4 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
+| 5 | [UygunFiyatdan TTHizmeti](http://twitter.com/search?q=UygunFiyatdan+TTHizmeti) | N/A |
+| 6 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 7 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
+| 8 | [#StajyerAnkaraUlusta](http://twitter.com/search?q=%23StajyerAnkaraUlusta) | N/A |
+| 9 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 10 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 11 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 12 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
+| 15 | [Habibe](http://twitter.com/search?q=Habibe) | N/A |
+| 16 | [Korgeneral](http://twitter.com/search?q=Korgeneral) | N/A |
+| 17 | [İlkeli](http://twitter.com/search?q=%c4%b0lkeli) | N/A |
+| 18 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
+| 19 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 20 | [Mücahid](http://twitter.com/search?q=M%c3%bccahid) | N/A |
+| 21 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
+| 22 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 23 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 24 | [Temettü](http://twitter.com/search?q=Temett%c3%bc) | N/A |
+| 25 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 26 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 27 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
+| 28 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 29 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
+| 30 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
+| 31 | [#Netleşiyor](http://twitter.com/search?q=%23Netle%c5%9fiyor) | N/A |
+| 32 | [#benanlatayım](http://twitter.com/search?q=%23benanlatay%c4%b1m) | N/A |
+| 33 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 34 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 35 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 36 | [#10mart](http://twitter.com/search?q=%2310mart) | N/A |
+| 37 | [#2000sonrasiTorbaya](http://twitter.com/search?q=%232000sonrasiTorbaya) | N/A |
+| 38 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
+| 39 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 40 | [#5000VeKısmiHakkımız](http://twitter.com/search?q=%235000VeK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
+| 41 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
+| 42 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 43 | [#BursasporSahipsizDeğildir](http://twitter.com/search?q=%23BursasporSahipsizDe%c4%9fildir) | N/A |
+| 44 | [#tcell](http://twitter.com/search?q=%23tcell) | N/A |
+| 45 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 46 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
+| 47 | [#tuprs](http://twitter.com/search?q=%23tuprs) | N/A |
+| 48 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 49 | [#SEVvFB](http://twitter.com/search?q=%23SEVvFB) | N/A |
+| 50 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
 
 
 

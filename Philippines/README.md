@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-10 07:16:45 UTC`
+📆 Last Updated: `2023-03-10 08:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 2 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 4 | [#BOYCOTTEBxGMA730](http://twitter.com/search?q=%23BOYCOTTEBxGMA730) | N/A |
-| 5 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
-| 6 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 7 | [#engeneselcaday](http://twitter.com/search?q=%23engeneselcaday) | N/A |
-| 8 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
+| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 3 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
+| 4 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
+| 5 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
+| 6 | [#호라이즌_여정의_시작](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c_%ec%97%ac%ec%a0%95%ec%9d%98_%ec%8b%9c%ec%9e%91) | N/A |
+| 7 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
+| 8 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
 | 9 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
-| 12 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 13 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 14 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
-| 15 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
-| 16 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 17 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 18 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
-| 19 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 20 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 21 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 22 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
-| 23 | [the corrs](http://twitter.com/search?q=the+corrs) | N/A |
-| 24 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 25 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 26 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
-| 27 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
-| 28 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 29 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 30 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
-| 31 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
-| 32 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 33 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 34 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
-| 35 | [congratulations hobi](http://twitter.com/search?q=congratulations+hobi) | N/A |
-| 36 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 37 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 38 | [ISABELA](http://twitter.com/search?q=ISABELA) | N/A |
-| 39 | [jessey](http://twitter.com/search?q=jessey) | N/A |
-| 40 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
-| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 42 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 43 | [akari](http://twitter.com/search?q=akari) | N/A |
-| 44 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 45 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 46 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 48 | [ultimate bl ship](http://twitter.com/search?q=ultimate+bl+ship) | N/A |
-| 49 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 50 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
+| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 11 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 12 | [HiLiveYou JereVi](http://twitter.com/search?q=HiLiveYou+JereVi) | N/A |
+| 13 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 14 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
+| 15 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 16 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
+| 17 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 18 | [EAT WELL](http://twitter.com/search?q=EAT+WELL) | N/A |
+| 19 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 20 | [GOT THE THRILLS](http://twitter.com/search?q=GOT+THE+THRILLS) | N/A |
+| 21 | [Wallflower](http://twitter.com/search?q=Wallflower) | N/A |
+| 22 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
+| 23 | [RAPPER MOMO](http://twitter.com/search?q=RAPPER+MOMO) | N/A |
+| 24 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 26 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
+| 27 | [SOHEE THE REVELATION](http://twitter.com/search?q=SOHEE+THE+REVELATION) | N/A |
+| 28 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
+| 29 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 30 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 31 | [LISA IN PARIS VLOG](http://twitter.com/search?q=LISA+IN+PARIS+VLOG) | N/A |
+| 32 | [House Speaker Martin Romualdez](http://twitter.com/search?q=House+Speaker+Martin+Romualdez) | N/A |
+| 33 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 34 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 35 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 36 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 37 | [TOP FOR VERSACE](http://twitter.com/search?q=TOP+FOR+VERSACE) | N/A |
+| 38 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
+| 39 | [katniss everdeen](http://twitter.com/search?q=katniss+everdeen) | N/A |
+| 40 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 41 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
+| 42 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
+| 43 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
+| 44 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
+| 45 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 46 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
+| 47 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 48 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
+| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 50 | [New Frontier Theater](http://twitter.com/search?q=New+Frontier+Theater) | N/A |
 
 
 

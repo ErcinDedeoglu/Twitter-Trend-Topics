@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-10 07:16:34 UTC`
+📆 Last Updated: `2023-03-10 08:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 4 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 5 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 8 | [#AnimeAfterDarkCH](http://twitter.com/search?q=%23AnimeAfterDarkCH) | N/A |
-| 9 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 10 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 11 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 12 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
-| 13 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 15 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 16 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 17 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 18 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 19 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 20 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 21 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 23 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 24 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 25 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 29 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 31 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 34 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 35 | [COCAINE CAT](http://twitter.com/search?q=COCAINE+CAT) | N/A |
-| 36 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 38 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
-| 39 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 40 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
-| 41 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 42 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 43 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 44 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 45 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
-| 46 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 47 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 48 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 49 | [RED RUBY HAIL MARY](http://twitter.com/search?q=RED+RUBY+HAIL+MARY) | N/A |
-| 50 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 1 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 2 | [Desi Sills](http://twitter.com/search?q=Desi+Sills) | N/A |
+| 3 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 4 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
+| 5 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
+| 6 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 7 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 8 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 9 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
+| 10 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 12 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 13 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
+| 14 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 15 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
+| 16 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 17 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 18 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 19 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 20 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 21 | [Keyleth](http://twitter.com/search?q=Keyleth) | N/A |
+| 22 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 23 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 24 | [Muddy Feet](http://twitter.com/search?q=Muddy+Feet) | N/A |
+| 25 | [MATTHEW MERCER](http://twitter.com/search?q=MATTHEW+MERCER) | N/A |
+| 26 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 27 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 28 | [Ludinus](http://twitter.com/search?q=Ludinus) | N/A |
+| 29 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 30 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 31 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 32 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 33 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 34 | [Thousand Miles](http://twitter.com/search?q=Thousand+Miles) | N/A |
+| 35 | [Pastor Swift](http://twitter.com/search?q=Pastor+Swift) | N/A |
+| 36 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 37 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 38 | [Rose Colored Lenses](http://twitter.com/search?q=Rose+Colored+Lenses) | N/A |
+| 39 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
+| 40 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 41 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 42 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 43 | [Jaded](http://twitter.com/search?q=Jaded) | N/A |
+| 44 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 45 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
+| 46 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 47 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 48 | [Wallflower](http://twitter.com/search?q=Wallflower) | N/A |
+| 49 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 50 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
 
 
 

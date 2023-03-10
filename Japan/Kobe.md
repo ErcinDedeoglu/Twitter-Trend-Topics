@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-03-10 07:16:14 UTC`
+📆 Last Updated: `2023-03-10 08:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
-| 2 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 3 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 4 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 5 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 6 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 7 | [中国のピッチャー](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 8 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 9 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 11 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
-| 12 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 13 | [#毎日当選](http://twitter.com/search?q=%23%e6%af%8e%e6%97%a5%e5%bd%93%e9%81%b8) | N/A |
-| 14 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 15 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 16 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 17 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 18 | [初戦勝利](http://twitter.com/search?q=%e5%88%9d%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 19 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 20 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 21 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 22 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 23 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
-| 24 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 25 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 26 | [フェン直](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e7%9b%b4) | N/A |
-| 27 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 28 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 29 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
-| 30 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 31 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 32 | [国際試合](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e8%a9%a6%e5%90%88) | N/A |
-| 33 | [木村貴宏さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e8%b2%b4%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
-| 34 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 35 | [中国代表](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e4%bb%a3%e8%a1%a8) | N/A |
-| 36 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
-| 37 | [東京ドーム](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%89%e3%83%bc%e3%83%a0) | 東京ドーム is a large stadium located in Tokyo, Japan. It is the home of the Yomiuri Giants baseball team and has hosted a variety of events, including concerts, sporting events, and conventions. The name "東京ドーム" translates to "Tokyo Dome" in English. |
-| 38 | [キムタカ](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%ab) | N/A |
-| 39 | [レイトン](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
-| 40 | [ルークの声](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%af%e3%81%ae%e5%a3%b0) | N/A |
-| 41 | [フォアボール](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%82%a2%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 42 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 43 | [ガオガイガー](http://twitter.com/search?q=%e3%82%ac%e3%82%aa%e3%82%ac%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
-| 44 | [予告PV](http://twitter.com/search?q=%e4%ba%88%e5%91%8aPV) | N/A |
-| 45 | [三者連続三振](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e9%80%a3%e7%b6%9a%e4%b8%89%e6%8c%af) | N/A |
-| 46 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 47 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 48 | [円堂ハル](http://twitter.com/search?q=%e5%86%86%e5%a0%82%e3%83%8f%e3%83%ab) | N/A |
-| 49 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
-| 50 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 1 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
+| 2 | [#日本アカデミー賞](http://twitter.com/search?q=%23%e6%97%a5%e6%9c%ac%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%b3%9e) | #日本アカデミー賞 is the Japan Academy Prize, an annual award ceremony held by the Nippon Academy-Sho Association to recognize excellence in Japanese films. It is considered to be one of the most prestigious awards in the Japanese film industry. The award ceremony is held annually in February or March and winners are presented with a golden statuette of a kirin, a mythical creature from Japanese folklore. |
+| 3 | [レッドカーペット](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%82%ab%e3%83%bc%e3%83%9a%e3%83%83%e3%83%88) | レッドカーペット (Red Carpet) is a phrase used to describe a special event or occasion, usually one that involves celebrities or VIPs. It is often used to refer to the red carpet that is rolled out for guests at such events. The phrase has come to symbolize luxury, glamour, and exclusivity. |
+| 4 | [復活当選](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e5%bd%93%e9%81%b8) | N/A |
+| 5 | [戦闘行為](http://twitter.com/search?q=%e6%88%a6%e9%97%98%e8%a1%8c%e7%82%ba) | N/A |
+| 6 | [洗濯機の中](http://twitter.com/search?q=%e6%b4%97%e6%bf%af%e6%a9%9f%e3%81%ae%e4%b8%ad) | N/A |
+| 7 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
+| 8 | [ぴあアリーナ](http://twitter.com/search?q=%e3%81%b4%e3%81%82%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
+| 9 | [人のツイート](http://twitter.com/search?q=%e4%ba%ba%e3%81%ae%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88) | N/A |
+| 10 | [確定ガチャ](http://twitter.com/search?q=%e7%a2%ba%e5%ae%9a%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 11 | [ワンダショ](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%80%e3%82%b7%e3%83%a7) | N/A |
+| 12 | [無印良品週間](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e8%89%af%e5%93%81%e9%80%b1%e9%96%93) | N/A |
+| 13 | [#旦那が似てると言われる芸能人](http://twitter.com/search?q=%23%e6%97%a6%e9%82%a3%e3%81%8c%e4%bc%bc%e3%81%a6%e3%82%8b%e3%81%a8%e8%a8%80%e3%82%8f%e3%82%8c%e3%82%8b%e8%8a%b8%e8%83%bd%e4%ba%ba) | N/A |
+| 14 | [#nottestellata](http://twitter.com/search?q=%23nottestellata) | N/A |
+| 15 | [アドバンス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%90%e3%83%b3%e3%82%b9) | N/A |
+| 16 | [メモリー](http://twitter.com/search?q=%e3%83%a1%e3%83%a2%e3%83%aa%e3%83%bc) | N/A |
+| 17 | [車両貫通扉](http://twitter.com/search?q=%e8%bb%8a%e4%b8%a1%e8%b2%ab%e9%80%9a%e6%89%89) | N/A |
+| 18 | [有岡くん](http://twitter.com/search?q=%e6%9c%89%e5%b2%a1%e3%81%8f%e3%82%93) | 有岡くん is a nickname for the Japanese professional baseball player, Yuki Okada. It is a combination of his given name, Yuki, and the honorific suffix -kun. In English, it would be translated as "Yuki-kun". |
+| 19 | [サイン盗み](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e7%9b%97%e3%81%bf) | N/A |
+| 20 | [ディープインパクト](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%bc%e3%83%97%e3%82%a4%e3%83%b3%e3%83%91%e3%82%af%e3%83%88) | N/A |
+| 21 | [#Electrumを手に入れたい](http://twitter.com/search?q=%23Electrum%e3%82%92%e6%89%8b%e3%81%ab%e5%85%a5%e3%82%8c%e3%81%9f%e3%81%84) | N/A |
+| 22 | [シャノアール](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8e%e3%82%a2%e3%83%bc%e3%83%ab) | N/A |
+| 23 | [関係否定](http://twitter.com/search?q=%e9%96%a2%e4%bf%82%e5%90%a6%e5%ae%9a) | N/A |
+| 24 | [ハチワレ](http://twitter.com/search?q=%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
+| 25 | [初の認定](http://twitter.com/search?q=%e5%88%9d%e3%81%ae%e8%aa%8d%e5%ae%9a) | N/A |
+| 26 | [接種と死亡](http://twitter.com/search?q=%e6%8e%a5%e7%a8%ae%e3%81%a8%e6%ad%bb%e4%ba%a1) | N/A |
+| 27 | [司バナー](http://twitter.com/search?q=%e5%8f%b8%e3%83%90%e3%83%8a%e3%83%bc) | N/A |
+| 28 | [エヴォル](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a9%e3%83%ab) | N/A |
+| 29 | [ガリュミーズ再録](http://twitter.com/search?q=%e3%82%ac%e3%83%aa%e3%83%a5%e3%83%9f%e3%83%bc%e3%82%ba%e5%86%8d%e9%8c%b2) | N/A |
+| 30 | [責任感じる](http://twitter.com/search?q=%e8%b2%ac%e4%bb%bb%e6%84%9f%e3%81%98%e3%82%8b) | N/A |
+| 31 | [特定の人物の殺害](http://twitter.com/search?q=%e7%89%b9%e5%ae%9a%e3%81%ae%e4%ba%ba%e7%89%a9%e3%81%ae%e6%ae%ba%e5%ae%b3) | N/A |
+| 32 | [黒田総裁](http://twitter.com/search?q=%e9%bb%92%e7%94%b0%e7%b7%8f%e8%a3%81) | N/A |
+| 33 | [電車ごっこ](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e3%81%94%e3%81%a3%e3%81%93) | N/A |
+| 34 | [カラットゾーン](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%83%e3%83%88%e3%82%be%e3%83%bc%e3%83%b3) | N/A |
+| 35 | [PRADAのネクタイ](http://twitter.com/search?q=PRADA%e3%81%ae%e3%83%8d%e3%82%af%e3%82%bf%e3%82%a4) | N/A |
+| 36 | [グラブルメンテ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab%e3%83%a1%e3%83%b3%e3%83%86) | グラブルメンテ (Granblue Maintenance) is a term used to refer to the maintenance and upkeep of the popular mobile game Granblue Fantasy. This includes bug fixes, updates, and other changes that are made to the game in order to keep it running smoothly. In English, it can be translated as "Granblue Maintenance". |
+| 37 | [北斗黒髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e9%bb%92%e9%ab%aa) | N/A |
+| 38 | [有馬記念](http://twitter.com/search?q=%e6%9c%89%e9%a6%ac%e8%a8%98%e5%bf%b5) | 有馬記念 is a Japanese horse race held annually at Tokyo Racecourse in Fuchu, Tokyo. It is one of the most prestigious races in Japan and is the second leg of the Japanese Triple Crown. The name translates to "Yumagaki Memorial" in English, and it commemorates the victory of Yumagaki, a legendary racehorse that won the first ever running of this race in 1981. |
+| 39 | [キメラ化](http://twitter.com/search?q=%e3%82%ad%e3%83%a1%e3%83%a9%e5%8c%96) | キメラ化 is a Japanese term that literally translates to "chimeraization". It is used to describe the process of combining two or more different elements into one, creating something new and unique. For example, it could be used to describe the combination of two different types of music, or the combination of two different types of technology. |
+| 40 | [MAGIC3](http://twitter.com/search?q=MAGIC3) | N/A |
+| 41 | [エンカク](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%ab%e3%82%af) | N/A |
+| 42 | [ダイイチルビー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a4%e3%83%81%e3%83%ab%e3%83%93%e3%83%bc) | N/A |
+| 43 | [チケコレ](http://twitter.com/search?q=%e3%83%81%e3%82%b1%e3%82%b3%e3%83%ac) | N/A |
+| 44 | [正確性確認](http://twitter.com/search?q=%e6%ad%a3%e7%a2%ba%e6%80%a7%e7%a2%ba%e8%aa%8d) | N/A |
+| 45 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 46 | [中国逆転](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e9%80%86%e8%bb%a2) | N/A |
+| 47 | [寧々ちゃん](http://twitter.com/search?q=%e5%af%a7%e3%80%85%e3%81%a1%e3%82%83%e3%82%93) | 寧々ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which is a combination of the words "Nogizaka" and "46". The nickname is used by fans to refer to the group as a whole, or to individual members. In English, it can be translated as "Ning-Ning Girls". |
+| 48 | [SSR引換券](http://twitter.com/search?q=SSR%e5%bc%95%e6%8f%9b%e5%88%b8) | N/A |
+| 49 | [ひなフェス](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%83%95%e3%82%a7%e3%82%b9) | ひなフェス (Hina Fest) is an annual festival in Japan that celebrates the Doll Festival, or Hinamatsuri. It is held on March 3rd and is a day to celebrate young girls and pray for their health and happiness. The festival involves displaying dolls dressed in traditional court costumes from the Heian period, as well as eating special foods such as Hina-arare (rice crackers) and Chirashizushi (sushi rice with various toppings). In English, it can be translated to "Doll Festival". |
+| 50 | [新型コロナワクチン](http://twitter.com/search?q=%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%83%af%e3%82%af%e3%83%81%e3%83%b3) | N/A |
 
 
 
