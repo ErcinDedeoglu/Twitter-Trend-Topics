@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okinawa
 
-📆 Last Updated: `2023-03-10 10:17:04 UTC`
+📆 Last Updated: `2023-03-10 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
-| 2 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
-| 3 | [スクチェン](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%81%e3%82%a7%e3%83%b3) | N/A |
-| 4 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
-| 5 | [ガルラガン](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%a9%e3%82%ac%e3%83%b3) | N/A |
-| 6 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
-| 7 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 8 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 9 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 10 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
-| 11 | [#桜田通生放送](http://twitter.com/search?q=%23%e6%a1%9c%e7%94%b0%e9%80%9a%e7%94%9f%e6%94%be%e9%80%81) | N/A |
-| 12 | [中国のピッチャー](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 13 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 14 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
-| 15 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 16 | [カレンダー](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 17 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
+| 1 | [韓国のピッチャー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 2 | [キムグァンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b0%e3%82%a1%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 3 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 4 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
+| 5 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
+| 6 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 7 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
+| 8 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
+| 9 | [スクチェン](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%81%e3%82%a7%e3%83%b3) | N/A |
+| 10 | [前向きロケット団](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | N/A |
+| 11 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 12 | [ガルラガン](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%a9%e3%82%ac%e3%83%b3) | N/A |
+| 13 | [キムガンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%ac%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 14 | [#桜田通生放送](http://twitter.com/search?q=%23%e6%a1%9c%e7%94%b0%e9%80%9a%e7%94%9f%e6%94%be%e9%80%81) | N/A |
+| 15 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
+| 16 | [WBC日韓戦](http://twitter.com/search?q=WBC%e6%97%a5%e9%9f%93%e6%88%a6) | N/A |
+| 17 | [定本くん](http://twitter.com/search?q=%e5%ae%9a%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
 | 18 | [ザロスト](http://twitter.com/search?q=%e3%82%b6%e3%83%ad%e3%82%b9%e3%83%88) | N/A |
-| 19 | [サガ無規制](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e7%84%a1%e8%a6%8f%e5%88%b6) | N/A |
-| 20 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 21 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 22 | [初戦勝利](http://twitter.com/search?q=%e5%88%9d%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 23 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 24 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 25 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 26 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 27 | [戦闘行為](http://twitter.com/search?q=%e6%88%a6%e9%97%98%e8%a1%8c%e7%82%ba) | N/A |
-| 28 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 29 | [フェン直](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e7%9b%b4) | N/A |
-| 30 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 31 | [定本くん](http://twitter.com/search?q=%e5%ae%9a%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
-| 32 | [フレッシュJr](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a5Jr) | N/A |
-| 33 | [岸田総理](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e7%b7%8f%e7%90%86) | 岸田総理 is the name of a former Prime Minister of Japan, Ryutaro Hashimoto. His name is often abbreviated to K-Sou, which stands for "Kishida Souri" (Kishida being his family name). In English, it translates to "Prime Minister Ryutaro Hashimoto". |
-| 34 | [楓馬くん](http://twitter.com/search?q=%e6%a5%93%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
-| 35 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 36 | [メクレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 37 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
-| 38 | [ジョー星](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%bc%e6%98%9f) | N/A |
-| 39 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 40 | [木村貴宏さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e8%b2%b4%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
-| 41 | [サガマスターズ](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 42 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 43 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 44 | [死者の日](http://twitter.com/search?q=%e6%ad%bb%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 45 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 46 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 47 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 48 | [車両貫通扉](http://twitter.com/search?q=%e8%bb%8a%e4%b8%a1%e8%b2%ab%e9%80%9a%e6%89%89) | N/A |
-| 49 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 50 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
+| 19 | [戦闘行為](http://twitter.com/search?q=%e6%88%a6%e9%97%98%e8%a1%8c%e7%82%ba) | N/A |
+| 20 | [サガ無規制](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e7%84%a1%e8%a6%8f%e5%88%b6) | N/A |
+| 21 | [ミンギュ髪](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5%e9%ab%aa) | N/A |
+| 22 | [メクレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 23 | [サガマスターズ](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 24 | [韓国の投手](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e6%8a%95%e6%89%8b) | N/A |
+| 25 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
+| 26 | [教員側の敗訴確定](http://twitter.com/search?q=%e6%95%99%e5%93%a1%e5%81%b4%e3%81%ae%e6%95%97%e8%a8%b4%e7%a2%ba%e5%ae%9a) | N/A |
+| 27 | [日本キラー](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
+| 28 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
+| 29 | [右バッター](http://twitter.com/search?q=%e5%8f%b3%e3%83%90%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
+| 30 | [公立学校教員](http://twitter.com/search?q=%e5%85%ac%e7%ab%8b%e5%ad%a6%e6%a0%a1%e6%95%99%e5%93%a1) | N/A |
+| 31 | [韓国の先発](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e5%85%88%e7%99%ba) | N/A |
+| 32 | [球数投げ](http://twitter.com/search?q=%e7%90%83%e6%95%b0%e6%8a%95%e3%81%92) | N/A |
+| 33 | [#日本vs韓国](http://twitter.com/search?q=%23%e6%97%a5%e6%9c%acvs%e9%9f%93%e5%9b%bd) | N/A |
+| 34 | [上告棄却](http://twitter.com/search?q=%e4%b8%8a%e5%91%8a%e6%a3%84%e5%8d%b4) | N/A |
+| 35 | [初心LOVE](http://twitter.com/search?q=%e5%88%9d%e5%bf%83LOVE) | 初心LOVE is a Japanese pop song by the group AAA. The title translates to "First Love" in English, and the song is about remembering one's first love and the feelings associated with it. |
+| 36 | [フレッシュJr](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b7%e3%83%a5Jr) | N/A |
+| 37 | [ダルさん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%95%e3%82%93) | N/A |
+| 38 | [殿堂発表](http://twitter.com/search?q=%e6%ae%bf%e5%a0%82%e7%99%ba%e8%a1%a8) | N/A |
+| 39 | [楓馬くん](http://twitter.com/search?q=%e6%a5%93%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
+| 40 | [ジョー星](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%bc%e6%98%9f) | N/A |
+| 41 | [サモハン](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%8f%e3%83%b3) | N/A |
+| 42 | [イジョンフ](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95) | N/A |
+| 43 | [神アート](http://twitter.com/search?q=%e7%a5%9e%e3%82%a2%e3%83%bc%e3%83%88) | 神アート (Kami Aato) is a Japanese term that refers to artwork or designs that are inspired by traditional Shinto beliefs and practices. It is often used to describe artwork that has a spiritual or religious element to it, such as paintings of gods and goddesses, symbols of luck and fortune, or images of nature. In English, it can be translated as "Divine Art". |
+| 44 | [車両貫通扉](http://twitter.com/search?q=%e8%bb%8a%e4%b8%a1%e8%b2%ab%e9%80%9a%e6%89%89) | N/A |
+| 45 | [フロレンス](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%ac%e3%83%b3%e3%82%b9) | N/A |
+| 46 | [死者の日](http://twitter.com/search?q=%e6%ad%bb%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
+| 47 | [洗濯機の中](http://twitter.com/search?q=%e6%b4%97%e6%bf%af%e6%a9%9f%e3%81%ae%e4%b8%ad) | N/A |
+| 48 | [MAGIC3](http://twitter.com/search?q=MAGIC3) | N/A |
+| 49 | [ツーラン](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 50 | [出産費用](http://twitter.com/search?q=%e5%87%ba%e7%94%a3%e8%b2%bb%e7%94%a8) | N/A |
 
 
 

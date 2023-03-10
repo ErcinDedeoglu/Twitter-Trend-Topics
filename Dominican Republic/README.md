@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-10 10:17:15 UTC`
+📆 Last Updated: `2023-03-10 11:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Francisco Del Rosario Sánchez](http://twitter.com/search?q=Francisco+Del+Rosario+S%c3%a1nchez) | N/A |
+| 1 | [francisco del rosario sánchez](http://twitter.com/search?q=francisco+del+rosario+s%c3%a1nchez) | N/A |
 | 2 | [#votastequesi](http://twitter.com/search?q=%23votastequesi) | N/A |
 | 3 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
 | 4 | [padre de la patria](http://twitter.com/search?q=padre+de+la+patria) | N/A |
@@ -31,16 +31,16 @@ This is top 50 for Dominican Republic
 | 14 | [puerta del conde](http://twitter.com/search?q=puerta+del+conde) | N/A |
 | 15 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
 | 16 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 17 | [leonel](http://twitter.com/search?q=leonel) | N/A |
-| 18 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
-| 19 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
-| 20 | [bravos de atlanta](http://twitter.com/search?q=bravos+de+atlanta) | N/A |
-| 21 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
-| 22 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 23 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 24 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
-| 25 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 26 | [ohtani](http://twitter.com/search?q=ohtani) | N/A |
+| 17 | [comité nacional de salarios](http://twitter.com/search?q=comit%c3%a9+nacional+de+salarios) | N/A |
+| 18 | [guillermo moreno](http://twitter.com/search?q=guillermo+moreno) | N/A |
+| 19 | [Bravos de Atlanta](http://twitter.com/search?q=Bravos+de+Atlanta) | N/A |
+| 20 | [hoy 9](http://twitter.com/search?q=hoy+9) | N/A |
+| 21 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [josé leger](http://twitter.com/search?q=jos%c3%a9+leger) | N/A |
+| 24 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 27 | [El 8](http://twitter.com/search?q=El+8) | N/A |
 | 28 | [canó](http://twitter.com/search?q=can%c3%b3) | N/A |
 | 29 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Dominican Republic
 | 42 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
 | 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 44 | [cristian javier](http://twitter.com/search?q=cristian+javier) | N/A |
-| 45 | [muchas felicidades](http://twitter.com/search?q=muchas+felicidades) | N/A |
+| 45 | [MUCHAS FELICIDADES](http://twitter.com/search?q=MUCHAS+FELICIDADES) | N/A |
 | 46 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 47 | [intrant](http://twitter.com/search?q=intrant) | N/A |
-| 48 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 49 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
-| 50 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 48 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 49 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 50 | [Machado](http://twitter.com/search?q=Machado) | N/A |
 
 
 

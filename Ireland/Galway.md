@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-10 10:16:37 UTC`
+📆 Last Updated: `2023-03-10 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,29 +19,29 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#sneachta](http://twitter.com/search?q=%23sneachta) | N/A |
 | 4 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 5 | [Liffey](http://twitter.com/search?q=Liffey) | N/A |
+| 5 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
 | 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 9 | [burkes](http://twitter.com/search?q=burkes) | N/A |
-| 10 | [ireland football](http://twitter.com/search?q=ireland+football) | N/A |
-| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 12 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
-| 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 14 | [mystic meg](http://twitter.com/search?q=mystic+meg) | N/A |
-| 15 | [primary curriculum framework](http://twitter.com/search?q=primary+curriculum+framework) | N/A |
-| 16 | [castore](http://twitter.com/search?q=castore) | N/A |
-| 17 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 18 | [saka](http://twitter.com/search?q=saka) | N/A |
-| 19 | [SPORTING](http://twitter.com/search?q=SPORTING) | N/A |
-| 20 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 8 | [Ireland Football](http://twitter.com/search?q=Ireland+Football) | N/A |
+| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 10 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [mystic meg](http://twitter.com/search?q=mystic+meg) | N/A |
+| 13 | [primary curriculum framework](http://twitter.com/search?q=primary+curriculum+framework) | N/A |
+| 14 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 15 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 16 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 18 | [SPORTING](http://twitter.com/search?q=SPORTING) | N/A |
+| 19 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 20 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 23 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 24 | [Unreal](http://twitter.com/search?q=Unreal) | N/A |
-| 25 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [President Higgins](http://twitter.com/search?q=President+Higgins) | N/A |
+| 22 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 23 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 24 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 25 | [Unreal](http://twitter.com/search?q=Unreal) | N/A |
+| 26 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 28 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 29 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
 | 30 | [Rain](http://twitter.com/search?q=Rain) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Ireland](</Ireland>)
 | 42 | [The FAI](http://twitter.com/search?q=The+FAI) | N/A |
 | 43 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
 | 44 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 45 | [dart](http://twitter.com/search?q=dart) | N/A |
+| 45 | [Dart](http://twitter.com/search?q=Dart) | N/A |
 | 46 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 47 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
-| 48 | [richarlison](http://twitter.com/search?q=richarlison) | N/A |
-| 49 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 50 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 47 | [richarlison](http://twitter.com/search?q=richarlison) | N/A |
+| 48 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 49 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 50 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 
 
 

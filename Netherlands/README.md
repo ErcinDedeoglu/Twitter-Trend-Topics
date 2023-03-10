@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-10 10:17:18 UTC`
+📆 Last Updated: `2023-03-10 11:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 2 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 4 | [#internationalevrouwendag](http://twitter.com/search?q=%23internationalevrouwendag) | N/A |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [#shafey](http://twitter.com/search?q=%23shafey) | N/A |
-| 7 | [shirley](http://twitter.com/search?q=shirley) | N/A |
+| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 7 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
 | 8 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 9 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
 | 10 | [miljoen nederlanders](http://twitter.com/search?q=miljoen+nederlanders) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Wilfred Genee](http://twitter.com/search?q=Wilfred+Genee) | N/A |
-| 13 | [bikker](http://twitter.com/search?q=bikker) | N/A |
+| 11 | [Wilfred Genee](http://twitter.com/search?q=Wilfred+Genee) | N/A |
+| 12 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 13 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
 | 14 | [Kuit](http://twitter.com/search?q=Kuit) | N/A |
-| 15 | [nos sport](http://twitter.com/search?q=nos+sport) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [ASML](http://twitter.com/search?q=ASML) | N/A |
 | 17 | [dijsselbloem](http://twitter.com/search?q=dijsselbloem) | N/A |
-| 18 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 18 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 19 | [alliander](http://twitter.com/search?q=alliander) | N/A |
-| 20 | [ASML](http://twitter.com/search?q=ASML) | N/A |
+| 20 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 21 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 22 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 23 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
-| 24 | [Hugo de Jonge](http://twitter.com/search?q=Hugo+de+Jonge) | N/A |
-| 25 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
-| 26 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 27 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 28 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
-| 29 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
-| 30 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 31 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 32 | [tweehonderd duitse](http://twitter.com/search?q=tweehonderd+duitse) | N/A |
-| 33 | [kontje](http://twitter.com/search?q=kontje) | N/A |
-| 34 | [Rabo](http://twitter.com/search?q=Rabo) | N/A |
-| 35 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 36 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
-| 37 | [CORDOBA](http://twitter.com/search?q=CORDOBA) | N/A |
-| 38 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 39 | [erwtensoep](http://twitter.com/search?q=erwtensoep) | N/A |
-| 40 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 41 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 42 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [dirk](http://twitter.com/search?q=dirk) | N/A |
-| 45 | [zuidas](http://twitter.com/search?q=zuidas) | N/A |
-| 46 | [nettert](http://twitter.com/search?q=nettert) | N/A |
-| 47 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 48 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 49 | [pakhuis de zwijger](http://twitter.com/search?q=pakhuis+de+zwijger) | N/A |
-| 50 | [hoogwoud](http://twitter.com/search?q=hoogwoud) | N/A |
+| 24 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
+| 25 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 26 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 27 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
+| 28 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 29 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 30 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
+| 31 | [olav kooij](http://twitter.com/search?q=olav+kooij) | N/A |
+| 32 | [richelle](http://twitter.com/search?q=richelle) | N/A |
+| 33 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 34 | [tweehonderd duitse](http://twitter.com/search?q=tweehonderd+duitse) | N/A |
+| 35 | [kontje](http://twitter.com/search?q=kontje) | N/A |
+| 36 | [rabo](http://twitter.com/search?q=rabo) | N/A |
+| 37 | [tomatensoep](http://twitter.com/search?q=tomatensoep) | N/A |
+| 38 | [erwtensoep](http://twitter.com/search?q=erwtensoep) | N/A |
+| 39 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 40 | [fatsoen](http://twitter.com/search?q=fatsoen) | N/A |
+| 41 | [zuidas](http://twitter.com/search?q=zuidas) | N/A |
+| 42 | [nettert](http://twitter.com/search?q=nettert) | N/A |
+| 43 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 44 | [Assen](http://twitter.com/search?q=Assen) | N/A |
+| 45 | [hoogwoud](http://twitter.com/search?q=hoogwoud) | N/A |
+| 46 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 47 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 48 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 49 | [daantje](http://twitter.com/search?q=daantje) | N/A |
+| 50 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
 
 
 
