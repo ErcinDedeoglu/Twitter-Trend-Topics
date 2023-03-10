@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-10 11:16:59 UTC`
+📆 Last Updated: `2023-03-10 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,18 +20,18 @@ This is top 50 for Panama
 | 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 4 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [ministerio de la mujer](http://twitter.com/search?q=ministerio+de+la+mujer) | N/A |
+| 6 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
 | 7 | [#LoBuenoSePoneMejor](http://twitter.com/search?q=%23LoBuenoSePoneMejor) | N/A |
-| 8 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 8 | [#Diadelamujer](http://twitter.com/search?q=%23Diadelamujer) | N/A |
 | 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 11 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
 | 12 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 17 | [kendall](http://twitter.com/search?q=kendall) | N/A |
 | 18 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
 | 19 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
 | 20 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Panama
 | 36 | [metrobus](http://twitter.com/search?q=metrobus) | N/A |
 | 37 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
 | 38 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 39 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
-| 40 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 41 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
-| 42 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 43 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 44 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 45 | [Homicidio](http://twitter.com/search?q=Homicidio) | N/A |
-| 46 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 47 | [órgano judicial](http://twitter.com/search?q=%c3%b3rgano+judicial) | N/A |
-| 48 | [odebrecht](http://twitter.com/search?q=odebrecht) | N/A |
-| 49 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 50 | [Imagino](http://twitter.com/search?q=Imagino) | N/A |
+| 39 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 40 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 41 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [La Joya](http://twitter.com/search?q=La+Joya) | N/A |
+| 44 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 45 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 46 | [Homicidio](http://twitter.com/search?q=Homicidio) | N/A |
+| 47 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
+| 48 | [órgano judicial](http://twitter.com/search?q=%c3%b3rgano+judicial) | N/A |
+| 49 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 50 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 
 
 

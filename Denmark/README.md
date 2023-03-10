@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-10 11:16:55 UTC`
+📆 Last Updated: `2023-03-10 12:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,24 +15,24 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
 | 3 | [Lars](http://twitter.com/search?q=Lars) | N/A |
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [#kvinderneskampdag](http://twitter.com/search?q=%23kvinderneskampdag) | N/A |
 | 6 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 7 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
-| 8 | [#ligestilling](http://twitter.com/search?q=%23ligestilling) | N/A |
-| 9 | [ellemann](http://twitter.com/search?q=ellemann) | N/A |
-| 10 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 11 | [cepos](http://twitter.com/search?q=cepos) | N/A |
-| 12 | [jens rohde](http://twitter.com/search?q=jens+rohde) | N/A |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 15 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 16 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 17 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
-| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 7 | [#ligestilling](http://twitter.com/search?q=%23ligestilling) | N/A |
+| 8 | [#8marts](http://twitter.com/search?q=%238marts) | N/A |
+| 9 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 10 | [ellemann](http://twitter.com/search?q=ellemann) | N/A |
+| 11 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
+| 12 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 13 | [jens rohde](http://twitter.com/search?q=jens+rohde) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 16 | [venstre](http://twitter.com/search?q=venstre) | N/A |
+| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 18 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
 | 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 21 | [Odin](http://twitter.com/search?q=Odin) | N/A |
@@ -47,21 +47,21 @@ This is top 50 for Denmark
 | 30 | [nørrebro](http://twitter.com/search?q=n%c3%b8rrebro) | N/A |
 | 31 | [Altså](http://twitter.com/search?q=Alts%c3%a5) | N/A |
 | 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 34 | [nordsøen](http://twitter.com/search?q=nords%c3%b8en) | N/A |
-| 35 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 36 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 33 | [CEPOS](http://twitter.com/search?q=CEPOS) | N/A |
+| 34 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 35 | [nordsøen](http://twitter.com/search?q=nords%c3%b8en) | N/A |
+| 36 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
 | 37 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 38 | [Desværre](http://twitter.com/search?q=Desv%c3%a6rre) | N/A |
-| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 40 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 41 | [Spændende](http://twitter.com/search?q=Sp%c3%a6ndende) | N/A |
-| 42 | [MaTador](http://twitter.com/search?q=MaTador) | N/A |
-| 43 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 44 | [Christiansø](http://twitter.com/search?q=Christians%c3%b8) | N/A |
-| 45 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 38 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 39 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 40 | [spændende](http://twitter.com/search?q=sp%c3%a6ndende) | N/A |
+| 41 | [MaTador](http://twitter.com/search?q=MaTador) | N/A |
+| 42 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 43 | [Christiansø](http://twitter.com/search?q=Christians%c3%b8) | N/A |
+| 44 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 48 | [danske](http://twitter.com/search?q=danske) | N/A |
 | 49 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 50 | [Jon Stephensen](http://twitter.com/search?q=Jon+Stephensen) | N/A |

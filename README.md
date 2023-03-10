@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-10 11:16:07 UTC`
+📆 Last Updated: `2023-03-10 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [韓国のピッチャー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 2 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 3 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 4 | [キムグァンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b0%e3%82%a1%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 5 | [#علم_السعوديه_فوق_كل_بيت](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d9%81%d9%88%d9%82_%d9%83%d9%84_%d8%a8%d9%8a%d8%aa) | N/A |
-| 6 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
-| 7 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
-| 8 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 9 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 10 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
-| 11 | [スクチェン](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%81%e3%82%a7%e3%83%b3) | N/A |
-| 12 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
-| 13 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
-| 14 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 15 | [前向きロケット団](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | N/A |
-| 16 | [ガルラガン](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%a9%e3%82%ac%e3%83%b3) | N/A |
-| 17 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 18 | [MEW VOGUE 10th ANV](http://twitter.com/search?q=MEW+VOGUE+10th+ANV) | N/A |
-| 19 | [キムガンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%ac%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 20 | [HAPPY KUMUNIVERSARY ANGGE](http://twitter.com/search?q=HAPPY+KUMUNIVERSARY+ANGGE) | N/A |
-| 21 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
-| 22 | [TatakStarMagic WithDONNY](http://twitter.com/search?q=TatakStarMagic+WithDONNY) | N/A |
-| 23 | [WBC日韓戦](http://twitter.com/search?q=WBC%e6%97%a5%e9%9f%93%e6%88%a6) | N/A |
-| 24 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 25 | [DEBATE NIGHT](http://twitter.com/search?q=DEBATE+NIGHT) | N/A |
-| 26 | [定本くん](http://twitter.com/search?q=%e5%ae%9a%e6%9c%ac%e3%81%8f%e3%82%93) | N/A |
-| 27 | [ザロスト](http://twitter.com/search?q=%e3%82%b6%e3%83%ad%e3%82%b9%e3%83%88) | N/A |
-| 28 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 29 | [戦闘行為](http://twitter.com/search?q=%e6%88%a6%e9%97%98%e8%a1%8c%e7%82%ba) | N/A |
-| 30 | [ミンギュ髪](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5%e9%ab%aa) | N/A |
-| 31 | [더글로리](http://twitter.com/search?q=%eb%8d%94%ea%b8%80%eb%a1%9c%eb%a6%ac) | N/A |
-| 32 | [サガ無規制](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e7%84%a1%e8%a6%8f%e5%88%b6) | N/A |
-| 33 | [サガマスターズ](http://twitter.com/search?q=%e3%82%b5%e3%82%ac%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 34 | [Kaos Metal Keren](http://twitter.com/search?q=Kaos+Metal+Keren) | N/A |
-| 35 | [Baju Hammersonic](http://twitter.com/search?q=Baju+Hammersonic) | N/A |
-| 36 | [Mitologi Indonesia](http://twitter.com/search?q=Mitologi+Indonesia) | N/A |
-| 37 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 38 | [メクレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 39 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 40 | [韓国の投手](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e6%8a%95%e6%89%8b) | N/A |
-| 41 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
-| 42 | [WBC韓国戦](http://twitter.com/search?q=WBC%e9%9f%93%e5%9b%bd%e6%88%a6) | N/A |
-| 43 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
-| 44 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 45 | [公立学校教員](http://twitter.com/search?q=%e5%85%ac%e7%ab%8b%e5%ad%a6%e6%a0%a1%e6%95%99%e5%93%a1) | N/A |
-| 46 | [教員側の敗訴確定](http://twitter.com/search?q=%e6%95%99%e5%93%a1%e5%81%b4%e3%81%ae%e6%95%97%e8%a8%b4%e7%a2%ba%e5%ae%9a) | N/A |
-| 47 | [韓国の先発](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e5%85%88%e7%99%ba) | N/A |
-| 48 | [死者の日](http://twitter.com/search?q=%e6%ad%bb%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 49 | [SHOPEE NNN](http://twitter.com/search?q=SHOPEE+NNN) | N/A |
-| 50 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 1 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 3 | [韓国のピッチャー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 4 | [#علم_السعوديه_فوق_كل_بيت](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d9%81%d9%88%d9%82_%d9%83%d9%84_%d8%a8%d9%8a%d8%aa) | N/A |
+| 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 6 | [キムグァンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b0%e3%82%a1%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 7 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 8 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 9 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 10 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
+| 11 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
+| 12 | [日本逆転](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e9%80%86%e8%bb%a2) | N/A |
+| 13 | [源田大丈夫](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 14 | [源田交代](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e4%ba%a4%e4%bb%a3) | N/A |
+| 15 | [イワシン](http://twitter.com/search?q=%e3%82%a4%e3%83%af%e3%82%b7%e3%83%b3) | N/A |
+| 16 | [ネイチャー](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 17 | [イジョンフ](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%95) | N/A |
+| 18 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
+| 19 | [中野くん](http://twitter.com/search?q=%e4%b8%ad%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
+| 20 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
+| 21 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 22 | [スクチェン](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%81%e3%82%a7%e3%83%b3) | N/A |
+| 23 | [ダルさん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%95%e3%82%93) | N/A |
+| 24 | [MEW VOGUE 10th ANV](http://twitter.com/search?q=MEW+VOGUE+10th+ANV) | N/A |
+| 25 | [ガルラガン](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%a9%e3%82%ac%e3%83%b3) | N/A |
+| 26 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 27 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
+| 28 | [キムガンヒョン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%ac%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 29 | [今永のストレート](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%ae%e3%82%b9%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
+| 30 | [前向きロケット団](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | N/A |
+| 31 | [今永投手](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e6%8a%95%e6%89%8b) | N/A |
+| 32 | [源田心配](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e5%bf%83%e9%85%8d) | N/A |
+| 33 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
+| 34 | [MINGYU](http://twitter.com/search?q=MINGYU) | N/A |
+| 35 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 36 | [더글로리](http://twitter.com/search?q=%eb%8d%94%ea%b8%80%eb%a1%9c%eb%a6%ac) | N/A |
+| 37 | [DEBATE NIGHT](http://twitter.com/search?q=DEBATE+NIGHT) | N/A |
+| 38 | [ツーラン](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 39 | [今永キレッキレ](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%82%ad%e3%83%ac%e3%83%83%e3%82%ad%e3%83%ac) | N/A |
+| 40 | [TatakStarMagic WithDONNY](http://twitter.com/search?q=TatakStarMagic+WithDONNY) | N/A |
+| 41 | [HAPPY KUMUNIVERSARY ANGGE](http://twitter.com/search?q=HAPPY+KUMUNIVERSARY+ANGGE) | N/A |
+| 42 | [韓国のイチロー](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
+| 43 | [ショート中野](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%88%e4%b8%ad%e9%87%8e) | N/A |
+| 44 | [ミンギュ髪](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5%e9%ab%aa) | N/A |
+| 45 | [球数投げ](http://twitter.com/search?q=%e7%90%83%e6%95%b0%e6%8a%95%e3%81%92) | N/A |
+| 46 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
+| 47 | [今永昇太](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e6%98%87%e5%a4%aa) | N/A |
+| 48 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 49 | [韓国の投手](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e3%81%ae%e6%8a%95%e6%89%8b) | N/A |
+| 50 | [ザロスト](http://twitter.com/search?q=%e3%82%b6%e3%83%ad%e3%82%b9%e3%83%88) | N/A |
 
 
 

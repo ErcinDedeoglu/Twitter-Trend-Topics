@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-10 11:16:59 UTC`
+📆 Last Updated: `2023-03-10 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
-| 2 | [#سراج_الحق_کوئٹہ_دھرنا](http://twitter.com/search?q=%23%d8%b3%d8%b1%d8%a7%d8%ac_%d8%a7%d9%84%d8%ad%d9%82_%da%a9%d9%88%d8%a6%d9%b9%db%81_%d8%af%da%be%d8%b1%d9%86%d8%a7) | N/A |
-| 3 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
-| 4 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
-| 5 | [#iuvlq](http://twitter.com/search?q=%23iuvlq) | N/A |
+| 1 | [#IamAboveAll](http://twitter.com/search?q=%23IamAboveAll) | N/A |
+| 2 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
+| 3 | [#سراج_الحق_کوئٹہ_دھرنا](http://twitter.com/search?q=%23%d8%b3%d8%b1%d8%a7%d8%ac_%d8%a7%d9%84%d8%ad%d9%82_%da%a9%d9%88%d8%a6%d9%b9%db%81_%d8%af%da%be%d8%b1%d9%86%d8%a7) | N/A |
+| 4 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
+| 5 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
 | 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
 | 7 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
 | 8 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 9 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 9 | [rashid khan](http://twitter.com/search?q=rashid+khan) | N/A |
 | 10 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 11 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 11 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
 | 12 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
 | 13 | [Axact](http://twitter.com/search?q=Axact) | N/A |
 | 14 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
 | 15 | [Qalandars](http://twitter.com/search?q=Qalandars) | N/A |
 | 16 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 17 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 18 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
-| 19 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
-| 20 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
-| 21 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
+| 17 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 18 | [asif ali](http://twitter.com/search?q=asif+ali) | N/A |
+| 19 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
+| 20 | [kamran ghulam](http://twitter.com/search?q=kamran+ghulam) | N/A |
+| 21 | [Saim](http://twitter.com/search?q=Saim) | N/A |
 | 22 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 23 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
 | 24 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 25 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
 | 26 | [Khan Sahab](http://twitter.com/search?q=Khan+Sahab) | N/A |
-| 27 | [MODEL TOWN](http://twitter.com/search?q=MODEL+TOWN) | N/A |
-| 28 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 29 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 31 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 27 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 28 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 29 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 30 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 31 | [Price](http://twitter.com/search?q=Price) | N/A |
+| 32 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
+| 33 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
 | 34 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 35 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 36 | [T20i](http://twitter.com/search?q=T20i) | N/A |
 | 37 | [Insaf](http://twitter.com/search?q=Insaf) | N/A |
-| 38 | [Road](http://twitter.com/search?q=Road) | N/A |
-| 39 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 40 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
-| 41 | [President](http://twitter.com/search?q=President) | N/A |
-| 42 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 43 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 46 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
-| 47 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 49 | [YESH](http://twitter.com/search?q=YESH) | N/A |
-| 50 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 40 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 41 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 42 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 43 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
+| 44 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
+| 45 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
+| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 50 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-10 11:16:22 UTC`
+📆 Last Updated: `2023-03-10 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
-| 2 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
-| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 1 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
+| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 3 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
-| 6 | [#FCBpsg](http://twitter.com/search?q=%23FCBpsg) | N/A |
-| 7 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
-| 8 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
-| 9 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 10 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 11 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 12 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
+| 5 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 6 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
+| 7 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 9 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
+| 10 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 11 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 13 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 15 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 16 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 17 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 18 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 19 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 20 | [flinta](http://twitter.com/search?q=flinta) | N/A |
-| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 24 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 25 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 14 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 15 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 16 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 17 | [MINGYU](http://twitter.com/search?q=MINGYU) | N/A |
+| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 21 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 22 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 23 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 24 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 25 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
 | 26 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 27 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 28 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 29 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 30 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 31 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 32 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 33 | [Ruhig](http://twitter.com/search?q=Ruhig) | N/A |
-| 34 | [Zweifelsfall](http://twitter.com/search?q=Zweifelsfall) | N/A |
-| 35 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 36 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 37 | [MINGYU](http://twitter.com/search?q=MINGYU) | N/A |
-| 38 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
-| 39 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 40 | [Ernstgemeinte Frage](http://twitter.com/search?q=Ernstgemeinte+Frage) | N/A |
-| 41 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 42 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 43 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 44 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 45 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 46 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 47 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 48 | [internationalen](http://twitter.com/search?q=internationalen) | N/A |
-| 49 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 50 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 27 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 28 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 29 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 30 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 31 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 32 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 35 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 36 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 37 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 38 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 39 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 40 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 41 | [internationalen](http://twitter.com/search?q=internationalen) | N/A |
+| 42 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 43 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 44 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 45 | [Jahreszeit](http://twitter.com/search?q=Jahreszeit) | N/A |
+| 46 | [Deutsche Post](http://twitter.com/search?q=Deutsche+Post) | N/A |
+| 47 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 48 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 49 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 50 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
 
 
 

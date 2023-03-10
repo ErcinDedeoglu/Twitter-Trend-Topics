@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-10 11:17:00 UTC`
+📆 Last Updated: `2023-03-10 12:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Sweden
 | 10 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
 | 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 12 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 13 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 14 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 15 | [Troligen](http://twitter.com/search?q=Troligen) | N/A |
-| 16 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 17 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 20 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Östersjön](http://twitter.com/search?q=%c3%96stersj%c3%b6n) | N/A |
-| 23 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 24 | [sollentuna](http://twitter.com/search?q=sollentuna) | N/A |
-| 25 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
-| 26 | [Berg](http://twitter.com/search?q=Berg) | N/A |
-| 27 | [internationella](http://twitter.com/search?q=internationella) | N/A |
-| 28 | [Gillar](http://twitter.com/search?q=Gillar) | N/A |
-| 29 | [skalk](http://twitter.com/search?q=skalk) | N/A |
-| 30 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 31 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 32 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
-| 33 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 34 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
-| 35 | [karlin](http://twitter.com/search?q=karlin) | N/A |
-| 36 | [#brynäs](http://twitter.com/search?q=%23bryn%c3%a4s) | N/A |
-| 37 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 38 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 39 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
-| 40 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 41 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 42 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 43 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 44 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 45 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 46 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
-| 47 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
-| 48 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
-| 49 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
-| 50 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 13 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 16 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 17 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 20 | [Berg](http://twitter.com/search?q=Berg) | N/A |
+| 21 | [internationella](http://twitter.com/search?q=internationella) | N/A |
+| 22 | [skalk](http://twitter.com/search?q=skalk) | N/A |
+| 23 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 24 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
+| 25 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
+| 26 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 27 | [erdoganlagarna](http://twitter.com/search?q=erdoganlagarna) | N/A |
+| 28 | [karlin](http://twitter.com/search?q=karlin) | N/A |
+| 29 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
+| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 31 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 32 | [#brynäs](http://twitter.com/search?q=%23bryn%c3%a4s) | N/A |
+| 33 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 34 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 35 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
+| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 37 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 38 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 39 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 40 | [gösta](http://twitter.com/search?q=g%c3%b6sta) | N/A |
+| 41 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
+| 42 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 43 | [Frågan](http://twitter.com/search?q=Fr%c3%a5gan) | N/A |
+| 44 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 45 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
+| 46 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 48 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 49 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 50 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
 
 
 

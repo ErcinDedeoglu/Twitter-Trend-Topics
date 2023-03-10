@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-03-10 11:16:16 UTC`
+📆 Last Updated: `2023-03-10 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
 | 3 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
 | 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [josé altuve](http://twitter.com/search?q=jos%c3%a9+altuve) | N/A |
-| 11 | [emely](http://twitter.com/search?q=emely) | N/A |
-| 12 | [sarago](http://twitter.com/search?q=sarago) | N/A |
-| 13 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 15 | [METS](http://twitter.com/search?q=METS) | N/A |
-| 16 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 17 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 18 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 19 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 9 | [josé altuve](http://twitter.com/search?q=jos%c3%a9+altuve) | N/A |
+| 10 | [emely](http://twitter.com/search?q=emely) | N/A |
+| 11 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [sarago](http://twitter.com/search?q=sarago) | N/A |
+| 14 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 15 | [Graciaaas](http://twitter.com/search?q=Graciaaas) | N/A |
+| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 17 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
+| 18 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 19 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
 | 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 21 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 22 | [bandera nacional](http://twitter.com/search?q=bandera+nacional) | N/A |
-| 23 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 24 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 25 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
-| 26 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
-| 27 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
-| 28 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
-| 29 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 30 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
-| 31 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 33 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 35 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 38 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 39 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
-| 40 | [Venevisión](http://twitter.com/search?q=Venevisi%c3%b3n) | Venevisión is a Venezuelan television network founded in 1961. It is one of the largest and most popular networks in the country, and it broadcasts a variety of programming including news, sports, movies, soap operas, and more. The name Venevisión is derived from the words "Venezuela" and "televisión," meaning "television from Venezuela." |
-| 41 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
-| 42 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
+| 22 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
+| 23 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 24 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
+| 25 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 26 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 27 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
+| 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 29 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
+| 30 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
+| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 34 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 35 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 36 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 37 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 38 | [venevisión](http://twitter.com/search?q=venevisi%c3%b3n) | N/A |
+| 39 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
+| 40 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
+| 41 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 42 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
 | 43 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
 | 44 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
 | 45 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 46 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 46 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 47 | [Registro Electoral](http://twitter.com/search?q=Registro+Electoral) | N/A |
 | 48 | [Cova](http://twitter.com/search?q=Cova) | N/A |
 | 49 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |

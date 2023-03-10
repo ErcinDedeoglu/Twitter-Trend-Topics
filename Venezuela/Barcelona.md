@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-10 11:16:16 UTC`
+📆 Last Updated: `2023-03-10 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,15 +27,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [emely](http://twitter.com/search?q=emely) | N/A |
 | 11 | [sarago](http://twitter.com/search?q=sarago) | N/A |
 | 12 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 13 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 14 | [METS](http://twitter.com/search?q=METS) | N/A |
-| 15 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 16 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 17 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 18 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 13 | [Graciaaas](http://twitter.com/search?q=Graciaaas) | N/A |
+| 14 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 15 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 16 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
+| 17 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 18 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
 | 19 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 20 | [poder legislativo](http://twitter.com/search?q=poder+legislativo) | N/A |
-| 21 | [bandera nacional](http://twitter.com/search?q=bandera+nacional) | N/A |
+| 21 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
 | 22 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
 | 23 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
 | 24 | [américo vespucio](http://twitter.com/search?q=am%c3%a9rico+vespucio) | N/A |
@@ -44,23 +44,23 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 27 | [turpial airlines](http://twitter.com/search?q=turpial+airlines) | N/A |
 | 28 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 29 | [estudiantes de mérida](http://twitter.com/search?q=estudiantes+de+m%c3%a9rida) | N/A |
-| 30 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 31 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 32 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 35 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 36 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 37 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 38 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
-| 39 | [Venevisión](http://twitter.com/search?q=Venevisi%c3%b3n) | Venevisión is a Venezuelan television network founded in 1961. It is one of the largest and most popular networks in the country, and it broadcasts a variety of programming including news, sports, movies, soap operas, and more. The name Venevisión is derived from the words "Venezuela" and "televisión," meaning "television from Venezuela." |
+| 30 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
+| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 34 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 35 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 36 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 37 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 38 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 39 | [venevisión](http://twitter.com/search?q=venevisi%c3%b3n) | N/A |
 | 40 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
 | 41 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
-| 42 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
-| 43 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 44 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
-| 45 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 46 | [Registro Electoral](http://twitter.com/search?q=Registro+Electoral) | N/A |
+| 42 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 43 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 44 | [carlos mata](http://twitter.com/search?q=carlos+mata) | N/A |
+| 45 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 46 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
 
 
 
