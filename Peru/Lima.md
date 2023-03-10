@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-10 16:16:20 UTC`
+📆 Last Updated: `2023-03-10 17:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
-| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 7 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
-| 8 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
-| 11 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
-| 12 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 13 | [Brandon Palacios](http://twitter.com/search?q=Brandon+Palacios) | N/A |
-| 14 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 15 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 16 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 17 | [arguedas](http://twitter.com/search?q=arguedas) | N/A |
-| 18 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
-| 21 | [Lambayeque](http://twitter.com/search?q=Lambayeque) | N/A |
-| 22 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 25 | [Alemania y Marruecos](http://twitter.com/search?q=Alemania+y+Marruecos) | N/A |
-| 26 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 27 | [josé williams](http://twitter.com/search?q=jos%c3%a9+williams) | N/A |
-| 28 | [nativa](http://twitter.com/search?q=nativa) | N/A |
-| 29 | [Feliz Día](http://twitter.com/search?q=Feliz+D%c3%ada) | N/A |
-| 30 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 31 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 32 | [Mesa Directiva](http://twitter.com/search?q=Mesa+Directiva) | N/A |
-| 33 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 34 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 35 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
-| 36 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
-| 37 | [panamericana norte](http://twitter.com/search?q=panamericana+norte) | N/A |
-| 38 | [cancha 1](http://twitter.com/search?q=cancha+1) | N/A |
-| 39 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 40 | [Judy](http://twitter.com/search?q=Judy) | N/A |
-| 41 | [el español](http://twitter.com/search?q=el+espa%c3%b1ol) | N/A |
-| 42 | [carlos álvarez](http://twitter.com/search?q=carlos+%c3%a1lvarez) | N/A |
-| 43 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 44 | [yarita](http://twitter.com/search?q=yarita) | N/A |
-| 45 | [Waldir](http://twitter.com/search?q=Waldir) | N/A |
-| 46 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
-| 47 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 48 | [Alberto Otárola](http://twitter.com/search?q=Alberto+Ot%c3%a1rola) | N/A |
-| 49 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
-| 50 | [rafael lópez aliaga](http://twitter.com/search?q=rafael+l%c3%b3pez+aliaga) | N/A |
+| 1 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
+| 2 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 3 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
+| 4 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
+| 5 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 6 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 7 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 8 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 9 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
+| 10 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 11 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 12 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 13 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 14 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 15 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
+| 16 | [Pacasmayo](http://twitter.com/search?q=Pacasmayo) | N/A |
+| 17 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
+| 18 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 19 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
+| 20 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 21 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 22 | [Talara](http://twitter.com/search?q=Talara) | N/A |
+| 23 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 24 | [Pretell](http://twitter.com/search?q=Pretell) | N/A |
+| 25 | [La Leche](http://twitter.com/search?q=La+Leche) | N/A |
+| 26 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 27 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
+| 28 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 29 | [vamos carajo](http://twitter.com/search?q=vamos+carajo) | N/A |
+| 30 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
+| 31 | [JERARQUÍA](http://twitter.com/search?q=JERARQU%c3%8dA) | N/A |
+| 32 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
+| 33 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 34 | [Palabra de Dios](http://twitter.com/search?q=Palabra+de+Dios) | N/A |
+| 35 | [Solís](http://twitter.com/search?q=Sol%c3%ads) | N/A |
+| 36 | [yotún](http://twitter.com/search?q=yot%c3%ban) | N/A |
+| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 38 | [Brandon Palacios](http://twitter.com/search?q=Brandon+Palacios) | N/A |
+| 39 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 42 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
+| 43 | [Nehemías 8](http://twitter.com/search?q=Nehem%c3%adas+8) | N/A |
+| 44 | [Succar](http://twitter.com/search?q=Succar) | N/A |
+| 45 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 46 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
+| 47 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
+| 48 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 49 | [Cusco](http://twitter.com/search?q=Cusco) | N/A |
+| 50 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 
 
 

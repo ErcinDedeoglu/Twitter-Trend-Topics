@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-10 16:16:20 UTC`
+📆 Last Updated: `2023-03-10 17:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SOLTA O SOM DJ](http://twitter.com/search?q=SOLTA+O+SOM+DJ) | N/A |
-| 2 | [NAO MANDA AUDIO](http://twitter.com/search?q=NAO+MANDA+AUDIO) | N/A |
-| 3 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 4 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 6 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 7 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 8 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 9 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 10 | [NAMORANDO OU NÃO](http://twitter.com/search?q=NAMORANDO+OU+N%c3%83O) | N/A |
-| 11 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 12 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 13 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 14 | [#BBBTAON](http://twitter.com/search?q=%23BBBTAON) | N/A |
-| 15 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 16 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 17 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [#flaxflu](http://twitter.com/search?q=%23flaxflu) | N/A |
-| 20 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 21 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 22 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 23 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 24 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 25 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 26 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 27 | [feliz cumple maite perroni](http://twitter.com/search?q=feliz+cumple+maite+perroni) | N/A |
-| 28 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 1 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 2 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 3 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 4 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
+| 5 | [SOLTA O SOM DJ](http://twitter.com/search?q=SOLTA+O+SOM+DJ) | N/A |
+| 6 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 7 | [N - Você](http://twitter.com/search?q=N+-+Voc%c3%aa) | N/A |
+| 8 | [NAO MANDA AUDIO](http://twitter.com/search?q=NAO+MANDA+AUDIO) | N/A |
+| 9 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
+| 10 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 11 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
+| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 13 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 14 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
+| 15 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 16 | [#L5IsComing](http://twitter.com/search?q=%23L5IsComing) | N/A |
+| 17 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 18 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 19 | [Marcelo Rossi](http://twitter.com/search?q=Marcelo+Rossi) | N/A |
+| 20 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
+| 21 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
+| 22 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 24 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 25 | [#bbbtaon](http://twitter.com/search?q=%23bbbtaon) | N/A |
+| 26 | [Gustavo Tubarão](http://twitter.com/search?q=Gustavo+Tubar%c3%a3o) | N/A |
+| 27 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 28 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
 | 29 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 30 | [Red hot](http://twitter.com/search?q=Red+hot) | N/A |
-| 31 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 34 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 35 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
-| 36 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 37 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 39 | [matheusao](http://twitter.com/search?q=matheusao) | N/A |
-| 40 | [Padre Marcelo](http://twitter.com/search?q=Padre+Marcelo) | N/A |
-| 41 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 42 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 43 | [maiara e maraisa em alto mar](http://twitter.com/search?q=maiara+e+maraisa+em+alto+mar) | N/A |
-| 44 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 45 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 48 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
-| 49 | [BOLSONARO LADRÃO](http://twitter.com/search?q=BOLSONARO+LADR%c3%83O) | N/A |
+| 30 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 31 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [La Fama](http://twitter.com/search?q=La+Fama) | N/A |
+| 34 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
+| 35 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 36 | [André Mendonça](http://twitter.com/search?q=Andr%c3%a9+Mendon%c3%a7a) | N/A |
+| 37 | [Movimentar](http://twitter.com/search?q=Movimentar) | N/A |
+| 38 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 39 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 40 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
+| 41 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 42 | [Rascunho](http://twitter.com/search?q=Rascunho) | N/A |
+| 43 | [Nardes](http://twitter.com/search?q=Nardes) | N/A |
+| 44 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 45 | [JOÃO VITOR](http://twitter.com/search?q=JO%c3%83O+VITOR) | N/A |
+| 46 | [Desmatamento](http://twitter.com/search?q=Desmatamento) | N/A |
+| 47 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 48 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 49 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 50 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
 
 
 

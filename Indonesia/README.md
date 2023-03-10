@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-10 16:17:02 UTC`
+📆 Last Updated: `2023-03-10 17:20:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ROVER_TeaserImage4](http://twitter.com/search?q=%23ROVER_TeaserImage4) | N/A |
-| 2 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 3 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
-| 4 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
-| 5 | [#FACECONCEPTPHOTOSOFTWARE](http://twitter.com/search?q=%23FACECONCEPTPHOTOSOFTWARE) | N/A |
-| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 7 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
-| 8 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 9 | [selamat hari musik nasional](http://twitter.com/search?q=selamat+hari+musik+nasional) | N/A |
-| 10 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
-| 11 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
-| 14 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 15 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 2 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 3 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 4 | [#aBossandaBabeEP2](http://twitter.com/search?q=%23aBossandaBabeEP2) | N/A |
+| 5 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
+| 6 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 7 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 8 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
+| 9 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 10 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 11 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
+| 12 | [JIMIN CONCEPT PHOTO SOFTWARE](http://twitter.com/search?q=JIMIN+CONCEPT+PHOTO+SOFTWARE) | N/A |
+| 13 | [Moomin](http://twitter.com/search?q=Moomin) | N/A |
+| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 15 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
 | 16 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 17 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
-| 18 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 19 | [Kaos Metal Keren](http://twitter.com/search?q=Kaos+Metal+Keren) | N/A |
-| 20 | [Baju Hammersonic](http://twitter.com/search?q=Baju+Hammersonic) | N/A |
-| 21 | [Mitologi Indonesia](http://twitter.com/search?q=Mitologi+Indonesia) | N/A |
-| 22 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 23 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 24 | [pendiem](http://twitter.com/search?q=pendiem) | N/A |
-| 25 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 26 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 27 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 28 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 29 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
-| 30 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 31 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 32 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 33 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 34 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 35 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 36 | [JUNHUI](http://twitter.com/search?q=JUNHUI) | N/A |
-| 37 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 38 | [MINGYU POTONG RAMBUT](http://twitter.com/search?q=MINGYU+POTONG+RAMBUT) | N/A |
-| 39 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 40 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 41 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 42 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
-| 43 | [komnas ham](http://twitter.com/search?q=komnas+ham) | N/A |
-| 44 | [Selebrasi](http://twitter.com/search?q=Selebrasi) | N/A |
-| 45 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 46 | [Exo CBX](http://twitter.com/search?q=Exo+CBX) | N/A |
-| 47 | [KunciGoods](http://twitter.com/search?q=KunciGoods) | N/A |
-| 48 | [Dead Inside Collection](http://twitter.com/search?q=Dead+Inside+Collection) | N/A |
-| 49 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 17 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 18 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 19 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 20 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 21 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 22 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 23 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 24 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 25 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 26 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 27 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 28 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 29 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 30 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 32 | [ANTV](http://twitter.com/search?q=ANTV) | N/A |
+| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 35 | [Mario Dandy](http://twitter.com/search?q=Mario+Dandy) | N/A |
+| 36 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 37 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 38 | [#GalaxyA14](http://twitter.com/search?q=%23GalaxyA14) | N/A |
+| 39 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
+| 40 | [#GengPastiPasti](http://twitter.com/search?q=%23GengPastiPasti) | N/A |
+| 41 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
+| 42 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 43 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
+| 44 | [#AllEngland2023](http://twitter.com/search?q=%23AllEngland2023) | N/A |
+| 45 | [#JinnysKitchenEp3](http://twitter.com/search?q=%23JinnysKitchenEp3) | N/A |
+| 46 | [#TDS2inBKK_DAY1](http://twitter.com/search?q=%23TDS2inBKK_DAY1) | N/A |
+| 47 | [#마치_천국의_캐럿랜드](http://twitter.com/search?q=%23%eb%a7%88%ec%b9%98_%ec%b2%9c%ea%b5%ad%ec%9d%98_%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c) | N/A |
+| 48 | [#KM50MenagihJanjiKapolri](http://twitter.com/search?q=%23KM50MenagihJanjiKapolri) | N/A |
+| 49 | [#MenkeuBobrok](http://twitter.com/search?q=%23MenkeuBobrok) | N/A |
+| 50 | [#MenluMundur](http://twitter.com/search?q=%23MenluMundur) | N/A |
 
 
 

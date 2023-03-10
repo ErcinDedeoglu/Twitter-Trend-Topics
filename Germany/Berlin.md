@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-10 16:16:25 UTC`
+📆 Last Updated: `2023-03-10 17:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#throwbackthursday](http://twitter.com/search?q=%23throwbackthursday) | N/A |
-| 4 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 5 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 6 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 7 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 10 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 11 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 12 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 13 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 14 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
-| 15 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 16 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
-| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 18 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
-| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 20 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
-| 21 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 22 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
-| 23 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 24 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 25 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 26 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 27 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 28 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 29 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 30 | [Paare](http://twitter.com/search?q=Paare) | N/A |
-| 31 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 32 | [Fremden](http://twitter.com/search?q=Fremden) | N/A |
-| 33 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
-| 34 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 35 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 36 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 37 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
-| 38 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 39 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 40 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 41 | [Fahrerlaubnis](http://twitter.com/search?q=Fahrerlaubnis) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [zehner](http://twitter.com/search?q=zehner) | N/A |
-| 44 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 45 | [Zweitnamen](http://twitter.com/search?q=Zweitnamen) | N/A |
-| 46 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 47 | [Sekten](http://twitter.com/search?q=Sekten) | N/A |
-| 48 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 49 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 1 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 2 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 5 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 6 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 8 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
+| 9 | [#Warntag](http://twitter.com/search?q=%23Warntag) | N/A |
+| 10 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 11 | [#probealarm](http://twitter.com/search?q=%23probealarm) | N/A |
+| 12 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 13 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 14 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 17 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
+| 18 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 19 | ['Zeit'](http://twitter.com/search?q=%27Zeit%27) | N/A |
+| 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 21 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 22 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
+| 23 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 24 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 25 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 26 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 27 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 28 | [Gesundheitsdaten](http://twitter.com/search?q=Gesundheitsdaten) | N/A |
+| 29 | [Traute Lafrenz](http://twitter.com/search?q=Traute+Lafrenz) | N/A |
+| 30 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 31 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
+| 32 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
+| 33 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 34 | [Aussteiger](http://twitter.com/search?q=Aussteiger) | N/A |
+| 35 | [Schießerei](http://twitter.com/search?q=Schie%c3%9ferei) | N/A |
+| 36 | [Paare](http://twitter.com/search?q=Paare) | N/A |
+| 37 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Digitalisierung](http://twitter.com/search?q=Digitalisierung) | N/A |
+| 40 | [erzwungen](http://twitter.com/search?q=erzwungen) | N/A |
+| 41 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 42 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 43 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 44 | [Jehovah's Witnesses](http://twitter.com/search?q=Jehovah%27s+Witnesses) | N/A |
+| 45 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 46 | [start in den freitag](http://twitter.com/search?q=start+in+den+freitag) | N/A |
+| 47 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 48 | [Glaubensgemeinschaft](http://twitter.com/search?q=Glaubensgemeinschaft) | N/A |
+| 49 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
+| 50 | [Auswandern](http://twitter.com/search?q=Auswandern) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-10 16:16:52 UTC`
+📆 Last Updated: `2023-03-10 17:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#Mar10](http://twitter.com/search?q=%23Mar10) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 4 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 6 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 7 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 10 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 11 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 14 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 15 | [Darius Slay](http://twitter.com/search?q=Darius+Slay) | N/A |
-| 16 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 18 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 19 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 1 | [Wendell](http://twitter.com/search?q=Wendell) | N/A |
+| 2 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 3 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 5 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
+| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 7 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 8 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
+| 9 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 11 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 12 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
+| 13 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 14 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
+| 15 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 16 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 17 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 18 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 19 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 20 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 21 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 24 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 25 | [Pastor Swift](http://twitter.com/search?q=Pastor+Swift) | N/A |
-| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 27 | [The Flyers](http://twitter.com/search?q=The+Flyers) | N/A |
-| 28 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 29 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 30 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 31 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 32 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 33 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 36 | [Briere](http://twitter.com/search?q=Briere) | N/A |
-| 37 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 38 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 39 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 40 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 41 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
-| 42 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 43 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
-| 44 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 45 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
-| 46 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 47 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 48 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
-| 49 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
+| 22 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 23 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 24 | [Briere](http://twitter.com/search?q=Briere) | N/A |
+| 25 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 26 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 27 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 28 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 29 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 30 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 32 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 33 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 34 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 35 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 36 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 37 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 38 | [Hawkgirl](http://twitter.com/search?q=Hawkgirl) | N/A |
+| 39 | [All Aboarddddd](http://twitter.com/search?q=All+Aboarddddd) | N/A |
+| 40 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 41 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 42 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 43 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 44 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 45 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 46 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
+| 47 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
 
 
 

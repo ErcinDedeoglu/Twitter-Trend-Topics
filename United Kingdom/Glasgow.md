@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-10 16:16:12 UTC`
+📆 Last Updated: `2023-03-10 17:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 5 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 6 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
-| 7 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 10 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 11 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 15 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 16 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 18 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 19 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 20 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 21 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 22 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 23 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 24 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 1 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
+| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 3 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 4 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 5 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 6 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 7 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 8 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 9 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
+| 10 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 11 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 14 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
+| 15 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 16 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
+| 17 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
+| 18 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 19 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 20 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
+| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 22 | [CITV](http://twitter.com/search?q=CITV) | N/A |
+| 23 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 24 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
 | 25 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 26 | [London](http://twitter.com/search?q=London) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 30 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 31 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
-| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 33 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 34 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 35 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 37 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 38 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 39 | [Cameron Smith](http://twitter.com/search?q=Cameron+Smith) | N/A |
-| 40 | [Monbiot](http://twitter.com/search?q=Monbiot) | N/A |
+| 26 | [Censorship](http://twitter.com/search?q=Censorship) | N/A |
+| 27 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 28 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 29 | [Monbiot](http://twitter.com/search?q=Monbiot) | N/A |
+| 30 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
+| 31 | [Red Dwarf](http://twitter.com/search?q=Red+Dwarf) | N/A |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 33 | [Stepping](http://twitter.com/search?q=Stepping) | N/A |
+| 34 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 35 | [TV Licence](http://twitter.com/search?q=TV+Licence) | N/A |
+| 36 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 38 | [Roofe](http://twitter.com/search?q=Roofe) | Roofe is a slang term used to describe someone who is attractive or good-looking. It is derived from the phrase "hot off the roofe," which means something that is very desirable. |
+| 39 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 40 | [The Apprentice](http://twitter.com/search?q=The+Apprentice) | N/A |
 | 41 | [Brand](http://twitter.com/search?q=Brand) | N/A |
-| 42 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 43 | [CITV](http://twitter.com/search?q=CITV) | N/A |
-| 44 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 45 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 46 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 47 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 48 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 50 | [Nicky Henderson](http://twitter.com/search?q=Nicky+Henderson) | N/A |
+| 42 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 43 | [East Dulwich](http://twitter.com/search?q=East+Dulwich) | N/A |
+| 44 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
+| 45 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 46 | [Toad](http://twitter.com/search?q=Toad) | N/A |
+| 47 | [British Science Week](http://twitter.com/search?q=British+Science+Week) | N/A |
+| 48 | [RIP MC Fats](http://twitter.com/search?q=RIP+MC+Fats) | N/A |
+| 49 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
+| 50 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
 
 
 

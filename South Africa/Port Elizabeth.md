@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-10 16:16:42 UTC`
+📆 Last Updated: `2023-03-10 17:20:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LuckyStar](http://twitter.com/search?q=%23LuckyStar) | N/A |
-| 2 | [#Powerball](http://twitter.com/search?q=%23Powerball) | N/A |
-| 3 | [#Makwarela](http://twitter.com/search?q=%23Makwarela) | N/A |
-| 4 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
-| 5 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
+| 1 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 2 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
+| 3 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
+| 4 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 5 | [#HungryLikeALion](http://twitter.com/search?q=%23HungryLikeALion) | N/A |
 | 6 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 7 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 8 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 9 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 10 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 11 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
-| 12 | [Stage 8](http://twitter.com/search?q=Stage+8) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 15 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
-| 16 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
-| 17 | [soshanguve](http://twitter.com/search?q=soshanguve) | N/A |
-| 18 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 20 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
-| 21 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 22 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 23 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
-| 24 | [Wash](http://twitter.com/search?q=Wash) | N/A |
-| 25 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 26 | [BLUE AIVA THE SUPERSTAR](http://twitter.com/search?q=BLUE+AIVA+THE+SUPERSTAR) | N/A |
-| 27 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
-| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 31 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 33 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 34 | [canal walk](http://twitter.com/search?q=canal+walk) | N/A |
-| 35 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 36 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 37 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 38 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 39 | [2nd Test](http://twitter.com/search?q=2nd+Test) | N/A |
-| 40 | [Amazulu](http://twitter.com/search?q=Amazulu) | Amazulu is a South African Zulu-speaking ethnic group. The name Amazulu means "People of the Heavens" in English. |
-| 41 | [Fraud](http://twitter.com/search?q=Fraud) | N/A |
-| 42 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 43 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 44 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 45 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 46 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 47 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 48 | [Block 16](http://twitter.com/search?q=Block+16) | N/A |
-| 49 | [MH370](http://twitter.com/search?q=MH370) | N/A |
+| 7 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
+| 8 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 9 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 10 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 12 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 13 | [BIG BITE 2](http://twitter.com/search?q=BIG+BITE+2) | N/A |
+| 14 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 15 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 16 | [Willie Madisha](http://twitter.com/search?q=Willie+Madisha) | N/A |
+| 17 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 18 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 19 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 20 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
+| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 22 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 23 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
+| 24 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
+| 25 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
+| 26 | [Sheraton](http://twitter.com/search?q=Sheraton) | N/A |
+| 27 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
+| 28 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
+| 29 | [Wings](http://twitter.com/search?q=Wings) | N/A |
+| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 31 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 32 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
+| 33 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
+| 34 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
+| 35 | [Sunnyside](http://twitter.com/search?q=Sunnyside) | N/A |
+| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 37 | [Wits](http://twitter.com/search?q=Wits) | N/A |
+| 38 | [Capital Inn](http://twitter.com/search?q=Capital+Inn) | N/A |
+| 39 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 40 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
+| 41 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 42 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 45 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
+| 46 | [Matric](http://twitter.com/search?q=Matric) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 49 | [Captain](http://twitter.com/search?q=Captain) | N/A |
 
 
 

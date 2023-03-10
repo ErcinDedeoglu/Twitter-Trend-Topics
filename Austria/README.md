@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 16:17:00 UTC`
+📆 Last Updated: `2023-03-10 17:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 2 | [#Österreich2030](http://twitter.com/search?q=%23%c3%96sterreich2030) | N/A |
-| 3 | [#kanzlerrede](http://twitter.com/search?q=%23kanzlerrede) | N/A |
-| 4 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Karli](http://twitter.com/search?q=Karli) | N/A |
-| 7 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 8 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
-| 9 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 10 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 11 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 12 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 13 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 14 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 15 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 16 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 17 | [Freien](http://twitter.com/search?q=Freien) | N/A |
-| 18 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 19 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 20 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 21 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 22 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 23 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 24 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Gegenwart](http://twitter.com/search?q=Gegenwart) | N/A |
-| 27 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
-| 28 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
-| 29 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
-| 30 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 31 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 32 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
-| 33 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
-| 34 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 35 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
-| 36 | [Jahrzehnte](http://twitter.com/search?q=Jahrzehnte) | N/A |
-| 37 | [iaea](http://twitter.com/search?q=iaea) | N/A |
-| 38 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 39 | [vermummungsverbot](http://twitter.com/search?q=vermummungsverbot) | N/A |
-| 40 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
-| 41 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 42 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 44 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 45 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 46 | [erlagschein](http://twitter.com/search?q=erlagschein) | N/A |
-| 47 | [Frauen und Männer](http://twitter.com/search?q=Frauen+und+M%c3%a4nner) | N/A |
-| 48 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
-| 49 | [Verkauf](http://twitter.com/search?q=Verkauf) | N/A |
-| 50 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 2 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
+| 3 | [#Österreich2030](http://twitter.com/search?q=%23%c3%96sterreich2030) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 6 | [#oe2030](http://twitter.com/search?q=%23oe2030) | N/A |
+| 7 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
+| 8 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 9 | [Visionen](http://twitter.com/search?q=Visionen) | N/A |
+| 10 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 11 | [Zukunft der Nation](http://twitter.com/search?q=Zukunft+der+Nation) | N/A |
+| 12 | [Klarstellung](http://twitter.com/search?q=Klarstellung) | N/A |
+| 13 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 14 | [Alkohol und Psychopharmaka](http://twitter.com/search?q=Alkohol+und+Psychopharmaka) | N/A |
+| 15 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 16 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
+| 17 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 18 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 19 | [Maschinen](http://twitter.com/search?q=Maschinen) | N/A |
+| 20 | [Motorrad](http://twitter.com/search?q=Motorrad) | N/A |
+| 21 | [unmögliche](http://twitter.com/search?q=unm%c3%b6gliche) | N/A |
+| 22 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 23 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 24 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
+| 25 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 26 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 27 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
+| 28 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 29 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
+| 30 | [Verträge](http://twitter.com/search?q=Vertr%c3%a4ge) | N/A |
+| 31 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 32 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 33 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 34 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 35 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 36 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 37 | [Khol](http://twitter.com/search?q=Khol) | N/A |
+| 38 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 40 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 41 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 42 | [Falter](http://twitter.com/search?q=Falter) | N/A |
+| 43 | [Farben](http://twitter.com/search?q=Farben) | N/A |
+| 44 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
+| 45 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 46 | [Vorgaben](http://twitter.com/search?q=Vorgaben) | N/A |
+| 47 | [Johanna Mikl](http://twitter.com/search?q=Johanna+Mikl) | N/A |
+| 48 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 49 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 50 | [Board of Governors](http://twitter.com/search?q=Board+of+Governors) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-10 16:16:19 UTC`
+📆 Last Updated: `2023-03-10 17:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
 | 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
-| 3 | [Fernando "Bocha" Batista](http://twitter.com/search?q=Fernando+%22Bocha%22+Batista) | N/A |
-| 4 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 3 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 4 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
 | 5 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 6 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
-| 7 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
-| 8 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
-| 9 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 10 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
-| 13 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [astros de houston](http://twitter.com/search?q=astros+de+houston) | N/A |
-| 16 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
-| 17 | [José Altuve](http://twitter.com/search?q=Jos%c3%a9+Altuve) | N/A |
-| 18 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 19 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
-| 20 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 21 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
-| 22 | [gasparín](http://twitter.com/search?q=gaspar%c3%adn) | N/A |
-| 23 | [gran misión mujer venezuela](http://twitter.com/search?q=gran+misi%c3%b3n+mujer+venezuela) | N/A |
-| 24 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 25 | [emely](http://twitter.com/search?q=emely) | N/A |
-| 26 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 28 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
-| 29 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 30 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 31 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
-| 32 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
-| 33 | [cova](http://twitter.com/search?q=cova) | N/A |
-| 34 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 35 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 36 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
-| 37 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 38 | [orencio](http://twitter.com/search?q=orencio) | N/A |
-| 39 | [lila Morillo](http://twitter.com/search?q=lila+Morillo) | N/A |
-| 40 | [bandera nacional](http://twitter.com/search?q=bandera+nacional) | N/A |
-| 41 | [Hugo Rafael Chávez Frías](http://twitter.com/search?q=Hugo+Rafael+Ch%c3%a1vez+Fr%c3%adas) | N/A |
-| 42 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
-| 43 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 44 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 45 | [el libro](http://twitter.com/search?q=el+libro) | N/A |
-| 46 | [richard paez](http://twitter.com/search?q=richard+paez) | N/A |
+| 6 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 7 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 8 | [Dr. José María Vargas](http://twitter.com/search?q=Dr.+Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 9 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
+| 10 | [Leandro Cufré](http://twitter.com/search?q=Leandro+Cufr%c3%a9) | N/A |
+| 11 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 12 | [Endrys Briceño](http://twitter.com/search?q=Endrys+Brice%c3%b1o) | N/A |
+| 13 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 14 | [Universidad de Caracas](http://twitter.com/search?q=Universidad+de+Caracas) | N/A |
+| 15 | [Sociedad Médica de Caracas](http://twitter.com/search?q=Sociedad+M%c3%a9dica+de+Caracas) | N/A |
+| 16 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 17 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 19 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 20 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
+| 21 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 22 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 23 | [Juan José Landaeta](http://twitter.com/search?q=Juan+Jos%c3%a9+Landaeta) | N/A |
+| 24 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 25 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 26 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 27 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
+| 28 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
+| 29 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 30 | [josé altuve](http://twitter.com/search?q=jos%c3%a9+altuve) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [marina baura](http://twitter.com/search?q=marina+baura) | N/A |
+| 33 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 34 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 35 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
+| 36 | [Maite Perroni](http://twitter.com/search?q=Maite+Perroni) | N/A |
+| 37 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
+| 38 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
+| 39 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 40 | [erick leal](http://twitter.com/search?q=erick+leal) | N/A |
+| 41 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 42 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 43 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 44 | [Himno Nacional de Venezuela](http://twitter.com/search?q=Himno+Nacional+de+Venezuela) | N/A |
+| 45 | [El Limón](http://twitter.com/search?q=El+Lim%c3%b3n) | N/A |
+| 46 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
 
 
 

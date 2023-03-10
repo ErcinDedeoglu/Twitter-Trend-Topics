@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-10 16:16:58 UTC`
+📆 Last Updated: `2023-03-10 17:20:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#Mar10](http://twitter.com/search?q=%23Mar10) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 1 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 2 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 4 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 6 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 7 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 8 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 9 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 12 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 13 | [Darius Slay](http://twitter.com/search?q=Darius+Slay) | N/A |
-| 14 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 15 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 16 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 17 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 18 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 7 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
+| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 10 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 11 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 12 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
+| 13 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 14 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 15 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 16 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 17 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 18 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 19 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 20 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 23 | [Pastor Swift](http://twitter.com/search?q=Pastor+Swift) | N/A |
-| 24 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 25 | [The Flyers](http://twitter.com/search?q=The+Flyers) | N/A |
-| 26 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 28 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 29 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 31 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 34 | [Briere](http://twitter.com/search?q=Briere) | N/A |
-| 35 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 36 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 37 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 38 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 39 | [happy international](http://twitter.com/search?q=happy+international) | N/A |
-| 40 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 41 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
-| 42 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 43 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
-| 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 45 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 46 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
-| 47 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 48 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 20 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 21 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 22 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 23 | [Briere](http://twitter.com/search?q=Briere) | N/A |
+| 24 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 25 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 26 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 28 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 29 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 30 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 31 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 32 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 33 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 34 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 35 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 36 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
+| 37 | [Hawkgirl](http://twitter.com/search?q=Hawkgirl) | N/A |
+| 38 | [All Aboarddddd](http://twitter.com/search?q=All+Aboarddddd) | N/A |
+| 39 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 40 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 41 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 42 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 43 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 44 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
+| 45 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
+| 46 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
+| 47 | [Drew Rosenhaus](http://twitter.com/search?q=Drew+Rosenhaus) | N/A |
 
 
 

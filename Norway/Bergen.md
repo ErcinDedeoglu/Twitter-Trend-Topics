@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-10 16:16:30 UTC`
+📆 Last Updated: `2023-03-10 17:20:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
-| 3 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 4 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 5 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 8 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
-| 9 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 10 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 11 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 12 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
-| 13 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 14 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 15 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 16 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 17 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
-| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 22 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 25 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 28 | [Trur](http://twitter.com/search?q=Trur) | N/A |
-| 29 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 30 | [erna](http://twitter.com/search?q=erna) | N/A |
-| 31 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 32 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 33 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 36 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 38 | [dårlig](http://twitter.com/search?q=d%c3%a5rlig) | N/A |
+| 1 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 2 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 3 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 4 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
+| 5 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [#MUNBET](http://twitter.com/search?q=%23MUNBET) | N/A |
+| 8 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 10 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 11 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 12 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 14 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
+| 15 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 16 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 17 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 18 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
+| 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 20 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 21 | [NTNU](http://twitter.com/search?q=NTNU) | N/A |
+| 22 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 23 | [Basse](http://twitter.com/search?q=Basse) | N/A |
+| 24 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 25 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
+| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 29 | [Eliteserien Fantasy](http://twitter.com/search?q=Eliteserien+Fantasy) | N/A |
+| 30 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 31 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 32 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 33 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 34 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 35 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
+| 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 37 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 38 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 39 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [Arctic](http://twitter.com/search?q=Arctic) | N/A |
-| 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 44 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 45 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 46 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 47 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 48 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 40 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 41 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 43 | [giske](http://twitter.com/search?q=giske) | N/A |
+| 44 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 45 | [Første](http://twitter.com/search?q=F%c3%b8rste) | N/A |
+| 46 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 48 | [Molde](http://twitter.com/search?q=Molde) | N/A |
 
 
 

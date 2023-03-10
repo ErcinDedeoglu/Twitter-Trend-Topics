@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-10 16:16:10 UTC`
+📆 Last Updated: `2023-03-10 17:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 5 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 6 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 11 | [éric caire](http://twitter.com/search?q=%c3%a9ric+caire) | N/A |
-| 12 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
-| 13 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 14 | [garneau](http://twitter.com/search?q=garneau) | N/A |
-| 15 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 16 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 19 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 20 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 21 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 22 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 23 | [oyap](http://twitter.com/search?q=oyap) | N/A |
-| 24 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 25 | [logan stanley](http://twitter.com/search?q=logan+stanley) | N/A |
-| 26 | [grocery ceos](http://twitter.com/search?q=grocery+ceos) | N/A |
-| 27 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
-| 28 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 31 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 32 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 33 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 35 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 36 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 37 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 38 | [Donald](http://twitter.com/search?q=Donald) | N/A |
-| 39 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 40 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 41 | [daily quordle 409](http://twitter.com/search?q=daily+quordle+409) | N/A |
-| 42 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 43 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 44 | [Burlington](http://twitter.com/search?q=Burlington) | N/A |
-| 45 | [Stock](http://twitter.com/search?q=Stock) | N/A |
-| 46 | [la grc](http://twitter.com/search?q=la+grc) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 1 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
+| 2 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 3 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 4 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 5 | [Pierre Karl Péladeau](http://twitter.com/search?q=Pierre+Karl+P%c3%a9ladeau) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
+| 8 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 10 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 11 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 12 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
+| 13 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 15 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 16 | [Charest](http://twitter.com/search?q=Charest) | N/A |
+| 17 | [Danny Briere](http://twitter.com/search?q=Danny+Briere) | N/A |
+| 18 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 19 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 20 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [lilley](http://twitter.com/search?q=lilley) | N/A |
+| 23 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 24 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
+| 25 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 26 | [Devin shore](http://twitter.com/search?q=Devin+shore) | N/A |
+| 27 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 28 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 29 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 30 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 31 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
+| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 33 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 36 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
+| 37 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 38 | [kaiden guhle](http://twitter.com/search?q=kaiden+guhle) | N/A |
+| 39 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 40 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
+| 41 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 42 | [Hemsky](http://twitter.com/search?q=Hemsky) | N/A |
+| 43 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
+| 44 | [Christine Sinclair](http://twitter.com/search?q=Christine+Sinclair) | N/A |
+| 45 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 46 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 47 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 48 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 49 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
+| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 

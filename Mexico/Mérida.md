@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-10 16:16:16 UTC`
+📆 Last Updated: `2023-03-10 17:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
-| 2 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
-| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
-| 7 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 1 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 2 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
+| 3 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
+| 4 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 5 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 6 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 7 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
 | 8 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
-| 9 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 15 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 17 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 18 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 19 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 20 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 21 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 22 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 23 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 24 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 25 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
-| 26 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 27 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 28 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 29 | [este 8m](http://twitter.com/search?q=este+8m) | N/A |
-| 30 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
-| 31 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 32 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 33 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 34 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
-| 35 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 36 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 37 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 38 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 39 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 40 | [ovidio guzmán](http://twitter.com/search?q=ovidio+guzm%c3%a1n) | N/A |
-| 41 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 42 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 43 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 44 | [cada 8m](http://twitter.com/search?q=cada+8m) | N/A |
-| 45 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
-| 46 | [Día Mundial del Riñón](http://twitter.com/search?q=D%c3%ada+Mundial+del+Ri%c3%b1%c3%b3n) | N/A |
-| 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 48 | [Sedena](http://twitter.com/search?q=Sedena) | N/A |
-| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 50 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 9 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 10 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
+| 11 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 12 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 13 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 14 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
+| 15 | [Melva Navarro](http://twitter.com/search?q=Melva+Navarro) | N/A |
+| 16 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 17 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
+| 18 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 19 | [Juezas](http://twitter.com/search?q=Juezas) | N/A |
+| 20 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 21 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
+| 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 23 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 24 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
+| 25 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 26 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 28 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 29 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
+| 30 | [#mañanerouniversal](http://twitter.com/search?q=%23ma%c3%b1anerouniversal) | N/A |
+| 31 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 32 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 33 | [#EjercitoEspia](http://twitter.com/search?q=%23EjercitoEspia) | N/A |
+| 34 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 35 | [#Toluca](http://twitter.com/search?q=%23Toluca) | N/A |
+| 36 | [#MarioBros](http://twitter.com/search?q=%23MarioBros) | N/A |
+| 37 | [#PrimaveraOaxaqueña](http://twitter.com/search?q=%23PrimaveraOaxaque%c3%b1a) | N/A |
+| 38 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 39 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
+| 40 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 41 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 42 | [#AmloElReyDelCinismo](http://twitter.com/search?q=%23AmloElReyDelCinismo) | N/A |
 
 
 
