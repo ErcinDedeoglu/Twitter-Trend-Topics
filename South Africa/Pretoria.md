@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-10 08:17:40 UTC`
+📆 Last Updated: `2023-03-10 09:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GuitarSession](http://twitter.com/search?q=%23GuitarSession) | N/A |
-| 2 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 3 | [#HungryLikeALion](http://twitter.com/search?q=%23HungryLikeALion) | N/A |
-| 4 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 5 | [Big Bite 2](http://twitter.com/search?q=Big+Bite+2) | N/A |
-| 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 7 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 8 | [#ShareWithNedbank](http://twitter.com/search?q=%23ShareWithNedbank) | N/A |
-| 9 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 11 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 12 | [R2 Million](http://twitter.com/search?q=R2+Million) | N/A |
-| 13 | [Dischem Beauty Fair](http://twitter.com/search?q=Dischem+Beauty+Fair) | N/A |
-| 14 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
-| 15 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
-| 16 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 17 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
-| 18 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
-| 19 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 20 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 21 | [Block 10](http://twitter.com/search?q=Block+10) | N/A |
-| 22 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
-| 23 | [Maximum of R2](http://twitter.com/search?q=Maximum+of+R2) | N/A |
-| 24 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 27 | [Exquisite](http://twitter.com/search?q=Exquisite) | N/A |
-| 28 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 29 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
-| 30 | [TheeEXCLUSIVE](http://twitter.com/search?q=TheeEXCLUSIVE) | N/A |
-| 31 | [Matric](http://twitter.com/search?q=Matric) | N/A |
-| 32 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
-| 33 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 34 | [Wash](http://twitter.com/search?q=Wash) | N/A |
-| 35 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 36 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 37 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 38 | [Sadtu](http://twitter.com/search?q=Sadtu) | N/A |
-| 39 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 40 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 41 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 42 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
-| 43 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 44 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 45 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
-| 46 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 47 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 48 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
-| 49 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#bulatheweekend](http://twitter.com/search?q=%23bulatheweekend) | N/A |
+| 3 | [#feeltheenergy](http://twitter.com/search?q=%23feeltheenergy) | N/A |
+| 4 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 5 | [#extreme](http://twitter.com/search?q=%23extreme) | N/A |
+| 6 | [minnie](http://twitter.com/search?q=minnie) | N/A |
+| 7 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 8 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
+| 9 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [SPORTING](http://twitter.com/search?q=SPORTING) | N/A |
+| 14 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [castle lite](http://twitter.com/search?q=castle+lite) | N/A |
+| 17 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 18 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 19 | [turner](http://twitter.com/search?q=turner) | N/A |
+| 20 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
+| 21 | [AmaZulu](http://twitter.com/search?q=AmaZulu) | N/A |
+| 22 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
+| 23 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 24 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
+| 25 | [soshanguve](http://twitter.com/search?q=soshanguve) | N/A |
+| 26 | [Sadtu](http://twitter.com/search?q=Sadtu) | N/A |
+| 27 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 28 | [thabang the sport analyst](http://twitter.com/search?q=thabang+the+sport+analyst) | N/A |
+| 29 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
+| 30 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 31 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 32 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
+| 33 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
+| 36 | [milan](http://twitter.com/search?q=milan) | N/A |
+| 37 | [blue aiva the superstar](http://twitter.com/search?q=blue+aiva+the+superstar) | N/A |
+| 38 | [somizi](http://twitter.com/search?q=somizi) | N/A |
+| 39 | [qhawe](http://twitter.com/search?q=qhawe) | N/A |
+| 40 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 41 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 42 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 43 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 44 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 45 | [Block 14](http://twitter.com/search?q=Block+14) | N/A |
+| 46 | [canal walk](http://twitter.com/search?q=canal+walk) | N/A |
+| 47 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 48 | [mosele](http://twitter.com/search?q=mosele) | N/A |
+| 49 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
 
 
 

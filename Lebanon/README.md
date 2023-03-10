@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-10 08:18:02 UTC`
+📆 Last Updated: `2023-03-10 09:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 2 | [#عيد_المعلم](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 4 | [#صار_الوقت](http://twitter.com/search?q=%23%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d9%88%d9%82%d8%aa) | N/A |
+| 1 | [#عيد_المعلم](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
+| 2 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [#سامي_الجميل](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
 | 6 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 7 | [داوود رمال](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d9%88%d8%af+%d8%b1%d9%85%d8%a7%d9%84) | N/A |
-| 8 | [مدارس المهدي](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 9 | [بيار صقر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d8%b1+%d8%b5%d9%82%d8%b1) | N/A |
-| 10 | [محيط المطار](http://twitter.com/search?q=%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
-| 11 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
-| 12 | [وزير الاتصالات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 13 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
-| 14 | [والا التقنين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a7+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%86) | N/A |
-| 15 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 16 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 17 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
-| 18 | [ابو زينب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
+| 7 | [بيار صقر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d8%b1+%d8%b5%d9%82%d8%b1) | N/A |
+| 8 | [محيط المطار](http://twitter.com/search?q=%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
+| 9 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 10 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
+| 11 | [تل أبيب](http://twitter.com/search?q=%d8%aa%d9%84+%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 12 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 13 | [عيد معلم](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%b9%d9%84%d9%85) | N/A |
+| 14 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
+| 15 | [الطلاب العراقيين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%8a%d9%86) | N/A |
+| 16 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
+| 17 | [وزير الاتصالات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 18 | [والا التقنين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a7+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%86) | N/A |
 | 19 | [موقع الامل](http://twitter.com/search?q=%d9%85%d9%88%d9%82%d8%b9+%d8%a7%d9%84%d8%a7%d9%85%d9%84) | N/A |
-| 20 | [الدول الاوروبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 21 | [القطاع التربوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a) | N/A |
-| 22 | [عيد معلم](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 23 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 24 | [ندي البستاني](http://twitter.com/search?q=%d9%86%d8%af%d9%8a+%d8%a7%d9%84%d8%a8%d8%b3%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 25 | [بير العبد](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a8%d8%af) | N/A |
-| 26 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 27 | [العصر الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 28 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 29 | [ابو مهدي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 30 | [الطلاب العراقيين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%8a%d9%86) | N/A |
-| 31 | [اشرف ريفي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
-| 32 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 20 | [بير العبد](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a8%d8%af) | N/A |
+| 21 | [ندي البستاني](http://twitter.com/search?q=%d9%86%d8%af%d9%8a+%d8%a7%d9%84%d8%a8%d8%b3%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 23 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 24 | [جورجيا](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d8%a7) | N/A |
+| 25 | [الدول الاوروبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 26 | [القطاع التربوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a) | N/A |
+| 27 | [عين الحلوه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 28 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 29 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [محمد حسين فضل](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ad%d8%b3%d9%8a%d9%86+%d9%81%d8%b6%d9%84) | N/A |
+| 32 | [المدارس الكاثوليكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%83%d8%a7%d8%ab%d9%88%d9%84%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 33 | [9 اذار 2023](http://twitter.com/search?q=9+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
+| 34 | [مطار بيروت](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
 | 35 | [إيطاليا](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 36 | [9 اذار 2023](http://twitter.com/search?q=9+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
-| 37 | [الشرطه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 38 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
-| 39 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 40 | [مطار بيروت](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
-| 41 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 42 | [طرابلس](http://twitter.com/search?q=%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 43 | [للأمم المتحدة](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 44 | [علي الهويه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87) | N/A |
-| 45 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 46 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 47 | [المدارس الكاثوليكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%83%d8%a7%d8%ab%d9%88%d9%84%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 48 | [الموسسه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 49 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 50 | [الشغور الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ba%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 36 | [السلاح المتفلت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%84%d8%aa) | N/A |
+| 37 | [للأمم المتحدة](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 38 | [علي القضاء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
+| 39 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
+| 40 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
+| 41 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
+| 42 | [وزير الخارجيه الايراني](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 43 | [الشرطه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [الموسسه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 45 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 46 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 47 | [الدولار الواحد](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af) | N/A |
+| 48 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 49 | [مشروع قانون](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
+| 50 | [الظروف الصعبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8%d9%87) | N/A |
 
 
 

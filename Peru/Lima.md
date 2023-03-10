@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-10 08:17:19 UTC`
+📆 Last Updated: `2023-03-10 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 3 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
-| 4 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
-| 5 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
-| 6 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 7 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 8 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 9 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 10 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 11 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
-| 12 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 13 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 14 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 15 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
-| 16 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 17 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 18 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 19 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 20 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
-| 21 | [Pacasmayo](http://twitter.com/search?q=Pacasmayo) | N/A |
-| 22 | [JERARQUÍA](http://twitter.com/search?q=JERARQU%c3%8dA) | N/A |
-| 23 | [Solis](http://twitter.com/search?q=Solis) | N/A |
-| 24 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 25 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 26 | [Pretell](http://twitter.com/search?q=Pretell) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 29 | [alemania y marruecos](http://twitter.com/search?q=alemania+y+marruecos) | N/A |
-| 30 | [La U](http://twitter.com/search?q=La+U) | N/A |
-| 31 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 32 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 33 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 34 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 35 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 36 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 37 | [aldair fuentes](http://twitter.com/search?q=aldair+fuentes) | N/A |
-| 38 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 39 | [Fuerza Cristal](http://twitter.com/search?q=Fuerza+Cristal) | N/A |
-| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 41 | [Petroperú](http://twitter.com/search?q=Petroper%c3%ba) | N/A |
-| 42 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
-| 43 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 44 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 45 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 46 | [Talara](http://twitter.com/search?q=Talara) | N/A |
-| 47 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 48 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 49 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
-| 50 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
+| 1 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 4 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
+| 7 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
+| 8 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 9 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [brandon palacios](http://twitter.com/search?q=brandon+palacios) | N/A |
+| 12 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 13 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Alemania y Marruecos](http://twitter.com/search?q=Alemania+y+Marruecos) | N/A |
+| 16 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 17 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 18 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
+| 19 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
+| 20 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 21 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 22 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 23 | [arguedas](http://twitter.com/search?q=arguedas) | N/A |
+| 24 | [YAKU](http://twitter.com/search?q=YAKU) | N/A |
+| 25 | [Andy Polo](http://twitter.com/search?q=Andy+Polo) | N/A |
+| 26 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [josé williams](http://twitter.com/search?q=jos%c3%a9+williams) | N/A |
+| 30 | [tambo](http://twitter.com/search?q=tambo) | N/A |
+| 31 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 32 | [nativa](http://twitter.com/search?q=nativa) | N/A |
+| 33 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
+| 34 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
+| 35 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 36 | [build always on top](http://twitter.com/search?q=build+always+on+top) | N/A |
+| 37 | [mesa directiva](http://twitter.com/search?q=mesa+directiva) | N/A |
+| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 39 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 40 | [cientos](http://twitter.com/search?q=cientos) | N/A |
+| 41 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 42 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
+| 43 | [panamericana norte](http://twitter.com/search?q=panamericana+norte) | N/A |
+| 44 | [cancha 1](http://twitter.com/search?q=cancha+1) | N/A |
+| 45 | [jaimito](http://twitter.com/search?q=jaimito) | N/A |
+| 46 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 47 | [Selección Peruana](http://twitter.com/search?q=Selecci%c3%b3n+Peruana) | N/A |
+| 48 | [judy](http://twitter.com/search?q=judy) | N/A |
+| 49 | [el español](http://twitter.com/search?q=el+espa%c3%b1ol) | N/A |
+| 50 | [carlos álvarez](http://twitter.com/search?q=carlos+%c3%a1lvarez) | N/A |
 
 
 

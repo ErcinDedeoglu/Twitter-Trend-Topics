@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-10 08:17:25 UTC`
+📆 Last Updated: `2023-03-10 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
-| 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 5 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
-| 6 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 7 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
-| 8 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 9 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 10 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 11 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 12 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 13 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 14 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 15 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 16 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 17 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 18 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 19 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 20 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 21 | [Start in den Freitag](http://twitter.com/search?q=Start+in+den+Freitag) | N/A |
-| 22 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 23 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 24 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
-| 25 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 26 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 27 | [Vorurteil](http://twitter.com/search?q=Vorurteil) | N/A |
-| 28 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 29 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 30 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 31 | [Traute Lafrenz](http://twitter.com/search?q=Traute+Lafrenz) | N/A |
-| 32 | [Peppi](http://twitter.com/search?q=Peppi) | N/A |
-| 33 | [Schießerei](http://twitter.com/search?q=Schie%c3%9ferei) | N/A |
-| 34 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
-| 35 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 36 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 37 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
-| 38 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 39 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
-| 40 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 41 | [Guten Morgen Sarah](http://twitter.com/search?q=Guten+Morgen+Sarah) | N/A |
-| 42 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 43 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 44 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 45 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 46 | [Glaubensgemeinschaft](http://twitter.com/search?q=Glaubensgemeinschaft) | N/A |
-| 47 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 48 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 49 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
+| 1 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 2 | [#warntag](http://twitter.com/search?q=%23warntag) | N/A |
+| 3 | [#weltfrauentag](http://twitter.com/search?q=%23weltfrauentag) | N/A |
+| 4 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 5 | [probealarm](http://twitter.com/search?q=probealarm) | N/A |
+| 6 | [sirenen](http://twitter.com/search?q=sirenen) | N/A |
+| 7 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 9 | [cell broadcast](http://twitter.com/search?q=cell+broadcast) | N/A |
+| 10 | [Monika](http://twitter.com/search?q=Monika) | N/A |
+| 11 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 12 | [reisepässe](http://twitter.com/search?q=reisep%c3%a4sse) | N/A |
+| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 14 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 15 | [sandro wagner](http://twitter.com/search?q=sandro+wagner) | N/A |
+| 16 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 17 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 18 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 19 | [transfrauen](http://twitter.com/search?q=transfrauen) | N/A |
+| 20 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 21 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 22 | [flinta](http://twitter.com/search?q=flinta) | N/A |
+| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 26 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
+| 27 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 28 | [bonitätsprüfung](http://twitter.com/search?q=bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 29 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 30 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
+| 31 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 32 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 33 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 34 | [endlose studien](http://twitter.com/search?q=endlose+studien) | N/A |
+| 35 | [Rathaus](http://twitter.com/search?q=Rathaus) | N/A |
+| 36 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 37 | [kretschmer](http://twitter.com/search?q=kretschmer) | N/A |
+| 38 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 39 | [zehner](http://twitter.com/search?q=zehner) | N/A |
+| 40 | [männertag](http://twitter.com/search?q=m%c3%a4nnertag) | N/A |
+| 41 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 43 | [bayern und nrw](http://twitter.com/search?q=bayern+und+nrw) | N/A |
+| 44 | [Absender](http://twitter.com/search?q=Absender) | N/A |
+| 45 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 46 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 47 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 48 | [katwarn](http://twitter.com/search?q=katwarn) | N/A |
+| 49 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 
 
 

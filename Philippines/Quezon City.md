@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-10 08:17:37 UTC`
+📆 Last Updated: `2023-03-10 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 1 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
 | 2 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 3 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
-| 4 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
-| 5 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
-| 6 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 7 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 8 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 9 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 3 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
+| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 5 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 6 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
+| 7 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
+| 8 | [#engeneselcaday](http://twitter.com/search?q=%23engeneselcaday) | N/A |
+| 9 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
 | 10 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 11 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 13 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 14 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
-| 15 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 16 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 17 | [GOT THE THRILLS](http://twitter.com/search?q=GOT+THE+THRILLS) | N/A |
-| 18 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 19 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 20 | [EAT WELL](http://twitter.com/search?q=EAT+WELL) | N/A |
-| 21 | [Wallflower](http://twitter.com/search?q=Wallflower) | N/A |
-| 22 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
-| 23 | [HiLiveYou JereVi](http://twitter.com/search?q=HiLiveYou+JereVi) | N/A |
-| 24 | [RAPPER MOMO](http://twitter.com/search?q=RAPPER+MOMO) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
-| 27 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 28 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 29 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 30 | [LISA IN PARIS VLOG](http://twitter.com/search?q=LISA+IN+PARIS+VLOG) | N/A |
-| 31 | [House Speaker Martin Romualdez](http://twitter.com/search?q=House+Speaker+Martin+Romualdez) | N/A |
-| 32 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 33 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
-| 34 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
-| 35 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 36 | [TOP FOR VERSACE](http://twitter.com/search?q=TOP+FOR+VERSACE) | N/A |
-| 37 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
-| 38 | [katniss everdeen](http://twitter.com/search?q=katniss+everdeen) | N/A |
-| 39 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
-| 40 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 41 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
-| 42 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
-| 43 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
-| 44 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
-| 45 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 46 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
-| 47 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
-| 48 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 49 | [New Frontier Theater](http://twitter.com/search?q=New+Frontier+Theater) | N/A |
-| 50 | [National Election Summit](http://twitter.com/search?q=National+Election+Summit) | N/A |
+| 11 | [kdlex on smlounge](http://twitter.com/search?q=kdlex+on+smlounge) | N/A |
+| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 14 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 15 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
+| 16 | [bets bulacan](http://twitter.com/search?q=bets+bulacan) | N/A |
+| 17 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
+| 18 | [d-12 bobby drowning](http://twitter.com/search?q=d-12+bobby+drowning) | N/A |
+| 19 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 21 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
+| 22 | [bm last evaluation ep1](http://twitter.com/search?q=bm+last+evaluation+ep1) | N/A |
+| 23 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 24 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 25 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
+| 26 | [Ppop](http://twitter.com/search?q=Ppop) | N/A |
+| 27 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 28 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 29 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
+| 30 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 31 | [FOR SALE](http://twitter.com/search?q=FOR+SALE) | N/A |
+| 32 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 33 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 34 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
+| 35 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
+| 36 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 37 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 38 | [ISABELA](http://twitter.com/search?q=ISABELA) | N/A |
+| 39 | [Jessey](http://twitter.com/search?q=Jessey) | N/A |
+| 40 | [minwon 2 minus 1](http://twitter.com/search?q=minwon+2+minus+1) | N/A |
+| 41 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 42 | [akari](http://twitter.com/search?q=akari) | N/A |
+| 43 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 44 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 45 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 46 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
+| 47 | [VIBRENT MATAPANG BILLBOARD](http://twitter.com/search?q=VIBRENT+MATAPANG+BILLBOARD) | N/A |
+| 48 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
+| 49 | [Careless](http://twitter.com/search?q=Careless) | N/A |
+| 50 | [WE LOVE YOU KIARA](http://twitter.com/search?q=WE+LOVE+YOU+KIARA) | N/A |
 
 
 

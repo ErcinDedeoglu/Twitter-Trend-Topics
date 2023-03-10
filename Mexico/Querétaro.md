@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-10 08:17:16 UTC`
+📆 Last Updated: `2023-03-10 09:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 2 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 3 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 4 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 7 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
-| 8 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 9 | [Jaded](http://twitter.com/search?q=Jaded) | N/A |
-| 10 | [Viva Latino](http://twitter.com/search?q=Viva+Latino) | N/A |
-| 11 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 12 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 13 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 14 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 15 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 16 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 17 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 18 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 19 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 20 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 21 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 24 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 25 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 27 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 28 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
-| 29 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 30 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
-| 31 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 32 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 33 | [#PorSupervivencia](http://twitter.com/search?q=%23PorSupervivencia) | N/A |
-| 34 | [#Snserio](http://twitter.com/search?q=%23Snserio) | N/A |
-| 35 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 36 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 37 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 38 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 39 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
-| 40 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
-| 41 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 1 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
+| 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
+| 5 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 6 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 9 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 10 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 14 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 16 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 19 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 20 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 21 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 22 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 23 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 24 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 25 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 27 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 28 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 30 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 31 | [este 8m](http://twitter.com/search?q=este+8m) | N/A |
+| 32 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 33 | [afterlife](http://twitter.com/search?q=afterlife) | N/A |
+| 34 | [Día Mundial del Riñón](http://twitter.com/search?q=D%c3%ada+Mundial+del+Ri%c3%b1%c3%b3n) | N/A |
+| 35 | [cártel del golfo](http://twitter.com/search?q=c%c3%a1rtel+del+golfo) | N/A |
+| 36 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 37 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 38 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 40 | [TAME IMPALA](http://twitter.com/search?q=TAME+IMPALA) | N/A |
+| 41 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 42 | [Cada 8m](http://twitter.com/search?q=Cada+8m) | N/A |
+| 43 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 44 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 45 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
+| 46 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 47 | [FREENBECKY IN LATAM](http://twitter.com/search?q=FREENBECKY+IN+LATAM) | N/A |
+| 48 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 49 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 50 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-10 08:17:31 UTC`
+📆 Last Updated: `2023-03-10 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
-| 2 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 3 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 5 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 6 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 7 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
-| 8 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 10 | [Shaun Marsh](http://twitter.com/search?q=Shaun+Marsh) | N/A |
-| 11 | [Hopgood](http://twitter.com/search?q=Hopgood) | N/A |
-| 12 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 13 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 14 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 15 | [Pavitra](http://twitter.com/search?q=Pavitra) | N/A |
-| 16 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 17 | [Stranger](http://twitter.com/search?q=Stranger) | N/A |
-| 18 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 19 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 20 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 21 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 22 | [australian reading hour](http://twitter.com/search?q=australian+reading+hour) | N/A |
-| 23 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Andrew Wilkie](http://twitter.com/search?q=Andrew+Wilkie) | N/A |
-| 26 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 27 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 28 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 29 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 2 | [#NRLPanthersSouths](http://twitter.com/search?q=%23NRLPanthersSouths) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 7 | [happy iwd](http://twitter.com/search?q=happy+iwd) | N/A |
+| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 9 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 10 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 11 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 12 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 13 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
+| 14 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
+| 15 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 16 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 17 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 18 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 19 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 20 | [wooden spoon](http://twitter.com/search?q=wooden+spoon) | N/A |
+| 21 | [coatsworth](http://twitter.com/search?q=coatsworth) | N/A |
+| 22 | [biggest improver](http://twitter.com/search?q=biggest+improver) | N/A |
+| 23 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 24 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 26 | [rising star](http://twitter.com/search?q=rising+star) | N/A |
+| 27 | [garner](http://twitter.com/search?q=garner) | N/A |
+| 28 | [Biggest Slider](http://twitter.com/search?q=Biggest+Slider) | N/A |
+| 29 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
 | 30 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 31 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
-| 32 | [Inglis](http://twitter.com/search?q=Inglis) | N/A |
-| 33 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [Jarrad](http://twitter.com/search?q=Jarrad) | N/A |
-| 36 | [Tass](http://twitter.com/search?q=Tass) | N/A |
-| 37 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 38 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
-| 39 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
-| 40 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 42 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 43 | [Josh Frydenberg](http://twitter.com/search?q=Josh+Frydenberg) | N/A |
-| 44 | [Commish](http://twitter.com/search?q=Commish) | N/A |
-| 45 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 46 | [Kathleen Madgwick](http://twitter.com/search?q=Kathleen+Madgwick) | N/A |
-| 47 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 49 | [Wordle 629 X](http://twitter.com/search?q=Wordle+629+X) | N/A |
-| 50 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 31 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 32 | [tom morris](http://twitter.com/search?q=tom+morris) | N/A |
+| 33 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 34 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 35 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 36 | [SeaFolly](http://twitter.com/search?q=SeaFolly) | N/A |
+| 37 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 38 | [FINE LINE](http://twitter.com/search?q=FINE+LINE) | N/A |
+| 39 | [tass](http://twitter.com/search?q=tass) | N/A |
+| 40 | [kardashian](http://twitter.com/search?q=kardashian) | N/A |
+| 41 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 42 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 43 | [Rabbits](http://twitter.com/search?q=Rabbits) | N/A |
+| 44 | [Jason Demetriou](http://twitter.com/search?q=Jason+Demetriou) | N/A |
+| 45 | [richard glenn](http://twitter.com/search?q=richard+glenn) | N/A |
+| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 47 | [bunker](http://twitter.com/search?q=bunker) | N/A |
+| 48 | [Sussexes](http://twitter.com/search?q=Sussexes) | N/A |
+| 49 | [ms smith](http://twitter.com/search?q=ms+smith) | N/A |
+| 50 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 
 
 

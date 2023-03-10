@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-10 08:17:55 UTC`
+📆 Last Updated: `2023-03-10 09:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 2 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 3 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 4 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 5 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 6 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 7 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 8 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 9 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 10 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 11 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
-| 12 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 13 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
-| 14 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 15 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 16 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 17 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 18 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 19 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
-| 20 | [Keyleth](http://twitter.com/search?q=Keyleth) | N/A |
-| 21 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 22 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 23 | [Muddy Feet](http://twitter.com/search?q=Muddy+Feet) | N/A |
-| 24 | [MATTHEW MERCER](http://twitter.com/search?q=MATTHEW+MERCER) | N/A |
-| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 26 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 27 | [Ludinus](http://twitter.com/search?q=Ludinus) | N/A |
-| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 29 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 30 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 32 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 33 | [Thousand Miles](http://twitter.com/search?q=Thousand+Miles) | N/A |
-| 34 | [Pastor Swift](http://twitter.com/search?q=Pastor+Swift) | N/A |
-| 35 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 36 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 37 | [Rose Colored Lenses](http://twitter.com/search?q=Rose+Colored+Lenses) | N/A |
-| 38 | [Robert Blake](http://twitter.com/search?q=Robert+Blake) | N/A |
-| 39 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 40 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
-| 41 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 42 | [Jaded](http://twitter.com/search?q=Jaded) | N/A |
-| 43 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 44 | [BLAME IT ON ME](http://twitter.com/search?q=BLAME+IT+ON+ME) | N/A |
-| 45 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 46 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 47 | [Wallflower](http://twitter.com/search?q=Wallflower) | N/A |
-| 48 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 49 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 50 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 7 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 8 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 11 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 12 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 13 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 14 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 15 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 16 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 17 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 18 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 19 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 20 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 21 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 22 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 23 | [ravens](http://twitter.com/search?q=ravens) | N/A |
+| 24 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 28 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 29 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 30 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 31 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 32 | [MARQUETTE](http://twitter.com/search?q=MARQUETTE) | N/A |
+| 33 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 34 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 35 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 36 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 37 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 38 | [jalen bridges](http://twitter.com/search?q=jalen+bridges) | N/A |
+| 39 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 40 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 41 | [Stafford](http://twitter.com/search?q=Stafford) | N/A |
+| 42 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 43 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 44 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 45 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 46 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 47 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 48 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 49 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 50 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
 
 
 

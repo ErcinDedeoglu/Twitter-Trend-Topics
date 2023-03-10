@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-10 08:17:59 UTC`
+📆 Last Updated: `2023-03-10 09:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 2 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 3 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 4 | [#UnaEmbarradaEs](http://twitter.com/search?q=%23UnaEmbarradaEs) | N/A |
-| 5 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 6 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 7 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 8 | [#HueleMal](http://twitter.com/search?q=%23HueleMal) | N/A |
-| 9 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 10 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
-| 11 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 14 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 15 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 16 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 17 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 18 | [Muddy Feet](http://twitter.com/search?q=Muddy+Feet) | N/A |
-| 19 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 20 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 21 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 22 | [Thousand Miles](http://twitter.com/search?q=Thousand+Miles) | N/A |
-| 23 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 24 | [coliseo de gaira](http://twitter.com/search?q=coliseo+de+gaira) | N/A |
-| 25 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 26 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 27 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
-| 28 | [Copa de la Reina](http://twitter.com/search?q=Copa+de+la+Reina) | N/A |
-| 29 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
-| 30 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 31 | [augusto rodríguez](http://twitter.com/search?q=augusto+rodr%c3%adguez) | N/A |
-| 32 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
-| 33 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 34 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 35 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 36 | [Hetero](http://twitter.com/search?q=Hetero) | N/A |
-| 37 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 38 | [pericongo](http://twitter.com/search?q=pericongo) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 41 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 42 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 43 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 44 | [Bancolombia](http://twitter.com/search?q=Bancolombia) | N/A |
-| 45 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
-| 46 | [manuel murillo toro](http://twitter.com/search?q=manuel+murillo+toro) | N/A |
-| 47 | [Comandante](http://twitter.com/search?q=Comandante) | N/A |
-| 48 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 49 | [Presunción](http://twitter.com/search?q=Presunci%c3%b3n) | N/A |
-| 50 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#UnaEmbarradaEs](http://twitter.com/search?q=%23UnaEmbarradaEs) | N/A |
+| 4 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
+| 5 | [#8deMarzo](http://twitter.com/search?q=%238deMarzo) | N/A |
+| 6 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [augusto rodríguez](http://twitter.com/search?q=augusto+rodr%c3%adguez) | N/A |
+| 9 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [hulk](http://twitter.com/search?q=hulk) | N/A |
+| 12 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 15 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 16 | [de la rosa](http://twitter.com/search?q=de+la+rosa) | N/A |
+| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 18 | [millonarios](http://twitter.com/search?q=millonarios) | N/A |
+| 19 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 20 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 21 | [TAME IMPALA](http://twitter.com/search?q=TAME+IMPALA) | N/A |
+| 22 | [La UNP](http://twitter.com/search?q=La+UNP) | N/A |
+| 23 | [coliseo de gaira](http://twitter.com/search?q=coliseo+de+gaira) | N/A |
+| 24 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 25 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 26 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
+| 27 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 28 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 29 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 30 | [pericongo](http://twitter.com/search?q=pericongo) | N/A |
+| 31 | [iván mordisco](http://twitter.com/search?q=iv%c3%a1n+mordisco) | N/A |
+| 32 | [BELO HORIZONTE](http://twitter.com/search?q=BELO+HORIZONTE) | N/A |
+| 33 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 35 | [salvatore mancuso](http://twitter.com/search?q=salvatore+mancuso) | N/A |
+| 36 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 37 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
+| 38 | [magallanes](http://twitter.com/search?q=magallanes) | N/A |
+| 39 | [unidad nacional de protección](http://twitter.com/search?q=unidad+nacional+de+protecci%c3%b3n) | N/A |
+| 40 | [rivera](http://twitter.com/search?q=rivera) | N/A |
+| 41 | [maría isabel urrutia](http://twitter.com/search?q=mar%c3%ada+isabel+urrutia) | N/A |
+| 42 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 43 | [milan](http://twitter.com/search?q=milan) | N/A |
+| 44 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 45 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 46 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 47 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 48 | [reconstruir](http://twitter.com/search?q=reconstruir) | N/A |
+| 49 | [en brasil](http://twitter.com/search?q=en+brasil) | N/A |
+| 50 | [wilfrido](http://twitter.com/search?q=wilfrido) | N/A |
 
 
 

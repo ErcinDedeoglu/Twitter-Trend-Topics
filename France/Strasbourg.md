@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-10 08:17:24 UTC`
+📆 Last Updated: `2023-03-10 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 3 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 4 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 5 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 1 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [verratti](http://twitter.com/search?q=verratti) | N/A |
+| 4 | [le psg](http://twitter.com/search?q=le+psg) | N/A |
+| 5 | [#FCBpsg](http://twitter.com/search?q=%23FCBpsg) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 10 | [Roland Castro](http://twitter.com/search?q=Roland+Castro) | N/A |
-| 11 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 12 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 13 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 14 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 15 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
-| 16 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
-| 17 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 19 | [Guss](http://twitter.com/search?q=Guss) | N/A |
+| 7 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 8 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 9 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 11 | [marcel amont](http://twitter.com/search?q=marcel+amont) | N/A |
+| 12 | [#kcorpwin](http://twitter.com/search?q=%23kcorpwin) | N/A |
+| 13 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 14 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 15 | [sané](http://twitter.com/search?q=san%c3%a9) | N/A |
+| 16 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 17 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 18 | [vitinha](http://twitter.com/search?q=vitinha) | N/A |
+| 19 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 20 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 21 | [Hambourg](http://twitter.com/search?q=Hambourg) | N/A |
-| 22 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 23 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 24 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 25 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 26 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 27 | [Témoins de Jéhovah](http://twitter.com/search?q=T%c3%a9moins+de+J%c3%a9hovah) | N/A |
-| 28 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 29 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 30 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 32 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 33 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 35 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 36 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 39 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 41 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
-| 42 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 45 | [sané](http://twitter.com/search?q=san%c3%a9) | N/A |
-| 46 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 47 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 48 | [Andrea Bescond](http://twitter.com/search?q=Andrea+Bescond) | N/A |
-| 49 | [2 de YOU](http://twitter.com/search?q=2+de+YOU) | N/A |
-| 50 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 21 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
+| 22 | [upamecano](http://twitter.com/search?q=upamecano) | N/A |
+| 23 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 24 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 27 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
+| 28 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 29 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 30 | [corinne diacre](http://twitter.com/search?q=corinne+diacre) | N/A |
+| 31 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 32 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 33 | [kinder bueno](http://twitter.com/search?q=kinder+bueno) | N/A |
+| 34 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 36 | [coman](http://twitter.com/search?q=coman) | N/A |
+| 37 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 38 | [Hummmmm](http://twitter.com/search?q=Hummmmm) | N/A |
+| 39 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 40 | [kaori](http://twitter.com/search?q=kaori) | N/A |
+| 41 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 42 | [Hambourg](http://twitter.com/search?q=Hambourg) | N/A |
+| 43 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 44 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 45 | [layton](http://twitter.com/search?q=layton) | N/A |
+| 46 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 47 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 48 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
+| 49 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 50 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 
 
 
