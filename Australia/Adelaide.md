@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-10 18:17:03 UTC`
+📆 Last Updated: `2023-03-10 19:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
+| 1 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
 | 2 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [#pervwsw](http://twitter.com/search?q=%23pervwsw) | N/A |
-| 5 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 6 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 7 | [#nrlpantherssouths](http://twitter.com/search?q=%23nrlpantherssouths) | N/A |
-| 8 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 9 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
-| 10 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 11 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 12 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 13 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 14 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 15 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
-| 16 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 17 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
-| 18 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 19 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 22 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 23 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
-| 24 | [Shaun Marsh](http://twitter.com/search?q=Shaun+Marsh) | N/A |
-| 25 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 26 | [Tahs](http://twitter.com/search?q=Tahs) | N/A |
-| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 28 | [ibac](http://twitter.com/search?q=ibac) | N/A |
-| 29 | [Stranger](http://twitter.com/search?q=Stranger) | N/A |
-| 30 | [Wazza](http://twitter.com/search?q=Wazza) | N/A |
-| 31 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 32 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
-| 33 | [waqa blake](http://twitter.com/search?q=waqa+blake) | N/A |
-| 34 | [Ezra Mam](http://twitter.com/search?q=Ezra+Mam) | N/A |
-| 35 | [andrew wilkie](http://twitter.com/search?q=andrew+wilkie) | N/A |
-| 36 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 37 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 38 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 39 | [adam goodes](http://twitter.com/search?q=adam+goodes) | N/A |
-| 40 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 41 | [sivo](http://twitter.com/search?q=sivo) | N/A |
-| 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 43 | [TASS](http://twitter.com/search?q=TASS) | N/A |
-| 44 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 45 | [hiku](http://twitter.com/search?q=hiku) | N/A |
-| 46 | [will kennedy](http://twitter.com/search?q=will+kennedy) | N/A |
-| 47 | [jarrad](http://twitter.com/search?q=jarrad) | N/A |
-| 48 | [kilmore](http://twitter.com/search?q=kilmore) | N/A |
-| 49 | [Greeny](http://twitter.com/search?q=Greeny) | N/A |
-| 50 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 3 | [#pervwsw](http://twitter.com/search?q=%23pervwsw) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
+| 6 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
+| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 8 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 9 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
+| 10 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
+| 11 | [latrell mitchell](http://twitter.com/search?q=latrell+mitchell) | N/A |
+| 12 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 13 | [Rising Star](http://twitter.com/search?q=Rising+Star) | N/A |
+| 14 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 15 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
+| 16 | [biggest slider](http://twitter.com/search?q=biggest+slider) | N/A |
+| 17 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 18 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 19 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 20 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
+| 21 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 22 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 23 | [Oates](http://twitter.com/search?q=Oates) | N/A |
+| 24 | [tehan](http://twitter.com/search?q=tehan) | N/A |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 27 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 28 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
+| 29 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 30 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 31 | [nick coatsworth](http://twitter.com/search?q=nick+coatsworth) | N/A |
+| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 33 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 34 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 35 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 38 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 39 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 40 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 41 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 43 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 45 | [TASS](http://twitter.com/search?q=TASS) | N/A |
+| 46 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 47 | [Indian PM](http://twitter.com/search?q=Indian+PM) | N/A |
+| 48 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 49 | [andrew wilkie](http://twitter.com/search?q=andrew+wilkie) | N/A |
+| 50 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
 
 
 

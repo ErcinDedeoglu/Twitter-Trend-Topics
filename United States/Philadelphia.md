@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-10 18:17:26 UTC`
+📆 Last Updated: `2023-03-10 19:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 2 | [#Flyers](http://twitter.com/search?q=%23Flyers) | N/A |
-| 3 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 4 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 5 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
-| 6 | [#FueledByPhilly](http://twitter.com/search?q=%23FueledByPhilly) | N/A |
-| 7 | [#Phillies](http://twitter.com/search?q=%23Phillies) | N/A |
-| 8 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 11 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 12 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 13 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
+| 1 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 4 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 5 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 7 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 8 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 10 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 11 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 12 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 13 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 14 | [Mulcahy](http://twitter.com/search?q=Mulcahy) | N/A |
+| 15 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
 | 16 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 17 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
-| 18 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 19 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
-| 20 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 21 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 22 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 23 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 24 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 25 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 26 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 28 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 29 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 30 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
-| 31 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 32 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 33 | [Loyer](http://twitter.com/search?q=Loyer) | N/A |
-| 34 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 35 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 36 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 37 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 38 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 39 | [Rippling](http://twitter.com/search?q=Rippling) | N/A |
-| 40 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
-| 41 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 42 | [Briere](http://twitter.com/search?q=Briere) | N/A |
-| 43 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 44 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
-| 45 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
-| 46 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 47 | [Bathsheba](http://twitter.com/search?q=Bathsheba) | N/A |
-| 48 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 49 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 50 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
+| 17 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 18 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 19 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
+| 20 | [#CelebrateAbortionProviders](http://twitter.com/search?q=%23CelebrateAbortionProviders) | N/A |
+| 21 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 22 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 23 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 24 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 25 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 26 | [Josh Pastner](http://twitter.com/search?q=Josh+Pastner) | N/A |
+| 27 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 28 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 29 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
+| 30 | [Starling Marte](http://twitter.com/search?q=Starling+Marte) | N/A |
+| 31 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 32 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 33 | [Arcitys](http://twitter.com/search?q=Arcitys) | N/A |
+| 34 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
+| 35 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 36 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 37 | [Washington Mutual](http://twitter.com/search?q=Washington+Mutual) | N/A |
+| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 39 | [Colin Kaepernick](http://twitter.com/search?q=Colin+Kaepernick) | N/A |
+| 40 | [Gillis](http://twitter.com/search?q=Gillis) | N/A |
+| 41 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
+| 42 | [Loyer](http://twitter.com/search?q=Loyer) | N/A |
+| 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 44 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 45 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
+| 46 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 47 | [Rippling](http://twitter.com/search?q=Rippling) | N/A |
+| 48 | [Bathsheba](http://twitter.com/search?q=Bathsheba) | N/A |
+| 49 | [Bardo](http://twitter.com/search?q=Bardo) | N/A |
+| 50 | [Lehman](http://twitter.com/search?q=Lehman) | N/A |
 
 
 

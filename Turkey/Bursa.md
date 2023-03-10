@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-10 18:17:19 UTC`
+📆 Last Updated: `2023-03-10 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DesticiHaberTürkte](http://twitter.com/search?q=%23DesticiHaberT%c3%bcrkte) | N/A |
-| 2 | [BayiGram BlackFriday](http://twitter.com/search?q=BayiGram+BlackFriday) | N/A |
-| 3 | [#OyumunRengi100BinAtama](http://twitter.com/search?q=%23OyumunRengi100BinAtama) | N/A |
-| 4 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 5 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
-| 6 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 7 | [#halkınbelediyeleri](http://twitter.com/search?q=%23halk%c4%b1nbelediyeleri) | N/A |
-| 8 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 9 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
-| 10 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
-| 11 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 12 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 13 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 14 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 15 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 16 | [TaşeronKadrosu VedatBilginde](http://twitter.com/search?q=Ta%c5%9feronKadrosu+VedatBilginde) | N/A |
-| 17 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 18 | [Aileler](http://twitter.com/search?q=Aileler) | N/A |
-| 19 | [Mahmut Çuhadar](http://twitter.com/search?q=Mahmut+%c3%87uhadar) | N/A |
-| 20 | [Cemal Metin Avcı](http://twitter.com/search?q=Cemal+Metin+Avc%c4%b1) | N/A |
-| 21 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 22 | [Ben Osman Kavala](http://twitter.com/search?q=Ben+Osman+Kavala) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 25 | [cuma'ya](http://twitter.com/search?q=cuma%27ya) | N/A |
-| 26 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 27 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 28 | [Ramazanda](http://twitter.com/search?q=Ramazanda) | N/A |
-| 29 | [Affını](http://twitter.com/search?q=Aff%c4%b1n%c4%b1) | N/A |
-| 30 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 31 | [Davamız Liderimiz](http://twitter.com/search?q=Davam%c4%b1z+Liderimiz) | N/A |
-| 32 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
-| 33 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 34 | [Anayasamızın 116](http://twitter.com/search?q=Anayasam%c4%b1z%c4%b1n+116) | N/A |
-| 35 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
-| 36 | [Gemiyi](http://twitter.com/search?q=Gemiyi) | N/A |
-| 37 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 38 | [Aykut](http://twitter.com/search?q=Aykut) | N/A |
-| 39 | [Hayırlı Olsun](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Olsun) | "Hayırlı Olsun" is a phrase used in Turkish to wish someone good luck or to congratulate them on something. It can be translated to English as "good luck" or "blessings". |
-| 40 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 41 | [Fareler](http://twitter.com/search?q=Fareler) | N/A |
-| 42 | [BayKemal EhliyetAffı](http://twitter.com/search?q=BayKemal+EhliyetAff%c4%b1) | N/A |
-| 43 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 44 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 45 | [Batan](http://twitter.com/search?q=Batan) | N/A |
-| 46 | [AK Parti'den](http://twitter.com/search?q=AK+Parti%27den) | N/A |
-| 47 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 48 | [Brezilya](http://twitter.com/search?q=Brezilya) | N/A |
-| 49 | [Cemaat](http://twitter.com/search?q=Cemaat) | N/A |
+| 1 | [#infazkorumayaHAKKINIverin](http://twitter.com/search?q=%23infazkorumayaHAKKINIverin) | N/A |
+| 2 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 3 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 4 | [Ronaldo Türkiyede](http://twitter.com/search?q=Ronaldo+T%c3%bcrkiyede) | N/A |
+| 5 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 6 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
+| 7 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
+| 8 | [BiziBurada Unutmayın](http://twitter.com/search?q=BiziBurada+Unutmay%c4%b1n) | N/A |
+| 9 | [AmasızFakatsız YüceMeclise](http://twitter.com/search?q=Amas%c4%b1zFakats%c4%b1z+Y%c3%bcceMeclise) | N/A |
+| 10 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
+| 11 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 12 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 13 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 14 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
+| 15 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 16 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 17 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 18 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 21 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
+| 22 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 23 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 24 | [İyi Akşamlar](http://twitter.com/search?q=%c4%b0yi+Ak%c5%9famlar) | N/A |
+| 25 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 26 | [#OyumunRengi100BinAtama](http://twitter.com/search?q=%23OyumunRengi100BinAtama) | N/A |
+| 27 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 28 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
+| 29 | [#AliKocİstifa](http://twitter.com/search?q=%23AliKoc%c4%b0stifa) | N/A |
+| 30 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
+| 31 | [#BunlarıUNUTMAYIN](http://twitter.com/search?q=%23Bunlar%c4%b1UNUTMAYIN) | N/A |
+| 32 | [#GARDİYANAsözverdiniz](http://twitter.com/search?q=%23GARD%c4%b0YANAs%c3%b6zverdiniz) | N/A |
+| 33 | [#BizHazırız](http://twitter.com/search?q=%23BizHaz%c4%b1r%c4%b1z) | N/A |
+| 34 | [#MebAfeteSartsizTayin](http://twitter.com/search?q=%23MebAfeteSartsizTayin) | N/A |
+| 35 | [#halkınbelediyeleri](http://twitter.com/search?q=%23halk%c4%b1nbelediyeleri) | N/A |
+| 36 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
+| 37 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
+| 38 | [#TemadMecliste](http://twitter.com/search?q=%23TemadMecliste) | N/A |
+| 39 | [#PınarGültekin](http://twitter.com/search?q=%23P%c4%b1narG%c3%bcltekin) | N/A |
+| 40 | [#tabakademisi](http://twitter.com/search?q=%23tabakademisi) | N/A |
+| 41 | [#BTAiade](http://twitter.com/search?q=%23BTAiade) | N/A |
+| 42 | [#AbSun](http://twitter.com/search?q=%23AbSun) | N/A |
+| 43 | [#AteşKuşları](http://twitter.com/search?q=%23Ate%c5%9fKu%c5%9flar%c4%b1) | N/A |
+| 44 | [#StajyerAnkaraUlusta](http://twitter.com/search?q=%23StajyerAnkaraUlusta) | N/A |
+| 45 | [#bakanlıkuyumaikmyesahipçik](http://twitter.com/search?q=%23bakanl%c4%b1kuyumaikmyesahip%c3%a7ik) | N/A |
+| 46 | [#GelecekTarımda](http://twitter.com/search?q=%23GelecekTar%c4%b1mda) | N/A |
 
 
 

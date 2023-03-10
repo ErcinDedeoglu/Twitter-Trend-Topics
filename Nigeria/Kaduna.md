@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-10 18:17:10 UTC`
+📆 Last Updated: `2023-03-10 19:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
-| 2 | [#OCCUPYINEC](http://twitter.com/search?q=%23OCCUPYINEC) | N/A |
-| 3 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
-| 4 | [#AnasRevenge](http://twitter.com/search?q=%23AnasRevenge) | N/A |
-| 5 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 6 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 7 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Triage](http://twitter.com/search?q=Triage) | N/A |
-| 10 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 12 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 13 | [Didier Drogba](http://twitter.com/search?q=Didier+Drogba) | N/A |
+| 1 | [#OCCUPYINEC](http://twitter.com/search?q=%23OCCUPYINEC) | N/A |
+| 2 | [#RexxieBigTimeAlbum](http://twitter.com/search?q=%23RexxieBigTimeAlbum) | N/A |
+| 3 | [#standwithsanwoolu](http://twitter.com/search?q=%23standwithsanwoolu) | N/A |
+| 4 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 7 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 8 | [Smoked Titus](http://twitter.com/search?q=Smoked+Titus) | N/A |
+| 9 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 10 | [kanaga jnr is a star](http://twitter.com/search?q=kanaga+jnr+is+a+star) | N/A |
+| 11 | [Panla](http://twitter.com/search?q=Panla) | N/A |
+| 12 | [the brt](http://twitter.com/search?q=the+brt) | N/A |
+| 13 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
 | 14 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
-| 15 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
-| 16 | [I AM THE EVIDENCE](http://twitter.com/search?q=I+AM+THE+EVIDENCE) | N/A |
-| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 15 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 16 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 18 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
-| 19 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 20 | [Ababio](http://twitter.com/search?q=Ababio) | N/A |
-| 21 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 22 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 24 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 25 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
-| 28 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
-| 29 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
-| 30 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 31 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 32 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 33 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 34 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
-| 35 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 36 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 37 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 38 | [I SERVE THE GOD OF WONDERS](http://twitter.com/search?q=I+SERVE+THE+GOD+OF+WONDERS) | N/A |
-| 39 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 40 | [PRAYER FOR KANAGA JNR](http://twitter.com/search?q=PRAYER+FOR+KANAGA+JNR) | N/A |
-| 41 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 42 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [GRACE UPON KANAGA JNR](http://twitter.com/search?q=GRACE+UPON+KANAGA+JNR) | N/A |
-| 45 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 46 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 47 | [Smoked](http://twitter.com/search?q=Smoked) | N/A |
-| 48 | [compromise inec](http://twitter.com/search?q=compromise+inec) | N/A |
+| 19 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 20 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 22 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
+| 23 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 25 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
+| 26 | [I Am The Evidence](http://twitter.com/search?q=I+Am+The+Evidence) | N/A |
+| 27 | [Didier Drogba](http://twitter.com/search?q=Didier+Drogba) | N/A |
+| 28 | [Aunty Kate](http://twitter.com/search?q=Aunty+Kate) | N/A |
+| 29 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 30 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
+| 31 | [TRIAGE](http://twitter.com/search?q=TRIAGE) | N/A |
+| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 33 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 34 | [BRT Bus](http://twitter.com/search?q=BRT+Bus) | N/A |
+| 35 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 36 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 37 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 38 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 40 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 41 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
+| 42 | [$GPT](http://twitter.com/search?q=%24GPT) | N/A |
+| 43 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
+| 44 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
+| 45 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
+| 46 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
+| 47 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 48 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 
 
 

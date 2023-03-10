@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-10 18:17:32 UTC`
+📆 Last Updated: `2023-03-10 19:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kenya
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JusticeForJeff](http://twitter.com/search?q=%23JusticeForJeff) | N/A |
-| 2 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
-| 3 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 4 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
-| 5 | [#DoMoreWithMpesa](http://twitter.com/search?q=%23DoMoreWithMpesa) | N/A |
+| 2 | [#DoMoreWithMpesa](http://twitter.com/search?q=%23DoMoreWithMpesa) | N/A |
+| 3 | [#TheFutureofMoney](http://twitter.com/search?q=%23TheFutureofMoney) | N/A |
+| 4 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
+| 5 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
 | 6 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
-| 7 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 8 | [Pauline Njoroge](http://twitter.com/search?q=Pauline+Njoroge) | N/A |
-| 9 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 10 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 12 | [GiftPesa](http://twitter.com/search?q=GiftPesa) | N/A |
+| 7 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 8 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 9 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 12 | [Kalenjins](http://twitter.com/search?q=Kalenjins) | N/A |
 | 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 14 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 15 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 16 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 17 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 18 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 19 | [Baby Sagini](http://twitter.com/search?q=Baby+Sagini) | N/A |
-| 20 | [Minne](http://twitter.com/search?q=Minne) | N/A |
-| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [cs moses kuria](http://twitter.com/search?q=cs+moses+kuria) | N/A |
-| 23 | [Kalenjin](http://twitter.com/search?q=Kalenjin) | N/A |
-| 24 | [Migori](http://twitter.com/search?q=Migori) | N/A |
-| 25 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 26 | [reggae vibes](http://twitter.com/search?q=reggae+vibes) | N/A |
-| 27 | [Tsingtao Kefofa Cup](http://twitter.com/search?q=Tsingtao+Kefofa+Cup) | N/A |
-| 28 | [Kondele](http://twitter.com/search?q=Kondele) | N/A |
-| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 30 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 31 | [monica juma](http://twitter.com/search?q=monica+juma) | N/A |
-| 32 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 33 | [Mass Action](http://twitter.com/search?q=Mass+Action) | N/A |
-| 34 | [Kenya Ports Authority](http://twitter.com/search?q=Kenya+Ports+Authority) | N/A |
-| 35 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 36 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 37 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 38 | [Eggs](http://twitter.com/search?q=Eggs) | N/A |
-| 39 | [Kasarani](http://twitter.com/search?q=Kasarani) | N/A |
-| 40 | [Rubis](http://twitter.com/search?q=Rubis) | N/A |
-| 41 | [kara talk series](http://twitter.com/search?q=kara+talk+series) | N/A |
-| 42 | [IPPs](http://twitter.com/search?q=IPPs) | N/A |
-| 43 | [Apps](http://twitter.com/search?q=Apps) | N/A |
-| 44 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 45 | [Yellow Card](http://twitter.com/search?q=Yellow+Card) | N/A |
-| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 47 | [Kalonzo Musyoka](http://twitter.com/search?q=Kalonzo+Musyoka) | N/A |
-| 48 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 49 | [Kioni](http://twitter.com/search?q=Kioni) | N/A |
-| 50 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 14 | [pilsner](http://twitter.com/search?q=pilsner) | N/A |
+| 15 | [Migori](http://twitter.com/search?q=Migori) | N/A |
+| 16 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 17 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 18 | [club wallet utawala](http://twitter.com/search?q=club+wallet+utawala) | N/A |
+| 19 | [reggae vibes](http://twitter.com/search?q=reggae+vibes) | N/A |
+| 20 | [edwin sifuna](http://twitter.com/search?q=edwin+sifuna) | N/A |
+| 21 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 22 | [Minne](http://twitter.com/search?q=Minne) | N/A |
+| 23 | [grace onyango](http://twitter.com/search?q=grace+onyango) | N/A |
+| 24 | [kanini kega](http://twitter.com/search?q=kanini+kega) | N/A |
+| 25 | [MARTINELLI](http://twitter.com/search?q=MARTINELLI) | N/A |
+| 26 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 27 | [Joseph Boinnet](http://twitter.com/search?q=Joseph+Boinnet) | N/A |
+| 28 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 29 | [ukur yatani](http://twitter.com/search?q=ukur+yatani) | N/A |
+| 30 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 31 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 32 | [Monica Juma](http://twitter.com/search?q=Monica+Juma) | N/A |
+| 33 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 34 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 35 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 36 | [national security advisor](http://twitter.com/search?q=national+security+advisor) | N/A |
+| 37 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
+| 38 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 39 | [stima sacco](http://twitter.com/search?q=stima+sacco) | N/A |
+| 40 | [Kirinyaga](http://twitter.com/search?q=Kirinyaga) | N/A |
+| 41 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 42 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
+| 43 | [Samia Suluhu](http://twitter.com/search?q=Samia+Suluhu) | N/A |
+| 44 | [Kitale](http://twitter.com/search?q=Kitale) | N/A |
+| 45 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 46 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 47 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 48 | [Mutahi Kibugu](http://twitter.com/search?q=Mutahi+Kibugu) | N/A |
+| 49 | [Gaddafi](http://twitter.com/search?q=Gaddafi) | N/A |
+| 50 | [EALA](http://twitter.com/search?q=EALA) | N/A |
 
 
 

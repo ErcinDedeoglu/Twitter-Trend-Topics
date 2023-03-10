@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-10 18:16:43 UTC`
+📆 Last Updated: `2023-03-10 19:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anthony Gordon](http://twitter.com/search?q=Anthony+Gordon) | Anthony Gordon is a name of English origin. It is derived from the Latin name Antonius, meaning "beyond price" or "invaluable". The surname Gordon is derived from the Old French word gourd, meaning "spacious" or "great". Together, Anthony Gordon can be interpreted to mean "invaluable and great". |
-| 2 | [Scab](http://twitter.com/search?q=Scab) | N/A |
-| 3 | [#freepizzafriday](http://twitter.com/search?q=%23freepizzafriday) | N/A |
-| 4 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 5 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 1 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 2 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 3 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 4 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
+| 5 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
 | 6 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 7 | [Stepping](http://twitter.com/search?q=Stepping) | N/A |
-| 8 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 7 | [David Icke](http://twitter.com/search?q=David+Icke) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 10 | [Wrighty](http://twitter.com/search?q=Wrighty) | N/A |
-| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 12 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 13 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 10 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 11 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 12 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 13 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 14 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
-| 15 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
-| 16 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 17 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 18 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 19 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 20 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 21 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 22 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 23 | [Yes Ian](http://twitter.com/search?q=Yes+Ian) | N/A |
-| 24 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 25 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 26 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
-| 27 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 28 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 29 | [#FreeSpeech](http://twitter.com/search?q=%23FreeSpeech) | N/A |
-| 30 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
-| 31 | [Wild Isles](http://twitter.com/search?q=Wild+Isles) | N/A |
-| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 33 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
-| 34 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 35 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 36 | [Chappers](http://twitter.com/search?q=Chappers) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 39 | [TV Licence](http://twitter.com/search?q=TV+Licence) | N/A |
+| 15 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 16 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 17 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 18 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 19 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 20 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 21 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 22 | [#boycottbbc](http://twitter.com/search?q=%23boycottbbc) | N/A |
+| 23 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 24 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 25 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 27 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 28 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 29 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
+| 30 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
+| 31 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
+| 32 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 33 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 34 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 35 | [Chappers](http://twitter.com/search?q=Chappers) | N/A |
+| 36 | [Gary and Ian](http://twitter.com/search?q=Gary+and+Ian) | N/A |
+| 37 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 38 | [Scab](http://twitter.com/search?q=Scab) | N/A |
+| 39 | [Micah Richards](http://twitter.com/search?q=Micah+Richards) | N/A |
 | 40 | [The Apprentice](http://twitter.com/search?q=The+Apprentice) | N/A |
-| 41 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 42 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 43 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
-| 44 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 45 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 47 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 48 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 49 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 50 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 41 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 42 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
+| 43 | [Big Sam](http://twitter.com/search?q=Big+Sam) | N/A |
+| 44 | [Yes Ian](http://twitter.com/search?q=Yes+Ian) | N/A |
+| 45 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 46 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 47 | [#FreeSpeech](http://twitter.com/search?q=%23FreeSpeech) | N/A |
+| 48 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
+| 49 | [#5albums19](http://twitter.com/search?q=%235albums19) | N/A |
+| 50 | [#tvlicence](http://twitter.com/search?q=%23tvlicence) | N/A |
 
 
 

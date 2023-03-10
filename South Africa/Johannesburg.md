@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-10 18:17:11 UTC`
+📆 Last Updated: `2023-03-10 19:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
-| 2 | [Xhosa](http://twitter.com/search?q=Xhosa) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 5 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
-| 6 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 7 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 8 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 9 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 10 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 11 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
-| 12 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 13 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 14 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
-| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 16 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 17 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
-| 18 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 19 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 20 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 21 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 22 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 2 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 3 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
+| 4 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 5 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
+| 6 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
+| 7 | [#RHOGQ](http://twitter.com/search?q=%23RHOGQ) | N/A |
+| 8 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 9 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
+| 10 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 11 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
+| 12 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 13 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 14 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
+| 15 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 16 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
+| 17 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 18 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 19 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
+| 20 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 21 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 22 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
 | 23 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
-| 24 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
-| 25 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
-| 26 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
-| 27 | [North Court](http://twitter.com/search?q=North+Court) | N/A |
-| 28 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 29 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
-| 30 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
-| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 33 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 34 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 35 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
-| 36 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
-| 37 | [Sheraton](http://twitter.com/search?q=Sheraton) | N/A |
-| 38 | [Wits](http://twitter.com/search?q=Wits) | N/A |
-| 39 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
-| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 41 | [Sunnyside](http://twitter.com/search?q=Sunnyside) | N/A |
-| 42 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
-| 43 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 44 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 45 | [Capital Inn](http://twitter.com/search?q=Capital+Inn) | N/A |
-| 46 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 47 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 48 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 49 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 50 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
+| 28 | [Wine](http://twitter.com/search?q=Wine) | N/A |
+| 29 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 30 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 31 | [Mohale](http://twitter.com/search?q=Mohale) | N/A |
+| 32 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 33 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Fave](http://twitter.com/search?q=Fave) | N/A |
+| 36 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
+| 37 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 38 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 40 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 41 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 42 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 43 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 44 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 45 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 46 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 47 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 48 | [Wits](http://twitter.com/search?q=Wits) | N/A |
+| 49 | [City Manager](http://twitter.com/search?q=City+Manager) | N/A |
+| 50 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
 
 
 

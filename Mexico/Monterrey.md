@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-10 18:16:48 UTC`
+📆 Last Updated: `2023-03-10 19:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
-| 2 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
-| 3 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
-| 4 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
 | 5 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 6 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 7 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
-| 8 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 9 | [#EnViernesSeAntoja](http://twitter.com/search?q=%23EnViernesSeAntoja) | N/A |
-| 10 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 11 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
-| 12 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 13 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 14 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
-| 17 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 18 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 19 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 20 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 21 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 22 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
-| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 24 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 25 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 26 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 27 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
-| 28 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 29 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 30 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 31 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 33 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 34 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
-| 35 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
-| 36 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 37 | [#100DíasTransformandoOaxaca](http://twitter.com/search?q=%23100D%c3%adasTransformandoOaxaca) | N/A |
-| 38 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
-| 39 | [#DíaInternacionalDeLasJuezas](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLasJuezas) | N/A |
-| 40 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 41 | [#PrimaveraOaxaqueña](http://twitter.com/search?q=%23PrimaveraOaxaque%c3%b1a) | N/A |
-| 42 | [#MarioBros](http://twitter.com/search?q=%23MarioBros) | N/A |
-| 43 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 44 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 45 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
-| 46 | [#Toluca](http://twitter.com/search?q=%23Toluca) | N/A |
-| 47 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 48 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 49 | [#AmloElReyDelCinismo](http://twitter.com/search?q=%23AmloElReyDelCinismo) | N/A |
+| 6 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
+| 7 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 8 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 9 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 14 | [Fernando Ortiz](http://twitter.com/search?q=Fernando+Ortiz) | N/A |
+| 15 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 16 | [Hola Toño](http://twitter.com/search?q=Hola+To%c3%b1o) | N/A |
+| 17 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 18 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 19 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
+| 20 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
+| 21 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 22 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 23 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 24 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 25 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 26 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 27 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 28 | [Igualdad Laboral 2023](http://twitter.com/search?q=Igualdad+Laboral+2023) | N/A |
+| 29 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 30 | [Luis Ángel Malagón](http://twitter.com/search?q=Luis+%c3%81ngel+Malag%c3%b3n) | N/A |
+| 31 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 32 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 33 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 36 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 37 | [Lunario](http://twitter.com/search?q=Lunario) | N/A |
+| 38 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 39 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 40 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 41 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 42 | [Distintivo Naranja](http://twitter.com/search?q=Distintivo+Naranja) | N/A |
+| 43 | [Rels](http://twitter.com/search?q=Rels) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [benjamín mora](http://twitter.com/search?q=benjam%c3%adn+mora) | N/A |
+| 46 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 47 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
+| 48 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 49 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 50 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 
 
 

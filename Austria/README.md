@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-10 18:17:29 UTC`
+📆 Last Updated: `2023-03-10 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
 | 2 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
-| 3 | [#Österreich2030](http://twitter.com/search?q=%23%c3%96sterreich2030) | N/A |
-| 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 3 | [#österreich2030](http://twitter.com/search?q=%23%c3%b6sterreich2030) | N/A |
+| 4 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
 | 5 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 6 | [#oe2030](http://twitter.com/search?q=%23oe2030) | N/A |
-| 7 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
-| 8 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 9 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 10 | [Klarstellung](http://twitter.com/search?q=Klarstellung) | N/A |
-| 11 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 12 | [Alkohol und Psychopharmaka](http://twitter.com/search?q=Alkohol+und+Psychopharmaka) | N/A |
-| 13 | [Vision](http://twitter.com/search?q=Vision) | N/A |
-| 14 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 15 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
-| 16 | [Zukunft der Nation](http://twitter.com/search?q=Zukunft+der+Nation) | N/A |
-| 17 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 18 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 19 | [Maschinen](http://twitter.com/search?q=Maschinen) | N/A |
-| 20 | [Motorrad](http://twitter.com/search?q=Motorrad) | N/A |
-| 21 | [Unmögliche](http://twitter.com/search?q=Unm%c3%b6gliche) | N/A |
-| 22 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 23 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 24 | [Rede an die Nation](http://twitter.com/search?q=Rede+an+die+Nation) | N/A |
-| 25 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 26 | [Vermummungsverbot](http://twitter.com/search?q=Vermummungsverbot) | N/A |
-| 27 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 28 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
-| 29 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
-| 30 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 31 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 32 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 33 | [Verträge](http://twitter.com/search?q=Vertr%c3%a4ge) | N/A |
-| 34 | [Wille](http://twitter.com/search?q=Wille) | N/A |
-| 35 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 36 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 37 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 38 | [Khol](http://twitter.com/search?q=Khol) | N/A |
-| 39 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
-| 40 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 41 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 42 | [Falter](http://twitter.com/search?q=Falter) | N/A |
-| 43 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 44 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
-| 45 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 46 | [Vorgaben](http://twitter.com/search?q=Vorgaben) | N/A |
-| 47 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
-| 48 | [Board of Governors](http://twitter.com/search?q=Board+of+Governors) | N/A |
-| 49 | [Farben](http://twitter.com/search?q=Farben) | N/A |
-| 50 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 6 | [#oevp](http://twitter.com/search?q=%23oevp) | N/A |
+| 7 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 8 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 9 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 10 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 11 | [landeshauptfrau](http://twitter.com/search?q=landeshauptfrau) | N/A |
+| 12 | [Boah](http://twitter.com/search?q=Boah) | N/A |
+| 13 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
+| 14 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 15 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 16 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 17 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 18 | [Gegenwart](http://twitter.com/search?q=Gegenwart) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [brunner](http://twitter.com/search?q=brunner) | N/A |
+| 21 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 22 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 23 | [Kompromiss](http://twitter.com/search?q=Kompromiss) | N/A |
+| 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 25 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 26 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 27 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 28 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 29 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 30 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 31 | [Kindergärten](http://twitter.com/search?q=Kinderg%c3%a4rten) | N/A |
+| 32 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
+| 33 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 34 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
+| 35 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 36 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 37 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 38 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 39 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 40 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 41 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 42 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 43 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 44 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 45 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 46 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
+| 47 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
+| 48 | [GM Legend](http://twitter.com/search?q=GM+Legend) | N/A |
+| 49 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 50 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
 
 
 

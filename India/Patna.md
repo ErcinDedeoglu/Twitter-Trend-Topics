@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-10 18:17:16 UTC`
+📆 Last Updated: `2023-03-10 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#60_40_नाय_चलतो](http://twitter.com/search?q=%2360_40_%e0%a4%a8%e0%a4%be%e0%a4%af_%e0%a4%9a%e0%a4%b2%e0%a4%a4%e0%a5%8b) | N/A |
-| 3 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 4 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 5 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
-| 6 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
-| 7 | [#PZvsMS](http://twitter.com/search?q=%23PZvsMS) | N/A |
-| 8 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 9 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 12 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 13 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 15 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 16 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 17 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 18 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
-| 19 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
-| 20 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
-| 21 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [रितेश अग्रवाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 23 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
-| 24 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 25 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 26 | [Devine](http://twitter.com/search?q=Devine) | N/A |
-| 27 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
-| 28 | [B. ThinkShield for Mobile](http://twitter.com/search?q=B.+ThinkShield+for+Mobile) | N/A |
-| 29 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 30 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
-| 31 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
-| 32 | [Raghav](http://twitter.com/search?q=Raghav) | N/A |
-| 33 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 35 | [पुलिस प्रशासन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8) | N/A |
-| 36 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 37 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 38 | [#NTRAtOscars](http://twitter.com/search?q=%23NTRAtOscars) | N/A |
-| 39 | [#HappyBirthdayParthSamthaan](http://twitter.com/search?q=%23HappyBirthdayParthSamthaan) | N/A |
-| 40 | [#Ban_Communal_SDPI](http://twitter.com/search?q=%23Ban_Communal_SDPI) | N/A |
-| 41 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 42 | [#AdaniSolidComeback](http://twitter.com/search?q=%23AdaniSolidComeback) | N/A |
-| 43 | [#UPWvsRCBW](http://twitter.com/search?q=%23UPWvsRCBW) | N/A |
-| 44 | [#LLCT20](http://twitter.com/search?q=%23LLCT20) | N/A |
-| 45 | [#LLCMasters](http://twitter.com/search?q=%23LLCMasters) | N/A |
-| 46 | [#LegendsLeagueCricket](http://twitter.com/search?q=%23LegendsLeagueCricket) | N/A |
-| 47 | [#wpl23](http://twitter.com/search?q=%23wpl23) | N/A |
-| 48 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
-| 49 | [#1YearOfTrailblazingET](http://twitter.com/search?q=%231YearOfTrailblazingET) | N/A |
-| 50 | [#RiteshAgarwal](http://twitter.com/search?q=%23RiteshAgarwal) | N/A |
+| 1 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
+| 2 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 3 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
+| 4 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 5 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [#NandriNadda](http://twitter.com/search?q=%23NandriNadda) | N/A |
+| 8 | [#HappyBirthdayParthSamthaan](http://twitter.com/search?q=%23HappyBirthdayParthSamthaan) | N/A |
+| 9 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 10 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
+| 11 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 12 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
+| 13 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
+| 14 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 15 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 16 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 17 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 18 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 19 | [गुजरात विधानसभा](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 20 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 21 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [sushant keeps inspiring us](http://twitter.com/search?q=sushant+keeps+inspiring+us) | N/A |
+| 23 | [Afridi](http://twitter.com/search?q=Afridi) | N/A |
+| 24 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 25 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 28 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 29 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 30 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
+| 31 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 32 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 33 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 34 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 35 | [AK AS BUDHWAR ON NETFLIX](http://twitter.com/search?q=AK+AS+BUDHWAR+ON+NETFLIX) | N/A |
+| 36 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 37 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 38 | [Mask](http://twitter.com/search?q=Mask) | N/A |
+| 39 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
+| 40 | [Modiji Ensure Justice 4SSR](http://twitter.com/search?q=Modiji+Ensure+Justice+4SSR) | N/A |
+| 41 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
+| 42 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
+| 43 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
+| 44 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 45 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 46 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 47 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 48 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 49 | [Raina](http://twitter.com/search?q=Raina) | N/A |
+| 50 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 
 
 

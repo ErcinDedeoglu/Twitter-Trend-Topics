@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-10 18:16:54 UTC`
+📆 Last Updated: `2023-03-10 19:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
+| 1 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
+| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
-| 5 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 6 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 7 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
-| 8 | [#lpodif](http://twitter.com/search?q=%23lpodif) | N/A |
-| 9 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 10 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 11 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 12 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
-| 13 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 14 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 15 | [Dnia Mężczyzn](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzn) | N/A |
-| 16 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 17 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
-| 18 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
-| 19 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 20 | [Spadajcie](http://twitter.com/search?q=Spadajcie) | N/A |
-| 21 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 22 | [djurgarden](http://twitter.com/search?q=djurgarden) | N/A |
-| 23 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 24 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
-| 25 | [Antonin Hajek](http://twitter.com/search?q=Antonin+Hajek) | N/A |
-| 26 | [panom](http://twitter.com/search?q=panom) | N/A |
-| 27 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 28 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 29 | [Panowie](http://twitter.com/search?q=Panowie) | N/A |
-| 30 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 31 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
-| 32 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 33 | [Jacek Żalek](http://twitter.com/search?q=Jacek+%c5%bbalek) | N/A |
-| 34 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 35 | [Borsuka](http://twitter.com/search?q=Borsuka) | N/A |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Stawka](http://twitter.com/search?q=Stawka) | N/A |
-| 38 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
-| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 40 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 41 | [Wielkopolsce](http://twitter.com/search?q=Wielkopolsce) | N/A |
-| 42 | [Jaśle](http://twitter.com/search?q=Ja%c5%9ble) | N/A |
-| 43 | [Hamburgu](http://twitter.com/search?q=Hamburgu) | N/A |
-| 44 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
-| 45 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
-| 46 | [Skórasia](http://twitter.com/search?q=Sk%c3%b3rasia) | N/A |
-| 47 | [ligi konferencji europy](http://twitter.com/search?q=ligi+konferencji+europy) | N/A |
-| 48 | [Poddębicach](http://twitter.com/search?q=Podd%c4%99bicach) | N/A |
-| 49 | [Świadków Jehowy](http://twitter.com/search?q=%c5%9awiadk%c3%b3w+Jehowy) | N/A |
-| 50 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 4 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
+| 5 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 6 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 7 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 8 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
+| 9 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 11 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 12 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
+| 13 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 14 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 15 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 16 | [dnia kobiet](http://twitter.com/search?q=dnia+kobiet) | N/A |
+| 17 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
+| 18 | [grot](http://twitter.com/search?q=grot) | N/A |
+| 19 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
+| 20 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 21 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 22 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
+| 23 | [Proszę](http://twitter.com/search?q=Prosz%c4%99) | N/A |
+| 24 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 25 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 26 | [Gdańsku](http://twitter.com/search?q=Gda%c5%84sku) | N/A |
+| 27 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
+| 28 | [dnia mężczyzn](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzn) | N/A |
+| 29 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 30 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 31 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 32 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 33 | [Tajlandii](http://twitter.com/search?q=Tajlandii) | N/A |
+| 34 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 35 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 36 | [Program](http://twitter.com/search?q=Program) | N/A |
+| 37 | [wielki żal](http://twitter.com/search?q=wielki+%c5%bcal) | N/A |
+| 38 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 39 | [Suskiego](http://twitter.com/search?q=Suskiego) | N/A |
+| 40 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
+| 41 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
+| 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 43 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 44 | [wyrwał](http://twitter.com/search?q=wyrwa%c5%82) | N/A |
+| 45 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 46 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 47 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
+| 48 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 49 | [Stawka](http://twitter.com/search?q=Stawka) | N/A |
+| 50 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
 
 
 

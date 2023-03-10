@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-10 18:16:49 UTC`
+📆 Last Updated: `2023-03-10 19:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
-| 2 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
-| 3 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 4 | [Jiles](http://twitter.com/search?q=Jiles) | N/A |
-| 5 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 6 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 7 | [#GobiernoTerminado](http://twitter.com/search?q=%23GobiernoTerminado) | N/A |
-| 8 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 9 | [Patricio Fernández](http://twitter.com/search?q=Patricio+Fern%c3%a1ndez) | N/A |
-| 10 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 11 | [#DerechaMiserableyCorrupta](http://twitter.com/search?q=%23DerechaMiserableyCorrupta) | N/A |
-| 12 | [Marta Maurás](http://twitter.com/search?q=Marta+Maur%c3%a1s) | N/A |
-| 13 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 14 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 15 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
-| 16 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
-| 17 | [TE CAGASTE A CHILE](http://twitter.com/search?q=TE+CAGASTE+A+CHILE) | N/A |
-| 18 | [Eran 7](http://twitter.com/search?q=Eran+7) | N/A |
-| 19 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 20 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
-| 21 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
-| 22 | [Generales](http://twitter.com/search?q=Generales) | N/A |
-| 23 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 24 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 25 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 26 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 27 | [Heraldo Muñoz](http://twitter.com/search?q=Heraldo+Mu%c3%b1oz) | N/A |
-| 28 | [Abuela](http://twitter.com/search?q=Abuela) | N/A |
-| 29 | [RREE](http://twitter.com/search?q=RREE) | N/A |
-| 30 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 31 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 32 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
-| 33 | [Ministros](http://twitter.com/search?q=Ministros) | N/A |
-| 34 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 35 | [The Clinic](http://twitter.com/search?q=The+Clinic) | N/A |
-| 36 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 37 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
-| 38 | [quintrala](http://twitter.com/search?q=quintrala) | N/A |
-| 39 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 40 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 41 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
-| 42 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 43 | [Lorena Pizarro](http://twitter.com/search?q=Lorena+Pizarro) | N/A |
-| 44 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
-| 45 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 46 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 47 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 48 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 49 | [Diario Oficial](http://twitter.com/search?q=Diario+Oficial) | N/A |
-| 50 | [Rata](http://twitter.com/search?q=Rata) | N/A |
+| 1 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
+| 2 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
+| 3 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
+| 4 | [#CambioDeGobierno](http://twitter.com/search?q=%23CambioDeGobierno) | N/A |
+| 5 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
+| 6 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 7 | [RREE](http://twitter.com/search?q=RREE) | N/A |
+| 8 | [Juan Carlos García](http://twitter.com/search?q=Juan+Carlos+Garc%c3%ada) | N/A |
+| 9 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 10 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
+| 11 | [Jessica López](http://twitter.com/search?q=Jessica+L%c3%b3pez) | N/A |
+| 12 | [Obras Públicas](http://twitter.com/search?q=Obras+P%c3%bablicas) | N/A |
+| 13 | [Avila](http://twitter.com/search?q=Avila) | N/A |
+| 14 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 15 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
+| 16 | [Aisén Etcheverry](http://twitter.com/search?q=Ais%c3%a9n+Etcheverry) | N/A |
+| 17 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 18 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 19 | [Julieta Brodsky](http://twitter.com/search?q=Julieta+Brodsky) | N/A |
+| 20 | [Ministro del Deporte](http://twitter.com/search?q=Ministro+del+Deporte) | N/A |
+| 21 | [Relaciones Exteriores](http://twitter.com/search?q=Relaciones+Exteriores) | N/A |
+| 22 | [Patricio Fernández](http://twitter.com/search?q=Patricio+Fern%c3%a1ndez) | N/A |
+| 23 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 24 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
+| 25 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
+| 26 | [Ministros](http://twitter.com/search?q=Ministros) | N/A |
+| 27 | [Artes](http://twitter.com/search?q=Artes) | N/A |
+| 28 | [Ciencia](http://twitter.com/search?q=Ciencia) | N/A |
+| 29 | [Káiser](http://twitter.com/search?q=K%c3%a1iser) | N/A |
+| 30 | [#GobiernoDeIncompetentes](http://twitter.com/search?q=%23GobiernoDeIncompetentes) | N/A |
+| 31 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 32 | [Concertación](http://twitter.com/search?q=Concertaci%c3%b3n) | N/A |
+| 33 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
+| 34 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
+| 35 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
+| 36 | [#GobiernoTerminado](http://twitter.com/search?q=%23GobiernoTerminado) | N/A |
+| 37 | [#MerluzoInepto](http://twitter.com/search?q=%23MerluzoInepto) | N/A |
 
 
 

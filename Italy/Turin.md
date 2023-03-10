@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-10 18:16:58 UTC`
+📆 Last Updated: `2023-03-10 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#10marzo](http://twitter.com/search?q=%2310marzo) | N/A |
-| 2 | [#GloboTerracqueo](http://twitter.com/search?q=%23GloboTerracqueo) | N/A |
-| 3 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
-| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 5 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 6 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 7 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 10 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 13 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 14 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 15 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 16 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 17 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 18 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 19 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 20 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 21 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 22 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 23 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 24 | [Soffertissima](http://twitter.com/search?q=Soffertissima) | N/A |
-| 25 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 26 | [Lecce Torino](http://twitter.com/search?q=Lecce+Torino) | N/A |
-| 27 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 28 | [don matteo](http://twitter.com/search?q=don+matteo) | N/A |
-| 29 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 30 | [testimoni di geova](http://twitter.com/search?q=testimoni+di+geova) | N/A |
-| 31 | [Elia](http://twitter.com/search?q=Elia) | N/A |
-| 32 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
-| 33 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 34 | [Dest](http://twitter.com/search?q=Dest) | Dest is an abbreviation for destination, which means the place to which someone or something is going or being sent. |
-| 35 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 36 | [buon venerdì](http://twitter.com/search?q=buon+venerd%c3%ac) | N/A |
-| 37 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 38 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
-| 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 40 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 41 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
-| 42 | [Canale di Sicilia](http://twitter.com/search?q=Canale+di+Sicilia) | N/A |
-| 43 | [La Corte](http://twitter.com/search?q=La+Corte) | N/A |
-| 44 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 45 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
-| 46 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 47 | [Ezio](http://twitter.com/search?q=Ezio) | N/A |
-| 48 | [Diletta](http://twitter.com/search?q=Diletta) | N/A |
-| 49 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 50 | [DO MORE](http://twitter.com/search?q=DO+MORE) | N/A |
+| 1 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 2 | [#unaTARDIVA_gita_aCUTRO](http://twitter.com/search?q=%23unaTARDIVA_gita_aCUTRO) | N/A |
+| 3 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
+| 4 | [#GloboTerracqueo](http://twitter.com/search?q=%23GloboTerracqueo) | N/A |
+| 5 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 8 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
+| 9 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 10 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 11 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 12 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 13 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 16 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 18 | [Lotito](http://twitter.com/search?q=Lotito) | N/A |
+| 19 | [La Corte](http://twitter.com/search?q=La+Corte) | N/A |
+| 20 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 21 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 22 | [Viterbo](http://twitter.com/search?q=Viterbo) | N/A |
+| 23 | [joe formaggio](http://twitter.com/search?q=joe+formaggio) | N/A |
+| 24 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 25 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 26 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 27 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 28 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [Foti](http://twitter.com/search?q=Foti) | N/A |
+| 31 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
+| 32 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
+| 33 | [cecilia sala](http://twitter.com/search?q=cecilia+sala) | N/A |
+| 34 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 37 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 38 | [Dest](http://twitter.com/search?q=Dest) | Dest is an abbreviation for destination, which means the place to which someone or something is going or being sent. |
+| 39 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 40 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 42 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 43 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 44 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 45 | [Arianna](http://twitter.com/search?q=Arianna) | N/A |
+| 46 | [Ionio](http://twitter.com/search?q=Ionio) | N/A |
+| 47 | [Sicilia](http://twitter.com/search?q=Sicilia) | N/A |
+| 48 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 49 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 
 
 
