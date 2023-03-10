@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-10 17:20:29 UTC`
+📆 Last Updated: `2023-03-10 18:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DesticiHaberTürkte](http://twitter.com/search?q=%23DesticiHaberT%c3%bcrkte) | N/A |
-| 2 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
+| 2 | [BayiGram BlackFriday](http://twitter.com/search?q=BayiGram+BlackFriday) | N/A |
 | 3 | [#OyumunRengi100BinAtama](http://twitter.com/search?q=%23OyumunRengi100BinAtama) | N/A |
-| 4 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
-| 5 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 6 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
-| 7 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 8 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 9 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 10 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 11 | [TaşeronKadrosu VedatBilginde](http://twitter.com/search?q=Ta%c5%9feronKadrosu+VedatBilginde) | N/A |
-| 12 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 13 | [Mahmut Çuhadar](http://twitter.com/search?q=Mahmut+%c3%87uhadar) | N/A |
-| 14 | [Cemal Metin Avcı](http://twitter.com/search?q=Cemal+Metin+Avc%c4%b1) | N/A |
-| 15 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
-| 16 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 17 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 18 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 19 | [Ben Osman Kavala](http://twitter.com/search?q=Ben+Osman+Kavala) | N/A |
-| 20 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 21 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 22 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 23 | [Davamız Liderimiz](http://twitter.com/search?q=Davam%c4%b1z+Liderimiz) | N/A |
-| 24 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
-| 25 | [Cuma'ya](http://twitter.com/search?q=Cuma%27ya) | N/A |
-| 26 | [Affını](http://twitter.com/search?q=Aff%c4%b1n%c4%b1) | N/A |
-| 27 | [Milletvekilli](http://twitter.com/search?q=Milletvekilli) | N/A |
-| 28 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 29 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 30 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
-| 31 | [Anayasamızın 116](http://twitter.com/search?q=Anayasam%c4%b1z%c4%b1n+116) | N/A |
-| 32 | [Gemiyi](http://twitter.com/search?q=Gemiyi) | N/A |
-| 33 | [AK Parti'den](http://twitter.com/search?q=AK+Parti%27den) | N/A |
-| 34 | [Cumhurbaşkanı Seçimi](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Se%c3%a7imi) | N/A |
-| 35 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 36 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 37 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 38 | [BayKemal EhliyetAffı](http://twitter.com/search?q=BayKemal+EhliyetAff%c4%b1) | N/A |
-| 39 | [Fareler](http://twitter.com/search?q=Fareler) | N/A |
-| 40 | [Aykut](http://twitter.com/search?q=Aykut) | N/A |
-| 41 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 42 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
-| 43 | [Cemaat](http://twitter.com/search?q=Cemaat) | N/A |
-| 44 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 45 | [Batan](http://twitter.com/search?q=Batan) | N/A |
-| 46 | [Brezilya](http://twitter.com/search?q=Brezilya) | N/A |
-| 47 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 48 | [#halkınbelediyeleri](http://twitter.com/search?q=%23halk%c4%b1nbelediyeleri) | N/A |
+| 4 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
+| 5 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
+| 6 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 7 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 8 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
+| 9 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
+| 10 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 11 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 12 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 13 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 14 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 15 | [TaşeronKadrosu VedatBilginde](http://twitter.com/search?q=Ta%c5%9feronKadrosu+VedatBilginde) | N/A |
+| 16 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 17 | [Aileler](http://twitter.com/search?q=Aileler) | N/A |
+| 18 | [Mahmut Çuhadar](http://twitter.com/search?q=Mahmut+%c3%87uhadar) | N/A |
+| 19 | [Cemal Metin Avcı](http://twitter.com/search?q=Cemal+Metin+Avc%c4%b1) | N/A |
+| 20 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
+| 21 | [Ben Osman Kavala](http://twitter.com/search?q=Ben+Osman+Kavala) | N/A |
+| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 23 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
+| 24 | [cuma'ya](http://twitter.com/search?q=cuma%27ya) | N/A |
+| 25 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 26 | [Ramazanda](http://twitter.com/search?q=Ramazanda) | N/A |
+| 27 | [Affını](http://twitter.com/search?q=Aff%c4%b1n%c4%b1) | N/A |
+| 28 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 29 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 30 | [Davamız Liderimiz](http://twitter.com/search?q=Davam%c4%b1z+Liderimiz) | N/A |
+| 31 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
+| 32 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
+| 33 | [Anayasamızın 116](http://twitter.com/search?q=Anayasam%c4%b1z%c4%b1n+116) | N/A |
+| 34 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
+| 35 | [Gemiyi](http://twitter.com/search?q=Gemiyi) | N/A |
+| 36 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 37 | [Aykut](http://twitter.com/search?q=Aykut) | N/A |
+| 38 | [Hayırlı Olsun](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Olsun) | "Hayırlı Olsun" is a phrase used in Turkish to wish someone good luck or to congratulate them on something. It can be translated to English as "good luck" or "blessings". |
+| 39 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 40 | [Fareler](http://twitter.com/search?q=Fareler) | N/A |
+| 41 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 42 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
+| 43 | [BayKemal EhliyetAffı](http://twitter.com/search?q=BayKemal+EhliyetAff%c4%b1) | N/A |
+| 44 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 45 | [AK Parti'den](http://twitter.com/search?q=AK+Parti%27den) | N/A |
+| 46 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 47 | [Brezilya](http://twitter.com/search?q=Brezilya) | N/A |
+| 48 | [Cemaat](http://twitter.com/search?q=Cemaat) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-10 17:20:35 UTC`
+📆 Last Updated: `2023-03-10 18:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 2 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 4 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 6 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 7 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
-| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 4 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 5 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 6 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 8 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
 | 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 11 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 10 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
+| 11 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
 | 12 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
-| 13 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 14 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 15 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 16 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 17 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 18 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 19 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 20 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 21 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 22 | [Briere](http://twitter.com/search?q=Briere) | N/A |
-| 23 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
-| 24 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 25 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 26 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 27 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 28 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 29 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
-| 30 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 32 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 33 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 34 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
-| 35 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 36 | [Hawkgirl](http://twitter.com/search?q=Hawkgirl) | N/A |
-| 37 | [All Aboarddddd](http://twitter.com/search?q=All+Aboarddddd) | N/A |
-| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 39 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 40 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 41 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 42 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 43 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 44 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
-| 45 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
-| 46 | [Drew Rosenhaus](http://twitter.com/search?q=Drew+Rosenhaus) | N/A |
-| 47 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
+| 13 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 14 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
+| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 16 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 17 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 18 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 19 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 20 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 21 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 22 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 23 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
+| 24 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 25 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 26 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 27 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 28 | [Loyer](http://twitter.com/search?q=Loyer) | N/A |
+| 29 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 30 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 31 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 32 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 33 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 34 | [Rippling](http://twitter.com/search?q=Rippling) | N/A |
+| 35 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 36 | [Briere](http://twitter.com/search?q=Briere) | N/A |
+| 37 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 38 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 39 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 40 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 41 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 42 | [Bathsheba](http://twitter.com/search?q=Bathsheba) | N/A |
+| 43 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 44 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 45 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
+| 46 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 47 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 
 
 

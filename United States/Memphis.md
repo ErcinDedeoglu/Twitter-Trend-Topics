@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-10 17:20:36 UTC`
+📆 Last Updated: `2023-03-10 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 2 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 4 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
 | 5 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 7 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 8 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 9 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 6 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 8 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
+| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 10 | [Ben Jones](http://twitter.com/search?q=Ben+Jones) | N/A |
-| 11 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 12 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 13 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 11 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 12 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
+| 13 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
 | 14 | [#SELday](http://twitter.com/search?q=%23SELday) | N/A |
-| 15 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 16 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 17 | [Brandon Graham](http://twitter.com/search?q=Brandon+Graham) | N/A |
-| 18 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 19 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 20 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 21 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 22 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 23 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 16 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 17 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 18 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 19 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
+| 20 | [#SKOL](http://twitter.com/search?q=%23SKOL) | #SKOL is a rallying cry used by fans of the Minnesota Vikings, an American football team. It is derived from the Swedish phrase "skål," which means "cheers" or "good health." In English, it is used to show support for the team and to encourage them to victory. |
+| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 22 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 23 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 24 | [Caresha](http://twitter.com/search?q=Caresha) | Caresha is a name of African origin, derived from the name Carissa. It is believed to mean "beloved" or "dear one". |
-| 25 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 26 | [Briere](http://twitter.com/search?q=Briere) | N/A |
-| 27 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
-| 28 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
-| 29 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 31 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 32 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 33 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
-| 34 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 35 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 36 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 37 | [Kemba](http://twitter.com/search?q=Kemba) | Kemba is a name of African origin, derived from the word "Kambalah," which means "beloved." It is often used as a given name for both boys and girls. |
-| 38 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 39 | [Hawkgirl](http://twitter.com/search?q=Hawkgirl) | N/A |
-| 40 | [All Aboarddddd](http://twitter.com/search?q=All+Aboarddddd) | N/A |
-| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 42 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 43 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 44 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
-| 45 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 46 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 47 | [Theilen](http://twitter.com/search?q=Theilen) | N/A |
-| 48 | [Andrew Painter](http://twitter.com/search?q=Andrew+Painter) | N/A |
-| 49 | [Drew Rosenhaus](http://twitter.com/search?q=Drew+Rosenhaus) | N/A |
+| 25 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 26 | [Pre-order iPhone 14](http://twitter.com/search?q=Pre-order+iPhone+14) | N/A |
+| 27 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 28 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 29 | [Loyer](http://twitter.com/search?q=Loyer) | N/A |
+| 30 | [Otis Taylor](http://twitter.com/search?q=Otis+Taylor) | N/A |
+| 31 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 32 | [Yung Miami](http://twitter.com/search?q=Yung+Miami) | N/A |
+| 33 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 34 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 35 | [Rippling](http://twitter.com/search?q=Rippling) | N/A |
+| 36 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 37 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 38 | [Briere](http://twitter.com/search?q=Briere) | N/A |
+| 39 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 40 | [Boltie](http://twitter.com/search?q=Boltie) | N/A |
+| 41 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 42 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 43 | [Bathsheba](http://twitter.com/search?q=Bathsheba) | N/A |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 45 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 46 | [Zaion](http://twitter.com/search?q=Zaion) | N/A |
 
 
 

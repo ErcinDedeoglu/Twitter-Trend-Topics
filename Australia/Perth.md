@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-10 17:20:08 UTC`
+📆 Last Updated: `2023-03-10 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
-| 2 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
+| 1 | [#NRLEelsSharks](http://twitter.com/search?q=%23NRLEelsSharks) | N/A |
+| 2 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
 | 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 4 | [#pervwsw](http://twitter.com/search?q=%23pervwsw) | N/A |
 | 5 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
@@ -30,23 +30,23 @@ This is top 50 for [Australia](</Australia>)
 | 13 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 14 | [Khawaja](http://twitter.com/search?q=Khawaja) | N/A |
 | 15 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 16 | [todd murphy](http://twitter.com/search?q=todd+murphy) | N/A |
+| 16 | [Todd Murphy](http://twitter.com/search?q=Todd+Murphy) | N/A |
 | 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 18 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 19 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
-| 20 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 21 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
 | 22 | [Prince Edward](http://twitter.com/search?q=Prince+Edward) | N/A |
 | 23 | [Shaun Marsh](http://twitter.com/search?q=Shaun+Marsh) | N/A |
 | 24 | [lorde](http://twitter.com/search?q=lorde) | N/A |
 | 25 | [Tahs](http://twitter.com/search?q=Tahs) | N/A |
-| 26 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 27 | [Stranger](http://twitter.com/search?q=Stranger) | N/A |
-| 28 | [Wazza](http://twitter.com/search?q=Wazza) | N/A |
-| 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 30 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
-| 31 | [waqa blake](http://twitter.com/search?q=waqa+blake) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 27 | [ibac](http://twitter.com/search?q=ibac) | N/A |
+| 28 | [Stranger](http://twitter.com/search?q=Stranger) | N/A |
+| 29 | [Wazza](http://twitter.com/search?q=Wazza) | N/A |
+| 30 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 31 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
+| 32 | [waqa blake](http://twitter.com/search?q=waqa+blake) | N/A |
 | 33 | [Ezra Mam](http://twitter.com/search?q=Ezra+Mam) | N/A |
 | 34 | [andrew wilkie](http://twitter.com/search?q=andrew+wilkie) | N/A |
 | 35 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
@@ -58,9 +58,9 @@ This is top 50 for [Australia](</Australia>)
 | 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 42 | [TASS](http://twitter.com/search?q=TASS) | N/A |
 | 43 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 44 | [Hiku](http://twitter.com/search?q=Hiku) | N/A |
+| 44 | [hiku](http://twitter.com/search?q=hiku) | N/A |
 | 45 | [will kennedy](http://twitter.com/search?q=will+kennedy) | N/A |
-| 46 | [Jarrad](http://twitter.com/search?q=Jarrad) | N/A |
+| 46 | [jarrad](http://twitter.com/search?q=jarrad) | N/A |
 | 47 | [kilmore](http://twitter.com/search?q=kilmore) | N/A |
 | 48 | [Greeny](http://twitter.com/search?q=Greeny) | N/A |
 | 49 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |

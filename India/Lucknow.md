@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-10 17:20:26 UTC`
+📆 Last Updated: `2023-03-10 18:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [India](</India>)
 | 3 | [#SavitribaiPhule](http://twitter.com/search?q=%23SavitribaiPhule) | #SavitribaiPhule is the name of a 19th century Indian social reformer and educator who fought for the rights of women and lower castes in India. She is widely regarded as one of the most influential figures in Indian history. The English translation of her name is "Protector of Women". |
 | 4 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
 | 5 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
-| 6 | [#Ban_Communal_SDPI](http://twitter.com/search?q=%23Ban_Communal_SDPI) | N/A |
-| 7 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
-| 8 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 9 | [#NTRAtOscars](http://twitter.com/search?q=%23NTRAtOscars) | N/A |
-| 10 | [#AdaniSolidComeback](http://twitter.com/search?q=%23AdaniSolidComeback) | N/A |
-| 11 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 12 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 14 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 15 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 16 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 6 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
+| 7 | [#PZvsMS](http://twitter.com/search?q=%23PZvsMS) | N/A |
+| 8 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
+| 9 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
+| 10 | [#NTRAtOscars](http://twitter.com/search?q=%23NTRAtOscars) | N/A |
+| 11 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 12 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 13 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
 | 17 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 19 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
+| 18 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 19 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
 | 20 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 21 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
-| 22 | [रितेश अग्रवाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 23 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
-| 24 | [hindu rashtra jagruti sabha](http://twitter.com/search?q=hindu+rashtra+jagruti+sabha) | N/A |
-| 25 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 21 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
+| 22 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
+| 23 | [रितेश अग्रवाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 24 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
+| 25 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
 | 26 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 27 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
-| 28 | [पुलिस प्रशासन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8) | N/A |
+| 27 | [Devine](http://twitter.com/search?q=Devine) | N/A |
+| 28 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
 | 29 | [B. ThinkShield for Mobile](http://twitter.com/search?q=B.+ThinkShield+for+Mobile) | N/A |
-| 30 | [Shreyanka Patil](http://twitter.com/search?q=Shreyanka+Patil) | N/A |
-| 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 32 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 33 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 30 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 31 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 32 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
+| 33 | [Raghav](http://twitter.com/search?q=Raghav) | N/A |
 | 34 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
 | 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 36 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
-| 37 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 38 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 39 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 40 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 41 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
-| 42 | [#PWFCitadel2023](http://twitter.com/search?q=%23PWFCitadel2023) | N/A |
-| 43 | [#UPWvsRCBW](http://twitter.com/search?q=%23UPWvsRCBW) | N/A |
-| 44 | [#1YearOfTrailblazingET](http://twitter.com/search?q=%231YearOfTrailblazingET) | N/A |
-| 45 | [#LLCMasters](http://twitter.com/search?q=%23LLCMasters) | N/A |
-| 46 | [#fridayswitharmaan](http://twitter.com/search?q=%23fridayswitharmaan) | N/A |
-| 47 | [#PZvsMS](http://twitter.com/search?q=%23PZvsMS) | N/A |
-| 48 | [#RiteshAgarwal](http://twitter.com/search?q=%23RiteshAgarwal) | N/A |
-| 49 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
-| 50 | [#wpl23](http://twitter.com/search?q=%23wpl23) | N/A |
+| 36 | [पुलिस प्रशासन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8) | N/A |
+| 37 | [राज्य सभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 38 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
+| 39 | [#HappyBirthdayParthSamthaan](http://twitter.com/search?q=%23HappyBirthdayParthSamthaan) | N/A |
+| 40 | [#Ban_Communal_SDPI](http://twitter.com/search?q=%23Ban_Communal_SDPI) | N/A |
+| 41 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 42 | [#AdaniSolidComeback](http://twitter.com/search?q=%23AdaniSolidComeback) | N/A |
+| 43 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 44 | [#UPWvsRCBW](http://twitter.com/search?q=%23UPWvsRCBW) | N/A |
+| 45 | [#LLCT20](http://twitter.com/search?q=%23LLCT20) | N/A |
+| 46 | [#LLCMasters](http://twitter.com/search?q=%23LLCMasters) | N/A |
+| 47 | [#LegendsLeagueCricket](http://twitter.com/search?q=%23LegendsLeagueCricket) | N/A |
+| 48 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
+| 49 | [#wpl23](http://twitter.com/search?q=%23wpl23) | N/A |
+| 50 | [#1YearOfTrailblazingET](http://twitter.com/search?q=%231YearOfTrailblazingET) | N/A |
 
 
 

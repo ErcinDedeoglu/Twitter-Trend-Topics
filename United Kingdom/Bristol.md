@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-03-10 17:19:45 UTC`
+📆 Last Updated: `2023-03-10 18:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 2 | [#TECHOGNITION](http://twitter.com/search?q=%23TECHOGNITION) | N/A |
-| 3 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 4 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 5 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 6 | [30s Germany](http://twitter.com/search?q=30s+Germany) | N/A |
-| 7 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
-| 8 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 9 | [Germany in the 1930s](http://twitter.com/search?q=Germany+in+the+1930s) | N/A |
-| 10 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 11 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 12 | [Yasmin](http://twitter.com/search?q=Yasmin) | N/A |
-| 13 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 14 | [#FortniteChapter4Season2](http://twitter.com/search?q=%23FortniteChapter4Season2) | N/A |
-| 15 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 16 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 18 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 19 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 20 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 21 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 22 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 23 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 24 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 25 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 28 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 29 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
-| 30 | [The Times](http://twitter.com/search?q=The+Times) | N/A |
-| 31 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [CITV](http://twitter.com/search?q=CITV) | N/A |
-| 34 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 35 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 36 | [Censorship](http://twitter.com/search?q=Censorship) | N/A |
-| 37 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 38 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 39 | [Monbiot](http://twitter.com/search?q=Monbiot) | N/A |
-| 40 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 41 | [Red Dwarf](http://twitter.com/search?q=Red+Dwarf) | N/A |
-| 42 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 43 | [Stepping](http://twitter.com/search?q=Stepping) | N/A |
-| 44 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 45 | [TV Licence](http://twitter.com/search?q=TV+Licence) | N/A |
-| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 47 | [Roofe](http://twitter.com/search?q=Roofe) | Roofe is a slang term used to describe someone who is attractive or good-looking. It is derived from the phrase "hot off the roofe," which means something that is very desirable. |
-| 48 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 49 | [The Apprentice](http://twitter.com/search?q=The+Apprentice) | N/A |
+| 1 | [Anthony Gordon](http://twitter.com/search?q=Anthony+Gordon) | Anthony Gordon is a name of English origin. It is derived from the Latin name Antonius, meaning "beyond price" or "invaluable". The surname Gordon is derived from the Old French word gourd, meaning "spacious" or "great". Together, Anthony Gordon can be interpreted to mean "invaluable and great". |
+| 2 | [#freepizzafriday](http://twitter.com/search?q=%23freepizzafriday) | N/A |
+| 3 | [Micah Richards](http://twitter.com/search?q=Micah+Richards) | N/A |
+| 4 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
+| 5 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
+| 6 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
+| 7 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 8 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 9 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 11 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 12 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 13 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
+| 14 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
+| 15 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 16 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 17 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 18 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 19 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 20 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 21 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 22 | [Yes Ian](http://twitter.com/search?q=Yes+Ian) | N/A |
+| 23 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 24 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 25 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 26 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 27 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 28 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
+| 29 | [#FreeSpeech](http://twitter.com/search?q=%23FreeSpeech) | N/A |
+| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 31 | [Wild Isles](http://twitter.com/search?q=Wild+Isles) | N/A |
+| 32 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
+| 33 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 34 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
+| 35 | [Chappers](http://twitter.com/search?q=Chappers) | N/A |
+| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 38 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 39 | [The Apprentice](http://twitter.com/search?q=The+Apprentice) | N/A |
+| 40 | [TV Licence](http://twitter.com/search?q=TV+Licence) | N/A |
+| 41 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
+| 42 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
+| 43 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 44 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 45 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 46 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 47 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 48 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
+| 49 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 50 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
 
 
 

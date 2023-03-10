@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-10 17:20:04 UTC`
+📆 Last Updated: `2023-03-10 18:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#sneeuw](http://twitter.com/search?q=%23sneeuw) | N/A |
-| 2 | [#shafey](http://twitter.com/search?q=%23shafey) | N/A |
-| 3 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 2 | [#gaerkc](http://twitter.com/search?q=%23gaerkc) | N/A |
+| 3 | [#shafey](http://twitter.com/search?q=%23shafey) | N/A |
 | 4 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
 | 5 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
 | 6 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 8 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
-| 9 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 7 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 8 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 9 | [NOS Sport](http://twitter.com/search?q=NOS+Sport) | N/A |
 | 10 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
 | 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Groningen-rapport](http://twitter.com/search?q=Groningen-rapport) | N/A |
-| 13 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 14 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 15 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 16 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 12 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 14 | [Groningen-rapport](http://twitter.com/search?q=Groningen-rapport) | N/A |
+| 15 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 16 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 17 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 18 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 19 | [Zorgpremie](http://twitter.com/search?q=Zorgpremie) | N/A |
-| 20 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 21 | [alliander](http://twitter.com/search?q=alliander) | N/A |
-| 22 | [Boze VVD'ers](http://twitter.com/search?q=Boze+VVD%27ers) | N/A |
-| 23 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [BPOC](http://twitter.com/search?q=BPOC) | N/A |
-| 26 | [Velsen-Noord](http://twitter.com/search?q=Velsen-Noord) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Velsen-Noord](http://twitter.com/search?q=Velsen-Noord) | N/A |
+| 22 | [alliander](http://twitter.com/search?q=alliander) | N/A |
+| 23 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 24 | [Boze VVD'ers](http://twitter.com/search?q=Boze+VVD%27ers) | N/A |
+| 25 | [Deventer](http://twitter.com/search?q=Deventer) | N/A |
+| 26 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
 | 27 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 28 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 29 | [ASML](http://twitter.com/search?q=ASML) | N/A |
+| 28 | [ASML](http://twitter.com/search?q=ASML) | N/A |
+| 29 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
 | 30 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 31 | [dijsselbloem](http://twitter.com/search?q=dijsselbloem) | N/A |
-| 32 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 33 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 32 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 33 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
 | 34 | [Gerard Joling](http://twitter.com/search?q=Gerard+Joling) | N/A |
 | 35 | [Jehova](http://twitter.com/search?q=Jehova) | N/A |
-| 36 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 37 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 38 | [Proost](http://twitter.com/search?q=Proost) | N/A |
-| 39 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 36 | [Prettig](http://twitter.com/search?q=Prettig) | N/A |
+| 37 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 38 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 39 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
 | 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 41 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
-| 42 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
-| 43 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 44 | [dolf](http://twitter.com/search?q=dolf) | N/A |
-| 45 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 46 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 48 | [Avondetappe](http://twitter.com/search?q=Avondetappe) | N/A |
-| 49 | [Danny Nelissen](http://twitter.com/search?q=Danny+Nelissen) | N/A |
+| 42 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 43 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 44 | [Avondetappe](http://twitter.com/search?q=Avondetappe) | N/A |
+| 45 | [Lehman](http://twitter.com/search?q=Lehman) | N/A |
+| 46 | [dolf](http://twitter.com/search?q=dolf) | N/A |
+| 47 | [Waalwijk](http://twitter.com/search?q=Waalwijk) | N/A |
+| 48 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 49 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
 
 
 

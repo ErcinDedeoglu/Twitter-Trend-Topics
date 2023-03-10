@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-10 17:20:05 UTC`
+📆 Last Updated: `2023-03-10 18:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daniele Ganser](http://twitter.com/search?q=Daniele+Ganser) | N/A |
-| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 1 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 3 | [#Forward23](http://twitter.com/search?q=%23Forward23) | N/A |
-| 4 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 7 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 6 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
+| 7 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
 | 8 | [#DigitalEnvironment](http://twitter.com/search?q=%23DigitalEnvironment) | N/A |
 | 9 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 10 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 12 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
-| 15 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 16 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 17 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 18 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 19 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 20 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 21 | [Vorträge](http://twitter.com/search?q=Vortr%c3%a4ge) | N/A |
-| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 23 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 24 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 25 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
-| 26 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 27 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 28 | [Booster](http://twitter.com/search?q=Booster) | N/A |
+| 10 | [Daniele Ganser](http://twitter.com/search?q=Daniele+Ganser) | N/A |
+| 11 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 13 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 15 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 16 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 17 | [Bewilligung](http://twitter.com/search?q=Bewilligung) | N/A |
+| 18 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 19 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 20 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 22 | [Vorträge](http://twitter.com/search?q=Vortr%c3%a4ge) | N/A |
+| 23 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 24 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 25 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
+| 26 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 28 | [Polen](http://twitter.com/search?q=Polen) | N/A |
 | 29 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
 | 30 | [Alien](http://twitter.com/search?q=Alien) | N/A |
 | 31 | [Annual Day](http://twitter.com/search?q=Annual+Day) | N/A |
 | 32 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 35 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 36 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 37 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 38 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 39 | [Desinformation](http://twitter.com/search?q=Desinformation) | N/A |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 42 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 43 | [Brigitte](http://twitter.com/search?q=Brigitte) | N/A |
-| 44 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 46 | [Landwirtschaft](http://twitter.com/search?q=Landwirtschaft) | N/A |
-| 47 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 48 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 49 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
-| 50 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 33 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 34 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
+| 35 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 36 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 37 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
+| 38 | [Desinformation](http://twitter.com/search?q=Desinformation) | N/A |
+| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 40 | [Reich](http://twitter.com/search?q=Reich) | N/A |
+| 41 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [Landwirtschaft](http://twitter.com/search?q=Landwirtschaft) | N/A |
+| 45 | [Velo](http://twitter.com/search?q=Velo) | N/A |
+| 46 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 47 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 48 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 49 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 50 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 
 
 

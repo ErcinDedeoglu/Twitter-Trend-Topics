@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-10 17:20:48 UTC`
+📆 Last Updated: `2023-03-10 18:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,38 @@ This is top 50 for Pakistan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PZvsMS](http://twitter.com/search?q=%23PZvsMS) | N/A |
-| 2 | [#چوروں_سےحقوق_لینےہونگے](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%d8%b3%db%92%d8%ad%d9%82%d9%88%d9%82_%d9%84%db%8c%d9%86%db%92%db%81%d9%88%d9%86%da%af%db%92) | N/A |
-| 3 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
-| 4 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
-| 5 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
-| 6 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 7 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 8 | [Abbas Afridi](http://twitter.com/search?q=Abbas+Afridi) | N/A |
-| 9 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 10 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 11 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 12 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 13 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 14 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 15 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 16 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 17 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
-| 18 | [Fakhar Zaman](http://twitter.com/search?q=Fakhar+Zaman) | Fakhar Zaman is a Pakistani cricketer who plays for the Pakistan national cricket team. His name means "pride" in English. |
-| 19 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 20 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 21 | [Saim ayub](http://twitter.com/search?q=Saim+ayub) | N/A |
-| 22 | [habib university](http://twitter.com/search?q=habib+university) | N/A |
-| 23 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 24 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 27 | [Cottrell](http://twitter.com/search?q=Cottrell) | N/A |
-| 28 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 29 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 32 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 33 | [North](http://twitter.com/search?q=North) | N/A |
-| 34 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
-| 35 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 36 | [Halwa](http://twitter.com/search?q=Halwa) | N/A |
-| 37 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 39 | [haseeb](http://twitter.com/search?q=haseeb) | N/A |
-| 40 | [Strike](http://twitter.com/search?q=Strike) | N/A |
-| 41 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
-| 42 | [Haina](http://twitter.com/search?q=Haina) | N/A |
-| 43 | [Politics](http://twitter.com/search?q=Politics) | N/A |
-| 44 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 45 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
-| 46 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
-| 47 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 48 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 49 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 50 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
+| 2 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
+| 3 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 4 | [#MSvsPZ](http://twitter.com/search?q=%23MSvsPZ) | N/A |
+| 5 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 6 | [#چوروں_سےحقوق_لینےہونگے](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%d8%b3%db%92%d8%ad%d9%82%d9%88%d9%82_%d9%84%db%8c%d9%86%db%92%db%81%d9%88%d9%86%da%af%db%92) | N/A |
+| 7 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
+| 8 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
+| 9 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 10 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 11 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 12 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 13 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
+| 14 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 15 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 16 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
+| 17 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 19 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 20 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 21 | [#bankonher](http://twitter.com/search?q=%23bankonher) | N/A |
+| 22 | [#easypaisa](http://twitter.com/search?q=%23easypaisa) | N/A |
+| 23 | [#JI_Dharna_For_Karachi](http://twitter.com/search?q=%23JI_Dharna_For_Karachi) | N/A |
+| 24 | [#LegendsLeagueCricket](http://twitter.com/search?q=%23LegendsLeagueCricket) | N/A |
+| 25 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
+| 26 | [#ISPR](http://twitter.com/search?q=%23ISPR) | N/A |
+| 27 | [#سراج_الحق_کوئٹہ_دھرنا](http://twitter.com/search?q=%23%d8%b3%d8%b1%d8%a7%d8%ac_%d8%a7%d9%84%d8%ad%d9%82_%da%a9%d9%88%d8%a6%d9%b9%db%81_%d8%af%da%be%d8%b1%d9%86%d8%a7) | N/A |
+| 28 | [#IamAboveAll](http://twitter.com/search?q=%23IamAboveAll) | N/A |
+| 29 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
+| 30 | [#letsconnect](http://twitter.com/search?q=%23letsconnect) | N/A |
+| 31 | [#شعیب_شیخ_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b4%d8%b9%db%8c%d8%a8_%d8%b4%db%8c%d8%ae_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 32 | [#AliBilalShaheed](http://twitter.com/search?q=%23AliBilalShaheed) | N/A |
+| 33 | [#خون_کی_پیاسی_مریم](http://twitter.com/search?q=%23%d8%ae%d9%88%d9%86_%da%a9%db%8c_%d9%be%db%8c%d8%a7%d8%b3%db%8c_%d9%85%d8%b1%db%8c%d9%85) | N/A |
 
 
 

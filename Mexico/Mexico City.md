@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-10 17:19:49 UTC`
+📆 Last Updated: `2023-03-10 18:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
-| 2 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 3 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 1 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 2 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 3 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
 | 4 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
 | 5 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
 | 6 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
@@ -25,38 +25,43 @@ This is top 50 for [Mexico](</Mexico>)
 | 8 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
 | 9 | [Fernando Reina](http://twitter.com/search?q=Fernando+Reina) | N/A |
 | 10 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 11 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 12 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 13 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
-| 14 | [Melva Navarro](http://twitter.com/search?q=Melva+Navarro) | N/A |
+| 11 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 12 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Espionaje](http://twitter.com/search?q=Espionaje) | N/A |
 | 15 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 16 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 17 | [Juezas](http://twitter.com/search?q=Juezas) | N/A |
-| 18 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 19 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 16 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 17 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 18 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 19 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
 | 20 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
 | 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 22 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
-| 23 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
-| 24 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 25 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 27 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
-| 28 | [#PoderosoMolesto](http://twitter.com/search?q=%23PoderosoMolesto) | N/A |
-| 29 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 30 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 31 | [#mañanerouniversal](http://twitter.com/search?q=%23ma%c3%b1anerouniversal) | N/A |
-| 32 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
-| 33 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 34 | [#EjercitoEspia](http://twitter.com/search?q=%23EjercitoEspia) | N/A |
-| 35 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 36 | [#PrimaveraOaxaqueña](http://twitter.com/search?q=%23PrimaveraOaxaque%c3%b1a) | N/A |
-| 37 | [#MarioBros](http://twitter.com/search?q=%23MarioBros) | N/A |
-| 38 | [#Toluca](http://twitter.com/search?q=%23Toluca) | N/A |
-| 39 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
-| 40 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 41 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 42 | [#AmloElReyDelCinismo](http://twitter.com/search?q=%23AmloElReyDelCinismo) | N/A |
+| 22 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 23 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 24 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
+| 25 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 26 | [Viernes 10](http://twitter.com/search?q=Viernes+10) | N/A |
+| 27 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 28 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 30 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 31 | [Ahuehuete](http://twitter.com/search?q=Ahuehuete) | N/A |
+| 32 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 33 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 34 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 35 | [#EnViernesSeAntoja](http://twitter.com/search?q=%23EnViernesSeAntoja) | N/A |
+| 36 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 37 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 38 | [#100DíasTransformandoOaxaca](http://twitter.com/search?q=%23100D%c3%adasTransformandoOaxaca) | N/A |
+| 39 | [#Jimin_Software_Ver](http://twitter.com/search?q=%23Jimin_Software_Ver) | N/A |
+| 40 | [#DíaInternacionalDeLasJuezas](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLasJuezas) | N/A |
+| 41 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 42 | [#PrimaveraOaxaqueña](http://twitter.com/search?q=%23PrimaveraOaxaque%c3%b1a) | N/A |
+| 43 | [#MarioBros](http://twitter.com/search?q=%23MarioBros) | N/A |
+| 44 | [#EndlessSummerVacation](http://twitter.com/search?q=%23EndlessSummerVacation) | N/A |
+| 45 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 46 | [#Toluca](http://twitter.com/search?q=%23Toluca) | N/A |
+| 47 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
 
 
 
