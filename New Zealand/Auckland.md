@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-11 20:16:46 UTC`
+📆 Last Updated: `2023-03-11 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
+| 1 | [#EQNZ](http://twitter.com/search?q=%23EQNZ) | N/A |
 | 2 | [#MCRAUCKLAND](http://twitter.com/search?q=%23MCRAUCKLAND) | N/A |
 | 3 | [#hurvblu](http://twitter.com/search?q=%23hurvblu) | N/A |
-| 4 | [#nrlroosterswarriors](http://twitter.com/search?q=%23nrlroosterswarriors) | N/A |
-| 5 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 6 | [Drua](http://twitter.com/search?q=Drua) | N/A |
-| 7 | [#DRUvCRU](http://twitter.com/search?q=%23DRUvCRU) | N/A |
+| 4 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 5 | [#nrlroosterswarriors](http://twitter.com/search?q=%23nrlroosterswarriors) | N/A |
+| 6 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 7 | [Drua](http://twitter.com/search?q=Drua) | N/A |
 | 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
-| 10 | [mt albert](http://twitter.com/search?q=mt+albert) | N/A |
-| 11 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 12 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 13 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
-| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 19 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
-| 20 | [Hurricanes](http://twitter.com/search?q=Hurricanes) | N/A |
-| 21 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 22 | [helen white](http://twitter.com/search?q=helen+white) | N/A |
-| 23 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 24 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 25 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 26 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 27 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
-| 28 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 29 | [Goodnight Nurse](http://twitter.com/search?q=Goodnight+Nurse) | N/A |
-| 30 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 31 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 32 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 33 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 34 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 35 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 36 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 37 | [polyfest](http://twitter.com/search?q=polyfest) | N/A |
-| 38 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 39 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 41 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 42 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 43 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
-| 44 | [Auckland Central](http://twitter.com/search?q=Auckland+Central) | N/A |
-| 45 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 46 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 47 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 48 | [Queenstown](http://twitter.com/search?q=Queenstown) | N/A |
-| 49 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 50 | [meng foon](http://twitter.com/search?q=meng+foon) | N/A |
+| 9 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 10 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
+| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 12 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 14 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
+| 15 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 16 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 17 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 18 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 20 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 21 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 22 | [Goodnight Nurse](http://twitter.com/search?q=Goodnight+Nurse) | N/A |
+| 23 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 24 | [Mt Albert](http://twitter.com/search?q=Mt+Albert) | N/A |
+| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 26 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 27 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 28 | [Hurricanes](http://twitter.com/search?q=Hurricanes) | N/A |
+| 29 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 30 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 31 | [Helen White](http://twitter.com/search?q=Helen+White) | N/A |
+| 32 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
+| 33 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 34 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 35 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 36 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 37 | [Auckland Central](http://twitter.com/search?q=Auckland+Central) | N/A |
+| 38 | [Fiji](http://twitter.com/search?q=Fiji) | N/A |
+| 39 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 40 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 41 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Gosh](http://twitter.com/search?q=Gosh) | N/A |
+| 44 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 45 | [tinder](http://twitter.com/search?q=tinder) | N/A |
+| 46 | [polyfest](http://twitter.com/search?q=polyfest) | N/A |
+| 47 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 48 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 50 | [Perth](http://twitter.com/search?q=Perth) | N/A |
 
 
 

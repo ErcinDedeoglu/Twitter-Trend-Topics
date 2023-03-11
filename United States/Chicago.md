@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-11 20:16:47 UTC`
+📆 Last Updated: `2023-03-11 21:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#B1GMBBT](http://twitter.com/search?q=%23B1GMBBT) | N/A |
+| 1 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
 | 2 | [Chicago River](http://twitter.com/search?q=Chicago+River) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 5 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 6 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 7 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 10 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 11 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 12 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 3 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 6 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 7 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 8 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 9 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 10 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
 | 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 16 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 17 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 18 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 19 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 20 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 21 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 22 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 23 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 24 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 25 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 26 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 27 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 28 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 29 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 30 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 31 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 32 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 33 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 34 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 35 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 36 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 37 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 38 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 39 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 40 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 41 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 42 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 43 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 44 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
-| 45 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 46 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 47 | [Coach Grant](http://twitter.com/search?q=Coach+Grant) | N/A |
-| 48 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 49 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 50 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 14 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 15 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
+| 16 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 17 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 18 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 19 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 20 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 21 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 22 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 23 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 24 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 25 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 26 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 27 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 28 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 29 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 30 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 31 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
+| 32 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 33 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 34 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 35 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
+| 36 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 37 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 38 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
+| 39 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 40 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 41 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 42 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 44 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
+| 45 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 46 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 47 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 48 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 49 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 50 | [Parker Meadows](http://twitter.com/search?q=Parker+Meadows) | N/A |
 
 
 

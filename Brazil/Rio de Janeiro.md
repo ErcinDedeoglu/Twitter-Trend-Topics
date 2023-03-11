@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-11 20:16:16 UTC`
+📆 Last Updated: `2023-03-11 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 4 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 5 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 6 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 7 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
-| 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 9 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
-| 10 | [Darlan](http://twitter.com/search?q=Darlan) | N/A |
-| 11 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
-| 14 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
-| 15 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 16 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 17 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 19 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 20 | [Esportivo](http://twitter.com/search?q=Esportivo) | N/A |
-| 21 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 22 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
-| 23 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 24 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 25 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 26 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 28 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 29 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
-| 30 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 31 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
-| 32 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 33 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
-| 34 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 35 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 36 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 37 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 38 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 39 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 40 | [Brenno](http://twitter.com/search?q=Brenno) | Brenno is an Italian name derived from the Latin name Brennus, which means "king" or "leader". It is also a variant of the name Brendan, which has its roots in the Gaelic language and means "prince". |
-| 41 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 42 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 43 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 44 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
-| 45 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 46 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 47 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 48 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
-| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 50 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 1 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 2 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 5 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 6 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 7 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 8 | [#caldeirao](http://twitter.com/search?q=%23caldeirao) | N/A |
+| 9 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 10 | [NX Zero](http://twitter.com/search?q=NX+Zero) | N/A |
+| 11 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 12 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 13 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 14 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 15 | [Darlan](http://twitter.com/search?q=Darlan) | N/A |
+| 16 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 17 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 18 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
+| 19 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 20 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
+| 21 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 22 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 23 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 24 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 25 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 26 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 27 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 28 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 29 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 30 | [Igor Formiga](http://twitter.com/search?q=Igor+Formiga) | N/A |
+| 31 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 32 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 33 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
+| 34 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 35 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 36 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 37 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
+| 38 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 39 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
+| 40 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 42 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 43 | [Débora Cecília](http://twitter.com/search?q=D%c3%a9bora+Cec%c3%adlia) | N/A |
+| 44 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 45 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 46 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 47 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
+| 48 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 49 | [La Casa de Los Famosos](http://twitter.com/search?q=La+Casa+de+Los+Famosos) | N/A |
+| 50 | [Esportivo](http://twitter.com/search?q=Esportivo) | N/A |
 
 
 

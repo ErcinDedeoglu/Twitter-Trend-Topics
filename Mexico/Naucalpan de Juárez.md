@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-03-11 20:16:12 UTC`
+📆 Last Updated: `2023-03-11 21:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 2 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 3 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 8 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
-| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 10 | [Morelia](http://twitter.com/search?q=Morelia) | Morelia is the capital city of the Mexican state of Michoacán. It is located in the central region of the country, about 250 miles west of Mexico City. The name Morelia comes from a Nahuatl word meaning "place of many trees." |
-| 11 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 14 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 15 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 16 | [Cuatrero](http://twitter.com/search?q=Cuatrero) | N/A |
-| 17 | [Ivermectina](http://twitter.com/search?q=Ivermectina) | N/A |
-| 18 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 19 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
-| 20 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
-| 21 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [Altozano](http://twitter.com/search?q=Altozano) | N/A |
-| 24 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 25 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 26 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 27 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 28 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 29 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 30 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 31 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 32 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 33 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 35 | [#LasMujeresTransNoMeBorran](http://twitter.com/search?q=%23LasMujeresTransNoMeBorran) | N/A |
-| 36 | [#YaNoHayHorarioDeVerano](http://twitter.com/search?q=%23YaNoHayHorarioDeVerano) | N/A |
-| 37 | [#ToTheSwordsmithVillage](http://twitter.com/search?q=%23ToTheSwordsmithVillage) | N/A |
-| 38 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 39 | [#CumbredeComunidades](http://twitter.com/search?q=%23CumbredeComunidades) | N/A |
-| 40 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 41 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 42 | [#SerieAxESPN](http://twitter.com/search?q=%23SerieAxESPN) | N/A |
-| 43 | [#JoseRamonLopezBeltran388](http://twitter.com/search?q=%23JoseRamonLopezBeltran388) | N/A |
-| 44 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
-| 45 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 46 | [#LordMontajes](http://twitter.com/search?q=%23LordMontajes) | N/A |
-| 47 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 48 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
-| 49 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 2 | [#YaNoHayHorarioDeVerano](http://twitter.com/search?q=%23YaNoHayHorarioDeVerano) | N/A |
+| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 4 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 5 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
+| 6 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 7 | [#SerieAxESPN](http://twitter.com/search?q=%23SerieAxESPN) | N/A |
+| 8 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 9 | [#JoseRamonLopezBeltran388](http://twitter.com/search?q=%23JoseRamonLopezBeltran388) | N/A |
+| 10 | [Ivermectina](http://twitter.com/search?q=Ivermectina) | N/A |
+| 11 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 12 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
+| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 14 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
+| 15 | [Altozano](http://twitter.com/search?q=Altozano) | N/A |
+| 16 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
+| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 20 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 21 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 22 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 23 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 24 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 25 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 26 | [#ToTheSwordsmithVillage](http://twitter.com/search?q=%23ToTheSwordsmithVillage) | N/A |
+| 27 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 28 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 29 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 30 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 31 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
+| 32 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 33 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
+| 34 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 35 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 36 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 37 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
+| 38 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
+| 39 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
+| 40 | [#LadyPelotas](http://twitter.com/search?q=%23LadyPelotas) | N/A |
 
 
 

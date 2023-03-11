@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-11 20:16:51 UTC`
+📆 Last Updated: `2023-03-11 21:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 2 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 3 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 8 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 1 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 2 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 3 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 4 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 5 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 6 | [Silicon Valley](http://twitter.com/search?q=Silicon+Valley) | N/A |
+| 7 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 8 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
 | 9 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 10 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 13 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 14 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 15 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 16 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 18 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 20 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 21 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 22 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 23 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 24 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 25 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 26 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 27 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 28 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 29 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 30 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 31 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 32 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 33 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 34 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 35 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 36 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 37 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 38 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 39 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 40 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 41 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 42 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 43 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 44 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 45 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 46 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 47 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 48 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 49 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
-| 50 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
+| 10 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 11 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 12 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 14 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 17 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
+| 18 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 19 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 20 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 21 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 22 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 24 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 25 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 26 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 27 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 28 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 29 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 30 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 31 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 32 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 33 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
+| 34 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 35 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 36 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 37 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
+| 38 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 39 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 40 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
+| 41 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 42 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 43 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 44 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 45 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 46 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
+| 47 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 48 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 49 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 50 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
 
 
 

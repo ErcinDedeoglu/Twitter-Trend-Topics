@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-11 20:16:55 UTC`
+📆 Last Updated: `2023-03-11 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bigbrothernlbe](http://twitter.com/search?q=%23bigbrothernlbe) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#KVMSTV](http://twitter.com/search?q=%23KVMSTV) | N/A |
-| 4 | [#SERANT](http://twitter.com/search?q=%23SERANT) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 7 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 8 | [#eupkvo](http://twitter.com/search?q=%23eupkvo) | N/A |
+| 2 | [#SERANT](http://twitter.com/search?q=%23SERANT) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 5 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 6 | [#KVMSTV](http://twitter.com/search?q=%23KVMSTV) | N/A |
+| 7 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
+| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 10 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Tijl](http://twitter.com/search?q=Tijl) | N/A |
-| 18 | [Tinne](http://twitter.com/search?q=Tinne) | N/A |
-| 19 | [Zegt](http://twitter.com/search?q=Zegt) | N/A |
-| 20 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 21 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 22 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 23 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 24 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 25 | [J'attends](http://twitter.com/search?q=J%27attends) | N/A |
-| 26 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 27 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 28 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 29 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 30 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 31 | [beerschot](http://twitter.com/search?q=beerschot) | N/A |
-| 32 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 33 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 34 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 38 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
-| 39 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
-| 40 | [25 MW](http://twitter.com/search?q=25+MW) | N/A |
-| 41 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 42 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 43 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 44 | [Maddens](http://twitter.com/search?q=Maddens) | N/A |
-| 45 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 46 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 47 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 48 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 49 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 50 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 12 | [Tijl](http://twitter.com/search?q=Tijl) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Tinne](http://twitter.com/search?q=Tinne) | N/A |
+| 15 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 18 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 21 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 22 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 23 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 24 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 25 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 26 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 27 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 28 | [25 MW](http://twitter.com/search?q=25+MW) | N/A |
+| 29 | [Seraing](http://twitter.com/search?q=Seraing) | N/A |
+| 30 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 31 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 32 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 33 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 36 | [Beerschot](http://twitter.com/search?q=Beerschot) | N/A |
+| 37 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 38 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 39 | [Fluvius](http://twitter.com/search?q=Fluvius) | N/A |
+| 40 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 41 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 42 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
+| 43 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 44 | [STVV](http://twitter.com/search?q=STVV) | N/A |
+| 45 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 46 | [Batterijen](http://twitter.com/search?q=Batterijen) | N/A |
+| 47 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
+| 48 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 49 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 50 | [Circle](http://twitter.com/search?q=Circle) | N/A |
 
 
 

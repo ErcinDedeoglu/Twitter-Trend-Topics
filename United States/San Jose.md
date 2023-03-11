@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-11 20:16:53 UTC`
+📆 Last Updated: `2023-03-11 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 2 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 1 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
+| 2 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 3 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 5 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 6 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 6 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
 | 7 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
 | 8 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 9 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 10 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 11 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 9 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 10 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 11 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
 | 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 13 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 14 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
-| 15 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 17 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 18 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 19 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 20 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 21 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 22 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 24 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 25 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 26 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 27 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 28 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 29 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 30 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 31 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 32 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 33 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 34 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 35 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 36 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 37 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 38 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 39 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 40 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 41 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 42 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 43 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 44 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 45 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
+| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 14 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 15 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 16 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 17 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 18 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 19 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 20 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 21 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 22 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 23 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 24 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
+| 25 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 26 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 27 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 28 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 29 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 30 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 31 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 32 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 33 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 34 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 35 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 36 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 37 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 38 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 39 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 40 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
+| 41 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 42 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 43 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 44 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
+| 45 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
 | 46 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 47 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 48 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 49 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 47 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
+| 48 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 49 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
 
 
 

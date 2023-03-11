@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-11 20:16:56 UTC`
+📆 Last Updated: `2023-03-11 21:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 2 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 3 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 5 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 6 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 7 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 8 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
-| 9 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 10 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
+| 2 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 3 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 4 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 5 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 6 | [#MUNDIALBÉISBOLxWIN](http://twitter.com/search?q=%23MUNDIALB%c3%89ISBOLxWIN) | N/A |
+| 7 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 8 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 9 | [#hacefalta](http://twitter.com/search?q=%23hacefalta) | N/A |
+| 10 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
 | 11 | [#MiPrestoShake](http://twitter.com/search?q=%23MiPrestoShake) | N/A |
-| 12 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 13 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
-| 14 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 15 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 18 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 22 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
-| 23 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 24 | [Bobolivar](http://twitter.com/search?q=Bobolivar) | N/A |
-| 25 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
-| 28 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
-| 29 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 30 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
-| 31 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 33 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 34 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 35 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 36 | [Nicolasito](http://twitter.com/search?q=Nicolasito) | N/A |
-| 37 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 38 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 39 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 40 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 41 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 42 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 43 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 44 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
-| 45 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 46 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 47 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 48 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 49 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 13 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 16 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 17 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
+| 18 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 19 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
+| 20 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 24 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 25 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 26 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
+| 27 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 28 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 29 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 32 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 33 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 34 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 35 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 36 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 37 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 38 | [Nicolasito](http://twitter.com/search?q=Nicolasito) | N/A |
+| 39 | [Venga](http://twitter.com/search?q=Venga) | N/A |
+| 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 41 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 43 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 44 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 45 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 46 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 47 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
+| 48 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 49 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 50 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
 
 
 

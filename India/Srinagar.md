@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-11 20:16:42 UTC`
+📆 Last Updated: `2023-03-11 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
-| 2 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 3 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
-| 4 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 5 | [#SwatiMaliwal](http://twitter.com/search?q=%23SwatiMaliwal) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 8 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 9 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
-| 10 | [चाचा चौधरी](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 13 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 16 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
-| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 18 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 20 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
-| 21 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 23 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 24 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
-| 25 | [Gujarati](http://twitter.com/search?q=Gujarati) | N/A |
-| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 27 | [Language](http://twitter.com/search?q=Language) | N/A |
-| 28 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 29 | [Lalu](http://twitter.com/search?q=Lalu) | N/A |
-| 30 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 31 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 32 | [Chara](http://twitter.com/search?q=Chara) | N/A |
-| 33 | [Janta](http://twitter.com/search?q=Janta) | N/A |
-| 34 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 35 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 36 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
-| 37 | [#YSRCPFormationDay](http://twitter.com/search?q=%23YSRCPFormationDay) | N/A |
-| 38 | [#ShibariumBETA](http://twitter.com/search?q=%23ShibariumBETA) | N/A |
-| 39 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 40 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 41 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
-| 42 | [#DCvsGG](http://twitter.com/search?q=%23DCvsGG) | N/A |
-| 43 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
-| 44 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
-| 45 | [#LLCT20](http://twitter.com/search?q=%23LLCT20) | N/A |
-| 46 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
-| 47 | [#KeyToAchievement](http://twitter.com/search?q=%23KeyToAchievement) | N/A |
-| 48 | [#stopHindiImposition](http://twitter.com/search?q=%23stopHindiImposition) | N/A |
-| 49 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
+| 1 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 2 | [#WinGalaxyS23Ultra](http://twitter.com/search?q=%23WinGalaxyS23Ultra) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 5 | [#ISupportManishKasyap](http://twitter.com/search?q=%23ISupportManishKasyap) | N/A |
+| 6 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 7 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 8 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
+| 9 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
+| 14 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 15 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 16 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 17 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 18 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
+| 19 | [1 year of the kashmir files](http://twitter.com/search?q=1+year+of+the+kashmir+files) | N/A |
+| 20 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 21 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 22 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 23 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 24 | [Cow Should Be National Animal](http://twitter.com/search?q=Cow+Should+Be+National+Animal) | N/A |
+| 25 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 26 | [Gau Sewa](http://twitter.com/search?q=Gau+Sewa) | N/A |
+| 27 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
+| 28 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 29 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 30 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
+| 31 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 32 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 33 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 34 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 35 | [चाचा चौधरी](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 37 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 38 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 40 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 41 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 42 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 43 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 44 | [BRACE YOURSELF](http://twitter.com/search?q=BRACE+YOURSELF) | N/A |
+| 45 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 46 | [A. Green](http://twitter.com/search?q=A.+Green) | N/A |
+| 47 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 48 | [B. Phantom Black](http://twitter.com/search?q=B.+Phantom+Black) | N/A |
+| 49 | [B. Android 13 with OneUI 5.1](http://twitter.com/search?q=B.+Android+13+with+OneUI+5.1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-11 20:16:21 UTC`
+📆 Last Updated: `2023-03-11 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 2 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 3 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 4 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 5 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 6 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 7 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 8 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 9 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 10 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 11 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 12 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 13 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 2 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 3 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 5 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 6 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 7 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 8 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 9 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 10 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
+| 11 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 12 | [Henning](http://twitter.com/search?q=Henning) | N/A |
+| 13 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
 | 14 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 15 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 16 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
-| 17 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 18 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 19 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 20 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 21 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 15 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 16 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 17 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 18 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 19 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
+| 20 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 21 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
 | 22 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 23 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 24 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
-| 25 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 23 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 24 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 25 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
 | 26 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 27 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 28 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
+| 27 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 28 | [Malen](http://twitter.com/search?q=Malen) | N/A |
 | 29 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 30 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 31 | [Tsunamis](http://twitter.com/search?q=Tsunamis) | N/A |
-| 32 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 33 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
-| 34 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 35 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 36 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 37 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 38 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 39 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 40 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 41 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 42 | [Zugriff](http://twitter.com/search?q=Zugriff) | N/A |
-| 43 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 44 | [#F95FCH](http://twitter.com/search?q=%23F95FCH) | N/A |
-| 45 | [#SkyNextGeneration](http://twitter.com/search?q=%23SkyNextGeneration) | N/A |
-| 46 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 30 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
+| 31 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 32 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 33 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
+| 34 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 35 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 36 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 37 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 38 | [#quizchampion](http://twitter.com/search?q=%23quizchampion) | N/A |
+| 39 | [#F95FCH](http://twitter.com/search?q=%23F95FCH) | N/A |
+| 40 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
+| 41 | [#SkyNextGeneration](http://twitter.com/search?q=%23SkyNextGeneration) | N/A |
+| 42 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 43 | [#Wirhabenmitgemacht](http://twitter.com/search?q=%23Wirhabenmitgemacht) | N/A |
+| 44 | [#Volksverpetzer](http://twitter.com/search?q=%23Volksverpetzer) | N/A |
+| 45 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
+| 46 | [#BSCM05](http://twitter.com/search?q=%23BSCM05) | N/A |
 | 47 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
-| 48 | [#Volksverpetzer](http://twitter.com/search?q=%23Volksverpetzer) | N/A |
-| 49 | [#Wirhabenmitgemacht](http://twitter.com/search?q=%23Wirhabenmitgemacht) | N/A |
+| 48 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
+| 49 | [#Fukushima](http://twitter.com/search?q=%23Fukushima) | N/A |
 
 
 

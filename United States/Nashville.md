@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-11 20:16:51 UTC`
+📆 Last Updated: `2023-03-11 21:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 2 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 3 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 6 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 7 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 8 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 1 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 2 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 3 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 4 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 5 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 6 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
 | 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 11 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 14 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 15 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 16 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 17 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 18 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 19 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 20 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 21 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 22 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 23 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 24 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 25 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 26 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 27 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 28 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 29 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 30 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 31 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 32 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 33 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 34 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 35 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 36 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 37 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 38 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 39 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 40 | [Sears](http://twitter.com/search?q=Sears) | N/A |
-| 41 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 42 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
-| 43 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 44 | [Coach Grant](http://twitter.com/search?q=Coach+Grant) | N/A |
-| 45 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 46 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 47 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 10 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 11 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
+| 12 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 13 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 15 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 16 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 17 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 18 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 19 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 20 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 21 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 22 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 23 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 24 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 25 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 26 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 27 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
+| 28 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 29 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 30 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 31 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
+| 32 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 33 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 34 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
+| 35 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 36 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 37 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 38 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 39 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 40 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
+| 41 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 42 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 43 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 44 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 45 | [Mahtomedi](http://twitter.com/search?q=Mahtomedi) | N/A |
+| 46 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 47 | [Parker Meadows](http://twitter.com/search?q=Parker+Meadows) | N/A |
+| 48 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 49 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 50 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
 
 
 
