@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-11 11:16:16 UTC`
+📆 Last Updated: `2023-03-11 12:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 2 | [#ASCL2023](http://twitter.com/search?q=%23ASCL2023) | N/A |
-| 3 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 4 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 5 | [Majority](http://twitter.com/search?q=Majority) | N/A |
-| 6 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
-| 7 | [Impartiality](http://twitter.com/search?q=Impartiality) | N/A |
-| 8 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
-| 9 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 10 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 11 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 12 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 13 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 16 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
-| 17 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 18 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 20 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 21 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 22 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 23 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 24 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 25 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 26 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
-| 27 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 28 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
-| 29 | [Mols](http://twitter.com/search?q=Mols) | N/A |
-| 30 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 31 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
-| 32 | [Fern](http://twitter.com/search?q=Fern) | N/A |
-| 33 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 34 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 36 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 39 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 40 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
-| 41 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 42 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 43 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 44 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
-| 45 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
-| 46 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 47 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 48 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 49 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 50 | [Toby Young](http://twitter.com/search?q=Toby+Young) | N/A |
+| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 3 | [Bournemouth vs Liverpool](http://twitter.com/search?q=Bournemouth+vs+Liverpool) | N/A |
+| 4 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 5 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 6 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 7 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
+| 8 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 9 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 10 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
+| 11 | [Politics](http://twitter.com/search?q=Politics) | N/A |
+| 12 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 13 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 14 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 15 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
+| 16 | [Robbie Gibb](http://twitter.com/search?q=Robbie+Gibb) | N/A |
+| 17 | [Majority](http://twitter.com/search?q=Majority) | N/A |
+| 18 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 19 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 20 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 21 | [#furyusyk](http://twitter.com/search?q=%23furyusyk) | N/A |
+| 22 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 23 | [Alastair Campbell](http://twitter.com/search?q=Alastair+Campbell) | N/A |
+| 24 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 25 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
+| 26 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 27 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 29 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 30 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 31 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 32 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
+| 33 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
+| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 35 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 36 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 37 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
+| 38 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 39 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 40 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 41 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 42 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 43 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 45 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 46 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 47 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 48 | [fern](http://twitter.com/search?q=fern) | N/A |
+| 49 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 50 | [Mols](http://twitter.com/search?q=Mols) | N/A |
 
 
 

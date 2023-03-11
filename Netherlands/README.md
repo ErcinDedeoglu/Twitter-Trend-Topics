@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-11 11:17:06 UTC`
+📆 Last Updated: `2023-03-11 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Netherlands
 | 1 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
 | 2 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
 | 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 4 | [#shafey](http://twitter.com/search?q=%23shafey) | N/A |
-| 5 | [#sneeuw](http://twitter.com/search?q=%23sneeuw) | N/A |
-| 6 | [#nossport](http://twitter.com/search?q=%23nossport) | N/A |
-| 7 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 10 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 11 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 12 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 13 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
-| 14 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 15 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 16 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 17 | [Stekkerrijders](http://twitter.com/search?q=Stekkerrijders) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 20 | [radicale](http://twitter.com/search?q=radicale) | N/A |
-| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 22 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 23 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
-| 24 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
-| 25 | [pim lammers](http://twitter.com/search?q=pim+lammers) | N/A |
-| 26 | [zorgpremie](http://twitter.com/search?q=zorgpremie) | N/A |
-| 27 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 28 | [AFGELAST](http://twitter.com/search?q=AFGELAST) | N/A |
-| 29 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 30 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 31 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 32 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 33 | [Trekkers](http://twitter.com/search?q=Trekkers) | N/A |
-| 34 | [Thierry Baudet](http://twitter.com/search?q=Thierry+Baudet) | N/A |
-| 35 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 36 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
-| 37 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
-| 38 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 39 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
-| 40 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
-| 41 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
-| 42 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 43 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 44 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 45 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 46 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 47 | [Landverraders](http://twitter.com/search?q=Landverraders) | N/A |
-| 48 | [Waalwijk](http://twitter.com/search?q=Waalwijk) | N/A |
-| 49 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 50 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 4 | [#nossport](http://twitter.com/search?q=%23nossport) | N/A |
+| 5 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 7 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 8 | [#rEDNL23](http://twitter.com/search?q=%23rEDNL23) | N/A |
+| 9 | [#GAErkc](http://twitter.com/search?q=%23GAErkc) | N/A |
+| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 11 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 12 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 13 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 14 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Stekkerrijders](http://twitter.com/search?q=Stekkerrijders) | N/A |
+| 17 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 19 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 20 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
+| 23 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 24 | [AFGELAST](http://twitter.com/search?q=AFGELAST) | N/A |
+| 25 | [MORES](http://twitter.com/search?q=MORES) | N/A |
+| 26 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 27 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 28 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
+| 29 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
+| 30 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 31 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 32 | [lekkerkerk](http://twitter.com/search?q=lekkerkerk) | N/A |
+| 33 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 34 | [truste](http://twitter.com/search?q=truste) | N/A |
+| 35 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 36 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 37 | [Roda](http://twitter.com/search?q=Roda) | N/A |
+| 38 | [Radicale](http://twitter.com/search?q=Radicale) | N/A |
+| 39 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 40 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 41 | [Haga](http://twitter.com/search?q=Haga) | N/A |
+| 42 | [Tuig](http://twitter.com/search?q=Tuig) | N/A |
+| 43 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
+| 44 | [Kamphuis](http://twitter.com/search?q=Kamphuis) | N/A |
+| 45 | [Elly](http://twitter.com/search?q=Elly) | N/A |
+| 46 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 47 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 48 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 49 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 50 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
 
 
 

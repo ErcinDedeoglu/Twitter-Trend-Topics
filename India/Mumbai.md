@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-03-11 11:16:51 UTC`
+📆 Last Updated: `2023-03-11 12:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PunjabDoesntWantAmritpal](http://twitter.com/search?q=%23PunjabDoesntWantAmritpal) | N/A |
-| 2 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
-| 5 | [#GalaxyS23Ultragiveaway](http://twitter.com/search?q=%23GalaxyS23Ultragiveaway) | N/A |
-| 6 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 7 | [BRACE YOURSELF](http://twitter.com/search?q=BRACE+YOURSELF) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 10 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
-| 11 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 12 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 13 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 14 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
-| 15 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 16 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
-| 17 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 18 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 19 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 20 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
-| 21 | [1 Year Of The Kashmir Files](http://twitter.com/search?q=1+Year+Of+The+Kashmir+Files) | N/A |
-| 22 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 23 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 24 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 25 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 26 | [विश्वकर्मा योजना](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 27 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 28 | [विश्वकर्मा कौशल](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2) | N/A |
+| 1 | [#bordergavaskartrophy](http://twitter.com/search?q=%23bordergavaskartrophy) | N/A |
+| 2 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
+| 3 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
+| 6 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 7 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 8 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 9 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
+| 10 | [BRACE YOURSELF](http://twitter.com/search?q=BRACE+YOURSELF) | N/A |
+| 11 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 12 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 13 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 15 | [ADAS](http://twitter.com/search?q=ADAS) | N/A |
+| 16 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 17 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 18 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
+| 19 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 20 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 21 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 22 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
+| 23 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
+| 24 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 25 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 26 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 27 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 28 | [Loki](http://twitter.com/search?q=Loki) | N/A |
 | 29 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 31 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 32 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 33 | [Century](http://twitter.com/search?q=Century) | N/A |
-| 34 | [Akhilesh](http://twitter.com/search?q=Akhilesh) | N/A |
-| 35 | [धर्मवीर छत्रपति](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 36 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 37 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
-| 38 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
-| 39 | [Flat](http://twitter.com/search?q=Flat) | N/A |
-| 40 | [ED CBI](http://twitter.com/search?q=ED+CBI) | N/A |
-| 41 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
-| 42 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 43 | [#Thalapathy](http://twitter.com/search?q=%23Thalapathy) | N/A |
-| 44 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
-| 45 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 46 | [#VikasPurushDevendra](http://twitter.com/search?q=%23VikasPurushDevendra) | N/A |
+| 30 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 31 | [1 Year Of The Kashmir Files](http://twitter.com/search?q=1+Year+Of+The+Kashmir+Files) | N/A |
+| 32 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
+| 34 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 35 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 36 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 37 | [ED CBI](http://twitter.com/search?q=ED+CBI) | N/A |
+| 38 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 39 | [Akhilesh](http://twitter.com/search?q=Akhilesh) | N/A |
+| 40 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 41 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 42 | [Flat](http://twitter.com/search?q=Flat) | N/A |
+| 43 | [#PunjabDoesntWantAmritpal](http://twitter.com/search?q=%23PunjabDoesntWantAmritpal) | N/A |
+| 44 | [#Thalapathy](http://twitter.com/search?q=%23Thalapathy) | N/A |
+| 45 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
+| 46 | [#LokeshKanagaraj](http://twitter.com/search?q=%23LokeshKanagaraj) | N/A |
 | 47 | [#DasaraTrailer](http://twitter.com/search?q=%23DasaraTrailer) | N/A |
-| 48 | [#DholakiasOnPrime](http://twitter.com/search?q=%23DholakiasOnPrime) | N/A |
-| 49 | [#LokeshKanagaraj](http://twitter.com/search?q=%23LokeshKanagaraj) | N/A |
-| 50 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 48 | [#GalaxyS23Ultragiveaway](http://twitter.com/search?q=%23GalaxyS23Ultragiveaway) | N/A |
+| 49 | [#askstar](http://twitter.com/search?q=%23askstar) | N/A |
+| 50 | [#SwatiMaliwal](http://twitter.com/search?q=%23SwatiMaliwal) | N/A |
 
 
 

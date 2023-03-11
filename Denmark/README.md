@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-11 11:17:03 UTC`
+📆 Last Updated: `2023-03-11 12:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#obaab](http://twitter.com/search?q=%23obaab) | N/A |
-| 2 | [Lars Boje](http://twitter.com/search?q=Lars+Boje) | N/A |
-| 3 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
-| 4 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 5 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 6 | [pernille vermund](http://twitter.com/search?q=pernille+vermund) | N/A |
-| 7 | [viasat](http://twitter.com/search?q=viasat) | N/A |
-| 8 | [SKAT](http://twitter.com/search?q=SKAT) | N/A |
-| 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 10 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
-| 11 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
-| 12 | [Volbeat](http://twitter.com/search?q=Volbeat) | N/A |
-| 13 | [guldminen](http://twitter.com/search?q=guldminen) | N/A |
-| 14 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 15 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
-| 16 | [uanset](http://twitter.com/search?q=uanset) | N/A |
-| 17 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 18 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 19 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
-| 20 | [Saudi Arabien](http://twitter.com/search?q=Saudi+Arabien) | N/A |
-| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
-| 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 25 | [Thorborg](http://twitter.com/search?q=Thorborg) | N/A |
-| 26 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 27 | [Odense](http://twitter.com/search?q=Odense) | N/A |
-| 28 | [Folk](http://twitter.com/search?q=Folk) | N/A |
-| 29 | [hjørring](http://twitter.com/search?q=hj%c3%b8rring) | N/A |
-| 30 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
-| 31 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 32 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
-| 35 | [Fanafdelingen](http://twitter.com/search?q=Fanafdelingen) | N/A |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 40 | [Estland](http://twitter.com/search?q=Estland) | N/A |
-| 41 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
-| 42 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 43 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 44 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 45 | [David](http://twitter.com/search?q=David) | N/A |
-| 46 | [Ellemann](http://twitter.com/search?q=Ellemann) | N/A |
-| 47 | [stephanie lose](http://twitter.com/search?q=stephanie+lose) | N/A |
-| 48 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 49 | [Torben](http://twitter.com/search?q=Torben) | N/A |
-| 50 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
+| 2 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 3 | [Lars Boje](http://twitter.com/search?q=Lars+Boje) | N/A |
+| 4 | [viasat](http://twitter.com/search?q=viasat) | N/A |
+| 5 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 6 | [Skat](http://twitter.com/search?q=Skat) | N/A |
+| 7 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
+| 8 | [Mette](http://twitter.com/search?q=Mette) | N/A |
+| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [Folk](http://twitter.com/search?q=Folk) | N/A |
+| 11 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 12 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
+| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 14 | [Volbeat](http://twitter.com/search?q=Volbeat) | N/A |
+| 15 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 16 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
+| 17 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 19 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 20 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
+| 21 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
+| 22 | [odense](http://twitter.com/search?q=odense) | N/A |
+| 23 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 24 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
+| 25 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
+| 26 | [Drags](http://twitter.com/search?q=Drags) | N/A |
+| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 28 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 29 | [Husker](http://twitter.com/search?q=Husker) | N/A |
+| 30 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
+| 31 | [stephanie lose](http://twitter.com/search?q=stephanie+lose) | N/A |
+| 32 | [Børn](http://twitter.com/search?q=B%c3%b8rn) | N/A |
+| 33 | [Christiansø](http://twitter.com/search?q=Christians%c3%b8) | N/A |
+| 34 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
+| 35 | [Jamen](http://twitter.com/search?q=Jamen) | N/A |
+| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 37 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Covid-19](http://twitter.com/search?q=Covid-19) | N/A |
+| 40 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
+| 41 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 42 | [Østerbro](http://twitter.com/search?q=%c3%98sterbro) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 45 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 46 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 47 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
+| 48 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 49 | [Håber](http://twitter.com/search?q=H%c3%a5ber) | N/A |
+| 50 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
 
 
 

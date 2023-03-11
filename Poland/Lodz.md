@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-11 11:16:27 UTC`
+📆 Last Updated: `2023-03-11 12:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 5 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
-| 6 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
-| 7 | [Zdrowia](http://twitter.com/search?q=Zdrowia) | N/A |
+| 5 | [#pogrom](http://twitter.com/search?q=%23pogrom) | N/A |
+| 6 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
+| 7 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
 | 8 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 9 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 13 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 14 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 15 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 16 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 17 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
-| 18 | [dnia mężczyzn](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzn) | N/A |
-| 19 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 20 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 9 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 11 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 12 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
+| 13 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 14 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 15 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 16 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 17 | [jan paweł ii](http://twitter.com/search?q=jan+pawe%c5%82+ii) | N/A |
+| 18 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 19 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
+| 20 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
 | 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 22 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 23 | [antonin hajek](http://twitter.com/search?q=antonin+hajek) | N/A |
-| 24 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
-| 25 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 26 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
-| 27 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 28 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 29 | [Otwarte](http://twitter.com/search?q=Otwarte) | N/A |
-| 30 | [Dnia Sołtysa](http://twitter.com/search?q=Dnia+So%c5%82tysa) | N/A |
-| 31 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 32 | [Łukaszenki](http://twitter.com/search?q=%c5%81ukaszenki) | N/A |
-| 33 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
-| 34 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
-| 35 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 36 | [yeboah](http://twitter.com/search?q=yeboah) | N/A |
-| 37 | [Polaków](http://twitter.com/search?q=Polak%c3%b3w) | N/A |
-| 38 | [Pieszy](http://twitter.com/search?q=Pieszy) | N/A |
-| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 40 | [drodzy panowie](http://twitter.com/search?q=drodzy+panowie) | N/A |
-| 41 | [chłopaki](http://twitter.com/search?q=ch%c5%82opaki) | N/A |
-| 42 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
-| 43 | [Toneya](http://twitter.com/search?q=Toneya) | N/A |
-| 44 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 45 | [Program](http://twitter.com/search?q=Program) | N/A |
-| 46 | [Poznaniu](http://twitter.com/search?q=Poznaniu) | N/A |
-| 47 | [norbi](http://twitter.com/search?q=norbi) | N/A |
-| 48 | [Różnica](http://twitter.com/search?q=R%c3%b3%c5%bcnica) | N/A |
+| 23 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 24 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
+| 25 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 26 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
+| 27 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 28 | [Wojtyłę](http://twitter.com/search?q=Wojty%c5%82%c4%99) | N/A |
+| 29 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 30 | [dnia sołtysa](http://twitter.com/search?q=dnia+so%c5%82tysa) | N/A |
+| 31 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 32 | [Ciekawa](http://twitter.com/search?q=Ciekawa) | N/A |
+| 33 | [Pieszy](http://twitter.com/search?q=Pieszy) | N/A |
+| 34 | [Cela](http://twitter.com/search?q=Cela) | N/A |
+| 35 | [Garaż](http://twitter.com/search?q=Gara%c5%bc) | N/A |
+| 36 | [Antek](http://twitter.com/search?q=Antek) | N/A |
+| 37 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 38 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 39 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 40 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 41 | [Masakra](http://twitter.com/search?q=Masakra) | N/A |
+| 42 | [Anka](http://twitter.com/search?q=Anka) | N/A |
+| 43 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
+| 44 | [Watykanu](http://twitter.com/search?q=Watykanu) | N/A |
+| 45 | [Germans](http://twitter.com/search?q=Germans) | N/A |
+| 46 | [krym](http://twitter.com/search?q=krym) | N/A |
+| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 48 | [Zapytaj](http://twitter.com/search?q=Zapytaj) | N/A |
 
 
 

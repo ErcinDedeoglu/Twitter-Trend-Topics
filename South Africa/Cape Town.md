@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-11 11:16:45 UTC`
+📆 Last Updated: `2023-03-11 12:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#hungrylikealion](http://twitter.com/search?q=%23hungrylikealion) | N/A |
-| 2 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
-| 3 | [#DebonairsDoubleMe](http://twitter.com/search?q=%23DebonairsDoubleMe) | N/A |
-| 4 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 5 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 6 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 7 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 8 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
-| 9 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
-| 10 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
-| 11 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 12 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
+| 1 | [#DebonairsDoubleMe](http://twitter.com/search?q=%23DebonairsDoubleMe) | N/A |
+| 2 | [#JazzInTheLights](http://twitter.com/search?q=%23JazzInTheLights) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 5 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
+| 6 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 7 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 8 | [Temba](http://twitter.com/search?q=Temba) | N/A |
+| 9 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
+| 10 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 11 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 12 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
 | 13 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 14 | [Temba](http://twitter.com/search?q=Temba) | N/A |
-| 15 | [Gcaleka](http://twitter.com/search?q=Gcaleka) | N/A |
-| 16 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 17 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 18 | [Harmer](http://twitter.com/search?q=Harmer) | N/A |
-| 19 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
-| 20 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 21 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 22 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 23 | [CREATIVE NELISA](http://twitter.com/search?q=CREATIVE+NELISA) | N/A |
-| 24 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
-| 25 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [DANCE WITH KHOSI](http://twitter.com/search?q=DANCE+WITH+KHOSI) | N/A |
-| 28 | [Arthur Fraser](http://twitter.com/search?q=Arthur+Fraser) | N/A |
-| 29 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
-| 30 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 31 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
-| 32 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
-| 33 | [Foschini](http://twitter.com/search?q=Foschini) | N/A |
-| 34 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 35 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 36 | [memory fusion](http://twitter.com/search?q=memory+fusion) | N/A |
-| 37 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 38 | [big battery](http://twitter.com/search?q=big+battery) | N/A |
-| 39 | [Concourt](http://twitter.com/search?q=Concourt) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 42 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 43 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 44 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
-| 45 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
-| 46 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 47 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 48 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
-| 49 | [big storage](http://twitter.com/search?q=big+storage) | N/A |
+| 14 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 15 | [Harmer](http://twitter.com/search?q=Harmer) | N/A |
+| 16 | [Foschini](http://twitter.com/search?q=Foschini) | N/A |
+| 17 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 18 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
+| 19 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
+| 20 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 21 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
+| 22 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 23 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
+| 24 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
+| 25 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 28 | [khosi never lies](http://twitter.com/search?q=khosi+never+lies) | N/A |
+| 29 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
+| 30 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
+| 31 | [Gcaleka](http://twitter.com/search?q=Gcaleka) | N/A |
+| 32 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 33 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 34 | [Brackenfell](http://twitter.com/search?q=Brackenfell) | N/A |
+| 35 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 36 | [CREATIVE NELISA](http://twitter.com/search?q=CREATIVE+NELISA) | N/A |
+| 37 | [DANCE WITH KHOSI](http://twitter.com/search?q=DANCE+WITH+KHOSI) | N/A |
+| 38 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
+| 39 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 40 | [Gerald Coetzee](http://twitter.com/search?q=Gerald+Coetzee) | N/A |
+| 41 | [Blacks](http://twitter.com/search?q=Blacks) | N/A |
+| 42 | [Blaq](http://twitter.com/search?q=Blaq) | N/A |
+| 43 | [Arthur Fraser](http://twitter.com/search?q=Arthur+Fraser) | N/A |
+| 44 | [Concourt](http://twitter.com/search?q=Concourt) | N/A |
+| 45 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 46 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 47 | [Queen B](http://twitter.com/search?q=Queen+B) | N/A |
+| 48 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
 
 
 

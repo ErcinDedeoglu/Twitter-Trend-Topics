@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-11 11:16:34 UTC`
+📆 Last Updated: `2023-03-11 12:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 2 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 3 | [Anmält](http://twitter.com/search?q=Anm%c3%a4lt) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 5 | [Stödet](http://twitter.com/search?q=St%c3%b6det) | N/A |
-| 6 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
-| 9 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 10 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 11 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 1 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 2 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
+| 7 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 8 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 9 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
+| 10 | [Stödet](http://twitter.com/search?q=St%c3%b6det) | N/A |
+| 11 | [Melodifestivalen](http://twitter.com/search?q=Melodifestivalen) | N/A |
 | 12 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 13 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 14 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 15 | [Jörgen](http://twitter.com/search?q=J%c3%b6rgen) | N/A |
-| 16 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 17 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
-| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 19 | [Sannolikt](http://twitter.com/search?q=Sannolikt) | N/A |
-| 20 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 21 | [vänner](http://twitter.com/search?q=v%c3%a4nner) | N/A |
-| 22 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
-| 23 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
-| 24 | [Rasmus Paludan](http://twitter.com/search?q=Rasmus+Paludan) | Rasmus Paludan is a Danish lawyer and political activist. He is the leader of the far-right political party Stram Kurs (Hard Line). The name Rasmus Paludan is derived from the Danish words for "marsh" and "pond," which together mean "marsh pond." |
-| 25 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 26 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
-| 27 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 28 | [Jehovas](http://twitter.com/search?q=Jehovas) | N/A |
-| 29 | [Krya](http://twitter.com/search?q=Krya) | N/A |
-| 30 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 31 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
-| 32 | [Göran Persson](http://twitter.com/search?q=G%c3%b6ran+Persson) | N/A |
-| 33 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 34 | [Poya](http://twitter.com/search?q=Poya) | N/A |
-| 35 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 36 | [#MyTwitterAnniversary](http://twitter.com/search?q=%23MyTwitterAnniversary) | N/A |
-| 37 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 38 | [Frågar](http://twitter.com/search?q=Fr%c3%a5gar) | N/A |
-| 39 | [Snusk](http://twitter.com/search?q=Snusk) | N/A |
-| 40 | [Sömn](http://twitter.com/search?q=S%c3%b6mn) | N/A |
-| 41 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 42 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 43 | [#DIFHockey](http://twitter.com/search?q=%23DIFHockey) | N/A |
-| 44 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 45 | [Finlandsfärja](http://twitter.com/search?q=Finlandsf%c3%a4rja) | N/A |
-| 46 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 47 | [Elbilar](http://twitter.com/search?q=Elbilar) | N/A |
-| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 13 | [anmält](http://twitter.com/search?q=anm%c3%a4lt) | N/A |
+| 14 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
+| 15 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 16 | [Limhamn](http://twitter.com/search?q=Limhamn) | N/A |
+| 17 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
+| 18 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 19 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
+| 20 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
+| 21 | [förutom](http://twitter.com/search?q=f%c3%b6rutom) | N/A |
+| 22 | [Skrämmande](http://twitter.com/search?q=Skr%c3%a4mmande) | N/A |
+| 23 | [Jörgen](http://twitter.com/search?q=J%c3%b6rgen) | N/A |
+| 24 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 25 | [Fortfarande](http://twitter.com/search?q=Fortfarande) | N/A |
+| 26 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 27 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 28 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 29 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 30 | [#innebandy](http://twitter.com/search?q=%23innebandy) | N/A |
+| 31 | [#difhockey](http://twitter.com/search?q=%23difhockey) | N/A |
+| 32 | [trevlig](http://twitter.com/search?q=trevlig) | N/A |
+| 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 34 | [Förklara](http://twitter.com/search?q=F%c3%b6rklara) | N/A |
+| 35 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
+| 36 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 38 | [David Ritschard](http://twitter.com/search?q=David+Ritschard) | N/A |
+| 39 | [Muslimer](http://twitter.com/search?q=Muslimer) | N/A |
+| 40 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 41 | [Almtuna](http://twitter.com/search?q=Almtuna) | N/A |
+| 42 | [dricker](http://twitter.com/search?q=dricker) | N/A |
+| 43 | [Sannolikt](http://twitter.com/search?q=Sannolikt) | N/A |
+| 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 45 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 46 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 47 | [Jobb](http://twitter.com/search?q=Jobb) | N/A |
+| 48 | [Gais](http://twitter.com/search?q=Gais) | N/A |
 
 
 

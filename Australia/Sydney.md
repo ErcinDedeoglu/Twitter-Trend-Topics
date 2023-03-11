@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-11 11:16:36 UTC`
+📆 Last Updated: `2023-03-11 12:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
-| 2 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
-| 3 | [#NEWvADL](http://twitter.com/search?q=%23NEWvADL) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 5 | [#proudtobeabulldog](http://twitter.com/search?q=%23proudtobeabulldog) | N/A |
-| 6 | [#NRLRoostersWarriors](http://twitter.com/search?q=%23NRLRoostersWarriors) | N/A |
-| 7 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 1 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
+| 2 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#nrlroosterswarriors](http://twitter.com/search?q=%23nrlroosterswarriors) | N/A |
+| 5 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
+| 6 | [#NEWvADL](http://twitter.com/search?q=%23NEWvADL) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 13 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
-| 14 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
-| 15 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 16 | [Ricky Stuart](http://twitter.com/search?q=Ricky+Stuart) | N/A |
-| 17 | [Redcliffe](http://twitter.com/search?q=Redcliffe) | N/A |
-| 18 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 19 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 20 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
-| 21 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 22 | [Doggies](http://twitter.com/search?q=Doggies) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
-| 25 | [Hudson Young](http://twitter.com/search?q=Hudson+Young) | N/A |
-| 26 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 27 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 28 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 29 | [CAM GREEN](http://twitter.com/search?q=CAM+GREEN) | N/A |
-| 30 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 31 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
-| 32 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
-| 33 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 34 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 35 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 36 | [Timoko](http://twitter.com/search?q=Timoko) | N/A |
-| 37 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 38 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 39 | [REVOLUTIONARY MISS](http://twitter.com/search?q=REVOLUTIONARY+MISS) | N/A |
-| 40 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 41 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 42 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 43 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 44 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 45 | [Craig Goodwin](http://twitter.com/search?q=Craig+Goodwin) | N/A |
-| 46 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 47 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 48 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
-| 49 | [Rick Morton](http://twitter.com/search?q=Rick+Morton) | N/A |
-| 50 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 12 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
+| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 14 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 16 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 18 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 19 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 20 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 21 | [steel city](http://twitter.com/search?q=steel+city) | N/A |
+| 22 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 23 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 24 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 25 | [SANFL](http://twitter.com/search?q=SANFL) | N/A |
+| 26 | [Revolutionary Miss](http://twitter.com/search?q=Revolutionary+Miss) | N/A |
+| 27 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 28 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 29 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 30 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 31 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 32 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 33 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
+| 34 | [rick morton](http://twitter.com/search?q=rick+morton) | N/A |
+| 35 | [julia gillard](http://twitter.com/search?q=julia+gillard) | N/A |
+| 36 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 37 | [Port](http://twitter.com/search?q=Port) | N/A |
+| 38 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 39 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 40 | [What You Need](http://twitter.com/search?q=What+You+Need) | N/A |
+| 41 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 42 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
+| 43 | [Jamie Kah](http://twitter.com/search?q=Jamie+Kah) | N/A |
+| 44 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 45 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 46 | [Espiona](http://twitter.com/search?q=Espiona) | N/A |
+| 47 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 48 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
+| 49 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
+| 50 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
 
 
 

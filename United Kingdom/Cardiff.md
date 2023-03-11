@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-11 11:16:17 UTC`
+📆 Last Updated: `2023-03-11 12:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 2 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
 | 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 4 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
 | 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 6 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 8 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 9 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 10 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 11 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 12 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 13 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
-| 14 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 15 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
-| 16 | [Mols](http://twitter.com/search?q=Mols) | N/A |
-| 17 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 18 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
-| 19 | [Fern](http://twitter.com/search?q=Fern) | N/A |
-| 20 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 21 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 22 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 23 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 26 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 27 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
-| 28 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 29 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 30 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 31 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
-| 32 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
-| 33 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 34 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 35 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 36 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 37 | [Toby Young](http://twitter.com/search?q=Toby+Young) | N/A |
-| 38 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
-| 39 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 40 | [Steele](http://twitter.com/search?q=Steele) | N/A |
-| 41 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
-| 42 | [Alastair Campbell](http://twitter.com/search?q=Alastair+Campbell) | N/A |
-| 43 | [Soccer Saturday](http://twitter.com/search?q=Soccer+Saturday) | N/A |
-| 44 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 45 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 46 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
-| 47 | [Garry](http://twitter.com/search?q=Garry) | N/A |
-| 48 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 6 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 7 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 8 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 9 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 12 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 13 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
+| 14 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 16 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 17 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 18 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 19 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 20 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 21 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 22 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 23 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 24 | [Fern](http://twitter.com/search?q=Fern) | N/A |
+| 25 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 26 | [Mols](http://twitter.com/search?q=Mols) | N/A |
+| 27 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 28 | [Bristol Rovers](http://twitter.com/search?q=Bristol+Rovers) | N/A |
+| 29 | [Bournemouth vs Liverpool](http://twitter.com/search?q=Bournemouth+vs+Liverpool) | N/A |
+| 30 | [5 Live](http://twitter.com/search?q=5+Live) | N/A |
+| 31 | [Joey Barton](http://twitter.com/search?q=Joey+Barton) | N/A |
+| 32 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
+| 33 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
+| 34 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 36 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 37 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 38 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 39 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
+| 40 | [Welsh Labour](http://twitter.com/search?q=Welsh+Labour) | N/A |
+| 41 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 42 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
+| 43 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
+| 44 | [Toby Young](http://twitter.com/search?q=Toby+Young) | N/A |
+| 45 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 46 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 47 | [Batley](http://twitter.com/search?q=Batley) | N/A |
+| 48 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
 
 
 

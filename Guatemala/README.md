@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-11 11:17:04 UTC`
+📆 Last Updated: `2023-03-11 12:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [gloria x dennis](http://twitter.com/search?q=gloria+x+dennis) | N/A |
+| 1 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 2 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 3 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 4 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 5 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
-| 6 | [#guateesvida](http://twitter.com/search?q=%23guateesvida) | N/A |
-| 7 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 8 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 9 | [#siguelamusica](http://twitter.com/search?q=%23siguelamusica) | N/A |
-| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 11 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 12 | [California](http://twitter.com/search?q=California) | N/A |
-| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 14 | [#Cuaresma2023](http://twitter.com/search?q=%23Cuaresma2023) | N/A |
-| 15 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 16 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
-| 17 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 18 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 19 | [Cristo del Amor](http://twitter.com/search?q=Cristo+del+Amor) | N/A |
-| 20 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 21 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 22 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 23 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 24 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [#diainternacionaldelamujer](http://twitter.com/search?q=%23diainternacionaldelamujer) | N/A |
+| 4 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 5 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 6 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 7 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
+| 8 | [Xela](http://twitter.com/search?q=Xela) | N/A |
+| 9 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
+| 10 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 11 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 12 | [Cristo del Amor](http://twitter.com/search?q=Cristo+del+Amor) | N/A |
+| 13 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [#siguelamusica](http://twitter.com/search?q=%23siguelamusica) | N/A |
+| 16 | [Preciosa](http://twitter.com/search?q=Preciosa) | N/A |
+| 17 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 18 | [Leonel Rodas](http://twitter.com/search?q=Leonel+Rodas) | N/A |
+| 19 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 20 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 21 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 22 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 23 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
+| 24 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 27 | [Provida](http://twitter.com/search?q=Provida) | N/A |
-| 28 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 29 | [kimetsu](http://twitter.com/search?q=kimetsu) | N/A |
-| 30 | [Amamos](http://twitter.com/search?q=Amamos) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [jovenas](http://twitter.com/search?q=jovenas) | N/A |
-| 33 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
-| 34 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 35 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 36 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 37 | [Mineduc](http://twitter.com/search?q=Mineduc) | N/A |
-| 38 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | N/A |
-| 39 | [mazatenango](http://twitter.com/search?q=mazatenango) | N/A |
-| 40 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
-| 41 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 43 | [esquipulas](http://twitter.com/search?q=esquipulas) | N/A |
-| 44 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
-| 45 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
-| 46 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 47 | [EE. UU.](http://twitter.com/search?q=EE.+UU.) | N/A |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [thelma aldana](http://twitter.com/search?q=thelma+aldana) | N/A |
-| 50 | [Sisoy](http://twitter.com/search?q=Sisoy) | N/A |
+| 27 | [santo domingo](http://twitter.com/search?q=santo+domingo) | N/A |
+| 28 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 29 | [mazatenango](http://twitter.com/search?q=mazatenango) | N/A |
+| 30 | [Mineduc](http://twitter.com/search?q=Mineduc) | N/A |
+| 31 | [jovenas](http://twitter.com/search?q=jovenas) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [ProVida](http://twitter.com/search?q=ProVida) | N/A |
+| 34 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 35 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 36 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 37 | [interamericana](http://twitter.com/search?q=interamericana) | N/A |
+| 38 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
+| 39 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 40 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 42 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 43 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 44 | [Canela](http://twitter.com/search?q=Canela) | N/A |
+| 45 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 46 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 47 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 48 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 50 | [San Lucas](http://twitter.com/search?q=San+Lucas) | N/A |
 
 
 

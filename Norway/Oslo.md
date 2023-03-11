@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-11 11:16:34 UTC`
+📆 Last Updated: `2023-03-11 12:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Kollen](http://twitter.com/search?q=Kollen) | N/A |
 | 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
-| 5 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 4 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 5 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 6 | [England](http://twitter.com/search?q=England) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 8 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 9 | [Tøyen](http://twitter.com/search?q=T%c3%b8yen) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 12 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 14 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 16 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 17 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 18 | [#GW27](http://twitter.com/search?q=%23GW27) | N/A |
-| 19 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 21 | [Basse](http://twitter.com/search?q=Basse) | N/A |
-| 22 | [Noreg](http://twitter.com/search?q=Noreg) | N/A |
-| 23 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
-| 26 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
-| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 28 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 30 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
-| 31 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 32 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 33 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
-| 34 | [NTNU](http://twitter.com/search?q=NTNU) | N/A |
-| 35 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 36 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 38 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
-| 39 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 40 | [I USA](http://twitter.com/search?q=I+USA) | N/A |
-| 41 | [norge](http://twitter.com/search?q=norge) | N/A |
-| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 43 | [klart](http://twitter.com/search?q=klart) | N/A |
-| 44 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 45 | [Ethiopia](http://twitter.com/search?q=Ethiopia) | N/A |
-| 46 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 47 | [Green Mountain](http://twitter.com/search?q=Green+Mountain) | N/A |
-| 48 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 49 | [dagbladet](http://twitter.com/search?q=dagbladet) | N/A |
-| 50 | [bryne](http://twitter.com/search?q=bryne) | N/A |
+| 9 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 10 | [Tøyen](http://twitter.com/search?q=T%c3%b8yen) | N/A |
+| 11 | [#GW27](http://twitter.com/search?q=%23GW27) | N/A |
+| 12 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
+| 13 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 14 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
+| 15 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 16 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 17 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 18 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 19 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 21 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
+| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 24 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 25 | [Herlig](http://twitter.com/search?q=Herlig) | N/A |
+| 26 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 27 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 28 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
+| 29 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
+| 30 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 31 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 33 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 34 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 35 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 36 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 37 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 40 | [Virker](http://twitter.com/search?q=Virker) | N/A |
+| 41 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 42 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 43 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 44 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 45 | [prøv](http://twitter.com/search?q=pr%c3%b8v) | N/A |
+| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 47 | [German](http://twitter.com/search?q=German) | N/A |
+| 48 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 49 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 
