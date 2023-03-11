@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-11 19:18:17 UTC`
+📆 Last Updated: `2023-03-11 20:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
 | 2 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 3 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 4 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 5 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 8 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 9 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 11 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 12 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 13 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 14 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 17 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 18 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 19 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 20 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 21 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 22 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 23 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 24 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 25 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 26 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 27 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 29 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
-| 32 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 33 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 34 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 35 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 36 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 37 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 38 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 39 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 40 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 41 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 42 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 43 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 44 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 45 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 48 | [blonde soobin](http://twitter.com/search?q=blonde+soobin) | N/A |
-| 49 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 3 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 4 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 5 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 6 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 9 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 10 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 11 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 12 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 15 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 16 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 17 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 18 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 19 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 20 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 21 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 22 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 23 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 24 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 25 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 26 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 27 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 28 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 29 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 30 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 31 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 32 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 33 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 34 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 35 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 36 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 37 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
+| 38 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 39 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 40 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 41 | [Sears](http://twitter.com/search?q=Sears) | N/A |
+| 42 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 43 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 44 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 45 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
+| 46 | [Coach Grant](http://twitter.com/search?q=Coach+Grant) | N/A |
+| 47 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 48 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 49 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
 
 
 

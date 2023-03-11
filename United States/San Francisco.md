@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-11 19:18:22 UTC`
+📆 Last Updated: `2023-03-11 20:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mack](http://twitter.com/search?q=Mack) | N/A |
-| 2 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 3 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 4 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 5 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 6 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 8 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
-| 9 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 11 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 12 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 13 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 15 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 16 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 17 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 18 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
-| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 21 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 22 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 25 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 26 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 27 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 28 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 29 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 30 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 31 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 32 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 34 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 35 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 36 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
-| 37 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 38 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 40 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 41 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 42 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 43 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 44 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 45 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 46 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 47 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 48 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 49 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 50 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 5 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 6 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 7 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 8 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 9 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 10 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 11 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 13 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 14 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 15 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 17 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 18 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 19 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 20 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 21 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 22 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 23 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 24 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 26 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 27 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 28 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 29 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 30 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 31 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 32 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 33 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 34 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 35 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 36 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 37 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 38 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 39 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 40 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 41 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 42 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 43 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 44 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 45 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 46 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
+| 47 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 48 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 49 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 50 | [Sears](http://twitter.com/search?q=Sears) | N/A |
 
 
 

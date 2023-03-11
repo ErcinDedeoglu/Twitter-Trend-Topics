@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-11 19:18:11 UTC`
+📆 Last Updated: `2023-03-11 20:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#punjabdoesntwantamritpal](http://twitter.com/search?q=%23punjabdoesntwantamritpal) | N/A |
-| 2 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 3 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 4 | [#VikasPurushDevendra](http://twitter.com/search?q=%23VikasPurushDevendra) | N/A |
+| 2 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [#vikaspurushdevendra](http://twitter.com/search?q=%23vikaspurushdevendra) | N/A |
 | 5 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 6 | [चाचा चौधरी](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 7 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 8 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
-| 9 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 11 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
-| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 14 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 16 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 17 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 20 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
-| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 6 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 9 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 10 | [चाचा चौधरी](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 12 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 14 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 16 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 19 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 21 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
 | 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 23 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 24 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
-| 25 | [महिला आयोग](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 26 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 27 | [Lalu](http://twitter.com/search?q=Lalu) | N/A |
-| 28 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 29 | [Language](http://twitter.com/search?q=Language) | N/A |
-| 30 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 23 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 24 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 25 | [Gujarati](http://twitter.com/search?q=Gujarati) | N/A |
+| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 27 | [Language](http://twitter.com/search?q=Language) | N/A |
+| 28 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 29 | [Lalu](http://twitter.com/search?q=Lalu) | N/A |
+| 30 | [Sher](http://twitter.com/search?q=Sher) | N/A |
 | 31 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 32 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 33 | [Chara](http://twitter.com/search?q=Chara) | N/A |
-| 34 | [EVIL EYES OFF TEJRAN](http://twitter.com/search?q=EVIL+EYES+OFF+TEJRAN) | N/A |
-| 35 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 36 | [कपिल शर्मा](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 37 | [Janta](http://twitter.com/search?q=Janta) | N/A |
-| 38 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 39 | [Akhilesh](http://twitter.com/search?q=Akhilesh) | N/A |
-| 40 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 41 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
-| 42 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 43 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 44 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
-| 45 | [#SwatiMaliwal](http://twitter.com/search?q=%23SwatiMaliwal) | N/A |
-| 46 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
-| 47 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 48 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 49 | [#dcvsgg](http://twitter.com/search?q=%23dcvsgg) | N/A |
+| 32 | [Chara](http://twitter.com/search?q=Chara) | N/A |
+| 33 | [Janta](http://twitter.com/search?q=Janta) | N/A |
+| 34 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 35 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
+| 36 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
+| 37 | [#SwatiMaliwal](http://twitter.com/search?q=%23SwatiMaliwal) | N/A |
+| 38 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 39 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 40 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
+| 41 | [#YSRCPFormationDay](http://twitter.com/search?q=%23YSRCPFormationDay) | N/A |
+| 42 | [#ShibariumBETA](http://twitter.com/search?q=%23ShibariumBETA) | N/A |
+| 43 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 44 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 45 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 46 | [#DCvsGG](http://twitter.com/search?q=%23DCvsGG) | N/A |
+| 47 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 48 | [#DelhiCapitals](http://twitter.com/search?q=%23DelhiCapitals) | N/A |
+| 49 | [#LLCT20](http://twitter.com/search?q=%23LLCT20) | N/A |
 
 
 

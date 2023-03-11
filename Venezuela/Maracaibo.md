@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-11 19:17:45 UTC`
+📆 Last Updated: `2023-03-11 20:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
 | 3 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
 | 4 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 5 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 9 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 10 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 11 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Dr. José María Vargas](http://twitter.com/search?q=Dr.+Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
-| 14 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 15 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 16 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 18 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 20 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
-| 23 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 7 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 8 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 9 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 12 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 13 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 14 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
+| 15 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Graterolacho](http://twitter.com/search?q=Graterolacho) | N/A |
+| 18 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 22 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 23 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
 | 24 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 25 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 26 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 27 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 28 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 30 | [Selene](http://twitter.com/search?q=Selene) | N/A |
-| 31 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 32 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 33 | [juan josé landaeta](http://twitter.com/search?q=juan+jos%c3%a9+landaeta) | N/A |
-| 34 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 35 | [Gonzalo López Silvero](http://twitter.com/search?q=Gonzalo+L%c3%b3pez+Silvero) | N/A |
-| 36 | [Vicente Rosales](http://twitter.com/search?q=Vicente+Rosales) | N/A |
-| 37 | [Rocky Marciano](http://twitter.com/search?q=Rocky+Marciano) | N/A |
-| 38 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 39 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 40 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 41 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
-| 42 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 43 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 44 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 45 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 46 | [Simón Alberto Consalvi](http://twitter.com/search?q=Sim%c3%b3n+Alberto+Consalvi) | N/A |
-| 47 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 48 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
-| 49 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 25 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 26 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
+| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 28 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
+| 29 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 30 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 31 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 32 | [Gonzalo López Silvero](http://twitter.com/search?q=Gonzalo+L%c3%b3pez+Silvero) | N/A |
+| 33 | [Rocky Marciano](http://twitter.com/search?q=Rocky+Marciano) | N/A |
+| 34 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
+| 35 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 36 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 37 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 38 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 39 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
+| 40 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 41 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 42 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 43 | [Simón Alberto Consalvi](http://twitter.com/search?q=Sim%c3%b3n+Alberto+Consalvi) | N/A |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 46 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 47 | [Sistema Patria](http://twitter.com/search?q=Sistema+Patria) | N/A |
+| 48 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 49 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 
 
 

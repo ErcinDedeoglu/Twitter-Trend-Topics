@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-11 19:17:55 UTC`
+📆 Last Updated: `2023-03-11 20:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 3 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 5 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 8 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 9 | [#BE1103](http://twitter.com/search?q=%23BE1103) | N/A |
-| 10 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 11 | [#Ganser](http://twitter.com/search?q=%23Ganser) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 14 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 15 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 16 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 17 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 18 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 19 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 20 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 21 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 22 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 25 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 26 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 27 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
-| 28 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 29 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 30 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 31 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 32 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
-| 33 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 34 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 35 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 36 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
-| 37 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 38 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 39 | [Gemeinschaft](http://twitter.com/search?q=Gemeinschaft) | N/A |
-| 40 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 42 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 46 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 47 | [Patient](http://twitter.com/search?q=Patient) | N/A |
+| 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 4 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 5 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 6 | [#COVID](http://twitter.com/search?q=%23COVID) | N/A |
+| 7 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 9 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
+| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 12 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 13 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 16 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
+| 17 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 18 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 19 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 20 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 21 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 22 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 24 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 25 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 26 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 27 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 28 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 29 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 30 | [England](http://twitter.com/search?q=England) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 33 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 35 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 36 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 37 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 38 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 39 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 40 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 41 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 42 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 43 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 45 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 47 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
 
 
 

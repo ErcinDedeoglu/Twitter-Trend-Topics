@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-11 19:17:52 UTC`
+📆 Last Updated: `2023-03-11 20:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 2 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 3 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
-| 4 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 5 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
-| 6 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 7 | [#SkyNextGeneration](http://twitter.com/search?q=%23SkyNextGeneration) | N/A |
-| 8 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 9 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 10 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 11 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 12 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 13 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
-| 14 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
-| 15 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 16 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 17 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 18 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 19 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 20 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 21 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 22 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 23 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 24 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 25 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 26 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 27 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 28 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 29 | [#Derby](http://twitter.com/search?q=%23Derby) | N/A |
-| 30 | [#BSCM05](http://twitter.com/search?q=%23BSCM05) | N/A |
-| 31 | [#Wirhabenmitgemacht](http://twitter.com/search?q=%23Wirhabenmitgemacht) | N/A |
-| 32 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
-| 33 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 34 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 35 | [#Fukushima](http://twitter.com/search?q=%23Fukushima) | N/A |
-| 36 | [#DSCSVD](http://twitter.com/search?q=%23DSCSVD) | N/A |
-| 37 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 38 | [#wXw16Carat](http://twitter.com/search?q=%23wXw16Carat) | N/A |
-| 39 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 40 | [#fcspsgf](http://twitter.com/search?q=%23fcspsgf) | N/A |
-| 41 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 2 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 3 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 5 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 6 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 7 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 8 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 9 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 10 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 11 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 12 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 13 | [#F95FCH](http://twitter.com/search?q=%23F95FCH) | N/A |
+| 14 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
+| 15 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 16 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 17 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 18 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
+| 19 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 20 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 21 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 22 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
+| 23 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 24 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 25 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 26 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
+| 27 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 28 | [Tsunamis](http://twitter.com/search?q=Tsunamis) | N/A |
+| 29 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 30 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 31 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
+| 32 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
+| 33 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 34 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 35 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 36 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 37 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 38 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 39 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 40 | [Zugriff](http://twitter.com/search?q=Zugriff) | N/A |
+| 41 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 42 | [#SkyNextGeneration](http://twitter.com/search?q=%23SkyNextGeneration) | N/A |
+| 43 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 44 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
+| 45 | [#Volksverpetzer](http://twitter.com/search?q=%23Volksverpetzer) | N/A |
+| 46 | [#Wirhabenmitgemacht](http://twitter.com/search?q=%23Wirhabenmitgemacht) | N/A |
+| 47 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
+| 48 | [#BSCM05](http://twitter.com/search?q=%23BSCM05) | N/A |
+| 49 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 50 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
 
 
 

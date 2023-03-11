@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-11 19:18:19 UTC`
+📆 Last Updated: `2023-03-11 20:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Mack](http://twitter.com/search?q=Mack) | N/A |
-| 3 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 4 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 6 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 7 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 8 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 9 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
-| 10 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 13 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 14 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 16 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 17 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 18 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 19 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 22 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 23 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
-| 24 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 25 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 26 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 27 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 28 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 29 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 30 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 31 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 32 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 33 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 35 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 36 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 37 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
-| 38 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 39 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 40 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 41 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
-| 42 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 43 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 44 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 45 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 46 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 47 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 48 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 49 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 50 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 7 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 8 | [Mack](http://twitter.com/search?q=Mack) | N/A |
+| 9 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 10 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 11 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 12 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 13 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 14 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 17 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 18 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 19 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 20 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 21 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 22 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 23 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 24 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 25 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 26 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 27 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 28 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 29 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
+| 30 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 31 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 32 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 33 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 34 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 35 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 36 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 37 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 38 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 39 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 40 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 41 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 42 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 43 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 44 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 45 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 46 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 47 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 48 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 49 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 50 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
 
 
 

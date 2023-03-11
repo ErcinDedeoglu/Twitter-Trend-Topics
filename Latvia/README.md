@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-11 19:18:28 UTC`
+📆 Last Updated: `2023-03-11 20:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [kozins](http://twitter.com/search?q=kozins) | N/A |
-| 3 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 4 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 5 | [#OptibetVirsliga](http://twitter.com/search?q=%23OptibetVirsliga) | N/A |
-| 6 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 7 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
-| 8 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 9 | ["Karlsons"](http://twitter.com/search?q=%22Karlsons%22) | N/A |
-| 10 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
+| 1 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 2 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
+| 3 | [Visi](http://twitter.com/search?q=Visi) | N/A |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [Krievija](http://twitter.com/search?q=Krievija) | N/A |
+| 7 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 8 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 9 | [DAUDZ](http://twitter.com/search?q=DAUDZ) | N/A |
+| 10 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 11 | [#EuroLeague](http://twitter.com/search?q=%23EuroLeague) | N/A |
-| 12 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 13 | [vinnijs pūks](http://twitter.com/search?q=vinnijs+p%c5%abks) | N/A |
-| 14 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 15 | [progresīvo](http://twitter.com/search?q=progres%c4%abvo) | N/A |
-| 16 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 17 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
-| 18 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 19 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 20 | [Pieļauju](http://twitter.com/search?q=Pie%c4%bcauju) | N/A |
-| 21 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 22 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 23 | [Uzreiz](http://twitter.com/search?q=Uzreiz) | N/A |
-| 24 | [Turklāt](http://twitter.com/search?q=Turkl%c4%81t) | N/A |
-| 25 | [Zosēnos](http://twitter.com/search?q=Zos%c4%93nos) | N/A |
-| 26 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 27 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 28 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 30 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 31 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 32 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 33 | [Венедиктов](http://twitter.com/search?q=%d0%92%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2) | N/A |
-| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 35 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 36 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 37 | [Iespējams](http://twitter.com/search?q=Iesp%c4%93jams) | N/A |
-| 38 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
-| 39 | [Visi](http://twitter.com/search?q=Visi) | N/A |
-| 40 | [Tikko](http://twitter.com/search?q=Tikko) | N/A |
-| 41 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 42 | [Pārāk](http://twitter.com/search?q=P%c4%81r%c4%81k) | N/A |
-| 43 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 44 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 45 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 46 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
-| 47 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 48 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
-| 49 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
-| 50 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
+| 12 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 13 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 14 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 15 | [Turklāt](http://twitter.com/search?q=Turkl%c4%81t) | N/A |
+| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 17 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 18 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 19 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 20 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 21 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
+| 22 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 23 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 24 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 25 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
+| 26 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
+| 27 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 28 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 29 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 30 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
+| 31 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 32 | [Pārāk](http://twitter.com/search?q=P%c4%81r%c4%81k) | N/A |
+| 33 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 34 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 35 | [zinu](http://twitter.com/search?q=zinu) | N/A |
+| 36 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 37 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 38 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
 
 
 

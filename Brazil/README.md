@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-11 19:18:25 UTC`
+📆 Last Updated: `2023-03-11 20:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
-| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 3 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 4 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 7 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
-| 10 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 11 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 12 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 13 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 14 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 15 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 16 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 17 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 19 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 20 | [Velocidade Máxima](http://twitter.com/search?q=Velocidade+M%c3%a1xima) | N/A |
-| 21 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 22 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 23 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
-| 24 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
-| 25 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 26 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 27 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 28 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 29 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 30 | [Novara](http://twitter.com/search?q=Novara) | N/A |
-| 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 32 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
-| 33 | [Amanda Meirelles](http://twitter.com/search?q=Amanda+Meirelles) | N/A |
-| 34 | [Top Brasil](http://twitter.com/search?q=Top+Brasil) | N/A |
-| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 36 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 37 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 38 | [The 100](http://twitter.com/search?q=The+100) | N/A |
-| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 40 | [Robs](http://twitter.com/search?q=Robs) | N/A |
-| 41 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 42 | [Cezar e Larissa](http://twitter.com/search?q=Cezar+e+Larissa) | N/A |
-| 43 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 44 | [Marilyn](http://twitter.com/search?q=Marilyn) | N/A |
-| 45 | [Alface e Marvvila](http://twitter.com/search?q=Alface+e+Marvvila) | N/A |
-| 46 | [Zaila](http://twitter.com/search?q=Zaila) | N/A |
-| 47 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
-| 48 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 49 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 50 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 2 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 3 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 4 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 5 | [Darlan](http://twitter.com/search?q=Darlan) | N/A |
+| 6 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 7 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
+| 8 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
+| 9 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 10 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
+| 11 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 14 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 15 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 16 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 17 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 18 | [Esportivo](http://twitter.com/search?q=Esportivo) | N/A |
+| 19 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 20 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 21 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
+| 22 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 23 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 24 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
+| 25 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 26 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 27 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
+| 28 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 29 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 30 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 31 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 33 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 34 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
+| 35 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 36 | [Brenno](http://twitter.com/search?q=Brenno) | Brenno is an Italian name derived from the Latin name Brennus, which means "king" or "leader". It is also a variant of the name Brendan, which has its roots in the Gaelic language and means "prince". |
+| 37 | [Ronaldo Henrique](http://twitter.com/search?q=Ronaldo+Henrique) | Ronaldo Henrique is a Portuguese name, with Ronaldo being a given name and Henrique being a surname. In English, it would translate to "Ronald Henry". |
+| 38 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 39 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 40 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
+| 41 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 42 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 43 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 44 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 45 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 46 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 47 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 48 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
+| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 50 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-11 19:18:07 UTC`
+📆 Last Updated: `2023-03-11 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 2 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
-| 3 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 4 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 5 | [صاحب السمو الملكي الامير](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
-| 6 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
-| 7 | [#تعليم_المخواه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%ae%d9%88%d8%a7%d9%87) | N/A |
-| 8 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
-| 9 | [#تعليم_الباحه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d9%87) | N/A |
-| 10 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
-| 11 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 12 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 13 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 14 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 15 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 16 | [قول هالاند](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af) | N/A |
-| 17 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
-| 18 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 19 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 20 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 21 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
-| 22 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 23 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 24 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 25 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 26 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 27 | [بناء علي التقارير الوارده](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1+%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d9%87) | N/A |
-| 28 | [بالاس](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
-| 29 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
-| 30 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 31 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 32 | [الكاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a) | N/A |
-| 33 | [انزو](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d9%88) | N/A |
-| 34 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 35 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
-| 36 | [زاها](http://twitter.com/search?q=%d8%b2%d8%a7%d9%87%d8%a7) | N/A |
-| 37 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 38 | [غاندوغان](http://twitter.com/search?q=%d8%ba%d8%a7%d9%86%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 39 | [الاحد الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
-| 40 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 41 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 42 | [الاحد الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 43 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 44 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 45 | [تاكيدا علي الاعتزاز](http://twitter.com/search?q=%d8%aa%d8%a7%d9%83%d9%8a%d8%af%d8%a7+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b2%d8%a7%d8%b2) | N/A |
-| 46 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 47 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 48 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 49 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
-| 50 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 1 | [الاحد الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 2 | [السعوديه العظمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
+| 3 | [#شداد_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 4 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 5 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
+| 6 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 7 | [#ارفع_الخفاق_اخضر](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%81%d8%b9_%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82_%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 8 | [#كتاب_الشهره](http://twitter.com/search?q=%23%d9%83%d8%aa%d8%a7%d8%a8_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%87) | N/A |
+| 9 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 10 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
+| 11 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 12 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 13 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 14 | [قول هالاند](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 15 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
+| 16 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 17 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 18 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 19 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 20 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 21 | [زاها](http://twitter.com/search?q=%d8%b2%d8%a7%d9%87%d8%a7) | N/A |
+| 22 | [بالاس](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 23 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 24 | [والد نادي النصر](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%af+%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 25 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 26 | [بناء علي التقارير الوارده](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1+%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d9%87) | N/A |
+| 27 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 28 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
+| 29 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
+| 30 | [الكاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d9%8a) | N/A |
+| 31 | [شالكة](http://twitter.com/search?q=%d8%b4%d8%a7%d9%84%d9%83%d8%a9) | N/A |
+| 32 | [ابو عوض](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%b6) | N/A |
+| 33 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 34 | [الاحد الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
+| 35 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 36 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 37 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
+| 38 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 39 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 40 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 41 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 42 | [فيتوريا](http://twitter.com/search?q=%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 43 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 44 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 45 | [انزو](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d9%88) | N/A |
+| 46 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 47 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 48 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 49 | [ترم ثالث](http://twitter.com/search?q=%d8%aa%d8%b1%d9%85+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 50 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
 
 
 

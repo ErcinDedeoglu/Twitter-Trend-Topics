@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-11 19:17:48 UTC`
+📆 Last Updated: `2023-03-11 20:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 2 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
-| 3 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 4 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 7 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 8 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 9 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 10 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
-| 11 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 12 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 15 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 16 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 17 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 19 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 20 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
-| 21 | [Velocidade Máxima](http://twitter.com/search?q=Velocidade+M%c3%a1xima) | N/A |
-| 22 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 23 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 26 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
-| 27 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 28 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 29 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 30 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 31 | [Novara](http://twitter.com/search?q=Novara) | N/A |
-| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 33 | [Amanda Meirelles](http://twitter.com/search?q=Amanda+Meirelles) | N/A |
-| 34 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
-| 35 | [Top Brasil](http://twitter.com/search?q=Top+Brasil) | N/A |
-| 36 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 37 | [Robs](http://twitter.com/search?q=Robs) | N/A |
-| 38 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 39 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 41 | [The 100](http://twitter.com/search?q=The+100) | N/A |
-| 42 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 43 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 44 | [Cezar e Larissa](http://twitter.com/search?q=Cezar+e+Larissa) | N/A |
-| 45 | [Marilyn](http://twitter.com/search?q=Marilyn) | N/A |
-| 46 | [Alface e Marvvila](http://twitter.com/search?q=Alface+e+Marvvila) | N/A |
-| 47 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 48 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
-| 49 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 50 | [Zaila](http://twitter.com/search?q=Zaila) | N/A |
+| 1 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 2 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 3 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
+| 4 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 5 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
+| 6 | [Darlan](http://twitter.com/search?q=Darlan) | N/A |
+| 7 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
+| 10 | [Mário Fernandes](http://twitter.com/search?q=M%c3%a1rio+Fernandes) | N/A |
+| 11 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 12 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 13 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 14 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 15 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 16 | [Esportivo](http://twitter.com/search?q=Esportivo) | N/A |
+| 17 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 18 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
+| 19 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 20 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 21 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 22 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 25 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
+| 26 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 27 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
+| 28 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 29 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
+| 30 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 31 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 32 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 33 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 35 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 36 | [Brenno](http://twitter.com/search?q=Brenno) | Brenno is an Italian name derived from the Latin name Brennus, which means "king" or "leader". It is also a variant of the name Brendan, which has its roots in the Gaelic language and means "prince". |
+| 37 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 38 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 39 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 40 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
+| 41 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
+| 42 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
+| 43 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 44 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 46 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 47 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 48 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 49 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 50 | [Arena do Jacaré](http://twitter.com/search?q=Arena+do+Jacar%c3%a9) | N/A |
 
 
 
