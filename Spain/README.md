@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-11 03:17:50 UTC`
+📆 Last Updated: `2023-03-11 04:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
-| 2 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
-| 3 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 4 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 1 | [#svgala2](http://twitter.com/search?q=%23svgala2) | N/A |
+| 2 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 3 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 4 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
 | 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [#PremiosIdolo](http://twitter.com/search?q=%23PremiosIdolo) | N/A |
+| 6 | [#premiosidolo](http://twitter.com/search?q=%23premiosidolo) | N/A |
 | 7 | [#PartidazoMovistarChampions](http://twitter.com/search?q=%23PartidazoMovistarChampions) | N/A |
 | 8 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
 | 9 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 10 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 11 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 10 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 11 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
 | 12 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 13 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 14 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
-| 15 | [portu](http://twitter.com/search?q=portu) | N/A |
-| 16 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 13 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 14 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 15 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 18 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 19 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 20 | [Pepe Álvarez](http://twitter.com/search?q=Pepe+%c3%81lvarez) | N/A |
-| 21 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 22 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 23 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 24 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 25 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 26 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 27 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 28 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
-| 31 | [Enes Unal](http://twitter.com/search?q=Enes+Unal) | N/A |
-| 32 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 33 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 34 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
-| 35 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 36 | [sfdk](http://twitter.com/search?q=sfdk) | N/A |
-| 37 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 38 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 39 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 40 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 43 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 45 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 46 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 47 | [Salvador Seguí](http://twitter.com/search?q=Salvador+Segu%c3%ad) | N/A |
-| 48 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 49 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
-| 50 | [Almussafes](http://twitter.com/search?q=Almussafes) | N/A |
+| 18 | [Pepe Álvarez](http://twitter.com/search?q=Pepe+%c3%81lvarez) | N/A |
+| 19 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 20 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 21 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 23 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 24 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 25 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 28 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 29 | [Enes Unal](http://twitter.com/search?q=Enes+Unal) | N/A |
+| 30 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 31 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 32 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 33 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 34 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 35 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 37 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 38 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 39 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 41 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 42 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 43 | [Salvador Seguí](http://twitter.com/search?q=Salvador+Segu%c3%ad) | N/A |
+| 44 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 45 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 46 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 47 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
+| 48 | [almussafes](http://twitter.com/search?q=almussafes) | N/A |
+| 49 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 50 | [Mejores de España](http://twitter.com/search?q=Mejores+de+Espa%c3%b1a) | N/A |
 
 
 

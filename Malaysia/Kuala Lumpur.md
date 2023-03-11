@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-11 03:17:16 UTC`
+📆 Last Updated: `2023-03-11 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
 | 3 | [#บวงสรวงซีรีส์MMY](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b9%8cMMY) | N/A |
 | 4 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 5 | [#Season4Otaku2023](http://twitter.com/search?q=%23Season4Otaku2023) | N/A |
-| 6 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 7 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 8 | [KLCC](http://twitter.com/search?q=KLCC) | N/A |
+| 5 | [#HWAppyYUNderfullDay](http://twitter.com/search?q=%23HWAppyYUNderfullDay) | N/A |
+| 6 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 7 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 8 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 9 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
 | 10 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 11 | [chentoh](http://twitter.com/search?q=chentoh) | N/A |
-| 12 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 12 | [KLCC](http://twitter.com/search?q=KLCC) | N/A |
 | 13 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 14 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 15 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 14 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 15 | [Dean](http://twitter.com/search?q=Dean) | N/A |
 | 16 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
 | 17 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 18 | [Momota](http://twitter.com/search?q=Momota) | N/A |
-| 19 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 20 | [Pearthin](http://twitter.com/search?q=Pearthin) | N/A |
-| 21 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 22 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 23 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
+| 18 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
+| 19 | [Pearthin](http://twitter.com/search?q=Pearthin) | N/A |
+| 20 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 21 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 22 | [Momota](http://twitter.com/search?q=Momota) | N/A |
+| 23 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 24 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
-| 25 | [MH370](http://twitter.com/search?q=MH370) | N/A |
-| 26 | [Jeon Wonwoo](http://twitter.com/search?q=Jeon+Wonwoo) | N/A |
-| 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 28 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 29 | [MEW VOGUE 10th ANV](http://twitter.com/search?q=MEW+VOGUE+10th+ANV) | N/A |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 32 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 33 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 34 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 37 | [mahiaddin](http://twitter.com/search?q=mahiaddin) | N/A |
-| 38 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 39 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
-| 40 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 41 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 25 | [Jeon Wonwoo](http://twitter.com/search?q=Jeon+Wonwoo) | N/A |
+| 26 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 27 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 29 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 30 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [MH370](http://twitter.com/search?q=MH370) | N/A |
+| 35 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 36 | [mahiaddin](http://twitter.com/search?q=mahiaddin) | N/A |
+| 37 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 38 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 40 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 41 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
 | 42 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 43 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 45 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 46 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 47 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 48 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
-| 49 | [TOP FOR VERSACE](http://twitter.com/search?q=TOP+FOR+VERSACE) | N/A |
-| 50 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 43 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 44 | [Abah](http://twitter.com/search?q=Abah) | N/A |
+| 45 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 46 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
+| 47 | [Teume](http://twitter.com/search?q=Teume) | N/A |
+| 48 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
+| 49 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 50 | [TOP FOR VERSACE](http://twitter.com/search?q=TOP+FOR+VERSACE) | N/A |
 
 
 

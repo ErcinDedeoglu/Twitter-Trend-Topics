@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-11 03:17:06 UTC`
+📆 Last Updated: `2023-03-11 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
 | 4 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
 | 5 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
@@ -39,10 +39,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 23 | [Money](http://twitter.com/search?q=Money) | N/A |
 | 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 25 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
+| 25 | [medizin](http://twitter.com/search?q=medizin) | N/A |
 | 26 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
 | 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 28 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
+| 28 | [raketen](http://twitter.com/search?q=raketen) | N/A |
 | 29 | [Alien](http://twitter.com/search?q=Alien) | N/A |
 | 30 | [annual day](http://twitter.com/search?q=annual+day) | N/A |
 | 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
@@ -57,12 +57,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 41 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
 | 42 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 43 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 44 | [landwirtschaft](http://twitter.com/search?q=landwirtschaft) | N/A |
-| 45 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 46 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 47 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 48 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 43 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 45 | [landwirtschaft](http://twitter.com/search?q=landwirtschaft) | N/A |
+| 46 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 47 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 48 | [Velo](http://twitter.com/search?q=Velo) | N/A |
 
 
 

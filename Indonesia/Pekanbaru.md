@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-11 03:17:08 UTC`
+📆 Last Updated: `2023-03-11 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
 | 2 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
 | 3 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
-| 4 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
-| 5 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 6 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
-| 7 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
-| 8 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 4 | [GET WELL SOON CHENLE](http://twitter.com/search?q=GET+WELL+SOON+CHENLE) | N/A |
+| 5 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
+| 6 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 7 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
+| 8 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
 | 9 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 10 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 11 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 12 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 14 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 15 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 17 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 18 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 19 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
-| 20 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 22 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
-| 23 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
-| 24 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
-| 25 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 26 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 27 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 28 | [Piwiken](http://twitter.com/search?q=Piwiken) | N/A |
-| 29 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
-| 30 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 31 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 32 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
-| 33 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 34 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 35 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
-| 36 | [kyungsoo anak gaul seoul](http://twitter.com/search?q=kyungsoo+anak+gaul+seoul) | N/A |
-| 37 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 10 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 11 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 12 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 13 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [I-land](http://twitter.com/search?q=I-land) | N/A |
+| 17 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 18 | [KIM WINTER THANK YOU](http://twitter.com/search?q=KIM+WINTER+THANK+YOU) | N/A |
+| 19 | [KIM MINJEONG THANK YOU](http://twitter.com/search?q=KIM+MINJEONG+THANK+YOU) | N/A |
+| 20 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 21 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 23 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 24 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 28 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 29 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
+| 30 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 31 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 32 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 33 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 35 | [kyungsoo anak gaul seoul](http://twitter.com/search?q=kyungsoo+anak+gaul+seoul) | N/A |
+| 36 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 38 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 39 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 39 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
 | 40 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
-| 41 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 42 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
-| 43 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
-| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 41 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
+| 42 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 43 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 44 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
 
 
 

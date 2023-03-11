@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-11 03:17:46 UTC`
+📆 Last Updated: `2023-03-11 04:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,15 +21,15 @@ This is top 50 for Israel
 | 4 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
 | 5 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
 | 6 | [בין סעודיה](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
-| 7 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
-| 8 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 7 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 8 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
 | 9 | [עם איראן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
 | 10 | [גלעד פלד](http://twitter.com/search?q=%d7%92%d7%9c%d7%a2%d7%93+%d7%a4%d7%9c%d7%93) | N/A |
 | 11 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 12 | [הדר מוכתר](http://twitter.com/search?q=%d7%94%d7%93%d7%a8+%d7%9e%d7%95%d7%9b%d7%aa%d7%a8) | N/A |
 | 13 | [ביתר עילית](http://twitter.com/search?q=%d7%91%d7%99%d7%aa%d7%a8+%d7%a2%d7%99%d7%9c%d7%99%d7%aa) | N/A |
-| 14 | [יום נישואין](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f) | N/A |
-| 15 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
+| 14 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
+| 15 | [יום נישואין](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f) | N/A |
 | 16 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
 | 17 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
 | 18 | [חץ רעל](http://twitter.com/search?q=%d7%97%d7%a5+%d7%a8%d7%a2%d7%9c) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Israel
 | 21 | [חשש כבד](http://twitter.com/search?q=%d7%97%d7%a9%d7%a9+%d7%9b%d7%91%d7%93) | N/A |
 | 22 | [לה סמכות](http://twitter.com/search?q=%d7%9c%d7%94+%d7%a1%d7%9e%d7%9b%d7%95%d7%aa) | N/A |
 | 23 | [קובי שבתאי](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a9%d7%91%d7%aa%d7%90%d7%99) | N/A |
-| 24 | [קצין משטרה](http://twitter.com/search?q=%d7%a7%d7%a6%d7%99%d7%9f+%d7%9e%d7%a9%d7%98%d7%a8%d7%94) | N/A |
-| 25 | [ניצב אשד](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%90%d7%a9%d7%93) | N/A |
-| 26 | [פיגוע קשה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%a7%d7%a9%d7%94) | N/A |
-| 27 | [תומר בר](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%a8+%d7%91%d7%a8) | N/A |
-| 28 | [פורום קהלת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 29 | [של היועצת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%99%d7%95%d7%a2%d7%a6%d7%aa) | N/A |
-| 30 | [בעל החווה](http://twitter.com/search?q=%d7%91%d7%a2%d7%9c+%d7%94%d7%97%d7%95%d7%95%d7%94) | N/A |
-| 31 | [אבי דיכטר](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%93%d7%99%d7%9b%d7%98%d7%a8) | N/A |
-| 32 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 33 | [של אשד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a9%d7%93) | N/A |
-| 34 | [אחרי פיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
-| 35 | [תמיר פרדו](http://twitter.com/search?q=%d7%aa%d7%9e%d7%99%d7%a8+%d7%a4%d7%a8%d7%93%d7%95) | N/A |
-| 36 | [חיים טופול](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%98%d7%95%d7%a4%d7%95%d7%9c) | N/A |
-| 37 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
-| 38 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 39 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 40 | [של סעודיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
-| 41 | [יובל נח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
-| 42 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 43 | [בר לב](http://twitter.com/search?q=%d7%91%d7%a8+%d7%9c%d7%91) | N/A |
-| 44 | [מול איראן](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
-| 45 | [היו זמנים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%96%d7%9e%d7%a0%d7%99%d7%9d) | N/A |
-| 46 | [של איטליה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%94) | N/A |
-| 47 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 48 | [קיל ביל](http://twitter.com/search?q=%d7%a7%d7%99%d7%9c+%d7%91%d7%99%d7%9c) | N/A |
-| 49 | [של סער](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%a8) | N/A |
-| 50 | [השם יקום דמה](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%99%d7%a7%d7%95%d7%9d+%d7%93%d7%9e%d7%94) | N/A |
+| 24 | [ניצב אשד](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%90%d7%a9%d7%93) | N/A |
+| 25 | [פיגוע קשה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%a7%d7%a9%d7%94) | N/A |
+| 26 | [תומר בר](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%a8+%d7%91%d7%a8) | N/A |
+| 27 | [של היועצת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%99%d7%95%d7%a2%d7%a6%d7%aa) | N/A |
+| 28 | [בעל החווה](http://twitter.com/search?q=%d7%91%d7%a2%d7%9c+%d7%94%d7%97%d7%95%d7%95%d7%94) | N/A |
+| 29 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
+| 30 | [אבי דיכטר](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%93%d7%99%d7%9b%d7%98%d7%a8) | N/A |
+| 31 | [של אשד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a9%d7%93) | N/A |
+| 32 | [קצין משטרה](http://twitter.com/search?q=%d7%a7%d7%a6%d7%99%d7%9f+%d7%9e%d7%a9%d7%98%d7%a8%d7%94) | N/A |
+| 33 | [אחרי פיגוע](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%99%d7%92%d7%95%d7%a2) | N/A |
+| 34 | [תמיר פרדו](http://twitter.com/search?q=%d7%aa%d7%9e%d7%99%d7%a8+%d7%a4%d7%a8%d7%93%d7%95) | N/A |
+| 35 | [חיים טופול](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%98%d7%95%d7%a4%d7%95%d7%9c) | N/A |
+| 36 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
+| 37 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 38 | [של סעודיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
+| 39 | [יובל נח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
+| 40 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
+| 41 | [מול איראן](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
+| 42 | [בר לב](http://twitter.com/search?q=%d7%91%d7%a8+%d7%9c%d7%91) | N/A |
+| 43 | [היו זמנים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%96%d7%9e%d7%a0%d7%99%d7%9d) | N/A |
+| 44 | [של איטליה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%99%d7%98%d7%9c%d7%99%d7%94) | N/A |
+| 45 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 46 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 47 | [קיל ביל](http://twitter.com/search?q=%d7%a7%d7%99%d7%9c+%d7%91%d7%99%d7%9c) | N/A |
+| 48 | [פורום קהלת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 49 | [השם יקום דמה](http://twitter.com/search?q=%d7%94%d7%a9%d7%9d+%d7%99%d7%a7%d7%95%d7%9d+%d7%93%d7%9e%d7%94) | N/A |
+| 50 | [שבת קודש](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a7%d7%95%d7%93%d7%a9) | N/A |
 
 
 

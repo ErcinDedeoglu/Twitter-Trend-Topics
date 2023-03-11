@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-11 03:17:47 UTC`
+📆 Last Updated: `2023-03-11 04:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Latvia
 | 2 | [kozins](http://twitter.com/search?q=kozins) | N/A |
 | 3 | [zosēnos](http://twitter.com/search?q=zos%c4%93nos) | N/A |
 | 4 | [vinnijs pūks](http://twitter.com/search?q=vinnijs+p%c5%abks) | N/A |
-| 5 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 6 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 5 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 6 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 7 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 8 | [#Euroleague](http://twitter.com/search?q=%23Euroleague) | N/A |
 | 9 | [European](http://twitter.com/search?q=European) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for Latvia
 | 16 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
 | 17 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 18 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 19 | [венедиктов](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2) | N/A |
+| 19 | [Венедиктов](http://twitter.com/search?q=%d0%92%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2) | N/A |
 | 20 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 21 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |

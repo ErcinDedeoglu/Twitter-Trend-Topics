@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-11 03:17:42 UTC`
+📆 Last Updated: `2023-03-11 04:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for Algeria
 | 16 | [المواد الغذاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 17 | [المرتبه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 18 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 19 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
-| 20 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 21 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 24 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 25 | [كعب الغزال](http://twitter.com/search?q=%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84) | N/A |
+| 19 | [العالم الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 20 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 23 | [كعب الغزال](http://twitter.com/search?q=%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84) | N/A |
+| 24 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 25 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 27 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 | 28 | [علي الشعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Algeria
 | 46 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 48 | [الوطن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 49 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 50 | [فتح الباري](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d9%8a) | N/A |
 
 

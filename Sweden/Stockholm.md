@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-11 03:17:07 UTC`
+📆 Last Updated: `2023-03-11 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 6 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
 | 7 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
-| 8 | [#Björklöven](http://twitter.com/search?q=%23Bj%c3%b6rkl%c3%b6ven) | N/A |
+| 8 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
 | 9 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
 | 10 | [Anders](http://twitter.com/search?q=Anders) | N/A |
 | 11 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
@@ -32,8 +32,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 15 | [sömn](http://twitter.com/search?q=s%c3%b6mn) | N/A |
 | 16 | [fredag](http://twitter.com/search?q=fredag) | N/A |
 | 17 | [Jörgen](http://twitter.com/search?q=J%c3%b6rgen) | N/A |
-| 18 | [lennart](http://twitter.com/search?q=lennart) | N/A |
-| 19 | [Rasmus Paludan](http://twitter.com/search?q=Rasmus+Paludan) | Rasmus Paludan is a Danish lawyer and political activist. He is the leader of the far-right political party Stram Kurs (Hard Line). The name Rasmus Paludan is derived from the Danish words for "marsh" and "pond," which together mean "marsh pond." |
+| 18 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 19 | [rasmus paludan](http://twitter.com/search?q=rasmus+paludan) | N/A |
 | 20 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
 | 21 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
 | 22 | [david ritschard](http://twitter.com/search?q=david+ritschard) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [Sweden](</Sweden>)
 | 24 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
 | 25 | [träning](http://twitter.com/search?q=tr%c3%a4ning) | N/A |
 | 26 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
-| 27 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 28 | [vänner](http://twitter.com/search?q=v%c3%a4nner) | N/A |
-| 29 | [frågar](http://twitter.com/search?q=fr%c3%a5gar) | N/A |
-| 30 | [handelsbanken](http://twitter.com/search?q=handelsbanken) | N/A |
-| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 32 | [niklas eriksson](http://twitter.com/search?q=niklas+eriksson) | N/A |
-| 33 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [Jehovas](http://twitter.com/search?q=Jehovas) | N/A |
-| 36 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 37 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
-| 38 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 39 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 40 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 41 | [Hisingsbron](http://twitter.com/search?q=Hisingsbron) | N/A |
-| 42 | [löfgren](http://twitter.com/search?q=l%c3%b6fgren) | N/A |
-| 43 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
-| 44 | [Snusk](http://twitter.com/search?q=Snusk) | N/A |
-| 45 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 46 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
-| 47 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 48 | [Elbilar](http://twitter.com/search?q=Elbilar) | N/A |
-| 49 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 27 | [vänner](http://twitter.com/search?q=v%c3%a4nner) | N/A |
+| 28 | [frågar](http://twitter.com/search?q=fr%c3%a5gar) | N/A |
+| 29 | [handelsbanken](http://twitter.com/search?q=handelsbanken) | N/A |
+| 30 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 31 | [niklas eriksson](http://twitter.com/search?q=niklas+eriksson) | N/A |
+| 32 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [Jehovas](http://twitter.com/search?q=Jehovas) | N/A |
+| 35 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
+| 36 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 37 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 38 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 39 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 40 | [löfgren](http://twitter.com/search?q=l%c3%b6fgren) | N/A |
+| 41 | [detsamma](http://twitter.com/search?q=detsamma) | N/A |
+| 42 | [snusk](http://twitter.com/search?q=snusk) | N/A |
+| 43 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 44 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
+| 45 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 46 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 47 | [elbilar](http://twitter.com/search?q=elbilar) | N/A |
+| 48 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 49 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 
 
 

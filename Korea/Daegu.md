@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daegu
 
-📆 Last Updated: `2023-03-11 03:17:14 UTC`
+📆 Last Updated: `2023-03-11 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Korea](</Korea>)
 | 2 | [콜드게임](http://twitter.com/search?q=%ec%bd%9c%eb%93%9c%ea%b2%8c%ec%9e%84) | N/A |
 | 3 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
 | 4 | [퍼펙트맨](http://twitter.com/search?q=%ed%8d%bc%ed%8e%99%ed%8a%b8%eb%a7%a8) | N/A |
-| 5 | [비서실장](http://twitter.com/search?q=%eb%b9%84%ec%84%9c%ec%8b%a4%ec%9e%a5) | N/A |
-| 6 | [#서진이네대박기원](http://twitter.com/search?q=%23%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4%eb%8c%80%eb%b0%95%ea%b8%b0%ec%9b%90) | N/A |
-| 7 | [포무 신의상](http://twitter.com/search?q=%ed%8f%ac%eb%ac%b4+%ec%8b%a0%ec%9d%98%ec%83%81) | N/A |
+| 5 | [날씨 너무](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%84%88%eb%ac%b4) | N/A |
+| 6 | [비서실장](http://twitter.com/search?q=%eb%b9%84%ec%84%9c%ec%8b%a4%ec%9e%a5) | N/A |
+| 7 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
 | 8 | [무사만루](http://twitter.com/search?q=%eb%ac%b4%ec%82%ac%eb%a7%8c%eb%a3%a8) | N/A |
-| 9 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
+| 9 | [#서진이네대박기원](http://twitter.com/search?q=%23%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4%eb%8c%80%eb%b0%95%ea%b8%b0%ec%9b%90) | N/A |
 | 10 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
-| 11 | [정모 쇼크](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%87%bc%ed%81%ac) | N/A |
-| 12 | [캐럿랜드](http://twitter.com/search?q=%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c) | N/A |
-| 13 | [야구 한일전](http://twitter.com/search?q=%ec%95%bc%ea%b5%ac+%ed%95%9c%ec%9d%bc%ec%a0%84) | N/A |
-| 14 | [다르빗슈](http://twitter.com/search?q=%eb%8b%a4%eb%a5%b4%eb%b9%97%ec%8a%88) | N/A |
-| 15 | [고잉레인저](http://twitter.com/search?q=%ea%b3%a0%ec%9e%89%eb%a0%88%ec%9d%b8%ec%a0%80) | N/A |
-| 16 | [파라다이스](http://twitter.com/search?q=%ed%8c%8c%eb%9d%bc%eb%8b%a4%ec%9d%b4%ec%8a%a4) | N/A |
-| 17 | [비구매덕질](http://twitter.com/search?q=%eb%b9%84%ea%b5%ac%eb%a7%a4%eb%8d%95%ec%a7%88) | N/A |
-| 18 | [#JinnysKitchenEp3](http://twitter.com/search?q=%23JinnysKitchenEp3) | N/A |
-| 19 | [댄서분들](http://twitter.com/search?q=%eb%8c%84%ec%84%9c%eb%b6%84%eb%93%a4) | N/A |
-| 20 | [캐럿존 포카](http://twitter.com/search?q=%ec%ba%90%eb%9f%bf%ec%a1%b4+%ed%8f%ac%ec%b9%b4) | N/A |
-| 21 | [도착 예정](http://twitter.com/search?q=%eb%8f%84%ec%b0%a9+%ec%98%88%ec%a0%95) | N/A |
-| 22 | [날씨 너무](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%84%88%eb%ac%b4) | N/A |
-| 23 | [우지 디토](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%eb%94%94%ed%86%a0) | N/A |
-| 24 | [동은이 엄마](http://twitter.com/search?q=%eb%8f%99%ec%9d%80%ec%9d%b4+%ec%97%84%eb%a7%88) | N/A |
-| 25 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
-| 26 | [약속의 8회](http://twitter.com/search?q=%ec%95%bd%ec%86%8d%ec%9d%98+8%ed%9a%8c) | N/A |
-| 27 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
-| 28 | [양의지 홈런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ed%99%88%eb%9f%b0) | N/A |
-| 29 | [레몬디노](http://twitter.com/search?q=%eb%a0%88%eb%aa%ac%eb%94%94%eb%85%b8) | N/A |
-| 30 | [고의사구](http://twitter.com/search?q=%ea%b3%a0%ec%9d%98%ec%82%ac%ea%b5%ac) | N/A |
-| 31 | [팬텀싱어](http://twitter.com/search?q=%ed%8c%ac%ed%85%80%ec%8b%b1%ec%96%b4) | N/A |
-| 32 | [코믹에드가](http://twitter.com/search?q=%ec%bd%94%eb%af%b9%ec%97%90%eb%93%9c%ea%b0%80) | N/A |
-| 33 | [투수교체](http://twitter.com/search?q=%ed%88%ac%ec%88%98%ea%b5%90%ec%b2%b4) | N/A |
-| 34 | [#동그란_맘_속에_피어난_동근이_생일](http://twitter.com/search?q=%23%eb%8f%99%ea%b7%b8%eb%9e%80_%eb%a7%98_%ec%86%8d%ec%97%90_%ed%94%bc%ec%96%b4%eb%82%9c_%eb%8f%99%ea%b7%bc%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 11 | [캐럿랜드](http://twitter.com/search?q=%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c) | N/A |
+| 12 | [야구 한일전](http://twitter.com/search?q=%ec%95%bc%ea%b5%ac+%ed%95%9c%ec%9d%bc%ec%a0%84) | N/A |
+| 13 | [비구매덕질](http://twitter.com/search?q=%eb%b9%84%ea%b5%ac%eb%a7%a4%eb%8d%95%ec%a7%88) | N/A |
+| 14 | [고잉레인저](http://twitter.com/search?q=%ea%b3%a0%ec%9e%89%eb%a0%88%ec%9d%b8%ec%a0%80) | N/A |
+| 15 | [댄서분들](http://twitter.com/search?q=%eb%8c%84%ec%84%9c%eb%b6%84%eb%93%a4) | N/A |
+| 16 | [캐럿존 포카](http://twitter.com/search?q=%ec%ba%90%eb%9f%bf%ec%a1%b4+%ed%8f%ac%ec%b9%b4) | N/A |
+| 17 | [동은이 엄마](http://twitter.com/search?q=%eb%8f%99%ec%9d%80%ec%9d%b4+%ec%97%84%eb%a7%88) | N/A |
+| 18 | [다르빗슈](http://twitter.com/search?q=%eb%8b%a4%eb%a5%b4%eb%b9%97%ec%8a%88) | N/A |
+| 19 | [#JinnysKitchenEp3](http://twitter.com/search?q=%23JinnysKitchenEp3) | N/A |
+| 20 | [도착 예정](http://twitter.com/search?q=%eb%8f%84%ec%b0%a9+%ec%98%88%ec%a0%95) | N/A |
+| 21 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
+| 22 | [약속의 8회](http://twitter.com/search?q=%ec%95%bd%ec%86%8d%ec%9d%98+8%ed%9a%8c) | N/A |
+| 23 | [양의지 홈런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ed%99%88%eb%9f%b0) | N/A |
+| 24 | [고의사구](http://twitter.com/search?q=%ea%b3%a0%ec%9d%98%ec%82%ac%ea%b5%ac) | N/A |
+| 25 | [레몬디노](http://twitter.com/search?q=%eb%a0%88%eb%aa%ac%eb%94%94%eb%85%b8) | N/A |
+| 26 | [팬텀싱어](http://twitter.com/search?q=%ed%8c%ac%ed%85%80%ec%8b%b1%ec%96%b4) | N/A |
+| 27 | [#배우_5명으로_취향을_드러내자](http://twitter.com/search?q=%23%eb%b0%b0%ec%9a%b0_5%eb%aa%85%ec%9c%bc%eb%a1%9c_%ec%b7%a8%ed%96%a5%ec%9d%84_%eb%93%9c%eb%9f%ac%eb%82%b4%ec%9e%90) | N/A |
+| 28 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
+| 29 | [파라다이스](http://twitter.com/search?q=%ed%8c%8c%eb%9d%bc%eb%8b%a4%ec%9d%b4%ec%8a%a4) | N/A |
+| 30 | [우지 디토](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%eb%94%94%ed%86%a0) | N/A |
+| 31 | [꼬들 434](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+434) | N/A |
+| 32 | [#동그란_맘_속에_피어난_동근이_생일](http://twitter.com/search?q=%23%eb%8f%99%ea%b7%b8%eb%9e%80_%eb%a7%98_%ec%86%8d%ec%97%90_%ed%94%bc%ec%96%b4%eb%82%9c_%eb%8f%99%ea%b7%bc%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 33 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | #CutieLoveFanConcert is a hashtag used to promote a fan concert for the K-pop group CutieLove. The hashtag is used to encourage fans to attend the concert and show their support for the group. In English, it means "CutieLove Fan Concert". |
+| 34 | [삼자범퇴](http://twitter.com/search?q=%ec%82%bc%ec%9e%90%eb%b2%94%ed%87%b4) | N/A |
 | 35 | [논리나잇](http://twitter.com/search?q=%eb%85%bc%eb%a6%ac%eb%82%98%ec%9e%87) | N/A |
-| 36 | [삼자범퇴](http://twitter.com/search?q=%ec%82%bc%ec%9e%90%eb%b2%94%ed%87%b4) | N/A |
-| 37 | [꼬들 434](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+434) | N/A |
-| 38 | [좋은 날씨](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%eb%82%a0%ec%94%a8) | N/A |
-| 39 | [공방 포카 교환](http://twitter.com/search?q=%ea%b3%b5%eb%b0%a9+%ed%8f%ac%ec%b9%b4+%ea%b5%90%ed%99%98) | N/A |
-| 40 | [메이저리거](http://twitter.com/search?q=%eb%a9%94%ec%9d%b4%ec%a0%80%eb%a6%ac%ea%b1%b0) | N/A |
-| 41 | [세레머니](http://twitter.com/search?q=%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88) | N/A |
-| 42 | [사라혜정](http://twitter.com/search?q=%ec%82%ac%eb%9d%bc%ed%98%9c%ec%a0%95) | N/A |
-| 43 | [방가방가햄토리](http://twitter.com/search?q=%eb%b0%a9%ea%b0%80%eb%b0%a9%ea%b0%80%ed%96%84%ed%86%a0%eb%a6%ac) | N/A |
-| 44 | [스릴라이드](http://twitter.com/search?q=%ec%8a%a4%eb%a6%b4%eb%9d%bc%ec%9d%b4%eb%93%9c) | N/A |
-| 45 | [#배우_5명으로_취향을_드러내자](http://twitter.com/search?q=%23%eb%b0%b0%ec%9a%b0_5%eb%aa%85%ec%9c%bc%eb%a1%9c_%ec%b7%a8%ed%96%a5%ec%9d%84_%eb%93%9c%eb%9f%ac%eb%82%b4%ec%9e%90) | N/A |
-| 46 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 47 | [안어울리는 노래](http://twitter.com/search?q=%ec%95%88%ec%96%b4%ec%9a%b8%eb%a6%ac%eb%8a%94+%eb%85%b8%eb%9e%98) | N/A |
-| 48 | [투교 타이밍](http://twitter.com/search?q=%ed%88%ac%ea%b5%90+%ed%83%80%ec%9d%b4%eb%b0%8d) | N/A |
-| 49 | [너무 일찍](http://twitter.com/search?q=%eb%84%88%eb%ac%b4+%ec%9d%bc%ec%b0%8d) | N/A |
-| 50 | [일반입장](http://twitter.com/search?q=%ec%9d%bc%eb%b0%98%ec%9e%85%ec%9e%a5) | N/A |
+| 36 | [코믹에드가](http://twitter.com/search?q=%ec%bd%94%eb%af%b9%ec%97%90%eb%93%9c%ea%b0%80) | N/A |
+| 37 | [좋은 날씨](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%eb%82%a0%ec%94%a8) | N/A |
+| 38 | [공방 포카](http://twitter.com/search?q=%ea%b3%b5%eb%b0%a9+%ed%8f%ac%ec%b9%b4) | N/A |
+| 39 | [메이저리거](http://twitter.com/search?q=%eb%a9%94%ec%9d%b4%ec%a0%80%eb%a6%ac%ea%b1%b0) | N/A |
+| 40 | [방가방가햄토리](http://twitter.com/search?q=%eb%b0%a9%ea%b0%80%eb%b0%a9%ea%b0%80%ed%96%84%ed%86%a0%eb%a6%ac) | N/A |
+| 41 | [사라혜정](http://twitter.com/search?q=%ec%82%ac%eb%9d%bc%ed%98%9c%ec%a0%95) | N/A |
+| 42 | [세레머니](http://twitter.com/search?q=%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88) | N/A |
+| 43 | [투교 타이밍](http://twitter.com/search?q=%ed%88%ac%ea%b5%90+%ed%83%80%ec%9d%b4%eb%b0%8d) | N/A |
+| 44 | [안어울리는 노래](http://twitter.com/search?q=%ec%95%88%ec%96%b4%ec%9a%b8%eb%a6%ac%eb%8a%94+%eb%85%b8%eb%9e%98) | N/A |
+| 45 | [펀치기계로](http://twitter.com/search?q=%ed%8e%80%ec%b9%98%ea%b8%b0%ea%b3%84%eb%a1%9c) | N/A |
+| 46 | [민규 머리](http://twitter.com/search?q=%eb%af%bc%ea%b7%9c+%eb%a8%b8%eb%a6%ac) | N/A |
+| 47 | [아웃카운트](http://twitter.com/search?q=%ec%95%84%ec%9b%83%ec%b9%b4%ec%9a%b4%ed%8a%b8) | N/A |
+| 48 | [날씨 무슨](http://twitter.com/search?q=%eb%82%a0%ec%94%a8+%eb%ac%b4%ec%8a%a8) | N/A |
+| 49 | [정모 쇼크](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%87%bc%ed%81%ac) | N/A |
+| 50 | [동대구역](http://twitter.com/search?q=%eb%8f%99%eb%8c%80%ea%b5%ac%ec%97%ad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-11 03:17:28 UTC`
+📆 Last Updated: `2023-03-11 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [India](</India>)
 | 5 | [#ISupportManishKasyap](http://twitter.com/search?q=%23ISupportManishKasyap) | N/A |
 | 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 7 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 8 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 9 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 10 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 13 | [#SavitribaiPhule](http://twitter.com/search?q=%23SavitribaiPhule) | #SavitribaiPhule is the name of a 19th century Indian social reformer and educator who fought for the rights of women and lower castes in India. She is widely regarded as one of the most influential figures in Indian history. The English translation of her name is "Protector of Women". |
-| 14 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 15 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
-| 16 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 17 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 21 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 22 | [इलाहाबाद कोर्ट](http://twitter.com/search?q=%e0%a4%87%e0%a4%b2%e0%a4%be%e0%a4%b9%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%a6+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 23 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 24 | [धर्मवीर छत्रपति](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 25 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 26 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 8 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 9 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
+| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 11 | [#SavitribaiPhule](http://twitter.com/search?q=%23SavitribaiPhule) | #SavitribaiPhule is the name of a 19th century Indian social reformer and educator who fought for the rights of women and lower castes in India. She is widely regarded as one of the most influential figures in Indian history. The English translation of her name is "Protector of Women". |
+| 12 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 13 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 14 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 17 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 18 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 19 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 20 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 21 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 22 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 23 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 24 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 25 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 26 | [धर्मवीर छत्रपति](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
 | 27 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
-| 28 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
-| 29 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 28 | [इलाहाबाद कोर्ट](http://twitter.com/search?q=%e0%a4%87%e0%a4%b2%e0%a4%be%e0%a4%b9%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%a6+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 29 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
 | 30 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
 | 31 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 32 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
-| 33 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 34 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
-| 35 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 36 | [KUCH ITNE HASEEN FT PRIYANKIT](http://twitter.com/search?q=KUCH+ITNE+HASEEN+FT+PRIYANKIT) | N/A |
-| 37 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 38 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 39 | [Allahabad](http://twitter.com/search?q=Allahabad) | N/A |
-| 40 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
-| 41 | [Meditation](http://twitter.com/search?q=Meditation) | N/A |
+| 32 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 33 | [शौर्य शिरोमणि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf) | N/A |
+| 34 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
+| 35 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
+| 36 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 37 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 38 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 39 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 40 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 41 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
 | 42 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 43 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 44 | [राष्ट्रवादी पत्रकार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 45 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 46 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
-| 47 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 48 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
-| 49 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 50 | [Modiji Ensure Justice 4SSR](http://twitter.com/search?q=Modiji+Ensure+Justice+4SSR) | N/A |
+| 43 | [KUCH ITNE HASEEN FT PRIYANKIT](http://twitter.com/search?q=KUCH+ITNE+HASEEN+FT+PRIYANKIT) | N/A |
+| 44 | [राजे भोसले](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87+%e0%a4%ad%e0%a5%8b%e0%a4%b8%e0%a4%b2%e0%a5%87) | N/A |
+| 45 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 46 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
+| 47 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 48 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 49 | [Daryl Mitchell](http://twitter.com/search?q=Daryl+Mitchell) | N/A |
+| 50 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
 
 
 
