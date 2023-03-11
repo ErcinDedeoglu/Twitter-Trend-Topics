@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-11 02:32:54 UTC`
+📆 Last Updated: `2023-03-11 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 1 | [#ALDENBackOnEB](http://twitter.com/search?q=%23ALDENBackOnEB) | N/A |
+| 2 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 3 | [STELL HINAHAMON KITA](http://twitter.com/search?q=STELL+HINAHAMON+KITA) | N/A |
-| 4 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 5 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
-| 6 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
-| 7 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
-| 8 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 9 | [happy kumuniversary angge](http://twitter.com/search?q=happy+kumuniversary+angge) | N/A |
-| 10 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 11 | [tatakstarmagic withdonny](http://twitter.com/search?q=tatakstarmagic+withdonny) | N/A |
-| 12 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 13 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 14 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 15 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 16 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 17 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 18 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
-| 19 | [happy birthday yoongi](http://twitter.com/search?q=happy+birthday+yoongi) | N/A |
-| 20 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
-| 21 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 22 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 23 | [hello vibrent era](http://twitter.com/search?q=hello+vibrent+era) | N/A |
-| 24 | [debate night](http://twitter.com/search?q=debate+night) | N/A |
-| 25 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 26 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 29 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 30 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 31 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 32 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 34 | [Don Quixote](http://twitter.com/search?q=Don+Quixote) | N/A |
-| 35 | [Circles](http://twitter.com/search?q=Circles) | N/A |
-| 36 | [London](http://twitter.com/search?q=London) | N/A |
-| 37 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 38 | [luvis ciha sean lucas](http://twitter.com/search?q=luvis+ciha+sean+lucas) | N/A |
-| 39 | [mandy teenclash d-7](http://twitter.com/search?q=mandy+teenclash+d-7) | N/A |
-| 40 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 41 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
-| 42 | [KDLEX PEP HEADLINER](http://twitter.com/search?q=KDLEX+PEP+HEADLINER) | N/A |
-| 43 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 44 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 45 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 46 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 47 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 48 | [Daming](http://twitter.com/search?q=Daming) | N/A |
-| 49 | [Getaway Car](http://twitter.com/search?q=Getaway+Car) | N/A |
-| 50 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 4 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 5 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
+| 6 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
+| 7 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
+| 8 | [SEHAM ON SHOWTIME](http://twitter.com/search?q=SEHAM+ON+SHOWTIME) | N/A |
+| 9 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
+| 10 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 12 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 13 | [ANJBRENT WeWantMORe](http://twitter.com/search?q=ANJBRENT+WeWantMORe) | N/A |
+| 14 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 15 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 16 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 17 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 18 | [VIBRENT MATAPANG SA EDSA](http://twitter.com/search?q=VIBRENT+MATAPANG+SA+EDSA) | N/A |
+| 19 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 20 | [tatakstarmagic withdonny](http://twitter.com/search?q=tatakstarmagic+withdonny) | N/A |
+| 21 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
+| 22 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
+| 23 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 24 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 25 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
+| 26 | [HAPPY KUMUNIVERSARY ANGGE](http://twitter.com/search?q=HAPPY+KUMUNIVERSARY+ANGGE) | N/A |
+| 27 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 28 | [Pretty U](http://twitter.com/search?q=Pretty+U) | N/A |
+| 29 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 30 | [JOIN PPOPCOM 2023](http://twitter.com/search?q=JOIN+PPOPCOM+2023) | N/A |
+| 31 | [ot7 live](http://twitter.com/search?q=ot7+live) | N/A |
+| 32 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 33 | [debate night](http://twitter.com/search?q=debate+night) | N/A |
+| 34 | [april comeback](http://twitter.com/search?q=april+comeback) | N/A |
+| 35 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 36 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 37 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
+| 38 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 39 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 40 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 41 | [vibrent matapang billboard](http://twitter.com/search?q=vibrent+matapang+billboard) | N/A |
+| 42 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 43 | [hello vibrent era](http://twitter.com/search?q=hello+vibrent+era) | N/A |
+| 44 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 45 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 46 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 47 | [KDLEX PEP HEADLINER](http://twitter.com/search?q=KDLEX+PEP+HEADLINER) | N/A |
+| 48 | [My My](http://twitter.com/search?q=My+My) | N/A |
+| 49 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 50 | [Circles](http://twitter.com/search?q=Circles) | N/A |
 
 
 

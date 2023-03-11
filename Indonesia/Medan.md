@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-11 02:32:47 UTC`
+📆 Last Updated: `2023-03-11 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
-| 2 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 3 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 4 | [#AmalkanSyariahKaffah](http://twitter.com/search?q=%23AmalkanSyariahKaffah) | N/A |
-| 5 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
-| 6 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 7 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 8 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 9 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 10 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
-| 11 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 12 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
-| 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 14 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 15 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
-| 16 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
-| 17 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
-| 18 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 19 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
-| 20 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 21 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
-| 22 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 23 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
-| 26 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 27 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
-| 28 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
-| 29 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
-| 30 | [Pagiiii](http://twitter.com/search?q=Pagiiii) | N/A |
-| 31 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
-| 32 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
-| 33 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
-| 34 | [mingyu potong rambut](http://twitter.com/search?q=mingyu+potong+rambut) | N/A |
-| 35 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 36 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 37 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 38 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 39 | [Pembunuh](http://twitter.com/search?q=Pembunuh) | N/A |
-| 40 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
-| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 42 | [08.00 WIB](http://twitter.com/search?q=08.00+WIB) | N/A |
-| 43 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 44 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
-| 45 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
-| 46 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 48 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 49 | [Lapas Narkotika Jakarta](http://twitter.com/search?q=Lapas+Narkotika+Jakarta) | N/A |
-| 50 | [Pagi-pagi](http://twitter.com/search?q=Pagi-pagi) | N/A |
+| 1 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
+| 2 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
+| 3 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 4 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 5 | [Teh Gelas Jaksel](http://twitter.com/search?q=Teh+Gelas+Jaksel) | N/A |
+| 6 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 7 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
+| 8 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 9 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
+| 10 | [#toppedup](http://twitter.com/search?q=%23toppedup) | N/A |
+| 11 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
+| 12 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
+| 13 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 14 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
+| 15 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 16 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 17 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 19 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 20 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 21 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 23 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 24 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 25 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 26 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 27 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 28 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 29 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
+| 30 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 31 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 32 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 33 | [Piwiken](http://twitter.com/search?q=Piwiken) | N/A |
+| 34 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 35 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 36 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 37 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
+| 38 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 39 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 40 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 41 | [kyungsoo anak gaul seoul](http://twitter.com/search?q=kyungsoo+anak+gaul+seoul) | N/A |
+| 42 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 43 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 44 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 45 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
+| 46 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 47 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
+| 48 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
+| 49 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 50 | [Lapas Narkotika Jakarta](http://twitter.com/search?q=Lapas+Narkotika+Jakarta) | N/A |
 
 
 

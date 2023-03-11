@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-03-11 02:32:36 UTC`
+📆 Last Updated: `2023-03-11 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
 | 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
 | 3 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
-| 4 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 4 | [Dr. José María Vargas](http://twitter.com/search?q=Dr.+Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
 | 5 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 6 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 7 | [#ListosConCapriles](http://twitter.com/search?q=%23ListosConCapriles) | N/A |
-| 8 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 11 | [TINI TOUR EN USA Y VZLA](http://twitter.com/search?q=TINI+TOUR+EN+USA+Y+VZLA) | N/A |
-| 12 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 6 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 7 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 8 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 9 | [TINI TOUR EN USA Y VZLA](http://twitter.com/search?q=TINI+TOUR+EN+USA+Y+VZLA) | N/A |
+| 10 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
+| 11 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 12 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
 | 13 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 14 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 15 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 16 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
-| 17 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 18 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 20 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 21 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 22 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
-| 23 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 24 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 25 | [Aroldo Betancourt](http://twitter.com/search?q=Aroldo+Betancourt) | N/A |
-| 26 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 27 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 28 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 29 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 30 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 31 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 32 | [Sociedad Médica de Caracas](http://twitter.com/search?q=Sociedad+M%c3%a9dica+de+Caracas) | N/A |
-| 33 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
-| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 35 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
-| 36 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 37 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
-| 38 | [Bono Mujer Venezuela](http://twitter.com/search?q=Bono+Mujer+Venezuela) | N/A |
-| 39 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 14 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 17 | [Sociedad Médica de Caracas](http://twitter.com/search?q=Sociedad+M%c3%a9dica+de+Caracas) | N/A |
+| 18 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 19 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 20 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 21 | [Leandro Cufré](http://twitter.com/search?q=Leandro+Cufr%c3%a9) | N/A |
+| 22 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 23 | [Universidad de Caracas](http://twitter.com/search?q=Universidad+de+Caracas) | N/A |
+| 24 | [Carmen Victoria Pérez](http://twitter.com/search?q=Carmen+Victoria+P%c3%a9rez) | N/A |
+| 25 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 26 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 27 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 28 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 29 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 30 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 31 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 32 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 33 | [Juan José Landaeta](http://twitter.com/search?q=Juan+Jos%c3%a9+Landaeta) | N/A |
+| 34 | [Aroldo Betancourt](http://twitter.com/search?q=Aroldo+Betancourt) | N/A |
+| 35 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
+| 36 | [Vicente Rosales](http://twitter.com/search?q=Vicente+Rosales) | N/A |
+| 37 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 38 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 39 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
 | 40 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 41 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
-| 42 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
-| 43 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
-| 44 | [Boza](http://twitter.com/search?q=Boza) | N/A |
-| 45 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 46 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
-| 47 | [Esculapio](http://twitter.com/search?q=Esculapio) | N/A |
-| 48 | [Agradecido](http://twitter.com/search?q=Agradecido) | N/A |
-| 49 | [Exitos](http://twitter.com/search?q=Exitos) | N/A |
+| 41 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 42 | [Endrys Briceño](http://twitter.com/search?q=Endrys+Brice%c3%b1o) | N/A |
+| 43 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
+| 44 | [Selecciones](http://twitter.com/search?q=Selecciones) | N/A |
+| 45 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
+| 46 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 47 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
+| 48 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 49 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
 
 
 

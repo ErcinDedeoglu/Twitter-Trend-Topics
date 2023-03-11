@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-11 02:32:39 UTC`
+📆 Last Updated: `2023-03-11 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
-| 3 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
+| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
 | 4 | [#lgdmie](http://twitter.com/search?q=%23lgdmie) | N/A |
-| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 5 | [#rczślą](http://twitter.com/search?q=%23rcz%c5%9bl%c4%85) | N/A |
 | 6 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 7 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 8 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 9 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 10 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 11 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
-| 12 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 13 | [interu](http://twitter.com/search?q=interu) | N/A |
-| 14 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 15 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 17 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
-| 18 | [Chojnicach](http://twitter.com/search?q=Chojnicach) | N/A |
-| 19 | [Stawny](http://twitter.com/search?q=Stawny) | N/A |
-| 20 | [spezii](http://twitter.com/search?q=spezii) | N/A |
-| 21 | [Interem](http://twitter.com/search?q=Interem) | N/A |
-| 22 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
-| 23 | [Ciekawa](http://twitter.com/search?q=Ciekawa) | N/A |
-| 24 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 25 | [Dnia Mężczyzny](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzny) | N/A |
-| 26 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 27 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 30 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 31 | [Katowice](http://twitter.com/search?q=Katowice) | N/A |
-| 32 | [grabiec](http://twitter.com/search?q=grabiec) | N/A |
-| 33 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
-| 34 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 35 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 36 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
-| 37 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 38 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 39 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 40 | [Poddębicach](http://twitter.com/search?q=Podd%c4%99bicach) | N/A |
-| 41 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 42 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 43 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 45 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 46 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 47 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
-| 48 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 7 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 8 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 9 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 10 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 11 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 12 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
+| 13 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
+| 14 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 15 | [yeboah](http://twitter.com/search?q=yeboah) | N/A |
+| 16 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 17 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
+| 18 | [antonin hajek](http://twitter.com/search?q=antonin+hajek) | N/A |
+| 19 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 20 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 21 | [grabiec](http://twitter.com/search?q=grabiec) | N/A |
+| 22 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [sejm](http://twitter.com/search?q=sejm) | N/A |
+| 25 | [Chojnicach](http://twitter.com/search?q=Chojnicach) | N/A |
+| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 27 | [jacek żalek](http://twitter.com/search?q=jacek+%c5%bcalek) | N/A |
+| 28 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 29 | [drodzy panowie](http://twitter.com/search?q=drodzy+panowie) | N/A |
+| 30 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 31 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 32 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
+| 33 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 34 | [stawny](http://twitter.com/search?q=stawny) | N/A |
+| 35 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
+| 36 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
+| 37 | [Poddębicach](http://twitter.com/search?q=Podd%c4%99bicach) | N/A |
+| 38 | [stawka](http://twitter.com/search?q=stawka) | N/A |
+| 39 | [borsuka](http://twitter.com/search?q=borsuka) | N/A |
+| 40 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 41 | [spezii](http://twitter.com/search?q=spezii) | N/A |
+| 42 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 43 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
+| 44 | [wszystkim panom](http://twitter.com/search?q=wszystkim+panom) | N/A |
+| 45 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 46 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 47 | [hamburgu](http://twitter.com/search?q=hamburgu) | N/A |
+| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 
 
 

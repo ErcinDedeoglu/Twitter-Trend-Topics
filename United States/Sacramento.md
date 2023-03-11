@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-11 02:33:11 UTC`
+📆 Last Updated: `2023-03-11 03:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 3 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 4 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 5 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 6 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 7 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 8 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 11 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
-| 12 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 13 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 14 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 15 | [Feds](http://twitter.com/search?q=Feds) | N/A |
-| 16 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 17 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 18 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 20 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 21 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 22 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 23 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 24 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 25 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 26 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 27 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 28 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 3 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 4 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 5 | [Roku](http://twitter.com/search?q=Roku) | N/A |
+| 6 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 7 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
+| 8 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
+| 9 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
+| 10 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 11 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 12 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 13 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 14 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
+| 15 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 16 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 17 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 18 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 19 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 20 | [Zach Collins](http://twitter.com/search?q=Zach+Collins) | N/A |
+| 21 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 22 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 23 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 24 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 25 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 26 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 27 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 31 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 32 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 33 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 34 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 35 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 36 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 37 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 40 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
-| 41 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 42 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 43 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 44 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 45 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 46 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
-| 47 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
-| 48 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 30 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 31 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 32 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 33 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 34 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 35 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 36 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 37 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 38 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 39 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 40 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 41 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 42 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 43 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 44 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 45 | [Omier](http://twitter.com/search?q=Omier) | N/A |
+| 46 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 47 | [Nurk](http://twitter.com/search?q=Nurk) | N/A |
 
 
 

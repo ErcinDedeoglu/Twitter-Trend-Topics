@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-11 02:32:41 UTC`
+📆 Last Updated: `2023-03-11 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [France](</France>)
 | 2 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 4 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 5 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 5 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
 | 6 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
-| 7 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 8 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 9 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 10 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 11 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 12 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 13 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 14 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 15 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
-| 16 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 17 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 18 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 21 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 22 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
-| 23 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 24 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 25 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 26 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 27 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 28 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
-| 29 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
-| 30 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 31 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 32 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 33 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 36 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 37 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 38 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 39 | [Riou](http://twitter.com/search?q=Riou) | N/A |
-| 40 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 41 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
-| 42 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 43 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
-| 44 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 45 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 46 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 47 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
-| 48 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 49 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 50 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 7 | [#10marsjelis](http://twitter.com/search?q=%2310marsjelis) | N/A |
+| 8 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 9 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 10 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
+| 11 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 12 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 13 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 14 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 15 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
+| 16 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 17 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 22 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 23 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 24 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 25 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
+| 26 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 27 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 29 | [Amin Sarr](http://twitter.com/search?q=Amin+Sarr) | N/A |
+| 30 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 31 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
+| 32 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 34 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 35 | [tolisso](http://twitter.com/search?q=tolisso) | N/A |
+| 36 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 37 | [Roland Castro](http://twitter.com/search?q=Roland+Castro) | N/A |
+| 38 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 40 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
+| 41 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 42 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 43 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 44 | [Hambourg](http://twitter.com/search?q=Hambourg) | N/A |
+| 45 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 46 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 47 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 48 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 49 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 50 | [Témoins de Jéhovah](http://twitter.com/search?q=T%c3%a9moins+de+J%c3%a9hovah) | N/A |
 
 
 

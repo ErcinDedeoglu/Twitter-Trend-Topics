@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-11 02:32:45 UTC`
+📆 Last Updated: `2023-03-11 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 1 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
 | 2 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
-| 3 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 4 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 5 | [Portu](http://twitter.com/search?q=Portu) | N/A |
-| 6 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
-| 7 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
-| 8 | [Unal](http://twitter.com/search?q=Unal) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 11 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 12 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
-| 13 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 14 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 16 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 17 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 18 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
-| 19 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 21 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 22 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 23 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 24 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 25 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 26 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 27 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 28 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 29 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
-| 30 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 31 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 32 | [#YoMeRebelo11M](http://twitter.com/search?q=%23YoMeRebelo11M) | N/A |
-| 33 | [#LaReuniónSecreta](http://twitter.com/search?q=%23LaReuni%c3%b3nSecreta) | N/A |
-| 34 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
-| 35 | [#ADOME](http://twitter.com/search?q=%23ADOME) | N/A |
-| 36 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
-| 37 | [#PartidazoMovistarChampions](http://twitter.com/search?q=%23PartidazoMovistarChampions) | N/A |
-| 38 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 3 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 4 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [#PremiosIdolo](http://twitter.com/search?q=%23PremiosIdolo) | N/A |
+| 7 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 8 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 9 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 10 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 11 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 12 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
+| 13 | [portu](http://twitter.com/search?q=portu) | N/A |
+| 14 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
+| 15 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 16 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 17 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 18 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 19 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 20 | [Pepe Álvarez](http://twitter.com/search?q=Pepe+%c3%81lvarez) | N/A |
+| 21 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 22 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 23 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 24 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 25 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 26 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 27 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 29 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 30 | [Enes Unal](http://twitter.com/search?q=Enes+Unal) | N/A |
+| 31 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 32 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 33 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 34 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 35 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 36 | [sfdk](http://twitter.com/search?q=sfdk) | N/A |
+| 37 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 38 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 39 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 40 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 43 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 45 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 46 | [Salvador Seguí](http://twitter.com/search?q=Salvador+Segu%c3%ad) | N/A |
+| 47 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 48 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
 
 
 

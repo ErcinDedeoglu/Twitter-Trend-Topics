@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-11 02:33:17 UTC`
+📆 Last Updated: `2023-03-11 03:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 4 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 5 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
-| 6 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 9 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 10 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 11 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 12 | [#enhorafresa](http://twitter.com/search?q=%23enhorafresa) | N/A |
-| 13 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 14 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 15 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 16 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 17 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 18 | [#LadyPelotas](http://twitter.com/search?q=%23LadyPelotas) | N/A |
-| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 22 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 23 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
-| 24 | [Justin Fields](http://twitter.com/search?q=Justin+Fields) | Justin Fields is the name of an American football player. He is a quarterback for the Ohio State Buckeyes and was a Heisman Trophy finalist in 2019. The name Justin Fields is derived from the Latin word iustus, which means "just" or "fair". |
-| 25 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 26 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
-| 27 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 28 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 29 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 30 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 31 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 32 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 33 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
-| 34 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 35 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 36 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 37 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 38 | [Antonio Chedraui Mafud](http://twitter.com/search?q=Antonio+Chedraui+Mafud) | N/A |
-| 39 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 40 | [Periodismo](http://twitter.com/search?q=Periodismo) | N/A |
-| 41 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 42 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 43 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 44 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 45 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 46 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 47 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 48 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 1 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
+| 2 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
+| 3 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 4 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
+| 5 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 8 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 9 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 10 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 11 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 12 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 13 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 14 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 15 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 18 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 19 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 20 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 21 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 22 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 23 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 24 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
+| 25 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 26 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 27 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 28 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 29 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
+| 32 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 33 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 34 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 35 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 36 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 37 | [Callo](http://twitter.com/search?q=Callo) | N/A |
+| 38 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 39 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 40 | [Coppel](http://twitter.com/search?q=Coppel) | N/A |
+| 41 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 42 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 43 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 44 | [Periodismo](http://twitter.com/search?q=Periodismo) | N/A |
+| 45 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 46 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 47 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 48 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
 | 49 | [Narcoestado](http://twitter.com/search?q=Narcoestado) | N/A |
-| 50 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
+| 50 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 
 
 

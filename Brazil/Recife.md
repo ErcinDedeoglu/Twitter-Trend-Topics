@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-11 02:32:37 UTC`
+📆 Last Updated: `2023-03-11 03:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 1 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 2 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
 | 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 4 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 5 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 5 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
 | 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 7 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
 | 8 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 9 | [Amanda e Sapato](http://twitter.com/search?q=Amanda+e+Sapato) | Amanda e Sapato is a Brazilian children's television show that follows the adventures of two friends, Amanda and Sapato, as they explore the world around them. The show's title translates to "Amanda and Shoe" in English. |
-| 10 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 11 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 12 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 13 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 14 | [OU NENHUM DOS DOIS](http://twitter.com/search?q=OU+NENHUM+DOS+DOIS) | N/A |
-| 15 | [#1AnoDeComfortEOmo](http://twitter.com/search?q=%231AnoDeComfortEOmo) | N/A |
-| 16 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
-| 17 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
-| 18 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 19 | [charlie brown](http://twitter.com/search?q=charlie+brown) | N/A |
-| 20 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 21 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 22 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
-| 23 | [#EstrelasLGBTQ](http://twitter.com/search?q=%23EstrelasLGBTQ) | N/A |
-| 24 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 25 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 26 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 9 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 10 | [Sapato e Amanda](http://twitter.com/search?q=Sapato+e+Amanda) | N/A |
+| 11 | [GUSKEY NO PARIS 6](http://twitter.com/search?q=GUSKEY+NO+PARIS+6) | N/A |
+| 12 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
+| 13 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
+| 14 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 16 | [Empoderamento](http://twitter.com/search?q=Empoderamento) | N/A |
+| 17 | [#EstrelasLGBTQ](http://twitter.com/search?q=%23EstrelasLGBTQ) | N/A |
+| 18 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
+| 19 | [OU NENHUM DOS DOIS](http://twitter.com/search?q=OU+NENHUM+DOS+DOIS) | N/A |
+| 20 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 21 | [#1AnoDeComfortEOmo](http://twitter.com/search?q=%231AnoDeComfortEOmo) | N/A |
+| 22 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 23 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 24 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 25 | [#CaminhoDasÍndiasNoVIVA](http://twitter.com/search?q=%23CaminhoDas%c3%8dndiasNoVIVA) | N/A |
+| 26 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
 | 27 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
-| 28 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
-| 29 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
-| 30 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 31 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
-| 32 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 33 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
-| 34 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 35 | [CONSENSO](http://twitter.com/search?q=CONSENSO) | N/A |
-| 36 | [Fumê](http://twitter.com/search?q=Fum%c3%aa) | N/A |
-| 37 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 38 | [NIVER DA BRUNA](http://twitter.com/search?q=NIVER+DA+BRUNA) | N/A |
-| 39 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
-| 40 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 41 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 42 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 43 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 44 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 45 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 46 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 47 | [Egoísta](http://twitter.com/search?q=Ego%c3%adsta) | N/A |
-| 48 | [Gansinho](http://twitter.com/search?q=Gansinho) | N/A |
-| 49 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 50 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
+| 28 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 29 | [E- Beija](http://twitter.com/search?q=E-+Beija) | N/A |
+| 30 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 31 | [Egoísta](http://twitter.com/search?q=Ego%c3%adsta) | N/A |
+| 32 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 33 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 34 | [Fumê](http://twitter.com/search?q=Fum%c3%aa) | N/A |
+| 35 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 36 | [L- Você](http://twitter.com/search?q=L-+Voc%c3%aa) | N/A |
+| 37 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 38 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
+| 39 | [Adélia](http://twitter.com/search?q=Ad%c3%a9lia) | N/A |
+| 40 | [NIVER DA BRUNA](http://twitter.com/search?q=NIVER+DA+BRUNA) | N/A |
+| 41 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 42 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
+| 43 | [Cedeu](http://twitter.com/search?q=Cedeu) | N/A |
+| 44 | [Surya](http://twitter.com/search?q=Surya) | N/A |
+| 45 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 46 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 47 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 48 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
+| 49 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 50 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
 
 
 

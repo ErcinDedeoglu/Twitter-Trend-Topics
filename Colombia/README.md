@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-11 02:33:14 UTC`
+📆 Last Updated: `2023-03-11 03:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 1 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 2 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 3 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 4 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 5 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 6 | [#MeDaSusto](http://twitter.com/search?q=%23MeDaSusto) | N/A |
-| 7 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 8 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 9 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 10 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 11 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 12 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 13 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
-| 14 | [Tiembla](http://twitter.com/search?q=Tiembla) | N/A |
-| 15 | [Leonela](http://twitter.com/search?q=Leonela) | N/A |
-| 16 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 20 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
-| 21 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 22 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 23 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 24 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
-| 25 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 26 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
-| 27 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 28 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 29 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
-| 30 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 31 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 32 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
-| 33 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 34 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 35 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
-| 36 | [Migración Colombia](http://twitter.com/search?q=Migraci%c3%b3n+Colombia) | N/A |
-| 37 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
-| 38 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 39 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
-| 40 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 41 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
-| 42 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 43 | [tomás ángel](http://twitter.com/search?q=tom%c3%a1s+%c3%a1ngel) | N/A |
-| 44 | [Extraditada](http://twitter.com/search?q=Extraditada) | N/A |
-| 45 | [Dijin](http://twitter.com/search?q=Dijin) | N/A |
-| 46 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 47 | [Hetero](http://twitter.com/search?q=Hetero) | N/A |
-| 48 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 49 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 50 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 3 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 4 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 5 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 6 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 7 | [#MeDaSusto](http://twitter.com/search?q=%23MeDaSusto) | N/A |
+| 8 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 9 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 10 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 11 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 12 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 13 | [Durísimo](http://twitter.com/search?q=Dur%c3%adsimo) | N/A |
+| 14 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 15 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
+| 16 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
+| 17 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 18 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 19 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 20 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
+| 21 | [Leonela](http://twitter.com/search?q=Leonela) | N/A |
+| 22 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 23 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 24 | [Tiembla](http://twitter.com/search?q=Tiembla) | N/A |
+| 25 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 26 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 27 | [Rebelde](http://twitter.com/search?q=Rebelde) | N/A |
+| 28 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 29 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 30 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 33 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 34 | [Dareska](http://twitter.com/search?q=Dareska) | N/A |
+| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 36 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 37 | [Culpa de Petro](http://twitter.com/search?q=Culpa+de+Petro) | N/A |
+| 38 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 39 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 40 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
+| 41 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
+| 42 | [también caerás](http://twitter.com/search?q=tambi%c3%a9n+caer%c3%a1s) | N/A |
+| 43 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 44 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 45 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 46 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
+| 47 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 48 | [Hetero](http://twitter.com/search?q=Hetero) | N/A |
+| 49 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 50 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
 
 
 
