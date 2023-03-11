@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-11 18:16:31 UTC`
+📆 Last Updated: `2023-03-11 19:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
-| 2 | [#nrlstormbulldogs](http://twitter.com/search?q=%23nrlstormbulldogs) | N/A |
+| 2 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#NRLRoostersWarriors](http://twitter.com/search?q=%23NRLRoostersWarriors) | N/A |
-| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 5 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 13 | [dean holland](http://twitter.com/search?q=dean+holland) | N/A |
-| 14 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 15 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 17 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 14 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 15 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 18 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 20 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 22 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 23 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 24 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
-| 25 | [SANFL](http://twitter.com/search?q=SANFL) | N/A |
-| 26 | [barilaro](http://twitter.com/search?q=barilaro) | N/A |
-| 27 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 28 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 29 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 30 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 31 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 33 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 34 | [katherine deves](http://twitter.com/search?q=katherine+deves) | N/A |
-| 35 | [rick morton](http://twitter.com/search?q=rick+morton) | N/A |
-| 36 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 39 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
-| 40 | [What You Need](http://twitter.com/search?q=What+You+Need) | N/A |
-| 41 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
-| 42 | [jamie kah](http://twitter.com/search?q=jamie+kah) | N/A |
-| 43 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
-| 44 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 45 | [espiona](http://twitter.com/search?q=espiona) | N/A |
-| 46 | [Drua](http://twitter.com/search?q=Drua) | N/A |
-| 47 | [Port](http://twitter.com/search?q=Port) | N/A |
-| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 19 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 20 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 21 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 22 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 23 | [ricky stuart](http://twitter.com/search?q=ricky+stuart) | N/A |
+| 24 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
+| 25 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
+| 26 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 27 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
+| 28 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 29 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
+| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 31 | [rick morton](http://twitter.com/search?q=rick+morton) | N/A |
+| 32 | [katherine deves](http://twitter.com/search?q=katherine+deves) | N/A |
+| 33 | [sanfl](http://twitter.com/search?q=sanfl) | N/A |
+| 34 | [drua](http://twitter.com/search?q=drua) | N/A |
+| 35 | [jamie kah](http://twitter.com/search?q=jamie+kah) | N/A |
+| 36 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 37 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
+| 38 | [what you need](http://twitter.com/search?q=what+you+need) | N/A |
+| 39 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 40 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 41 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
+| 42 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 43 | [Craig Williams](http://twitter.com/search?q=Craig+Williams) | N/A |
+| 44 | [espiona](http://twitter.com/search?q=espiona) | N/A |
+| 45 | [Port](http://twitter.com/search?q=Port) | N/A |
+| 46 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 47 | [Oates](http://twitter.com/search?q=Oates) | N/A |
+| 48 | [Antic](http://twitter.com/search?q=Antic) | N/A |
 
 
 

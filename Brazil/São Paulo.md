@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-11 18:16:21 UTC`
+📆 Last Updated: `2023-03-11 19:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 2 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 3 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 4 | [É HOJE](http://twitter.com/search?q=%c3%89+HOJE) | N/A |
-| 5 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 6 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 7 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 8 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 10 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 11 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 12 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 14 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 15 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 17 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 18 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
-| 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 23 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
-| 24 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 25 | [Cezar e Larissa](http://twitter.com/search?q=Cezar+e+Larissa) | N/A |
-| 26 | [Robs](http://twitter.com/search?q=Robs) | N/A |
-| 27 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 28 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 29 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 30 | [#BlastR6](http://twitter.com/search?q=%23BlastR6) | N/A |
-| 31 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
-| 32 | [Aline e Domitila](http://twitter.com/search?q=Aline+e+Domitila) | N/A |
-| 33 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 34 | [Novara](http://twitter.com/search?q=Novara) | N/A |
-| 35 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 36 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 37 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 38 | [Amanda Meirelles](http://twitter.com/search?q=Amanda+Meirelles) | N/A |
-| 39 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 2 | [#BlastR6](http://twitter.com/search?q=%23BlastR6) | N/A |
+| 3 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
+| 4 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 5 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 6 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 7 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [OITO MILHOES DA KEY](http://twitter.com/search?q=OITO+MILHOES+DA+KEY) | N/A |
+| 10 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 11 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 12 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 13 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 14 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 15 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 16 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 17 | [#WonderWomanAnimatedSeries](http://twitter.com/search?q=%23WonderWomanAnimatedSeries) | N/A |
+| 18 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 19 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 22 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 23 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 24 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 25 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 26 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
+| 27 | [Velocidade Máxima](http://twitter.com/search?q=Velocidade+M%c3%a1xima) | N/A |
+| 28 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 29 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 31 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 32 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
+| 33 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 34 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 35 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 36 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 37 | [Novara](http://twitter.com/search?q=Novara) | N/A |
+| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 39 | [Amanda Meirelles](http://twitter.com/search?q=Amanda+Meirelles) | N/A |
 | 40 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
-| 41 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 42 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 43 | [Alface e Marvvila](http://twitter.com/search?q=Alface+e+Marvvila) | N/A |
-| 44 | [Keyd](http://twitter.com/search?q=Keyd) | N/A |
-| 45 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 46 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 47 | [manu cit](http://twitter.com/search?q=manu+cit) | N/A |
-| 48 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 49 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 50 | [The 100](http://twitter.com/search?q=The+100) | N/A |
+| 41 | [Top Brasil](http://twitter.com/search?q=Top+Brasil) | N/A |
+| 42 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
+| 43 | [Robs](http://twitter.com/search?q=Robs) | N/A |
+| 44 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 45 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 46 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 47 | [The 100](http://twitter.com/search?q=The+100) | N/A |
+| 48 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 49 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 50 | [Cezar e Larissa](http://twitter.com/search?q=Cezar+e+Larissa) | N/A |
 
 
 

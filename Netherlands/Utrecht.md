@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-11 18:16:27 UTC`
+📆 Last Updated: `2023-03-11 19:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
 | 2 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
 | 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 4 | [#teamwaterkanon](http://twitter.com/search?q=%23teamwaterkanon) | N/A |
-| 5 | [#emmexc](http://twitter.com/search?q=%23emmexc) | N/A |
+| 4 | [#fortwe](http://twitter.com/search?q=%23fortwe) | N/A |
+| 5 | [#teamwaterkanon](http://twitter.com/search?q=%23teamwaterkanon) | N/A |
 | 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 7 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
 | 8 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 9 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
-| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 11 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 12 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 15 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 16 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 17 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 18 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
-| 19 | [pim lammers](http://twitter.com/search?q=pim+lammers) | N/A |
+| 16 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 17 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
+| 18 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 19 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
 | 20 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 21 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
-| 22 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
-| 23 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
-| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 25 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
-| 26 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
-| 27 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
-| 28 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
-| 29 | [Eva Vlaardingerbroek](http://twitter.com/search?q=Eva+Vlaardingerbroek) | N/A |
-| 30 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 31 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 32 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 33 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
-| 34 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
-| 35 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 36 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 37 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 38 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 39 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
-| 40 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 41 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
-| 42 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 43 | [Oever](http://twitter.com/search?q=Oever) | N/A |
-| 44 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 45 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 46 | [Tuig](http://twitter.com/search?q=Tuig) | N/A |
-| 47 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 48 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
-| 49 | [Radicale](http://twitter.com/search?q=Radicale) | N/A |
+| 21 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 22 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 23 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
+| 24 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 25 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 27 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
+| 28 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 29 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
+| 30 | [Aangifte](http://twitter.com/search?q=Aangifte) | N/A |
+| 31 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 32 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
+| 33 | [Mores](http://twitter.com/search?q=Mores) | N/A |
+| 34 | [Joost Eerdmans](http://twitter.com/search?q=Joost+Eerdmans) | N/A |
+| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 36 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 37 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 38 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
+| 39 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 40 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 41 | [jong ajax](http://twitter.com/search?q=jong+ajax) | N/A |
+| 42 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
+| 46 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 47 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 48 | [Oever](http://twitter.com/search?q=Oever) | N/A |
+| 49 | [Vereniging Vertrouwenspersonen](http://twitter.com/search?q=Vereniging+Vertrouwenspersonen) | N/A |
 
 
 

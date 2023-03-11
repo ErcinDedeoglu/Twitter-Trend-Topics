@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-11 18:16:54 UTC`
+📆 Last Updated: `2023-03-11 19:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
 | 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 6 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 7 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 8 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 9 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 10 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 4 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 5 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 6 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 7 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 8 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 9 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 10 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
+| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 12 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 14 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 15 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 16 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 17 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 18 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 19 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 20 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 21 | [Javy Baez](http://twitter.com/search?q=Javy+Baez) | N/A |
-| 22 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 24 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 25 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 27 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 28 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 31 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 32 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
-| 33 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 34 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 35 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 36 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
-| 37 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 38 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 39 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 41 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 42 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 43 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 44 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 45 | [Go USA](http://twitter.com/search?q=Go+USA) | N/A |
-| 46 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 47 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 48 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 13 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 14 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 15 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 16 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 17 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 18 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 19 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 20 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 21 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 22 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 23 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 25 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 26 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 27 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
+| 28 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 29 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 30 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 31 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
+| 32 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 33 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 34 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 35 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 36 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
+| 37 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 38 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
+| 39 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 40 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 42 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 43 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 44 | [blonde soobin](http://twitter.com/search?q=blonde+soobin) | N/A |
+| 45 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 47 | [Red Shark](http://twitter.com/search?q=Red+Shark) | N/A |
+| 48 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 49 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-11 18:16:50 UTC`
+📆 Last Updated: `2023-03-11 19:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mack](http://twitter.com/search?q=Mack) | N/A |
-| 2 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 2 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
 | 3 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 6 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 15 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 16 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 17 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 18 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 19 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 21 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 22 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 23 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
-| 24 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
-| 25 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 26 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 27 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 28 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 29 | [Javy Baez](http://twitter.com/search?q=Javy+Baez) | N/A |
-| 30 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 31 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 32 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 4 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 5 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 6 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 8 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 9 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 12 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 13 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 15 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 16 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 17 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 18 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 21 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 22 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 23 | [Hodge](http://twitter.com/search?q=Hodge) | N/A |
+| 24 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 25 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 26 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 27 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 28 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 29 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 30 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 31 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 32 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
 | 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 34 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 35 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 36 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 38 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 39 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 40 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 41 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
-| 42 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 43 | [Kenny Wayne Shepherd](http://twitter.com/search?q=Kenny+Wayne+Shepherd) | N/A |
-| 44 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
-| 45 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
-| 46 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 47 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 48 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 49 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 35 | [Roddy Gayle](http://twitter.com/search?q=Roddy+Gayle) | N/A |
+| 36 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 37 | [Miko Marks](http://twitter.com/search?q=Miko+Marks) | N/A |
+| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 39 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 40 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 41 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 42 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 43 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 44 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
+| 45 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 46 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 47 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
+| 48 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 49 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
 
 
 

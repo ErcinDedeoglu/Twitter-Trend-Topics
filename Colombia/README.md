@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-11 18:16:57 UTC`
+📆 Last Updated: `2023-03-11 19:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 4 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
 | 5 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 6 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 7 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 8 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
-| 9 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 10 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [#NoSeMeOlvida](http://twitter.com/search?q=%23NoSeMeOlvida) | N/A |
-| 13 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 17 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 18 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 19 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
-| 20 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 21 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 22 | [Bobolivar](http://twitter.com/search?q=Bobolivar) | N/A |
-| 23 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 27 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
-| 28 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 29 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 30 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
-| 31 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 32 | [Nicolasito](http://twitter.com/search?q=Nicolasito) | N/A |
-| 33 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 34 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 35 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 37 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 38 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
-| 39 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 40 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 41 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 42 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 43 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 44 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 45 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 46 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
-| 47 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 48 | [Extraditada](http://twitter.com/search?q=Extraditada) | N/A |
-| 49 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 50 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 6 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 7 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 8 | [#hacefalta](http://twitter.com/search?q=%23hacefalta) | N/A |
+| 9 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
+| 10 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
+| 11 | [#MiPrestoShake](http://twitter.com/search?q=%23MiPrestoShake) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 15 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
+| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 17 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
+| 18 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 21 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 22 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 23 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
+| 24 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 25 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 26 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 29 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 31 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 34 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 35 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 38 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 39 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 40 | [albornoz](http://twitter.com/search?q=albornoz) | N/A |
+| 41 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 42 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 43 | [Nicolasito](http://twitter.com/search?q=Nicolasito) | N/A |
+| 44 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 45 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 46 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 47 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 48 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 49 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 50 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
 
 
 
