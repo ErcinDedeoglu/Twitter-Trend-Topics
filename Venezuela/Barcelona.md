@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-11 05:16:16 UTC`
+📆 Last Updated: `2023-03-11 06:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
 | 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
 | 3 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
-| 4 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 5 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
-| 6 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 7 | [#ListosConCapriles](http://twitter.com/search?q=%23ListosConCapriles) | N/A |
+| 4 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 5 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 6 | [#ListosConCapriles](http://twitter.com/search?q=%23ListosConCapriles) | N/A |
+| 7 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
 | 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 10 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 9 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 10 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 11 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 12 | [TINI TOUR EN USA Y VZLA](http://twitter.com/search?q=TINI+TOUR+EN+USA+Y+VZLA) | N/A |
 | 13 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 14 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 15 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
-| 16 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 17 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 18 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 19 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
-| 20 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 21 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 14 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
+| 17 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 18 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 19 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
+| 20 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 21 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
 | 22 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
 | 23 | [Aroldo Betancourt](http://twitter.com/search?q=Aroldo+Betancourt) | N/A |
-| 24 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 24 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
 | 25 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 26 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 27 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 28 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 29 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 30 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 31 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 26 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 27 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 28 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
+| 29 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 30 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
+| 31 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
 | 32 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
 | 33 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
 | 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 35 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 36 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 36 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
 | 37 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 38 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 38 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
 | 39 | [Boza](http://twitter.com/search?q=Boza) | N/A |
 | 40 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 41 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 42 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 43 | [Bono Mujer Venezuela](http://twitter.com/search?q=Bono+Mujer+Venezuela) | N/A |
-| 44 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
+| 41 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 42 | [Bono Mujer Venezuela](http://twitter.com/search?q=Bono+Mujer+Venezuela) | N/A |
+| 43 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
+| 44 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
 | 45 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 46 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 46 | [Tetero](http://twitter.com/search?q=Tetero) | N/A |
 
 
 

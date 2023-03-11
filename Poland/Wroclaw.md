@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-11 05:16:20 UTC`
+📆 Last Updated: `2023-03-11 06:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Poland](</Poland>)
 | 6 | [#twojatwarzbrzmiznajomo](http://twitter.com/search?q=%23twojatwarzbrzmiznajomo) | N/A |
 | 7 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 | 8 | [rokietnicy](http://twitter.com/search?q=rokietnicy) | N/A |
-| 9 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 9 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
 | 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 11 | [częstochowie](http://twitter.com/search?q=cz%c4%99stochowie) | N/A |
-| 12 | [miedź](http://twitter.com/search?q=mied%c5%ba) | N/A |
+| 11 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 12 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
 | 13 | [yeboah](http://twitter.com/search?q=yeboah) | N/A |
 | 14 | [interu](http://twitter.com/search?q=interu) | N/A |
 | 15 | [ochojskiej](http://twitter.com/search?q=ochojskiej) | N/A |
-| 16 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 17 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 18 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
-| 19 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
-| 20 | [stawny](http://twitter.com/search?q=stawny) | N/A |
-| 21 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 18 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 19 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
+| 20 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
+| 21 | [stawny](http://twitter.com/search?q=stawny) | N/A |
 | 22 | [spezii](http://twitter.com/search?q=spezii) | N/A |
 | 23 | [interem](http://twitter.com/search?q=interem) | N/A |
-| 24 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
-| 25 | [ciekawa](http://twitter.com/search?q=ciekawa) | N/A |
-| 26 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
-| 27 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 28 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 29 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 24 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 25 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
+| 26 | [ciekawa](http://twitter.com/search?q=ciekawa) | N/A |
+| 27 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
+| 28 | [franek](http://twitter.com/search?q=franek) | N/A |
+| 29 | [Germans](http://twitter.com/search?q=Germans) | N/A |
 | 30 | [katowice](http://twitter.com/search?q=katowice) | N/A |
-| 31 | [grabiec](http://twitter.com/search?q=grabiec) | N/A |
-| 32 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
-| 33 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 31 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
+| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 33 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 34 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
 | 35 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 37 | [ojca świętego](http://twitter.com/search?q=ojca+%c5%9bwi%c4%99tego) | N/A |
+| 36 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 37 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
 | 38 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 39 | [Poddębicach](http://twitter.com/search?q=Podd%c4%99bicach) | N/A |
+| 39 | [poddębicach](http://twitter.com/search?q=podd%c4%99bicach) | N/A |
 | 40 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
 | 41 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 42 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 43 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 44 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
-| 45 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
-| 46 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 42 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 43 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 44 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 45 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
+| 46 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
 | 47 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 | 48 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 49 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 50 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
+| 49 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 50 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
 
 
 

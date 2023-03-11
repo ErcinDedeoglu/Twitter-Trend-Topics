@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-11 05:16:19 UTC`
+📆 Last Updated: `2023-03-11 06:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 2 | [paloma](http://twitter.com/search?q=paloma) | N/A |
-| 3 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 4 | [Graciani](http://twitter.com/search?q=Graciani) | N/A |
-| 5 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
-| 6 | [Avalos](http://twitter.com/search?q=Avalos) | N/A |
-| 7 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
-| 8 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 9 | [#Instituto](http://twitter.com/search?q=%23Instituto) | N/A |
-| 10 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 11 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 12 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
-| 13 | [De La Fuente](http://twitter.com/search?q=De+La+Fuente) | N/A |
-| 14 | [Parnisari](http://twitter.com/search?q=Parnisari) | N/A |
-| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 16 | [Mateo Coronel](http://twitter.com/search?q=Mateo+Coronel) | N/A |
-| 17 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
-| 18 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
-| 19 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 20 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 21 | [#ElPuebloConCristina](http://twitter.com/search?q=%23ElPuebloConCristina) | N/A |
-| 22 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
-| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 24 | [Argentinos](http://twitter.com/search?q=Argentinos) | N/A |
-| 25 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
-| 26 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 27 | [Ivan de Pineda](http://twitter.com/search?q=Ivan+de+Pineda) | N/A |
-| 28 | [Condenada](http://twitter.com/search?q=Condenada) | N/A |
-| 29 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 31 | [Vicepresidente](http://twitter.com/search?q=Vicepresidente) | N/A |
-| 32 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 33 | [Rafaela](http://twitter.com/search?q=Rafaela) | N/A |
-| 34 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 35 | [Tévez](http://twitter.com/search?q=T%c3%a9vez) | N/A |
-| 36 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 37 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 38 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 39 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 40 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
-| 41 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 42 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 43 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 44 | [Versace](http://twitter.com/search?q=Versace) | N/A |
-| 45 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 46 | [#Fecha7](http://twitter.com/search?q=%23Fecha7) | N/A |
-| 47 | [#CFKLadronaDeLaNacionArgentina](http://twitter.com/search?q=%23CFKLadronaDeLaNacionArgentina) | N/A |
-| 48 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 1 | [#ElPuebloConCristina](http://twitter.com/search?q=%23ElPuebloConCristina) | N/A |
+| 2 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 3 | [Conti](http://twitter.com/search?q=Conti) | N/A |
+| 4 | [paloma](http://twitter.com/search?q=paloma) | N/A |
+| 5 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 6 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 7 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 8 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
+| 9 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 10 | [Ivan de Pineda](http://twitter.com/search?q=Ivan+de+Pineda) | N/A |
+| 11 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 12 | [#dialollapaloozaenlos40](http://twitter.com/search?q=%23dialollapaloozaenlos40) | N/A |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 14 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 15 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 16 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 17 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 18 | [8-Brócoli](http://twitter.com/search?q=8-Br%c3%b3coli) | N/A |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 21 | [10-Polenta](http://twitter.com/search?q=10-Polenta) | N/A |
+| 22 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 25 | [9-Morcilla](http://twitter.com/search?q=9-Morcilla) | N/A |
+| 26 | [4-Roquefort](http://twitter.com/search?q=4-Roquefort) | N/A |
+| 27 | [12-Espinaca](http://twitter.com/search?q=12-Espinaca) | N/A |
+| 28 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 29 | [5-Rúcula](http://twitter.com/search?q=5-R%c3%bacula) | N/A |
+| 30 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
+| 31 | [2-Ketchup](http://twitter.com/search?q=2-Ketchup) | N/A |
+| 32 | [11-Apio](http://twitter.com/search?q=11-Apio) | N/A |
+| 33 | [15-Helado](http://twitter.com/search?q=15-Helado) | N/A |
+| 34 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
+| 35 | [14-Pasas](http://twitter.com/search?q=14-Pasas) | N/A |
+| 36 | [7-Mondongo](http://twitter.com/search?q=7-Mondongo) | N/A |
+| 37 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 38 | [13-Melón](http://twitter.com/search?q=13-Mel%c3%b3n) | N/A |
+| 39 | [1-Zapallo](http://twitter.com/search?q=1-Zapallo) | N/A |
+| 40 | [#almacenvivo](http://twitter.com/search?q=%23almacenvivo) | N/A |
+| 41 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 42 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
+| 43 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 44 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
+| 45 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 46 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 47 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 48 | [De La Fuente](http://twitter.com/search?q=De+La+Fuente) | N/A |
+| 49 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 50 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
 
 
 

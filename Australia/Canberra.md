@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-11 05:16:29 UTC`
+📆 Last Updated: `2023-03-11 06:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#NRLBroncosCowboys](http://twitter.com/search?q=%23NRLBroncosCowboys) | N/A |
-| 7 | [#Supercars](http://twitter.com/search?q=%23Supercars) | N/A |
-| 8 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 9 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 10 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 11 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
-| 12 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 13 | [Revolutionary Miss](http://twitter.com/search?q=Revolutionary+Miss) | N/A |
-| 14 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
-| 15 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 17 | [Jamie Kah](http://twitter.com/search?q=Jamie+Kah) | N/A |
-| 18 | [What You Need](http://twitter.com/search?q=What+You+Need) | N/A |
-| 19 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 20 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 21 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
-| 22 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 23 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
-| 24 | [Craig Williams](http://twitter.com/search?q=Craig+Williams) | N/A |
-| 25 | [Catherine Holmes](http://twitter.com/search?q=Catherine+Holmes) | N/A |
-| 26 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 27 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
-| 28 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 29 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 30 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 31 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 32 | [Rick Morton](http://twitter.com/search?q=Rick+Morton) | N/A |
-| 33 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 34 | [Julia Gillard](http://twitter.com/search?q=Julia+Gillard) | N/A |
-| 35 | [Jordan Thompson](http://twitter.com/search?q=Jordan+Thompson) | N/A |
-| 36 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 37 | [John Barilaro](http://twitter.com/search?q=John+Barilaro) | N/A |
-| 38 | [Oates](http://twitter.com/search?q=Oates) | N/A |
-| 39 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
-| 40 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 41 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 42 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 43 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 45 | [morning rob](http://twitter.com/search?q=morning+rob) | N/A |
-| 46 | [Mr Caleb](http://twitter.com/search?q=Mr+Caleb) | N/A |
+| 6 | [#Supercars](http://twitter.com/search?q=%23Supercars) | N/A |
+| 7 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
+| 8 | [#DRUvCRU](http://twitter.com/search?q=%23DRUvCRU) | N/A |
+| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 13 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 14 | [Drua](http://twitter.com/search?q=Drua) | N/A |
+| 15 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 16 | [Espiona](http://twitter.com/search?q=Espiona) | N/A |
+| 17 | [Revolutionary Miss](http://twitter.com/search?q=Revolutionary+Miss) | N/A |
+| 18 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 19 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
+| 20 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 21 | [Jamie Kah](http://twitter.com/search?q=Jamie+Kah) | N/A |
+| 22 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 23 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 24 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 25 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
+| 26 | [Craig Williams](http://twitter.com/search?q=Craig+Williams) | N/A |
+| 27 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 28 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
+| 29 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
+| 30 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 31 | [What You Need](http://twitter.com/search?q=What+You+Need) | N/A |
+| 32 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 33 | [Catherine Holmes](http://twitter.com/search?q=Catherine+Holmes) | N/A |
+| 34 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 35 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 36 | [Julia Gillard](http://twitter.com/search?q=Julia+Gillard) | N/A |
+| 37 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 38 | [Rick Morton](http://twitter.com/search?q=Rick+Morton) | N/A |
+| 39 | [Antic](http://twitter.com/search?q=Antic) | N/A |
+| 40 | [John Barilaro](http://twitter.com/search?q=John+Barilaro) | N/A |
+| 41 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 42 | [Suaalii](http://twitter.com/search?q=Suaalii) | N/A |
+| 43 | [Oates](http://twitter.com/search?q=Oates) | N/A |
+| 44 | [Walsh](http://twitter.com/search?q=Walsh) | N/A |
+| 45 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 46 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
 | 47 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 48 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 49 | [Kick](http://twitter.com/search?q=Kick) | N/A |
+| 48 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 49 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 
 
 

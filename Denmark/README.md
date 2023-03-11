@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-11 05:16:54 UTC`
+📆 Last Updated: `2023-03-11 06:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#obaab](http://twitter.com/search?q=%23obaab) | N/A |
 | 2 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
-| 3 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 4 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
-| 5 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
-| 6 | [Lars Boje](http://twitter.com/search?q=Lars+Boje) | N/A |
-| 7 | [volbeat](http://twitter.com/search?q=volbeat) | N/A |
+| 3 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
+| 4 | [lars boje](http://twitter.com/search?q=lars+boje) | N/A |
+| 5 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
+| 6 | [Volbeat](http://twitter.com/search?q=Volbeat) | N/A |
+| 7 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 8 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
-| 9 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
-| 10 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 9 | [SKAT](http://twitter.com/search?q=SKAT) | N/A |
+| 10 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
 | 11 | [odense](http://twitter.com/search?q=odense) | N/A |
 | 12 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
 | 13 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
@@ -33,28 +33,28 @@ This is top 50 for Denmark
 | 16 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
 | 17 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 18 | [cepos](http://twitter.com/search?q=cepos) | N/A |
-| 19 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
-| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
 | 21 | [stephanie lose](http://twitter.com/search?q=stephanie+lose) | N/A |
 | 22 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
 | 23 | [mette frederiksens](http://twitter.com/search?q=mette+frederiksens) | N/A |
 | 24 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 25 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 26 | [christiansø](http://twitter.com/search?q=christians%c3%b8) | N/A |
-| 27 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
-| 28 | [slet](http://twitter.com/search?q=slet) | N/A |
-| 29 | [Mænd](http://twitter.com/search?q=M%c3%a6nd) | N/A |
-| 30 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 31 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 32 | [Giver](http://twitter.com/search?q=Giver) | N/A |
-| 33 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
-| 34 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [glæder](http://twitter.com/search?q=gl%c3%a6der) | N/A |
-| 37 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 38 | [bornholm](http://twitter.com/search?q=bornholm) | N/A |
-| 39 | [håber](http://twitter.com/search?q=h%c3%a5ber) | N/A |
-| 40 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 27 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 28 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
+| 29 | [America](http://twitter.com/search?q=America) | N/A |
+| 30 | [slet](http://twitter.com/search?q=slet) | N/A |
+| 31 | [Mænd](http://twitter.com/search?q=M%c3%a6nd) | N/A |
+| 32 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 34 | [Giver](http://twitter.com/search?q=Giver) | N/A |
+| 35 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 36 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
+| 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 38 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 39 | [bornholm](http://twitter.com/search?q=bornholm) | N/A |
+| 40 | [håber](http://twitter.com/search?q=h%c3%a5ber) | N/A |
 | 41 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 43 | [venstre](http://twitter.com/search?q=venstre) | N/A |

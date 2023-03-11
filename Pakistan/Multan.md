@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-11 05:16:40 UTC`
+📆 Last Updated: `2023-03-11 06:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PZvMS](http://twitter.com/search?q=%23PZvMS) | N/A |
-| 2 | [#چوروں_سےحقوق_لینےہونگے](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%d8%b3%db%92%d8%ad%d9%82%d9%88%d9%82_%d9%84%db%8c%d9%86%db%92%db%81%d9%88%d9%86%da%af%db%92) | N/A |
-| 3 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
-| 4 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
-| 5 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 6 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
-| 7 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 8 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 9 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 10 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 11 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 14 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 17 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
-| 18 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 19 | [Saleem](http://twitter.com/search?q=Saleem) | N/A |
-| 20 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
-| 21 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 23 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 24 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 26 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 27 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
-| 28 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
-| 29 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 30 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 31 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
-| 32 | [America](http://twitter.com/search?q=America) | N/A |
-| 33 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 34 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 35 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Nahi](http://twitter.com/search?q=Nahi) | N/A |
-| 38 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 39 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 40 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 41 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
-| 42 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 43 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
-| 44 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 45 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 46 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 47 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
-| 48 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 1 | [#IStandWithShoaibShaikh](http://twitter.com/search?q=%23IStandWithShoaibShaikh) | N/A |
+| 2 | [#PZvMS](http://twitter.com/search?q=%23PZvMS) | N/A |
+| 3 | [#چوروں_سےحقوق_لینےہونگے](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%d8%b3%db%92%d8%ad%d9%82%d9%88%d9%82_%d9%84%db%8c%d9%86%db%92%db%81%d9%88%d9%86%da%af%db%92) | N/A |
+| 4 | [#پہلے_عدل_پھر_انتخاب](http://twitter.com/search?q=%23%d9%be%db%81%d9%84%db%92_%d8%b9%d8%af%d9%84_%d9%be%da%be%d8%b1_%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8) | N/A |
+| 5 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 6 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 7 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
+| 8 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
+| 9 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 10 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 11 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 14 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
+| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 16 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 17 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
+| 20 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 21 | [Saleem](http://twitter.com/search?q=Saleem) | N/A |
+| 22 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 23 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 24 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
+| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 26 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
+| 27 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 28 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 29 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
+| 30 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
+| 31 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 32 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 33 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 34 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
+| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 38 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 39 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 40 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 41 | [Nahi](http://twitter.com/search?q=Nahi) | N/A |
+| 42 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 43 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 44 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 45 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 46 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 47 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
+| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 49 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
 
 
 

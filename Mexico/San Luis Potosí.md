@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-11 05:16:14 UTC`
+📆 Last Updated: `2023-03-11 06:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
 | 5 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
 | 6 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
-| 7 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
-| 8 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
-| 9 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 10 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
-| 11 | [Charal](http://twitter.com/search?q=Charal) | N/A |
-| 12 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 13 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 14 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 15 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 16 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 17 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 18 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
-| 19 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 21 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
-| 22 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 23 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 24 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 25 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 26 | [Atlético de San Luis](http://twitter.com/search?q=Atl%c3%a9tico+de+San+Luis) | N/A |
-| 27 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
-| 28 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [emilio lozoya](http://twitter.com/search?q=emilio+lozoya) | N/A |
-| 31 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 32 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 33 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 34 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 35 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 36 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
+| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 8 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
+| 9 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
+| 10 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 11 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
+| 12 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
+| 13 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 14 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
+| 15 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 16 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 17 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 18 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 19 | [Charal](http://twitter.com/search?q=Charal) | N/A |
+| 20 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 21 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
+| 22 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 23 | [Raúl Astor](http://twitter.com/search?q=Ra%c3%bal+Astor) | N/A |
+| 24 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
+| 25 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 26 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
+| 27 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 28 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
+| 29 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 32 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 33 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 34 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 35 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 36 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 37 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 38 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
 | 39 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 40 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 41 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 42 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 43 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 44 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 45 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 46 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 47 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 40 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 41 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 42 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 43 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 44 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 45 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 46 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
+| 47 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
 
 
 

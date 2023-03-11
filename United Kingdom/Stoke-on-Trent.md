@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-11 05:16:11 UTC`
+📆 Last Updated: `2023-03-11 06:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 14 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
 | 15 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 16 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 17 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 16 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 17 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
 | 18 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
 | 19 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
 | 20 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
 | 21 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 22 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
-| 23 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 24 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 23 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 24 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
 | 25 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 26 | [#isitok](http://twitter.com/search?q=%23isitok) | N/A |
+| 26 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
 | 27 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 | 28 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 29 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 31 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 32 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 33 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 34 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 35 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
-| 36 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 37 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 31 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 32 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 33 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 34 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 35 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 36 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 37 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
 | 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 39 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 40 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 41 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
-| 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 45 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 47 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 48 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 49 | [Duke of Edinburgh](http://twitter.com/search?q=Duke+of+Edinburgh) | N/A |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 39 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 40 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
+| 41 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
+| 42 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 43 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
+| 44 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 47 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 49 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 50 | [SCAB](http://twitter.com/search?q=SCAB) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-11 05:16:25 UTC`
+📆 Last Updated: `2023-03-11 06:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
 | 4 | [#nossport](http://twitter.com/search?q=%23nossport) | N/A |
 | 5 | [#wilpec](http://twitter.com/search?q=%23wilpec) | N/A |
-| 6 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 7 | [jack van gelder](http://twitter.com/search?q=jack+van+gelder) | N/A |
 | 8 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
 | 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 10 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 12 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 14 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 13 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 15 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
-| 16 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 17 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 18 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 19 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 20 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
-| 21 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 22 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
-| 23 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 24 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 25 | [waalwijk](http://twitter.com/search?q=waalwijk) | N/A |
-| 26 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 27 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 28 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 29 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 30 | [go ahead eagles](http://twitter.com/search?q=go+ahead+eagles) | N/A |
-| 31 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 32 | [groningen-rapport](http://twitter.com/search?q=groningen-rapport) | N/A |
-| 33 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
-| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 35 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 36 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 37 | [agrifacts](http://twitter.com/search?q=agrifacts) | N/A |
-| 38 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 39 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
-| 40 | [europa van 34,5](http://twitter.com/search?q=europa+van+34%2c5) | N/A |
-| 41 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 42 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 43 | [Goedemorgen Harald](http://twitter.com/search?q=Goedemorgen+Harald) | N/A |
-| 44 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
-| 45 | [deventer](http://twitter.com/search?q=deventer) | N/A |
-| 46 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
-| 47 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 48 | [Sander](http://twitter.com/search?q=Sander) | N/A |
-| 49 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 16 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 17 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
+| 18 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 19 | [bikker](http://twitter.com/search?q=bikker) | N/A |
+| 20 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 21 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
+| 22 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 23 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
+| 24 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 25 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 26 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
+| 27 | [waalwijk](http://twitter.com/search?q=waalwijk) | N/A |
+| 28 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 29 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 30 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 31 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 32 | [Go Ahead Eagles](http://twitter.com/search?q=Go+Ahead+Eagles) | N/A |
+| 33 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 34 | [groningen-rapport](http://twitter.com/search?q=groningen-rapport) | N/A |
+| 35 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
+| 36 | [jovd](http://twitter.com/search?q=jovd) | N/A |
+| 37 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 38 | [agrifacts](http://twitter.com/search?q=agrifacts) | N/A |
+| 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 40 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
+| 41 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
+| 42 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 43 | [Europa van 34,5](http://twitter.com/search?q=Europa+van+34%2c5) | N/A |
+| 44 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 45 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 46 | [pakhuis de zwijger](http://twitter.com/search?q=pakhuis+de+zwijger) | N/A |
+| 47 | [deventer](http://twitter.com/search?q=deventer) | N/A |
+| 48 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
 
 
 

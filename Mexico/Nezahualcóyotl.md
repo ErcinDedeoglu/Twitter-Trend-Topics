@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-11 05:16:13 UTC`
+📆 Last Updated: `2023-03-11 06:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
 | 5 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
 | 6 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
-| 7 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
-| 8 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
-| 9 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
-| 10 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
-| 11 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 12 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 13 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 14 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
-| 15 | [Charal](http://twitter.com/search?q=Charal) | N/A |
+| 7 | [#JoseRamonLopezBeltran386](http://twitter.com/search?q=%23JoseRamonLopezBeltran386) | N/A |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
+| 10 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
+| 11 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 12 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
+| 13 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
+| 14 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 15 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
 | 16 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 17 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 18 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 19 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
-| 20 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 21 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
-| 22 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 24 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
-| 25 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 26 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 27 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 28 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 29 | [Atlético de San Luis](http://twitter.com/search?q=Atl%c3%a9tico+de+San+Luis) | N/A |
-| 30 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
-| 31 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 34 | [emilio lozoya](http://twitter.com/search?q=emilio+lozoya) | N/A |
-| 35 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 36 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 37 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 38 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 39 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 40 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
-| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 42 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
-| 43 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 44 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 45 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 46 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 47 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 49 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 17 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 18 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 19 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 20 | [Charal](http://twitter.com/search?q=Charal) | N/A |
+| 21 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 22 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
+| 23 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 24 | [Raúl Astor](http://twitter.com/search?q=Ra%c3%bal+Astor) | N/A |
+| 25 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
+| 26 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 27 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 28 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
+| 29 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 30 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
+| 31 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 32 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 33 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 34 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 35 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 36 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 37 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 38 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 39 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
+| 40 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 41 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 42 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 43 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 44 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 45 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 46 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 47 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
+| 48 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 
 
 
