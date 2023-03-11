@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-11 09:16:15 UTC`
+📆 Last Updated: `2023-03-11 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 2 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 3 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 4 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 5 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 11 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
-| 12 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 15 | [IT'S MATCHDAY](http://twitter.com/search?q=IT%27S+MATCHDAY) | N/A |
-| 16 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 17 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 18 | [Fern](http://twitter.com/search?q=Fern) | N/A |
-| 19 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 20 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 22 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 23 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 24 | [Impartiality](http://twitter.com/search?q=Impartiality) | N/A |
-| 25 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
-| 26 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 27 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 28 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 29 | [BBC Chairman](http://twitter.com/search?q=BBC+Chairman) | N/A |
-| 30 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 31 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 32 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 33 | [30s Germany](http://twitter.com/search?q=30s+Germany) | N/A |
-| 34 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
-| 35 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
-| 36 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 37 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
-| 38 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 39 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
-| 40 | [#ToriesOut247](http://twitter.com/search?q=%23ToriesOut247) | N/A |
-| 41 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 42 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
-| 43 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 44 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
-| 45 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
-| 46 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
-| 47 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 48 | [#SolidarityWithGary](http://twitter.com/search?q=%23SolidarityWithGary) | N/A |
-| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 1 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 2 | [#ASCL2023](http://twitter.com/search?q=%23ASCL2023) | N/A |
+| 3 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 4 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 5 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 6 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 7 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 8 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 10 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 11 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 14 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 15 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 16 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 17 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 19 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 20 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 21 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 22 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 23 | [Fern](http://twitter.com/search?q=Fern) | N/A |
+| 24 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 26 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 27 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 28 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 29 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 30 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 31 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 32 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 33 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
+| 34 | [BBCs](http://twitter.com/search?q=BBCs) | N/A |
+| 35 | [Impartiality](http://twitter.com/search?q=Impartiality) | N/A |
+| 36 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 37 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
+| 38 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 39 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 40 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 41 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 42 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 43 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
+| 44 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 45 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
+| 46 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
+| 47 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
+| 48 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 49 | [Director General](http://twitter.com/search?q=Director+General) | N/A |
 
 
 

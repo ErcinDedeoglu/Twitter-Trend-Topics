@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-11 09:17:04 UTC`
+📆 Last Updated: `2023-03-11 10:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Singapore
 | 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 4 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
 | 5 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 6 | [#pH1insg](http://twitter.com/search?q=%23pH1insg) | N/A |
 | 7 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 8 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 9 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | #CutieLoveFanConcert is a hashtag used to promote a fan concert for the K-pop group CutieLove. The hashtag is used to encourage fans to attend the concert and show their support for the group. In English, it means "CutieLove Fan Concert". |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 11 | [passionate intern v](http://twitter.com/search?q=passionate+intern+v) | N/A |
-| 12 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 13 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 14 | [#JinnysKitchenEp3](http://twitter.com/search?q=%23JinnysKitchenEp3) | N/A |
+| 8 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 9 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 10 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | #CutieLoveFanConcert is a hashtag used to promote a fan concert for the K-pop group CutieLove. The hashtag is used to encourage fans to attend the concert and show their support for the group. In English, it means "CutieLove Fan Concert". |
+| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 12 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 13 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 14 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 15 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 16 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 17 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 18 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 19 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 20 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 22 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 23 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 24 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 25 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 26 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 28 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 29 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 17 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 18 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 19 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 21 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 22 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 24 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 25 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 31 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
 | 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 33 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 35 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 34 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 35 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 36 | [Header](http://twitter.com/search?q=Header) | N/A |
 | 37 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
 | 38 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 39 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 41 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 39 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 41 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 44 | [Childe](http://twitter.com/search?q=Childe) | N/A |
-| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 46 | [Neyo](http://twitter.com/search?q=Neyo) | N/A |
-| 47 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 48 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 49 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 50 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 43 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 46 | [Childe](http://twitter.com/search?q=Childe) | N/A |
+| 47 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 48 | [Neyo](http://twitter.com/search?q=Neyo) | N/A |
+| 49 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 50 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
 
 
 

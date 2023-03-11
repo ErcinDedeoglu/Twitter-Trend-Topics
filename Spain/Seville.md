@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-11 09:16:30 UTC`
+📆 Last Updated: `2023-03-11 10:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AgropopularPenalizaciones](http://twitter.com/search?q=%23AgropopularPenalizaciones) | N/A |
-| 2 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 1 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 2 | [#AgropopularPenalizaciones](http://twitter.com/search?q=%23AgropopularPenalizaciones) | N/A |
 | 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 4 | [Garona](http://twitter.com/search?q=Garona) | N/A |
 | 5 | [11-M](http://twitter.com/search?q=11-M) | N/A |
 | 6 | [#SVGala2](http://twitter.com/search?q=%23SVGala2) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 8 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [#N1CanalFiesta10](http://twitter.com/search?q=%23N1CanalFiesta10) | N/A |
 | 9 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [#11deMarzo](http://twitter.com/search?q=%2311deMarzo) | N/A |
-| 12 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
-| 13 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 10 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 11 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Víctimas del Terrorismo](http://twitter.com/search?q=V%c3%adctimas+del+Terrorismo) | N/A |
 | 14 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 15 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
-| 16 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 17 | [Hoy 11](http://twitter.com/search?q=Hoy+11) | N/A |
-| 18 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 19 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 20 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 21 | [Víctimas del Terrorismo](http://twitter.com/search?q=V%c3%adctimas+del+Terrorismo) | N/A |
-| 22 | [Lc 15](http://twitter.com/search?q=Lc+15) | N/A |
-| 23 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 24 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 26 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 27 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 28 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 29 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 15 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 16 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 17 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 18 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 19 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 20 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 21 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 22 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 23 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 24 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 25 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 26 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 27 | [Lc 15](http://twitter.com/search?q=Lc+15) | N/A |
+| 28 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 29 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 30 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 31 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 32 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 33 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Isa Serra](http://twitter.com/search?q=Isa+Serra) | N/A |
-| 36 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 37 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 38 | [Día Europeo](http://twitter.com/search?q=D%c3%ada+Europeo) | N/A |
-| 39 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 40 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 41 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
-| 42 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
-| 43 | [Pepe Álvarez](http://twitter.com/search?q=Pepe+%c3%81lvarez) | N/A |
-| 44 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 45 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 46 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 47 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [La BBC](http://twitter.com/search?q=La+BBC) | N/A |
-| 50 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 31 | [Hoy 11](http://twitter.com/search?q=Hoy+11) | N/A |
+| 32 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 34 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 35 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 36 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 38 | [María Vázquez](http://twitter.com/search?q=Mar%c3%ada+V%c3%a1zquez) | N/A |
+| 39 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 40 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 41 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 42 | [Bob Dylan](http://twitter.com/search?q=Bob+Dylan) | N/A |
+| 43 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 44 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 45 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
+| 46 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 47 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 48 | [La BBC](http://twitter.com/search?q=La+BBC) | N/A |
+| 49 | [Referente](http://twitter.com/search?q=Referente) | N/A |
+| 50 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
 
 
 

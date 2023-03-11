@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-11 09:16:48 UTC`
+📆 Last Updated: `2023-03-11 10:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
 | 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 3 | [UcuzFiyatdan TTHizmeti](http://twitter.com/search?q=UcuzFiyatdan+TTHizmeti) | N/A |
+| 3 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
 | 4 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 5 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 6 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
-| 7 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 8 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 9 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 10 | [Yusuf Akçura](http://twitter.com/search?q=Yusuf+Ak%c3%a7ura) | N/A |
-| 11 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
-| 12 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
-| 13 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 14 | [Piar](http://twitter.com/search?q=Piar) | N/A |
-| 15 | [HÜDA-PAR](http://twitter.com/search?q=H%c3%9cDA-PAR) | N/A |
-| 16 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
-| 17 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 5 | [#Ataİttifakı](http://twitter.com/search?q=%23Ata%c4%b0ttifak%c4%b1) | N/A |
+| 6 | [UcuzFiyatdan TTHizmeti](http://twitter.com/search?q=UcuzFiyatdan+TTHizmeti) | N/A |
+| 7 | [Hamiyet Yalçınkaya](http://twitter.com/search?q=Hamiyet+Yal%c3%a7%c4%b1nkaya) | N/A |
+| 8 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 9 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
+| 10 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 11 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 12 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 13 | [Erkeğe](http://twitter.com/search?q=Erke%c4%9fe) | N/A |
+| 14 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
+| 15 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 16 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 17 | [Galatasaray - Kasımpaşa](http://twitter.com/search?q=Galatasaray+-+Kas%c4%b1mpa%c5%9fa) | N/A |
 | 18 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 19 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
-| 22 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 23 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
-| 24 | [Cuma'ya](http://twitter.com/search?q=Cuma%27ya) | N/A |
-| 25 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 26 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 27 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 28 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 29 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 30 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 31 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 32 | [#TorbaYa5000veKısmiGirmeli](http://twitter.com/search?q=%23TorbaYa5000veK%c4%b1smiGirmeli) | N/A |
-| 33 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
-| 34 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
-| 35 | [#USDT](http://twitter.com/search?q=%23USDT) | N/A |
-| 36 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 37 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
-| 38 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
-| 39 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 40 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 41 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 42 | [#ZaferPartisi](http://twitter.com/search?q=%23ZaferPartisi) | N/A |
-| 43 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
-| 44 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
-| 45 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
-| 46 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 47 | [#FatihErbakan](http://twitter.com/search?q=%23FatihErbakan) | N/A |
-| 48 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
+| 19 | [HÜDA-PAR](http://twitter.com/search?q=H%c3%9cDA-PAR) | N/A |
+| 20 | [Yolsuzluk](http://twitter.com/search?q=Yolsuzluk) | N/A |
+| 21 | [Piar](http://twitter.com/search?q=Piar) | N/A |
+| 22 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
+| 23 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 24 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
+| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 26 | [Müzik](http://twitter.com/search?q=M%c3%bczik) | N/A |
+| 27 | [Cuma'ya](http://twitter.com/search?q=Cuma%27ya) | N/A |
+| 28 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 29 | [İttifaka](http://twitter.com/search?q=%c4%b0ttifaka) | N/A |
+| 30 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 31 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
+| 32 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 33 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
+| 34 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 35 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 36 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 37 | [#TorbaYa5000veKısmiGirmeli](http://twitter.com/search?q=%23TorbaYa5000veK%c4%b1smiGirmeli) | N/A |
+| 38 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
+| 39 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
+| 40 | [#ZaferPartisi](http://twitter.com/search?q=%23ZaferPartisi) | N/A |
+| 41 | [#USDT](http://twitter.com/search?q=%23USDT) | N/A |
+| 42 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
+| 43 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
+| 44 | [#YusufAkçura](http://twitter.com/search?q=%23YusufAk%c3%a7ura) | N/A |
+| 45 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 46 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
+| 47 | [#aggressivo](http://twitter.com/search?q=%23aggressivo) | N/A |
+| 48 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 49 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
 
 
 

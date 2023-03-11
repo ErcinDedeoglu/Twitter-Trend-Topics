@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-11 09:16:41 UTC`
+📆 Last Updated: `2023-03-11 10:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#hungrylikealion](http://twitter.com/search?q=%23hungrylikealion) | N/A |
-| 2 | [#JazzInTheLights](http://twitter.com/search?q=%23JazzInTheLights) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 5 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
-| 6 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
-| 7 | [Temba](http://twitter.com/search?q=Temba) | N/A |
-| 8 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 9 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 10 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 11 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 14 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
-| 15 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 16 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 17 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
-| 18 | [Foschini](http://twitter.com/search?q=Foschini) | N/A |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Western Cape](http://twitter.com/search?q=Western+Cape) | N/A |
-| 21 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 22 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
-| 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 24 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 25 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
-| 26 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
-| 27 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 28 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 29 | [memory fusion](http://twitter.com/search?q=memory+fusion) | N/A |
-| 30 | [congratulations blue aiva](http://twitter.com/search?q=congratulations+blue+aiva) | N/A |
-| 31 | [big battery](http://twitter.com/search?q=big+battery) | N/A |
-| 32 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
-| 33 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 1 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
+| 2 | [#hungrylikealion](http://twitter.com/search?q=%23hungrylikealion) | N/A |
+| 3 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 4 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
+| 5 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 6 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
+| 7 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 8 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 9 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 10 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
+| 11 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 12 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 13 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
+| 14 | [Temba](http://twitter.com/search?q=Temba) | N/A |
+| 15 | [Gcaleka](http://twitter.com/search?q=Gcaleka) | N/A |
+| 16 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 17 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 18 | [Harmer](http://twitter.com/search?q=Harmer) | N/A |
+| 19 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
+| 22 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 25 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 26 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
+| 27 | [Foschini](http://twitter.com/search?q=Foschini) | N/A |
+| 28 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 29 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
+| 30 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
+| 31 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 32 | [memory fusion](http://twitter.com/search?q=memory+fusion) | N/A |
+| 33 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
 | 34 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 35 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 36 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
-| 37 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 38 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 39 | [big storage](http://twitter.com/search?q=big+storage) | N/A |
-| 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 41 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
-| 42 | [dual rear camera](http://twitter.com/search?q=dual+rear+camera) | N/A |
-| 43 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 44 | [dual flash](http://twitter.com/search?q=dual+flash) | N/A |
-| 45 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
-| 46 | [Economic](http://twitter.com/search?q=Economic) | N/A |
-| 47 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 48 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 49 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 35 | [big battery](http://twitter.com/search?q=big+battery) | N/A |
+| 36 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 37 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 38 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 39 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 41 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 42 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 43 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
+| 44 | [big storage](http://twitter.com/search?q=big+storage) | N/A |
+| 45 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 46 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
+| 47 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 48 | [dual rear camera](http://twitter.com/search?q=dual+rear+camera) | N/A |
+| 49 | [dual flash](http://twitter.com/search?q=dual+flash) | N/A |
 
 
 
