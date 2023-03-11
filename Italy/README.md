@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-11 08:16:53 UTC`
+📆 Last Updated: `2023-03-11 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 3 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 2 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 3 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
 | 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 5 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 6 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 7 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 9 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 11 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 12 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 15 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 16 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 17 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 18 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 19 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 20 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 21 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 22 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 23 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 24 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 25 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
-| 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 27 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 28 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
-| 29 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
-| 30 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 31 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
-| 32 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 33 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 34 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 35 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 36 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 37 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 38 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
-| 39 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
-| 40 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 41 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 42 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 43 | [ZINGARI](http://twitter.com/search?q=ZINGARI) | N/A |
-| 44 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 46 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 47 | [Mazzarri](http://twitter.com/search?q=Mazzarri) | N/A |
-| 48 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 49 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 50 | [Atac](http://twitter.com/search?q=Atac) | N/A |
+| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 7 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 8 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 10 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 11 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
+| 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 15 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 16 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 17 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
+| 18 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 21 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 22 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 23 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
+| 24 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 25 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 26 | [Chri](http://twitter.com/search?q=Chri) | N/A |
+| 27 | [Graziella](http://twitter.com/search?q=Graziella) | N/A |
+| 28 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 29 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 30 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 31 | [nino frassica](http://twitter.com/search?q=nino+frassica) | N/A |
+| 32 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 33 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 34 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 35 | [ZINGARI](http://twitter.com/search?q=ZINGARI) | N/A |
+| 36 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 37 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 38 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
+| 39 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
+| 40 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 41 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 42 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 43 | [Forza Carolyn](http://twitter.com/search?q=Forza+Carolyn) | N/A |
+| 44 | [Spacca](http://twitter.com/search?q=Spacca) | N/A |
+| 45 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 46 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 47 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 48 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 49 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 50 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
 
 
 

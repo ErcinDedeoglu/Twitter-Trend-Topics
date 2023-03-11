@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-11 08:16:35 UTC`
+📆 Last Updated: `2023-03-11 09:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ميلاد_اسد_الامارات](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d8%a7%d8%b3%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 2 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 3 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 2 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 3 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 4 | [#الوحده_العين](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
 | 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 6 | [الامه العيناويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 7 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 8 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 9 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
-| 10 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
-| 11 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 12 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 15 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 16 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
-| 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 18 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 19 | [نادي العين](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 20 | [احمد راشد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
-| 21 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 22 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 23 | [الزعيم العيناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 24 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 25 | [عبدالله حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d9%85%d8%af) | N/A |
-| 26 | [بو خالد](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 27 | [سيدي صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 6 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 7 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 8 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 9 | [الامه العيناويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 12 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 13 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 14 | [احمد راشد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
+| 15 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 16 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 17 | [عبدالله حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d9%85%d8%af) | N/A |
+| 18 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 19 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
+| 20 | [الشوون الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 21 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 22 | [الزعيم العيناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d9%8a%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 23 | [اسماعيل مطر](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d9%85%d8%b7%d8%b1) | N/A |
+| 24 | [بو خالد](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 25 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 26 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
+| 27 | [only one boss](http://twitter.com/search?q=only+one+boss) | N/A |
 | 28 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 29 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 30 | [الكاظمين الغيظ](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ba%d9%8a%d8%b8) | N/A |
-| 31 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 32 | [اسماعيل](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 33 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
-| 34 | [هزاع بن زايد](http://twitter.com/search?q=%d9%87%d8%b2%d8%a7%d8%b9+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 35 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
-| 36 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 37 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
-| 38 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 39 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 40 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 41 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 42 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 43 | [10 مارس 2023](http://twitter.com/search?q=10+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 44 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 45 | [علاء](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
-| 46 | [ابوظبي الرياضيه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
-| 47 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 48 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
-| 49 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 50 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 29 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
+| 30 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 31 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 32 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
+| 33 | [جين بينغ](http://twitter.com/search?q=%d8%ac%d9%8a%d9%86+%d8%a8%d9%8a%d9%86%d8%ba) | N/A |
+| 34 | [بنت عبدالعزيز](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 35 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 36 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
+| 37 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 38 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 39 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 40 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 41 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 42 | [Travis Scott](http://twitter.com/search?q=Travis+Scott) | N/A |
+| 43 | [الكاظمين الغيظ](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%ba%d9%8a%d8%b8) | N/A |
+| 44 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 45 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 46 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 47 | [الاميره الجوهره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 48 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 49 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 50 | [هزاع بن زايد](http://twitter.com/search?q=%d9%87%d8%b2%d8%a7%d8%b9+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 
 
 

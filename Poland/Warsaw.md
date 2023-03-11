@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-11 08:16:16 UTC`
+📆 Last Updated: `2023-03-11 09:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
-| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 4 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
-| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 6 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
-| 7 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
-| 8 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 9 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 6 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 7 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
+| 8 | [#lpodju](http://twitter.com/search?q=%23lpodju) | N/A |
+| 9 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
 | 10 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
 | 11 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 12 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 13 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 14 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 15 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 16 | [interu](http://twitter.com/search?q=interu) | N/A |
-| 17 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 18 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 19 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
-| 22 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
-| 23 | [stawny](http://twitter.com/search?q=stawny) | N/A |
-| 24 | [spezii](http://twitter.com/search?q=spezii) | N/A |
-| 25 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 26 | [latkowskiego](http://twitter.com/search?q=latkowskiego) | N/A |
-| 27 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
-| 28 | [ciekawa](http://twitter.com/search?q=ciekawa) | N/A |
-| 29 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 30 | [Zdrowia](http://twitter.com/search?q=Zdrowia) | N/A |
-| 31 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
-| 32 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 33 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 34 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
-| 35 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 36 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 37 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 38 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
-| 39 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 40 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 42 | [Interem](http://twitter.com/search?q=Interem) | N/A |
-| 43 | [Antek](http://twitter.com/search?q=Antek) | N/A |
-| 44 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 45 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
-| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 47 | [Anka](http://twitter.com/search?q=Anka) | N/A |
-| 48 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 49 | [Wciąż](http://twitter.com/search?q=Wci%c4%85%c5%bc) | N/A |
-| 50 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 13 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 14 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 15 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 16 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 18 | [Halinko](http://twitter.com/search?q=Halinko) | N/A |
+| 19 | [dnia mężczyzn](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzn) | N/A |
+| 20 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 21 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
+| 22 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 23 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 24 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
+| 25 | [brawo lech](http://twitter.com/search?q=brawo+lech) | N/A |
+| 26 | [Antonin Hajek](http://twitter.com/search?q=Antonin+Hajek) | N/A |
+| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 28 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 29 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 30 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 31 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 32 | [Anka](http://twitter.com/search?q=Anka) | N/A |
+| 33 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 34 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 35 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
+| 36 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 37 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 38 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 39 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 40 | [drodzy panowie](http://twitter.com/search?q=drodzy+panowie) | N/A |
+| 41 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 42 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 43 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 44 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 45 | [stawny](http://twitter.com/search?q=stawny) | N/A |
+| 46 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
+| 47 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
+| 48 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 49 | [Watykanu](http://twitter.com/search?q=Watykanu) | N/A |
+| 50 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-11 08:16:10 UTC`
+📆 Last Updated: `2023-03-11 09:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 2 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 2 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
 | 3 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 4 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 5 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 6 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 7 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
-| 8 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 9 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 12 | [#JoseRamonLopezBeltran386](http://twitter.com/search?q=%23JoseRamonLopezBeltran386) | N/A |
-| 13 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
-| 16 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 17 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
-| 18 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
-| 19 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 20 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
+| 4 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 5 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 6 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 7 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 8 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 9 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 10 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 11 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 12 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
+| 13 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 14 | [Galilea Montijo](http://twitter.com/search?q=Galilea+Montijo) | N/A |
+| 15 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 16 | [Animal Político](http://twitter.com/search?q=Animal+Pol%c3%adtico) | N/A |
+| 17 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 20 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
 | 21 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
-| 22 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 23 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 24 | [Raúl Astor](http://twitter.com/search?q=Ra%c3%bal+Astor) | N/A |
-| 25 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 26 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 22 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 23 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 24 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 25 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 26 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 27 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 28 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 29 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 30 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 31 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 32 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 33 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 34 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 35 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
-| 36 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 39 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 40 | [Nayeli Roldán](http://twitter.com/search?q=Nayeli+Rold%c3%a1n) | N/A |
-| 41 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 42 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 43 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 44 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 45 | [#Shakira](http://twitter.com/search?q=%23Shakira) | N/A |
-| 46 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 47 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
+| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 29 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 30 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 31 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 32 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 33 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 34 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 35 | [espionaje](http://twitter.com/search?q=espionaje) | N/A |
+| 36 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 37 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 38 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 39 | [Inteligencia](http://twitter.com/search?q=Inteligencia) | N/A |
+| 40 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 41 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 42 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
+| 43 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 44 | [tania rincón](http://twitter.com/search?q=tania+rinc%c3%b3n) | N/A |
+| 45 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 46 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 47 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
+| 48 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
 
 
 

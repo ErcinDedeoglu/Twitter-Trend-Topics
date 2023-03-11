@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-11 08:16:06 UTC`
+📆 Last Updated: `2023-03-11 09:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 5 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 6 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 7 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 8 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 9 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
-| 10 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 14 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 15 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 16 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 17 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 18 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 19 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 20 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 21 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 22 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 23 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
-| 24 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 25 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 26 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 27 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 29 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
-| 30 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 32 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 33 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 34 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 35 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 36 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 37 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 39 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 40 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 41 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
-| 42 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 45 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 46 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 47 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 48 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
-| 49 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 2 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 3 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 4 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 5 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
+| 6 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 12 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 13 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 14 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
+| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 16 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 17 | [IT'S MATCHDAY](http://twitter.com/search?q=IT%27S+MATCHDAY) | N/A |
+| 18 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 19 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 20 | [Fern](http://twitter.com/search?q=Fern) | N/A |
+| 21 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 22 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 25 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 26 | [Impartiality](http://twitter.com/search?q=Impartiality) | N/A |
+| 27 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
+| 28 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 29 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 30 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 31 | [BBC Chairman](http://twitter.com/search?q=BBC+Chairman) | N/A |
+| 32 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 34 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 35 | [30s Germany](http://twitter.com/search?q=30s+Germany) | N/A |
+| 36 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
+| 37 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 38 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
+| 39 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 40 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
+| 41 | [#ToriesOut247](http://twitter.com/search?q=%23ToriesOut247) | N/A |
+| 42 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 43 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
+| 44 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 45 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
+| 46 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
+| 47 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 48 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 49 | [#SolidarityWithGary](http://twitter.com/search?q=%23SolidarityWithGary) | N/A |
+| 50 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 
 
 

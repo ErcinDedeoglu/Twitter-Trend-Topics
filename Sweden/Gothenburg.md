@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-11 08:16:23 UTC`
+📆 Last Updated: `2023-03-11 09:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 2 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 3 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 4 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 2 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 3 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 7 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [löven](http://twitter.com/search?q=l%c3%b6ven) | N/A |
-| 10 | [david ritschard](http://twitter.com/search?q=david+ritschard) | N/A |
-| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 12 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
-| 13 | [Örnsköldsvik](http://twitter.com/search?q=%c3%96rnsk%c3%b6ldsvik) | N/A |
-| 14 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 15 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
-| 16 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 17 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 18 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
-| 19 | [Muslimer](http://twitter.com/search?q=Muslimer) | N/A |
-| 20 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 21 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 22 | [svantesson](http://twitter.com/search?q=svantesson) | N/A |
-| 23 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 24 | [Almtuna](http://twitter.com/search?q=Almtuna) | N/A |
-| 25 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 27 | [dricker](http://twitter.com/search?q=dricker) | N/A |
-| 28 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 29 | [Jobb](http://twitter.com/search?q=Jobb) | N/A |
-| 30 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 31 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 32 | [sydafrika](http://twitter.com/search?q=sydafrika) | N/A |
-| 33 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
-| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 36 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
-| 37 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 38 | [Blockad](http://twitter.com/search?q=Blockad) | N/A |
-| 39 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
-| 40 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
-| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 42 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 43 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 45 | [Vänstern](http://twitter.com/search?q=V%c3%a4nstern) | N/A |
-| 46 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 47 | [Visa](http://twitter.com/search?q=Visa) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 6 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 7 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
+| 8 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 9 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 10 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
+| 11 | [Vänstern](http://twitter.com/search?q=V%c3%a4nstern) | N/A |
+| 12 | [Elstödet](http://twitter.com/search?q=Elst%c3%b6det) | N/A |
+| 13 | [timbros](http://twitter.com/search?q=timbros) | N/A |
+| 14 | [fredag](http://twitter.com/search?q=fredag) | N/A |
+| 15 | [Jörgen](http://twitter.com/search?q=J%c3%b6rgen) | N/A |
+| 16 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
+| 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 18 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 19 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
+| 20 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 21 | [vänner](http://twitter.com/search?q=v%c3%a4nner) | N/A |
+| 22 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | [Örnsköldsvik](http://twitter.com/search?q=%c3%96rnsk%c3%b6ldsvik) | N/A |
+| 25 | [Rasmus Paludan](http://twitter.com/search?q=Rasmus+Paludan) | Rasmus Paludan is a Danish lawyer and political activist. He is the leader of the far-right political party Stram Kurs (Hard Line). The name Rasmus Paludan is derived from the Danish words for "marsh" and "pond," which together mean "marsh pond." |
+| 26 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 27 | [handelsbanken](http://twitter.com/search?q=handelsbanken) | N/A |
+| 28 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
+| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 30 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 31 | [#MyTwitterAnniversary](http://twitter.com/search?q=%23MyTwitterAnniversary) | N/A |
+| 32 | [Jehovas](http://twitter.com/search?q=Jehovas) | N/A |
+| 33 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
+| 34 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 35 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 36 | [Frågar](http://twitter.com/search?q=Fr%c3%a5gar) | N/A |
+| 37 | [Sömn](http://twitter.com/search?q=S%c3%b6mn) | N/A |
+| 38 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
+| 39 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 40 | [hisingsbron](http://twitter.com/search?q=hisingsbron) | N/A |
+| 41 | [löfgren](http://twitter.com/search?q=l%c3%b6fgren) | N/A |
+| 42 | [Finlandsfärja](http://twitter.com/search?q=Finlandsf%c3%a4rja) | N/A |
+| 43 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 44 | [Jobb](http://twitter.com/search?q=Jobb) | N/A |
+| 45 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 46 | [Elbilar](http://twitter.com/search?q=Elbilar) | N/A |
+| 47 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
+| 48 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
 
 
 

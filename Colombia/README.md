@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-11 08:16:51 UTC`
+📆 Last Updated: `2023-03-11 09:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 2 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 2 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 3 | [Char](http://twitter.com/search?q=Char) | N/A |
 | 4 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
 | 5 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 6 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 7 | [#MeDaSusto](http://twitter.com/search?q=%23MeDaSusto) | N/A |
+| 6 | [#MeDaSusto](http://twitter.com/search?q=%23MeDaSusto) | N/A |
+| 7 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 8 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 9 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 10 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 11 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 13 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
-| 14 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
-| 15 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
-| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 19 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 22 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 23 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 24 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
-| 25 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 26 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 27 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
-| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 29 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 30 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 31 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
-| 32 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
-| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 34 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 35 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 37 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
-| 38 | [tomás ángel](http://twitter.com/search?q=tom%c3%a1s+%c3%a1ngel) | N/A |
-| 39 | [Extraditada](http://twitter.com/search?q=Extraditada) | N/A |
-| 40 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 41 | [Migración Colombia](http://twitter.com/search?q=Migraci%c3%b3n+Colombia) | N/A |
-| 42 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 43 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
-| 44 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 45 | [Hetero](http://twitter.com/search?q=Hetero) | N/A |
-| 46 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
-| 47 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 48 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 49 | [Lorena](http://twitter.com/search?q=Lorena) | N/A |
-| 50 | [DIJIN](http://twitter.com/search?q=DIJIN) | N/A |
+| 9 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 10 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 11 | [#hacefalta](http://twitter.com/search?q=%23hacefalta) | N/A |
+| 12 | [Durísimo](http://twitter.com/search?q=Dur%c3%adsimo) | N/A |
+| 13 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 14 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 15 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 16 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 17 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 18 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
+| 19 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 20 | [JuanFer](http://twitter.com/search?q=JuanFer) | N/A |
+| 21 | [Tiembla](http://twitter.com/search?q=Tiembla) | N/A |
+| 22 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
+| 23 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
+| 24 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 25 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 26 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 27 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 28 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
+| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 32 | [lomotil](http://twitter.com/search?q=lomotil) | N/A |
+| 33 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 34 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 35 | [también caerás](http://twitter.com/search?q=tambi%c3%a9n+caer%c3%a1s) | N/A |
+| 36 | [albornoz](http://twitter.com/search?q=albornoz) | N/A |
+| 37 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 38 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 39 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 40 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 41 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 42 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 43 | [Culpa de PETRO](http://twitter.com/search?q=Culpa+de+PETRO) | N/A |
+| 44 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 45 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
+| 46 | [Hetero](http://twitter.com/search?q=Hetero) | N/A |
+| 47 | [unicentro](http://twitter.com/search?q=unicentro) | N/A |
+| 48 | [magnitud 5.9](http://twitter.com/search?q=magnitud+5.9) | N/A |
+| 49 | [davivienda](http://twitter.com/search?q=davivienda) | N/A |
+| 50 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-11 08:16:57 UTC`
+📆 Last Updated: `2023-03-11 09:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Switzerland
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 2 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 6 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 7 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 8 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 10 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 12 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 13 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 15 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 16 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
-| 17 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 19 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 21 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
-| 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 23 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 24 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 25 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 26 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 28 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Seele](http://twitter.com/search?q=Seele) | N/A |
-| 31 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 4 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 5 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 6 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 7 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 8 | [#forward23](http://twitter.com/search?q=%23forward23) | N/A |
+| 9 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
+| 10 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 11 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 13 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 14 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 15 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 17 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 18 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 19 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
+| 20 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 21 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
+| 22 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 24 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 25 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 26 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 27 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 28 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 29 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 30 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 31 | [behörden](http://twitter.com/search?q=beh%c3%b6rden) | N/A |
 | 32 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 33 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Unsinn](http://twitter.com/search?q=Unsinn) | N/A |
-| 37 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 38 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 39 | [Frechheit](http://twitter.com/search?q=Frechheit) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 42 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 43 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 44 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 48 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 49 | [Verschwörungstheorien](http://twitter.com/search?q=Verschw%c3%b6rungstheorien) | N/A |
-| 50 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 33 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 34 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 35 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 36 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
+| 37 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 38 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 39 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 40 | [Annual Day](http://twitter.com/search?q=Annual+Day) | N/A |
+| 41 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 43 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 44 | [Desinformation](http://twitter.com/search?q=Desinformation) | N/A |
+| 45 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 46 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 48 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 49 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 50 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
 
 
 

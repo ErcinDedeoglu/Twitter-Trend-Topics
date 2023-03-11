@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-11 08:16:40 UTC`
+📆 Last Updated: `2023-03-11 09:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 2 | [UcuzFiyatdan TTHizmeti](http://twitter.com/search?q=UcuzFiyatdan+TTHizmeti) | N/A |
-| 3 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
-| 4 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 5 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 1 | [#desticihabertürkte](http://twitter.com/search?q=%23desticihabert%c3%bcrkte) | N/A |
+| 2 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
+| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [UcuzFiyatdan TTHizmeti](http://twitter.com/search?q=UcuzFiyatdan+TTHizmeti) | N/A |
+| 5 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
 | 6 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
-| 7 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 8 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 9 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 10 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 11 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
-| 12 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 13 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 14 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
-| 17 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 18 | [HÜDA-PAR](http://twitter.com/search?q=H%c3%9cDA-PAR) | N/A |
+| 7 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 8 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 9 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 10 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
+| 11 | [Yusuf Akçura](http://twitter.com/search?q=Yusuf+Ak%c3%a7ura) | N/A |
+| 12 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 13 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 14 | [Piar](http://twitter.com/search?q=Piar) | N/A |
+| 15 | [HÜDA-PAR](http://twitter.com/search?q=H%c3%9cDA-PAR) | N/A |
+| 16 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
+| 17 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 18 | [Cami](http://twitter.com/search?q=Cami) | N/A |
 | 19 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 20 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 21 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 22 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 23 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 24 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 25 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 26 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 27 | [İşiniz](http://twitter.com/search?q=%c4%b0%c5%9finiz) | N/A |
-| 28 | [Rahmetli Erbakan](http://twitter.com/search?q=Rahmetli+Erbakan) | N/A |
-| 29 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 30 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 31 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
-| 32 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 33 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
-| 34 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
-| 35 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 36 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
-| 37 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
-| 38 | [#USDT](http://twitter.com/search?q=%23USDT) | N/A |
-| 39 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
+| 22 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
+| 23 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
+| 24 | [Cuma'ya](http://twitter.com/search?q=Cuma%27ya) | N/A |
+| 25 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
+| 26 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 27 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 28 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 29 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 30 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
+| 31 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 32 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 33 | [#TorbaYa5000veKısmiGirmeli](http://twitter.com/search?q=%23TorbaYa5000veK%c4%b1smiGirmeli) | N/A |
+| 34 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 35 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
+| 36 | [#USDT](http://twitter.com/search?q=%23USDT) | N/A |
+| 37 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
+| 38 | [#KizilcikSerbeti](http://twitter.com/search?q=%23KizilcikSerbeti) | N/A |
+| 39 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
 | 40 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 41 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
-| 42 | [#YusufAkçura](http://twitter.com/search?q=%23YusufAk%c3%a7ura) | N/A |
-| 43 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 44 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 45 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 46 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
-| 47 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
-| 48 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
+| 41 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
+| 42 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 43 | [#ZaferPartisi](http://twitter.com/search?q=%23ZaferPartisi) | N/A |
+| 44 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
+| 45 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
+| 46 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
+| 47 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 48 | [#FatihErbakan](http://twitter.com/search?q=%23FatihErbakan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-03-11 08:16:12 UTC`
+📆 Last Updated: `2023-03-11 09:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
 | 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
 | 3 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
-| 4 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 4 | [Dr. José María Vargas](http://twitter.com/search?q=Dr.+Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
 | 5 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 6 | [#ListosConCapriles](http://twitter.com/search?q=%23ListosConCapriles) | N/A |
-| 7 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 6 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 7 | [#listosconcapriles](http://twitter.com/search?q=%23listosconcapriles) | N/A |
 | 8 | [#chávezsiemprechávez](http://twitter.com/search?q=%23ch%c3%a1vezsiemprech%c3%a1vez) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 11 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 12 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
-| 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 14 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 15 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 16 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
-| 17 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 18 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 19 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
-| 20 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 21 | [aroldo betancourt](http://twitter.com/search?q=aroldo+betancourt) | N/A |
-| 22 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 23 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 24 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 27 | [leonardo villalobos](http://twitter.com/search?q=leonardo+villalobos) | N/A |
-| 28 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 29 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 30 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 31 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
-| 32 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
-| 33 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 34 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 35 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 36 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 37 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 38 | [Pana](http://twitter.com/search?q=Pana) | N/A |
-| 39 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 40 | [Boza](http://twitter.com/search?q=Boza) | N/A |
-| 41 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 42 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
-| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 44 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
-| 45 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 46 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 47 | [tetero](http://twitter.com/search?q=tetero) | N/A |
-| 48 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
-| 49 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 9 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 10 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 11 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 12 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 13 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
+| 14 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 17 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 18 | [leandro cufré](http://twitter.com/search?q=leandro+cufr%c3%a9) | N/A |
+| 19 | [universidad de caracas](http://twitter.com/search?q=universidad+de+caracas) | N/A |
+| 20 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
+| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 22 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 23 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 24 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 25 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 27 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 28 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 29 | [vicente rosales](http://twitter.com/search?q=vicente+rosales) | N/A |
+| 30 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 31 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 32 | [endrys briceño](http://twitter.com/search?q=endrys+brice%c3%b1o) | N/A |
+| 33 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 34 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 35 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 36 | [Aroldo Betancourt](http://twitter.com/search?q=Aroldo+Betancourt) | N/A |
+| 37 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
+| 38 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 39 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 40 | [Selecciones](http://twitter.com/search?q=Selecciones) | N/A |
+| 41 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
+| 42 | [Boza](http://twitter.com/search?q=Boza) | N/A |
+| 43 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
+| 44 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
+| 45 | [Citgo](http://twitter.com/search?q=Citgo) | N/A |
+| 46 | [Fedra López](http://twitter.com/search?q=Fedra+L%c3%b3pez) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [flips](http://twitter.com/search?q=flips) | N/A |
+| 49 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
 
 
 

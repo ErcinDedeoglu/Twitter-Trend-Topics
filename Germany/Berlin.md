@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-11 08:16:18 UTC`
+📆 Last Updated: `2023-03-11 09:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
-| 3 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 5 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
-| 6 | [#fcnebs](http://twitter.com/search?q=%23fcnebs) | N/A |
-| 7 | [#Karlsruhe](http://twitter.com/search?q=%23Karlsruhe) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 13 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 14 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 17 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 18 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 19 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 20 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 21 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 22 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
+| 5 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 6 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
+| 7 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 8 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [#Bhakdi](http://twitter.com/search?q=%23Bhakdi) | N/A |
+| 11 | [#Karlsruhe](http://twitter.com/search?q=%23Karlsruhe) | N/A |
+| 12 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 13 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 14 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 15 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
+| 16 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
+| 17 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 18 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
+| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 20 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 21 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
+| 22 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
 | 23 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 24 | [Sportschütze](http://twitter.com/search?q=Sportsch%c3%bctze) | N/A |
-| 25 | [llambi](http://twitter.com/search?q=llambi) | N/A |
-| 26 | [Reiche](http://twitter.com/search?q=Reiche) | N/A |
-| 27 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 28 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 29 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 30 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
-| 31 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
-| 32 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 33 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 34 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 35 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 36 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 37 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
-| 38 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 39 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 40 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
-| 41 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 42 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 43 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
-| 44 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 45 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 46 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
-| 47 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
-| 48 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
-| 49 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 50 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 24 | ['zeit'](http://twitter.com/search?q=%27zeit%27) | N/A |
+| 25 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
+| 26 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 27 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 28 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 29 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 30 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 31 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 32 | [Guten Morgen Richard](http://twitter.com/search?q=Guten+Morgen+Richard) | N/A |
+| 33 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 34 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 35 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 36 | [Reiche](http://twitter.com/search?q=Reiche) | N/A |
+| 37 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 38 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
+| 39 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
+| 40 | [Der Winter](http://twitter.com/search?q=Der+Winter) | N/A |
+| 41 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 42 | [Tablette](http://twitter.com/search?q=Tablette) | N/A |
+| 43 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 44 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 45 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 46 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 47 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
+| 48 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 49 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 50 | [Brötchen](http://twitter.com/search?q=Br%c3%b6tchen) | N/A |
 
 
 
