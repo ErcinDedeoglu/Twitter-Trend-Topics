@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-11 10:17:23 UTC`
+📆 Last Updated: `2023-03-11 11:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Lebanon
 | 4 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
 | 5 | [الراس المدبر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%a8%d8%b1) | N/A |
 | 6 | [#البوم_حياتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%88%d9%85_%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a) | N/A |
-| 7 | [#نصرالله_دجال](http://twitter.com/search?q=%23%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87_%d8%af%d8%ac%d8%a7%d9%84) | N/A |
-| 8 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 9 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 10 | [#وننتصر](http://twitter.com/search?q=%23%d9%88%d9%86%d9%86%d8%aa%d8%b5%d8%b1) | N/A |
-| 11 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 12 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 13 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 7 | [جورج الراسي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 8 | [#نصرالله_دجال](http://twitter.com/search?q=%23%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87_%d8%af%d8%ac%d8%a7%d9%84) | N/A |
+| 9 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
+| 10 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 11 | [#وننتصر](http://twitter.com/search?q=%23%d9%88%d9%86%d9%86%d8%aa%d8%b5%d8%b1) | N/A |
+| 12 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 13 | [الامتحانات الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
 | 14 | [عيد المعلم](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85) | N/A |
-| 15 | [نعمه هاشم](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 16 | [جورج](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac) | N/A |
-| 17 | [فارس سعيد](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 18 | [والرياض](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 19 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 20 | [فتح السفارتين](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
-| 21 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 22 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
-| 23 | [ابو الفوارس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d8%b3) | N/A |
-| 24 | [علي المسرح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad) | N/A |
+| 15 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 16 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 17 | [نعمه هاشم](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 18 | [فارس سعيد](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 19 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 20 | [ابو الفوارس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d8%b3) | N/A |
+| 21 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 22 | [فتح السفارتين](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
+| 23 | [علي المسرح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad) | N/A |
+| 24 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
 | 25 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 | 26 | [وليد بيك](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a8%d9%8a%d9%83) | N/A |
-| 27 | [مدارس المهدي](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 27 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 28 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
 | 29 | [علي المنطقه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
-| 30 | [الثقافه اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 31 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 30 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 31 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
 | 32 | [الهييه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
 | 33 | [الخراب الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 34 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
-| 35 | [زقاق البلاط](http://twitter.com/search?q=%d8%b2%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
-| 36 | [ابو زينب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
-| 37 | [الشهيد القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
-| 38 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 39 | [شربل مسعد](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d9%85%d8%b3%d8%b9%d8%af) | N/A |
-| 40 | [فتح السفارات](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 41 | [الدول الشقيقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%87) | N/A |
-| 42 | [العمله الصعبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8%d9%87) | N/A |
-| 43 | [الاسبوع المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 44 | [شعوب المنطقه](http://twitter.com/search?q=%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
-| 45 | [فريال كريم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d8%a7%d9%84+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 46 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 47 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
-| 48 | [السبت الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 49 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
-| 50 | [14 اذار](http://twitter.com/search?q=14+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
+| 34 | [زقاق البلاط](http://twitter.com/search?q=%d8%b2%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 35 | [ابو زينب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
+| 36 | [الشهيد القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
+| 37 | [شربل مسعد](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d9%85%d8%b3%d8%b9%d8%af) | N/A |
+| 38 | [فتح السفارات](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 39 | [الدول الشقيقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%87) | N/A |
+| 40 | [العمله الصعبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%87+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8%d9%87) | N/A |
+| 41 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 42 | [شعوب المنطقه](http://twitter.com/search?q=%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
+| 43 | [فريال كريم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d8%a7%d9%84+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 44 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
+| 45 | [السبت الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 46 | [محور المقاومه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [14 اذار](http://twitter.com/search?q=14+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
+| 49 | [جمعية المصارف](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%b1%d9%81) | N/A |
+| 50 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
 
 
 

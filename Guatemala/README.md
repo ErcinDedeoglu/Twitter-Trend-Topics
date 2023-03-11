@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-11 10:17:22 UTC`
+📆 Last Updated: `2023-03-11 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,17 +33,17 @@ This is top 50 for Guatemala
 | 16 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
 | 17 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
 | 18 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 19 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 20 | [Cristo del Amor](http://twitter.com/search?q=Cristo+del+Amor) | N/A |
+| 19 | [Cristo del Amor](http://twitter.com/search?q=Cristo+del+Amor) | N/A |
+| 20 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
 | 21 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 22 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
 | 23 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 24 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 27 | [provida](http://twitter.com/search?q=provida) | N/A |
+| 27 | [Provida](http://twitter.com/search?q=Provida) | N/A |
 | 28 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 29 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 29 | [kimetsu](http://twitter.com/search?q=kimetsu) | N/A |
 | 30 | [Amamos](http://twitter.com/search?q=Amamos) | N/A |
 | 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 32 | [jovenas](http://twitter.com/search?q=jovenas) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Guatemala
 | 34 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
 | 35 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 36 | [Engel](http://twitter.com/search?q=Engel) | N/A |
-| 37 | [mineduc](http://twitter.com/search?q=mineduc) | N/A |
+| 37 | [Mineduc](http://twitter.com/search?q=Mineduc) | N/A |
 | 38 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | N/A |
 | 39 | [mazatenango](http://twitter.com/search?q=mazatenango) | N/A |
 | 40 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |

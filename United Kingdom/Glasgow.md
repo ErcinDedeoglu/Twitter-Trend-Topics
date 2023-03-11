@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-11 10:16:23 UTC`
+📆 Last Updated: `2023-03-11 11:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 2 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 1 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 5 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 7 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 9 | [#ASongOrMovieForPlumbing](http://twitter.com/search?q=%23ASongOrMovieForPlumbing) | N/A |
-| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 11 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 4 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 6 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 8 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 9 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 10 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
+| 11 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
 | 12 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 13 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 14 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 16 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 17 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 18 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 19 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 20 | [Fern](http://twitter.com/search?q=Fern) | N/A |
-| 21 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 23 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 24 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 25 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 26 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 27 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 28 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 29 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 30 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
-| 31 | [BBCs](http://twitter.com/search?q=BBCs) | N/A |
-| 32 | [Impartiality](http://twitter.com/search?q=Impartiality) | N/A |
-| 33 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 34 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
-| 35 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 36 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 37 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 38 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 39 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 40 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
-| 41 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 42 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 43 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
-| 44 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 45 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 46 | [Director General](http://twitter.com/search?q=Director+General) | N/A |
-| 47 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 48 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 50 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 14 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 15 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 16 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
+| 17 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 18 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
+| 19 | [Mols](http://twitter.com/search?q=Mols) | N/A |
+| 20 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 21 | [Fern](http://twitter.com/search?q=Fern) | N/A |
+| 22 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 23 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 24 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 25 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 27 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 28 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 29 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
+| 30 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 31 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
+| 32 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 33 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 34 | [Toby Young](http://twitter.com/search?q=Toby+Young) | N/A |
+| 35 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
+| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 37 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 38 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 39 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 40 | [Steele](http://twitter.com/search?q=Steele) | N/A |
+| 41 | [Moffat](http://twitter.com/search?q=Moffat) | N/A |
+| 42 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
+| 43 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 44 | [Soccer Saturday](http://twitter.com/search?q=Soccer+Saturday) | N/A |
+| 45 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
+| 46 | [Alastair Campbell](http://twitter.com/search?q=Alastair+Campbell) | N/A |
+| 47 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 48 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 49 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
 
 
 
