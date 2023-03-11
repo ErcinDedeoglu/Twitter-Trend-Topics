@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-11 07:16:21 UTC`
+📆 Last Updated: `2023-03-11 08:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Argentina](</Argentina>)
 | 11 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
 | 12 | [#dialollapaloozaenlos40](http://twitter.com/search?q=%23dialollapaloozaenlos40) | N/A |
 | 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 15 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 14 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 15 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
 | 16 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
 | 17 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
 | 18 | [8-Brócoli](http://twitter.com/search?q=8-Br%c3%b3coli) | N/A |
-| 19 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 20 | [10-Polenta](http://twitter.com/search?q=10-Polenta) | N/A |
-| 21 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 19 | [10-Polenta](http://twitter.com/search?q=10-Polenta) | N/A |
+| 20 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 21 | [5-Rúcula](http://twitter.com/search?q=5-R%c3%bacula) | N/A |
 | 22 | [9-Morcilla](http://twitter.com/search?q=9-Morcilla) | N/A |
 | 23 | [4-Roquefort](http://twitter.com/search?q=4-Roquefort) | N/A |
-| 24 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 25 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 26 | [12-Espinaca](http://twitter.com/search?q=12-Espinaca) | N/A |
-| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 28 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
-| 29 | [5-Rúcula](http://twitter.com/search?q=5-R%c3%bacula) | N/A |
+| 24 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 25 | [12-Espinaca](http://twitter.com/search?q=12-Espinaca) | N/A |
+| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 27 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 28 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 29 | [2-Ketchup](http://twitter.com/search?q=2-Ketchup) | N/A |
 | 30 | [11-Apio](http://twitter.com/search?q=11-Apio) | N/A |
-| 31 | [7-Mondongo](http://twitter.com/search?q=7-Mondongo) | N/A |
-| 32 | [2-Ketchup](http://twitter.com/search?q=2-Ketchup) | N/A |
-| 33 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
-| 34 | [14-Pasas](http://twitter.com/search?q=14-Pasas) | N/A |
-| 35 | [15-Helado](http://twitter.com/search?q=15-Helado) | N/A |
-| 36 | [13-Melón](http://twitter.com/search?q=13-Mel%c3%b3n) | N/A |
-| 37 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 38 | [1-Zapallo](http://twitter.com/search?q=1-Zapallo) | N/A |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [#almacenvivo](http://twitter.com/search?q=%23almacenvivo) | N/A |
-| 41 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 42 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
-| 43 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 44 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
-| 45 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 46 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 47 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 48 | [De La Fuente](http://twitter.com/search?q=De+La+Fuente) | N/A |
-| 49 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
-| 50 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 31 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
+| 32 | [14-Pasas](http://twitter.com/search?q=14-Pasas) | N/A |
+| 33 | [15-Helado](http://twitter.com/search?q=15-Helado) | N/A |
+| 34 | [7-Mondongo](http://twitter.com/search?q=7-Mondongo) | N/A |
+| 35 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
+| 36 | [1-Zapallo](http://twitter.com/search?q=1-Zapallo) | N/A |
+| 37 | [13-Melón](http://twitter.com/search?q=13-Mel%c3%b3n) | N/A |
+| 38 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 39 | [#almacenvivo](http://twitter.com/search?q=%23almacenvivo) | N/A |
+| 40 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
+| 41 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 42 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 43 | [The Climb](http://twitter.com/search?q=The+Climb) | N/A |
+| 44 | [De La Fuente](http://twitter.com/search?q=De+La+Fuente) | N/A |
+| 45 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 46 | [Graciani](http://twitter.com/search?q=Graciani) | N/A |
+| 47 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 48 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
+| 49 | [Parnisari](http://twitter.com/search?q=Parnisari) | N/A |
+| 50 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
 
 
 

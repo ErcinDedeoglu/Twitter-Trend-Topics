@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-11 07:17:00 UTC`
+📆 Last Updated: `2023-03-11 08:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
-| 3 | [#lgdmie](http://twitter.com/search?q=%23lgdmie) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 1 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
+| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
 | 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
 | 6 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
-| 7 | [#twojatwarzbrzmiznajomo](http://twitter.com/search?q=%23twojatwarzbrzmiznajomo) | N/A |
+| 7 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
 | 8 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 9 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 11 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 12 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 13 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 14 | [interu](http://twitter.com/search?q=interu) | N/A |
-| 15 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 9 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 10 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 11 | [Zdrowia](http://twitter.com/search?q=Zdrowia) | N/A |
+| 12 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 14 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 15 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
 | 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 17 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 18 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 17 | [interu](http://twitter.com/search?q=interu) | N/A |
+| 18 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
 | 19 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 20 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
-| 21 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
-| 22 | [stawny](http://twitter.com/search?q=stawny) | N/A |
-| 23 | [spezii](http://twitter.com/search?q=spezii) | N/A |
-| 24 | [interem](http://twitter.com/search?q=interem) | N/A |
-| 25 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
-| 26 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 27 | [ciekawa](http://twitter.com/search?q=ciekawa) | N/A |
+| 20 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [łukasz zwoliński](http://twitter.com/search?q=%c5%82ukasz+zwoli%c5%84ski) | N/A |
+| 23 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
+| 24 | [stawny](http://twitter.com/search?q=stawny) | N/A |
+| 25 | [spezii](http://twitter.com/search?q=spezii) | N/A |
+| 26 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 27 | [latkowskiego](http://twitter.com/search?q=latkowskiego) | N/A |
 | 28 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
 | 29 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 30 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
-| 31 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 32 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 33 | [katowice](http://twitter.com/search?q=katowice) | N/A |
-| 34 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 36 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
-| 37 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 38 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 39 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 40 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 42 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
-| 43 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
-| 44 | [poddębicach](http://twitter.com/search?q=podd%c4%99bicach) | N/A |
-| 45 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 30 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 31 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 32 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 33 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
+| 34 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 35 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 36 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 37 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
+| 38 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 39 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 40 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 41 | [Interem](http://twitter.com/search?q=Interem) | N/A |
+| 42 | [Antek](http://twitter.com/search?q=Antek) | N/A |
+| 43 | [Germans](http://twitter.com/search?q=Germans) | N/A |
+| 44 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 45 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
 | 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 47 | [Anka](http://twitter.com/search?q=Anka) | N/A |
-| 48 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 49 | [Dla Ciebie](http://twitter.com/search?q=Dla+Ciebie) | N/A |
-| 50 | [Wciąż](http://twitter.com/search?q=Wci%c4%85%c5%bc) | N/A |
+| 47 | [Ciekawa](http://twitter.com/search?q=Ciekawa) | N/A |
+| 48 | [Anka](http://twitter.com/search?q=Anka) | N/A |
+| 49 | [Wciąż](http://twitter.com/search?q=Wci%c4%85%c5%bc) | N/A |
+| 50 | [Dla Ciebie](http://twitter.com/search?q=Dla+Ciebie) | N/A |
 
 
 

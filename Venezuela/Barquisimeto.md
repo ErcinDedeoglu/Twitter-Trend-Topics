@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-11 07:16:21 UTC`
+📆 Last Updated: `2023-03-11 08:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,35 +35,35 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 18 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
 | 19 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
 | 20 | [aroldo betancourt](http://twitter.com/search?q=aroldo+betancourt) | N/A |
-| 21 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 22 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 23 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 24 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 27 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 28 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 29 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 30 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 31 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
-| 32 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
-| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 34 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 35 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 36 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 37 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 38 | [Pana](http://twitter.com/search?q=Pana) | N/A |
-| 39 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 40 | [Boza](http://twitter.com/search?q=Boza) | N/A |
-| 41 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 42 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
-| 43 | [bono mujer venezuela](http://twitter.com/search?q=bono+mujer+venezuela) | N/A |
-| 44 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
-| 45 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 46 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 47 | [Tetero](http://twitter.com/search?q=Tetero) | N/A |
-| 48 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
-| 49 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 21 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 22 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 23 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 26 | [leonardo villalobos](http://twitter.com/search?q=leonardo+villalobos) | N/A |
+| 27 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 28 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
+| 29 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
+| 30 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
+| 31 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
+| 32 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 33 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 34 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 35 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 36 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 37 | [Pana](http://twitter.com/search?q=Pana) | N/A |
+| 38 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 39 | [Boza](http://twitter.com/search?q=Boza) | N/A |
+| 40 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
+| 41 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 43 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
+| 44 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 45 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 46 | [tetero](http://twitter.com/search?q=tetero) | N/A |
+| 47 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 48 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 49 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
 
 
 

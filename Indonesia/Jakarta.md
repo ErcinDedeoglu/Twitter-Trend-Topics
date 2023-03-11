@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-11 07:16:30 UTC`
+📆 Last Updated: `2023-03-11 08:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BORNPINKinJKT](http://twitter.com/search?q=%23BORNPINKinJKT) | N/A |
-| 2 | [#C55diBreakout](http://twitter.com/search?q=%23C55diBreakout) | N/A |
-| 3 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
-| 4 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 2 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 3 | [#C55diBreakout](http://twitter.com/search?q=%23C55diBreakout) | N/A |
+| 4 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
 | 5 | [#UN1TYDahSyat15timewa](http://twitter.com/search?q=%23UN1TYDahSyat15timewa) | N/A |
-| 6 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 7 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 6 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 7 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 8 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
-| 9 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 10 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [I-land](http://twitter.com/search?q=I-land) | N/A |
-| 15 | [Udang](http://twitter.com/search?q=Udang) | N/A |
-| 16 | [Cinepolis](http://twitter.com/search?q=Cinepolis) | N/A |
-| 17 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
-| 18 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 19 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 20 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
-| 21 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 9 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 10 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 11 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 12 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [I-land](http://twitter.com/search?q=I-land) | N/A |
+| 17 | [Cinepolis](http://twitter.com/search?q=Cinepolis) | N/A |
+| 18 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
+| 22 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
 | 23 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
-| 24 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
-| 25 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
-| 26 | [#BNISirnas2023](http://twitter.com/search?q=%23BNISirnas2023) | N/A |
-| 27 | [#Badmintondidetikcom](http://twitter.com/search?q=%23Badmintondidetikcom) | N/A |
-| 28 | [#BNIDirectSirnasPurwokerto](http://twitter.com/search?q=%23BNIDirectSirnasPurwokerto) | N/A |
-| 29 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 30 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 24 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 25 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 26 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
+| 27 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
+| 28 | [#BNISirnas2023](http://twitter.com/search?q=%23BNISirnas2023) | N/A |
+| 29 | [#Badmintondidetikcom](http://twitter.com/search?q=%23Badmintondidetikcom) | N/A |
+| 30 | [#BNIDirectSirnasPurwokerto](http://twitter.com/search?q=%23BNIDirectSirnasPurwokerto) | N/A |
 | 31 | [#OhmNanonFMJP2023](http://twitter.com/search?q=%23OhmNanonFMJP2023) | N/A |
 | 32 | [#YSLBeautyxTEN](http://twitter.com/search?q=%23YSLBeautyxTEN) | N/A |
-| 33 | [#Celineboy](http://twitter.com/search?q=%23Celineboy) | N/A |
+| 33 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
 | 34 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 35 | [#RIPKemenkeu](http://twitter.com/search?q=%23RIPKemenkeu) | N/A |
-| 36 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 37 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
-| 38 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
-| 39 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 40 | [#wtsbornpinkjakarta](http://twitter.com/search?q=%23wtsbornpinkjakarta) | N/A |
-| 41 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 35 | [#JakartaBINBisa](http://twitter.com/search?q=%23JakartaBINBisa) | N/A |
+| 36 | [#RIPKemenkeu](http://twitter.com/search?q=%23RIPKemenkeu) | N/A |
+| 37 | [#Celineboy](http://twitter.com/search?q=%23Celineboy) | N/A |
+| 38 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 39 | [#SavePendampingDesa](http://twitter.com/search?q=%23SavePendampingDesa) | N/A |
+| 40 | [#BangkitBersamaET](http://twitter.com/search?q=%23BangkitBersamaET) | N/A |
+| 41 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
 | 42 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
-| 43 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
 
 
 

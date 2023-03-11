@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-11 07:16:21 UTC`
+📆 Last Updated: `2023-03-11 08:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Brazil](</Brazil>)
 | 7 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 9 | [D'Angelo Russell](http://twitter.com/search?q=D%27Angelo+Russell) | N/A |
-| 10 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 10 | [D'Lo](http://twitter.com/search?q=D%27Lo) | N/A |
 | 11 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 12 | [d'lo](http://twitter.com/search?q=d%27lo) | N/A |
-| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 14 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 15 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 18 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 19 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 20 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 21 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 22 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 23 | [GUSKEY NO PARIS 6](http://twitter.com/search?q=GUSKEY+NO+PARIS+6) | N/A |
-| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 25 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 26 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 27 | [Empoderamento](http://twitter.com/search?q=Empoderamento) | N/A |
-| 28 | [FORÇA BLACK](http://twitter.com/search?q=FOR%c3%87A+BLACK) | N/A |
-| 29 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 30 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 31 | [#CaminhodasIndiasNoVIVA](http://twitter.com/search?q=%23CaminhodasIndiasNoVIVA) | N/A |
-| 32 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
-| 33 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
-| 34 | [N - Você](http://twitter.com/search?q=N+-+Voc%c3%aa) | N/A |
-| 35 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 36 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
-| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 38 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 39 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
-| 40 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 41 | [E- Beija](http://twitter.com/search?q=E-+Beija) | N/A |
-| 42 | [TABELA DO MEDO](http://twitter.com/search?q=TABELA+DO+MEDO) | N/A |
-| 43 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
-| 44 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 45 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 46 | [Falso](http://twitter.com/search?q=Falso) | N/A |
-| 47 | [Bruna e Fred](http://twitter.com/search?q=Bruna+e+Fred) | Bruna e Fred is a Brazilian children's television series that follows the adventures of two friends, Bruna and Fred. The show focuses on the importance of friendship, respect, and understanding. In English, the phrase translates to "Bruna and Fred". |
-| 48 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
-| 49 | [xepa](http://twitter.com/search?q=xepa) | N/A |
+| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 13 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 15 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 16 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 17 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 18 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 20 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 21 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 22 | [Empoderamento](http://twitter.com/search?q=Empoderamento) | N/A |
+| 23 | [FORÇA BLACK](http://twitter.com/search?q=FOR%c3%87A+BLACK) | N/A |
+| 24 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 25 | [chris martin](http://twitter.com/search?q=chris+martin) | N/A |
+| 26 | [TABELA DO MEDO](http://twitter.com/search?q=TABELA+DO+MEDO) | N/A |
+| 27 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
+| 28 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 29 | [N - Você](http://twitter.com/search?q=N+-+Voc%c3%aa) | N/A |
+| 30 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 31 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 32 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 33 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 34 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 35 | [E- Beija](http://twitter.com/search?q=E-+Beija) | N/A |
+| 36 | [Líder](http://twitter.com/search?q=L%c3%adder) | N/A |
+| 37 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 38 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
+| 39 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 40 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 41 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
+| 42 | [Bruna e Fred](http://twitter.com/search?q=Bruna+e+Fred) | Bruna e Fred is a Brazilian children's television series that follows the adventures of two friends, Bruna and Fred. The show focuses on the importance of friendship, respect, and understanding. In English, the phrase translates to "Bruna and Fred". |
+| 43 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 44 | [M - Melhor](http://twitter.com/search?q=M+-+Melhor) | N/A |
+| 45 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
+| 46 | [#EstrelasLGBTQ](http://twitter.com/search?q=%23EstrelasLGBTQ) | N/A |
+| 47 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
+| 48 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 49 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
 
 
 

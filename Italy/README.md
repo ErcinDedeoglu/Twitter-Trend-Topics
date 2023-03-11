@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-11 07:16:58 UTC`
+📆 Last Updated: `2023-03-11 08:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
 | 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 4 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 5 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 7 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 3 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 5 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 6 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 7 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
 | 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 9 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 10 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 11 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 13 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 14 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 15 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 11 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 12 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 15 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
 | 16 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 19 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 20 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 21 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 22 | [caldara](http://twitter.com/search?q=caldara) | N/A |
-| 23 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 24 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 25 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 17 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 18 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 19 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 20 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 21 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 22 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 23 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 24 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 25 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
 | 26 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 27 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
-| 28 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 29 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 30 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 31 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 32 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
-| 33 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
-| 34 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 35 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 36 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
-| 37 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 38 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 39 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 40 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 41 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 42 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 43 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 44 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 45 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 46 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 47 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 48 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
-| 49 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 50 | [Appiano](http://twitter.com/search?q=Appiano) | N/A |
+| 27 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 28 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 29 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
+| 30 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
+| 31 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
+| 32 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 33 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 34 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 35 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 36 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 37 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 38 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 39 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 40 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 41 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 42 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 43 | [ZINGARI](http://twitter.com/search?q=ZINGARI) | N/A |
+| 44 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 46 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 47 | [Mazzarri](http://twitter.com/search?q=Mazzarri) | N/A |
+| 48 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 49 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 50 | [Atac](http://twitter.com/search?q=Atac) | N/A |
 
 
 

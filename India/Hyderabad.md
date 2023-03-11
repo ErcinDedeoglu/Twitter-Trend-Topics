@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-03-11 07:16:45 UTC`
+📆 Last Updated: `2023-03-11 08:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GalaxyS23Ultragiveaway](http://twitter.com/search?q=%23GalaxyS23Ultragiveaway) | N/A |
-| 2 | [#ISupportManishKasyap](http://twitter.com/search?q=%23ISupportManishKasyap) | N/A |
-| 3 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
-| 4 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 5 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 6 | [#TejashwiYadav](http://twitter.com/search?q=%23TejashwiYadav) | N/A |
-| 7 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 8 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 9 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 10 | [JioCinema](http://twitter.com/search?q=JioCinema) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 14 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 15 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 1 | [#WinGalaxyS23Ultra](http://twitter.com/search?q=%23WinGalaxyS23Ultra) | N/A |
+| 2 | [#VikasPurushDevendra](http://twitter.com/search?q=%23VikasPurushDevendra) | N/A |
+| 3 | [1 Year Of The Kashmir Files](http://twitter.com/search?q=1+Year+Of+The+Kashmir+Files) | N/A |
+| 4 | [#VivekAgnihotri](http://twitter.com/search?q=%23VivekAgnihotri) | N/A |
+| 5 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 6 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
+| 7 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 8 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
+| 9 | [JioCinema](http://twitter.com/search?q=JioCinema) | N/A |
+| 10 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 11 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 12 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 13 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
+| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 15 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
 | 16 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
-| 17 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 18 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 19 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 20 | [Gau Sewa](http://twitter.com/search?q=Gau+Sewa) | N/A |
-| 21 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
-| 22 | [Cow Should Be National Animal](http://twitter.com/search?q=Cow+Should+Be+National+Animal) | N/A |
-| 23 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 25 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 26 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 27 | [सुशीला कुमारी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 28 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 29 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 30 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 31 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 32 | [रक्षा हेतु](http://twitter.com/search?q=%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%b9%e0%a5%87%e0%a4%a4%e0%a5%81) | N/A |
-| 33 | [PM Vishwakarma Kaushal Samman](http://twitter.com/search?q=PM+Vishwakarma+Kaushal+Samman) | N/A |
-| 34 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 35 | [धर्मवीर छत्रपति](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 36 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 38 | [Chara](http://twitter.com/search?q=Chara) | N/A |
-| 39 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 40 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 41 | [ED CBI](http://twitter.com/search?q=ED+CBI) | N/A |
-| 42 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
-| 43 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 44 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
-| 45 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 46 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 47 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 49 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 17 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 18 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 19 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 20 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 21 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 22 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 23 | [Tech Mahindra](http://twitter.com/search?q=Tech+Mahindra) | N/A |
+| 24 | [विश्वकर्मा योजना](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 25 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 26 | [STAY STRONG GHKKPM TEAM](http://twitter.com/search?q=STAY+STRONG+GHKKPM+TEAM) | N/A |
+| 27 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 28 | [विश्वकर्मा कौशल](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2) | N/A |
+| 29 | [सुशीला कुमारी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Jawan](http://twitter.com/search?q=Jawan) | N/A |
+| 32 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 33 | [रक्षा हेतु](http://twitter.com/search?q=%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%b9%e0%a5%87%e0%a4%a4%e0%a5%81) | N/A |
+| 34 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 35 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 36 | [PM Vishwakarma Kaushal Samman](http://twitter.com/search?q=PM+Vishwakarma+Kaushal+Samman) | N/A |
+| 37 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 38 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 39 | [धर्मवीर छत्रपति](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 40 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 42 | [Draw](http://twitter.com/search?q=Draw) | N/A |
+| 43 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 44 | [Gau Sewa](http://twitter.com/search?q=Gau+Sewa) | N/A |
+| 45 | [Cow Should Be National Animal](http://twitter.com/search?q=Cow+Should+Be+National+Animal) | N/A |
+| 46 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 47 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 48 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 49 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
 
 
 
