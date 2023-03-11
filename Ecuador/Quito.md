@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-11 13:18:38 UTC`
+📆 Last Updated: `2023-03-11 14:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
-| 2 | [miller bolaños](http://twitter.com/search?q=miller+bola%c3%b1os) | N/A |
-| 3 | [#76añosfunciónelectoral](http://twitter.com/search?q=%2376a%c3%b1osfunci%c3%b3nelectoral) | N/A |
-| 4 | [#ecuadoresdemocracia](http://twitter.com/search?q=%23ecuadoresdemocracia) | N/A |
+| 1 | [GolTV](http://twitter.com/search?q=GolTV) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 4 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
 | 5 | [Freddy Carrión](http://twitter.com/search?q=Freddy+Carri%c3%b3n) | N/A |
-| 6 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 7 | [Cuco](http://twitter.com/search?q=Cuco) | N/A |
-| 8 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 9 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
-| 10 | [Monjas](http://twitter.com/search?q=Monjas) | N/A |
-| 11 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
-| 12 | [ligapro](http://twitter.com/search?q=ligapro) | N/A |
-| 13 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
-| 14 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
-| 15 | [#Yaku](http://twitter.com/search?q=%23Yaku) | N/A |
-| 16 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 17 | [liga top](http://twitter.com/search?q=liga+top) | N/A |
-| 18 | [Directv](http://twitter.com/search?q=Directv) | N/A |
-| 19 | [#NocheAzulgrana](http://twitter.com/search?q=%23NocheAzulgrana) | N/A |
+| 6 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
+| 7 | [Monjas](http://twitter.com/search?q=Monjas) | N/A |
+| 8 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
+| 9 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
+| 10 | [Loor](http://twitter.com/search?q=Loor) | N/A |
+| 11 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 12 | [Directv](http://twitter.com/search?q=Directv) | N/A |
+| 13 | [liga top](http://twitter.com/search?q=liga+top) | N/A |
+| 14 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
+| 15 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
+| 16 | [#Yaku](http://twitter.com/search?q=%23Yaku) | N/A |
+| 17 | [#nocheazulgrana](http://twitter.com/search?q=%23nocheazulgrana) | N/A |
+| 18 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
+| 19 | [#EcuadorEsDemocracia](http://twitter.com/search?q=%23EcuadorEsDemocracia) | N/A |
 | 20 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 21 | [Romario](http://twitter.com/search?q=Romario) | N/A |
+| 21 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 22 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 23 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 23 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
 | 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Tribunal Supremo Electoral](http://twitter.com/search?q=Tribunal+Supremo+Electoral) | N/A |
+| 25 | [Miserables](http://twitter.com/search?q=Miserables) | N/A |
 | 26 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
 | 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 28 | [rinaldi](http://twitter.com/search?q=rinaldi) | N/A |
-| 29 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 30 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 31 | [qué tan mañoso eres](http://twitter.com/search?q=qu%c3%a9+tan+ma%c3%b1oso+eres) | N/A |
-| 32 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 33 | [Ulloa](http://twitter.com/search?q=Ulloa) | N/A |
-| 34 | [ÚLTIMA HORA](http://twitter.com/search?q=%c3%9aLTIMA+HORA) | N/A |
-| 35 | [Corral](http://twitter.com/search?q=Corral) | N/A |
-| 36 | [Restrepo](http://twitter.com/search?q=Restrepo) | N/A |
-| 37 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 39 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
-| 40 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 41 | [sesión solemne](http://twitter.com/search?q=sesi%c3%b3n+solemne) | N/A |
-| 42 | [Acaso](http://twitter.com/search?q=Acaso) | N/A |
-| 43 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 44 | [Judicatura](http://twitter.com/search?q=Judicatura) | N/A |
-| 45 | [Marco Tamayo](http://twitter.com/search?q=Marco+Tamayo) | N/A |
-| 46 | [Miravalle](http://twitter.com/search?q=Miravalle) | N/A |
-| 47 | [brasil y argentina](http://twitter.com/search?q=brasil+y+argentina) | N/A |
-| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 49 | [tomebamba](http://twitter.com/search?q=tomebamba) | N/A |
-| 50 | [Selecciones](http://twitter.com/search?q=Selecciones) | N/A |
+| 28 | [Judicatura](http://twitter.com/search?q=Judicatura) | N/A |
+| 29 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
+| 30 | [ÚLTIMA HORA](http://twitter.com/search?q=%c3%9aLTIMA+HORA) | N/A |
+| 31 | [Acaso](http://twitter.com/search?q=Acaso) | N/A |
+| 32 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 33 | [brasil y argentina](http://twitter.com/search?q=brasil+y+argentina) | N/A |
+| 34 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 35 | [Depende](http://twitter.com/search?q=Depende) | N/A |
+| 36 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
+| 37 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 38 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 39 | [Valen](http://twitter.com/search?q=Valen) | N/A |
+| 40 | [Marco Tamayo](http://twitter.com/search?q=Marco+Tamayo) | N/A |
+| 41 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 42 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 43 | [qué tan mañoso eres](http://twitter.com/search?q=qu%c3%a9+tan+ma%c3%b1oso+eres) | N/A |
+| 44 | [Ulloa](http://twitter.com/search?q=Ulloa) | N/A |
+| 45 | [juan macías](http://twitter.com/search?q=juan+mac%c3%adas) | N/A |
+| 46 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
+| 47 | [Interesante](http://twitter.com/search?q=Interesante) | N/A |
+| 48 | [Sesión Solemne](http://twitter.com/search?q=Sesi%c3%b3n+Solemne) | N/A |
+| 49 | [Viva](http://twitter.com/search?q=Viva) | N/A |
+| 50 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 
 
 

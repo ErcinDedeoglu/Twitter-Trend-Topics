@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-11 13:18:37 UTC`
+📆 Last Updated: `2023-03-11 14:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
 | 2 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
-| 3 | [#1AñoPerdido](http://twitter.com/search?q=%231A%c3%b1oPerdido) | N/A |
-| 4 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 5 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
+| 3 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
+| 4 | [#1AñoPerdido](http://twitter.com/search?q=%231A%c3%b1oPerdido) | N/A |
+| 5 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
 | 6 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
 | 7 | [Jaime de Aguirre](http://twitter.com/search?q=Jaime+de+Aguirre) | N/A |
-| 8 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 9 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 10 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 11 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 12 | [Alberto van Klaveren](http://twitter.com/search?q=Alberto+van+Klaveren) | N/A |
+| 8 | [tabilo](http://twitter.com/search?q=tabilo) | N/A |
+| 9 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 10 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 11 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
+| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 13 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 14 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 15 | [RREE](http://twitter.com/search?q=RREE) | N/A |
-| 16 | [te cagaste a chile](http://twitter.com/search?q=te+cagaste+a+chile) | N/A |
-| 17 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
-| 18 | [matías fernández](http://twitter.com/search?q=mat%c3%adas+fern%c3%a1ndez) | N/A |
-| 19 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 20 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
-| 21 | [cressy](http://twitter.com/search?q=cressy) | N/A |
-| 22 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 23 | [ministro del deporte](http://twitter.com/search?q=ministro+del+deporte) | N/A |
-| 24 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 25 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 26 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 27 | [Marta Maurás](http://twitter.com/search?q=Marta+Maur%c3%a1s) | N/A |
-| 28 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
-| 29 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 30 | [julieta brodsky](http://twitter.com/search?q=julieta+brodsky) | N/A |
-| 31 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
-| 32 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
+| 14 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 15 | [Alberto van Klaveren](http://twitter.com/search?q=Alberto+van+Klaveren) | N/A |
+| 16 | [Cressy](http://twitter.com/search?q=Cressy) | N/A |
+| 17 | [RREE](http://twitter.com/search?q=RREE) | N/A |
+| 18 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 19 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [ministro del deporte](http://twitter.com/search?q=ministro+del+deporte) | N/A |
+| 22 | [Alessandri](http://twitter.com/search?q=Alessandri) | N/A |
+| 23 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 24 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
+| 25 | [meneses](http://twitter.com/search?q=meneses) | N/A |
+| 26 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
+| 27 | [julieta brodsky](http://twitter.com/search?q=julieta+brodsky) | N/A |
+| 28 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 29 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 30 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
+| 31 | [eran 7](http://twitter.com/search?q=eran+7) | N/A |
+| 32 | [Titi](http://twitter.com/search?q=Titi) | N/A |
 | 33 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 34 | [Giovi](http://twitter.com/search?q=Giovi) | N/A |
-| 35 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
-| 36 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 37 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 38 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 39 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 40 | [Eran 7](http://twitter.com/search?q=Eran+7) | N/A |
-| 41 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 42 | [patricio fernández](http://twitter.com/search?q=patricio+fern%c3%a1ndez) | N/A |
-| 43 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 44 | [Juan Carlos García](http://twitter.com/search?q=Juan+Carlos+Garc%c3%ada) | N/A |
-| 45 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 46 | [juan delgado](http://twitter.com/search?q=juan+delgado) | N/A |
-| 47 | [Jessica López](http://twitter.com/search?q=Jessica+L%c3%b3pez) | N/A |
-| 48 | [Obras Públicas](http://twitter.com/search?q=Obras+P%c3%bablicas) | N/A |
-| 49 | [Ciencias](http://twitter.com/search?q=Ciencias) | N/A |
-| 50 | [OOPP](http://twitter.com/search?q=OOPP) | N/A |
+| 34 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 35 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 36 | [juan delgado](http://twitter.com/search?q=juan+delgado) | N/A |
+| 37 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 38 | [Ciencias](http://twitter.com/search?q=Ciencias) | N/A |
+| 39 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 40 | [el kaiser](http://twitter.com/search?q=el+kaiser) | N/A |
+| 41 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
+| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 43 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
+| 44 | [obras públicas](http://twitter.com/search?q=obras+p%c3%bablicas) | N/A |
+| 45 | [Alexandra Benado](http://twitter.com/search?q=Alexandra+Benado) | N/A |
+| 46 | [patricio fernández](http://twitter.com/search?q=patricio+fern%c3%a1ndez) | N/A |
+| 47 | [OOPP](http://twitter.com/search?q=OOPP) | N/A |
+| 48 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 49 | [Relaciones Exteriores](http://twitter.com/search?q=Relaciones+Exteriores) | N/A |
+| 50 | [Ministerio](http://twitter.com/search?q=Ministerio) | N/A |
 
 
 

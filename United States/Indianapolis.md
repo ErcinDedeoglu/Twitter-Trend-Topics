@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-11 13:19:11 UTC`
+📆 Last Updated: `2023-03-11 14:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 2 | [Ballard](http://twitter.com/search?q=Ballard) | N/A |
+| 2 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
 | 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 5 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 6 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [#MyPLMorning](http://twitter.com/search?q=%23MyPLMorning) | N/A |
-| 11 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 12 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 13 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 15 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 16 | [Roki Sasaki](http://twitter.com/search?q=Roki+Sasaki) | N/A |
-| 17 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 18 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 19 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 20 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 21 | [Stable](http://twitter.com/search?q=Stable) | N/A |
-| 22 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 23 | [Tether](http://twitter.com/search?q=Tether) | N/A |
-| 24 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
-| 25 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 26 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 27 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 28 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 29 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 30 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 31 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 32 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 33 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 34 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 35 | [Sisqo](http://twitter.com/search?q=Sisqo) | N/A |
-| 36 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 37 | [D LO](http://twitter.com/search?q=D+LO) | N/A |
-| 38 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 39 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 40 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 41 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 42 | [Masks](http://twitter.com/search?q=Masks) | N/A |
-| 43 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 44 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 45 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 46 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 47 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
-| 48 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 49 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 7 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 9 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 12 | [#myplmorning](http://twitter.com/search?q=%23myplmorning) | N/A |
+| 13 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 14 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 15 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 18 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
+| 19 | [Adele Givens](http://twitter.com/search?q=Adele+Givens) | N/A |
+| 20 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 21 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 22 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 23 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 24 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 25 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 26 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 27 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 28 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 29 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 30 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 32 | [Stable](http://twitter.com/search?q=Stable) | N/A |
+| 33 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 34 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 35 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 37 | [Tether](http://twitter.com/search?q=Tether) | N/A |
+| 38 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
+| 39 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 40 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 41 | [Treasuries](http://twitter.com/search?q=Treasuries) | N/A |
+| 42 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 43 | [David Sacks](http://twitter.com/search?q=David+Sacks) | N/A |
+| 44 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 45 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 46 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 47 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 48 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 49 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
 
 
 

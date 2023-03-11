@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-11 13:18:49 UTC`
+📆 Last Updated: `2023-03-11 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 2 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
-| 3 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 4 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
+| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
+| 4 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
 | 5 | [ROSÉ MEMUKAU JAKARTA](http://twitter.com/search?q=ROS%c3%89+MEMUKAU+JAKARTA) | N/A |
-| 6 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 7 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
-| 8 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 9 | [Cella](http://twitter.com/search?q=Cella) | N/A |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
-| 12 | [Kunyit](http://twitter.com/search?q=Kunyit) | N/A |
-| 13 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 14 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 15 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
-| 16 | [Dompet](http://twitter.com/search?q=Dompet) | N/A |
-| 17 | [Maknae](http://twitter.com/search?q=Maknae) | N/A |
+| 6 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
+| 7 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 8 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 9 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 10 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 11 | [Maknae](http://twitter.com/search?q=Maknae) | N/A |
+| 12 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 13 | [Cella](http://twitter.com/search?q=Cella) | N/A |
+| 14 | [Jersey](http://twitter.com/search?q=Jersey) | N/A |
+| 15 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 16 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
+| 17 | [Pakde](http://twitter.com/search?q=Pakde) | N/A |
 | 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 20 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 21 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 22 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 23 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 26 | [GET WELL SOON CHENLE](http://twitter.com/search?q=GET+WELL+SOON+CHENLE) | N/A |
-| 27 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 28 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 29 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 30 | [#PajamaDriveJKT48](http://twitter.com/search?q=%23PajamaDriveJKT48) | N/A |
-| 31 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 32 | [#kayestore](http://twitter.com/search?q=%23kayestore) | N/A |
-| 33 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
-| 34 | [#ShootingStarinSingapore](http://twitter.com/search?q=%23ShootingStarinSingapore) | N/A |
-| 35 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 36 | [#JISOOLightsUpJAKARTA](http://twitter.com/search?q=%23JISOOLightsUpJAKARTA) | N/A |
-| 37 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 38 | [#HKVHWedd](http://twitter.com/search?q=%23HKVHWedd) | N/A |
-| 39 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 40 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
-| 41 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 42 | [#BORNPINKinJKTday1](http://twitter.com/search?q=%23BORNPINKinJKTday1) | N/A |
-| 43 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 44 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 19 | [merapi](http://twitter.com/search?q=merapi) | N/A |
+| 20 | [Dompet](http://twitter.com/search?q=Dompet) | N/A |
+| 21 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 22 | [Rebahan](http://twitter.com/search?q=Rebahan) | N/A |
+| 23 | [Souta](http://twitter.com/search?q=Souta) | N/A |
+| 24 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 25 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 26 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 27 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
+| 28 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 29 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 30 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 31 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 32 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 34 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 35 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 36 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 37 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 38 | [#PajamaDriveJKT48](http://twitter.com/search?q=%23PajamaDriveJKT48) | N/A |
+| 39 | [#ShootingStarinSingapore](http://twitter.com/search?q=%23ShootingStarinSingapore) | N/A |
+| 40 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 41 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
+| 42 | [#JISOOLightsUpJAKARTA](http://twitter.com/search?q=%23JISOOLightsUpJAKARTA) | N/A |
+| 43 | [#kayestore](http://twitter.com/search?q=%23kayestore) | N/A |
+| 44 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
 
 
 

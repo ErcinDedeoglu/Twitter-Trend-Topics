@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-11 13:18:38 UTC`
+📆 Last Updated: `2023-03-11 14:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
-| 2 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
-| 3 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [día del médico](http://twitter.com/search?q=d%c3%ada+del+m%c3%a9dico) | N/A |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 7 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
-| 8 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 9 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 10 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 11 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
+| 3 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
+| 4 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
+| 5 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 7 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 8 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 9 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
+| 10 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 11 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
 | 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 14 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 15 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 16 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 17 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 18 | [Rocky Marciano](http://twitter.com/search?q=Rocky+Marciano) | N/A |
-| 19 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
-| 20 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 21 | [leandro cufré](http://twitter.com/search?q=leandro+cufr%c3%a9) | N/A |
-| 22 | [universidad de caracas](http://twitter.com/search?q=universidad+de+caracas) | N/A |
-| 23 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
-| 24 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 26 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 27 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 28 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 29 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 13 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 14 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 18 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 19 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
+| 20 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 22 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 23 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 24 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 25 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 28 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 29 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
 | 30 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 31 | [juan josé landaeta](http://twitter.com/search?q=juan+jos%c3%a9+landaeta) | N/A |
-| 32 | [vicente rosales](http://twitter.com/search?q=vicente+rosales) | N/A |
-| 33 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 34 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 35 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 36 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 37 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 38 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
-| 39 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
-| 40 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
-| 41 | [aroldo betancourt](http://twitter.com/search?q=aroldo+betancourt) | N/A |
-| 42 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 43 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
-| 44 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 33 | [rocky marciano](http://twitter.com/search?q=rocky+marciano) | N/A |
+| 34 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 35 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 36 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 37 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
+| 38 | [Pana](http://twitter.com/search?q=Pana) | N/A |
+| 39 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
+| 40 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 41 | [DT de la Vinotinto](http://twitter.com/search?q=DT+de+la+Vinotinto) | N/A |
+| 42 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 43 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
+| 44 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
+| 45 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 46 | [club house](http://twitter.com/search?q=club+house) | N/A |
 
 
 

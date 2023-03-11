@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-11 13:19:21 UTC`
+📆 Last Updated: `2023-03-11 14:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
-| 2 | [#TENinPenang](http://twitter.com/search?q=%23TENinPenang) | N/A |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#TENinPenang](http://twitter.com/search?q=%23TENinPenang) | N/A |
 | 4 | [#YSLBeautyxTEN](http://twitter.com/search?q=%23YSLBeautyxTEN) | N/A |
-| 5 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
-| 8 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 9 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
+| 7 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
+| 8 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 9 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
 | 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 11 | [feijian](http://twitter.com/search?q=feijian) | N/A |
-| 12 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 13 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Rosie posie](http://twitter.com/search?q=Rosie+posie) | N/A |
-| 16 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 17 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 18 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 11 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 12 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 13 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [PearThin](http://twitter.com/search?q=PearThin) | N/A |
+| 17 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
+| 18 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 21 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 22 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 23 | [KLCC](http://twitter.com/search?q=KLCC) | N/A |
-| 24 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 25 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 26 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
-| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 28 | [Hannie](http://twitter.com/search?q=Hannie) | N/A |
-| 29 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 30 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 31 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 33 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 36 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
-| 37 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 38 | [Abah](http://twitter.com/search?q=Abah) | N/A |
-| 39 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 40 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 41 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 42 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 43 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 44 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 45 | [Island](http://twitter.com/search?q=Island) | N/A |
-| 46 | [MEW VOGUE 10th ANV](http://twitter.com/search?q=MEW+VOGUE+10th+ANV) | N/A |
-| 47 | [Momota](http://twitter.com/search?q=Momota) | N/A |
-| 48 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 49 | [Thalapathy](http://twitter.com/search?q=Thalapathy) | N/A |
-| 50 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 20 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 21 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 22 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 23 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
+| 24 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 25 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 26 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
+| 27 | [suzume](http://twitter.com/search?q=suzume) | N/A |
+| 28 | [Haah](http://twitter.com/search?q=Haah) | N/A |
+| 29 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 30 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 31 | [Yeay](http://twitter.com/search?q=Yeay) | N/A |
+| 32 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 33 | [Hannie](http://twitter.com/search?q=Hannie) | N/A |
+| 34 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 35 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 36 | [Nahhh](http://twitter.com/search?q=Nahhh) | N/A |
+| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 38 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
+| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 40 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 41 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 42 | [Minho](http://twitter.com/search?q=Minho) | N/A |
+| 43 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 44 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 45 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 46 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 47 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 48 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 49 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 50 | [Money](http://twitter.com/search?q=Money) | N/A |
 
 
 

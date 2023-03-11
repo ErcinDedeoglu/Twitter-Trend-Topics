@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-11 13:19:23 UTC`
+📆 Last Updated: `2023-03-11 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Saudi Arabia
 | 3 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
 | 4 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
 | 5 | [#وزاره_التعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 6 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 7 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 6 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 7 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
 | 8 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 9 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 10 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
-| 11 | [#تعليم_جده](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%af%d9%87) | N/A |
-| 12 | [#السعوديه_العظمي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
-| 13 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 14 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 15 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 16 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 17 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 18 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 19 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 20 | [علم التوحيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af) | N/A |
-| 21 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 22 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 23 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
-| 24 | [المشجع الهلالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 25 | [عبدالعزيز بن فهد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
-| 26 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
-| 28 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 29 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 30 | [عالي الهامه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d9%85%d9%87) | N/A |
-| 31 | [الرايه الخضراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
-| 32 | [ابو ثوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ab%d9%88%d8%a8) | N/A |
-| 33 | [علم الفخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
-| 34 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 35 | [رمز الوحده](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 36 | [رمز القوه](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d9%82%d9%88%d9%87) | N/A |
-| 37 | [اللون الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 38 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 39 | [فهد المولد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | فهد المولد is an Arabic phrase that translates to "Fahd of the Birth". It is a traditional greeting used to celebrate the birth of a baby boy. |
-| 40 | [علي البيارق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
-| 41 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 42 | [روح الاتحاد](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 43 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 44 | [مدرج النصر](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 45 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
-| 46 | [السيف الاجرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a8) | N/A |
-| 47 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 48 | [الجمهور الهلالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 49 | [علم وطني](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 50 | [مفتاح الاسلام](http://twitter.com/search?q=%d9%85%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 9 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 10 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 11 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 12 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 13 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
+| 14 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
+| 15 | [#عبدالعزيز_بن_فهد](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d9%81%d9%87%d8%af) | N/A |
+| 16 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 17 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 18 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
+| 19 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 20 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 21 | [رؤوف خليف](http://twitter.com/search?q=%d8%b1%d8%a4%d9%88%d9%81+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 22 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 23 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
+| 24 | [علم التوحيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 25 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 26 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
+| 27 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 28 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 29 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 30 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 31 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 32 | [المشجع الهلالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 33 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 34 | [عالي الهامه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d9%85%d9%87) | N/A |
+| 35 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 36 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 37 | [علم الفخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
+| 38 | [علي البيارق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
+| 39 | [رمز القوه](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d9%82%d9%88%d9%87) | N/A |
+| 40 | [الرايه الخضراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
+| 41 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
+| 42 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 43 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 44 | [فهد المولد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | فهد المولد is an Arabic phrase that translates to "Fahd of the Birth". It is a traditional greeting used to celebrate the birth of a baby boy. |
+| 45 | [ابو ثوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ab%d9%88%d8%a8) | N/A |
+| 46 | [اللون الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 47 | [السيف الاجرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a8) | N/A |
+| 48 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 49 | [جماهير الهلال](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 50 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
 
 
 

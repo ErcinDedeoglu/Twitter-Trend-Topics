@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-11 13:18:45 UTC`
+📆 Last Updated: `2023-03-11 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 1 | [#DSCSVD](http://twitter.com/search?q=%23DSCSVD) | N/A |
+| 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
-| 5 | [#fcspsgf](http://twitter.com/search?q=%23fcspsgf) | N/A |
+| 4 | [#bhakdi](http://twitter.com/search?q=%23bhakdi) | N/A |
+| 5 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
 | 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 9 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 8 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 10 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 11 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 12 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 13 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 14 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
-| 15 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 16 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 17 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 18 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 19 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
-| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 21 | ['zeit'](http://twitter.com/search?q=%27zeit%27) | N/A |
-| 22 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 23 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 24 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 25 | [Demila](http://twitter.com/search?q=Demila) | N/A |
-| 26 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 27 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 29 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
-| 30 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 12 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 14 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
+| 15 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 17 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 18 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 19 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
+| 20 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 21 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 22 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 23 | [Selke](http://twitter.com/search?q=Selke) | N/A |
+| 24 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 25 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 26 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 27 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 28 | [Arminia](http://twitter.com/search?q=Arminia) | N/A |
+| 29 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 30 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 31 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 32 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 33 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 34 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 35 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 36 | [philipp f.](http://twitter.com/search?q=philipp+f.) | N/A |
-| 37 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 38 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 39 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 40 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 41 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 42 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
-| 43 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 44 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 45 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 46 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
-| 47 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 33 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 34 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 35 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 36 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 37 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 38 | [Verschärfung](http://twitter.com/search?q=Versch%c3%a4rfung) | N/A |
+| 39 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 40 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 42 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 43 | [Meppen](http://twitter.com/search?q=Meppen) | N/A |
+| 44 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 45 | [Cancel Culture](http://twitter.com/search?q=Cancel+Culture) | N/A |
+| 46 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 47 | [Monkey Island](http://twitter.com/search?q=Monkey+Island) | N/A |
 | 48 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 49 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
+| 49 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
 
 
 

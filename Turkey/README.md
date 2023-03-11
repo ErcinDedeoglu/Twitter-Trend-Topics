@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-11 13:19:24 UTC`
+📆 Last Updated: `2023-03-11 14:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 2 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 3 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 4 | [#Ataİttifakı](http://twitter.com/search?q=%23Ata%c4%b0ttifak%c4%b1) | N/A |
-| 5 | [HÜDA PAR](http://twitter.com/search?q=H%c3%9cDA+PAR) | N/A |
-| 6 | [#CatCeoCoin](http://twitter.com/search?q=%23CatCeoCoin) | N/A |
-| 7 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
-| 8 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 9 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 10 | [#SeçimeSaglıklıAtama](http://twitter.com/search?q=%23Se%c3%a7imeSagl%c4%b1kl%c4%b1Atama) | N/A |
-| 11 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 12 | [zekeriya yapıcıoğlu](http://twitter.com/search?q=zekeriya+yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 13 | [Doğru Parti](http://twitter.com/search?q=Do%c4%9fru+Parti) | N/A |
-| 14 | [Süresiz](http://twitter.com/search?q=S%c3%bcresiz) | N/A |
-| 15 | [Seçime 36](http://twitter.com/search?q=Se%c3%a7ime+36) | N/A |
-| 16 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 17 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
-| 18 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
-| 19 | [Leyla Amed](http://twitter.com/search?q=Leyla+Amed) | N/A |
-| 20 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 21 | [Erkeğe](http://twitter.com/search?q=Erke%c4%9fe) | N/A |
-| 22 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 23 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 24 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
-| 25 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
-| 26 | [Hamiyet Yalçınkaya](http://twitter.com/search?q=Hamiyet+Yal%c3%a7%c4%b1nkaya) | N/A |
-| 27 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
-| 28 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 29 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 30 | [Galatasaray - Kasımpaşa](http://twitter.com/search?q=Galatasaray+-+Kas%c4%b1mpa%c5%9fa) | N/A |
-| 31 | [Yolsuzluk](http://twitter.com/search?q=Yolsuzluk) | N/A |
-| 32 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
-| 33 | [Hilton](http://twitter.com/search?q=Hilton) | Hilton is a global hospitality company that owns, manages, and franchises a portfolio of hotels and resorts. The company was founded by Conrad Hilton in 1919 and is now one of the largest hotel chains in the world. The name Hilton is derived from the English word "hilt," which means "a handle or grip of a sword." |
-| 34 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 35 | [Şiddetin](http://twitter.com/search?q=%c5%9eiddetin) | N/A |
-| 36 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 37 | [Yüksek Seçim Kurulu](http://twitter.com/search?q=Y%c3%bcksek+Se%c3%a7im+Kurulu) | N/A |
-| 38 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
-| 39 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 40 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 41 | [Piar](http://twitter.com/search?q=Piar) | N/A |
-| 42 | [Çakmak](http://twitter.com/search?q=%c3%87akmak) | N/A |
-| 43 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 44 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
-| 45 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 46 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 47 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 49 | [Aykut Kocaman](http://twitter.com/search?q=Aykut+Kocaman) | N/A |
-| 50 | [Necmettin Erbakan](http://twitter.com/search?q=Necmettin+Erbakan) | N/A |
+| 2 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 3 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 4 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
+| 5 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 6 | [#Ataİttifakı](http://twitter.com/search?q=%23Ata%c4%b0ttifak%c4%b1) | N/A |
+| 7 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 8 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 9 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
+| 10 | [#CatCeoCoin](http://twitter.com/search?q=%23CatCeoCoin) | N/A |
+| 11 | [#Yökegitimekulakver](http://twitter.com/search?q=%23Y%c3%b6kegitimekulakver) | N/A |
+| 12 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
+| 13 | [DevletSözü AlayınaKadro](http://twitter.com/search?q=DevletS%c3%b6z%c3%bc+Alay%c4%b1naKadro) | N/A |
+| 14 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 15 | [Süresiz](http://twitter.com/search?q=S%c3%bcresiz) | N/A |
+| 16 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 17 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 18 | [Doğru Parti](http://twitter.com/search?q=Do%c4%9fru+Parti) | N/A |
+| 19 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 20 | [Leyla Amed](http://twitter.com/search?q=Leyla+Amed) | N/A |
+| 21 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 22 | [Afyon](http://twitter.com/search?q=Afyon) | N/A |
+| 23 | [Seçime 36](http://twitter.com/search?q=Se%c3%a7ime+36) | N/A |
+| 24 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 25 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
+| 26 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 27 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 28 | [Erkeğe](http://twitter.com/search?q=Erke%c4%9fe) | N/A |
+| 29 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
+| 30 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 31 | [Hamiyet Yalçınkaya](http://twitter.com/search?q=Hamiyet+Yal%c3%a7%c4%b1nkaya) | N/A |
+| 32 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 33 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
+| 34 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 35 | [Galatasaray - Kasımpaşa](http://twitter.com/search?q=Galatasaray+-+Kas%c4%b1mpa%c5%9fa) | N/A |
+| 36 | [MAÇ SONUCU](http://twitter.com/search?q=MA%c3%87+SONUCU) | N/A |
+| 37 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
+| 38 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
+| 39 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 40 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 41 | [Yolsuzluk](http://twitter.com/search?q=Yolsuzluk) | N/A |
+| 42 | [Şiddetin](http://twitter.com/search?q=%c5%9eiddetin) | N/A |
+| 43 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
+| 44 | [Hilton](http://twitter.com/search?q=Hilton) | Hilton is a global hospitality company that owns, manages, and franchises a portfolio of hotels and resorts. The company was founded by Conrad Hilton in 1919 and is now one of the largest hotel chains in the world. The name Hilton is derived from the English word "hilt," which means "a handle or grip of a sword." |
+| 45 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 46 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
+| 47 | [Yüksek Seçim Kurulu](http://twitter.com/search?q=Y%c3%bcksek+Se%c3%a7im+Kurulu) | N/A |
+| 48 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 49 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 50 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
 
 
 

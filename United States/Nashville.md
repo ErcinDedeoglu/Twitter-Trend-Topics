@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-11 13:19:13 UTC`
+📆 Last Updated: `2023-03-11 14:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 2 | [#AnchorDown](http://twitter.com/search?q=%23AnchorDown) | N/A |
-| 3 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 1 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 2 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 3 | [#AnchorDown](http://twitter.com/search?q=%23AnchorDown) | N/A |
+| 4 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
 | 5 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
 | 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 11 | [#MyPLMorning](http://twitter.com/search?q=%23MyPLMorning) | N/A |
-| 12 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 13 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 14 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 15 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 16 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 17 | [Roki Sasaki](http://twitter.com/search?q=Roki+Sasaki) | N/A |
-| 18 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 19 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 20 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 21 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 22 | [Stable](http://twitter.com/search?q=Stable) | N/A |
-| 23 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 24 | [Tether](http://twitter.com/search?q=Tether) | N/A |
-| 25 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
-| 26 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 27 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 28 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 29 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 30 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 31 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 32 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 33 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 34 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 35 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 36 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 37 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 38 | [Sisqo](http://twitter.com/search?q=Sisqo) | N/A |
-| 39 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 40 | [D LO](http://twitter.com/search?q=D+LO) | N/A |
-| 41 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 42 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 43 | [Masks](http://twitter.com/search?q=Masks) | N/A |
-| 44 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 45 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 46 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 47 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
-| 48 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 49 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 50 | [D'Angelo Russell](http://twitter.com/search?q=D%27Angelo+Russell) | N/A |
+| 11 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 14 | [#MyPLMorning](http://twitter.com/search?q=%23MyPLMorning) | N/A |
+| 15 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 17 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 19 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 20 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 21 | [mikaela shiffrin](http://twitter.com/search?q=mikaela+shiffrin) | N/A |
+| 22 | [Adele Givens](http://twitter.com/search?q=Adele+Givens) | N/A |
+| 23 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 24 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 25 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 26 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 27 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 28 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
+| 29 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 30 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 31 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 32 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 33 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 34 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 35 | [Stable](http://twitter.com/search?q=Stable) | N/A |
+| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 37 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 38 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 39 | [Tether](http://twitter.com/search?q=Tether) | N/A |
+| 40 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
+| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 42 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 43 | [Treasuries](http://twitter.com/search?q=Treasuries) | N/A |
+| 44 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
+| 45 | [David Sacks](http://twitter.com/search?q=David+Sacks) | N/A |
+| 46 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 47 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 48 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 49 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 50 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
 
 
 

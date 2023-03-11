@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-11 13:19:18 UTC`
+📆 Last Updated: `2023-03-11 14:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 2 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 2 | [Char](http://twitter.com/search?q=Char) | N/A |
 | 3 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
-| 4 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 4 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
 | 5 | [#NoSeMeOlvida](http://twitter.com/search?q=%23NoSeMeOlvida) | N/A |
-| 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 7 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 8 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 9 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 10 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 11 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 12 | [Durísimo](http://twitter.com/search?q=Dur%c3%adsimo) | N/A |
-| 13 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 14 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 15 | [arturo reyes](http://twitter.com/search?q=arturo+reyes) | N/A |
-| 16 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 17 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 18 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 19 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 20 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 21 | [Tiembla](http://twitter.com/search?q=Tiembla) | N/A |
-| 22 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 23 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 24 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 27 | [deportada](http://twitter.com/search?q=deportada) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 30 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 33 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 34 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 35 | [también caerás](http://twitter.com/search?q=tambi%c3%a9n+caer%c3%a1s) | N/A |
-| 36 | [albornoz](http://twitter.com/search?q=albornoz) | N/A |
-| 37 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 38 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 39 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
-| 40 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 41 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
-| 42 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
-| 43 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 44 | [Extraditada](http://twitter.com/search?q=Extraditada) | N/A |
-| 45 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
-| 46 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
-| 47 | [magnitud 5.9](http://twitter.com/search?q=magnitud+5.9) | N/A |
-| 48 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
-| 49 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 50 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
+| 6 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 7 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 11 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
+| 12 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 13 | [#bravissimo2023](http://twitter.com/search?q=%23bravissimo2023) | N/A |
+| 14 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 17 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
+| 18 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 19 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
+| 20 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 23 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 24 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 25 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 26 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 27 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 28 | [Bobolivar](http://twitter.com/search?q=Bobolivar) | N/A |
+| 29 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 32 | [Extraditada](http://twitter.com/search?q=Extraditada) | N/A |
+| 33 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 34 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 35 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
+| 36 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
+| 37 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 38 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 39 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 40 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 41 | [Popeye](http://twitter.com/search?q=Popeye) | N/A |
+| 42 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 43 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 44 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
+| 45 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
+| 48 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 49 | [Angélica](http://twitter.com/search?q=Ang%c3%a9lica) | N/A |
+| 50 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
 
 
 

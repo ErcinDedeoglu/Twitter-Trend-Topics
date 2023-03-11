@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-11 13:18:46 UTC`
+📆 Last Updated: `2023-03-11 14:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 3 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 4 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 7 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 8 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 9 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 10 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 12 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 16 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 17 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
-| 18 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
-| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 20 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 21 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 22 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 24 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 25 | [Abbatte](http://twitter.com/search?q=Abbatte) | N/A |
-| 26 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
-| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 28 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 29 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 30 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 31 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 32 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 33 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 34 | [Chivu](http://twitter.com/search?q=Chivu) | N/A |
-| 35 | [Il 23](http://twitter.com/search?q=Il+23) | N/A |
-| 36 | [Atac](http://twitter.com/search?q=Atac) | N/A |
-| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 38 | [Forza Carolyn](http://twitter.com/search?q=Forza+Carolyn) | N/A |
-| 39 | [Libero](http://twitter.com/search?q=Libero) | N/A |
-| 40 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 41 | [Ausilio](http://twitter.com/search?q=Ausilio) | N/A |
-| 42 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 43 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 44 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 45 | [Zingari](http://twitter.com/search?q=Zingari) | N/A |
-| 46 | [Fabiana](http://twitter.com/search?q=Fabiana) | N/A |
-| 47 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 48 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 49 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 50 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 1 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 2 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 3 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
+| 4 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
+| 5 | [chiara ferragni](http://twitter.com/search?q=chiara+ferragni) | N/A |
+| 6 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 7 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 8 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 9 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 10 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 11 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 12 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 13 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 14 | [Portogallo](http://twitter.com/search?q=Portogallo) | N/A |
+| 15 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 16 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
+| 17 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 18 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 19 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 20 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 21 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
+| 22 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 23 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
+| 24 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
+| 25 | [#ConsigliodiStato](http://twitter.com/search?q=%23ConsigliodiStato) | N/A |
+| 26 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 27 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
+| 28 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 29 | [#EndTheCageAge](http://twitter.com/search?q=%23EndTheCageAge) | N/A |
+| 30 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 31 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
+| 32 | [#EurosportSCI](http://twitter.com/search?q=%23EurosportSCI) | N/A |
+| 33 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
+| 34 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
+| 35 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
+| 36 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 37 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 38 | [#SalviniPagliaccio](http://twitter.com/search?q=%23SalviniPagliaccio) | N/A |
+| 39 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 40 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
+| 41 | [#DisdettaSkyDazn](http://twitter.com/search?q=%23DisdettaSkyDazn) | N/A |
+| 42 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
+| 43 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
 
 
 
