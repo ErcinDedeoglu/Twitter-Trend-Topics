@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-11 21:16:14 UTC`
+📆 Last Updated: `2023-03-11 22:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 1 | [#tommytiernanshow](http://twitter.com/search?q=%23tommytiernanshow) | N/A |
+| 2 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
 | 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 5 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 8 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 9 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 10 | [#latelate](http://twitter.com/search?q=%23latelate) | N/A |
-| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 12 | [England](http://twitter.com/search?q=England) | N/A |
-| 13 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 4 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 6 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 8 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 9 | [#latelate](http://twitter.com/search?q=%23latelate) | N/A |
+| 10 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 11 | [England](http://twitter.com/search?q=England) | N/A |
+| 12 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 13 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 14 | [Jake Morris](http://twitter.com/search?q=Jake+Morris) | N/A |
-| 15 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 16 | [Wrighty](http://twitter.com/search?q=Wrighty) | N/A |
-| 17 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 18 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
-| 21 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 15 | [Wrighty](http://twitter.com/search?q=Wrighty) | N/A |
+| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 19 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 20 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 21 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 24 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 26 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 27 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 28 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 29 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 30 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 31 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 32 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 33 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 34 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 35 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 36 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 40 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 41 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
-| 42 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
-| 43 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 44 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 46 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 47 | [John Boyne](http://twitter.com/search?q=John+Boyne) | N/A |
-| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 49 | [O'Connell Street](http://twitter.com/search?q=O%27Connell+Street) | N/A |
-| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 30 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 33 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 34 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 35 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 36 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 37 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 39 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 40 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 41 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 42 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 44 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 45 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 46 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 47 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
+| 48 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
+| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 50 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 
 
 

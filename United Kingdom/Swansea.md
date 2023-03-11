@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-11 21:16:06 UTC`
+📆 Last Updated: `2023-03-11 22:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 2 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 3 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 4 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 5 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
-| 6 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 7 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 12 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 13 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 16 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 18 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 19 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
-| 20 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 21 | [Hecky](http://twitter.com/search?q=Hecky) | N/A |
-| 22 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 23 | [Dombrandt](http://twitter.com/search?q=Dombrandt) | N/A |
-| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 25 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 26 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 27 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 28 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 29 | [Jason Kaye](http://twitter.com/search?q=Jason+Kaye) | N/A |
-| 30 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 31 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
-| 32 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 33 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 34 | [Twickers](http://twitter.com/search?q=Twickers) | N/A |
-| 35 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 36 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 37 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 38 | [Shaun Edwards](http://twitter.com/search?q=Shaun+Edwards) | N/A |
-| 39 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 40 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 41 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
-| 42 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
-| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 44 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 45 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 46 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 47 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 48 | [Top Buzz](http://twitter.com/search?q=Top+Buzz) | N/A |
-| 49 | [Alfie May](http://twitter.com/search?q=Alfie+May) | N/A |
+| 1 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 2 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 3 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 4 | [#Gogglebox10Years](http://twitter.com/search?q=%23Gogglebox10Years) | N/A |
+| 5 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 6 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 7 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 8 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 9 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 10 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 11 | [Dan Azeez](http://twitter.com/search?q=Dan+Azeez) | N/A |
+| 12 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 13 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 14 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 15 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 16 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
+| 17 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 18 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 19 | [England](http://twitter.com/search?q=England) | N/A |
+| 20 | [Ian Stirling](http://twitter.com/search?q=Ian+Stirling) | N/A |
+| 21 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
+| 22 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [McNally](http://twitter.com/search?q=McNally) | N/A |
+| 25 | [Top Buzz](http://twitter.com/search?q=Top+Buzz) | N/A |
+| 26 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 27 | [Thom Browne](http://twitter.com/search?q=Thom+Browne) | N/A |
+| 28 | [Hecky](http://twitter.com/search?q=Hecky) | N/A |
+| 29 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 30 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 31 | [Talal](http://twitter.com/search?q=Talal) | N/A |
+| 32 | [Ahamada](http://twitter.com/search?q=Ahamada) | N/A |
+| 33 | [McGowan](http://twitter.com/search?q=McGowan) | N/A |
+| 34 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 35 | [Jason Kaye](http://twitter.com/search?q=Jason+Kaye) | N/A |
+| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 38 | [Emma Raducanu](http://twitter.com/search?q=Emma+Raducanu) | N/A |
+| 39 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 42 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 43 | [Andy Serkis](http://twitter.com/search?q=Andy+Serkis) | N/A |
+| 44 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 45 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 46 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 47 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 48 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
+| 49 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
 
 
 

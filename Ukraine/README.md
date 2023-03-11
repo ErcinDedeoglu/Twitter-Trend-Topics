@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-11 21:16:57 UTC`
+📆 Last Updated: `2023-03-11 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
-| 4 | [Спас](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%81) | N/A |
-| 5 | [Dmytro Kotsiubailo](http://twitter.com/search?q=Dmytro+Kotsiubailo) | N/A |
-| 6 | [#anxiety](http://twitter.com/search?q=%23anxiety) | N/A |
-| 7 | [Киевской Руси](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%be%d0%b9+%d0%a0%d1%83%d1%81%d0%b8) | N/A |
-| 8 | [Пригожин](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
-| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 10 | [#starkdefi](http://twitter.com/search?q=%23starkdefi) | N/A |
-| 11 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 12 | [Taras Shevchenko](http://twitter.com/search?q=Taras+Shevchenko) | N/A |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [#USDT](http://twitter.com/search?q=%23USDT) | N/A |
-| 15 | [Русь](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%8c) | N/A |
-| 16 | [Da Vinci](http://twitter.com/search?q=Da+Vinci) | N/A |
-| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 18 | [#War_in_Ukraine](http://twitter.com/search?q=%23War_in_Ukraine) | N/A |
-| 19 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 20 | [Maksym Butkevych](http://twitter.com/search?q=Maksym+Butkevych) | N/A |
-| 21 | [Таааак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
-| 22 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 23 | [Сумно](http://twitter.com/search?q=%d0%a1%d1%83%d0%bc%d0%bd%d0%be) | N/A |
-| 24 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 25 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
-| 26 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 27 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 28 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 29 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 30 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 33 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 34 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 35 | [hero of ukraine](http://twitter.com/search?q=hero+of+ukraine) | N/A |
-| 36 | [London](http://twitter.com/search?q=London) | N/A |
+| 1 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 2 | [Московия](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
+| 3 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 5 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
+| 6 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
+| 7 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 8 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 9 | [West](http://twitter.com/search?q=West) | N/A |
+| 10 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 11 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 12 | [#indiegame](http://twitter.com/search?q=%23indiegame) | N/A |
+| 13 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 14 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 15 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 16 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 17 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
+| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 19 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 20 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 21 | [Папа](http://twitter.com/search?q=%d0%9f%d0%b0%d0%bf%d0%b0) | N/A |
+| 22 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 23 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
+| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 27 | [Русня](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%bd%d1%8f) | N/A |
+| 28 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
+| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 30 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 31 | [Русь](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%8c) | N/A |
+| 32 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 33 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 34 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 35 | [Da Vinci](http://twitter.com/search?q=Da+Vinci) | N/A |
+| 36 | [Таааак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
 | 37 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
-| 38 | [Слава Богу](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%91%d0%be%d0%b3%d1%83) | N/A |
-| 39 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 41 | [Однозначно](http://twitter.com/search?q=%d0%9e%d0%b4%d0%bd%d0%be%d0%b7%d0%bd%d0%b0%d1%87%d0%bd%d0%be) | N/A |
-| 42 | [львове](http://twitter.com/search?q=%d0%bb%d1%8c%d0%b2%d0%be%d0%b2%d0%b5) | N/A |
-| 43 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 45 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 47 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 48 | [волков](http://twitter.com/search?q=%d0%b2%d0%be%d0%bb%d0%ba%d0%be%d0%b2) | N/A |
-| 49 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 50 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 39 | [hero of ukraine](http://twitter.com/search?q=hero+of+ukraine) | N/A |
+| 40 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 41 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 42 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 43 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 44 | [Budapest](http://twitter.com/search?q=Budapest) | N/A |
+| 45 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 46 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 49 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 50 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 
 
 

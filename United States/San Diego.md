@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-11 21:16:48 UTC`
+📆 Last Updated: `2023-03-11 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
-| 2 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 3 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 5 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 6 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 7 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
-| 8 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 9 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 10 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 11 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 14 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 15 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 16 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 17 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
-| 18 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 19 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 20 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 21 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 22 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 23 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 24 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 25 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 26 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 27 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 28 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 29 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 30 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 31 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 32 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 33 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 34 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 35 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 36 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 37 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 38 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 39 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 40 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 41 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
-| 42 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
-| 43 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 44 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
-| 45 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 46 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 47 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
-| 48 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 49 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
+| 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 3 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
+| 4 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 5 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 6 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 8 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 9 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 10 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 11 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 12 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 13 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 14 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 17 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 18 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 19 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 20 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 21 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 23 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 24 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 25 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 26 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 27 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 28 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 29 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 30 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 31 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 32 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 33 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 34 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
+| 35 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 36 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 37 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
+| 38 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 39 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 40 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 41 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 42 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
+| 43 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 44 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 45 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 46 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
+| 47 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 48 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 49 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
 
 
 

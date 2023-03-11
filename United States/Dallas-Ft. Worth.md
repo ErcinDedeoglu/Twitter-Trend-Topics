@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-11 21:16:43 UTC`
+📆 Last Updated: `2023-03-11 22:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
-| 2 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 3 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 4 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 6 | [Silicon Valley](http://twitter.com/search?q=Silicon+Valley) | N/A |
-| 7 | [#OpTicMajor](http://twitter.com/search?q=%23OpTicMajor) | N/A |
-| 8 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 9 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 10 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 11 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 12 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 13 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 14 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 15 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 16 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 17 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 18 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 19 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 20 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 2 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
+| 3 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 4 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 5 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 6 | [#OpTicMajor](http://twitter.com/search?q=%23OpTicMajor) | N/A |
+| 7 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 8 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 9 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 10 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 11 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 12 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 13 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 14 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 15 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 16 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 18 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 19 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 20 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
 | 21 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 22 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 23 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 24 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 25 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 27 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 28 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 29 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 30 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 31 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 32 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
-| 33 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
-| 34 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 35 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 36 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
-| 37 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 38 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 39 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
-| 40 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 41 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 42 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 43 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 44 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 45 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
-| 46 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 47 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 22 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 23 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
+| 24 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 25 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 26 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 28 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
+| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 30 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 32 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
+| 33 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 34 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 35 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 36 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
+| 37 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 38 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 39 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 40 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 41 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 42 | [Salas](http://twitter.com/search?q=Salas) | N/A |
+| 43 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 44 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 45 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 46 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 47 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 48 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 49 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
 
 
 

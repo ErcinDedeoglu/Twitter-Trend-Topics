@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-11 21:16:18 UTC`
+📆 Last Updated: `2023-03-11 22:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,49 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 2 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
-| 3 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 2 | [#TheVoiceKidsIt](http://twitter.com/search?q=%23TheVoiceKidsIt) | N/A |
+| 3 | [#BolognaLazio](http://twitter.com/search?q=%23BolognaLazio) | N/A |
 | 4 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
 | 5 | [#kvaratskhelia](http://twitter.com/search?q=%23kvaratskhelia) | N/A |
-| 6 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
-| 7 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
-| 8 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 9 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
-| 10 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 11 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 12 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 13 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 14 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 15 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 16 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
-| 17 | [Totti](http://twitter.com/search?q=Totti) | N/A |
-| 18 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 19 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 20 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
-| 21 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 22 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 23 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 24 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
-| 25 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 26 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 27 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
-| 28 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
-| 29 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 30 | [#karaoke](http://twitter.com/search?q=%23karaoke) | N/A |
-| 31 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 32 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 33 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 34 | [#JuventusWomen](http://twitter.com/search?q=%23JuventusWomen) | N/A |
-| 35 | [#BolognaLazio](http://twitter.com/search?q=%23BolognaLazio) | N/A |
-| 36 | [#chiaraferragni](http://twitter.com/search?q=%23chiaraferragni) | N/A |
-| 37 | [#BariFrosinone](http://twitter.com/search?q=%23BariFrosinone) | N/A |
-| 38 | [#EmpoliUdinese](http://twitter.com/search?q=%23EmpoliUdinese) | N/A |
-| 39 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 40 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 41 | [#fermarelastrage](http://twitter.com/search?q=%23fermarelastrage) | N/A |
-| 42 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
-| 43 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
-| 44 | [#FigcOut](http://twitter.com/search?q=%23FigcOut) | N/A |
-| 45 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 46 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 6 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
+| 7 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 8 | [Basic](http://twitter.com/search?q=Basic) | N/A |
+| 9 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
+| 10 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
+| 11 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
+| 12 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 13 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 14 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 15 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 16 | [Storace](http://twitter.com/search?q=Storace) | N/A |
+| 17 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
+| 18 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 19 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 20 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 21 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 22 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 23 | [Totti](http://twitter.com/search?q=Totti) | N/A |
+| 24 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 25 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 26 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
+| 27 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 28 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 29 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 30 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
+| 31 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 32 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 33 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
+| 34 | [#leparole](http://twitter.com/search?q=%23leparole) | N/A |
+| 35 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 36 | [#Rrahmani](http://twitter.com/search?q=%23Rrahmani) | N/A |
+| 37 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 38 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 39 | [#Spalletti](http://twitter.com/search?q=%23Spalletti) | N/A |
+| 40 | [#karaoke](http://twitter.com/search?q=%23karaoke) | N/A |
+| 41 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 42 | [#FuoriDaniele](http://twitter.com/search?q=%23FuoriDaniele) | N/A |
+| 43 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
+| 44 | [#verissimo](http://twitter.com/search?q=%23verissimo) | N/A |
 
 
 

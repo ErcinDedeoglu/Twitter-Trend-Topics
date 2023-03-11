@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-11 21:16:56 UTC`
+📆 Last Updated: `2023-03-11 22:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,44 @@ This is top 50 for South Africa
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mobi Dixon](http://twitter.com/search?q=Mobi+Dixon) | N/A |
-| 2 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 3 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 4 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 5 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 6 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
-| 7 | [Orlando Pirates](http://twitter.com/search?q=Orlando+Pirates) | N/A |
-| 8 | [#NedbankCup2023](http://twitter.com/search?q=%23NedbankCup2023) | N/A |
-| 9 | [DANCE WITH KHOSI](http://twitter.com/search?q=DANCE+WITH+KHOSI) | N/A |
+| 1 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 2 | [Mobi Dixon](http://twitter.com/search?q=Mobi+Dixon) | N/A |
+| 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 4 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 5 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 6 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 7 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 8 | [DANCE WITH KHOSI](http://twitter.com/search?q=DANCE+WITH+KHOSI) | N/A |
+| 9 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
 | 10 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 11 | [#Umndeni](http://twitter.com/search?q=%23Umndeni) | N/A |
+| 11 | [#NedbankCup2023](http://twitter.com/search?q=%23NedbankCup2023) | N/A |
 | 12 | [#LoveyDoveyUntilWhen](http://twitter.com/search?q=%23LoveyDoveyUntilWhen) | N/A |
-| 13 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 14 | [Ndlondlo](http://twitter.com/search?q=Ndlondlo) | N/A |
-| 15 | [Venda Football Academy](http://twitter.com/search?q=Venda+Football+Academy) | N/A |
-| 16 | [#Ukungenwa](http://twitter.com/search?q=%23Ukungenwa) | N/A |
-| 17 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
+| 13 | [FAAJI WITH THABANG](http://twitter.com/search?q=FAAJI+WITH+THABANG) | N/A |
+| 14 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
+| 15 | [Ndlondlo](http://twitter.com/search?q=Ndlondlo) | N/A |
+| 16 | [Venda Football Academy](http://twitter.com/search?q=Venda+Football+Academy) | N/A |
+| 17 | [Nicki Minaj](http://twitter.com/search?q=Nicki+Minaj) | N/A |
 | 18 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 19 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 20 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 21 | [Nicki Minaj](http://twitter.com/search?q=Nicki+Minaj) | N/A |
-| 22 | [England](http://twitter.com/search?q=England) | N/A |
-| 23 | [FAAJI WITH THABANG](http://twitter.com/search?q=FAAJI+WITH+THABANG) | N/A |
-| 24 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 25 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 28 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 29 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [PARTY WITH THE FINALIST](http://twitter.com/search?q=PARTY+WITH+THE+FINALIST) | N/A |
-| 32 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 33 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 20 | [#OnceAlways](http://twitter.com/search?q=%23OnceAlways) | N/A |
+| 21 | [#Ukungenwa](http://twitter.com/search?q=%23Ukungenwa) | N/A |
+| 22 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 23 | [Monyane](http://twitter.com/search?q=Monyane) | N/A |
+| 24 | [England](http://twitter.com/search?q=England) | N/A |
+| 25 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 26 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 27 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 30 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 31 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
+| 32 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 33 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
 | 34 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
 | 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
-| 37 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 38 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 39 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 40 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
-| 41 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
-| 42 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 43 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 44 | [#OnceAlways](http://twitter.com/search?q=%23OnceAlways) | N/A |
-| 45 | [#NOTA](http://twitter.com/search?q=%23NOTA) | N/A |
-| 46 | [#XRepo](http://twitter.com/search?q=%23XRepo) | N/A |
-| 47 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 48 | [#SingleAndMingle](http://twitter.com/search?q=%23SingleAndMingle) | N/A |
-| 49 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
+| 36 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
+| 37 | [#NOTA](http://twitter.com/search?q=%23NOTA) | N/A |
+| 38 | [#XRepo](http://twitter.com/search?q=%23XRepo) | N/A |
 
 
 

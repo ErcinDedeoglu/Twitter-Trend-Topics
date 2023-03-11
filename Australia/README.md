@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-11 21:16:50 UTC`
+📆 Last Updated: `2023-03-11 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nrldolphinsraiders](http://twitter.com/search?q=%23nrldolphinsraiders) | N/A |
+| 1 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
 | 2 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 3 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 5 | [#nrlroosterswarriors](http://twitter.com/search?q=%23nrlroosterswarriors) | N/A |
 | 6 | [#NEWvADL](http://twitter.com/search?q=%23NEWvADL) | N/A |
 | 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
-| 10 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 13 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 16 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 17 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 18 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 19 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 20 | [ricky stuart](http://twitter.com/search?q=ricky+stuart) | N/A |
-| 21 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 22 | [Rosehill](http://twitter.com/search?q=Rosehill) | N/A |
+| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 12 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 13 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 14 | [ricky stuart](http://twitter.com/search?q=ricky+stuart) | N/A |
+| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 16 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 17 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 18 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
+| 19 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 20 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 23 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 24 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
-| 25 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
-| 26 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 27 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
-| 28 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 29 | [rick morton](http://twitter.com/search?q=rick+morton) | N/A |
-| 30 | [sanfl](http://twitter.com/search?q=sanfl) | N/A |
-| 31 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 32 | [Drua](http://twitter.com/search?q=Drua) | N/A |
-| 33 | [jamie kah](http://twitter.com/search?q=jamie+kah) | N/A |
-| 34 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 35 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 36 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
-| 37 | [WHAT YOU NEED](http://twitter.com/search?q=WHAT+YOU+NEED) | N/A |
-| 38 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
-| 39 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 40 | [craig williams](http://twitter.com/search?q=craig+williams) | N/A |
-| 41 | [espiona](http://twitter.com/search?q=espiona) | N/A |
-| 42 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 43 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 44 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
-| 45 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 46 | [Newmarket](http://twitter.com/search?q=Newmarket) | N/A |
-| 47 | [Jordan Thompson](http://twitter.com/search?q=Jordan+Thompson) | N/A |
-| 48 | [sirileo miss](http://twitter.com/search?q=sirileo+miss) | N/A |
-| 49 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 25 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 26 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 27 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
+| 28 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 29 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
+| 30 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 31 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 32 | [WHAT YOU NEED](http://twitter.com/search?q=WHAT+YOU+NEED) | N/A |
+| 33 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 34 | [todd smith](http://twitter.com/search?q=todd+smith) | N/A |
+| 35 | [espiona](http://twitter.com/search?q=espiona) | N/A |
+| 36 | [Drua](http://twitter.com/search?q=Drua) | N/A |
+| 37 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 38 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 39 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 40 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 41 | [craig williams](http://twitter.com/search?q=craig+williams) | N/A |
+| 42 | [SANFL](http://twitter.com/search?q=SANFL) | N/A |
+| 43 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 44 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 45 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 46 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 47 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
+| 48 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 49 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 50 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
 
 
 

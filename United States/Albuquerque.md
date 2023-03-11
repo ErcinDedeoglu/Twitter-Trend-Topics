@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-11 21:16:41 UTC`
+📆 Last Updated: `2023-03-11 22:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 2 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 3 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 4 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 5 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 6 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 9 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 10 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 11 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 12 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 13 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 14 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 15 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 16 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 17 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 18 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 19 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 20 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 21 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 22 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 23 | [Gio Urshela](http://twitter.com/search?q=Gio+Urshela) | N/A |
-| 24 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
-| 25 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
-| 26 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
-| 27 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
-| 28 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 29 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
-| 30 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 31 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 32 | [Jorge Alfaro](http://twitter.com/search?q=Jorge+Alfaro) | N/A |
-| 33 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 34 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 35 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
-| 36 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
-| 37 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 38 | [Aldrich](http://twitter.com/search?q=Aldrich) | N/A |
-| 39 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 40 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 41 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
-| 42 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 43 | [Mahtomedi](http://twitter.com/search?q=Mahtomedi) | N/A |
-| 44 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 45 | [Parker Meadows](http://twitter.com/search?q=Parker+Meadows) | N/A |
-| 46 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
-| 47 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 48 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 1 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 2 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 3 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 4 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 5 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 6 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 9 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 10 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 11 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 12 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 13 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 14 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 15 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 16 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 17 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
+| 18 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 19 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 20 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
+| 21 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 22 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 23 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 24 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 25 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
+| 26 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 27 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
+| 28 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 29 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
+| 30 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 31 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
+| 32 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 33 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 34 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
+| 35 | [Salas](http://twitter.com/search?q=Salas) | N/A |
+| 36 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 37 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 38 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 39 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
+| 40 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 41 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 42 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
+| 43 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 44 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 45 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 46 | [Rakell](http://twitter.com/search?q=Rakell) | N/A |
+| 47 | [Corbin Carroll](http://twitter.com/search?q=Corbin+Carroll) | N/A |
+| 48 | [Tyson Nam](http://twitter.com/search?q=Tyson+Nam) | N/A |
 
 
 

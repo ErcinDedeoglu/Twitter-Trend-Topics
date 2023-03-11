@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-11 21:16:09 UTC`
+📆 Last Updated: `2023-03-11 22:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
-| 2 | [#1AñoDeGobierno](http://twitter.com/search?q=%231A%c3%b1oDeGobierno) | N/A |
+| 1 | [#1AñoDeGobierno](http://twitter.com/search?q=%231A%c3%b1oDeGobierno) | N/A |
+| 2 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
 | 3 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
-| 4 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
-| 5 | [#1AñoPerdido](http://twitter.com/search?q=%231A%c3%b1oPerdido) | N/A |
+| 4 | [#1AñoPerdido](http://twitter.com/search?q=%231A%c3%b1oPerdido) | N/A |
+| 5 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
 | 6 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 7 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
 | 8 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 9 | [Jaime de Aguirre](http://twitter.com/search?q=Jaime+de+Aguirre) | N/A |
-| 10 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
-| 11 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 12 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 13 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 9 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
+| 10 | [Jaime de Aguirre](http://twitter.com/search?q=Jaime+de+Aguirre) | N/A |
+| 11 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 12 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 13 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 14 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 15 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 16 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
-| 17 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
-| 18 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 19 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 20 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 21 | [marta maurás](http://twitter.com/search?q=marta+maur%c3%a1s) | N/A |
+| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 16 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
+| 17 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 18 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 19 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
+| 20 | [RREE](http://twitter.com/search?q=RREE) | N/A |
+| 21 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
 | 22 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 23 | [RREE](http://twitter.com/search?q=RREE) | N/A |
-| 24 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
-| 25 | [Cressy](http://twitter.com/search?q=Cressy) | N/A |
-| 26 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
-| 27 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 28 | [Team Patriota](http://twitter.com/search?q=Team+Patriota) | N/A |
+| 23 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
+| 24 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
+| 25 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 26 | [Puros](http://twitter.com/search?q=Puros) | N/A |
+| 27 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 28 | [Masiva](http://twitter.com/search?q=Masiva) | N/A |
 | 29 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
-| 30 | [patricio fernández](http://twitter.com/search?q=patricio+fern%c3%a1ndez) | N/A |
+| 30 | [Team Patriota](http://twitter.com/search?q=Team+Patriota) | N/A |
 | 31 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 32 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 32 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
 | 33 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 34 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
-| 35 | [Puros](http://twitter.com/search?q=Puros) | N/A |
-| 36 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 39 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 40 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 41 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 42 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
-| 43 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 44 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
-| 45 | [Masiva](http://twitter.com/search?q=Masiva) | N/A |
-| 46 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 47 | [Escuela Militar](http://twitter.com/search?q=Escuela+Militar) | N/A |
-| 48 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 49 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
-| 50 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 34 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 35 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 36 | [patricio fernández](http://twitter.com/search?q=patricio+fern%c3%a1ndez) | N/A |
+| 37 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 38 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 41 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
+| 42 | [Compañero](http://twitter.com/search?q=Compa%c3%b1ero) | N/A |
+| 43 | [Sausalito](http://twitter.com/search?q=Sausalito) | N/A |
+| 44 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 45 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 46 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 47 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
+| 48 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 49 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 50 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
 
 
 

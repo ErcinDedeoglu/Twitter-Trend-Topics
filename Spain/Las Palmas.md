@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-11 21:16:19 UTC`
+📆 Last Updated: `2023-03-11 22:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 2 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 3 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 4 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
-| 5 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 6 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 7 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 8 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 9 | [Fran Sol](http://twitter.com/search?q=Fran+Sol) | N/A |
-| 10 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
-| 11 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
-| 12 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 13 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 14 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 15 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 16 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 17 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 18 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 19 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 20 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 21 | [Maria Sur](http://twitter.com/search?q=Maria+Sur) | N/A |
-| 22 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
-| 23 | [Tone](http://twitter.com/search?q=Tone) | N/A |
-| 24 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
-| 25 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 26 | [Marcus & Martinus](http://twitter.com/search?q=Marcus+%26+Martinus) | N/A |
-| 27 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 28 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 29 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
-| 30 | [Geyse](http://twitter.com/search?q=Geyse) | Geyse is a Spanish word that means "to give". |
-| 31 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
-| 32 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 33 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
-| 34 | [Juande](http://twitter.com/search?q=Juande) | N/A |
-| 35 | [Pina](http://twitter.com/search?q=Pina) | N/A |
-| 36 | [11-M](http://twitter.com/search?q=11-M) | N/A |
-| 37 | [Javi Galán](http://twitter.com/search?q=Javi+Gal%c3%a1n) | N/A |
-| 38 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
-| 39 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 40 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 41 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 42 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 43 | [Machis](http://twitter.com/search?q=Machis) | N/A |
-| 44 | [Zarzalejos](http://twitter.com/search?q=Zarzalejos) | N/A |
-| 45 | [Roque](http://twitter.com/search?q=Roque) | N/A |
-| 46 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 47 | [Tete Morente](http://twitter.com/search?q=Tete+Morente) | N/A |
+| 1 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 2 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 3 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 4 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 5 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 6 | [#ValenciaOsasuna](http://twitter.com/search?q=%23ValenciaOsasuna) | N/A |
+| 7 | [Alex Calvo](http://twitter.com/search?q=Alex+Calvo) | N/A |
+| 8 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 9 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 10 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 11 | [Pejiño](http://twitter.com/search?q=Peji%c3%b1o) | N/A |
+| 12 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
+| 13 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 14 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 15 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
+| 16 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
+| 17 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 18 | [Fran Sol](http://twitter.com/search?q=Fran+Sol) | N/A |
+| 19 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
+| 20 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
+| 21 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 22 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 23 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 24 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 25 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 26 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
+| 27 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 28 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
+| 29 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 30 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
+| 31 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 32 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 33 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
+| 34 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 35 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
+| 36 | [Marcus & Martinus](http://twitter.com/search?q=Marcus+%26+Martinus) | N/A |
+| 37 | [Maria Sur](http://twitter.com/search?q=Maria+Sur) | N/A |
+| 38 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 39 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
+| 40 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 41 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 42 | [Pina](http://twitter.com/search?q=Pina) | N/A |
+| 43 | [Geyse](http://twitter.com/search?q=Geyse) | Geyse is a Spanish word that means "to give". |
+| 44 | [Juande](http://twitter.com/search?q=Juande) | N/A |
+| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 46 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
+| 47 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 48 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
 
 
 

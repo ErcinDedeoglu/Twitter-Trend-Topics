@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-11 21:16:29 UTC`
+📆 Last Updated: `2023-03-11 22:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 4 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
-| 5 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
+| 3 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
+| 4 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 5 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
 | 6 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 7 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 10 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 11 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 12 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 13 | [tổng thống kim namjoon](http://twitter.com/search?q=t%e1%bb%95ng+th%e1%bb%91ng+kim+namjoon) | N/A |
-| 14 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 15 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
-| 16 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 17 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 18 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
-| 19 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 20 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 21 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 22 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 25 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
-| 26 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 27 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 28 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 29 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 30 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 31 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 32 | [LQTY](http://twitter.com/search?q=LQTY) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 35 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
-| 36 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 37 | [Welp](http://twitter.com/search?q=Welp) | N/A |
-| 38 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 39 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
-| 40 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 41 | [nghĩ](http://twitter.com/search?q=ngh%c4%a9) | N/A |
-| 42 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 43 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 44 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
-| 45 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 46 | [chịch](http://twitter.com/search?q=ch%e1%bb%8bch) | N/A |
-| 47 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 49 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 7 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
+| 8 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
+| 9 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 12 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 14 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 15 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 16 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
+| 17 | [muốn](http://twitter.com/search?q=mu%e1%bb%91n) | N/A |
+| 18 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 19 | [tổng thống kim namjoon](http://twitter.com/search?q=t%e1%bb%95ng+th%e1%bb%91ng+kim+namjoon) | N/A |
+| 20 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
+| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 22 | [cũng](http://twitter.com/search?q=c%c5%a9ng) | N/A |
+| 23 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 24 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 25 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 26 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 28 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 29 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 32 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
+| 33 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
+| 34 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 35 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 36 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 37 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 38 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
+| 39 | [$LQTY](http://twitter.com/search?q=%24LQTY) | N/A |
+| 40 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 41 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 46 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 47 | [thái lan](http://twitter.com/search?q=th%c3%a1i+lan) | N/A |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 50 | [i deadline](http://twitter.com/search?q=i+deadline) | N/A |
 
 
 

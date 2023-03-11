@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-03-11 21:16:06 UTC`
+📆 Last Updated: `2023-03-11 22:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,49 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 2 | [#YaNoHayHorarioDeVerano](http://twitter.com/search?q=%23YaNoHayHorarioDeVerano) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 5 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
-| 6 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 7 | [#SerieAxESPN](http://twitter.com/search?q=%23SerieAxESPN) | N/A |
-| 8 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 9 | [#JoseRamonLopezBeltran388](http://twitter.com/search?q=%23JoseRamonLopezBeltran388) | N/A |
-| 10 | [#ToTheSwordsmithVillage](http://twitter.com/search?q=%23ToTheSwordsmithVillage) | N/A |
-| 11 | [Ivermectina](http://twitter.com/search?q=Ivermectina) | N/A |
-| 12 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 13 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
-| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 15 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 16 | [Altozano](http://twitter.com/search?q=Altozano) | N/A |
-| 17 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 19 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
-| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 21 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 22 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 23 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 24 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 25 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 26 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 27 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 28 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
-| 29 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
-| 30 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 31 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 32 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 33 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
-| 34 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 35 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 36 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 37 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
-| 38 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
-| 39 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
-| 40 | [#LadyPelotas](http://twitter.com/search?q=%23LadyPelotas) | N/A |
+| 1 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 4 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
+| 5 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 6 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 7 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
+| 8 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 9 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 10 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 11 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 12 | [#LasMujeresTransNoMeBorran](http://twitter.com/search?q=%23LasMujeresTransNoMeBorran) | N/A |
+| 13 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
+| 14 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 15 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 16 | [Morelia](http://twitter.com/search?q=Morelia) | Morelia is the capital city of the Mexican state of Michoacán. It is located in the central region of the country, about 250 miles west of Mexico City. The name Morelia comes from a Nahuatl word meaning "place of many trees." |
+| 17 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 18 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
+| 19 | [Cuatrero](http://twitter.com/search?q=Cuatrero) | N/A |
+| 20 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 24 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 25 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 26 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
+| 27 | [Ivermectina](http://twitter.com/search?q=Ivermectina) | N/A |
+| 28 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 29 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
+| 30 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 31 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 32 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 33 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 34 | [#YaNoHayHorarioDeVerano](http://twitter.com/search?q=%23YaNoHayHorarioDeVerano) | N/A |
+| 35 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 36 | [#ToTheSwordsmithVillage](http://twitter.com/search?q=%23ToTheSwordsmithVillage) | N/A |
+| 37 | [#FelizSabadoATodos](http://twitter.com/search?q=%23FelizSabadoATodos) | N/A |
+| 38 | [#Oscars95](http://twitter.com/search?q=%23Oscars95) | N/A |
+| 39 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
+| 40 | [#JoseRamonLopezBeltran388](http://twitter.com/search?q=%23JoseRamonLopezBeltran388) | N/A |
+| 41 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
+| 42 | [#LordMontajes](http://twitter.com/search?q=%23LordMontajes) | N/A |
+| 43 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
 
 
 
