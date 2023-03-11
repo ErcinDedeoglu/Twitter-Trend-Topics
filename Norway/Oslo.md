@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-10 23:16:47 UTC`
+📆 Last Updated: `2023-03-11 00:27:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 1 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 3 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 4 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 5 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 6 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
-| 7 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
-| 8 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 9 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 10 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
-| 11 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 15 | [Altså](http://twitter.com/search?q=Alts%c3%a5) | N/A |
-| 16 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
-| 17 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 18 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 19 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 20 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
-| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 22 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 23 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 24 | [Erna SOLBERG](http://twitter.com/search?q=Erna+SOLBERG) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 27 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 28 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 29 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 31 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 32 | [Tengstedt](http://twitter.com/search?q=Tengstedt) | N/A |
-| 33 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 35 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 38 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 39 | [Tusen](http://twitter.com/search?q=Tusen) | N/A |
-| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 41 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 42 | [Virker](http://twitter.com/search?q=Virker) | N/A |
-| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 44 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
-| 45 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 46 | [Takk](http://twitter.com/search?q=Takk) | N/A |
-| 47 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 49 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 50 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 3 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 4 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
+| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 7 | [Tøyen](http://twitter.com/search?q=T%c3%b8yen) | N/A |
+| 8 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 9 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 10 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 13 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 14 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 15 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 16 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Ålesund](http://twitter.com/search?q=%c3%85lesund) | N/A |
+| 21 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 23 | [ntnu](http://twitter.com/search?q=ntnu) | N/A |
+| 24 | [Dagbladet](http://twitter.com/search?q=Dagbladet) | N/A |
+| 25 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 26 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 27 | [Basse](http://twitter.com/search?q=Basse) | N/A |
+| 28 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
+| 29 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [beklager](http://twitter.com/search?q=beklager) | N/A |
+| 32 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 33 | [erna solberg](http://twitter.com/search?q=erna+solberg) | N/A |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 36 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 37 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 38 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
+| 39 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 40 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 41 | [Altså](http://twitter.com/search?q=Alts%c3%a5) | N/A |
+| 42 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 44 | [i usa](http://twitter.com/search?q=i+usa) | N/A |
+| 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 46 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 47 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 48 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 49 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 50 | [green mountain](http://twitter.com/search?q=green+mountain) | N/A |
 
 
 

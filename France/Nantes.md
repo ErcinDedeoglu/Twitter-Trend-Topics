@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-10 23:16:40 UTC`
+📆 Last Updated: `2023-03-11 00:27:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LOSCOL](http://twitter.com/search?q=%23LOSCOL) | N/A |
-| 2 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 3 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 4 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 5 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 6 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 7 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 8 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 9 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
-| 10 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 11 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 12 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 13 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 14 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
-| 15 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 16 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 17 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 18 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 19 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 4 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 5 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 6 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 7 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 8 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 9 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 10 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 11 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 12 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 13 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
+| 14 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
+| 15 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 16 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 17 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 18 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 19 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
 | 20 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 21 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 22 | [Lille Lyon](http://twitter.com/search?q=Lille+Lyon) | N/A |
+| 21 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 22 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
 | 23 | [Riou](http://twitter.com/search?q=Riou) | N/A |
 | 24 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 25 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
-| 26 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 27 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 29 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 30 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
-| 31 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 32 | [Lolo White](http://twitter.com/search?q=Lolo+White) | N/A |
-| 33 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
-| 34 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 36 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 25 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 28 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 29 | [Lille Lyon](http://twitter.com/search?q=Lille+Lyon) | N/A |
+| 30 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 31 | [Bleuets](http://twitter.com/search?q=Bleuets) | N/A |
+| 32 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 33 | [Lolo White](http://twitter.com/search?q=Lolo+White) | N/A |
+| 34 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 35 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
+| 36 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
 | 37 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
-| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 39 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 40 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
-| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 42 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 43 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 45 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 46 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
+| 38 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 39 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 40 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 41 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 42 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 43 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 44 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 45 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 46 | [Hongjoong](http://twitter.com/search?q=Hongjoong) | N/A |
 
 
 

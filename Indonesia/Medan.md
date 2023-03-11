@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-10 23:16:48 UTC`
+📆 Last Updated: `2023-03-11 00:27:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
-| 2 | [#AmalkanSyariahKaffah](http://twitter.com/search?q=%23AmalkanSyariahKaffah) | N/A |
-| 3 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 4 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
-| 5 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 6 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
-| 7 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
-| 8 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 9 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 10 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 11 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 12 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
-| 13 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 14 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
-| 15 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
-| 16 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
-| 17 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
-| 18 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
-| 19 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 20 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
-| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 22 | [pendiem](http://twitter.com/search?q=pendiem) | N/A |
-| 23 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 24 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
-| 25 | [pak muh](http://twitter.com/search?q=pak+muh) | N/A |
-| 26 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 27 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 28 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
-| 29 | [mingyu potong rambut](http://twitter.com/search?q=mingyu+potong+rambut) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [my cutie jeno](http://twitter.com/search?q=my+cutie+jeno) | N/A |
-| 32 | [Moomin](http://twitter.com/search?q=Moomin) | N/A |
-| 33 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 34 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 35 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 36 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
-| 37 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
-| 38 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 39 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
-| 40 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 41 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 42 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
-| 43 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
-| 44 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 45 | [SET ME FREE NOW](http://twitter.com/search?q=SET+ME+FREE+NOW) | N/A |
-| 46 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 47 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 48 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 49 | [Lumbung](http://twitter.com/search?q=Lumbung) | N/A |
-| 50 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 1 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
+| 2 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
+| 3 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
+| 4 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
+| 5 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 6 | [#AmalkanSyariahKaffah](http://twitter.com/search?q=%23AmalkanSyariahKaffah) | N/A |
+| 7 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
+| 8 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 9 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
+| 10 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 11 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
+| 12 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 13 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 14 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
+| 15 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
+| 16 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 17 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
+| 18 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
+| 19 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
+| 20 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 21 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 24 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
+| 25 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 26 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 28 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 29 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 30 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 31 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 32 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 33 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 34 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 35 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 36 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 37 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 38 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 39 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
+| 40 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 41 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 42 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 43 | [kyungsoo anak gaul seoul](http://twitter.com/search?q=kyungsoo+anak+gaul+seoul) | N/A |
+| 44 | [Pembunuh](http://twitter.com/search?q=Pembunuh) | N/A |
+| 45 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 46 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 47 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 48 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 49 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 50 | [om jin](http://twitter.com/search?q=om+jin) | N/A |
 
 
 

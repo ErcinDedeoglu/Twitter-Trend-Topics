@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-10 23:17:08 UTC`
+📆 Last Updated: `2023-03-11 00:28:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 6 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
 | 7 | [Çadırda](http://twitter.com/search?q=%c3%87ad%c4%b1rda) | N/A |
 | 8 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
-| 9 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 10 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 11 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 12 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 13 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 14 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
-| 15 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 16 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
-| 17 | [BiziBurada Unutmayın](http://twitter.com/search?q=BiziBurada+Unutmay%c4%b1n) | N/A |
-| 18 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 19 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 20 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 21 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 22 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 23 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 24 | [Umuttur](http://twitter.com/search?q=Umuttur) | N/A |
-| 25 | [Adalettir](http://twitter.com/search?q=Adalettir) | N/A |
-| 26 | [Ronaldo Türkiyede](http://twitter.com/search?q=Ronaldo+T%c3%bcrkiyede) | N/A |
-| 27 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
-| 28 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Alev](http://twitter.com/search?q=Alev) | N/A |
-| 31 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 32 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 33 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 36 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
-| 37 | [İttifaka](http://twitter.com/search?q=%c4%b0ttifaka) | N/A |
-| 38 | [Tahir](http://twitter.com/search?q=Tahir) | N/A |
+| 9 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
+| 10 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 11 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 12 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
+| 13 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
+| 14 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 15 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 16 | [BiziBurada Unutmayın](http://twitter.com/search?q=BiziBurada+Unutmay%c4%b1n) | N/A |
+| 17 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 18 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
+| 19 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
+| 20 | [Ronaldo Türkiyede](http://twitter.com/search?q=Ronaldo+T%c3%bcrkiyede) | N/A |
+| 21 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 22 | [Umuttur](http://twitter.com/search?q=Umuttur) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 25 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 26 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 27 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 28 | [İttifaka](http://twitter.com/search?q=%c4%b0ttifaka) | N/A |
+| 29 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
+| 30 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
+| 31 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 32 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 33 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 34 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [Camiye](http://twitter.com/search?q=Camiye) | N/A |
+| 37 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 38 | [Müslümanım](http://twitter.com/search?q=M%c3%bcsl%c3%bcman%c4%b1m) | N/A |
 | 39 | [Aykut Kocaman](http://twitter.com/search?q=Aykut+Kocaman) | N/A |
-| 40 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 41 | [Pelin](http://twitter.com/search?q=Pelin) | N/A |
-| 42 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 43 | [Çocuklarını](http://twitter.com/search?q=%c3%87ocuklar%c4%b1n%c4%b1) | N/A |
-| 44 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
-| 45 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 46 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 40 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 41 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
+| 42 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 43 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
+| 44 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
+| 45 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 46 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
+| 47 | [#OrtaSayfa](http://twitter.com/search?q=%23OrtaSayfa) | N/A |
+| 48 | [#sonsayfa](http://twitter.com/search?q=%23sonsayfa) | N/A |
 
 
 

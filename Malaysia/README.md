@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-10 23:17:25 UTC`
+📆 Last Updated: `2023-03-11 00:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
-| 2 | [welcome to malaysia](http://twitter.com/search?q=welcome+to+malaysia) | N/A |
-| 3 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
-| 4 | [#HELLO_Tour_KualaLumpur](http://twitter.com/search?q=%23HELLO_Tour_KualaLumpur) | N/A |
-| 5 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 6 | [#GermanOpen2023](http://twitter.com/search?q=%23GermanOpen2023) | N/A |
-| 7 | [PearThin](http://twitter.com/search?q=PearThin) | N/A |
-| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 9 | [MH370](http://twitter.com/search?q=MH370) | N/A |
-| 10 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 13 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 14 | [dream job](http://twitter.com/search?q=dream+job) | N/A |
-| 15 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 16 | [current job](http://twitter.com/search?q=current+job) | N/A |
-| 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 20 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 21 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 25 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 26 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 27 | [LOVE YOU](http://twitter.com/search?q=LOVE+YOU) | N/A |
-| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 29 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 30 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 31 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 32 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 33 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 34 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
-| 35 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 36 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
-| 37 | [Atiny](http://twitter.com/search?q=Atiny) | N/A |
-| 38 | [Abah](http://twitter.com/search?q=Abah) | N/A |
-| 39 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 40 | [Momota](http://twitter.com/search?q=Momota) | N/A |
-| 41 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 42 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 44 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 46 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 47 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 48 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
-| 49 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 50 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 2 | [#ProjekHighCouncil](http://twitter.com/search?q=%23ProjekHighCouncil) | N/A |
+| 3 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 4 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
+| 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 6 | [#aBossandaBabeEP2](http://twitter.com/search?q=%23aBossandaBabeEP2) | N/A |
+| 7 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 8 | [klcc](http://twitter.com/search?q=klcc) | N/A |
+| 9 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 10 | [Momota](http://twitter.com/search?q=Momota) | N/A |
+| 11 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 12 | [MH370](http://twitter.com/search?q=MH370) | N/A |
+| 13 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 14 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 15 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
+| 16 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 17 | [chentoh](http://twitter.com/search?q=chentoh) | N/A |
+| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 19 | [PearThin](http://twitter.com/search?q=PearThin) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 22 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 23 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 24 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 25 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
+| 26 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 27 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 28 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 29 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
+| 30 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
+| 31 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
+| 32 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 33 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 34 | [Abah](http://twitter.com/search?q=Abah) | N/A |
+| 35 | [MEW VOGUE 10th ANV](http://twitter.com/search?q=MEW+VOGUE+10th+ANV) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 38 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 39 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 40 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 41 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 42 | [mahiaddin](http://twitter.com/search?q=mahiaddin) | N/A |
+| 43 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 44 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
+| 45 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 46 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 47 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 50 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
 
 
 

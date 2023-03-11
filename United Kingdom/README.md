@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-10 23:17:28 UTC`
+📆 Last Updated: `2023-03-11 00:28:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for United Kingdom
 | 2 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 4 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 5 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 6 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 7 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
-| 8 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 5 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
+| 6 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 7 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 8 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
 | 9 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 10 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
-| 11 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 12 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 15 | [#LutherTheFallenSun](http://twitter.com/search?q=%23LutherTheFallenSun) | N/A |
-| 16 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 17 | [#thelastleg](http://twitter.com/search?q=%23thelastleg) | N/A |
-| 18 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 10 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 12 | [#LutherTheFallenSun](http://twitter.com/search?q=%23LutherTheFallenSun) | N/A |
+| 13 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 14 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 15 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
+| 16 | [Le Tissier](http://twitter.com/search?q=Le+Tissier) | N/A |
+| 17 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 18 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
 | 19 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 20 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 21 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 22 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 23 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 20 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 21 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 22 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 23 | [Commentators](http://twitter.com/search?q=Commentators) | N/A |
 | 24 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 25 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 26 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
-| 27 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 28 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 29 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 30 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 32 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 33 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 34 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 35 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 36 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 37 | [McInnes](http://twitter.com/search?q=McInnes) | N/A |
-| 38 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 39 | [Commentators](http://twitter.com/search?q=Commentators) | N/A |
+| 25 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 26 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 28 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 29 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 30 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 31 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 32 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
+| 33 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 34 | [McInnes](http://twitter.com/search?q=McInnes) | N/A |
+| 35 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 36 | [Tanya and Shaq](http://twitter.com/search?q=Tanya+and+Shaq) | N/A |
+| 37 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 38 | [MP or a TV](http://twitter.com/search?q=MP+or+a+TV) | N/A |
+| 39 | [Moffat](http://twitter.com/search?q=Moffat) | N/A |
 | 40 | [Sky Sports](http://twitter.com/search?q=Sky+Sports) | N/A |
-| 41 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 42 | [Ron & Lana](http://twitter.com/search?q=Ron+%26+Lana) | N/A |
-| 43 | [MP or a TV](http://twitter.com/search?q=MP+or+a+TV) | N/A |
+| 41 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 42 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
+| 43 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
 | 44 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 45 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 46 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 47 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 48 | [Will & Jessie](http://twitter.com/search?q=Will+%26+Jessie) | N/A |
-| 49 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 45 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
+| 46 | [Will & Jessie](http://twitter.com/search?q=Will+%26+Jessie) | N/A |
+| 47 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 48 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 49 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
 | 50 | [Laurent](http://twitter.com/search?q=Laurent) | N/A |
 
 
