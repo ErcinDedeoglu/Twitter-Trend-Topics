@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-11 17:16:37 UTC`
+📆 Last Updated: `2023-03-11 18:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
-| 2 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
-| 3 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
-| 4 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 5 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 6 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 7 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 8 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 9 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 10 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 11 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
-| 12 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
-| 13 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 14 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
-| 15 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 16 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 17 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 18 | [Libero](http://twitter.com/search?q=Libero) | N/A |
-| 19 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 20 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
-| 21 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 22 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
-| 23 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 24 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 25 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
-| 26 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 27 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 28 | [#EmpoliUdinese](http://twitter.com/search?q=%23EmpoliUdinese) | N/A |
-| 29 | [#JuventusWomen](http://twitter.com/search?q=%23JuventusWomen) | N/A |
-| 30 | [#drojette](http://twitter.com/search?q=%23drojette) | N/A |
-| 31 | [#GuinnessSixNations](http://twitter.com/search?q=%23GuinnessSixNations) | N/A |
-| 32 | [#chiaraferragni](http://twitter.com/search?q=%23chiaraferragni) | N/A |
-| 33 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
-| 34 | [#Covisoc](http://twitter.com/search?q=%23Covisoc) | N/A |
-| 35 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 36 | [#fermarelastrage](http://twitter.com/search?q=%23fermarelastrage) | N/A |
-| 37 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 38 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
-| 39 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 40 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
-| 41 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 42 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
-| 43 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
-| 44 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 45 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 46 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 47 | [#Bassetti](http://twitter.com/search?q=%23Bassetti) | N/A |
-| 48 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
+| 2 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
+| 3 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 4 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 5 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 6 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 8 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 9 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 10 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 11 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 12 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 13 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 14 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
+| 15 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 16 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 19 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 20 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 21 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
+| 22 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 23 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 24 | [loretta goggi](http://twitter.com/search?q=loretta+goggi) | N/A |
+| 25 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
+| 26 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 27 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 28 | [agata](http://twitter.com/search?q=agata) | N/A |
+| 29 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 30 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 31 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 32 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 33 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 34 | [Olivera](http://twitter.com/search?q=Olivera) | N/A |
+| 35 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
+| 36 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 37 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 38 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 39 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
+| 40 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 41 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 42 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 43 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
+| 44 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 45 | [forza carolyn](http://twitter.com/search?q=forza+carolyn) | N/A |
+| 46 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 47 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 48 | [Faletti](http://twitter.com/search?q=Faletti) | N/A |
+| 49 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

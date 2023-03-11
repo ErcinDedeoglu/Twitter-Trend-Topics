@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-11 17:16:59 UTC`
+📆 Last Updated: `2023-03-11 18:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
 | 2 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
-| 3 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 4 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 5 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 3 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 4 | [#DprmzdeAsstnHkmeNakl](http://twitter.com/search?q=%23DprmzdeAsstnHkmeNakl) | N/A |
+| 5 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
 | 6 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 7 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 8 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
-| 9 | [#DprmzdeAsstnHkmeNakl](http://twitter.com/search?q=%23DprmzdeAsstnHkmeNakl) | N/A |
-| 10 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 11 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 12 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 13 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 14 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 15 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 16 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 17 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 18 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
-| 19 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 20 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
-| 21 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 22 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 23 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 24 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 25 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 26 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 27 | [Haji Wright](http://twitter.com/search?q=Haji+Wright) | N/A |
-| 28 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 29 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 30 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 31 | [Eyalet](http://twitter.com/search?q=Eyalet) | N/A |
-| 32 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 33 | [Şeyh Said](http://twitter.com/search?q=%c5%9eeyh+Said) | N/A |
-| 34 | [devletsözü alayınakadro](http://twitter.com/search?q=devlets%c3%b6z%c3%bc+alay%c4%b1nakadro) | N/A |
-| 35 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
-| 36 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 37 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 38 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
-| 39 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
-| 40 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
-| 41 | [Konca Kuriş](http://twitter.com/search?q=Konca+Kuri%c5%9f) | N/A |
-| 42 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 43 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 44 | [Kimler](http://twitter.com/search?q=Kimler) | N/A |
-| 45 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
-| 46 | [Misvak](http://twitter.com/search?q=Misvak) | N/A |
-| 47 | [Afganistan](http://twitter.com/search?q=Afganistan) | N/A |
-| 48 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 7 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 8 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 9 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 10 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
+| 11 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 12 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 13 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 14 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 15 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
+| 16 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
+| 17 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 18 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
+| 19 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 20 | [Muhammed Emin Özkan](http://twitter.com/search?q=Muhammed+Emin+%c3%96zkan) | N/A |
+| 21 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
+| 22 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 23 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
+| 24 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 25 | [Oliviera](http://twitter.com/search?q=Oliviera) | N/A |
+| 26 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
+| 27 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 28 | [Süper Lig](http://twitter.com/search?q=S%c3%bcper+Lig) | N/A |
+| 29 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 30 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 31 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 32 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 33 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 34 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 35 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
+| 36 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 37 | [Ne 50](http://twitter.com/search?q=Ne+50) | N/A |
+| 38 | [Berkan](http://twitter.com/search?q=Berkan) | Berkan is a Turkish name derived from the Arabic word “baraka”, which means blessing. In English, it can be translated to mean “blessed” or “favored by God”. |
+| 39 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 40 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 41 | [Şeyh Said](http://twitter.com/search?q=%c5%9eeyh+Said) | N/A |
+| 42 | [Eyalet](http://twitter.com/search?q=Eyalet) | N/A |
+| 43 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
+| 44 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
+| 45 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 46 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 47 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 48 | [Konca Kuriş](http://twitter.com/search?q=Konca+Kuri%c5%9f) | N/A |
 
 
 

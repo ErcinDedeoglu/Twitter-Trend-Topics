@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-11 17:17:01 UTC`
+📆 Last Updated: `2023-03-11 18:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
 | 3 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 4 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
 | 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 9 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 10 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 12 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 13 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 14 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 15 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 16 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 17 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [Forster](http://twitter.com/search?q=Forster) | N/A |
-| 20 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 21 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 22 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 23 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 26 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 29 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 30 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 31 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 32 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 33 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 34 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 35 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 36 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 37 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
-| 38 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
-| 39 | [MBDTF](http://twitter.com/search?q=MBDTF) | N/A |
-| 40 | [TVPs](http://twitter.com/search?q=TVPs) | N/A |
-| 41 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 42 | [Daka](http://twitter.com/search?q=Daka) | N/A |
-| 43 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 44 | [Daylight Saving Time](http://twitter.com/search?q=Daylight+Saving+Time) | N/A |
-| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 46 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
-| 47 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 48 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
-| 49 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 6 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 9 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 10 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 12 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 13 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 15 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 17 | [RIP Coach](http://twitter.com/search?q=RIP+Coach) | N/A |
+| 18 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 19 | [#ATLUTD](http://twitter.com/search?q=%23ATLUTD) | N/A |
+| 20 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 21 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 22 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 23 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 24 | [Javy Baez](http://twitter.com/search?q=Javy+Baez) | N/A |
+| 25 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [Caleb Wiley](http://twitter.com/search?q=Caleb+Wiley) | N/A |
+| 28 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 29 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 32 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 35 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 36 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
+| 37 | [Kenny Wayne Shepherd](http://twitter.com/search?q=Kenny+Wayne+Shepherd) | N/A |
+| 38 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
+| 39 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
+| 40 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 41 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 42 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 43 | [Denzel Washington](http://twitter.com/search?q=Denzel+Washington) | N/A |
+| 44 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 45 | [Vikings](http://twitter.com/search?q=Vikings) | Vikings is a term used to refer to the people of Scandinavia who were active in exploring, raiding, trading, and settling in Europe and beyond from the 8th to 11th centuries. The term is derived from Old Norse víkingr, meaning "pirate" or "raider". |
+| 46 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 47 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 48 | [Yale](http://twitter.com/search?q=Yale) | N/A |
+| 49 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
 
 
 

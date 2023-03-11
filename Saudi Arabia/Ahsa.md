@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-03-11 17:17:16 UTC`
+📆 Last Updated: `2023-03-11 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 2 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
 | 3 | [#ارفع_الخفاق_اخضر](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%81%d8%b9_%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82_%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
 | 4 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
-| 5 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 5 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
 | 6 | [#اعلامي_يضرب_مشجع_في_المدرجات](http://twitter.com/search?q=%23%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a_%d9%8a%d8%b6%d8%b1%d8%a8_%d9%85%d8%b4%d8%ac%d8%b9_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac%d8%a7%d8%aa) | N/A |
-| 7 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 8 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 9 | [#المحامي_سامي_الزبيدي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a_%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
+| 7 | [#رومارينهو](http://twitter.com/search?q=%23%d8%b1%d9%88%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 8 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 9 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
 | 10 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
 | 11 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 12 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 13 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 14 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 15 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 16 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 17 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 18 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 19 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 20 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
-| 21 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 22 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 23 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 24 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 12 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 13 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 14 | [انزو](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d9%88) | N/A |
+| 15 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
+| 16 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 17 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 18 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 19 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 20 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 21 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 22 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 23 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
+| 24 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 25 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 26 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 27 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 28 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
-| 29 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 30 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 31 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 32 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 33 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 34 | [يابو فهد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
-| 35 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 36 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 26 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 27 | [الاحد الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 28 | [تاكيدا علي الاعتزاز](http://twitter.com/search?q=%d8%aa%d8%a7%d9%83%d9%8a%d8%af%d8%a7+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b2%d8%a7%d8%b2) | N/A |
+| 29 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 30 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 31 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
+| 32 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 33 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 34 | [بالاس](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 35 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 36 | [يابو فهد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
+| 37 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 38 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
 | 39 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 40 | [فيتوريا](http://twitter.com/search?q=%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 41 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
-| 42 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 43 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 40 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
+| 41 | [الاحد الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
+| 42 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 43 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 44 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 45 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 46 | [علي اليونايتد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 47 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 48 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 49 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
-| 50 | [فهد المولد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | فهد المولد is an Arabic phrase that translates to "Fahd of the Birth". It is a traditional greeting used to celebrate the birth of a baby boy. |
+| 45 | [عالي الهامه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d9%85%d9%87) | N/A |
+| 46 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 47 | [فهد المولد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | فهد المولد is an Arabic phrase that translates to "Fahd of the Birth". It is a traditional greeting used to celebrate the birth of a baby boy. |
+| 48 | [فيتوريا](http://twitter.com/search?q=%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 49 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
+| 50 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
 
 
 
