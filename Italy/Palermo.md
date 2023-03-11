@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-11 16:16:58 UTC`
+📆 Last Updated: `2023-03-11 17:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 2 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 3 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 4 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 5 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 6 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 7 | [salvini e meloni](http://twitter.com/search?q=salvini+e+meloni) | N/A |
-| 8 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
-| 9 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 10 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
-| 11 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 12 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 13 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 1 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 2 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 3 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 4 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 5 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 6 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
+| 7 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
+| 8 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 9 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
+| 10 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 11 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 12 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 13 | [Libero](http://twitter.com/search?q=Libero) | N/A |
 | 14 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 15 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 16 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 15 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 16 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
 | 17 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
-| 18 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 19 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 20 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
-| 21 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
-| 22 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 23 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 24 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 25 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 18 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 19 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
+| 20 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 21 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 22 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 23 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 24 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
+| 25 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
 | 26 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 27 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 28 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
-| 29 | [#EmpoliUdinese](http://twitter.com/search?q=%23EmpoliUdinese) | N/A |
-| 30 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 31 | [#drojette](http://twitter.com/search?q=%23drojette) | N/A |
+| 27 | [#EmpoliUdinese](http://twitter.com/search?q=%23EmpoliUdinese) | N/A |
+| 28 | [#JuventusWomen](http://twitter.com/search?q=%23JuventusWomen) | N/A |
+| 29 | [#drojette](http://twitter.com/search?q=%23drojette) | N/A |
+| 30 | [#GuinnessSixNations](http://twitter.com/search?q=%23GuinnessSixNations) | N/A |
+| 31 | [#chiaraferragni](http://twitter.com/search?q=%23chiaraferragni) | N/A |
 | 32 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
-| 33 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 34 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 35 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
-| 36 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 37 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
-| 38 | [#fermarelastrage](http://twitter.com/search?q=%23fermarelastrage) | N/A |
-| 39 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 40 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
+| 33 | [#Covisoc](http://twitter.com/search?q=%23Covisoc) | N/A |
+| 34 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 35 | [#fermarelastrage](http://twitter.com/search?q=%23fermarelastrage) | N/A |
+| 36 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 37 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
+| 38 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
+| 39 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 40 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
 | 41 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
 | 42 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
-| 43 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
+| 43 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
 
 
 

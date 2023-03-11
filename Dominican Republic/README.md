@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-11 16:17:30 UTC`
+📆 Last Updated: `2023-03-11 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Dominican Republic
 | 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 9 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 10 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 11 | [Jairo González](http://twitter.com/search?q=Jairo+Gonz%c3%a1lez) | N/A |
-| 12 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
-| 13 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 15 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
-| 16 | [#diainternacionaldelamujer](http://twitter.com/search?q=%23diainternacionaldelamujer) | N/A |
-| 17 | [Distrito Nacional](http://twitter.com/search?q=Distrito+Nacional) | N/A |
-| 18 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
+| 10 | [Distrito Nacional](http://twitter.com/search?q=Distrito+Nacional) | N/A |
+| 11 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
+| 12 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 13 | [Jairo González](http://twitter.com/search?q=Jairo+Gonz%c3%a1lez) | N/A |
+| 14 | [Papera](http://twitter.com/search?q=Papera) | N/A |
+| 15 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 16 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 17 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
+| 18 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 19 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
-| 20 | [Tamo](http://twitter.com/search?q=Tamo) | N/A |
-| 21 | [Luz del Alba](http://twitter.com/search?q=Luz+del+Alba) | N/A |
-| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [Sabana de la Mar](http://twitter.com/search?q=Sabana+de+la+Mar) | N/A |
-| 24 | [monseñor nouel](http://twitter.com/search?q=monse%c3%b1or+nouel) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
+| 20 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 21 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
+| 22 | [República Checa](http://twitter.com/search?q=Rep%c3%bablica+Checa) | N/A |
+| 23 | [Luz del Alba Jiménez](http://twitter.com/search?q=Luz+del+Alba+Jim%c3%a9nez) | N/A |
+| 24 | [Tamo](http://twitter.com/search?q=Tamo) | N/A |
+| 25 | [Sabana de la Mar](http://twitter.com/search?q=Sabana+de+la+Mar) | N/A |
+| 26 | [monseñor nouel](http://twitter.com/search?q=monse%c3%b1or+nouel) | N/A |
 | 27 | [Juan Dolio](http://twitter.com/search?q=Juan+Dolio) | N/A |
-| 28 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 29 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
-| 30 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 31 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 32 | [CON LEONEL](http://twitter.com/search?q=CON+LEONEL) | N/A |
-| 33 | [Tranquilo](http://twitter.com/search?q=Tranquilo) | N/A |
-| 34 | [Francisco del Rosario Sánchez](http://twitter.com/search?q=Francisco+del+Rosario+S%c3%a1nchez) | N/A |
-| 35 | [padres de la patria](http://twitter.com/search?q=padres+de+la+patria) | N/A |
-| 36 | [inafocam](http://twitter.com/search?q=inafocam) | N/A |
-| 37 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 39 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 40 | [Ósea](http://twitter.com/search?q=%c3%93sea) | N/A |
-| 41 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
-| 42 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 45 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 47 | [Okey](http://twitter.com/search?q=Okey) | N/A |
-| 48 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 49 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 50 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 31 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 32 | [Bonao](http://twitter.com/search?q=Bonao) | N/A |
+| 33 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 34 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 35 | [CON LEONEL](http://twitter.com/search?q=CON+LEONEL) | N/A |
+| 36 | [Código Penal](http://twitter.com/search?q=C%c3%b3digo+Penal) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 39 | [Tranquilo](http://twitter.com/search?q=Tranquilo) | N/A |
+| 40 | [Francisco del Rosario Sánchez](http://twitter.com/search?q=Francisco+del+Rosario+S%c3%a1nchez) | N/A |
+| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 42 | [padres de la patria](http://twitter.com/search?q=padres+de+la+patria) | N/A |
+| 43 | [inafocam](http://twitter.com/search?q=inafocam) | N/A |
+| 44 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 45 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 46 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 47 | [Manolo](http://twitter.com/search?q=Manolo) | N/A |
+| 48 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
+| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 50 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 
 
 

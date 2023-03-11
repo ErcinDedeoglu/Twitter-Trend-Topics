@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-11 16:17:17 UTC`
+📆 Last Updated: `2023-03-11 17:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 2 | [#askstar](http://twitter.com/search?q=%23askstar) | N/A |
-| 3 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
-| 4 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 6 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 9 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 10 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
-| 11 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 12 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
-| 13 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
-| 14 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
-| 17 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 19 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 20 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
-| 21 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 22 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
-| 23 | [Sophia Dunkley](http://twitter.com/search?q=Sophia+Dunkley) | N/A |
-| 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 26 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 28 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
-| 29 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 30 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 31 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
-| 32 | [A. Green](http://twitter.com/search?q=A.+Green) | N/A |
-| 33 | [B. Phantom Black](http://twitter.com/search?q=B.+Phantom+Black) | N/A |
-| 34 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 35 | [ADAS](http://twitter.com/search?q=ADAS) | N/A |
-| 36 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 37 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
-| 38 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 39 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 40 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 41 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 42 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 43 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
-| 44 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
-| 45 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 2 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 5 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 6 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
+| 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 8 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 9 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 10 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 11 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
+| 12 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 13 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 16 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 17 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 19 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
+| 20 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 21 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 22 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 23 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 24 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 25 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 26 | [Dunkley](http://twitter.com/search?q=Dunkley) | N/A |
+| 27 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 28 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 31 | [Lalu](http://twitter.com/search?q=Lalu) | N/A |
+| 32 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 33 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 34 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
+| 35 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 36 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
+| 37 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 38 | [Road](http://twitter.com/search?q=Road) | N/A |
+| 39 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 40 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 41 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 42 | [Language](http://twitter.com/search?q=Language) | N/A |
+| 43 | [Janta](http://twitter.com/search?q=Janta) | N/A |
+| 44 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 45 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
 | 46 | [#KeyToAchievement](http://twitter.com/search?q=%23KeyToAchievement) | N/A |
-| 47 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
-| 48 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
-| 49 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 50 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 47 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
+| 48 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 49 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 50 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
 
 
 

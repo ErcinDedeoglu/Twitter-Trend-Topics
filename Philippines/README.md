@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-11 16:17:34 UTC`
+📆 Last Updated: `2023-03-11 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Philippines
 | 4 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
 | 5 | [#챙더그라운드_이주년_축하해](http://twitter.com/search?q=%23%ec%b1%99%eb%8d%94%ea%b7%b8%eb%9d%bc%ec%9a%b4%eb%93%9c_%ec%9d%b4%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 6 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 7 | [#HORI7ON_1stIGLive](http://twitter.com/search?q=%23HORI7ON_1stIGLive) | N/A |
-| 8 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 7 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 8 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 9 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 10 | [HIKARU](http://twitter.com/search?q=HIKARU) | N/A |
 | 11 | [MR. KAI](http://twitter.com/search?q=MR.+KAI) | N/A |
 | 12 | [BEATBOX ENGLISH VERSION](http://twitter.com/search?q=BEATBOX+ENGLISH+VERSION) | N/A |
 | 13 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 14 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 15 | [Sungjae](http://twitter.com/search?q=Sungjae) | N/A |
-| 16 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 15 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
+| 16 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
 | 17 | [Yesung](http://twitter.com/search?q=Yesung) | N/A |
-| 18 | [Smile FLower](http://twitter.com/search?q=Smile+FLower) | N/A |
-| 19 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
-| 20 | [Aju Nice](http://twitter.com/search?q=Aju+Nice) | N/A |
-| 21 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 24 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 25 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
-| 26 | [BLYTHE TURNS TWENTY](http://twitter.com/search?q=BLYTHE+TURNS+TWENTY) | N/A |
-| 27 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
-| 28 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 29 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 30 | [TCOBack ANG ROBXINE](http://twitter.com/search?q=TCOBack+ANG+ROBXINE) | N/A |
-| 31 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 32 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 34 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 35 | [vinci](http://twitter.com/search?q=vinci) | N/A |
-| 36 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 37 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 38 | [Carats](http://twitter.com/search?q=Carats) | N/A |
-| 39 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 41 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 42 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 43 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 44 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
-| 45 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
-| 46 | [#PPopPoppin](http://twitter.com/search?q=%23PPopPoppin) | N/A |
-| 47 | [#ppopcom2023](http://twitter.com/search?q=%23ppopcom2023) | N/A |
-| 48 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 49 | [#StrayKidsinManila2023](http://twitter.com/search?q=%23StrayKidsinManila2023) | N/A |
-| 50 | [#LeeJaeWookFIRSTinMNL](http://twitter.com/search?q=%23LeeJaeWookFIRSTinMNL) | N/A |
+| 18 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 19 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 20 | [BLYTHE TURNS TWENTY](http://twitter.com/search?q=BLYTHE+TURNS+TWENTY) | N/A |
+| 21 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
+| 22 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 23 | [vinci](http://twitter.com/search?q=vinci) | N/A |
+| 24 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 27 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 28 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 29 | [#HORI7ON_1stIGLive](http://twitter.com/search?q=%23HORI7ON_1stIGLive) | N/A |
+| 30 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 31 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
+| 32 | [#PPOPCOMsaETON](http://twitter.com/search?q=%23PPOPCOMsaETON) | N/A |
+| 33 | [#MANIACinMANILA_Day1](http://twitter.com/search?q=%23MANIACinMANILA_Day1) | N/A |
+| 34 | [#LeeJaeWookFIRSTinMNL](http://twitter.com/search?q=%23LeeJaeWookFIRSTinMNL) | N/A |
+| 35 | [#GKapamilyaInBarcelona](http://twitter.com/search?q=%23GKapamilyaInBarcelona) | N/A |
+| 36 | [#PPopPoppin](http://twitter.com/search?q=%23PPopPoppin) | N/A |
+| 37 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 38 | [#ppopcom2023](http://twitter.com/search?q=%23ppopcom2023) | N/A |
+| 39 | [#StrayKidsinManila2023](http://twitter.com/search?q=%23StrayKidsinManila2023) | N/A |
+| 40 | [#NCT127](http://twitter.com/search?q=%23NCT127) | N/A |
+| 41 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
+| 42 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
+| 43 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
+| 44 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
+| 45 | [#AskHORI7ON](http://twitter.com/search?q=%23AskHORI7ON) | N/A |
+| 46 | [#SingTeuMe](http://twitter.com/search?q=%23SingTeuMe) | N/A |
+| 47 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 48 | [#MANIACinMNL](http://twitter.com/search?q=%23MANIACinMNL) | N/A |
+| 49 | [#DavidLicaucoInAlaminos](http://twitter.com/search?q=%23DavidLicaucoInAlaminos) | N/A |
+| 50 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
 
 
 

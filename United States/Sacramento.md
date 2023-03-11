@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-11 16:17:27 UTC`
+📆 Last Updated: `2023-03-11 17:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 5 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 6 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 9 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 10 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 12 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 13 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 18 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
-| 19 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 20 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 21 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 22 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 23 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 24 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 25 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 26 | [Daka](http://twitter.com/search?q=Daka) | N/A |
-| 27 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 28 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 29 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
-| 30 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 31 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 32 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 33 | [Daylight Saving Time](http://twitter.com/search?q=Daylight+Saving+Time) | N/A |
-| 34 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 35 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 36 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
-| 37 | [Nomar](http://twitter.com/search?q=Nomar) | N/A |
-| 38 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 39 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 40 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 42 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 43 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 44 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 45 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
-| 46 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 47 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 48 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 1 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 2 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 3 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 4 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 11 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 14 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 15 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 17 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 18 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 22 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 24 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 27 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 29 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 30 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 31 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 32 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 33 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
+| 34 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 35 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 36 | [UMass Lowell](http://twitter.com/search?q=UMass+Lowell) | N/A |
+| 37 | [MBDTF](http://twitter.com/search?q=MBDTF) | N/A |
+| 38 | [TVPs](http://twitter.com/search?q=TVPs) | N/A |
+| 39 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 40 | [Daka](http://twitter.com/search?q=Daka) | N/A |
+| 41 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 42 | [Daylight Saving Time](http://twitter.com/search?q=Daylight+Saving+Time) | N/A |
+| 43 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 44 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
+| 45 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 46 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 47 | [Vermont](http://twitter.com/search?q=Vermont) | N/A |
+| 48 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 
 
 

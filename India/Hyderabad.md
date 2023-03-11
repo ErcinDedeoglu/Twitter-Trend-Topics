@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-03-11 16:17:18 UTC`
+📆 Last Updated: `2023-03-11 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 2 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 3 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 6 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 7 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
-| 8 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
-| 9 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
-| 10 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 1 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 2 | [Ashleigh G](http://twitter.com/search?q=Ashleigh+G) | N/A |
+| 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 4 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 6 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 7 | [#HappyBirthdayShreyaGhoshal](http://twitter.com/search?q=%23HappyBirthdayShreyaGhoshal) | N/A |
+| 8 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 9 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 11 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
 | 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 15 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
-| 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 17 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 18 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
-| 19 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 20 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
-| 21 | [Sophia Dunkley](http://twitter.com/search?q=Sophia+Dunkley) | N/A |
-| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 24 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 25 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 26 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
-| 27 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
-| 28 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 29 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
-| 30 | [A. Green](http://twitter.com/search?q=A.+Green) | N/A |
-| 31 | [B. Phantom Black](http://twitter.com/search?q=B.+Phantom+Black) | N/A |
-| 32 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 33 | [ADAS](http://twitter.com/search?q=ADAS) | N/A |
-| 34 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 35 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
-| 36 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 37 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 38 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 39 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 40 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 41 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
-| 42 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
-| 43 | [#KeyToAchievement](http://twitter.com/search?q=%23KeyToAchievement) | N/A |
-| 44 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
-| 45 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
-| 46 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 47 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 48 | [#dcvsgg](http://twitter.com/search?q=%23dcvsgg) | N/A |
-| 49 | [#KeyToStressManagement](http://twitter.com/search?q=%23KeyToStressManagement) | N/A |
-| 50 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 13 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 14 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [#KeyToAchievement](http://twitter.com/search?q=%23KeyToAchievement) | N/A |
+| 17 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
+| 18 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 19 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 20 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 21 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 22 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 24 | [Dunkley](http://twitter.com/search?q=Dunkley) | N/A |
+| 25 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 26 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 27 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 28 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 29 | [Lalu](http://twitter.com/search?q=Lalu) | N/A |
+| 30 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 31 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
+| 32 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
+| 33 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 34 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
+| 35 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 36 | [Road](http://twitter.com/search?q=Road) | N/A |
+| 37 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 38 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 39 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 40 | [Language](http://twitter.com/search?q=Language) | N/A |
+| 41 | [Janta](http://twitter.com/search?q=Janta) | N/A |
+| 42 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 43 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
+| 44 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 45 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 46 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 47 | [#PSL08](http://twitter.com/search?q=%23PSL08) | N/A |
+| 48 | [#DCvsGG](http://twitter.com/search?q=%23DCvsGG) | N/A |
+| 49 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 50 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
 
 
 

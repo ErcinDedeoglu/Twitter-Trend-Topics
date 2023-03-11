@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-11 16:16:46 UTC`
+📆 Last Updated: `2023-03-11 17:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 4 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 5 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 6 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 7 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 8 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 9 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 10 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 14 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 15 | [Rhys Webb](http://twitter.com/search?q=Rhys+Webb) | N/A |
-| 16 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 17 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 18 | [Worrall](http://twitter.com/search?q=Worrall) | Worrall is a surname of English origin. It is derived from the Old English words 'wera' and 'halh', meaning "a corner of land". |
-| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 20 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 21 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 22 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 23 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 24 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 25 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 26 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 27 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
-| 28 | [Lingard](http://twitter.com/search?q=Lingard) | Lingard is a surname of English origin. It is derived from the Old English words "ling" meaning "heather" and "weard" meaning "guardian". The name was originally given to someone who was a guardian of heather or a keeper of heather-covered land. |
-| 29 | [Daka](http://twitter.com/search?q=Daka) | N/A |
-| 30 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 31 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 32 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
-| 33 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 34 | [team news](http://twitter.com/search?q=team+news) | N/A |
-| 35 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 36 | [Yates](http://twitter.com/search?q=Yates) | N/A |
-| 37 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 38 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
-| 39 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 40 | [Liam Williams](http://twitter.com/search?q=Liam+Williams) | N/A |
-| 41 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 42 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 43 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 44 | [Man Utd 7-0](http://twitter.com/search?q=Man+Utd+7-0) | N/A |
-| 45 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 46 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 47 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
-| 48 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 49 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 50 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 5 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 6 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 7 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 8 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
+| 9 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 11 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 14 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 15 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Rhys Webb](http://twitter.com/search?q=Rhys+Webb) | N/A |
+| 18 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 19 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 20 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 21 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 22 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 24 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 25 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 26 | [Worrall](http://twitter.com/search?q=Worrall) | Worrall is a surname of English origin. It is derived from the Old English words 'wera' and 'halh', meaning "a corner of land". |
+| 27 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 28 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 29 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 30 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 31 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 33 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 34 | [No 007](http://twitter.com/search?q=No+007) | N/A |
+| 35 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 36 | [Hecky](http://twitter.com/search?q=Hecky) | N/A |
+| 37 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 38 | [Lingard](http://twitter.com/search?q=Lingard) | Lingard is a surname of English origin. It is derived from the Old English words "ling" meaning "heather" and "weard" meaning "guardian". The name was originally given to someone who was a guardian of heather or a keeper of heather-covered land. |
+| 39 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
+| 40 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
+| 41 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 42 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 44 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 46 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 47 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 48 | [Faes](http://twitter.com/search?q=Faes) | N/A |
+| 49 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
+| 50 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
 
 
 
