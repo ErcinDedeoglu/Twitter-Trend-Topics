@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-11 15:17:05 UTC`
+📆 Last Updated: `2023-03-11 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#FCSMFCGB](http://twitter.com/search?q=%23FCSMFCGB) | N/A |
 | 2 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
-| 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 6 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
-| 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 8 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 9 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 10 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 11 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 14 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
-| 15 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 16 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
-| 17 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 18 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 19 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 20 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 21 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 22 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 24 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
-| 25 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 26 | [Bakugo](http://twitter.com/search?q=Bakugo) | N/A |
-| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 29 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
-| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 31 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 32 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 33 | [Josiane](http://twitter.com/search?q=Josiane) | N/A |
-| 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 35 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 36 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 37 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 38 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 39 | [Cyberpunk](http://twitter.com/search?q=Cyberpunk) | N/A |
-| 40 | [Libération](http://twitter.com/search?q=Lib%c3%a9ration) | N/A |
-| 41 | [LOSC](http://twitter.com/search?q=LOSC) | N/A |
-| 42 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 43 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 44 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 46 | [jonathan cohen](http://twitter.com/search?q=jonathan+cohen) | N/A |
-| 47 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 48 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 49 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 50 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 3 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
+| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 5 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 7 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
+| 8 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 9 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 13 | [#AJASRFC](http://twitter.com/search?q=%23AJASRFC) | N/A |
+| 14 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 15 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 16 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 17 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 18 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 19 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
+| 20 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 22 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 23 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 24 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 25 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 26 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 27 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 28 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 29 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 30 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 32 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 33 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 34 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 35 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 36 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 37 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 38 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 39 | [Bakugo](http://twitter.com/search?q=Bakugo) | N/A |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
+| 42 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 43 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
+| 44 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 45 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 46 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 47 | [Le 11](http://twitter.com/search?q=Le+11) | N/A |
+| 48 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
+| 49 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 50 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 
 
 

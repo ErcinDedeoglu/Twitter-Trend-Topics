@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-11 15:17:06 UTC`
+📆 Last Updated: `2023-03-11 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
-| 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 3 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 5 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 6 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 7 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 8 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 9 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
-| 10 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
-| 11 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
-| 12 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 13 | [Ziliani](http://twitter.com/search?q=Ziliani) | N/A |
-| 14 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 15 | [Atac](http://twitter.com/search?q=Atac) | N/A |
-| 16 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 17 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 18 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 20 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
-| 21 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 22 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
-| 23 | [Portogallo](http://twitter.com/search?q=Portogallo) | N/A |
-| 24 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 25 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 26 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 27 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 2 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 3 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 4 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 5 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 6 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 7 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 8 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
+| 9 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 10 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 11 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 12 | [salvini e meloni](http://twitter.com/search?q=salvini+e+meloni) | N/A |
+| 13 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
+| 14 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
+| 15 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 16 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 17 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
+| 18 | [ATAC](http://twitter.com/search?q=ATAC) | N/A |
+| 19 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 20 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 21 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 22 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 23 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 24 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 25 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
+| 26 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 27 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
 | 28 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
-| 29 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
-| 30 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 31 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 32 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
-| 33 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 34 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
-| 35 | [#EndTheCageAge](http://twitter.com/search?q=%23EndTheCageAge) | N/A |
-| 36 | [#ConsigliodiStato](http://twitter.com/search?q=%23ConsigliodiStato) | N/A |
-| 37 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
-| 38 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 39 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 40 | [#eurosportsci](http://twitter.com/search?q=%23eurosportsci) | N/A |
-| 41 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
-| 42 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
-| 43 | [#SalviniPagliaccio](http://twitter.com/search?q=%23SalviniPagliaccio) | N/A |
-| 44 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 45 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 46 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 47 | [#DisdettaSkyDazn](http://twitter.com/search?q=%23DisdettaSkyDazn) | N/A |
-| 48 | [#DisdettaDaznSky](http://twitter.com/search?q=%23DisdettaDaznSky) | N/A |
-| 49 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
+| 29 | [#EmpoliUdinese](http://twitter.com/search?q=%23EmpoliUdinese) | N/A |
+| 30 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 31 | [#drojette](http://twitter.com/search?q=%23drojette) | N/A |
+| 32 | [#JuventusWomen](http://twitter.com/search?q=%23JuventusWomen) | N/A |
+| 33 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
+| 34 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 35 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 36 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 37 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
+| 38 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 39 | [#fermarelastrage](http://twitter.com/search?q=%23fermarelastrage) | N/A |
+| 40 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 41 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
+| 42 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 43 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
+| 44 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 45 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
+| 46 | [#EndTheCageAge](http://twitter.com/search?q=%23EndTheCageAge) | N/A |
+| 47 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
+| 48 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
+| 49 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 50 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
 
 
 

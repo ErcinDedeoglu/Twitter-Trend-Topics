@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-11 15:16:17 UTC`
+📆 Last Updated: `2023-03-11 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 2 | [#BBCFootball](http://twitter.com/search?q=%23BBCFootball) | N/A |
-| 3 | [Adam Smith](http://twitter.com/search?q=Adam+Smith) | N/A |
-| 4 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
-| 5 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
-| 6 | [Harvey Elliot](http://twitter.com/search?q=Harvey+Elliot) | N/A |
-| 7 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 8 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 11 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
-| 12 | [Fern](http://twitter.com/search?q=Fern) | N/A |
-| 13 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 14 | [Joey Barton](http://twitter.com/search?q=Joey+Barton) | N/A |
-| 15 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 16 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
-| 17 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 18 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 19 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 20 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 21 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 22 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 23 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 24 | [Nigel](http://twitter.com/search?q=Nigel) | N/A |
-| 25 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 26 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
-| 27 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 28 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 29 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
-| 30 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 31 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 32 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 35 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 36 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 37 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 38 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 39 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 40 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 41 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 42 | [Man Utd 7-0](http://twitter.com/search?q=Man+Utd+7-0) | N/A |
-| 43 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 44 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 45 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 46 | [Rhys Webb](http://twitter.com/search?q=Rhys+Webb) | N/A |
-| 47 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 48 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 49 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 50 | [Cherries](http://twitter.com/search?q=Cherries) | N/A |
+| 1 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
+| 2 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 3 | [#bbcaq](http://twitter.com/search?q=%23bbcaq) | N/A |
+| 4 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
+| 5 | [#ALAW](http://twitter.com/search?q=%23ALAW) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [Ouattara](http://twitter.com/search?q=Ouattara) | N/A |
+| 8 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 9 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
+| 10 | [Harvey Elliot](http://twitter.com/search?q=Harvey+Elliot) | N/A |
+| 11 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 12 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 13 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 15 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 16 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 17 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 18 | [Final Score](http://twitter.com/search?q=Final+Score) | N/A |
+| 19 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 20 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 21 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 22 | [5Live](http://twitter.com/search?q=5Live) | N/A |
+| 23 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 26 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 27 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 28 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 32 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 33 | [Rhys Webb](http://twitter.com/search?q=Rhys+Webb) | N/A |
+| 34 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 36 | [Worrall](http://twitter.com/search?q=Worrall) | Worrall is a surname of English origin. It is derived from the Old English words 'wera' and 'halh', meaning "a corner of land". |
+| 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 38 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 39 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 40 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 41 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 42 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 44 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 45 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
+| 46 | [Lingard](http://twitter.com/search?q=Lingard) | Lingard is a surname of English origin. It is derived from the Old English words "ling" meaning "heather" and "weard" meaning "guardian". The name was originally given to someone who was a guardian of heather or a keeper of heather-covered land. |
+| 47 | [Daka](http://twitter.com/search?q=Daka) | N/A |
+| 48 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 49 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 50 | [Roca](http://twitter.com/search?q=Roca) | N/A |
 
 
 

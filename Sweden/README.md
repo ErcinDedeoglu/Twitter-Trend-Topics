@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-11 15:17:09 UTC`
+📆 Last Updated: `2023-03-11 16:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 4 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
-| 5 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 2 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 5 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 6 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 8 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
-| 11 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
-| 12 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 13 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
-| 14 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
-| 15 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Elstödet](http://twitter.com/search?q=Elst%c3%b6det) | N/A |
-| 18 | [SDHL](http://twitter.com/search?q=SDHL) | N/A |
-| 19 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 20 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 21 | [anmält](http://twitter.com/search?q=anm%c3%a4lt) | N/A |
-| 22 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [ORSAKAR FATTIGDOM BROTT](http://twitter.com/search?q=ORSAKAR+FATTIGDOM+BROTT) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 27 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 28 | [limhamn](http://twitter.com/search?q=limhamn) | N/A |
-| 29 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 30 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
-| 31 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
-| 32 | [vänner](http://twitter.com/search?q=v%c3%a4nner) | N/A |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
-| 35 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 36 | [jörgen](http://twitter.com/search?q=j%c3%b6rgen) | N/A |
-| 37 | [Svenska Kraftnät](http://twitter.com/search?q=Svenska+Kraftn%c3%a4t) | N/A |
-| 38 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
-| 39 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
-| 40 | [trevlig](http://twitter.com/search?q=trevlig) | N/A |
-| 41 | [#DIFHockey](http://twitter.com/search?q=%23DIFHockey) | N/A |
-| 42 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
-| 43 | [Gais](http://twitter.com/search?q=Gais) | N/A |
-| 44 | [Bönder](http://twitter.com/search?q=B%c3%b6nder) | N/A |
-| 45 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 46 | [snusk](http://twitter.com/search?q=snusk) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 49 | [sömn](http://twitter.com/search?q=s%c3%b6mn) | N/A |
-| 50 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 7 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
+| 8 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 14 | [Melodifestivalen](http://twitter.com/search?q=Melodifestivalen) | N/A |
+| 15 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
+| 16 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 17 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 18 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 19 | [Elstödet](http://twitter.com/search?q=Elst%c3%b6det) | N/A |
+| 20 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
+| 21 | [SDHL](http://twitter.com/search?q=SDHL) | N/A |
+| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 23 | [jasså](http://twitter.com/search?q=jass%c3%a5) | N/A |
+| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 25 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
+| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 27 | [Pinsamt](http://twitter.com/search?q=Pinsamt) | N/A |
+| 28 | [ORSAKAR FATTIGDOM BROTT](http://twitter.com/search?q=ORSAKAR+FATTIGDOM+BROTT) | N/A |
+| 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 30 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 31 | [fortfarande](http://twitter.com/search?q=fortfarande) | N/A |
+| 32 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
+| 33 | [limhamn](http://twitter.com/search?q=limhamn) | N/A |
+| 34 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 37 | [#arsk23](http://twitter.com/search?q=%23arsk23) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
+| 41 | [ytterligare](http://twitter.com/search?q=ytterligare) | N/A |
+| 42 | [Skrämmande](http://twitter.com/search?q=Skr%c3%a4mmande) | N/A |
+| 43 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 44 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 45 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 46 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 47 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 48 | [Svenska Kraftnät](http://twitter.com/search?q=Svenska+Kraftn%c3%a4t) | N/A |
+| 49 | [#innebandy](http://twitter.com/search?q=%23innebandy) | N/A |
+| 50 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
 
 
 

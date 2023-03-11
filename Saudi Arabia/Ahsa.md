@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-03-11 15:17:11 UTC`
+📆 Last Updated: `2023-03-11 16:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 2 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 3 | [#ارفع_الخفاق_اخضر](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%81%d8%b9_%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82_%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 4 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 5 | [#اعلامي_يضرب_مشجع_في_المدرجات](http://twitter.com/search?q=%23%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a_%d9%8a%d8%b6%d8%b1%d8%a8_%d9%85%d8%b4%d8%ac%d8%b9_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac%d8%a7%d8%aa) | N/A |
-| 6 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 7 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 8 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
-| 9 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
-| 10 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 11 | [#وزاره_التعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 12 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 13 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 14 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 15 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 16 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
-| 17 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 18 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 19 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 20 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 21 | [علي اليونايتد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 22 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 23 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 24 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 25 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 26 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 27 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 28 | [عبدالعزيز بن فهد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
-| 29 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 30 | [رؤوف خليف](http://twitter.com/search?q=%d8%b1%d8%a4%d9%88%d9%81+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
-| 31 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
-| 32 | [علم التوحيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af) | N/A |
-| 33 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
-| 34 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 35 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 36 | [المشجع الهلالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 37 | [الحلو المسكت](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%88+%d8%a7%d9%84%d9%85%d8%b3%d9%83%d8%aa) | N/A |
-| 38 | [علم الفخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
-| 39 | [الاهلى](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%89) | الاهلى is a professional football club in Egypt. It is based in Cairo and is one of the most successful clubs in the country. The name الاهلى translates to "The National" in English. |
-| 40 | [عالي الهامه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d9%85%d9%87) | N/A |
-| 41 | [علي البيارق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
-| 42 | [قول الثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 43 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 44 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
-| 45 | [نيتو](http://twitter.com/search?q=%d9%86%d9%8a%d8%aa%d9%88) | N/A |
-| 46 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 47 | [مفتاح الاسلام](http://twitter.com/search?q=%d9%85%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 48 | [السيف الاجرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a8) | N/A |
-| 49 | [الرايه الخضراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
-| 50 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 1 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 2 | [#ارفع_الخفاق_اخضر](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%81%d8%b9_%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82_%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 3 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 4 | [#اعلامي_يضرب_مشجع_في_المدرجات](http://twitter.com/search?q=%23%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a_%d9%8a%d8%b6%d8%b1%d8%a8_%d9%85%d8%b4%d8%ac%d8%b9_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac%d8%a7%d8%aa) | N/A |
+| 5 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 6 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 7 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 8 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 9 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 10 | [#المحامي_سامي_الزبيدي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%85%d9%8a_%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
+| 11 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
+| 12 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 13 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 14 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
+| 15 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 16 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 17 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
+| 18 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
+| 19 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 20 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 21 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 22 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
+| 23 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 24 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 25 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 26 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
+| 27 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 28 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 29 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 30 | [علي اليونايتد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 31 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 32 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 33 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
+| 34 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 35 | [رؤوف خليف](http://twitter.com/search?q=%d8%b1%d8%a4%d9%88%d9%81+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 36 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 37 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
+| 38 | [يابو فهد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
+| 39 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
+| 40 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 41 | [علم التوحيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 42 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 43 | [علم الفخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
+| 44 | [المركز الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 45 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 46 | [المشجع الهلالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 47 | [عالي الهامه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d9%85%d9%87) | N/A |
+| 48 | [الاهلى](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%89) | الاهلى is a professional football club in Egypt. It is based in Cairo and is one of the most successful clubs in the country. The name الاهلى translates to "The National" in English. |
+| 49 | [قول الثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

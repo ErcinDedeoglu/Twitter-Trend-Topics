@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-11 15:16:28 UTC`
+📆 Last Updated: `2023-03-11 16:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
 | 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 4 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 5 | [Janusz Weiss](http://twitter.com/search?q=Janusz+Weiss) | N/A |
-| 6 | [#KORRAD](http://twitter.com/search?q=%23KORRAD) | N/A |
-| 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 10 | [Jaśle](http://twitter.com/search?q=Ja%c5%9ble) | N/A |
-| 11 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 12 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 15 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 16 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
-| 17 | [miliard](http://twitter.com/search?q=miliard) | N/A |
-| 18 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 19 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 20 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 21 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 22 | [Radia Zet](http://twitter.com/search?q=Radia+Zet) | N/A |
-| 23 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
-| 24 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
-| 25 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 26 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 27 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 28 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 29 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 30 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
-| 31 | [ochojskiej](http://twitter.com/search?q=ochojskiej) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 33 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 34 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 35 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 36 | [Polakami](http://twitter.com/search?q=Polakami) | N/A |
-| 37 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 38 | [Pinokio](http://twitter.com/search?q=Pinokio) | N/A |
-| 39 | [Antonin Hajek](http://twitter.com/search?q=Antonin+Hajek) | N/A |
-| 40 | [Sołtysów](http://twitter.com/search?q=So%c5%82tys%c3%b3w) | N/A |
-| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 42 | [dnia mężczyzny](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzny) | N/A |
-| 43 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 44 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 45 | [dnia sołtysa](http://twitter.com/search?q=dnia+so%c5%82tysa) | N/A |
-| 46 | [pieszy](http://twitter.com/search?q=pieszy) | N/A |
-| 47 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 48 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 49 | [grabiec](http://twitter.com/search?q=grabiec) | N/A |
-| 50 | [drodzy panowie](http://twitter.com/search?q=drodzy+panowie) | N/A |
+| 5 | [#KORRAD](http://twitter.com/search?q=%23KORRAD) | N/A |
+| 6 | [Oliwiera](http://twitter.com/search?q=Oliwiera) | N/A |
+| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 8 | [Jaśle](http://twitter.com/search?q=Ja%c5%9ble) | N/A |
+| 9 | [#PrzyszłośćToPolska](http://twitter.com/search?q=%23Przysz%c5%82o%c5%9b%c4%87ToPolska) | N/A |
+| 10 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 11 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 12 | [Janusz Weiss](http://twitter.com/search?q=Janusz+Weiss) | N/A |
+| 13 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 14 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
+| 15 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
+| 16 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 17 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 20 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 21 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
+| 22 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 23 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Buczek](http://twitter.com/search?q=Buczek) | N/A |
+| 26 | [Miliard](http://twitter.com/search?q=Miliard) | N/A |
+| 27 | [Kostka](http://twitter.com/search?q=Kostka) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 30 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 31 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 32 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 33 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 34 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 35 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 36 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
+| 37 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 38 | [Felixa](http://twitter.com/search?q=Felixa) | N/A |
+| 39 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 40 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 41 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
+| 42 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 43 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 44 | [Krym](http://twitter.com/search?q=Krym) | N/A |
+| 45 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 46 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 47 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 48 | [franek](http://twitter.com/search?q=franek) | N/A |
+| 49 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 50 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 
 
 

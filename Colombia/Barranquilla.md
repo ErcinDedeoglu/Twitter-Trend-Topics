@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-11 15:16:24 UTC`
+📆 Last Updated: `2023-03-11 16:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 2 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 3 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 6 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
-| 7 | [#NoSeMeOlvida](http://twitter.com/search?q=%23NoSeMeOlvida) | N/A |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 10 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 2 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 3 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 4 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 5 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [#ElMilagroBukele](http://twitter.com/search?q=%23ElMilagroBukele) | N/A |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [#TodoBienEnCasa](http://twitter.com/search?q=%23TodoBienEnCasa) | N/A |
-| 13 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 14 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 15 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 16 | [#HaceFalta](http://twitter.com/search?q=%23HaceFalta) | N/A |
-| 17 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 18 | [7 al United](http://twitter.com/search?q=7+al+United) | N/A |
-| 19 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [Tadej Pogacar](http://twitter.com/search?q=Tadej+Pogacar) | N/A |
-| 22 | [narcolas](http://twitter.com/search?q=narcolas) | N/A |
-| 23 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 27 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 28 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 29 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 30 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 31 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
-| 32 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 33 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
-| 34 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 35 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 36 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
-| 37 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 38 | [Los Santos](http://twitter.com/search?q=Los+Santos) | N/A |
-| 39 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 40 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 41 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 42 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 43 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 44 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 45 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 46 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 47 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 48 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 49 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 50 | [también caerás](http://twitter.com/search?q=tambi%c3%a9n+caer%c3%a1s) | N/A |
+| 12 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 13 | [#NoSeMeOlvida](http://twitter.com/search?q=%23NoSeMeOlvida) | N/A |
+| 14 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
+| 15 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
+| 16 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 18 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 19 | [#bravissimo2023](http://twitter.com/search?q=%23bravissimo2023) | N/A |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 21 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 24 | [Deportada](http://twitter.com/search?q=Deportada) | N/A |
+| 25 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
+| 26 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 28 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 29 | [Bobolivar](http://twitter.com/search?q=Bobolivar) | N/A |
+| 30 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 31 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 32 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 33 | [Jorge Barón](http://twitter.com/search?q=Jorge+Bar%c3%b3n) | N/A |
+| 34 | [Guaidó](http://twitter.com/search?q=Guaid%c3%b3) | N/A |
+| 35 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
+| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 37 | [Nicolasito](http://twitter.com/search?q=Nicolasito) | N/A |
+| 38 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 39 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 40 | [Mancuso](http://twitter.com/search?q=Mancuso) | N/A |
+| 41 | [Buen Pastor](http://twitter.com/search?q=Buen+Pastor) | N/A |
+| 42 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 43 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 44 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 45 | [Lomotil](http://twitter.com/search?q=Lomotil) | N/A |
+| 46 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 47 | [Tadej Pogacar](http://twitter.com/search?q=Tadej+Pogacar) | N/A |
+| 48 | [Popeye](http://twitter.com/search?q=Popeye) | N/A |
+| 49 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 50 | [EXTRADITADA](http://twitter.com/search?q=EXTRADITADA) | N/A |
 
 
 

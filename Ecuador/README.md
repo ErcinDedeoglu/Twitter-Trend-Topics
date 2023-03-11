@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-11 15:17:04 UTC`
+📆 Last Updated: `2023-03-11 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
-| 3 | [miller bolaños](http://twitter.com/search?q=miller+bola%c3%b1os) | N/A |
-| 4 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 1 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 4 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 5 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
 | 6 | [Freddy Carrión](http://twitter.com/search?q=Freddy+Carri%c3%b3n) | N/A |
-| 7 | [Cuco](http://twitter.com/search?q=Cuco) | N/A |
-| 8 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
-| 9 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 10 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
-| 11 | [Consejo de la Judicatura](http://twitter.com/search?q=Consejo+de+la+Judicatura) | N/A |
+| 7 | [Fecha 3](http://twitter.com/search?q=Fecha+3) | N/A |
+| 8 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
+| 9 | [Monjas](http://twitter.com/search?q=Monjas) | N/A |
+| 10 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 11 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 12 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 13 | [Monjas](http://twitter.com/search?q=Monjas) | N/A |
-| 14 | [#EcuadorEsDemocracia](http://twitter.com/search?q=%23EcuadorEsDemocracia) | N/A |
-| 15 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
-| 16 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
-| 17 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
-| 18 | [Directv](http://twitter.com/search?q=Directv) | N/A |
-| 19 | [#76AñosFunciónElectoral](http://twitter.com/search?q=%2376A%c3%b1osFunci%c3%b3nElectoral) | N/A |
-| 20 | [#Yaku](http://twitter.com/search?q=%23Yaku) | N/A |
-| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 22 | [#NocheAzulgrana](http://twitter.com/search?q=%23NocheAzulgrana) | N/A |
-| 23 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 24 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
-| 25 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 26 | [Ulloa](http://twitter.com/search?q=Ulloa) | N/A |
-| 27 | [Romario](http://twitter.com/search?q=Romario) | N/A |
-| 28 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 31 | [tribunal supremo electoral](http://twitter.com/search?q=tribunal+supremo+electoral) | N/A |
-| 32 | [priscila](http://twitter.com/search?q=priscila) | N/A |
-| 33 | [Loor](http://twitter.com/search?q=Loor) | N/A |
-| 34 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 35 | [qué tan mañoso eres](http://twitter.com/search?q=qu%c3%a9+tan+ma%c3%b1oso+eres) | N/A |
-| 36 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
-| 37 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 38 | [Liga Top](http://twitter.com/search?q=Liga+Top) | N/A |
-| 39 | [ÚLTIMA HORA](http://twitter.com/search?q=%c3%9aLTIMA+HORA) | N/A |
-| 40 | [Restrepo](http://twitter.com/search?q=Restrepo) | N/A |
-| 41 | [alberti](http://twitter.com/search?q=alberti) | N/A |
-| 42 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 43 | [Sesión Solemne](http://twitter.com/search?q=Sesi%c3%b3n+Solemne) | N/A |
-| 44 | [Payaso](http://twitter.com/search?q=Payaso) | N/A |
-| 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 46 | [Miravalle](http://twitter.com/search?q=Miravalle) | N/A |
-| 47 | [Brasil y Argentina](http://twitter.com/search?q=Brasil+y+Argentina) | N/A |
-| 48 | [tomebamba](http://twitter.com/search?q=tomebamba) | N/A |
-| 49 | [marco tamayo](http://twitter.com/search?q=marco+tamayo) | N/A |
-| 50 | [Selecciones](http://twitter.com/search?q=Selecciones) | N/A |
+| 13 | [Judicatura](http://twitter.com/search?q=Judicatura) | N/A |
+| 14 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
+| 15 | [loor](http://twitter.com/search?q=loor) | N/A |
+| 16 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 17 | [#ecuadoresdemocracia](http://twitter.com/search?q=%23ecuadoresdemocracia) | N/A |
+| 18 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
+| 19 | [Directv](http://twitter.com/search?q=Directv) | N/A |
+| 20 | [#76AñosFunciónElectoral](http://twitter.com/search?q=%2376A%c3%b1osFunci%c3%b3nElectoral) | N/A |
+| 21 | [Montalvo](http://twitter.com/search?q=Montalvo) | N/A |
+| 22 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 23 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 24 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 25 | [Gualaceo](http://twitter.com/search?q=Gualaceo) | N/A |
+| 26 | [#NocheAzulgrana](http://twitter.com/search?q=%23NocheAzulgrana) | N/A |
+| 27 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 28 | [Ulloa](http://twitter.com/search?q=Ulloa) | N/A |
+| 29 | [Miserables](http://twitter.com/search?q=Miserables) | N/A |
+| 30 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 31 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
+| 32 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 33 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
+| 34 | [Liga Top](http://twitter.com/search?q=Liga+Top) | N/A |
+| 35 | [Acaso](http://twitter.com/search?q=Acaso) | N/A |
+| 36 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
+| 37 | [Brasil y Argentina](http://twitter.com/search?q=Brasil+y+Argentina) | N/A |
+| 38 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 39 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 40 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 41 | [Ratas](http://twitter.com/search?q=Ratas) | N/A |
+| 42 | [Valen](http://twitter.com/search?q=Valen) | N/A |
+| 43 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 44 | [Policia](http://twitter.com/search?q=Policia) | N/A |
+| 45 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 46 | [Depende](http://twitter.com/search?q=Depende) | N/A |
+| 47 | [qué tan mañoso eres](http://twitter.com/search?q=qu%c3%a9+tan+ma%c3%b1oso+eres) | N/A |
+| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 49 | [Viva](http://twitter.com/search?q=Viva) | N/A |
+| 50 | [juan macías](http://twitter.com/search?q=juan+mac%c3%adas) | N/A |
 
 
 

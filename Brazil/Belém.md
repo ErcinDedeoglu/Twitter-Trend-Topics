@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-11 15:16:25 UTC`
+📆 Last Updated: `2023-03-11 16:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 2 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 5 | [O Liverpool](http://twitter.com/search?q=O+Liverpool) | N/A |
-| 6 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 7 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 8 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
-| 9 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 10 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 11 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 12 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 13 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 14 | [Paulo Ricardo](http://twitter.com/search?q=Paulo+Ricardo) | Paulo Ricardo is a Portuguese name. It is composed of two parts: Paulo, which is a common given name in Portuguese, and Ricardo, which is derived from the Latin name Ricardus, meaning “brave ruler”. In English, the name Paulo Ricardo can be translated to mean “brave ruler Paul”. |
-| 15 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
-| 16 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 17 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 18 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 19 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 20 | [#ESPNnoStarPlus](http://twitter.com/search?q=%23ESPNnoStarPlus) | N/A |
-| 21 | [Empoderamento](http://twitter.com/search?q=Empoderamento) | N/A |
-| 22 | [Vinicius Jr](http://twitter.com/search?q=Vinicius+Jr) | N/A |
-| 23 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Vinicius Júnior](http://twitter.com/search?q=Vinicius+J%c3%banior) | N/A |
-| 26 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 27 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 28 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 29 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
-| 30 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 31 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 32 | [950 A MAIS](http://twitter.com/search?q=950+A+MAIS) | N/A |
-| 33 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
-| 34 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 35 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 36 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 37 | [SANTA CRUZ FUTEBOL CLUBE](http://twitter.com/search?q=SANTA+CRUZ+FUTEBOL+CLUBE) | N/A |
-| 38 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 39 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 40 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 41 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 42 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 43 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 44 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 45 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 46 | [The 100](http://twitter.com/search?q=The+100) | N/A |
-| 47 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 48 | [Flowers](http://twitter.com/search?q=Flowers) | N/A |
-| 49 | [bakugou](http://twitter.com/search?q=bakugou) | N/A |
-| 50 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 2 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 3 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 4 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 7 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [Black e Larissa](http://twitter.com/search?q=Black+e+Larissa) | N/A |
+| 12 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 13 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 15 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 16 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 17 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 18 | [O Liverpool](http://twitter.com/search?q=O+Liverpool) | N/A |
+| 19 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 20 | [#laliganaespn](http://twitter.com/search?q=%23laliganaespn) | N/A |
+| 21 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 22 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
+| 23 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
+| 24 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 25 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 26 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 27 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
+| 28 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 29 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 32 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 33 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 34 | [Boku no Hero](http://twitter.com/search?q=Boku+no+Hero) | N/A |
+| 35 | [PC Siqueira](http://twitter.com/search?q=PC+Siqueira) | N/A |
+| 36 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 37 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 38 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 39 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 40 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 41 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 42 | [Paulo Ricardo](http://twitter.com/search?q=Paulo+Ricardo) | Paulo Ricardo is a Portuguese name. It is composed of two parts: Paulo, which is a common given name in Portuguese, and Ricardo, which is derived from the Latin name Ricardus, meaning “brave ruler”. In English, the name Paulo Ricardo can be translated to mean “brave ruler Paul”. |
+| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 44 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 45 | [Vinicius Júnior](http://twitter.com/search?q=Vinicius+J%c3%banior) | N/A |
+| 46 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 47 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 48 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
 
 
 

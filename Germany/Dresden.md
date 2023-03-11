@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-11 15:16:30 UTC`
+📆 Last Updated: `2023-03-11 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 2 | [#BSCM05](http://twitter.com/search?q=%23BSCM05) | N/A |
-| 3 | [#DSCSVD](http://twitter.com/search?q=%23DSCSVD) | N/A |
-| 4 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
-| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 11 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 12 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 13 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
-| 14 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 15 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 16 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 17 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 20 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 21 | [Berisha](http://twitter.com/search?q=Berisha) | N/A |
-| 22 | [Arminia](http://twitter.com/search?q=Arminia) | N/A |
-| 23 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 24 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 25 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
-| 26 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
-| 27 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 28 | [Perea](http://twitter.com/search?q=Perea) | N/A |
-| 29 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 30 | ['zeit'](http://twitter.com/search?q=%27zeit%27) | N/A |
-| 31 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 32 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
-| 33 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 34 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 35 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 37 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 38 | [Meppen](http://twitter.com/search?q=Meppen) | N/A |
-| 39 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 40 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 42 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 43 | [Wie Lula die Bundesregierung](http://twitter.com/search?q=Wie+Lula+die+Bundesregierung) | N/A |
-| 44 | [christen](http://twitter.com/search?q=christen) | N/A |
-| 45 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 46 | [Handtuchhalter](http://twitter.com/search?q=Handtuchhalter) | N/A |
-| 47 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 48 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 49 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
+| 3 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
+| 4 | [#BSCM05](http://twitter.com/search?q=%23BSCM05) | N/A |
+| 5 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 6 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 7 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 8 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 11 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 12 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 13 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 14 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 15 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
+| 16 | [Darmstadt](http://twitter.com/search?q=Darmstadt) | N/A |
+| 17 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 18 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 19 | [Überschrift](http://twitter.com/search?q=%c3%9cberschrift) | N/A |
+| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 21 | [Bielefeld](http://twitter.com/search?q=Bielefeld) | N/A |
+| 22 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 23 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 24 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 25 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 26 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 27 | [Reifen](http://twitter.com/search?q=Reifen) | N/A |
+| 28 | [Schusswaffen](http://twitter.com/search?q=Schusswaffen) | N/A |
+| 29 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 30 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 31 | [Reiche](http://twitter.com/search?q=Reiche) | N/A |
+| 32 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 33 | [#DSCSVD](http://twitter.com/search?q=%23DSCSVD) | N/A |
+| 34 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 35 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 36 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 37 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 38 | [#fcspsgf](http://twitter.com/search?q=%23fcspsgf) | N/A |
+| 39 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 40 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
+| 41 | [#MSVM60](http://twitter.com/search?q=%23MSVM60) | N/A |
+| 42 | [#packmas](http://twitter.com/search?q=%23packmas) | N/A |
+| 43 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
+| 44 | [#AUERWE](http://twitter.com/search?q=%23AUERWE) | N/A |
+| 45 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
+| 46 | [#FCMSCP](http://twitter.com/search?q=%23FCMSCP) | N/A |
+| 47 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 48 | [#Fukushima](http://twitter.com/search?q=%23Fukushima) | N/A |
+| 49 | [#Derby](http://twitter.com/search?q=%23Derby) | N/A |
 
 
 

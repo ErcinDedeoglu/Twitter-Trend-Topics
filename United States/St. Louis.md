@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-11 15:17:01 UTC`
+📆 Last Updated: `2023-03-11 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 2 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 3 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 4 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 3 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 11 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 12 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 13 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 14 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 15 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 17 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 18 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 19 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 22 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 23 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 24 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 25 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 26 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 27 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
-| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 29 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 30 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 31 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 32 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 33 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
-| 34 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 35 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 36 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 37 | [Nomar](http://twitter.com/search?q=Nomar) | N/A |
-| 38 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 39 | [Adele Givens](http://twitter.com/search?q=Adele+Givens) | N/A |
-| 40 | [Silicon Valley](http://twitter.com/search?q=Silicon+Valley) | N/A |
-| 41 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 42 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 43 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
-| 44 | [Darth](http://twitter.com/search?q=Darth) | N/A |
+| 7 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 8 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 12 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 14 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 15 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 16 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 17 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 22 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
+| 23 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 24 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 25 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 26 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 27 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 28 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 29 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 30 | [Daka](http://twitter.com/search?q=Daka) | N/A |
+| 31 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 32 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 33 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 34 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 36 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 37 | [Daylight Saving Time](http://twitter.com/search?q=Daylight+Saving+Time) | N/A |
+| 38 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 39 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 40 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
+| 41 | [Nomar](http://twitter.com/search?q=Nomar) | N/A |
+| 42 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 43 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 44 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 
 
 
