@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-11 12:17:02 UTC`
+📆 Last Updated: `2023-03-11 13:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 2 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 3 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 1 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 2 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 3 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
 | 4 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 5 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 6 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
+| 5 | [11-M](http://twitter.com/search?q=11-M) | N/A |
+| 6 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
 | 7 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 8 | [11-M](http://twitter.com/search?q=11-M) | N/A |
-| 9 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 8 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 9 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
 | 10 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 13 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
-| 14 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 11 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 15 | [#WCTorre](http://twitter.com/search?q=%23WCTorre) | N/A |
-| 16 | [#N1CanalFiesta10](http://twitter.com/search?q=%23N1CanalFiesta10) | N/A |
-| 17 | [#RealMadridEspanyol](http://twitter.com/search?q=%23RealMadridEspanyol) | N/A |
-| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 19 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
-| 20 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 21 | [Enredados](http://twitter.com/search?q=Enredados) | N/A |
-| 22 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 24 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 25 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 26 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 27 | [Víctimas del Terrorismo](http://twitter.com/search?q=V%c3%adctimas+del+Terrorismo) | N/A |
-| 28 | [Garona](http://twitter.com/search?q=Garona) | N/A |
-| 29 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 30 | [Tito Floren](http://twitter.com/search?q=Tito+Floren) | N/A |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 33 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 34 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 35 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 36 | [Paqui](http://twitter.com/search?q=Paqui) | N/A |
-| 37 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 38 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
-| 39 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 40 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 41 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 42 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 43 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 44 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 45 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 46 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 47 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 48 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 49 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 50 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 16 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 17 | [#ENAEDM23](http://twitter.com/search?q=%23ENAEDM23) | N/A |
+| 18 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
+| 19 | [#DefiendeLoQuePiensas](http://twitter.com/search?q=%23DefiendeLoQuePiensas) | N/A |
+| 20 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 21 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 22 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 23 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 24 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 25 | [Enredados](http://twitter.com/search?q=Enredados) | N/A |
+| 26 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 27 | [víctimas del terrorismo](http://twitter.com/search?q=v%c3%adctimas+del+terrorismo) | N/A |
+| 28 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 29 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 30 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 31 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 32 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 33 | [Azores](http://twitter.com/search?q=Azores) | N/A |
+| 34 | [Tito Floren](http://twitter.com/search?q=Tito+Floren) | N/A |
+| 35 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 36 | [Barçagate](http://twitter.com/search?q=Bar%c3%a7agate) | N/A |
+| 37 | [Errejon](http://twitter.com/search?q=Errejon) | N/A |
+| 38 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 39 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 40 | [Gorda](http://twitter.com/search?q=Gorda) | N/A |
+| 41 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
+| 42 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 43 | [Garona](http://twitter.com/search?q=Garona) | N/A |
+| 44 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 45 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 46 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 47 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 48 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-11 12:17:00 UTC`
+📆 Last Updated: `2023-03-11 13:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
 | 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
 | 3 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 4 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 5 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 6 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 8 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 4 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 7 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 8 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 9 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 10 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 11 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 10 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 12 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
-| 16 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 17 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 18 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 19 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 15 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
+| 16 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 17 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
+| 18 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
 | 20 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 21 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 22 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 23 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 24 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 25 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 27 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 29 | [Forza Carolyn](http://twitter.com/search?q=Forza+Carolyn) | N/A |
-| 30 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 31 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 32 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 33 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 34 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
-| 35 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 36 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 37 | [Zingari](http://twitter.com/search?q=Zingari) | N/A |
-| 38 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 39 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
-| 40 | [Mazzarri](http://twitter.com/search?q=Mazzarri) | N/A |
-| 41 | [atac](http://twitter.com/search?q=atac) | N/A |
-| 42 | [Ausilio](http://twitter.com/search?q=Ausilio) | N/A |
-| 43 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
-| 44 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
-| 47 | [luis enrique](http://twitter.com/search?q=luis+enrique) | N/A |
-| 48 | [Abbatte](http://twitter.com/search?q=Abbatte) | N/A |
+| 21 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 22 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 24 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 25 | [Abbatte](http://twitter.com/search?q=Abbatte) | N/A |
+| 26 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
+| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 28 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 29 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 30 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 31 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 32 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 33 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 34 | [Chivu](http://twitter.com/search?q=Chivu) | N/A |
+| 35 | [Il 23](http://twitter.com/search?q=Il+23) | N/A |
+| 36 | [Atac](http://twitter.com/search?q=Atac) | N/A |
+| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 38 | [Forza Carolyn](http://twitter.com/search?q=Forza+Carolyn) | N/A |
+| 39 | [Libero](http://twitter.com/search?q=Libero) | N/A |
+| 40 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 41 | [Ausilio](http://twitter.com/search?q=Ausilio) | N/A |
+| 42 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 43 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 44 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 45 | [Zingari](http://twitter.com/search?q=Zingari) | N/A |
+| 46 | [Fabiana](http://twitter.com/search?q=Fabiana) | N/A |
+| 47 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 48 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 49 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 50 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
 
 
 

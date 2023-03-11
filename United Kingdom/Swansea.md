@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-11 12:16:47 UTC`
+📆 Last Updated: `2023-03-11 13:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 2 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 5 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 6 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
-| 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 8 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
-| 9 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 10 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
-| 11 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 12 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 13 | [Dion](http://twitter.com/search?q=Dion) | N/A |
-| 14 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
-| 15 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
-| 16 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 17 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 18 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 19 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 20 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 21 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 22 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 23 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 24 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 25 | [fern](http://twitter.com/search?q=fern) | N/A |
-| 26 | [5live](http://twitter.com/search?q=5live) | N/A |
-| 27 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 28 | [Mols](http://twitter.com/search?q=Mols) | N/A |
-| 29 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 30 | [Bristol Rovers](http://twitter.com/search?q=Bristol+Rovers) | N/A |
-| 31 | [Bournemouth vs Liverpool](http://twitter.com/search?q=Bournemouth+vs+Liverpool) | N/A |
-| 32 | [Joey Barton](http://twitter.com/search?q=Joey+Barton) | N/A |
-| 33 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
-| 34 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 35 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
-| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 37 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 38 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 39 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
-| 40 | [Welsh Labour](http://twitter.com/search?q=Welsh+Labour) | N/A |
-| 41 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 42 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 43 | [Crafty](http://twitter.com/search?q=Crafty) | N/A |
-| 44 | [Toby Young](http://twitter.com/search?q=Toby+Young) | N/A |
-| 45 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
-| 46 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
-| 47 | [Batley](http://twitter.com/search?q=Batley) | N/A |
-| 48 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 49 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 1 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 2 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 3 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 4 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
+| 5 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
+| 6 | [Billing](http://twitter.com/search?q=Billing) | N/A |
+| 7 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 8 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 9 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 10 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 14 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 15 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 17 | [Joe hart](http://twitter.com/search?q=Joe+hart) | N/A |
+| 18 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
+| 19 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
+| 20 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 21 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
+| 22 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 23 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
+| 24 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
+| 25 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 26 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 27 | [5live](http://twitter.com/search?q=5live) | N/A |
+| 28 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 29 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 30 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 31 | [Fern](http://twitter.com/search?q=Fern) | N/A |
+| 32 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 33 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
+| 34 | [game off](http://twitter.com/search?q=game+off) | N/A |
+| 35 | [Homes](http://twitter.com/search?q=Homes) | N/A |
+| 36 | [Bournemouth vs Liverpool](http://twitter.com/search?q=Bournemouth+vs+Liverpool) | N/A |
+| 37 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
+| 38 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 39 | [Mols](http://twitter.com/search?q=Mols) | N/A |
+| 40 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 41 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 42 | [Joey Barton](http://twitter.com/search?q=Joey+Barton) | N/A |
+| 43 | [Tory Common Sense Group](http://twitter.com/search?q=Tory+Common+Sense+Group) | N/A |
+| 44 | [Katie Hopkins](http://twitter.com/search?q=Katie+Hopkins) | N/A |
+| 45 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 46 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 47 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 49 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 
 
 

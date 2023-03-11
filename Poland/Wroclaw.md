@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-11 12:16:56 UTC`
+📆 Last Updated: `2023-03-11 13:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
 | 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 5 | [#pogrom](http://twitter.com/search?q=%23pogrom) | N/A |
-| 6 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
-| 7 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 8 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
-| 9 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
-| 10 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 11 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 12 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 13 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 14 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
-| 15 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 16 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 17 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 18 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 19 | [jan paweł ii](http://twitter.com/search?q=jan+pawe%c5%82+ii) | N/A |
-| 20 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 21 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
-| 22 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 25 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 26 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
-| 27 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
-| 28 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
-| 29 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 30 | [Wojtyłę](http://twitter.com/search?q=Wojty%c5%82%c4%99) | N/A |
-| 31 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 3 | [Jaśle](http://twitter.com/search?q=Ja%c5%9ble) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 6 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
+| 7 | [#PrzyszłośćToPolska](http://twitter.com/search?q=%23Przysz%c5%82o%c5%9b%c4%87ToPolska) | N/A |
+| 8 | [#lpodif](http://twitter.com/search?q=%23lpodif) | N/A |
+| 9 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
+| 10 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 12 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 13 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 14 | [Morawieckiego](http://twitter.com/search?q=Morawieckiego) | N/A |
+| 15 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 16 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 17 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
+| 18 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 19 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 20 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 21 | [dnia mężczyzn](http://twitter.com/search?q=dnia+m%c4%99%c5%bcczyzn) | N/A |
+| 22 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 23 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [garaż](http://twitter.com/search?q=gara%c5%bc) | N/A |
+| 26 | [Polakami](http://twitter.com/search?q=Polakami) | N/A |
+| 27 | [Antonin Hajek](http://twitter.com/search?q=Antonin+Hajek) | N/A |
+| 28 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 29 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 30 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 31 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
 | 32 | [dnia sołtysa](http://twitter.com/search?q=dnia+so%c5%82tysa) | N/A |
-| 33 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 34 | [Ciekawa](http://twitter.com/search?q=Ciekawa) | N/A |
-| 35 | [Pieszy](http://twitter.com/search?q=Pieszy) | N/A |
-| 36 | [Cela](http://twitter.com/search?q=Cela) | N/A |
-| 37 | [Garaż](http://twitter.com/search?q=Gara%c5%bc) | N/A |
-| 38 | [Antek](http://twitter.com/search?q=Antek) | N/A |
-| 39 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
-| 40 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 41 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
-| 42 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 43 | [Masakra](http://twitter.com/search?q=Masakra) | N/A |
-| 44 | [Anka](http://twitter.com/search?q=Anka) | N/A |
-| 45 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 46 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
-| 47 | [Watykanu](http://twitter.com/search?q=Watykanu) | N/A |
-| 48 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 49 | [krym](http://twitter.com/search?q=krym) | N/A |
-| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 33 | [Adam Bielan](http://twitter.com/search?q=Adam+Bielan) | N/A |
+| 34 | [chojnicach](http://twitter.com/search?q=chojnicach) | N/A |
+| 35 | [mObywatel](http://twitter.com/search?q=mObywatel) | N/A |
+| 36 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
+| 37 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 38 | [drodzy panowie](http://twitter.com/search?q=drodzy+panowie) | N/A |
+| 39 | [Watykanu](http://twitter.com/search?q=Watykanu) | N/A |
+| 40 | [Pieszy](http://twitter.com/search?q=Pieszy) | N/A |
+| 41 | [Poznaniu](http://twitter.com/search?q=Poznaniu) | N/A |
+| 42 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 43 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 44 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 45 | [Norbi](http://twitter.com/search?q=Norbi) | N/A |
+| 46 | [Norwegowie](http://twitter.com/search?q=Norwegowie) | N/A |
+| 47 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 48 | [Program](http://twitter.com/search?q=Program) | N/A |
+| 49 | [wojewódzki](http://twitter.com/search?q=wojew%c3%b3dzki) | N/A |
+| 50 | [Polaków](http://twitter.com/search?q=Polak%c3%b3w) | N/A |
 
 
 

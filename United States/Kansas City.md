@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-11 12:17:26 UTC`
+📆 Last Updated: `2023-03-11 13:19:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 2 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 3 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 4 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 6 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
-| 7 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 2 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 3 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 4 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
+| 5 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 6 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 7 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 8 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 10 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 11 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 12 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 13 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 14 | [#bkdkapology](http://twitter.com/search?q=%23bkdkapology) | N/A |
-| 15 | [#MCRAUCKLAND](http://twitter.com/search?q=%23MCRAUCKLAND) | N/A |
-| 16 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 12 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 16 | [#MyPLMorning](http://twitter.com/search?q=%23MyPLMorning) | N/A |
 | 17 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 18 | [Roki Sasaki](http://twitter.com/search?q=Roki+Sasaki) | N/A |
-| 19 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 20 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 21 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 22 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 23 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 24 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 25 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 26 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 27 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 28 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 29 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 30 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 31 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
-| 32 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 33 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 34 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 35 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 18 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
+| 19 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 20 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 21 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 22 | [Roki Sasaki](http://twitter.com/search?q=Roki+Sasaki) | N/A |
+| 23 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 24 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 25 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 26 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 27 | [Stable](http://twitter.com/search?q=Stable) | N/A |
+| 28 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 29 | [Tether](http://twitter.com/search?q=Tether) | N/A |
+| 30 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
+| 31 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 32 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 33 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 34 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 | 36 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 37 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 38 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 39 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 40 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 37 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 38 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 39 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 40 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
 | 41 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 42 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 43 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 44 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 42 | [Sisqo](http://twitter.com/search?q=Sisqo) | N/A |
+| 43 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 44 | [D LO](http://twitter.com/search?q=D+LO) | N/A |
 | 45 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 46 | [rob pelinka](http://twitter.com/search?q=rob+pelinka) | N/A |
-| 47 | [Scream VI](http://twitter.com/search?q=Scream+VI) | N/A |
-| 48 | [Root of Nightmares](http://twitter.com/search?q=Root+of+Nightmares) | N/A |
-| 49 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 50 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 46 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 47 | [Masks](http://twitter.com/search?q=Masks) | N/A |
+| 48 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 49 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 50 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 
 
 

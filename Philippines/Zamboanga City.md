@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-11 12:17:12 UTC`
+📆 Last Updated: `2023-03-11 13:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GalingNgBiogesic](http://twitter.com/search?q=%23GalingNgBiogesic) | N/A |
-| 2 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 3 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 4 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 5 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
-| 6 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
-| 7 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
-| 8 | [ZACHAM BARKADAHAN ePIEsode6](http://twitter.com/search?q=ZACHAM+BARKADAHAN+ePIEsode6) | N/A |
-| 9 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 10 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 12 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
-| 13 | [TCOBack ANG ROBXINE](http://twitter.com/search?q=TCOBack+ANG+ROBXINE) | N/A |
-| 14 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 15 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 16 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 17 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 18 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 19 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 20 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 21 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 22 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 23 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 24 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 29 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 30 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 31 | [#30MLikesonTiktokSB19](http://twitter.com/search?q=%2330MLikesonTiktokSB19) | N/A |
-| 32 | [#KDLexForPEPHeadliner](http://twitter.com/search?q=%23KDLexForPEPHeadliner) | N/A |
-| 33 | [#DavidLicaucoInAlaminos](http://twitter.com/search?q=%23DavidLicaucoInAlaminos) | N/A |
-| 34 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
-| 35 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 36 | [#PPOPCOM2023](http://twitter.com/search?q=%23PPOPCOM2023) | N/A |
-| 37 | [#DADDYSGURLMrsStacy](http://twitter.com/search?q=%23DADDYSGURLMrsStacy) | N/A |
-| 38 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 39 | [#SVTinCARATLAND](http://twitter.com/search?q=%23SVTinCARATLAND) | N/A |
-| 40 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 41 | [#ppoprise](http://twitter.com/search?q=%23ppoprise) | N/A |
-| 42 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
-| 43 | [#TheWriteOneExclusiveScreening](http://twitter.com/search?q=%23TheWriteOneExclusiveScreening) | N/A |
+| 1 | [#HORI7ON_1stIGLive](http://twitter.com/search?q=%23HORI7ON_1stIGLive) | N/A |
+| 2 | [#AskHORI7ON](http://twitter.com/search?q=%23AskHORI7ON) | N/A |
+| 3 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
+| 4 | [#GalingNgBiogesic](http://twitter.com/search?q=%23GalingNgBiogesic) | N/A |
+| 5 | [SMILE FLOWER](http://twitter.com/search?q=SMILE+FLOWER) | N/A |
+| 6 | [BLYTHE TURNS TWENTY](http://twitter.com/search?q=BLYTHE+TURNS+TWENTY) | N/A |
+| 7 | [Aju Nice](http://twitter.com/search?q=Aju+Nice) | N/A |
+| 8 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
+| 9 | [ZACHAM BARKADAHAN ePIEsode6](http://twitter.com/search?q=ZACHAM+BARKADAHAN+ePIEsode6) | N/A |
+| 10 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 12 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
+| 13 | [Cignal](http://twitter.com/search?q=Cignal) | N/A |
+| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 15 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 16 | [TCOBack ANG ROBXINE](http://twitter.com/search?q=TCOBack+ANG+ROBXINE) | N/A |
+| 17 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 18 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 19 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 20 | [JOIN PPOPCOM 2023](http://twitter.com/search?q=JOIN+PPOPCOM+2023) | N/A |
+| 21 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 22 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
+| 23 | [JOSHUA HONG](http://twitter.com/search?q=JOSHUA+HONG) | N/A |
+| 24 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
+| 25 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 26 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 27 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 28 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 29 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 30 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 31 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 32 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 33 | [#TeenClashCanSeeYourVoice](http://twitter.com/search?q=%23TeenClashCanSeeYourVoice) | N/A |
+| 34 | [#ShootingStarinSingapore](http://twitter.com/search?q=%23ShootingStarinSingapore) | N/A |
+| 35 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
+| 36 | [#DADDYSGURLMrsStacy](http://twitter.com/search?q=%23DADDYSGURLMrsStacy) | N/A |
+| 37 | [#30MLikesonTiktokSB19](http://twitter.com/search?q=%2330MLikesonTiktokSB19) | N/A |
+| 38 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
+| 39 | [#DavidLicaucoInAlaminos](http://twitter.com/search?q=%23DavidLicaucoInAlaminos) | N/A |
+| 40 | [#SVTinCARATLAND](http://twitter.com/search?q=%23SVTinCARATLAND) | N/A |
+| 41 | [#MIQPH2023](http://twitter.com/search?q=%23MIQPH2023) | N/A |
+| 42 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 43 | [#KAIAforPARCINQ](http://twitter.com/search?q=%23KAIAforPARCINQ) | N/A |
 | 44 | [#TheCoolGirlsIssue](http://twitter.com/search?q=%23TheCoolGirlsIssue) | N/A |
-| 45 | [#KAIAforPARCINQ](http://twitter.com/search?q=%23KAIAforPARCINQ) | N/A |
-| 46 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
-| 47 | [#LeeJaeWookFIRSTinMNL](http://twitter.com/search?q=%23LeeJaeWookFIRSTinMNL) | N/A |
-| 48 | [#MCGIJoyfulHearts](http://twitter.com/search?q=%23MCGIJoyfulHearts) | N/A |
-| 49 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 45 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
+| 46 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 47 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 48 | [#KDLexForPEPHeadliner](http://twitter.com/search?q=%23KDLexForPEPHeadliner) | N/A |
+| 49 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
 
 
 

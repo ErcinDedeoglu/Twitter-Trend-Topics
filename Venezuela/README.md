@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-11 12:17:39 UTC`
+📆 Last Updated: `2023-03-11 13:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#10Mar](http://twitter.com/search?q=%2310Mar) | N/A |
-| 2 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
-| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 4 | [Día del Médico](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico) | N/A |
-| 5 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 7 | [José María Vargas](http://twitter.com/search?q=Jos%c3%a9+Mar%c3%ada+Vargas) | N/A |
-| 8 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 9 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 10 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 11 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 2 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
+| 3 | [#ChávezInmortal](http://twitter.com/search?q=%23Ch%c3%a1vezInmortal) | N/A |
+| 4 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 5 | [Médico](http://twitter.com/search?q=M%c3%a9dico) | N/A |
+| 6 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
+| 7 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 8 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 9 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 10 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 12 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
-| 15 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 16 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 17 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 18 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
-| 19 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
-| 20 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 21 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 22 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 23 | [dt de la vinotinto](http://twitter.com/search?q=dt+de+la+vinotinto) | N/A |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
-| 26 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 27 | [Misión](http://twitter.com/search?q=Misi%c3%b3n) | N/A |
-| 28 | [Mini Lunch](http://twitter.com/search?q=Mini+Lunch) | N/A |
-| 29 | [Pana](http://twitter.com/search?q=Pana) | N/A |
-| 30 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 31 | [Club House](http://twitter.com/search?q=Club+House) | N/A |
-| 32 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
-| 33 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
-| 34 | [Papas Fritas](http://twitter.com/search?q=Papas+Fritas) | N/A |
-| 35 | [Aroldo Betancourt](http://twitter.com/search?q=Aroldo+Betancourt) | N/A |
-| 36 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
-| 37 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
-| 38 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
-| 39 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 40 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 41 | [rocky marciano](http://twitter.com/search?q=rocky+marciano) | N/A |
-| 42 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 43 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 44 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 45 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
-| 46 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 47 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 48 | [Flips](http://twitter.com/search?q=Flips) | N/A |
-| 49 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
-| 50 | [Mujer Venezuela](http://twitter.com/search?q=Mujer+Venezuela) | N/A |
+| 13 | [#9mar](http://twitter.com/search?q=%239mar) | N/A |
+| 14 | [sociedad médica de caracas](http://twitter.com/search?q=sociedad+m%c3%a9dica+de+caracas) | N/A |
+| 15 | [#10demarzo](http://twitter.com/search?q=%2310demarzo) | N/A |
+| 16 | [Jorge Giménez](http://twitter.com/search?q=Jorge+Gim%c3%a9nez) | N/A |
+| 17 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Javier Vidal](http://twitter.com/search?q=Javier+Vidal) | N/A |
+| 20 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 21 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 22 | [Federación Médica Venezolana](http://twitter.com/search?q=Federaci%c3%b3n+M%c3%a9dica+Venezolana) | N/A |
+| 23 | [leandro cufré](http://twitter.com/search?q=leandro+cufr%c3%a9) | N/A |
+| 24 | [universidad de caracas](http://twitter.com/search?q=universidad+de+caracas) | N/A |
+| 25 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 26 | [tini tour en usa y vzla](http://twitter.com/search?q=tini+tour+en+usa+y+vzla) | N/A |
+| 27 | [Rocky Marciano](http://twitter.com/search?q=Rocky+Marciano) | N/A |
+| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 29 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 30 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
+| 31 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 32 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 33 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 34 | [Demi Moore](http://twitter.com/search?q=Demi+Moore) | N/A |
+| 35 | [juan josé landaeta](http://twitter.com/search?q=juan+jos%c3%a9+landaeta) | N/A |
+| 36 | [vicente rosales](http://twitter.com/search?q=vicente+rosales) | N/A |
+| 37 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 38 | [Leonardo Villalobos](http://twitter.com/search?q=Leonardo+Villalobos) | N/A |
+| 39 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 40 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 41 | [Ranger Suárez](http://twitter.com/search?q=Ranger+Su%c3%a1rez) | N/A |
+| 42 | [Testigos de Jehová](http://twitter.com/search?q=Testigos+de+Jehov%c3%a1) | N/A |
+| 43 | [Hamburgo](http://twitter.com/search?q=Hamburgo) | N/A |
+| 44 | [aroldo betancourt](http://twitter.com/search?q=aroldo+betancourt) | N/A |
+| 45 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 46 | [Marketplace](http://twitter.com/search?q=Marketplace) | N/A |
+| 47 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 50 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 
 
 

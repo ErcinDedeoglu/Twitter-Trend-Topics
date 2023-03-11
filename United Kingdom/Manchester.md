@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-11 12:16:46 UTC`
+📆 Last Updated: `2023-03-11 13:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 3 | [Bournemouth vs Liverpool](http://twitter.com/search?q=Bournemouth+vs+Liverpool) | N/A |
-| 4 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 5 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 6 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 7 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
-| 8 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 9 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 10 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 11 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
-| 12 | [Politics](http://twitter.com/search?q=Politics) | N/A |
-| 13 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 14 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 15 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 16 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 17 | [Robbie Gibb](http://twitter.com/search?q=Robbie+Gibb) | N/A |
-| 18 | [Majority](http://twitter.com/search?q=Majority) | N/A |
-| 19 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 20 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
-| 21 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 22 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
-| 23 | [#FuryUsyk](http://twitter.com/search?q=%23FuryUsyk) | N/A |
-| 24 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 25 | [Alastair Campbell](http://twitter.com/search?q=Alastair+Campbell) | N/A |
-| 26 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 27 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
-| 28 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 29 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 31 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
-| 32 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 33 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 34 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
-| 35 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
-| 36 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 37 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 38 | [Dion](http://twitter.com/search?q=Dion) | N/A |
-| 39 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
-| 40 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
-| 41 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 42 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 43 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 44 | [Greg Dyke](http://twitter.com/search?q=Greg+Dyke) | N/A |
-| 45 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 46 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 47 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 48 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 49 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 50 | [fern](http://twitter.com/search?q=fern) | N/A |
+| 1 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 2 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 3 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 4 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 5 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 6 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 7 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
+| 8 | [BBC TV](http://twitter.com/search?q=BBC+TV) | N/A |
+| 9 | [George Orwell](http://twitter.com/search?q=George+Orwell) | N/A |
+| 10 | [#ASCL2023](http://twitter.com/search?q=%23ASCL2023) | N/A |
+| 11 | [Virtue](http://twitter.com/search?q=Virtue) | N/A |
+| 12 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 13 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 14 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 15 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 17 | [Soccer Saturday](http://twitter.com/search?q=Soccer+Saturday) | N/A |
+| 18 | [Alastair Campbell](http://twitter.com/search?q=Alastair+Campbell) | N/A |
+| 19 | [Politics](http://twitter.com/search?q=Politics) | N/A |
+| 20 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 21 | [Germany in the 30s](http://twitter.com/search?q=Germany+in+the+30s) | N/A |
+| 22 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 23 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 24 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 25 | [Robbie Gibb](http://twitter.com/search?q=Robbie+Gibb) | N/A |
+| 26 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 27 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 28 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 29 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 31 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
+| 32 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
+| 33 | [Billing](http://twitter.com/search?q=Billing) | N/A |
+| 34 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 35 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 36 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 37 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 38 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 39 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 40 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 41 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 42 | [Joe hart](http://twitter.com/search?q=Joe+hart) | N/A |
+| 43 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
+| 44 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 45 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
+| 46 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 47 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
+| 48 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
+| 49 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 50 | [Sack](http://twitter.com/search?q=Sack) | N/A |
 
 
 

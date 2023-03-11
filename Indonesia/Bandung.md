@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-03-11 12:17:04 UTC`
+📆 Last Updated: `2023-03-11 13:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 2 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 3 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 4 | [#kayestore](http://twitter.com/search?q=%23kayestore) | N/A |
-| 5 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
-| 6 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
-| 7 | [#JISOOLightsUpJAKARTA](http://twitter.com/search?q=%23JISOOLightsUpJAKARTA) | N/A |
+| 1 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 2 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 3 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 4 | [#PajamaDriveJKT48](http://twitter.com/search?q=%23PajamaDriveJKT48) | N/A |
+| 5 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 6 | [#kayestore](http://twitter.com/search?q=%23kayestore) | N/A |
+| 7 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
 | 8 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
 | 9 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 10 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 11 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 12 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
-| 13 | [ROSÉ MEMUKAU JAKARTA](http://twitter.com/search?q=ROS%c3%89+MEMUKAU+JAKARTA) | N/A |
-| 14 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
-| 15 | [Maknae](http://twitter.com/search?q=Maknae) | N/A |
-| 16 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 17 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
-| 18 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 19 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 20 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 21 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 22 | [Sleman](http://twitter.com/search?q=Sleman) | N/A |
-| 23 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
-| 24 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 25 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 26 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
+| 11 | [ROSÉ MEMUKAU JAKARTA](http://twitter.com/search?q=ROS%c3%89+MEMUKAU+JAKARTA) | N/A |
+| 12 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 13 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
+| 14 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 15 | [Cella](http://twitter.com/search?q=Cella) | N/A |
+| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 17 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
+| 18 | [Kunyit](http://twitter.com/search?q=Kunyit) | N/A |
+| 19 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 20 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 21 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 22 | [Dompet](http://twitter.com/search?q=Dompet) | N/A |
+| 23 | [Maknae](http://twitter.com/search?q=Maknae) | N/A |
+| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 27 | [Dirumah](http://twitter.com/search?q=Dirumah) | N/A |
 | 28 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 29 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 29 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 | 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 31 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 33 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 34 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 35 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 36 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
-| 37 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 38 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 39 | [#VogueTH10thAnniversary](http://twitter.com/search?q=%23VogueTH10thAnniversary) | N/A |
-| 40 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 41 | [#BORNPINKinJKTday1](http://twitter.com/search?q=%23BORNPINKinJKTday1) | N/A |
-| 42 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
-| 43 | [#Newwiee](http://twitter.com/search?q=%23Newwiee) | N/A |
-| 44 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 45 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
-| 46 | [#OhmNanonFMJP2023](http://twitter.com/search?q=%23OhmNanonFMJP2023) | N/A |
-| 47 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 48 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
-| 49 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
-| 50 | [#YSLBeautyxTEN](http://twitter.com/search?q=%23YSLBeautyxTEN) | N/A |
+| 31 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 32 | [GET WELL SOON CHENLE](http://twitter.com/search?q=GET+WELL+SOON+CHENLE) | N/A |
+| 33 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 34 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 35 | [#ShootingStarinSingapore](http://twitter.com/search?q=%23ShootingStarinSingapore) | N/A |
+| 36 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 37 | [#JISOOLightsUpJAKARTA](http://twitter.com/search?q=%23JISOOLightsUpJAKARTA) | N/A |
+| 38 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
+| 39 | [#HKVHWedd](http://twitter.com/search?q=%23HKVHWedd) | N/A |
+| 40 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 41 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
+| 42 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 43 | [#BORNPINKinJKTday1](http://twitter.com/search?q=%23BORNPINKinJKTday1) | N/A |
+| 44 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
+| 45 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 46 | [#VogueTH10thAnniversary](http://twitter.com/search?q=%23VogueTH10thAnniversary) | N/A |
+| 47 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
+| 48 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 49 | [#OhmNanonFMJP2023](http://twitter.com/search?q=%23OhmNanonFMJP2023) | N/A |
+| 50 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-11 12:17:03 UTC`
+📆 Last Updated: `2023-03-11 13:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 3 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 5 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 4 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 6 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 7 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 8 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 9 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 10 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 11 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 13 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 14 | [#digitalenvironment](http://twitter.com/search?q=%23digitalenvironment) | N/A |
-| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 16 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 17 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
-| 18 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 19 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 8 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 9 | [#forward23](http://twitter.com/search?q=%23forward23) | N/A |
+| 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 11 | [#speziainter](http://twitter.com/search?q=%23speziainter) | N/A |
+| 12 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 13 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 15 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 16 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
+| 17 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 18 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 23 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 24 | [analyse](http://twitter.com/search?q=analyse) | N/A |
-| 25 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 26 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 27 | [Erinnert](http://twitter.com/search?q=Erinnert) | N/A |
-| 28 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 29 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 30 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 31 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 32 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 33 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
-| 34 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 35 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 36 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 37 | [Einsicht](http://twitter.com/search?q=Einsicht) | N/A |
-| 38 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 39 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 41 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 42 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 43 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 45 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 46 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 47 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
-| 48 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 49 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 50 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 21 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 22 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 23 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 24 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 25 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 26 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 27 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 28 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 29 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 30 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
+| 31 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 32 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 33 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 34 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 35 | [annual day](http://twitter.com/search?q=annual+day) | N/A |
+| 36 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
+| 37 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 38 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 39 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 40 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 41 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 42 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 43 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 44 | [Desinformation](http://twitter.com/search?q=Desinformation) | N/A |
+| 45 | [Gemeinschaft](http://twitter.com/search?q=Gemeinschaft) | N/A |
+| 46 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 47 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 48 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 49 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-11 12:16:59 UTC`
+📆 Last Updated: `2023-03-11 13:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#KOEBOC](http://twitter.com/search?q=%23KOEBOC) | N/A |
-| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 5 | [#Bhakdi](http://twitter.com/search?q=%23Bhakdi) | N/A |
+| 2 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#fcspsgf](http://twitter.com/search?q=%23fcspsgf) | N/A |
+| 5 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 7 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 8 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 9 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 10 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 12 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
-| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 14 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
-| 15 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 16 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 17 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 18 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
-| 19 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 20 | [Selke](http://twitter.com/search?q=Selke) | N/A |
-| 21 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 22 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 24 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 25 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 26 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 27 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 28 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 29 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 30 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 7 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 8 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 10 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
+| 11 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 12 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 13 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 14 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 15 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 16 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 17 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 18 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 19 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
+| 20 | ['zeit'](http://twitter.com/search?q=%27zeit%27) | N/A |
+| 21 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 22 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
+| 23 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 24 | [Demila](http://twitter.com/search?q=Demila) | N/A |
+| 25 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 26 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 27 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 28 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 29 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 30 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 31 | [Selke](http://twitter.com/search?q=Selke) | N/A |
 | 32 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 33 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 34 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 33 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 34 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 35 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 36 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
-| 37 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 38 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 39 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 40 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
-| 41 | [llambi](http://twitter.com/search?q=llambi) | N/A |
-| 42 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 45 | [naturgesetz](http://twitter.com/search?q=naturgesetz) | N/A |
-| 46 | [Baumgart](http://twitter.com/search?q=Baumgart) | N/A |
-| 47 | [Philipp F.](http://twitter.com/search?q=Philipp+F.) | N/A |
-| 48 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 36 | [philipp f.](http://twitter.com/search?q=philipp+f.) | N/A |
+| 37 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 38 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 39 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 40 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 41 | [Datenschutz](http://twitter.com/search?q=Datenschutz) | N/A |
+| 42 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 43 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 44 | [spiegel](http://twitter.com/search?q=spiegel) | N/A |
+| 45 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
+| 46 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 47 | [Samstagmorgen](http://twitter.com/search?q=Samstagmorgen) | N/A |
+| 48 | [10 Games](http://twitter.com/search?q=10+Games) | N/A |
 
 
 

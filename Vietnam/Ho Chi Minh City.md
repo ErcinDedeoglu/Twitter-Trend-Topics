@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-11 12:17:12 UTC`
+📆 Last Updated: `2023-03-11 13:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
-| 2 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
+| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
+| 4 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
 | 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 6 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 7 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 8 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
-| 9 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 10 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
-| 11 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
-| 12 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 13 | [Build](http://twitter.com/search?q=Build) | N/A |
-| 14 | [$tru](http://twitter.com/search?q=%24tru) | N/A |
-| 15 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 16 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
-| 17 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 18 | [xinh](http://twitter.com/search?q=xinh) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [$LQTY](http://twitter.com/search?q=%24LQTY) | N/A |
-| 21 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 22 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
-| 23 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 24 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 25 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
-| 26 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 27 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 28 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 29 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [Thái Lan](http://twitter.com/search?q=Th%c3%a1i+Lan) | N/A |
-| 34 | [America](http://twitter.com/search?q=America) | N/A |
-| 35 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 37 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 39 | [jubail](http://twitter.com/search?q=jubail) | N/A |
-| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 41 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 42 | [englot](http://twitter.com/search?q=englot) | N/A |
-| 43 | [Da Nang](http://twitter.com/search?q=Da+Nang) | N/A |
-| 44 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 7 | [#CUTIEPIECONCERT](http://twitter.com/search?q=%23CUTIEPIECONCERT) | N/A |
+| 8 | [#ShowmeloveTheseriesEP2](http://twitter.com/search?q=%23ShowmeloveTheseriesEP2) | N/A |
+| 9 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
+| 10 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 11 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 12 | [thỏ bay jaykay](http://twitter.com/search?q=th%e1%bb%8f+bay+jaykay) | N/A |
+| 13 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
+| 14 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 15 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 16 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
+| 17 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 18 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 19 | [$lqty](http://twitter.com/search?q=%24lqty) | N/A |
+| 20 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 21 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
+| 22 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 23 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 24 | [Download CryptoGPT](http://twitter.com/search?q=Download+CryptoGPT) | N/A |
+| 25 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 26 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 27 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 29 | [Tháng 3](http://twitter.com/search?q=Th%c3%a1ng+3) | N/A |
+| 30 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 31 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 32 | [ethw](http://twitter.com/search?q=ethw) | N/A |
+| 33 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 36 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 37 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 38 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 39 | [Huobi](http://twitter.com/search?q=Huobi) | N/A |
+| 40 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 42 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 43 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 44 | [Nghĩ](http://twitter.com/search?q=Ngh%c4%a9) | N/A |
+| 45 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 46 | [Chết](http://twitter.com/search?q=Ch%e1%ba%bft) | N/A |
+| 47 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 48 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 49 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 50 | [Honkai Impact 3](http://twitter.com/search?q=Honkai+Impact+3) | N/A |
 
 
 

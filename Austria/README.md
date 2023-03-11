@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-11 12:17:32 UTC`
+📆 Last Updated: `2023-03-11 13:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 3 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
-| 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 6 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 7 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 8 | [#Oesterreich2030](http://twitter.com/search?q=%23Oesterreich2030) | N/A |
-| 9 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 12 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 13 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 16 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 17 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 18 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 19 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 20 | [Bankomaten](http://twitter.com/search?q=Bankomaten) | N/A |
-| 21 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 22 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
-| 23 | [hanni](http://twitter.com/search?q=hanni) | N/A |
-| 24 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 25 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
-| 26 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
-| 27 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 28 | [Vision](http://twitter.com/search?q=Vision) | N/A |
-| 29 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 32 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 33 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
-| 34 | [Psychopharmaka](http://twitter.com/search?q=Psychopharmaka) | N/A |
-| 35 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 36 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 37 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 38 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 39 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 40 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 41 | [Zusammenfassung](http://twitter.com/search?q=Zusammenfassung) | N/A |
-| 42 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 43 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
-| 44 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 45 | [Rede zur Zukunft der Nation](http://twitter.com/search?q=Rede+zur+Zukunft+der+Nation) | N/A |
-| 46 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 47 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 48 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 49 | [Machterhalt](http://twitter.com/search?q=Machterhalt) | N/A |
-| 50 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
+| 1 | [#nehammer](http://twitter.com/search?q=%23nehammer) | N/A |
+| 2 | [#nehammer](http://twitter.com/search?q=%23nehammer) | N/A |
+| 3 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 5 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 6 | [#Oesterreich2030](http://twitter.com/search?q=%23Oesterreich2030) | N/A |
+| 7 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 8 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 10 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 11 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 14 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
+| 15 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
+| 16 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 17 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 18 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 19 | [Alkohol und Psychopharmaka](http://twitter.com/search?q=Alkohol+und+Psychopharmaka) | N/A |
+| 20 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
+| 21 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 22 | [Vision](http://twitter.com/search?q=Vision) | N/A |
+| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 24 | [Bankomaten](http://twitter.com/search?q=Bankomaten) | N/A |
+| 25 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 26 | [motorrad](http://twitter.com/search?q=motorrad) | N/A |
+| 27 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
+| 28 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 29 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
+| 30 | [rede an die nation](http://twitter.com/search?q=rede+an+die+nation) | N/A |
+| 31 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 32 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 33 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 34 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 35 | [Programmieren](http://twitter.com/search?q=Programmieren) | N/A |
+| 36 | [Meeresspiegel](http://twitter.com/search?q=Meeresspiegel) | N/A |
+| 37 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 38 | [Maschinen](http://twitter.com/search?q=Maschinen) | N/A |
+| 39 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 40 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
+| 41 | [Spin](http://twitter.com/search?q=Spin) | N/A |
+| 42 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 43 | [Miteinander](http://twitter.com/search?q=Miteinander) | N/A |
+| 44 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 45 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 46 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 47 | [rede zur lage der nation](http://twitter.com/search?q=rede+zur+lage+der+nation) | N/A |
+| 48 | [Schere](http://twitter.com/search?q=Schere) | N/A |
+| 49 | [zukunft der nation](http://twitter.com/search?q=zukunft+der+nation) | N/A |
+| 50 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 
 
 
