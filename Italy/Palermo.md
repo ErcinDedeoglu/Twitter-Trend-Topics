@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-11 06:16:14 UTC`
+📆 Last Updated: `2023-03-11 07:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 6 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 7 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 9 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 10 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 11 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 8 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 9 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 11 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
 | 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 13 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 13 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 14 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 16 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 17 | [acerbi](http://twitter.com/search?q=acerbi) | N/A |
-| 18 | [dragowski](http://twitter.com/search?q=dragowski) | N/A |
-| 19 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 17 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 18 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 19 | [caldara](http://twitter.com/search?q=caldara) | N/A |
 | 20 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 21 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 22 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 21 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 22 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
 | 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 24 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
-| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 27 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 28 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 29 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 30 | [rigore](http://twitter.com/search?q=rigore) | N/A |
-| 31 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 32 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 33 | [luca e paolo](http://twitter.com/search?q=luca+e+paolo) | N/A |
-| 34 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 35 | [appiano](http://twitter.com/search?q=appiano) | N/A |
+| 25 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
+| 26 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 27 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 28 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 29 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 30 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 31 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
+| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 33 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 35 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
 | 36 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 37 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
-| 38 | [AVATRICE IN CAPRI THAT'S AMORE](http://twitter.com/search?q=AVATRICE+IN+CAPRI+THAT%27S+AMORE) | N/A |
-| 39 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 40 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 41 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 42 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 43 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 44 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 45 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 46 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 47 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 48 | [Baretta](http://twitter.com/search?q=Baretta) | N/A |
+| 37 | [carboni](http://twitter.com/search?q=carboni) | N/A |
+| 38 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 39 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 40 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 41 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 42 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 43 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 44 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 45 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 46 | [Appiano](http://twitter.com/search?q=Appiano) | N/A |
+| 47 | [Razzismo](http://twitter.com/search?q=Razzismo) | N/A |
+| 48 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
 
 
 

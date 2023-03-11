@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-11 06:16:49 UTC`
+📆 Last Updated: `2023-03-11 07:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 2 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
 | 3 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 4 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 5 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
-| 6 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
-| 7 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 8 | [#JoseRamonLopezBeltran386](http://twitter.com/search?q=%23JoseRamonLopezBeltran386) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 11 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
-| 12 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
-| 13 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
-| 14 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
-| 15 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 16 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
-| 17 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 18 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
-| 19 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 20 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
-| 21 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 22 | [Charal](http://twitter.com/search?q=Charal) | N/A |
-| 23 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 24 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
-| 25 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 26 | [Raúl Astor](http://twitter.com/search?q=Ra%c3%bal+Astor) | N/A |
-| 27 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
-| 28 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 29 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
-| 30 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 31 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
-| 32 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 34 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 35 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 36 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 37 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 38 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 39 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 40 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 41 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
-| 42 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
-| 43 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 44 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 45 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 46 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
+| 4 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 5 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 6 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
+| 7 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
+| 8 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 9 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [#JoseRamonLopezBeltran386](http://twitter.com/search?q=%23JoseRamonLopezBeltran386) | N/A |
+| 12 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 13 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 14 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
+| 17 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
+| 18 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
+| 19 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 20 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
+| 21 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 22 | [Briseño](http://twitter.com/search?q=Brise%c3%b1o) | N/A |
+| 23 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 24 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 25 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 26 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 27 | [Charal](http://twitter.com/search?q=Charal) | N/A |
+| 28 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
+| 29 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 30 | [Raúl Astor](http://twitter.com/search?q=Ra%c3%bal+Astor) | N/A |
+| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 32 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 33 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 34 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
+| 35 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 36 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 37 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 38 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 39 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 40 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 41 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 42 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 43 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 44 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 45 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 46 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
 | 47 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 48 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
 | 49 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
-| 50 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 50 | [Emilio Lozoya](http://twitter.com/search?q=Emilio+Lozoya) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-11 06:16:43 UTC`
+📆 Last Updated: `2023-03-11 07:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
-| 2 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 3 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 4 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
-| 5 | [#UCLA](http://twitter.com/search?q=%23UCLA) | N/A |
-| 6 | [Oregon](http://twitter.com/search?q=Oregon) | Oregon is a state in the Pacific Northwest region of the United States. It is bordered by Washington to the north, Idaho to the east, California to the south, and Nevada and Utah to the east. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The state's population was 4,217,737 as of 2019. Its capital is Salem and its largest city is Portland. |
+| 2 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 3 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 4 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 5 | [Billy Joel](http://twitter.com/search?q=Billy+Joel) | N/A |
+| 6 | [#UCLA](http://twitter.com/search?q=%23UCLA) | N/A |
 | 7 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 8 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 9 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 10 | [#MAR10](http://twitter.com/search?q=%23MAR10) | N/A |
-| 11 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 12 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 13 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 14 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 15 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 16 | [#MARIODay](http://twitter.com/search?q=%23MARIODay) | N/A |
-| 17 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 18 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 19 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 20 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 21 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 24 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 25 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 27 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 28 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
-| 29 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 31 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 32 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 33 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 34 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 35 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 36 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 37 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
-| 38 | [Jerry Stackhouse](http://twitter.com/search?q=Jerry+Stackhouse) | N/A |
-| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 40 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
-| 41 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 42 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 43 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 44 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 45 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 47 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 48 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 49 | [Zach Collins](http://twitter.com/search?q=Zach+Collins) | N/A |
-| 50 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 8 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 9 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 15 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 17 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 18 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 19 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 20 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 21 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 22 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 23 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
+| 24 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 25 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 26 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 27 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
+| 28 | [Southern Utah](http://twitter.com/search?q=Southern+Utah) | N/A |
+| 29 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 30 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 31 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 32 | [D’Lo](http://twitter.com/search?q=D%e2%80%99Lo) | N/A |
+| 33 | [Jerry Stackhouse](http://twitter.com/search?q=Jerry+Stackhouse) | N/A |
+| 34 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 35 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 36 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 37 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 38 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 39 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 40 | [Leon Rice](http://twitter.com/search?q=Leon+Rice) | N/A |
+| 41 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 42 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 43 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
+| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 45 | [OG Anunoby](http://twitter.com/search?q=OG+Anunoby) | N/A |
+| 46 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 47 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 49 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
+| 50 | [Zach Collins](http://twitter.com/search?q=Zach+Collins) | N/A |
 
 
 

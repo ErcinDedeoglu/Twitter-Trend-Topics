@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-11 06:16:13 UTC`
+📆 Last Updated: `2023-03-11 07:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
 | 2 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
 | 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 4 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 5 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 6 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 4 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 5 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 6 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
 | 7 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 9 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
-| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 11 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 12 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 13 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 10 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 11 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 13 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
 | 14 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 15 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 15 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 16 | [Nzola](http://twitter.com/search?q=Nzola) | N/A |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 18 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 19 | [acerbi](http://twitter.com/search?q=acerbi) | N/A |
-| 20 | [dragowski](http://twitter.com/search?q=dragowski) | N/A |
-| 21 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 19 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 20 | [caldara](http://twitter.com/search?q=caldara) | N/A |
+| 21 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
 | 22 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 23 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 24 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 23 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 24 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
 | 25 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 26 | [spiega il tuo twitter](http://twitter.com/search?q=spiega+il+tuo+twitter) | N/A |
-| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 29 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 30 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 31 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
-| 32 | [rigore](http://twitter.com/search?q=rigore) | N/A |
-| 33 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 35 | [luca e paolo](http://twitter.com/search?q=luca+e+paolo) | N/A |
-| 36 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 37 | [appiano](http://twitter.com/search?q=appiano) | N/A |
+| 27 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
+| 28 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 29 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 30 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 31 | [Dragowski](http://twitter.com/search?q=Dragowski) | N/A |
+| 32 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 33 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
+| 34 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 35 | [Calciato](http://twitter.com/search?q=Calciato) | N/A |
+| 36 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 37 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
 | 38 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 39 | [Carboni](http://twitter.com/search?q=Carboni) | N/A |
-| 40 | [AVATRICE IN CAPRI THAT'S AMORE](http://twitter.com/search?q=AVATRICE+IN+CAPRI+THAT%27S+AMORE) | N/A |
-| 41 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 42 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 43 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 44 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 45 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 46 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 47 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 48 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 49 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 50 | [Baretta](http://twitter.com/search?q=Baretta) | N/A |
+| 39 | [carboni](http://twitter.com/search?q=carboni) | N/A |
+| 40 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 41 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 42 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 43 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 44 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 45 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 46 | [Rigore](http://twitter.com/search?q=Rigore) | N/A |
+| 47 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 48 | [Appiano](http://twitter.com/search?q=Appiano) | N/A |
+| 49 | [Razzismo](http://twitter.com/search?q=Razzismo) | N/A |
+| 50 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
 
 
 

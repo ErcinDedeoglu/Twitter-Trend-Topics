@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-11 06:16:49 UTC`
+📆 Last Updated: `2023-03-11 07:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OCCUPYINEC](http://twitter.com/search?q=%23OCCUPYINEC) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 5 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 6 | [#KudabankScam](http://twitter.com/search?q=%23KudabankScam) | N/A |
+| 2 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 5 | [#KudabankScam](http://twitter.com/search?q=%23KudabankScam) | N/A |
+| 6 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
 | 7 | [#rexxiebigtimealbum](http://twitter.com/search?q=%23rexxiebigtimealbum) | N/A |
-| 8 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
-| 9 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 10 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 11 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 12 | [TRIAGE](http://twitter.com/search?q=TRIAGE) | N/A |
-| 13 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 14 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
+| 8 | [#standwithsanwoolu](http://twitter.com/search?q=%23standwithsanwoolu) | N/A |
+| 9 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 10 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 11 | [Triage](http://twitter.com/search?q=Triage) | N/A |
+| 12 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 13 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
+| 14 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
 | 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 16 | [juju punter](http://twitter.com/search?q=juju+punter) | N/A |
-| 17 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 18 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 21 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 22 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 24 | [JSS 1](http://twitter.com/search?q=JSS+1) | N/A |
-| 25 | [Panla](http://twitter.com/search?q=Panla) | N/A |
-| 26 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 27 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 28 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
-| 29 | [22bet](http://twitter.com/search?q=22bet) | N/A |
-| 30 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
-| 31 | [Oats](http://twitter.com/search?q=Oats) | N/A |
-| 32 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 17 | [juju punter](http://twitter.com/search?q=juju+punter) | N/A |
+| 18 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 19 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [22bet](http://twitter.com/search?q=22bet) | N/A |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 23 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 24 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 25 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 26 | [JSS 1](http://twitter.com/search?q=JSS+1) | N/A |
+| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 28 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 29 | [Aunty Kate](http://twitter.com/search?q=Aunty+Kate) | N/A |
+| 30 | [Panla](http://twitter.com/search?q=Panla) | N/A |
+| 31 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 32 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 | 33 | [kiwior](http://twitter.com/search?q=kiwior) | N/A |
-| 34 | [brt bus](http://twitter.com/search?q=brt+bus) | N/A |
-| 35 | [Kingsley](http://twitter.com/search?q=Kingsley) | N/A |
-| 36 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 37 | [5 chelsea](http://twitter.com/search?q=5+chelsea) | N/A |
-| 38 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
-| 39 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
+| 34 | [Kingsley](http://twitter.com/search?q=Kingsley) | N/A |
+| 35 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 36 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
+| 37 | [Accept](http://twitter.com/search?q=Accept) | N/A |
+| 38 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
+| 39 | [Primary 5](http://twitter.com/search?q=Primary+5) | N/A |
 | 40 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 41 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
-| 42 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
-| 43 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
-| 44 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 45 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 46 | [Kise](http://twitter.com/search?q=Kise) | N/A |
+| 41 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
+| 42 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 43 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
+| 44 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
+| 45 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
+| 46 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
 | 47 | [Mikel Obi](http://twitter.com/search?q=Mikel+Obi) | N/A |
-| 48 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
-| 49 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 50 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 49 | [Kise](http://twitter.com/search?q=Kise) | N/A |
+| 50 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
 
 
 

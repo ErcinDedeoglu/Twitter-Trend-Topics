@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-11 06:16:00 UTC`
+📆 Last Updated: `2023-03-11 07:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 4 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 5 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 6 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 7 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 8 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
+| 2 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 5 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 6 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 7 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 8 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
 | 9 | [#BoycottBBC](http://twitter.com/search?q=%23BoycottBBC) | N/A |
 | 10 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
 | 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 14 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 15 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 16 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 17 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 14 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 15 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 16 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 17 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
 | 18 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
 | 19 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 20 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
-| 21 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 22 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
-| 23 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 24 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 25 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 26 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 27 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 20 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 21 | [#CurrysMar10Day](http://twitter.com/search?q=%23CurrysMar10Day) | N/A |
+| 22 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 23 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 24 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 25 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
+| 26 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 27 | [#BBCBias](http://twitter.com/search?q=%23BBCBias) | N/A |
 | 28 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 31 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 32 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 33 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 34 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 35 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 36 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 37 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
+| 29 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 31 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
+| 32 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 33 | [Andy Gray](http://twitter.com/search?q=Andy+Gray) | N/A |
+| 34 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 35 | [sanam](http://twitter.com/search?q=sanam) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 39 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 39 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
 | 40 | [Richard Keys](http://twitter.com/search?q=Richard+Keys) | N/A |
-| 41 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
-| 42 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 43 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
-| 44 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
-| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 46 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 47 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 50 | [SCAB](http://twitter.com/search?q=SCAB) | N/A |
+| 41 | [Mark Chapman](http://twitter.com/search?q=Mark+Chapman) | N/A |
+| 42 | [Des Lynam](http://twitter.com/search?q=Des+Lynam) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 45 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 46 | [Peter Shilton](http://twitter.com/search?q=Peter+Shilton) | N/A |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 49 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 50 | [Scab](http://twitter.com/search?q=Scab) | N/A |
 
 
 

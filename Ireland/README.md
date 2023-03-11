@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-11 06:16:47 UTC`
+📆 Last Updated: `2023-03-11 07:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for Ireland
 | 5 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 6 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
 | 7 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 8 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
+| 8 | [#scovire](http://twitter.com/search?q=%23scovire) | N/A |
 | 9 | [#U20SixNations](http://twitter.com/search?q=%23U20SixNations) | N/A |
-| 10 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 11 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
-| 12 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
-| 13 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 10 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 11 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 13 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
 | 14 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
 | 15 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
 | 16 | [Tories](http://twitter.com/search?q=Tories) | N/A |
@@ -37,25 +37,25 @@ This is top 50 for Ireland
 | 20 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
 | 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
 | 22 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 23 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 26 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 27 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
-| 28 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 23 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 24 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 25 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
+| 26 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 28 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
 | 29 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 30 | [O'Connell Street](http://twitter.com/search?q=O%27Connell+Street) | N/A |
-| 31 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 32 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 30 | [o'connell street](http://twitter.com/search?q=o%27connell+street) | N/A |
+| 31 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 33 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 34 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 35 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 38 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
-| 39 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 40 | [loitv](http://twitter.com/search?q=loitv) | N/A |
-| 41 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 34 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 37 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 38 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 39 | [loitv](http://twitter.com/search?q=loitv) | N/A |
+| 40 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 41 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
 | 42 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
 | 43 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
 | 44 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
