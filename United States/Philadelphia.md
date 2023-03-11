@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-11 14:16:31 UTC`
+📆 Last Updated: `2023-03-11 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 4 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 5 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 11 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 4 | [joel](http://twitter.com/search?q=joel) | N/A |
+| 5 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
 | 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 14 | [#myplmorning](http://twitter.com/search?q=%23myplmorning) | N/A |
-| 15 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 16 | [#SaturdayMood](http://twitter.com/search?q=%23SaturdayMood) | N/A |
-| 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 18 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
-| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
-| 21 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 22 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
-| 23 | [Adele Givens](http://twitter.com/search?q=Adele+Givens) | N/A |
-| 24 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
-| 25 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 26 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 27 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 28 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 29 | [Czech Republic](http://twitter.com/search?q=Czech+Republic) | N/A |
-| 30 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 31 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 32 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 33 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 34 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 36 | [Stable](http://twitter.com/search?q=Stable) | N/A |
-| 37 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 38 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 39 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 40 | [Tether](http://twitter.com/search?q=Tether) | N/A |
-| 41 | [Olbermann](http://twitter.com/search?q=Olbermann) | N/A |
-| 42 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 43 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 44 | [Treasuries](http://twitter.com/search?q=Treasuries) | N/A |
-| 45 | [SIVB](http://twitter.com/search?q=SIVB) | N/A |
-| 46 | [David Sacks](http://twitter.com/search?q=David+Sacks) | N/A |
-| 47 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 48 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 49 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 50 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 13 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 15 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 16 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 17 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 21 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 22 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 23 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 24 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 25 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 26 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 27 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 28 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 29 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 30 | [Happy 311](http://twitter.com/search?q=Happy+311) | N/A |
+| 31 | [Yu Chang](http://twitter.com/search?q=Yu+Chang) | N/A |
+| 32 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 33 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 34 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 35 | [Make America Great Again](http://twitter.com/search?q=Make+America+Great+Again) | N/A |
+| 36 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 37 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 38 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 39 | [Nomar](http://twitter.com/search?q=Nomar) | N/A |
+| 40 | [Adele Givens](http://twitter.com/search?q=Adele+Givens) | N/A |
+| 41 | [Silicon Valley](http://twitter.com/search?q=Silicon+Valley) | N/A |
+| 42 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 43 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 44 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
+| 45 | [Darth](http://twitter.com/search?q=Darth) | N/A |
+| 46 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 47 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 48 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 49 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 50 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
 
 
 

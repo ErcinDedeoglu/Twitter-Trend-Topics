@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-11 14:16:41 UTC`
+📆 Last Updated: `2023-03-11 15:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 1 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
 | 2 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
 | 3 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 4 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
-| 5 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 6 | [#Ataİttifakı](http://twitter.com/search?q=%23Ata%c4%b0ttifak%c4%b1) | N/A |
-| 7 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 8 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 9 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
-| 10 | [#CatCeoCoin](http://twitter.com/search?q=%23CatCeoCoin) | N/A |
-| 11 | [#Yökegitimekulakver](http://twitter.com/search?q=%23Y%c3%b6kegitimekulakver) | N/A |
-| 12 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
-| 13 | [DevletSözü AlayınaKadro](http://twitter.com/search?q=DevletS%c3%b6z%c3%bc+Alay%c4%b1naKadro) | N/A |
-| 14 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 15 | [Süresiz](http://twitter.com/search?q=S%c3%bcresiz) | N/A |
-| 16 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 17 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 18 | [Doğru Parti](http://twitter.com/search?q=Do%c4%9fru+Parti) | N/A |
-| 19 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 20 | [Leyla Amed](http://twitter.com/search?q=Leyla+Amed) | N/A |
-| 21 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 22 | [Afyon](http://twitter.com/search?q=Afyon) | N/A |
-| 23 | [Seçime 36](http://twitter.com/search?q=Se%c3%a7ime+36) | N/A |
-| 24 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
-| 25 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
-| 26 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 27 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
-| 28 | [Erkeğe](http://twitter.com/search?q=Erke%c4%9fe) | N/A |
-| 29 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
-| 30 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 31 | [Hamiyet Yalçınkaya](http://twitter.com/search?q=Hamiyet+Yal%c3%a7%c4%b1nkaya) | N/A |
-| 32 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 4 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 5 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 6 | [#Cb100BininOyunuUnutma](http://twitter.com/search?q=%23Cb100BininOyunuUnutma) | N/A |
+| 7 | [#Ataİttifakı](http://twitter.com/search?q=%23Ata%c4%b0ttifak%c4%b1) | N/A |
+| 8 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
+| 9 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 10 | [#Yökegitimekulakver](http://twitter.com/search?q=%23Y%c3%b6kegitimekulakver) | N/A |
+| 11 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 12 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 13 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 14 | [Haji Wright](http://twitter.com/search?q=Haji+Wright) | N/A |
+| 15 | [#memleketİNCEdiyor](http://twitter.com/search?q=%23memleket%c4%b0NCEdiyor) | N/A |
+| 16 | [DevletSözü AlayınaKadro](http://twitter.com/search?q=DevletS%c3%b6z%c3%bc+Alay%c4%b1naKadro) | N/A |
+| 17 | [Şeyh Said](http://twitter.com/search?q=%c5%9eeyh+Said) | N/A |
+| 18 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 19 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 20 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 21 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 22 | [Eyalet](http://twitter.com/search?q=Eyalet) | N/A |
+| 23 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 24 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 25 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 26 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 27 | [Süresiz](http://twitter.com/search?q=S%c3%bcresiz) | N/A |
+| 28 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 29 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 30 | [Doğru Parti](http://twitter.com/search?q=Do%c4%9fru+Parti) | N/A |
+| 31 | [Leyla Amed](http://twitter.com/search?q=Leyla+Amed) | N/A |
+| 32 | [Afyon](http://twitter.com/search?q=Afyon) | N/A |
 | 33 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 34 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
-| 35 | [Galatasaray - Kasımpaşa](http://twitter.com/search?q=Galatasaray+-+Kas%c4%b1mpa%c5%9fa) | N/A |
-| 36 | [MAÇ SONUCU](http://twitter.com/search?q=MA%c3%87+SONUCU) | N/A |
-| 37 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
-| 38 | [Fatih Portakal](http://twitter.com/search?q=Fatih+Portakal) | N/A |
-| 39 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 40 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 41 | [Yolsuzluk](http://twitter.com/search?q=Yolsuzluk) | N/A |
-| 42 | [Şiddetin](http://twitter.com/search?q=%c5%9eiddetin) | N/A |
-| 43 | [Hayırlara](http://twitter.com/search?q=Hay%c4%b1rlara) | N/A |
-| 44 | [Hilton](http://twitter.com/search?q=Hilton) | Hilton is a global hospitality company that owns, manages, and franchises a portfolio of hotels and resorts. The company was founded by Conrad Hilton in 1919 and is now one of the largest hotel chains in the world. The name Hilton is derived from the English word "hilt," which means "a handle or grip of a sword." |
-| 45 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
-| 46 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
-| 47 | [Yüksek Seçim Kurulu](http://twitter.com/search?q=Y%c3%bcksek+Se%c3%a7im+Kurulu) | N/A |
-| 48 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 49 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 50 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 34 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
+| 35 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 36 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 37 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 38 | [Seçime 36](http://twitter.com/search?q=Se%c3%a7ime+36) | N/A |
+| 39 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 40 | [Kimler](http://twitter.com/search?q=Kimler) | N/A |
+| 41 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
+| 42 | [Erkeğe](http://twitter.com/search?q=Erke%c4%9fe) | N/A |
+| 43 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 44 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 45 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 46 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 47 | [Kadına](http://twitter.com/search?q=Kad%c4%b1na) | N/A |
+| 48 | [Hamiyet Yalçınkaya](http://twitter.com/search?q=Hamiyet+Yal%c3%a7%c4%b1nkaya) | N/A |
+| 49 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 50 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-11 14:15:47 UTC`
+📆 Last Updated: `2023-03-11 15:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 6 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
-| 7 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 8 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
 | 9 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 10 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
 | 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
 | 13 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 14 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 15 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 18 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 20 | [Fitzgibbon](http://twitter.com/search?q=Fitzgibbon) | N/A |
-| 21 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
-| 22 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 23 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 24 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
-| 25 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 26 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 27 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 28 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 29 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
-| 30 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 31 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 32 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 33 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 34 | [CHSLD](http://twitter.com/search?q=CHSLD) | N/A |
-| 35 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 36 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 37 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 38 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
-| 39 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
-| 40 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
-| 41 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 42 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 43 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 44 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 45 | [kadri](http://twitter.com/search?q=kadri) | N/A |
-| 46 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 47 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 48 | [OG Anunoby](http://twitter.com/search?q=OG+Anunoby) | N/A |
+| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [#ripkiska](http://twitter.com/search?q=%23ripkiska) | N/A |
+| 16 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 19 | [Fitzgibbon](http://twitter.com/search?q=Fitzgibbon) | N/A |
+| 20 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 22 | [CHSLD](http://twitter.com/search?q=CHSLD) | N/A |
+| 23 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
+| 24 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 25 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 27 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 28 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 29 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 30 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 31 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 33 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
+| 34 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 35 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
+| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 37 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 39 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 40 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 41 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 42 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
+| 43 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 44 | [Montréal-Nord](http://twitter.com/search?q=Montr%c3%a9al-Nord) | N/A |
+| 45 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
+| 46 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
+| 47 | [Creepy](http://twitter.com/search?q=Creepy) | N/A |
+| 48 | [Daily Quordle 411](http://twitter.com/search?q=Daily+Quordle+411) | N/A |
+| 49 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 
 
 

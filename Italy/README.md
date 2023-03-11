@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-11 14:16:37 UTC`
+📆 Last Updated: `2023-03-11 15:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
-| 2 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 1 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
 | 3 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 4 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 5 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 6 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 7 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 8 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
-| 9 | [salvini e meloni](http://twitter.com/search?q=salvini+e+meloni) | N/A |
-| 10 | [chiara ferragni](http://twitter.com/search?q=chiara+ferragni) | N/A |
-| 11 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 12 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 13 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 14 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 15 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 16 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
-| 17 | [Atac](http://twitter.com/search?q=Atac) | N/A |
-| 18 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 19 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 20 | [Portogallo](http://twitter.com/search?q=Portogallo) | N/A |
-| 21 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 22 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
-| 23 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
-| 24 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 25 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
-| 26 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
-| 27 | [#ConsigliodiStato](http://twitter.com/search?q=%23ConsigliodiStato) | N/A |
-| 28 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 29 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
-| 30 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
+| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 5 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 6 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 7 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 8 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 9 | [De Andrè](http://twitter.com/search?q=De+Andr%c3%a8) | N/A |
+| 10 | [Salvini e Meloni](http://twitter.com/search?q=Salvini+e+Meloni) | N/A |
+| 11 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
+| 12 | [Chiara Ferragni](http://twitter.com/search?q=Chiara+Ferragni) | N/A |
+| 13 | [Ziliani](http://twitter.com/search?q=Ziliani) | N/A |
+| 14 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 15 | [Atac](http://twitter.com/search?q=Atac) | N/A |
+| 16 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 17 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 18 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 20 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 21 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 22 | [Edoardo Donnamaria](http://twitter.com/search?q=Edoardo+Donnamaria) | N/A |
+| 23 | [Portogallo](http://twitter.com/search?q=Portogallo) | N/A |
+| 24 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 25 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 26 | [#RomaMilan](http://twitter.com/search?q=%23RomaMilan) | N/A |
+| 27 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
+| 28 | [#CoppaItaliaFemminile](http://twitter.com/search?q=%23CoppaItaliaFemminile) | N/A |
+| 29 | [#cartasegreta](http://twitter.com/search?q=%23cartasegreta) | N/A |
+| 30 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
 | 31 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 32 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
-| 33 | [#EndTheCageAge](http://twitter.com/search?q=%23EndTheCageAge) | N/A |
-| 34 | [#EurosportSCI](http://twitter.com/search?q=%23EurosportSCI) | N/A |
-| 35 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
-| 36 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
-| 37 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 38 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 39 | [#SalviniPagliaccio](http://twitter.com/search?q=%23SalviniPagliaccio) | N/A |
-| 40 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 41 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 42 | [#DisdettaSkyDazn](http://twitter.com/search?q=%23DisdettaSkyDazn) | N/A |
-| 43 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
-| 44 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
-| 45 | [#DisdettaPayTV](http://twitter.com/search?q=%23DisdettaPayTV) | N/A |
-| 46 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 32 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 33 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 34 | [#ilPeggior_GOVERNO_diSempre](http://twitter.com/search?q=%23ilPeggior_GOVERNO_diSempre) | N/A |
+| 35 | [#EndTheCageAge](http://twitter.com/search?q=%23EndTheCageAge) | N/A |
+| 36 | [#ConsigliodiStato](http://twitter.com/search?q=%23ConsigliodiStato) | N/A |
+| 37 | [#Shiffrin](http://twitter.com/search?q=%23Shiffrin) | N/A |
+| 38 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 39 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 40 | [#eurosportsci](http://twitter.com/search?q=%23eurosportsci) | N/A |
+| 41 | [#Egonu](http://twitter.com/search?q=%23Egonu) | N/A |
+| 42 | [#EAU23](http://twitter.com/search?q=%23EAU23) | N/A |
+| 43 | [#SalviniPagliaccio](http://twitter.com/search?q=%23SalviniPagliaccio) | N/A |
+| 44 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
+| 45 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 46 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
+| 47 | [#DisdettaSkyDazn](http://twitter.com/search?q=%23DisdettaSkyDazn) | N/A |
+| 48 | [#DisdettaDaznSky](http://twitter.com/search?q=%23DisdettaDaznSky) | N/A |
+| 49 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
 
 
 

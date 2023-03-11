@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-11 14:16:38 UTC`
+📆 Last Updated: `2023-03-11 15:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 3 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 4 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 5 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 6 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 7 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 8 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 9 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 11 | [#YoursToTake](http://twitter.com/search?q=%23YoursToTake) | N/A |
-| 12 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 13 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 14 | [#OccupyINECNOW](http://twitter.com/search?q=%23OccupyINECNOW) | N/A |
-| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 16 | [Pounded](http://twitter.com/search?q=Pounded) | N/A |
-| 17 | [Alpha Beta](http://twitter.com/search?q=Alpha+Beta) | N/A |
-| 18 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 19 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
-| 20 | [#AGBADOVOLUTION](http://twitter.com/search?q=%23AGBADOVOLUTION) | N/A |
-| 21 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 22 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 23 | [Gbadebo Rhodes Vivour](http://twitter.com/search?q=Gbadebo+Rhodes+Vivour) | N/A |
-| 24 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
-| 25 | [NO KANAGA JNR NO PARTY](http://twitter.com/search?q=NO+KANAGA+JNR+NO+PARTY) | N/A |
-| 26 | [semo](http://twitter.com/search?q=semo) | N/A |
-| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 28 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 29 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 31 | [Buju](http://twitter.com/search?q=Buju) | N/A |
-| 32 | [Amala](http://twitter.com/search?q=Amala) | N/A |
-| 33 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
-| 34 | [Udom](http://twitter.com/search?q=Udom) | N/A |
-| 35 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 36 | [Ruger](http://twitter.com/search?q=Ruger) | N/A |
-| 37 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 38 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 39 | [Aomine](http://twitter.com/search?q=Aomine) | N/A |
-| 40 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 41 | [Omah](http://twitter.com/search?q=Omah) | N/A |
-| 42 | [Cooking](http://twitter.com/search?q=Cooking) | N/A |
-| 43 | [Catfish](http://twitter.com/search?q=Catfish) | N/A |
-| 44 | [Mr Peter Obi](http://twitter.com/search?q=Mr+Peter+Obi) | N/A |
-| 45 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 46 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 47 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 48 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 49 | [mayor of ekiti](http://twitter.com/search?q=mayor+of+ekiti) | N/A |
-| 50 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 4 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 5 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 6 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 7 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 9 | [Billing](http://twitter.com/search?q=Billing) | N/A |
+| 10 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 11 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 12 | [Robin Hood](http://twitter.com/search?q=Robin+Hood) | N/A |
+| 13 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
+| 14 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 15 | [Man Utd 7-0](http://twitter.com/search?q=Man+Utd+7-0) | N/A |
+| 16 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 17 | [Man U 7-0](http://twitter.com/search?q=Man+U+7-0) | N/A |
+| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 20 | [Loserpool](http://twitter.com/search?q=Loserpool) | N/A |
+| 21 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 22 | [#YoursToTake](http://twitter.com/search?q=%23YoursToTake) | N/A |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [#BudweiserPremierLeague](http://twitter.com/search?q=%23BudweiserPremierLeague) | N/A |
+| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 26 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 27 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 28 | [#gtbank](http://twitter.com/search?q=%23gtbank) | N/A |
+| 29 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 30 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 31 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 32 | [Alpha Beta](http://twitter.com/search?q=Alpha+Beta) | N/A |
+| 33 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 34 | [Pounded](http://twitter.com/search?q=Pounded) | N/A |
+| 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 36 | [NO KANAGA JNR NO PARTY](http://twitter.com/search?q=NO+KANAGA+JNR+NO+PARTY) | N/A |
+| 37 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 38 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
+| 39 | [gbadebo rhodes vivour](http://twitter.com/search?q=gbadebo+rhodes+vivour) | N/A |
+| 40 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 41 | [Genevieve](http://twitter.com/search?q=Genevieve) | N/A |
+| 42 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 43 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
+| 44 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 45 | [Semo](http://twitter.com/search?q=Semo) | N/A |
+| 46 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 47 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 48 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 49 | [Omah](http://twitter.com/search?q=Omah) | N/A |
+| 50 | [Amala](http://twitter.com/search?q=Amala) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-11 14:16:04 UTC`
+📆 Last Updated: `2023-03-11 15:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 2 | [#N1CanalFiesta10](http://twitter.com/search?q=%23N1CanalFiesta10) | N/A |
-| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 4 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 5 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 6 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 7 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 8 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 9 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 10 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 11 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
-| 12 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 13 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 14 | [11-M](http://twitter.com/search?q=11-M) | N/A |
-| 15 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 16 | [Aurelio](http://twitter.com/search?q=Aurelio) | N/A |
-| 17 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 19 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 20 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 21 | [Rubén Sánchez](http://twitter.com/search?q=Rub%c3%a9n+S%c3%a1nchez) | N/A |
-| 22 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 24 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 25 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 27 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 28 | [Enredados](http://twitter.com/search?q=Enredados) | N/A |
-| 29 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
-| 30 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
-| 31 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 1 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 2 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 3 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 5 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 6 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 7 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 8 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 9 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 10 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 11 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 14 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 15 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 16 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 17 | [11-M](http://twitter.com/search?q=11-M) | N/A |
+| 18 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 19 | [#RMAESP](http://twitter.com/search?q=%23RMAESP) | N/A |
+| 20 | [Amarilla a Vinicius](http://twitter.com/search?q=Amarilla+a+Vinicius) | N/A |
+| 21 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
+| 22 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
+| 23 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 24 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 25 | [Aurelio](http://twitter.com/search?q=Aurelio) | N/A |
+| 26 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 27 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 28 | [Rubén Sánchez](http://twitter.com/search?q=Rub%c3%a9n+S%c3%a1nchez) | N/A |
+| 29 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 30 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 31 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 32 | [Pilar Manjón](http://twitter.com/search?q=Pilar+Manj%c3%b3n) | N/A |
-| 33 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 34 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 35 | [Víctimas del Terrorismo](http://twitter.com/search?q=V%c3%adctimas+del+Terrorismo) | N/A |
-| 36 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 37 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 38 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 39 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 40 | [Azores](http://twitter.com/search?q=Azores) | N/A |
-| 41 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 42 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 43 | [Gorda](http://twitter.com/search?q=Gorda) | N/A |
-| 44 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 45 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 46 | [Errejon](http://twitter.com/search?q=Errejon) | N/A |
+| 33 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 34 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
+| 35 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 36 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 38 | [Azores](http://twitter.com/search?q=Azores) | N/A |
+| 39 | [Junta Directiva](http://twitter.com/search?q=Junta+Directiva) | N/A |
+| 40 | [Enredados](http://twitter.com/search?q=Enredados) | N/A |
+| 41 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 42 | [Memoria](http://twitter.com/search?q=Memoria) | N/A |
+| 43 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 44 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 45 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 46 | [Rubalcaba](http://twitter.com/search?q=Rubalcaba) | N/A |
+| 47 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
+| 48 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 49 | [Víctimas del Terrorismo](http://twitter.com/search?q=V%c3%adctimas+del+Terrorismo) | N/A |
 
 
 

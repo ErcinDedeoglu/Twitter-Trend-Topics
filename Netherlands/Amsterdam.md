@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-11 14:16:03 UTC`
+📆 Last Updated: `2023-03-11 15:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
 | 2 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
 | 3 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 5 | [#nossport](http://twitter.com/search?q=%23nossport) | N/A |
-| 6 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
-| 7 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 8 | [#rEDNL23](http://twitter.com/search?q=%23rEDNL23) | N/A |
-| 9 | [#teamwaterkanon](http://twitter.com/search?q=%23teamwaterkanon) | N/A |
-| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 11 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 12 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 4 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [#nossport](http://twitter.com/search?q=%23nossport) | N/A |
+| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 10 | [#rEDNL23](http://twitter.com/search?q=%23rEDNL23) | N/A |
+| 11 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 13 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 14 | [mart smeets](http://twitter.com/search?q=mart+smeets) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
-| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 18 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 14 | [Marijn](http://twitter.com/search?q=Marijn) | N/A |
+| 15 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 16 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 19 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
 | 20 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 21 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 22 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
-| 23 | [Stekkerrijders](http://twitter.com/search?q=Stekkerrijders) | N/A |
-| 24 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
-| 25 | [AFGELAST](http://twitter.com/search?q=AFGELAST) | N/A |
-| 26 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 27 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 28 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 29 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
-| 30 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
-| 31 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
-| 32 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 33 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 34 | [demograaf](http://twitter.com/search?q=demograaf) | N/A |
-| 35 | [truste](http://twitter.com/search?q=truste) | N/A |
-| 36 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 21 | [Stekkerrijders](http://twitter.com/search?q=Stekkerrijders) | N/A |
+| 22 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 23 | [de a12](http://twitter.com/search?q=de+a12) | N/A |
+| 24 | [studio sport](http://twitter.com/search?q=studio+sport) | N/A |
+| 25 | [zorgpremie](http://twitter.com/search?q=zorgpremie) | N/A |
+| 26 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 27 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
+| 28 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
+| 29 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 30 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 31 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 32 | [Mores](http://twitter.com/search?q=Mores) | N/A |
+| 33 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 34 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
+| 35 | [De VVD](http://twitter.com/search?q=De+VVD) | N/A |
+| 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 37 | [Radicale](http://twitter.com/search?q=Radicale) | N/A |
-| 38 | [Tuig](http://twitter.com/search?q=Tuig) | N/A |
-| 39 | [roda](http://twitter.com/search?q=roda) | N/A |
-| 40 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 41 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 42 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 43 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
-| 44 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 45 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
-| 46 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 47 | [ginny](http://twitter.com/search?q=ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 48 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 50 | [Elly](http://twitter.com/search?q=Elly) | N/A |
+| 38 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 39 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 40 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 41 | [kamphuis](http://twitter.com/search?q=kamphuis) | N/A |
+| 42 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 43 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 44 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 45 | [Eva Vlaardingerbroek](http://twitter.com/search?q=Eva+Vlaardingerbroek) | N/A |
+| 46 | [Joost Eerdmans](http://twitter.com/search?q=Joost+Eerdmans) | N/A |
+| 47 | [De BBC](http://twitter.com/search?q=De+BBC) | N/A |
+| 48 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
+| 49 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 50 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
 
 
 

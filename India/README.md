@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-03-11 14:16:36 UTC`
+📆 Last Updated: `2023-03-11 15:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for India
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
-| 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 3 | [#GetActiveWithAppleWatch](http://twitter.com/search?q=%23GetActiveWithAppleWatch) | N/A |
-| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 5 | [#BholaaYatraBegins](http://twitter.com/search?q=%23BholaaYatraBegins) | N/A |
-| 6 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
-| 7 | [Ashim Ahluwalia](http://twitter.com/search?q=Ashim+Ahluwalia) | N/A |
-| 8 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
-| 9 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 11 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
-| 12 | [a. yes](http://twitter.com/search?q=a.+yes) | N/A |
-| 13 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 14 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 15 | [A. Green](http://twitter.com/search?q=A.+Green) | N/A |
-| 16 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 17 | [Bengaluru-Mysuru Expressway](http://twitter.com/search?q=Bengaluru-Mysuru+Expressway) | N/A |
-| 18 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 19 | [ADAS](http://twitter.com/search?q=ADAS) | N/A |
+| 1 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [#EpitomeOfKollywoodAJITH](http://twitter.com/search?q=%23EpitomeOfKollywoodAJITH) | N/A |
+| 4 | [#GetActiveWithAppleWatch](http://twitter.com/search?q=%23GetActiveWithAppleWatch) | N/A |
+| 5 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
+| 6 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 7 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 8 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 9 | [Purnima R](http://twitter.com/search?q=Purnima+R) | N/A |
+| 10 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 11 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 12 | [MEMORABLE 500 ANUJ DAYS](http://twitter.com/search?q=MEMORABLE+500+ANUJ+DAYS) | N/A |
+| 13 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 14 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 15 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [DHEESHRA MADE PREERAN ICONIC](http://twitter.com/search?q=DHEESHRA+MADE+PREERAN+ICONIC) | N/A |
+| 19 | [A. Yes](http://twitter.com/search?q=A.+Yes) | N/A |
 | 20 | [STAY BLESSED TEJRAN](http://twitter.com/search?q=STAY+BLESSED+TEJRAN) | N/A |
-| 21 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 22 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 23 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 24 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 25 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 26 | [BRACE YOURSELF](http://twitter.com/search?q=BRACE+YOURSELF) | N/A |
-| 27 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
-| 28 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
-| 29 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
-| 30 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
-| 31 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 32 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [Delhi Police](http://twitter.com/search?q=Delhi+Police) | N/A |
-| 34 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
-| 35 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 36 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 37 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
-| 38 | [Flat](http://twitter.com/search?q=Flat) | N/A |
-| 39 | [#ChaloMachilipatnam](http://twitter.com/search?q=%23ChaloMachilipatnam) | N/A |
-| 40 | [#GGvDC](http://twitter.com/search?q=%23GGvDC) | N/A |
-| 41 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 42 | [#SwatiMaliwal](http://twitter.com/search?q=%23SwatiMaliwal) | N/A |
-| 43 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 44 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
-| 45 | [#DasaraTrailer](http://twitter.com/search?q=%23DasaraTrailer) | N/A |
-| 46 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 47 | [#Ninaivirukka](http://twitter.com/search?q=%23Ninaivirukka) | N/A |
-| 48 | [#AAP_MisleadingMoosecase](http://twitter.com/search?q=%23AAP_MisleadingMoosecase) | N/A |
-| 49 | [#LokeshKanagaraj](http://twitter.com/search?q=%23LokeshKanagaraj) | N/A |
-| 50 | [#DholakiasOnPrime](http://twitter.com/search?q=%23DholakiasOnPrime) | N/A |
+| 21 | [दिल्ली महिला आयोग](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 22 | [A. Green](http://twitter.com/search?q=A.+Green) | N/A |
+| 23 | [B. Phantom Black](http://twitter.com/search?q=B.+Phantom+Black) | N/A |
+| 24 | [लालू परिवार](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [ADAS](http://twitter.com/search?q=ADAS) | N/A |
+| 26 | [Injustice To Sushant 1000Days](http://twitter.com/search?q=Injustice+To+Sushant+1000Days) | N/A |
+| 27 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 28 | [लालू प्रसाद यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 29 | [A. Up to 100x](http://twitter.com/search?q=A.+Up+to+100x) | N/A |
+| 30 | [सिलिकॉन वैली बैंक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%89%e0%a4%a8+%e0%a4%b5%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%95) | N/A |
+| 31 | [bengaluru-mysuru expressway](http://twitter.com/search?q=bengaluru-mysuru+expressway) | N/A |
+| 32 | [BRACE YOURSELF](http://twitter.com/search?q=BRACE+YOURSELF) | N/A |
+| 33 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 34 | [B. Dynamic AMOLED 2X](http://twitter.com/search?q=B.+Dynamic+AMOLED+2X) | N/A |
+| 35 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 36 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 37 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 38 | [A. 200MP](http://twitter.com/search?q=A.+200MP) | N/A |
+| 39 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
+| 40 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 41 | [Delhi Police](http://twitter.com/search?q=Delhi+Police) | N/A |
+| 42 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 43 | [Flat](http://twitter.com/search?q=Flat) | N/A |
+| 44 | [ED CBI](http://twitter.com/search?q=ED+CBI) | N/A |
+| 45 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 46 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
+| 47 | [#BholaaYatraBegins](http://twitter.com/search?q=%23BholaaYatraBegins) | N/A |
+| 48 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
+| 49 | [#ChaloMachilipatnam](http://twitter.com/search?q=%23ChaloMachilipatnam) | N/A |
+| 50 | [#KeyToAchievement](http://twitter.com/search?q=%23KeyToAchievement) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-11 14:15:51 UTC`
+📆 Last Updated: `2023-03-11 15:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 3 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 4 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 5 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 6 | [#GaryGate](http://twitter.com/search?q=%23GaryGate) | N/A |
-| 7 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 8 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 9 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 10 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 11 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
-| 12 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
-| 13 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 14 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 15 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 16 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 17 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 18 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 19 | [Van Disney](http://twitter.com/search?q=Van+Disney) | Van Disney is a term used to describe the merchandise and products associated with the Disney brand. It is often used to refer to items that are sold in Disney stores or online, such as toys, clothing, and other memorabilia. The term is derived from the name of Walt Disney's first animation studio, which was called "The Van Beuren Studio." |
-| 20 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 21 | [#IStandWithGaryLineker](http://twitter.com/search?q=%23IStandWithGaryLineker) | N/A |
-| 22 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 23 | [Dion](http://twitter.com/search?q=Dion) | N/A |
-| 24 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
-| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 26 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 28 | [Robbie Neilson](http://twitter.com/search?q=Robbie+Neilson) | N/A |
-| 29 | [Harvey Elliot](http://twitter.com/search?q=Harvey+Elliot) | N/A |
-| 30 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 31 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
-| 32 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
-| 33 | [Ouattara](http://twitter.com/search?q=Ouattara) | N/A |
-| 34 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 35 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
-| 36 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 37 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 38 | [Fighting Talk](http://twitter.com/search?q=Fighting+Talk) | N/A |
-| 39 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 40 | [Adam Smith](http://twitter.com/search?q=Adam+Smith) | N/A |
-| 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 42 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 43 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 44 | [5Live](http://twitter.com/search?q=5Live) | N/A |
-| 45 | [The Repair Shop](http://twitter.com/search?q=The+Repair+Shop) | N/A |
-| 46 | [game off](http://twitter.com/search?q=game+off) | N/A |
-| 47 | [Orwell](http://twitter.com/search?q=Orwell) | N/A |
-| 48 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 49 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 50 | [BBC Sport](http://twitter.com/search?q=BBC+Sport) | N/A |
+| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 5 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 6 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 7 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
+| 8 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
+| 9 | [#garygate](http://twitter.com/search?q=%23garygate) | N/A |
+| 10 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
+| 11 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 12 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 13 | [Billing](http://twitter.com/search?q=Billing) | N/A |
+| 14 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 15 | [#MOTDboycott](http://twitter.com/search?q=%23MOTDboycott) | N/A |
+| 16 | [Man Utd 7-0](http://twitter.com/search?q=Man+Utd+7-0) | N/A |
+| 17 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 18 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 19 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 20 | [Rhys Webb](http://twitter.com/search?q=Rhys+Webb) | N/A |
+| 21 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 22 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 23 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 24 | [Cherries](http://twitter.com/search?q=Cherries) | N/A |
+| 25 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 26 | [Bargain Hunt](http://twitter.com/search?q=Bargain+Hunt) | N/A |
+| 27 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 28 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 29 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 30 | [Coke Zero](http://twitter.com/search?q=Coke+Zero) | N/A |
+| 31 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 32 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 33 | [Liam Williams](http://twitter.com/search?q=Liam+Williams) | N/A |
+| 34 | [Man U 7-0](http://twitter.com/search?q=Man+U+7-0) | N/A |
+| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 36 | [Klopps](http://twitter.com/search?q=Klopps) | N/A |
+| 37 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 38 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 39 | [Van Disney](http://twitter.com/search?q=Van+Disney) | Van Disney is a term used to describe the merchandise and products associated with the Disney brand. It is often used to refer to items that are sold in Disney stores or online, such as toys, clothing, and other memorabilia. The term is derived from the name of Walt Disney's first animation studio, which was called "The Van Beuren Studio." |
+| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 41 | [Chelsea and Arsenal](http://twitter.com/search?q=Chelsea+and+Arsenal) | N/A |
+| 42 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 43 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 44 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 45 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 46 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 47 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
+| 48 | [Final Score](http://twitter.com/search?q=Final+Score) | N/A |
+| 49 | [Ewen](http://twitter.com/search?q=Ewen) | N/A |
+| 50 | [Gary O'Neil](http://twitter.com/search?q=Gary+O%27Neil) | N/A |
 
 
 
