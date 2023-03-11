@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-11 00:28:05 UTC`
+📆 Last Updated: `2023-03-11 01:43:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 2 | [#SavitribaiPhule](http://twitter.com/search?q=%23SavitribaiPhule) | #SavitribaiPhule is the name of a 19th century Indian social reformer and educator who fought for the rights of women and lower castes in India. She is widely regarded as one of the most influential figures in Indian history. The English translation of her name is "Protector of Women". |
-| 3 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 4 | [#RCBvUPW](http://twitter.com/search?q=%23RCBvUPW) | N/A |
-| 5 | [#NandriNadda](http://twitter.com/search?q=%23NandriNadda) | N/A |
-| 6 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 7 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 8 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 9 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 1 | [#DriveAwayStress](http://twitter.com/search?q=%23DriveAwayStress) | N/A |
+| 2 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
+| 3 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 4 | [#GodMorningSaturday](http://twitter.com/search?q=%23GodMorningSaturday) | N/A |
+| 5 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 6 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 7 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 8 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
+| 9 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
 | 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 12 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
-| 13 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
-| 14 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
-| 15 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 16 | [सतीश कौशिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%bf%e0%a4%95) | N/A |
-| 17 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 18 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
-| 19 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
-| 20 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 21 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
-| 22 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 23 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
-| 24 | [KUCH ITNE HASEEN FT PRIYANKIT](http://twitter.com/search?q=KUCH+ITNE+HASEEN+FT+PRIYANKIT) | N/A |
-| 25 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 26 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
-| 27 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 28 | [prisoners say](http://twitter.com/search?q=prisoners+say) | N/A |
-| 29 | [Mask](http://twitter.com/search?q=Mask) | N/A |
-| 30 | [jodhpur jail](http://twitter.com/search?q=jodhpur+jail) | N/A |
-| 31 | [रितेश अग्रवाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%87%e0%a4%b6+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 32 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 33 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 34 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 35 | [B. ThinkShield for Mobile](http://twitter.com/search?q=B.+ThinkShield+for+Mobile) | N/A |
-| 36 | [Modiji Ensure Justice 4SSR](http://twitter.com/search?q=Modiji+Ensure+Justice+4SSR) | N/A |
-| 37 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 38 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 39 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
-| 40 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 11 | [सावित्रीबाई फुले](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 12 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 13 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 14 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 15 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 16 | [Betty W](http://twitter.com/search?q=Betty+W) | N/A |
+| 17 | [Shantha R](http://twitter.com/search?q=Shantha+R) | N/A |
+| 18 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 19 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 20 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
+| 21 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [Suprabhatam](http://twitter.com/search?q=Suprabhatam) | N/A |
+| 23 | [D. 13 5G](http://twitter.com/search?q=D.+13+5G) | N/A |
+| 24 | [केंद्रीय औद्योगिक सुरक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 25 | [A. MediaTek Dimensity 930](http://twitter.com/search?q=A.+MediaTek+Dimensity+930) | N/A |
+| 26 | [नारी मुक्ति आंदोलन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 27 | [ak as budhwar on netflix](http://twitter.com/search?q=ak+as+budhwar+on+netflix) | N/A |
+| 28 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 29 | [माधवराव सिंधिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 30 | [किरोड़ी लाल मीणा](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a5%80%e0%a4%a3%e0%a4%be) | N/A |
+| 31 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 32 | [A. 5](http://twitter.com/search?q=A.+5) | N/A |
+| 33 | [Tibetan Uprising Day](http://twitter.com/search?q=Tibetan+Uprising+Day) | N/A |
+| 34 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 35 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
+| 36 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
+| 37 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 38 | [Mask](http://twitter.com/search?q=Mask) | N/A |
+| 39 | [WELCOME DIRECTOR SHAHEER](http://twitter.com/search?q=WELCOME+DIRECTOR+SHAHEER) | N/A |
+| 40 | [Good Morning Sir](http://twitter.com/search?q=Good+Morning+Sir) | N/A |
 | 41 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 42 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 43 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 44 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 45 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 42 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 43 | [फिल्म जगत](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 44 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 45 | [B. ThinkShield for Mobile](http://twitter.com/search?q=B.+ThinkShield+for+Mobile) | N/A |
 | 46 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 47 | [Roka](http://twitter.com/search?q=Roka) | N/A |
+| 47 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 48 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 49 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-11 00:27:55 UTC`
+📆 Last Updated: `2023-03-11 01:43:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#OCCUPYINEC](http://twitter.com/search?q=%23OCCUPYINEC) | N/A |
 | 2 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 3 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
-| 4 | [#anasrevenge](http://twitter.com/search?q=%23anasrevenge) | N/A |
-| 5 | [#djasapxberritiga](http://twitter.com/search?q=%23djasapxberritiga) | N/A |
-| 6 | [#KudabankScam](http://twitter.com/search?q=%23KudabankScam) | N/A |
-| 7 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 8 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
-| 9 | [TRIAGE](http://twitter.com/search?q=TRIAGE) | N/A |
-| 10 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 11 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 12 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
-| 13 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 14 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 3 | [#KudabankScam](http://twitter.com/search?q=%23KudabankScam) | N/A |
+| 4 | [#PyjamasParty](http://twitter.com/search?q=%23PyjamasParty) | N/A |
+| 5 | [#RexxieBigTimeAlbum](http://twitter.com/search?q=%23RexxieBigTimeAlbum) | N/A |
+| 6 | [#19years](http://twitter.com/search?q=%2319years) | N/A |
+| 7 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 8 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 11 | [Okoye](http://twitter.com/search?q=Okoye) | N/A |
+| 12 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 13 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 14 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
 | 15 | [Mark Essien](http://twitter.com/search?q=Mark+Essien) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 19 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 20 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 21 | [Ababio](http://twitter.com/search?q=Ababio) | N/A |
-| 22 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 24 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 26 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 27 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
-| 28 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
-| 29 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
-| 30 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 31 | [JSS 1](http://twitter.com/search?q=JSS+1) | N/A |
-| 32 | [I AM THE EVIDENCE](http://twitter.com/search?q=I+AM+THE+EVIDENCE) | N/A |
-| 33 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 34 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
-| 35 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 36 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
-| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 38 | [Primary 2](http://twitter.com/search?q=Primary+2) | N/A |
-| 39 | [Panla](http://twitter.com/search?q=Panla) | N/A |
-| 40 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
-| 41 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 42 | [Oats](http://twitter.com/search?q=Oats) | N/A |
-| 43 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
-| 44 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
-| 45 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 46 | [22bet](http://twitter.com/search?q=22bet) | N/A |
-| 47 | [compromise inec](http://twitter.com/search?q=compromise+inec) | N/A |
-| 48 | [Titus](http://twitter.com/search?q=Titus) | N/A |
-| 49 | [PRAYER FOR KANAGA JNR](http://twitter.com/search?q=PRAYER+FOR+KANAGA+JNR) | N/A |
-| 50 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 16 | [TRIAGE](http://twitter.com/search?q=TRIAGE) | N/A |
+| 17 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 18 | [Bookies](http://twitter.com/search?q=Bookies) | N/A |
+| 19 | [JSS 1](http://twitter.com/search?q=JSS+1) | N/A |
+| 20 | [Titus](http://twitter.com/search?q=Titus) | N/A |
+| 21 | [Panla](http://twitter.com/search?q=Panla) | N/A |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 23 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
+| 24 | [22bet](http://twitter.com/search?q=22bet) | N/A |
+| 25 | [Eden Hazard](http://twitter.com/search?q=Eden+Hazard) | N/A |
+| 26 | [Joe Goldberg](http://twitter.com/search?q=Joe+Goldberg) | N/A |
+| 27 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 28 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 29 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 30 | [brt bus](http://twitter.com/search?q=brt+bus) | N/A |
+| 31 | [Mikel Obi](http://twitter.com/search?q=Mikel+Obi) | N/A |
+| 32 | [1xbet](http://twitter.com/search?q=1xbet) | N/A |
+| 33 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 34 | [5 Chelsea](http://twitter.com/search?q=5+Chelsea) | N/A |
+| 35 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 36 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 37 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 38 | [Obey Court Order](http://twitter.com/search?q=Obey+Court+Order) | N/A |
+| 39 | [Kise](http://twitter.com/search?q=Kise) | N/A |
+| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 41 | [Kingsley](http://twitter.com/search?q=Kingsley) | N/A |
+| 42 | [Vincenzo](http://twitter.com/search?q=Vincenzo) | N/A |
+| 43 | [TALENTED PHYNA](http://twitter.com/search?q=TALENTED+PHYNA) | N/A |
+| 44 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [Primary 2](http://twitter.com/search?q=Primary+2) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
+| 49 | [Punch](http://twitter.com/search?q=Punch) | N/A |
+| 50 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 
 
 

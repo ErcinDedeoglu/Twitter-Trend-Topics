@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-11 00:27:36 UTC`
+📆 Last Updated: `2023-03-11 01:43:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bercy](http://twitter.com/search?q=Bercy) | N/A |
-| 2 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 3 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 4 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 5 | [#LOSCOL](http://twitter.com/search?q=%23LOSCOL) | N/A |
-| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 7 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 8 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 9 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 1 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 2 | [Bercy](http://twitter.com/search?q=Bercy) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [#LOSCOL](http://twitter.com/search?q=%23LOSCOL) | N/A |
+| 5 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 6 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 7 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 8 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 9 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
 | 10 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 11 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 11 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
 | 12 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 | 13 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 14 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 15 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 16 | [#LOLQuiRitSort](http://twitter.com/search?q=%23LOLQuiRitSort) | N/A |
-| 17 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 18 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 14 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 15 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 16 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 17 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 19 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 20 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 21 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 22 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 23 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 24 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 25 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 26 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
-| 27 | [Riou](http://twitter.com/search?q=Riou) | N/A |
-| 28 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 29 | [Ounas](http://twitter.com/search?q=Ounas) | N/A |
-| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 31 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 32 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 33 | [Lille Lyon](http://twitter.com/search?q=Lille+Lyon) | N/A |
-| 34 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 35 | [Bleuets](http://twitter.com/search?q=Bleuets) | N/A |
-| 36 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 37 | [Lolo White](http://twitter.com/search?q=Lolo+White) | N/A |
-| 38 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 39 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
-| 40 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
-| 41 | [Olympique Lyonnais](http://twitter.com/search?q=Olympique+Lyonnais) | N/A |
-| 42 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
-| 43 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 44 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 45 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 47 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
-| 48 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
-| 49 | [Hongjoong](http://twitter.com/search?q=Hongjoong) | N/A |
-| 50 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
+| 20 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 21 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 22 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 23 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 24 | [#UneFamilleEnOr](http://twitter.com/search?q=%23UneFamilleEnOr) | N/A |
+| 25 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
+| 26 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 27 | [Laura Felpin](http://twitter.com/search?q=Laura+Felpin) | N/A |
+| 28 | [Jonathan Cohen](http://twitter.com/search?q=Jonathan+Cohen) | N/A |
+| 29 | [3 de LOL](http://twitter.com/search?q=3+de+LOL) | N/A |
+| 30 | [Riou](http://twitter.com/search?q=Riou) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 33 | [4 de You](http://twitter.com/search?q=4+de+You) | N/A |
+| 34 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
+| 35 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 36 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
+| 37 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 38 | [Seonghwa](http://twitter.com/search?q=Seonghwa) | N/A |
+| 39 | [Gérard Fauré](http://twitter.com/search?q=G%c3%a9rard+Faur%c3%a9) | N/A |
+| 40 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
+| 41 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
 
 
 

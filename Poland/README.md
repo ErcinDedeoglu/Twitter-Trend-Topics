@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-11 00:28:25 UTC`
+📆 Last Updated: `2023-03-11 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [#OrgiaAfer](http://twitter.com/search?q=%23OrgiaAfer) | N/A |
-| 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
-| 5 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
-| 6 | [#Pogrom](http://twitter.com/search?q=%23Pogrom) | N/A |
-| 7 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
+| 3 | [#RCZŚLĄ](http://twitter.com/search?q=%23RCZ%c5%9aL%c4%84) | N/A |
+| 4 | [#LGDMIE](http://twitter.com/search?q=%23LGDMIE) | N/A |
+| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 6 | [#twojatwarzbrzmiznajomo](http://twitter.com/search?q=%23twojatwarzbrzmiznajomo) | N/A |
+| 7 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 | 8 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 9 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 11 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
-| 12 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 13 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 14 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 15 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
-| 16 | [Dnia Mężczyzny](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzny) | N/A |
-| 17 | [Stawny](http://twitter.com/search?q=Stawny) | N/A |
-| 18 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 19 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
-| 20 | [Interem](http://twitter.com/search?q=Interem) | N/A |
-| 21 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 22 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
-| 23 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
-| 24 | [antonin hajek](http://twitter.com/search?q=antonin+hajek) | N/A |
-| 25 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 26 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
-| 27 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
-| 28 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 31 | [Chojnicach](http://twitter.com/search?q=Chojnicach) | N/A |
-| 32 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
-| 33 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 34 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [jacek żalek](http://twitter.com/search?q=jacek+%c5%bcalek) | N/A |
-| 37 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 38 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 39 | [Drodzy Panowie](http://twitter.com/search?q=Drodzy+Panowie) | N/A |
-| 40 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 41 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 42 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
-| 43 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
-| 44 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 45 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 46 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 47 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
-| 48 | [Łukasz Zwoliński](http://twitter.com/search?q=%c5%81ukasz+Zwoli%c5%84ski) | N/A |
-| 49 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 50 | [Stawka](http://twitter.com/search?q=Stawka) | N/A |
+| 9 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 10 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 11 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 12 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 13 | [Yeboah](http://twitter.com/search?q=Yeboah) | N/A |
+| 14 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 15 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 16 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 17 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 18 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 19 | [Łukasz Zwoliński](http://twitter.com/search?q=%c5%81ukasz+Zwoli%c5%84ski) | N/A |
+| 20 | [Chojnicach](http://twitter.com/search?q=Chojnicach) | N/A |
+| 21 | [Stawny](http://twitter.com/search?q=Stawny) | N/A |
+| 22 | [Spezii](http://twitter.com/search?q=Spezii) | N/A |
+| 23 | [Interem](http://twitter.com/search?q=Interem) | N/A |
+| 24 | [Latkowskiego](http://twitter.com/search?q=Latkowskiego) | N/A |
+| 25 | [Ciekawa](http://twitter.com/search?q=Ciekawa) | N/A |
+| 26 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 27 | [Dnia Mężczyzny](http://twitter.com/search?q=Dnia+M%c4%99%c5%bcczyzny) | N/A |
+| 28 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 29 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Germans](http://twitter.com/search?q=Germans) | N/A |
+| 32 | [Katowice](http://twitter.com/search?q=Katowice) | N/A |
+| 33 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
+| 34 | [ambasador usa](http://twitter.com/search?q=ambasador+usa) | N/A |
+| 35 | [Chłopaki](http://twitter.com/search?q=Ch%c5%82opaki) | N/A |
+| 36 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 37 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 38 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 39 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 40 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 41 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
+| 42 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 43 | [prezes nbp](http://twitter.com/search?q=prezes+nbp) | N/A |
+| 44 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 45 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 46 | [adam glapiński](http://twitter.com/search?q=adam+glapi%c5%84ski) | N/A |
+| 47 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 48 | [Wadowic](http://twitter.com/search?q=Wadowic) | N/A |
+| 49 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 50 | [kosiniak](http://twitter.com/search?q=kosiniak) | N/A |
 
 
 

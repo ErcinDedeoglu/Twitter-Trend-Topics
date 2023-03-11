@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-11 00:28:16 UTC`
+📆 Last Updated: `2023-03-11 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 2 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 3 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 4 | [#FluffyTapatio](http://twitter.com/search?q=%23FluffyTapatio) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 7 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 8 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 9 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
-| 10 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
-| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 12 | [FUNKO](http://twitter.com/search?q=FUNKO) | N/A |
-| 13 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 14 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 15 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 16 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 17 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 1 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 4 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 5 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 6 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 9 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
+| 10 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 11 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 12 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 13 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 14 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 15 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 16 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 17 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
 | 18 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 19 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 20 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 20 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
 | 21 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
 | 22 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
 | 23 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 24 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 25 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 26 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 28 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
-| 31 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
-| 32 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
-| 33 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 34 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 35 | [Free Jacob Chansley](http://twitter.com/search?q=Free+Jacob+Chansley) | N/A |
-| 36 | [1 WR](http://twitter.com/search?q=1+WR) | N/A |
-| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 38 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 39 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
-| 40 | [Ballard](http://twitter.com/search?q=Ballard) | N/A |
-| 41 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 42 | [FLEECED](http://twitter.com/search?q=FLEECED) | N/A |
-| 43 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 44 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 45 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 46 | [HAUL](http://twitter.com/search?q=HAUL) | N/A |
-| 47 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
+| 24 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 25 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 27 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 28 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 29 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 30 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 31 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 32 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 33 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 34 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 35 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 36 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 37 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 38 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
+| 39 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 40 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 41 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 42 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
+| 43 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 44 | [Triple Threat](http://twitter.com/search?q=Triple+Threat) | N/A |
+| 45 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 46 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 47 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 48 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 
 
 

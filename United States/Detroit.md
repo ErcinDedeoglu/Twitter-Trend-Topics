@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-11 00:28:11 UTC`
+📆 Last Updated: `2023-03-11 01:43:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 3 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 1 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 3 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
 | 4 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 5 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 6 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 7 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 8 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 9 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 10 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 7 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 8 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 9 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 10 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
 | 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 12 | [#KeepPounding](http://twitter.com/search?q=%23KeepPounding) | N/A |
-| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 14 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
-| 17 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
-| 18 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
-| 19 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
-| 20 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 21 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 22 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 23 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 24 | [Free Jacob Chansley](http://twitter.com/search?q=Free+Jacob+Chansley) | N/A |
-| 25 | [1 WR](http://twitter.com/search?q=1+WR) | N/A |
-| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 27 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 28 | [Mark Murphy](http://twitter.com/search?q=Mark+Murphy) | N/A |
-| 29 | [Ballard](http://twitter.com/search?q=Ballard) | N/A |
-| 30 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 31 | [FLEECED](http://twitter.com/search?q=FLEECED) | N/A |
-| 32 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 33 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 34 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 35 | [HAUL](http://twitter.com/search?q=HAUL) | N/A |
-| 36 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
-| 37 | [Kmet](http://twitter.com/search?q=Kmet) | N/A |
-| 38 | [Terrace Marshall](http://twitter.com/search?q=Terrace+Marshall) | N/A |
-| 39 | [Draft Day](http://twitter.com/search?q=Draft+Day) | N/A |
-| 40 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 41 | [Paris Johnson](http://twitter.com/search?q=Paris+Johnson) | N/A |
-| 42 | [Tepper](http://twitter.com/search?q=Tepper) | N/A |
-| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 44 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 45 | [Cam 2.0](http://twitter.com/search?q=Cam+2.0) | N/A |
-| 46 | [Dennis Gates](http://twitter.com/search?q=Dennis+Gates) | N/A |
-| 47 | [Tyree Wilson](http://twitter.com/search?q=Tyree+Wilson) | N/A |
-| 48 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 16 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 17 | [#cashappinwild](http://twitter.com/search?q=%23cashappinwild) | N/A |
+| 18 | [#GTLive](http://twitter.com/search?q=%23GTLive) | N/A |
+| 19 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 20 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 21 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 22 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 23 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 24 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 25 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 26 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
+| 27 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 28 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 29 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 30 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
+| 31 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 32 | [Triple Threat](http://twitter.com/search?q=Triple+Threat) | N/A |
+| 33 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
+| 34 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
+| 35 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 36 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 37 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
+| 38 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 41 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 42 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 43 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
+| 44 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 45 | [1 WR](http://twitter.com/search?q=1+WR) | N/A |
+| 46 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
+| 47 | [Ballard](http://twitter.com/search?q=Ballard) | N/A |
+| 48 | [Xavier Woods](http://twitter.com/search?q=Xavier+Woods) | N/A |
 
 
 

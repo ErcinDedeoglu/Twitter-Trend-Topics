@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-11 00:27:42 UTC`
+📆 Last Updated: `2023-03-11 01:43:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
 | 2 | [#ElDesafioSemifinal2](http://twitter.com/search?q=%23ElDesafioSemifinal2) | N/A |
-| 3 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 4 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 5 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
+| 3 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 4 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
+| 5 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
 | 6 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
-| 7 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
-| 8 | [Unal](http://twitter.com/search?q=Unal) | N/A |
-| 9 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 10 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 11 | [Portu](http://twitter.com/search?q=Portu) | N/A |
-| 12 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 13 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
-| 14 | [Munir](http://twitter.com/search?q=Munir) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 17 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 18 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
-| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 20 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 21 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 22 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 23 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
-| 24 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 25 | [Ramis](http://twitter.com/search?q=Ramis) | N/A |
-| 26 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 27 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 28 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 29 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 30 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 31 | [Ismael](http://twitter.com/search?q=Ismael) | N/A |
-| 32 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 33 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 34 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 35 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 36 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 37 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 38 | [Fornite](http://twitter.com/search?q=Fornite) | N/A |
-| 39 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 40 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 42 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 43 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 44 | [CEOE](http://twitter.com/search?q=CEOE) | N/A |
-| 45 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 46 | [#pinochopantoja](http://twitter.com/search?q=%23pinochopantoja) | N/A |
-| 47 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 7 | [Portu](http://twitter.com/search?q=Portu) | N/A |
+| 8 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
+| 9 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
+| 10 | [Unal](http://twitter.com/search?q=Unal) | N/A |
+| 11 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 14 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 15 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 16 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 17 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 18 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 19 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 20 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 21 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
+| 22 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 23 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 24 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
+| 25 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 27 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 28 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
+| 29 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 30 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
+| 31 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 32 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 33 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 34 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 35 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 36 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 37 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 38 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 39 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 40 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 41 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 42 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 43 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 44 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
+| 45 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 46 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 47 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
 
 
 

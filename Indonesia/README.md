@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-11 00:28:22 UTC`
+📆 Last Updated: `2023-03-11 01:43:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
-| 2 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
-| 3 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
-| 4 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
-| 5 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 1 | [#bcomss2023](http://twitter.com/search?q=%23bcomss2023) | N/A |
+| 2 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
+| 3 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
+| 4 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 5 | [#AmalkanSyariahKaffah](http://twitter.com/search?q=%23AmalkanSyariahKaffah) | N/A |
 | 6 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 7 | [#AmalkanSyariahKaffah](http://twitter.com/search?q=%23AmalkanSyariahKaffah) | N/A |
-| 8 | [#TheGlory2](http://twitter.com/search?q=%23TheGlory2) | N/A |
-| 9 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
-| 10 | [#BI_LOLTheHiddenStageinJKT](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinJKT) | N/A |
-| 11 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 12 | [#RIPKemenkeu](http://twitter.com/search?q=%23RIPKemenkeu) | N/A |
-| 13 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
-| 14 | [dead inside collection](http://twitter.com/search?q=dead+inside+collection) | N/A |
-| 15 | [kuncigoods](http://twitter.com/search?q=kuncigoods) | N/A |
-| 16 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
-| 17 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
-| 18 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
-| 19 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
-| 20 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 21 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 22 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 25 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 26 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 28 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 29 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 30 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
-| 31 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 32 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 33 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 34 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 35 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
-| 36 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
-| 37 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
-| 38 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
-| 39 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 40 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 41 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 42 | [Morn](http://twitter.com/search?q=Morn) | N/A |
-| 43 | [THE BUBBLES AROUND BIBLE](http://twitter.com/search?q=THE+BUBBLES+AROUND+BIBLE) | N/A |
-| 44 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 45 | [kyungsoo anak gaul seoul](http://twitter.com/search?q=kyungsoo+anak+gaul+seoul) | N/A |
-| 46 | [Pembunuh](http://twitter.com/search?q=Pembunuh) | N/A |
-| 47 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 48 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 49 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
-| 50 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 7 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 8 | [bikin adem lihatnya](http://twitter.com/search?q=bikin+adem+lihatnya) | N/A |
+| 9 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 10 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 11 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 12 | [Jadilah Pembela Agama Allah](http://twitter.com/search?q=Jadilah+Pembela+Agama+Allah) | N/A |
+| 13 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
+| 14 | [kaos metal keren](http://twitter.com/search?q=kaos+metal+keren) | N/A |
+| 15 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 16 | [baju hammersonic](http://twitter.com/search?q=baju+hammersonic) | N/A |
+| 17 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 18 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 19 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 20 | [HAPPY DAY IN CARATLAND](http://twitter.com/search?q=HAPPY+DAY+IN+CARATLAND) | N/A |
+| 21 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 22 | [HANBIN IN JAKARTA](http://twitter.com/search?q=HANBIN+IN+JAKARTA) | N/A |
+| 23 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 24 | [Irish Bella](http://twitter.com/search?q=Irish+Bella) | N/A |
+| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 26 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 27 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
+| 28 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 29 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 30 | [Spezia](http://twitter.com/search?q=Spezia) | Spezia is a city in northern Italy, located in the Liguria region. It is the capital of the province of La Spezia and has a population of around 90,000 people. The name Spezia comes from the Latin word for spice, referring to the city's long history as a trading port for spices and other goods. In English, Spezia means "spice". |
+| 31 | [08.00 WIB](http://twitter.com/search?q=08.00+WIB) | N/A |
+| 32 | [HAECHAN PIERCING](http://twitter.com/search?q=HAECHAN+PIERCING) | N/A |
+| 33 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 34 | [Qunut](http://twitter.com/search?q=Qunut) | N/A |
+| 35 | [mingyu potong rambut](http://twitter.com/search?q=mingyu+potong+rambut) | N/A |
+| 36 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 37 | [Daniel Maldini](http://twitter.com/search?q=Daniel+Maldini) | N/A |
+| 38 | [Baterai 5000mAh](http://twitter.com/search?q=Baterai+5000mAh) | N/A |
+| 39 | [Lapas Narkotika Jakarta](http://twitter.com/search?q=Lapas+Narkotika+Jakarta) | N/A |
+| 40 | [Bagong](http://twitter.com/search?q=Bagong) | N/A |
+| 41 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 42 | [Ammar Zoni](http://twitter.com/search?q=Ammar+Zoni) | N/A |
+| 43 | [THE JIMIN IS COMING](http://twitter.com/search?q=THE+JIMIN+IS+COMING) | N/A |
+| 44 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 45 | [Pembunuh](http://twitter.com/search?q=Pembunuh) | N/A |
+| 46 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 47 | [malam jumat](http://twitter.com/search?q=malam+jumat) | N/A |
+| 48 | [LPSK](http://twitter.com/search?q=LPSK) | N/A |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 50 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
 
 
 
