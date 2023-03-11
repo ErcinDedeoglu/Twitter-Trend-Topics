@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-11 04:17:50 UTC`
+📆 Last Updated: `2023-03-11 05:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 3 | [#Hamburg](http://twitter.com/search?q=%23Hamburg) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 4 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
 | 5 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
-| 6 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 7 | [#forward23](http://twitter.com/search?q=%23forward23) | N/A |
-| 8 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 10 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 11 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 12 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 13 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 14 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 15 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 16 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 17 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 18 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
-| 19 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 20 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 21 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 23 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 25 | [medizin](http://twitter.com/search?q=medizin) | N/A |
-| 26 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 28 | [raketen](http://twitter.com/search?q=raketen) | N/A |
-| 29 | [Alien](http://twitter.com/search?q=Alien) | N/A |
-| 30 | [annual day](http://twitter.com/search?q=annual+day) | N/A |
-| 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 32 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
-| 33 | [Vorträge](http://twitter.com/search?q=Vortr%c3%a4ge) | N/A |
-| 34 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 35 | [desinformation](http://twitter.com/search?q=desinformation) | N/A |
-| 36 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 37 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 38 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 39 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 41 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 42 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 43 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 45 | [landwirtschaft](http://twitter.com/search?q=landwirtschaft) | N/A |
-| 46 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 47 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 48 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 49 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
-| 50 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 6 | [#SRFArena](http://twitter.com/search?q=%23SRFArena) | N/A |
+| 7 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 8 | [#digitalenvironment](http://twitter.com/search?q=%23digitalenvironment) | N/A |
+| 9 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 10 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 11 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 12 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 13 | [bewilligung](http://twitter.com/search?q=bewilligung) | N/A |
+| 14 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 15 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 16 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 17 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 18 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 19 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
+| 24 | [Verschwörungstheorien](http://twitter.com/search?q=Verschw%c3%b6rungstheorien) | N/A |
+| 25 | [Seele](http://twitter.com/search?q=Seele) | N/A |
+| 26 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 27 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 28 | [medizin](http://twitter.com/search?q=medizin) | N/A |
+| 29 | [Migros](http://twitter.com/search?q=Migros) | N/A |
+| 30 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 31 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 32 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 33 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 34 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 37 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 38 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 39 | [regierungen](http://twitter.com/search?q=regierungen) | N/A |
+| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 42 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 43 | [Stein](http://twitter.com/search?q=Stein) | N/A |
+| 44 | [Feind](http://twitter.com/search?q=Feind) | N/A |
+| 45 | [Ripple](http://twitter.com/search?q=Ripple) | N/A |
+| 46 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 47 | [ärztin](http://twitter.com/search?q=%c3%a4rztin) | N/A |
+| 48 | [Frechheit](http://twitter.com/search?q=Frechheit) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
 
 
 

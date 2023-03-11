@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-11 04:17:42 UTC`
+📆 Last Updated: `2023-03-11 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 2 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 2 | [#andvil](http://twitter.com/search?q=%23andvil) | N/A |
 | 3 | [#chaohl](http://twitter.com/search?q=%23chaohl) | N/A |
 | 4 | [#deafspraakopvrijdag](http://twitter.com/search?q=%23deafspraakopvrijdag) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#andvil](http://twitter.com/search?q=%23andvil) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [kampenhout](http://twitter.com/search?q=kampenhout) | N/A |
-| 10 | [nederlandstalige](http://twitter.com/search?q=nederlandstalige) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [#Stikstofakkoord](http://twitter.com/search?q=%23Stikstofakkoord) | N/A |
+| 6 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 8 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [kampenhout](http://twitter.com/search?q=kampenhout) | N/A |
 | 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 14 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 15 | [berlijn](http://twitter.com/search?q=berlijn) | N/A |
-| 16 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 17 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 18 | [tinne](http://twitter.com/search?q=tinne) | N/A |
-| 19 | [25 mw](http://twitter.com/search?q=25+mw) | N/A |
-| 20 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 21 | [defensie](http://twitter.com/search?q=defensie) | N/A |
-| 22 | [Isolde](http://twitter.com/search?q=Isolde) | N/A |
-| 23 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
-| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 25 | [energy efficiency directive](http://twitter.com/search?q=energy+efficiency+directive) | N/A |
-| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 27 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 28 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 29 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 30 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 31 | [beerschot](http://twitter.com/search?q=beerschot) | N/A |
-| 32 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 33 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 15 | [nederlandstalige](http://twitter.com/search?q=nederlandstalige) | N/A |
+| 16 | [beerschot](http://twitter.com/search?q=beerschot) | N/A |
+| 17 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 20 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 21 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 22 | [Vrouwen](http://twitter.com/search?q=Vrouwen) | N/A |
+| 23 | [Arabie Saoudite](http://twitter.com/search?q=Arabie+Saoudite) | N/A |
+| 24 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 25 | [charleroi](http://twitter.com/search?q=charleroi) | N/A |
+| 26 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
+| 27 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 30 | [de moor](http://twitter.com/search?q=de+moor) | N/A |
+| 31 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 32 | [vrt max](http://twitter.com/search?q=vrt+max) | N/A |
+| 33 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 34 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 35 | [theo francken](http://twitter.com/search?q=theo+francken) | N/A |
-| 36 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 37 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 38 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 39 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 43 | [weyts](http://twitter.com/search?q=weyts) | N/A |
-| 44 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 45 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 46 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 47 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 48 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 49 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 50 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 35 | [Wild](http://twitter.com/search?q=Wild) | N/A |
+| 36 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
+| 37 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 39 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 40 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 41 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 42 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 43 | [pogacar](http://twitter.com/search?q=pogacar) | N/A |
+| 44 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 45 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 46 | [Omggg](http://twitter.com/search?q=Omggg) | N/A |
+| 47 | [The Commission](http://twitter.com/search?q=The+Commission) | N/A |
+| 48 | [Damien](http://twitter.com/search?q=Damien) | N/A |
+| 49 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 50 | [Génial](http://twitter.com/search?q=G%c3%a9nial) | N/A |
 
 
 

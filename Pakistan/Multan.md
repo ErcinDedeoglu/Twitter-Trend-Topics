@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-11 04:17:25 UTC`
+📆 Last Updated: `2023-03-11 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#PZvMS](http://twitter.com/search?q=%23PZvMS) | N/A |
 | 2 | [#چوروں_سےحقوق_لینےہونگے](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%d8%b3%db%92%d8%ad%d9%82%d9%88%d9%82_%d9%84%db%8c%d9%86%db%92%db%81%d9%88%d9%86%da%af%db%92) | N/A |
 | 3 | [#ZillEshah](http://twitter.com/search?q=%23ZillEshah) | N/A |
-| 4 | [#BabarAzam𓃵](http://twitter.com/search?q=%23BabarAzam%f0%93%83%b5) | N/A |
-| 5 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 6 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 7 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 8 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 9 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
-| 10 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 11 | [habib university](http://twitter.com/search?q=habib+university) | N/A |
-| 12 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 13 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 14 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
-| 15 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 16 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
-| 17 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 20 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 21 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 22 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 23 | [usman qadir](http://twitter.com/search?q=usman+qadir) | N/A |
-| 24 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 25 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 26 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
-| 27 | [MY KING](http://twitter.com/search?q=MY+KING) | N/A |
-| 28 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 29 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 30 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
-| 31 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
-| 32 | [Halwa](http://twitter.com/search?q=Halwa) | N/A |
-| 33 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 34 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
-| 35 | [Usama mir](http://twitter.com/search?q=Usama+mir) | N/A |
-| 36 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
-| 37 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 38 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
-| 39 | [Saleem](http://twitter.com/search?q=Saleem) | N/A |
-| 40 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 42 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
-| 43 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
-| 44 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 45 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 46 | [America](http://twitter.com/search?q=America) | N/A |
-| 47 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 49 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 4 | [#فیصل_آباد_میں_امید_سحر](http://twitter.com/search?q=%23%d9%81%db%8c%d8%b5%d9%84_%d8%a2%d8%a8%d8%a7%d8%af_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
+| 5 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 6 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
+| 7 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 8 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 9 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 10 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
+| 11 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
+| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 13 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 14 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 17 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
+| 18 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 19 | [Saleem](http://twitter.com/search?q=Saleem) | N/A |
+| 20 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
+| 21 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 23 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
+| 24 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 26 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 27 | [Salman Irshad](http://twitter.com/search?q=Salman+Irshad) | N/A |
+| 28 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
+| 29 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 30 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 31 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
+| 32 | [America](http://twitter.com/search?q=America) | N/A |
+| 33 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 34 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 35 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 37 | [Nahi](http://twitter.com/search?q=Nahi) | N/A |
+| 38 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 39 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 40 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 41 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 42 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
+| 43 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
+| 44 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 45 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 46 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 47 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 48 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 
 
 

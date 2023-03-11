@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-11 04:17:19 UTC`
+📆 Last Updated: `2023-03-11 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kbcweekender](http://twitter.com/search?q=%23kbcweekender) | N/A |
-| 2 | [#JusticeForJeff](http://twitter.com/search?q=%23JusticeForJeff) | N/A |
-| 3 | [#makechaguosmartanaairtel](http://twitter.com/search?q=%23makechaguosmartanaairtel) | N/A |
-| 4 | [#rhonairobi](http://twitter.com/search?q=%23rhonairobi) | N/A |
-| 5 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 6 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 7 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 8 | [Ruto Must Go](http://twitter.com/search?q=Ruto+Must+Go) | N/A |
-| 9 | [Pauline Njoroge](http://twitter.com/search?q=Pauline+Njoroge) | N/A |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 1 | [#JusticeForJeff](http://twitter.com/search?q=%23JusticeForJeff) | N/A |
+| 2 | [#kbcweekender](http://twitter.com/search?q=%23kbcweekender) | N/A |
+| 3 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 4 | [#WababaNation](http://twitter.com/search?q=%23WababaNation) | N/A |
+| 5 | [Terence Creative](http://twitter.com/search?q=Terence+Creative) | N/A |
+| 6 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
+| 7 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
+| 8 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 9 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 10 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 11 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 12 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 13 | [Kalenjins](http://twitter.com/search?q=Kalenjins) | N/A |
-| 14 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 15 | [minne](http://twitter.com/search?q=minne) | N/A |
-| 16 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 17 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 18 | [Nandi](http://twitter.com/search?q=Nandi) | N/A |
-| 19 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 20 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 21 | [baby sagini](http://twitter.com/search?q=baby+sagini) | N/A |
-| 22 | [tsingtao kefofa cup](http://twitter.com/search?q=tsingtao+kefofa+cup) | N/A |
-| 23 | [send money for free](http://twitter.com/search?q=send+money+for+free) | N/A |
-| 24 | [Migori](http://twitter.com/search?q=Migori) | N/A |
-| 25 | [monica juma](http://twitter.com/search?q=monica+juma) | N/A |
-| 26 | [kiwior](http://twitter.com/search?q=kiwior) | N/A |
-| 27 | [Eggs](http://twitter.com/search?q=Eggs) | N/A |
-| 28 | [Dial](http://twitter.com/search?q=Dial) | N/A |
-| 29 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 30 | [sonal](http://twitter.com/search?q=sonal) | N/A |
-| 31 | [Kasarani](http://twitter.com/search?q=Kasarani) | N/A |
-| 32 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 33 | [kara talk series](http://twitter.com/search?q=kara+talk+series) | N/A |
-| 34 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 35 | [Kondele](http://twitter.com/search?q=Kondele) | N/A |
-| 36 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 37 | [Yellow Card](http://twitter.com/search?q=Yellow+Card) | N/A |
-| 38 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 39 | [M-PESA App](http://twitter.com/search?q=M-PESA+App) | N/A |
-| 40 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 41 | [IPPs](http://twitter.com/search?q=IPPs) | N/A |
-| 42 | [Rubis](http://twitter.com/search?q=Rubis) | N/A |
-| 43 | [boutross](http://twitter.com/search?q=boutross) | N/A |
-| 44 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 45 | [Kioni](http://twitter.com/search?q=Kioni) | N/A |
-| 46 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 47 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 48 | [giftpesa](http://twitter.com/search?q=giftpesa) | N/A |
-| 49 | [dr maria](http://twitter.com/search?q=dr+maria) | N/A |
+| 12 | [Kalenjins](http://twitter.com/search?q=Kalenjins) | N/A |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 14 | [minne](http://twitter.com/search?q=minne) | N/A |
+| 15 | [Eggs](http://twitter.com/search?q=Eggs) | N/A |
+| 16 | [send money for free](http://twitter.com/search?q=send+money+for+free) | N/A |
+| 17 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 18 | [Rubis](http://twitter.com/search?q=Rubis) | N/A |
+| 19 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 20 | [kanini kega](http://twitter.com/search?q=kanini+kega) | N/A |
+| 21 | [Nandi](http://twitter.com/search?q=Nandi) | N/A |
+| 22 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 23 | [joseph boinnet](http://twitter.com/search?q=joseph+boinnet) | N/A |
+| 24 | [m-pesa app](http://twitter.com/search?q=m-pesa+app) | N/A |
+| 25 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 26 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 27 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 28 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 29 | [sonal](http://twitter.com/search?q=sonal) | N/A |
+| 30 | [national security advisor](http://twitter.com/search?q=national+security+advisor) | N/A |
+| 31 | [Kioni](http://twitter.com/search?q=Kioni) | N/A |
+| 32 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 33 | [Migori](http://twitter.com/search?q=Migori) | N/A |
+| 34 | [Mass Action](http://twitter.com/search?q=Mass+Action) | N/A |
+| 35 | [stima sacco](http://twitter.com/search?q=stima+sacco) | N/A |
+| 36 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 37 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 38 | [mutahi kibugu](http://twitter.com/search?q=mutahi+kibugu) | N/A |
+| 39 | [monica juma](http://twitter.com/search?q=monica+juma) | N/A |
+| 40 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 41 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 42 | [Kalonzo Musyoka](http://twitter.com/search?q=Kalonzo+Musyoka) | N/A |
+| 43 | [kiwior](http://twitter.com/search?q=kiwior) | N/A |
+| 44 | [sifuna](http://twitter.com/search?q=sifuna) | N/A |
+| 45 | [Vihiga](http://twitter.com/search?q=Vihiga) | N/A |
+| 46 | [cs kithure kindiki](http://twitter.com/search?q=cs+kithure+kindiki) | N/A |
+| 47 | [dr maria](http://twitter.com/search?q=dr+maria) | N/A |
+| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 49 | [Gaddafi](http://twitter.com/search?q=Gaddafi) | N/A |
 
 
 

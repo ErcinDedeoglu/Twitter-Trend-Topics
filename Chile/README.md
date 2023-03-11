@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-11 04:17:43 UTC`
+📆 Last Updated: `2023-03-11 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
-| 2 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
+| 1 | [#CambioDeGabinete](http://twitter.com/search?q=%23CambioDeGabinete) | N/A |
+| 2 | [#CasadoConHijos](http://twitter.com/search?q=%23CasadoConHijos) | N/A |
 | 3 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
-| 4 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 5 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
-| 6 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 4 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
+| 5 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
+| 6 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
 | 7 | [#PodemosHablarCHV](http://twitter.com/search?q=%23PodemosHablarCHV) | N/A |
-| 8 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 9 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
-| 10 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
-| 11 | [Cressy](http://twitter.com/search?q=Cressy) | N/A |
-| 12 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 13 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
-| 14 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 15 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 16 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 17 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 18 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 19 | [RREE](http://twitter.com/search?q=RREE) | N/A |
-| 20 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 8 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 9 | [Alberto Van Klaveren](http://twitter.com/search?q=Alberto+Van+Klaveren) | N/A |
+| 10 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 11 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
+| 12 | [RREE](http://twitter.com/search?q=RREE) | N/A |
+| 13 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 14 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 15 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 16 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 17 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
+| 18 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
+| 19 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 20 | [Cressy](http://twitter.com/search?q=Cressy) | N/A |
 | 21 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
-| 22 | [Kena](http://twitter.com/search?q=Kena) | N/A |
-| 23 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 24 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 25 | [te cagaste a chile](http://twitter.com/search?q=te+cagaste+a+chile) | N/A |
-| 26 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 27 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 28 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 29 | [Marta Maurás](http://twitter.com/search?q=Marta+Maur%c3%a1s) | N/A |
-| 30 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 31 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 32 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 33 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
-| 34 | [cariola](http://twitter.com/search?q=cariola) | N/A |
-| 35 | [jessica lópez](http://twitter.com/search?q=jessica+l%c3%b3pez) | N/A |
-| 36 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 37 | [Eran 7](http://twitter.com/search?q=Eran+7) | N/A |
-| 38 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
-| 39 | [Ministro del Deporte](http://twitter.com/search?q=Ministro+del+Deporte) | N/A |
-| 40 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 41 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
-| 42 | [Juan Carlos García](http://twitter.com/search?q=Juan+Carlos+Garc%c3%ada) | N/A |
-| 43 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 44 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 45 | [Patricio Fernández](http://twitter.com/search?q=Patricio+Fern%c3%a1ndez) | N/A |
-| 46 | [Julieta Brodsky](http://twitter.com/search?q=Julieta+Brodsky) | N/A |
-| 47 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 48 | [OOPP](http://twitter.com/search?q=OOPP) | N/A |
-| 49 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 50 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 22 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 23 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 24 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 25 | [Ministro del Deporte](http://twitter.com/search?q=Ministro+del+Deporte) | N/A |
+| 26 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
+| 27 | [jessica lópez](http://twitter.com/search?q=jessica+l%c3%b3pez) | N/A |
+| 28 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 29 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
+| 30 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 31 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 32 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 33 | [Juan Carlos García](http://twitter.com/search?q=Juan+Carlos+Garc%c3%ada) | N/A |
+| 34 | [Ripamonti](http://twitter.com/search?q=Ripamonti) | N/A |
+| 35 | [Eran 7](http://twitter.com/search?q=Eran+7) | N/A |
+| 36 | [OOPP](http://twitter.com/search?q=OOPP) | N/A |
+| 37 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 38 | [Urrejola](http://twitter.com/search?q=Urrejola) | N/A |
+| 39 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 40 | [Julieta Brodsky](http://twitter.com/search?q=Julieta+Brodsky) | N/A |
+| 41 | [Aisén Etcheverry](http://twitter.com/search?q=Ais%c3%a9n+Etcheverry) | N/A |
+| 42 | [Patricio Fernández](http://twitter.com/search?q=Patricio+Fern%c3%a1ndez) | N/A |
+| 43 | [obras públicas](http://twitter.com/search?q=obras+p%c3%bablicas) | N/A |
+| 44 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 45 | [Relaciones Exteriores](http://twitter.com/search?q=Relaciones+Exteriores) | N/A |
+| 46 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 47 | [ossandón](http://twitter.com/search?q=ossand%c3%b3n) | N/A |
+| 48 | [Juan Delgado](http://twitter.com/search?q=Juan+Delgado) | N/A |
+| 49 | [Ciencias](http://twitter.com/search?q=Ciencias) | N/A |
+| 50 | [El Kaiser](http://twitter.com/search?q=El+Kaiser) | N/A |
 
 
 

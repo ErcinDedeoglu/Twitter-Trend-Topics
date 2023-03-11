@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-11 04:17:43 UTC`
+📆 Last Updated: `2023-03-11 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
-| 4 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
-| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 2 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
+| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
 | 7 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
-| 8 | [#RIPKiska](http://twitter.com/search?q=%23RIPKiska) | N/A |
-| 9 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 8 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 9 | [#RIPKiska](http://twitter.com/search?q=%23RIPKiska) | N/A |
 | 10 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
-| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 13 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 14 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
-| 15 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 16 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 17 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 18 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 20 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 21 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 22 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
-| 23 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
-| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 25 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
-| 28 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
-| 29 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 30 | [pierre karl péladeau](http://twitter.com/search?q=pierre+karl+p%c3%a9ladeau) | N/A |
-| 31 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 32 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 33 | [Sunwing](http://twitter.com/search?q=Sunwing) | N/A |
-| 34 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 35 | [17 ETH](http://twitter.com/search?q=17+ETH) | N/A |
-| 36 | [After 40](http://twitter.com/search?q=After+40) | N/A |
-| 37 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 38 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 39 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 40 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
-| 41 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
-| 42 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 43 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 44 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 45 | [Shapo](http://twitter.com/search?q=Shapo) | N/A |
-| 46 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 47 | [Dunstone](http://twitter.com/search?q=Dunstone) | N/A |
-| 48 | [Lehman](http://twitter.com/search?q=Lehman) | N/A |
-| 49 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 50 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 14 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 15 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 16 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 17 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [OG Anunoby](http://twitter.com/search?q=OG+Anunoby) | N/A |
+| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 21 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 22 | [Usman Nurmagomedov](http://twitter.com/search?q=Usman+Nurmagomedov) | N/A |
+| 23 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 24 | [Alouettes](http://twitter.com/search?q=Alouettes) | N/A |
+| 25 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 26 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 27 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 28 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 29 | [Vincent Ke](http://twitter.com/search?q=Vincent+Ke) | N/A |
+| 30 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 31 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 32 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 33 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 34 | [Canada Health Act](http://twitter.com/search?q=Canada+Health+Act) | N/A |
+| 35 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 36 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 37 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 38 | [Sunwing](http://twitter.com/search?q=Sunwing) | N/A |
+| 39 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 40 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 41 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 42 | [Air Miles](http://twitter.com/search?q=Air+Miles) | N/A |
+| 43 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 44 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 45 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 46 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 47 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 48 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 49 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
+| 50 | [After 40](http://twitter.com/search?q=After+40) | N/A |
 
 
 

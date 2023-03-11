@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-11 04:17:19 UTC`
+📆 Last Updated: `2023-03-11 05:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 2 | [#hungrylikealion](http://twitter.com/search?q=%23hungrylikealion) | N/A |
-| 3 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 4 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 1 | [#urchannelo](http://twitter.com/search?q=%23urchannelo) | N/A |
+| 2 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
+| 3 | [#R80Million](http://twitter.com/search?q=%23R80Million) | N/A |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 5 | [KHOSI NEVER LIES](http://twitter.com/search?q=KHOSI+NEVER+LIES) | N/A |
-| 6 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 7 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
-| 8 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
-| 9 | [TSATSII PYJAMA PARTY](http://twitter.com/search?q=TSATSII+PYJAMA+PARTY) | N/A |
-| 10 | [big bite 2](http://twitter.com/search?q=big+bite+2) | N/A |
-| 11 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 12 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
-| 13 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 14 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
-| 15 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 16 | [COMPETITIVE IPELENG](http://twitter.com/search?q=COMPETITIVE+IPELENG) | N/A |
-| 17 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
-| 18 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
-| 19 | [Congratulations Blue Aiva](http://twitter.com/search?q=Congratulations+Blue+Aiva) | N/A |
-| 20 | [BIG BATTERY](http://twitter.com/search?q=BIG+BATTERY) | N/A |
-| 21 | [north court](http://twitter.com/search?q=north+court) | N/A |
-| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 23 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 24 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
-| 25 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 26 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 27 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
-| 28 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
-| 29 | [Apostle](http://twitter.com/search?q=Apostle) | N/A |
-| 30 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 32 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 33 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 34 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
-| 35 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 36 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
-| 37 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 38 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 39 | [Dual Flash](http://twitter.com/search?q=Dual+Flash) | N/A |
-| 40 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 41 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
-| 42 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 43 | [block 4](http://twitter.com/search?q=block+4) | N/A |
-| 44 | [sunnyside](http://twitter.com/search?q=sunnyside) | N/A |
-| 45 | [Sheraton](http://twitter.com/search?q=Sheraton) | N/A |
-| 46 | [BLUE AIVA THE GROOVIST](http://twitter.com/search?q=BLUE+AIVA+THE+GROOVIST) | N/A |
-| 47 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 48 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 6 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 7 | [TSATSII THE HOST](http://twitter.com/search?q=TSATSII+THE+HOST) | N/A |
+| 8 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 9 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 10 | [Makwarela](http://twitter.com/search?q=Makwarela) | N/A |
+| 11 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
+| 12 | [congratulations blue aiva](http://twitter.com/search?q=congratulations+blue+aiva) | N/A |
+| 13 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 14 | [THABANG THE WINNER](http://twitter.com/search?q=THABANG+THE+WINNER) | N/A |
+| 15 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
+| 16 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 17 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 18 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 19 | [competitive ipeleng](http://twitter.com/search?q=competitive+ipeleng) | N/A |
+| 20 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 21 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 22 | [Blacks](http://twitter.com/search?q=Blacks) | N/A |
+| 23 | [Trevor](http://twitter.com/search?q=Trevor) | Trevor is a masculine given name of Welsh origin, derived from the Welsh word trefor, meaning "large village". It is also used as a surname. |
+| 24 | [Blaq](http://twitter.com/search?q=Blaq) | N/A |
+| 25 | [Zuki](http://twitter.com/search?q=Zuki) | N/A |
+| 26 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
+| 27 | [AFRICA FOR YVONNE](http://twitter.com/search?q=AFRICA+FOR+YVONNE) | N/A |
+| 28 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
+| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 31 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 32 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
+| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 34 | [Ngubane](http://twitter.com/search?q=Ngubane) | N/A |
+| 35 | [Madisha](http://twitter.com/search?q=Madisha) | N/A |
+| 36 | [Memory Fusion](http://twitter.com/search?q=Memory+Fusion) | N/A |
+| 37 | [Sekhukhune United](http://twitter.com/search?q=Sekhukhune+United) | N/A |
+| 38 | [Big Battery](http://twitter.com/search?q=Big+Battery) | N/A |
+| 39 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 40 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 41 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 44 | [Dual Rear Camera](http://twitter.com/search?q=Dual+Rear+Camera) | N/A |
+| 45 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 46 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 47 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 48 | [Big Storage](http://twitter.com/search?q=Big+Storage) | N/A |
+| 49 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
 
 
 

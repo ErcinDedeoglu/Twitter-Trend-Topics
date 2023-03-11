@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-11 04:17:32 UTC`
+📆 Last Updated: `2023-03-11 05:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 2 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 3 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 4 | [United Center](http://twitter.com/search?q=United+Center) | N/A |
-| 5 | [#B1GMBBT](http://twitter.com/search?q=%23B1GMBBT) | N/A |
-| 6 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 7 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 8 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
-| 9 | [Terps](http://twitter.com/search?q=Terps) | N/A |
-| 10 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
-| 11 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
-| 12 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 13 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 16 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 17 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 18 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 1 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 2 | [#BearDown](http://twitter.com/search?q=%23BearDown) | N/A |
+| 3 | [United Center](http://twitter.com/search?q=United+Center) | N/A |
+| 4 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 5 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 6 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 7 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 8 | [#DreamcatcherInChicago](http://twitter.com/search?q=%23DreamcatcherInChicago) | N/A |
+| 9 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 10 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 11 | [Poles](http://twitter.com/search?q=Poles) | N/A |
+| 12 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 13 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 14 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 15 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
+| 16 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
+| 17 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 18 | [#MAR10Day](http://twitter.com/search?q=%23MAR10Day) | N/A |
 | 19 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 20 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 21 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 22 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 23 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 24 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 25 | [Zach Collins](http://twitter.com/search?q=Zach+Collins) | N/A |
-| 26 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 28 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 31 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 32 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
-| 33 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 34 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 35 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 36 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 37 | [Tyger Campbell](http://twitter.com/search?q=Tyger+Campbell) | N/A |
-| 38 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 39 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 40 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 41 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 42 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
-| 43 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 44 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 45 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 46 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 47 | [Linton Vassell](http://twitter.com/search?q=Linton+Vassell) | N/A |
-| 48 | [Free Jacob Chansley](http://twitter.com/search?q=Free+Jacob+Chansley) | N/A |
-| 49 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
-| 50 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 21 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 22 | [#Bellator292](http://twitter.com/search?q=%23Bellator292) | N/A |
+| 23 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 24 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 25 | [Jerry Stackhouse](http://twitter.com/search?q=Jerry+Stackhouse) | N/A |
+| 26 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 27 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 29 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 30 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 31 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 32 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 33 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 34 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 35 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
+| 36 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 37 | [Zach Collins](http://twitter.com/search?q=Zach+Collins) | N/A |
+| 38 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 39 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 40 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
+| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 42 | [Usman Nurmagomedov](http://twitter.com/search?q=Usman+Nurmagomedov) | N/A |
+| 43 | [Benson Henderson](http://twitter.com/search?q=Benson+Henderson) | N/A |
+| 44 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 45 | [Little House](http://twitter.com/search?q=Little+House) | N/A |
+| 46 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 47 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 48 | [OG Anunoby](http://twitter.com/search?q=OG+Anunoby) | N/A |
+| 49 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 50 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
 
 
 

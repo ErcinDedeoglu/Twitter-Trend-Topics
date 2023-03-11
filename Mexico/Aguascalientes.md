@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-03-11 04:16:47 UTC`
+📆 Last Updated: `2023-03-11 05:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wacho](http://twitter.com/search?q=wacho) | N/A |
-| 2 | [cisneros](http://twitter.com/search?q=cisneros) | N/A |
-| 3 | [#supervivenciaexatlón](http://twitter.com/search?q=%23supervivenciaexatl%c3%b3n) | N/A |
-| 4 | [puebla](http://twitter.com/search?q=puebla) | N/A |
-| 5 | [#viernesbotanero](http://twitter.com/search?q=%23viernesbotanero) | N/A |
-| 6 | [#graciasreborn](http://twitter.com/search?q=%23graciasreborn) | N/A |
-| 7 | [dalú en monterrey](http://twitter.com/search?q=dal%c3%ba+en+monterrey) | N/A |
-| 8 | [moscato](http://twitter.com/search?q=moscato) | N/A |
-| 9 | [ferrareis](http://twitter.com/search?q=ferrareis) | N/A |
-| 10 | [beltrán](http://twitter.com/search?q=beltr%c3%a1n) | N/A |
-| 11 | [tigres femenil](http://twitter.com/search?q=tigres+femenil) | N/A |
-| 12 | [gastón silva](http://twitter.com/search?q=gast%c3%b3n+silva) | N/A |
-| 13 | [vitinho](http://twitter.com/search?q=vitinho) | N/A |
-| 14 | [#ikontourinmexico](http://twitter.com/search?q=%23ikontourinmexico) | N/A |
-| 15 | [planchas](http://twitter.com/search?q=planchas) | N/A |
-| 16 | [rey mysterio](http://twitter.com/search?q=rey+mysterio) | N/A |
-| 17 | [#smackdown](http://twitter.com/search?q=%23smackdown) | N/A |
-| 18 | [medina](http://twitter.com/search?q=medina) | N/A |
-| 19 | [ovalle](http://twitter.com/search?q=ovalle) | N/A |
-| 20 | [amazonas](http://twitter.com/search?q=amazonas) | N/A |
-| 21 | [alfonso lastras](http://twitter.com/search?q=alfonso+lastras) | N/A |
-| 22 | [atlético de san luis](http://twitter.com/search?q=atl%c3%a9tico+de+san+luis) | N/A |
-| 23 | [lakers](http://twitter.com/search?q=lakers) | N/A |
-| 24 | [qsmp](http://twitter.com/search?q=qsmp) | N/A |
-| 25 | [marcia](http://twitter.com/search?q=marcia) | N/A |
-| 26 | [odebrecht](http://twitter.com/search?q=odebrecht) | N/A |
-| 27 | [nene](http://twitter.com/search?q=nene) | N/A |
-| 28 | [emilio lozoya](http://twitter.com/search?q=emilio+lozoya) | N/A |
-| 29 | [usdc](http://twitter.com/search?q=usdc) | N/A |
-| 30 | [dennis](http://twitter.com/search?q=dennis) | N/A |
-| 31 | [lord molécula](http://twitter.com/search?q=lord+mol%c3%a9cula) | N/A |
-| 32 | [querétaro](http://twitter.com/search?q=quer%c3%a9taro) | N/A |
-| 33 | [nataly](http://twitter.com/search?q=nataly) | N/A |
-| 34 | [yuya](http://twitter.com/search?q=yuya) | N/A |
-| 35 | [nayeli](http://twitter.com/search?q=nayeli) | N/A |
-| 36 | [gallos](http://twitter.com/search?q=gallos) | N/A |
-| 37 | [quackity](http://twitter.com/search?q=quackity) | N/A |
-| 38 | [silicon valley bank](http://twitter.com/search?q=silicon+valley+bank) | N/A |
-| 39 | [arrastrada](http://twitter.com/search?q=arrastrada) | N/A |
-| 40 | [dj moore](http://twitter.com/search?q=dj+moore) | N/A |
-| 41 | [bears](http://twitter.com/search?q=bears) | N/A |
-| 42 | [panthers](http://twitter.com/search?q=panthers) | N/A |
-| 43 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 44 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 45 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
-| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 47 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 48 | [Callo](http://twitter.com/search?q=Callo) | N/A |
-| 49 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 2 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 3 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
+| 4 | [#SupervivenciaExatlón](http://twitter.com/search?q=%23SupervivenciaExatl%c3%b3n) | N/A |
+| 5 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 6 | [#PalNorteEnExaMTY](http://twitter.com/search?q=%23PalNorteEnExaMTY) | N/A |
+| 7 | [DALÚ EN MONTERREY](http://twitter.com/search?q=DAL%c3%9a+EN+MONTERREY) | N/A |
+| 8 | [#GraciasReborn](http://twitter.com/search?q=%23GraciasReborn) | N/A |
+| 9 | [Ferrareis](http://twitter.com/search?q=Ferrareis) | N/A |
+| 10 | [SIEMPRE CON DYNAMOM](http://twitter.com/search?q=SIEMPRE+CON+DYNAMOM) | N/A |
+| 11 | [Pueblita](http://twitter.com/search?q=Pueblita) | N/A |
+| 12 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 13 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 14 | [Chicote](http://twitter.com/search?q=Chicote) | N/A |
+| 15 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 16 | [Charal](http://twitter.com/search?q=Charal) | N/A |
+| 17 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 18 | [Paunovic](http://twitter.com/search?q=Paunovic) | N/A |
+| 19 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 20 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 22 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 23 | [Gastón Silva](http://twitter.com/search?q=Gast%c3%b3n+Silva) | N/A |
+| 24 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
+| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [Irrespetuosa](http://twitter.com/search?q=Irrespetuosa) | N/A |
+| 27 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 28 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 29 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
+| 30 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Atlético de San Luis](http://twitter.com/search?q=Atl%c3%a9tico+de+San+Luis) | N/A |
+| 33 | [Nataly](http://twitter.com/search?q=Nataly) | N/A |
+| 34 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 35 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 36 | [emilio lozoya](http://twitter.com/search?q=emilio+lozoya) | N/A |
+| 37 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 38 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 39 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 40 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 41 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 42 | [Arrastrada](http://twitter.com/search?q=Arrastrada) | N/A |
+| 43 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
+| 44 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 45 | [Yuya](http://twitter.com/search?q=Yuya) | N/A |
+| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 47 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 48 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 49 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 
 
 

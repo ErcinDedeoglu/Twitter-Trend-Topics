@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-11 04:17:14 UTC`
+📆 Last Updated: `2023-03-11 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,43 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ALDENBackOnEB](http://twitter.com/search?q=%23ALDENBackOnEB) | N/A |
-| 2 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 2 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 | 3 | [SEHAM ON SHOWTIME](http://twitter.com/search?q=SEHAM+ON+SHOWTIME) | N/A |
-| 4 | [#TWICE_Gonna_SetMeFree](http://twitter.com/search?q=%23TWICE_Gonna_SetMeFree) | N/A |
-| 5 | [STELL HINAHAMON KITA](http://twitter.com/search?q=STELL+HINAHAMON+KITA) | N/A |
-| 6 | [#내_모든걸_걸어_트와이스](http://twitter.com/search?q=%23%eb%82%b4_%eb%aa%a8%eb%93%a0%ea%b1%b8_%ea%b1%b8%ec%96%b4_%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | N/A |
-| 7 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
-| 8 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 9 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 10 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 12 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 13 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 14 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 4 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [#LionheartedDLSU](http://twitter.com/search?q=%23LionheartedDLSU) | N/A |
+| 7 | [ITS SHOWTIME KODREA](http://twitter.com/search?q=ITS+SHOWTIME+KODREA) | N/A |
+| 8 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 9 | [#SKZinManila2023](http://twitter.com/search?q=%23SKZinManila2023) | N/A |
+| 10 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
+| 11 | [STELL HINAHAMON KITA](http://twitter.com/search?q=STELL+HINAHAMON+KITA) | N/A |
+| 12 | [RALPHGAIL ISIPBATAsaSHOWTIME](http://twitter.com/search?q=RALPHGAIL+ISIPBATAsaSHOWTIME) | N/A |
+| 13 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
+| 14 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
 | 15 | [VIBRENT MATAPANG SA EDSA](http://twitter.com/search?q=VIBRENT+MATAPANG+SA+EDSA) | N/A |
-| 16 | [HORI7ON THE BEGINNING](http://twitter.com/search?q=HORI7ON+THE+BEGINNING) | N/A |
-| 17 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 18 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 19 | [Calado](http://twitter.com/search?q=Calado) | N/A |
-| 20 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 21 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 22 | [tatakstarmagic withdonny](http://twitter.com/search?q=tatakstarmagic+withdonny) | N/A |
+| 16 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 18 | [ANJBRENT WeWantMORe](http://twitter.com/search?q=ANJBRENT+WeWantMORe) | N/A |
+| 19 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
+| 20 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 21 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 22 | [Stays](http://twitter.com/search?q=Stays) | N/A |
 | 23 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 24 | [SHOWturdateTIME WithALJAY](http://twitter.com/search?q=SHOWturdateTIME+WithALJAY) | N/A |
-| 25 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 26 | [stop voting](http://twitter.com/search?q=stop+voting) | N/A |
-| 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 28 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 29 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
-| 30 | [HAPPY KUMUNIVERSARY ANGGE](http://twitter.com/search?q=HAPPY+KUMUNIVERSARY+ANGGE) | N/A |
-| 31 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 32 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 33 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 34 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 35 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 36 | [ot7 live](http://twitter.com/search?q=ot7+live) | N/A |
-| 37 | [debate night](http://twitter.com/search?q=debate+night) | N/A |
-| 38 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 39 | [april comeback](http://twitter.com/search?q=april+comeback) | N/A |
-| 40 | [CRAZY STUPID LOVE](http://twitter.com/search?q=CRAZY+STUPID+LOVE) | N/A |
-| 41 | [Pretty U](http://twitter.com/search?q=Pretty+U) | N/A |
-| 42 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 43 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 44 | [vibrent matapang billboard](http://twitter.com/search?q=vibrent+matapang+billboard) | N/A |
-| 45 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 46 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 47 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 48 | [hello vibrent era](http://twitter.com/search?q=hello+vibrent+era) | N/A |
-| 49 | [KDLEX PEP HEADLINER](http://twitter.com/search?q=KDLEX+PEP+HEADLINER) | N/A |
-| 50 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 24 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 25 | [#Celineboy](http://twitter.com/search?q=%23Celineboy) | N/A |
+| 26 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 27 | [#ALDUBatADNEqualRights](http://twitter.com/search?q=%23ALDUBatADNEqualRights) | N/A |
+| 28 | [#BOYCOTTEBxGMA731](http://twitter.com/search?q=%23BOYCOTTEBxGMA731) | N/A |
+| 29 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
+| 30 | [#BOBBYSOLOSINGLE_D10](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D10) | N/A |
+| 31 | [#WeLoveYouDavid](http://twitter.com/search?q=%23WeLoveYouDavid) | N/A |
+| 32 | [#StrayKidsinManila](http://twitter.com/search?q=%23StrayKidsinManila) | N/A |
+| 33 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 34 | [#VinciTrACE](http://twitter.com/search?q=%23VinciTrACE) | N/A |
+| 35 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
+| 36 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 37 | [#ROVER_TeaserImage4](http://twitter.com/search?q=%23ROVER_TeaserImage4) | N/A |
+| 38 | [#호라이즌_빈치](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c_%eb%b9%88%ec%b9%98) | N/A |
 
 
 
