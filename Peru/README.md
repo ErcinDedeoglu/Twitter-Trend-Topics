@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-11 01:43:50 UTC`
+📆 Last Updated: `2023-03-11 02:33:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
-| 2 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 3 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 4 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
-| 5 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 6 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 7 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 8 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
-| 9 | [Al Fateh](http://twitter.com/search?q=Al+Fateh) | N/A |
-| 10 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
-| 11 | [Norte](http://twitter.com/search?q=Norte) | N/A |
-| 12 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 13 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
-| 14 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 15 | [Valera](http://twitter.com/search?q=Valera) | N/A |
-| 16 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 17 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 18 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 19 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
-| 20 | [Gianluca Lapadula](http://twitter.com/search?q=Gianluca+Lapadula) | N/A |
+| 2 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 3 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 4 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 5 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
+| 6 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 7 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 8 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 9 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
+| 10 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
+| 11 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
+| 12 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 13 | [Al Fateh](http://twitter.com/search?q=Al+Fateh) | N/A |
+| 14 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 15 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 16 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 17 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
+| 18 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
+| 19 | [#Lambayeque](http://twitter.com/search?q=%23Lambayeque) | N/A |
+| 20 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
 | 21 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
-| 22 | [Pacasmayo](http://twitter.com/search?q=Pacasmayo) | N/A |
-| 23 | [Roberto Siucho](http://twitter.com/search?q=Roberto+Siucho) | N/A |
-| 24 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 25 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 26 | [brandon palacios](http://twitter.com/search?q=brandon+palacios) | N/A |
-| 27 | [Marathon](http://twitter.com/search?q=Marathon) | N/A |
-| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 29 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
-| 30 | [Ascoli](http://twitter.com/search?q=Ascoli) | N/A |
-| 31 | [Cagliari](http://twitter.com/search?q=Cagliari) | N/A |
-| 32 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 33 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 34 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
-| 35 | [Chorrillos](http://twitter.com/search?q=Chorrillos) | N/A |
-| 36 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 37 | [Pucallpa](http://twitter.com/search?q=Pucallpa) | N/A |
-| 38 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 39 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
-| 40 | [Jaze](http://twitter.com/search?q=Jaze) | Jaze is a slang term used to describe something that is cool, awesome, or impressive. It is derived from the phrase "jazzed up," which means to make something more exciting or interesting. |
-| 41 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
-| 42 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 22 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 23 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
+| 24 | [Gianluca Lapadula](http://twitter.com/search?q=Gianluca+Lapadula) | N/A |
+| 25 | [Pacasmayo](http://twitter.com/search?q=Pacasmayo) | N/A |
+| 26 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 27 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
+| 28 | [Roberto Siucho](http://twitter.com/search?q=Roberto+Siucho) | N/A |
+| 29 | [brandon palacios](http://twitter.com/search?q=brandon+palacios) | N/A |
+| 30 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 31 | [Marathon](http://twitter.com/search?q=Marathon) | N/A |
+| 32 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 33 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
+| 34 | [Ascoli](http://twitter.com/search?q=Ascoli) | N/A |
+| 35 | [Jaze](http://twitter.com/search?q=Jaze) | Jaze is a slang term used to describe something that is cool, awesome, or impressive. It is derived from the phrase "jazzed up," which means to make something more exciting or interesting. |
+| 36 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 37 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 38 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
+| 39 | [Chorrillos](http://twitter.com/search?q=Chorrillos) | N/A |
+| 40 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 41 | [Pucallpa](http://twitter.com/search?q=Pucallpa) | N/A |
+| 42 | [Iquitos](http://twitter.com/search?q=Iquitos) | N/A |
 | 43 | [La Leche](http://twitter.com/search?q=La+Leche) | N/A |
-| 44 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
-| 45 | [Iquitos](http://twitter.com/search?q=Iquitos) | N/A |
-| 46 | [Alemania y Marruecos](http://twitter.com/search?q=Alemania+y+Marruecos) | N/A |
-| 47 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 48 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 49 | [Fujimorista](http://twitter.com/search?q=Fujimorista) | N/A |
-| 50 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 44 | [Surco](http://twitter.com/search?q=Surco) | N/A |
+| 45 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 46 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
+| 47 | [alemania y marruecos](http://twitter.com/search?q=alemania+y+marruecos) | N/A |
+| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 49 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 50 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
 
 
 

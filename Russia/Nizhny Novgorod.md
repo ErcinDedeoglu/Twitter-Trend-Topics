@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-03-11 01:43:31 UTC`
+📆 Last Updated: `2023-03-11 02:32:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,30 +18,30 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [волков](http://twitter.com/search?q=%d0%b2%d0%be%d0%bb%d0%ba%d0%be%d0%b2) | N/A |
 | 2 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 3 | [веника](http://twitter.com/search?q=%d0%b2%d0%b5%d0%bd%d0%b8%d0%ba%d0%b0) | N/A |
-| 4 | [Собянина](http://twitter.com/search?q=%d0%a1%d0%be%d0%b1%d1%8f%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
+| 4 | [собянина](http://twitter.com/search?q=%d1%81%d0%be%d0%b1%d1%8f%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
 | 5 | [Венедиктов](http://twitter.com/search?q=%d0%92%d0%b5%d0%bd%d0%b5%d0%b4%d0%b8%d0%ba%d1%82%d0%be%d0%b2) | N/A |
 | 6 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 7 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 8 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 9 | [каца](http://twitter.com/search?q=%d0%ba%d0%b0%d1%86%d0%b0) | N/A |
-| 10 | [Питера](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 7 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 8 | [каца](http://twitter.com/search?q=%d0%ba%d0%b0%d1%86%d0%b0) | N/A |
+| 9 | [Питера](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 10 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
 | 11 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 12 | [#CallofDuty](http://twitter.com/search?q=%23CallofDuty) | N/A |
 | 13 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
 | 14 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 15 | [#decordesign](http://twitter.com/search?q=%23decordesign) | N/A |
-| 16 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 17 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 18 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 19 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 20 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
-| 21 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 22 | [ХАХА](http://twitter.com/search?q=%d0%a5%d0%90%d0%a5%d0%90) | N/A |
-| 23 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 24 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 25 | [король и шут](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d1%88%d1%83%d1%82) | N/A |
+| 15 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 16 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 17 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
+| 18 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 19 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
+| 20 | [зеленский](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 21 | [ХАХА](http://twitter.com/search?q=%d0%a5%d0%90%d0%a5%d0%90) | N/A |
+| 22 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 23 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 24 | [король и шут](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d1%88%d1%83%d1%82) | N/A |
+| 25 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 26 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
-| 27 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 27 | [#web3](http://twitter.com/search?q=%23web3) | N/A |
 
 
 

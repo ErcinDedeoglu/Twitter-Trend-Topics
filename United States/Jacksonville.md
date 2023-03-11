@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-11 01:43:40 UTC`
+📆 Last Updated: `2023-03-11 02:33:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 2 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 3 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 1 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 2 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 3 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 4 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 5 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 6 | [#JonasWings](http://twitter.com/search?q=%23JonasWings) | N/A |
-| 7 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 5 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 6 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 7 | [The View](http://twitter.com/search?q=The+View) | N/A |
 | 8 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 9 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 10 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 11 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 12 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 13 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 15 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 17 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 18 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 19 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 20 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 21 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 23 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 25 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 26 | [#cashappinwild](http://twitter.com/search?q=%23cashappinwild) | N/A |
-| 27 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 28 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 29 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 30 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
-| 31 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 10 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 12 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 13 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 14 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 15 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 16 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 17 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 18 | [#WWEHOF](http://twitter.com/search?q=%23WWEHOF) | N/A |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 20 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 21 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 22 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 26 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 27 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 28 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 29 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 30 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 31 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
 | 32 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 33 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 34 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 35 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 36 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
-| 37 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 38 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 39 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
-| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 41 | [Triple Threat](http://twitter.com/search?q=Triple+Threat) | N/A |
-| 42 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 43 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 44 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 45 | [Frank Reich](http://twitter.com/search?q=Frank+Reich) | Frank Reich is a former American football player and coach. He is currently the head coach of the Indianapolis Colts of the National Football League (NFL). The name "Frank Reich" is derived from the German word "Reich", which means "empire". |
-| 46 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
-| 47 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 34 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 35 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 36 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 37 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 38 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 39 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 40 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 41 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 42 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 43 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 44 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 45 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 46 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 47 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
+| 48 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 49 | [Omier](http://twitter.com/search?q=Omier) | N/A |
 | 50 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
 
 

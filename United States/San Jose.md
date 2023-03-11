@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-11 01:43:44 UTC`
+📆 Last Updated: `2023-03-11 02:33:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 1 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
 | 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 3 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 4 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 5 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 4 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 5 | [Jalen Carter](http://twitter.com/search?q=Jalen+Carter) | N/A |
 | 6 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 8 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 9 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
-| 10 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
-| 11 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
-| 12 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 7 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 8 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 11 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
+| 12 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
 | 13 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
 | 14 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
 | 15 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 16 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 17 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 18 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 19 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 16 | [Feds](http://twitter.com/search?q=Feds) | N/A |
+| 17 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 18 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 19 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
 | 20 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 21 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
 | 22 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 23 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 24 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 25 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 26 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 27 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 28 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 31 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 32 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 23 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 25 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 26 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 27 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 28 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 29 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
+| 30 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
 | 33 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 34 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 35 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 36 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
-| 37 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 38 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
-| 39 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
-| 40 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 41 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 42 | [Lovie Smith](http://twitter.com/search?q=Lovie+Smith) | Lovie Smith is a surname of English origin. It is derived from the Old French word "louve," which means "wolf." The name is often used as a nickname for someone who is brave and courageous. |
-| 43 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 44 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 45 | [Welcome to Chicago](http://twitter.com/search?q=Welcome+to+Chicago) | N/A |
-| 46 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 47 | [Triple Threat](http://twitter.com/search?q=Triple+Threat) | N/A |
-| 48 | [Wells Fargo](http://twitter.com/search?q=Wells+Fargo) | N/A |
-| 49 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 34 | [Northwestern](http://twitter.com/search?q=Northwestern) | N/A |
+| 35 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 36 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 37 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 38 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 39 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 41 | [Hurley](http://twitter.com/search?q=Hurley) | N/A |
+| 42 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 43 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 44 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 45 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 46 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 47 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 48 | [Claypool](http://twitter.com/search?q=Claypool) | N/A |
+| 49 | [Muss](http://twitter.com/search?q=Muss) | N/A |
 
 
 

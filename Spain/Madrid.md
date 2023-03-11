@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-11 01:43:16 UTC`
+📆 Last Updated: `2023-03-11 02:32:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,39 @@ This is top 50 for [Spain](</Spain>)
 | 3 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
 | 4 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
 | 5 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 6 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
-| 7 | [Portu](http://twitter.com/search?q=Portu) | N/A |
-| 8 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 9 | [#LaReuniónSecreta](http://twitter.com/search?q=%23LaReuni%c3%b3nSecreta) | N/A |
-| 10 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
-| 11 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
-| 12 | [Unal](http://twitter.com/search?q=Unal) | N/A |
-| 13 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 16 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 17 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
-| 18 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 19 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 20 | [Munir](http://twitter.com/search?q=Munir) | N/A |
-| 21 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 22 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 23 | [Montoro](http://twitter.com/search?q=Montoro) | N/A |
-| 24 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 26 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
-| 27 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 29 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 30 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
-| 31 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 32 | [Tartiere](http://twitter.com/search?q=Tartiere) | N/A |
-| 33 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 35 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 36 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 37 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 38 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
-| 39 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 40 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 41 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 42 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 43 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 44 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
-| 45 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 46 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
-| 47 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 48 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 49 | [#pinochopantoja](http://twitter.com/search?q=%23pinochopantoja) | N/A |
-| 50 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 6 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 7 | [#YoMeRebelo11M](http://twitter.com/search?q=%23YoMeRebelo11M) | N/A |
+| 8 | [Portu](http://twitter.com/search?q=Portu) | N/A |
+| 9 | [Jorge Lorenzo](http://twitter.com/search?q=Jorge+Lorenzo) | N/A |
+| 10 | [Ana Guerra](http://twitter.com/search?q=Ana+Guerra) | N/A |
+| 11 | [Unal](http://twitter.com/search?q=Unal) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 14 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
+| 15 | [Pacha](http://twitter.com/search?q=Pacha) | N/A |
+| 16 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 17 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 18 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 20 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 21 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
+| 22 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 24 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
+| 25 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 26 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 27 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 28 | [Rosell](http://twitter.com/search?q=Rosell) | N/A |
+| 29 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 30 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
+| 31 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
+| 32 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
+| 33 | [#LaReuniónSecreta](http://twitter.com/search?q=%23LaReuni%c3%b3nSecreta) | N/A |
+| 34 | [#BreakTheWallTourStarts](http://twitter.com/search?q=%23BreakTheWallTourStarts) | N/A |
+| 35 | [#ADOME](http://twitter.com/search?q=%23ADOME) | N/A |
+| 36 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 37 | [#PartidazoMovistarChampions](http://twitter.com/search?q=%23PartidazoMovistarChampions) | N/A |
+| 38 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
 
 
 

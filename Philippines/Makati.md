@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-11 01:43:25 UTC`
+📆 Last Updated: `2023-03-11 02:32:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 3 | [STELL HINAHAMON KITA](http://twitter.com/search?q=STELL+HINAHAMON+KITA) | N/A |
-| 4 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
-| 5 | [#BWDNtoSingapore](http://twitter.com/search?q=%23BWDNtoSingapore) | N/A |
-| 6 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
-| 7 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 8 | [nasa tamang fandom ako](http://twitter.com/search?q=nasa+tamang+fandom+ako) | N/A |
-| 9 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
-| 10 | [happy kumuniversary angge](http://twitter.com/search?q=happy+kumuniversary+angge) | N/A |
+| 4 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 5 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
+| 6 | [#Come_into_CARATLAND](http://twitter.com/search?q=%23Come_into_CARATLAND) | N/A |
+| 7 | [#HORI7ON_ONWARD](http://twitter.com/search?q=%23HORI7ON_ONWARD) | N/A |
+| 8 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
+| 9 | [happy kumuniversary angge](http://twitter.com/search?q=happy+kumuniversary+angge) | N/A |
+| 10 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
 | 11 | [tatakstarmagic withdonny](http://twitter.com/search?q=tatakstarmagic+withdonny) | N/A |
-| 12 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 13 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 14 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
-| 15 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 16 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 17 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 18 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 19 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 20 | [happy birthday yoongi](http://twitter.com/search?q=happy+birthday+yoongi) | N/A |
+| 12 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 13 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 14 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 15 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 16 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 17 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
+| 18 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 19 | [happy birthday yoongi](http://twitter.com/search?q=happy+birthday+yoongi) | N/A |
+| 20 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
 | 21 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 22 | [8 Taylor Swift](http://twitter.com/search?q=8+Taylor+Swift) | N/A |
-| 23 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 24 | [hello vibrent era](http://twitter.com/search?q=hello+vibrent+era) | N/A |
-| 25 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 26 | [debate night](http://twitter.com/search?q=debate+night) | N/A |
-| 27 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 28 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 29 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 30 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 22 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
+| 23 | [hello vibrent era](http://twitter.com/search?q=hello+vibrent+era) | N/A |
+| 24 | [debate night](http://twitter.com/search?q=debate+night) | N/A |
+| 25 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 26 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 30 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 31 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 32 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 33 | [happy pbb robersary](http://twitter.com/search?q=happy+pbb+robersary) | N/A |
+| 32 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 34 | [Don Quixote](http://twitter.com/search?q=Don+Quixote) | N/A |
 | 35 | [Circles](http://twitter.com/search?q=Circles) | N/A |
-| 36 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 37 | [luvis ciha sean lucas](http://twitter.com/search?q=luvis+ciha+sean+lucas) | N/A |
-| 38 | [mandy teenclash d-7](http://twitter.com/search?q=mandy+teenclash+d-7) | N/A |
-| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 36 | [London](http://twitter.com/search?q=London) | N/A |
+| 37 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 38 | [luvis ciha sean lucas](http://twitter.com/search?q=luvis+ciha+sean+lucas) | N/A |
+| 39 | [mandy teenclash d-7](http://twitter.com/search?q=mandy+teenclash+d-7) | N/A |
 | 40 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
 | 41 | [bini hautaw with angelites](http://twitter.com/search?q=bini+hautaw+with+angelites) | N/A |
 | 42 | [KDLEX PEP HEADLINER](http://twitter.com/search?q=KDLEX+PEP+HEADLINER) | N/A |
-| 43 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 43 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
 | 44 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 45 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
 | 46 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 47 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 48 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
-| 49 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
-| 50 | [Pretty U](http://twitter.com/search?q=Pretty+U) | N/A |
+| 47 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 48 | [Daming](http://twitter.com/search?q=Daming) | N/A |
+| 49 | [Getaway Car](http://twitter.com/search?q=Getaway+Car) | N/A |
+| 50 | [For You](http://twitter.com/search?q=For+You) | N/A |
 
 
 

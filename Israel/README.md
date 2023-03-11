@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-11 01:43:48 UTC`
+📆 Last Updated: `2023-03-11 02:33:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Israel
 | 4 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
 | 5 | [בין סעודיה](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
 | 6 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
-| 7 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 8 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
+| 7 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
+| 8 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
 | 9 | [יום האישה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
 | 10 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
 | 11 | [עם איראן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Israel
 | 31 | [שקי מלט](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%9e%d7%9c%d7%98) | N/A |
 | 32 | [חץ רעל](http://twitter.com/search?q=%d7%97%d7%a5+%d7%a8%d7%a2%d7%9c) | N/A |
 | 33 | [הרצוג בחר](http://twitter.com/search?q=%d7%94%d7%a8%d7%a6%d7%95%d7%92+%d7%91%d7%97%d7%a8) | N/A |
-| 34 | [ניצב אשד](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%90%d7%a9%d7%93) | N/A |
+| 34 | [של ניצב אשד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%99%d7%a6%d7%91+%d7%90%d7%a9%d7%93) | N/A |
 | 35 | [הייל היטלר](http://twitter.com/search?q=%d7%94%d7%99%d7%99%d7%9c+%d7%94%d7%99%d7%98%d7%9c%d7%a8) | N/A |
 | 36 | [כסף זר](http://twitter.com/search?q=%d7%9b%d7%a1%d7%a3+%d7%96%d7%a8) | N/A |
 | 37 | [קובי שבתאי](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a9%d7%91%d7%aa%d7%90%d7%99) | N/A |
@@ -56,11 +56,11 @@ This is top 50 for Israel
 | 39 | [אל״מ ג](http://twitter.com/search?q=%d7%90%d7%9c%d7%b4%d7%9e+%d7%92) | N/A |
 | 40 | [חשש כבד](http://twitter.com/search?q=%d7%97%d7%a9%d7%a9+%d7%9b%d7%91%d7%93) | N/A |
 | 41 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
-| 42 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 43 | [שקי חול](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%97%d7%95%d7%9c) | N/A |
-| 44 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
-| 45 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 46 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 42 | [שקי חול](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%97%d7%95%d7%9c) | N/A |
+| 43 | [נשיא של](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a9%d7%9c) | N/A |
+| 44 | [נשיא פוליטי](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
+| 45 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 47 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
 | 48 | [חשבון עם ישראל](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 49 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |

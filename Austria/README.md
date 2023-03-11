@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-11 01:43:45 UTC`
+📆 Last Updated: `2023-03-11 02:33:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Austria
 | 5 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 6 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 7 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 8 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 9 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 8 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 9 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
 | 10 | [Psychopharmaka](http://twitter.com/search?q=Psychopharmaka) | N/A |
 | 11 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
 | 12 | [Versprechen](http://twitter.com/search?q=Versprechen) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Austria
 | 17 | [kinderbetreuung](http://twitter.com/search?q=kinderbetreuung) | N/A |
 | 18 | [ÖVPler](http://twitter.com/search?q=%c3%96VPler) | N/A |
 | 19 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
-| 20 | [Landeshauptfrau](http://twitter.com/search?q=Landeshauptfrau) | N/A |
+| 20 | [landeshauptfrau](http://twitter.com/search?q=landeshauptfrau) | N/A |
 | 21 | [Herausforderungen](http://twitter.com/search?q=Herausforderungen) | N/A |
 | 22 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
 | 23 | [Punkten](http://twitter.com/search?q=Punkten) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Austria
 | 40 | [standort](http://twitter.com/search?q=standort) | N/A |
 | 41 | [kampftag](http://twitter.com/search?q=kampftag) | N/A |
 | 42 | [Geräte](http://twitter.com/search?q=Ger%c3%a4te) | N/A |
-| 43 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 44 | [Freien](http://twitter.com/search?q=Freien) | N/A |
-| 45 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
-| 46 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 47 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 48 | [gm legend](http://twitter.com/search?q=gm+legend) | N/A |
-| 49 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 50 | [vermummungsverbot](http://twitter.com/search?q=vermummungsverbot) | N/A |
+| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 45 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 46 | [Finanzamt](http://twitter.com/search?q=Finanzamt) | N/A |
+| 47 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 48 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 49 | [gm legend](http://twitter.com/search?q=gm+legend) | N/A |
+| 50 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 
 
 

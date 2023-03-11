@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-11 01:43:35 UTC`
+📆 Last Updated: `2023-03-11 02:33:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,42 @@ This is top 50 for [Turkey](</Turkey>)
 | 7 | [Çadırda](http://twitter.com/search?q=%c3%87ad%c4%b1rda) | N/A |
 | 8 | [Özgür](http://twitter.com/search?q=%c3%96zg%c3%bcr) | N/A |
 | 9 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 10 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 11 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
-| 12 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 13 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
-| 14 | [KANDİLİN SÖZCÜSÜ 6LI MASA](http://twitter.com/search?q=KAND%c4%b0L%c4%b0N+S%c3%96ZC%c3%9cS%c3%9c+6LI+MASA) | N/A |
-| 15 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 10 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
+| 11 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 12 | [Ferdi Tayfur](http://twitter.com/search?q=Ferdi+Tayfur) | N/A |
+| 13 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 14 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 15 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
 | 16 | [Cumaya](http://twitter.com/search?q=Cumaya) | N/A |
-| 17 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 18 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 19 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 20 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
-| 21 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 22 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
-| 23 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 24 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 25 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
-| 26 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
-| 27 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 28 | [Ellerin](http://twitter.com/search?q=Ellerin) | N/A |
-| 29 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 30 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
-| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 32 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 33 | [Müslümanım](http://twitter.com/search?q=M%c3%bcsl%c3%bcman%c4%b1m) | N/A |
-| 34 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 35 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
-| 36 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 37 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 38 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
-| 39 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 40 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
-| 41 | [#AliKocİstifa](http://twitter.com/search?q=%23AliKoc%c4%b0stifa) | N/A |
-| 42 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 43 | [#SONDAKİKA](http://twitter.com/search?q=%23SONDAK%c4%b0KA) | N/A |
-| 44 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 45 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 46 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
-| 47 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
-| 48 | [#OyumunRengi100BinAtama](http://twitter.com/search?q=%23OyumunRengi100BinAtama) | N/A |
-| 49 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
+| 17 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 18 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 19 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 20 | [Abdest](http://twitter.com/search?q=Abdest) | N/A |
+| 21 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 22 | [Şerefsiz](http://twitter.com/search?q=%c5%9eerefsiz) | N/A |
+| 23 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 24 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 25 | [Gitsin](http://twitter.com/search?q=Gitsin) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 28 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
+| 29 | [#AnkaradaStajaSonAdım](http://twitter.com/search?q=%23AnkaradaStajaSonAd%c4%b1m) | N/A |
+| 30 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 31 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
+| 32 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 33 | [#14mayis2023](http://twitter.com/search?q=%2314mayis2023) | N/A |
+| 34 | [#AliKocİstifa](http://twitter.com/search?q=%23AliKoc%c4%b0stifa) | N/A |
+| 35 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 36 | [#SONDAKİKA](http://twitter.com/search?q=%23SONDAK%c4%b0KA) | N/A |
+| 37 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 38 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 39 | [#2000lerinOyuKime](http://twitter.com/search?q=%232000lerinOyuKime) | N/A |
+| 40 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
+| 41 | [#BizHazırız](http://twitter.com/search?q=%23BizHaz%c4%b1r%c4%b1z) | N/A |
+| 42 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
+| 43 | [#bursasportürkiyedir](http://twitter.com/search?q=%23bursasport%c3%bcrkiyedir) | N/A |
+| 44 | [#ZaferPartisi](http://twitter.com/search?q=%23ZaferPartisi) | N/A |
+| 45 | [#PınarGültekin](http://twitter.com/search?q=%23P%c4%b1narG%c3%bcltekin) | N/A |
 
 
 

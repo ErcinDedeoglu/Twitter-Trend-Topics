@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-11 01:43:18 UTC`
+📆 Last Updated: `2023-03-11 02:32:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,15 +30,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 13 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 14 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
 | 15 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
-| 16 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 16 | [ļoti](http://twitter.com/search?q=%c4%bcoti) | N/A |
 | 17 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
 | 18 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 19 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
+| 19 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
 | 20 | [talsu](http://twitter.com/search?q=talsu) | N/A |
-| 21 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 21 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
 | 22 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 23 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 24 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
+| 24 | [zinu](http://twitter.com/search?q=zinu) | N/A |
 | 25 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
 | 26 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 27 | [pārāk](http://twitter.com/search?q=p%c4%81r%c4%81k) | N/A |

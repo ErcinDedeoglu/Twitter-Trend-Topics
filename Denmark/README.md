@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-11 01:43:46 UTC`
+📆 Last Updated: `2023-03-11 02:33:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,15 +37,15 @@ This is top 50 for Denmark
 | 20 | [cepos](http://twitter.com/search?q=cepos) | N/A |
 | 21 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
 | 22 | [Stephanie Lose](http://twitter.com/search?q=Stephanie+Lose) | N/A |
-| 23 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 24 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
-| 25 | [mette frederiksens](http://twitter.com/search?q=mette+frederiksens) | N/A |
-| 26 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 27 | [Christiansø](http://twitter.com/search?q=Christians%c3%b8) | N/A |
+| 23 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
+| 24 | [mette frederiksens](http://twitter.com/search?q=mette+frederiksens) | N/A |
+| 25 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 26 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 27 | [christiansø](http://twitter.com/search?q=christians%c3%b8) | N/A |
 | 28 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
 | 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 30 | [slet](http://twitter.com/search?q=slet) | N/A |
-| 31 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |
+| 31 | [Mænd](http://twitter.com/search?q=M%c3%a6nd) | N/A |
 | 32 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 34 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Denmark
 | 42 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 | 43 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 46 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 47 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 45 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 46 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 50 | [beklager](http://twitter.com/search?q=beklager) | N/A |
 
 
 

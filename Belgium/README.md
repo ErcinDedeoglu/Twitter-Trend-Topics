@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-11 01:43:46 UTC`
+📆 Last Updated: `2023-03-11 02:33:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Belgium
 | 3 | [#CHAOHL](http://twitter.com/search?q=%23CHAOHL) | N/A |
 | 4 | [#deafspraakopvrijdag](http://twitter.com/search?q=%23deafspraakopvrijdag) | N/A |
 | 5 | [#stikstofakkoord](http://twitter.com/search?q=%23stikstofakkoord) | N/A |
-| 6 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 6 | [engels](http://twitter.com/search?q=engels) | N/A |
 | 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 10 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 9 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 10 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 11 | [kampenhout](http://twitter.com/search?q=kampenhout) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 14 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 15 | [Nederlandstalige](http://twitter.com/search?q=Nederlandstalige) | N/A |
 | 16 | [Beerschot](http://twitter.com/search?q=Beerschot) | N/A |
-| 17 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
-| 18 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 19 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 22 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 23 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 25 | [Vrouwen](http://twitter.com/search?q=Vrouwen) | N/A |
-| 26 | [Arabie Saoudite](http://twitter.com/search?q=Arabie+Saoudite) | N/A |
-| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 28 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
-| 29 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
-| 32 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 33 | [vrt max](http://twitter.com/search?q=vrt+max) | N/A |
-| 34 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 35 | [Wild](http://twitter.com/search?q=Wild) | N/A |
-| 36 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
-| 37 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 39 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 40 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 41 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 43 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 44 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 45 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 46 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 47 | [proximus](http://twitter.com/search?q=proximus) | N/A |
-| 48 | [Omggg](http://twitter.com/search?q=Omggg) | N/A |
-| 49 | [The Commission](http://twitter.com/search?q=The+Commission) | N/A |
-| 50 | [Damien](http://twitter.com/search?q=Damien) | N/A |
+| 17 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 18 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 22 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 23 | [Vrouwen](http://twitter.com/search?q=Vrouwen) | N/A |
+| 24 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 25 | [Arabie Saoudite](http://twitter.com/search?q=Arabie+Saoudite) | N/A |
+| 26 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 27 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
+| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 29 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
+| 30 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 31 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 32 | [De Moor](http://twitter.com/search?q=De+Moor) | N/A |
+| 33 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 34 | [vrt max](http://twitter.com/search?q=vrt+max) | N/A |
+| 35 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 36 | [Wild](http://twitter.com/search?q=Wild) | N/A |
+| 37 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
+| 38 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 39 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 40 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 41 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 42 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 45 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 46 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 47 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 48 | [proximus](http://twitter.com/search?q=proximus) | N/A |
+| 49 | [Omggg](http://twitter.com/search?q=Omggg) | N/A |
+| 50 | [The Commission](http://twitter.com/search?q=The+Commission) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-11 01:43:12 UTC`
+📆 Last Updated: `2023-03-11 02:32:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [Ireland](</Ireland>)
 | 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
 | 22 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
 | 23 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 24 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 26 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 27 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
 | 28 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 29 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 30 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 31 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
-| 32 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 33 | [O'Connell Street](http://twitter.com/search?q=O%27Connell+Street) | N/A |
+| 30 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
+| 31 | [O'Connell Street](http://twitter.com/search?q=O%27Connell+Street) | N/A |
+| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 33 | [Fair](http://twitter.com/search?q=Fair) | N/A |
 | 34 | [Richard](http://twitter.com/search?q=Richard) | N/A |
 | 35 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
 | 36 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 38 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 39 | [LOITV](http://twitter.com/search?q=LOITV) | N/A |
+| 39 | [loitv](http://twitter.com/search?q=loitv) | N/A |
 | 40 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 | 41 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
 | 42 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 44 | [Conor](http://twitter.com/search?q=Conor) | N/A |
-| 45 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
-| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 47 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 48 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 49 | [Tough](http://twitter.com/search?q=Tough) | N/A |
-| 50 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 44 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 45 | [Conor](http://twitter.com/search?q=Conor) | N/A |
+| 46 | [galway united](http://twitter.com/search?q=galway+united) | N/A |
+| 47 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 48 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 49 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 50 | [Tough](http://twitter.com/search?q=Tough) | N/A |
 
 
 

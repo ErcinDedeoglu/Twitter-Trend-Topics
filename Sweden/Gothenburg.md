@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-11 01:43:18 UTC`
+📆 Last Updated: `2023-03-11 02:32:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 1 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
 | 2 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
 | 3 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
 | 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
@@ -25,16 +25,16 @@ This is top 50 for [Sweden](</Sweden>)
 | 8 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
 | 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 10 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 11 | [David Ritschard](http://twitter.com/search?q=David+Ritschard) | N/A |
-| 12 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 13 | [Almtuna](http://twitter.com/search?q=Almtuna) | N/A |
-| 14 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 15 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
-| 16 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
-| 17 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 18 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 11 | [david ritschard](http://twitter.com/search?q=david+ritschard) | N/A |
+| 12 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 13 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 14 | [Böneutrop](http://twitter.com/search?q=B%c3%b6neutrop) | N/A |
+| 15 | [Bofors](http://twitter.com/search?q=Bofors) | N/A |
+| 16 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 17 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 18 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
 | 19 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 20 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
+| 20 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
 | 21 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
 | 22 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
 | 23 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Sweden](</Sweden>)
 | 31 | [cibus](http://twitter.com/search?q=cibus) | N/A |
 | 32 | [Hisingsbron](http://twitter.com/search?q=Hisingsbron) | N/A |
 | 33 | [mångfald](http://twitter.com/search?q=m%c3%a5ngfald) | N/A |
-| 34 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
+| 34 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
 | 35 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 36 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
-| 39 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
+| 37 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 38 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
+| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 40 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 42 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 44 | [teodorescu](http://twitter.com/search?q=teodorescu) | N/A |
-| 45 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 46 | [sänk](http://twitter.com/search?q=s%c3%a4nk) | N/A |
-| 47 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 48 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
+| 43 | [teodorescu](http://twitter.com/search?q=teodorescu) | N/A |
+| 44 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 45 | [sänk](http://twitter.com/search?q=s%c3%a4nk) | N/A |
+| 46 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 47 | [a-laget](http://twitter.com/search?q=a-laget) | N/A |
+| 48 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
 
 
 

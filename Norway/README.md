@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-11 01:43:49 UTC`
+📆 Last Updated: `2023-03-11 02:33:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Norway
 | 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 3 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 4 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 5 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 5 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
 | 6 | [#nuclearban](http://twitter.com/search?q=%23nuclearban) | N/A |
 | 7 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 8 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |

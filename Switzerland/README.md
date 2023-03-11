@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-11 01:43:51 UTC`
+📆 Last Updated: `2023-03-11 02:33:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 5 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
 | 6 | [#SpeziaInter](http://twitter.com/search?q=%23SpeziaInter) | N/A |
 | 7 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for Switzerland
 | 23 | [Wörter](http://twitter.com/search?q=W%c3%b6rter) | N/A |
 | 24 | [Verschwörungstheorien](http://twitter.com/search?q=Verschw%c3%b6rungstheorien) | N/A |
 | 25 | [Seele](http://twitter.com/search?q=Seele) | N/A |
-| 26 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 27 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 28 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 29 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 30 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 26 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 27 | [medizin](http://twitter.com/search?q=medizin) | N/A |
+| 28 | [Migros](http://twitter.com/search?q=Migros) | N/A |
+| 29 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 31 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
 | 32 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 33 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
@@ -55,16 +55,16 @@ This is top 50 for Switzerland
 | 38 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 39 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
 | 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 42 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 43 | [Stein](http://twitter.com/search?q=Stein) | N/A |
-| 44 | [landwirtschaft](http://twitter.com/search?q=landwirtschaft) | N/A |
-| 45 | [Feind](http://twitter.com/search?q=Feind) | N/A |
-| 46 | [Ripple](http://twitter.com/search?q=Ripple) | N/A |
-| 47 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 48 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
-| 49 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 50 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 42 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 43 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 44 | [Stein](http://twitter.com/search?q=Stein) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [landwirtschaft](http://twitter.com/search?q=landwirtschaft) | N/A |
+| 47 | [Feind](http://twitter.com/search?q=Feind) | N/A |
+| 48 | [Ripple](http://twitter.com/search?q=Ripple) | N/A |
+| 49 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 50 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
 
 
 

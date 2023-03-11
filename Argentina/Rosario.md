@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-11 01:43:11 UTC`
+📆 Last Updated: `2023-03-11 02:32:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ElPuebloConCristina](http://twitter.com/search?q=%23ElPuebloConCristina) | N/A |
+| 1 | [Conti](http://twitter.com/search?q=Conti) | N/A |
 | 2 | [paloma](http://twitter.com/search?q=paloma) | N/A |
-| 3 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 4 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
-| 5 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 6 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 8 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 9 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 10 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 11 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 12 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 14 | [#JuegaFerro](http://twitter.com/search?q=%23JuegaFerro) | N/A |
-| 15 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 16 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 17 | [Stilitano](http://twitter.com/search?q=Stilitano) | N/A |
-| 18 | [Ivan de Pineda](http://twitter.com/search?q=Ivan+de+Pineda) | N/A |
-| 19 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
-| 20 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
-| 21 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 22 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 23 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 24 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
-| 25 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 26 | [Versace](http://twitter.com/search?q=Versace) | N/A |
-| 27 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
-| 28 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 29 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
-| 30 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
-| 31 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 32 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 33 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 34 | [Partido Judicial](http://twitter.com/search?q=Partido+Judicial) | N/A |
-| 35 | [Caute](http://twitter.com/search?q=Caute) | N/A |
-| 36 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 37 | [Viloni](http://twitter.com/search?q=Viloni) | N/A |
-| 38 | [Consejo de la Magistratura](http://twitter.com/search?q=Consejo+de+la+Magistratura) | N/A |
-| 39 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 40 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 41 | [Luis Juez](http://twitter.com/search?q=Luis+Juez) | N/A |
-| 42 | [Viedma](http://twitter.com/search?q=Viedma) | N/A |
-| 43 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 44 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 45 | [Urquiza](http://twitter.com/search?q=Urquiza) | N/A |
-| 46 | [Miley Cyrus](http://twitter.com/search?q=Miley+Cyrus) | Miley Cyrus is an American singer, songwriter, and actress. She rose to fame as a teen idol after starring in the Disney Channel television series Hannah Montana in 2006. Her music has spanned a range of styles, from pop and country to hip hop. |
-| 47 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 3 | [#ElPuebloConCristina](http://twitter.com/search?q=%23ElPuebloConCristina) | N/A |
+| 4 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 5 | [Graciani](http://twitter.com/search?q=Graciani) | N/A |
+| 6 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 7 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 8 | [Parnisari](http://twitter.com/search?q=Parnisari) | N/A |
+| 9 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 10 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 13 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 14 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
+| 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 16 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 17 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 18 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 19 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
+| 20 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 21 | [Argentinos](http://twitter.com/search?q=Argentinos) | N/A |
+| 22 | [Alta Córdoba](http://twitter.com/search?q=Alta+C%c3%b3rdoba) | N/A |
+| 23 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 24 | [Ivan de Pineda](http://twitter.com/search?q=Ivan+de+Pineda) | N/A |
+| 25 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 26 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 27 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
+| 28 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 29 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 30 | [Honoris Causa](http://twitter.com/search?q=Honoris+Causa) | N/A |
+| 31 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 32 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
+| 33 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 34 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 35 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 36 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 37 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 38 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 39 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
+| 40 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 41 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
+| 42 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 43 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
+| 44 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 45 | [Caute](http://twitter.com/search?q=Caute) | N/A |
+| 46 | [Viloni](http://twitter.com/search?q=Viloni) | N/A |
+| 47 | [Consejo de la Magistratura](http://twitter.com/search?q=Consejo+de+la+Magistratura) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-11 01:43:46 UTC`
+📆 Last Updated: `2023-03-11 02:33:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 2 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 3 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 4 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 5 | [#1AnoDeComfortEOmo](http://twitter.com/search?q=%231AnoDeComfortEOmo) | N/A |
-| 6 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 7 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 8 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 2 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 3 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 4 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 5 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 6 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 7 | [Amanda e Sapato](http://twitter.com/search?q=Amanda+e+Sapato) | Amanda e Sapato is a Brazilian children's television show that follows the adventures of two friends, Amanda and Sapato, as they explore the world around them. The show's title translates to "Amanda and Shoe" in English. |
+| 8 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
 | 9 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 10 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
-| 11 | [#EstrelasLGBTQ](http://twitter.com/search?q=%23EstrelasLGBTQ) | N/A |
-| 12 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
-| 13 | [#ZapOuCalote](http://twitter.com/search?q=%23ZapOuCalote) | N/A |
-| 14 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 15 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
-| 16 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
-| 17 | [NIVER DA BRUNA](http://twitter.com/search?q=NIVER+DA+BRUNA) | N/A |
-| 18 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
-| 19 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 20 | [HEG NO PODPAH](http://twitter.com/search?q=HEG+NO+PODPAH) | N/A |
-| 21 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 22 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
-| 23 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
-| 24 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
-| 25 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 26 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
-| 27 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 28 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 29 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 30 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
-| 31 | [Hugo e Guilherme](http://twitter.com/search?q=Hugo+e+Guilherme) | N/A |
-| 32 | [mel maia](http://twitter.com/search?q=mel+maia) | Mel Maia is a Portuguese phrase that translates to "honey bee" in English. It is often used as an affectionate term of endearment. |
-| 33 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 34 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 35 | [Gansinho](http://twitter.com/search?q=Gansinho) | N/A |
-| 36 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 37 | [Filipe Ret](http://twitter.com/search?q=Filipe+Ret) | N/A |
-| 38 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
-| 39 | [Blusa](http://twitter.com/search?q=Blusa) | N/A |
-| 40 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 41 | [U - Realmente](http://twitter.com/search?q=U+-+Realmente) | N/A |
-| 42 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 43 | [Graham](http://twitter.com/search?q=Graham) | N/A |
-| 44 | [T - Se](http://twitter.com/search?q=T+-+Se) | N/A |
-| 45 | [Fields](http://twitter.com/search?q=Fields) | Fields is a term used to refer to a wide range of academic disciplines or areas of study. It is used to describe the specific area of expertise or knowledge that someone has. For example, someone might have a degree in mathematics and be considered an expert in the field of mathematics. |
-| 46 | [M- Melhor](http://twitter.com/search?q=M-+Melhor) | N/A |
-| 47 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 48 | [Nando Moura](http://twitter.com/search?q=Nando+Moura) | N/A |
-| 49 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 50 | [Amendoim](http://twitter.com/search?q=Amendoim) | N/A |
+| 10 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
+| 11 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 12 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 13 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 14 | [#1AnoDeComfortEOmo](http://twitter.com/search?q=%231AnoDeComfortEOmo) | N/A |
+| 15 | [OU NENHUM DOS DOIS](http://twitter.com/search?q=OU+NENHUM+DOS+DOIS) | N/A |
+| 16 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 17 | [charlie brown](http://twitter.com/search?q=charlie+brown) | N/A |
+| 18 | [#EstrelasLGBTQ](http://twitter.com/search?q=%23EstrelasLGBTQ) | N/A |
+| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 20 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 21 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 22 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 23 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 24 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
+| 25 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 26 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 27 | [CANCEL PERCY](http://twitter.com/search?q=CANCEL+PERCY) | N/A |
+| 28 | [I - Você](http://twitter.com/search?q=I+-+Voc%c3%aa) | N/A |
+| 29 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 30 | [O - Se](http://twitter.com/search?q=O+-+Se) | N/A |
+| 31 | [E - Beija](http://twitter.com/search?q=E+-+Beija) | N/A |
+| 32 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 33 | [CONSENSO](http://twitter.com/search?q=CONSENSO) | N/A |
+| 34 | [Fumê](http://twitter.com/search?q=Fum%c3%aa) | N/A |
+| 35 | [R - Se](http://twitter.com/search?q=R+-+Se) | N/A |
+| 36 | [NIVER DA BRUNA](http://twitter.com/search?q=NIVER+DA+BRUNA) | N/A |
+| 37 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 38 | [Enéias](http://twitter.com/search?q=En%c3%a9ias) | N/A |
+| 39 | [S - Totalmente](http://twitter.com/search?q=S+-+Totalmente) | N/A |
+| 40 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
+| 41 | [Total Acesso](http://twitter.com/search?q=Total+Acesso) | N/A |
+| 42 | [Egoísta](http://twitter.com/search?q=Ego%c3%adsta) | N/A |
+| 43 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 44 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 45 | [Cedeu](http://twitter.com/search?q=Cedeu) | N/A |
+| 46 | [Gansinho](http://twitter.com/search?q=Gansinho) | N/A |
+| 47 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 48 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
+| 49 | [Blusa](http://twitter.com/search?q=Blusa) | N/A |
+| 50 | [Black e Domitila](http://twitter.com/search?q=Black+e+Domitila) | N/A |
 
 
 
