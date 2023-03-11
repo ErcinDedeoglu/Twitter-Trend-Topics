@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-11 22:16:31 UTC`
+📆 Last Updated: `2023-03-11 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 3 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
-| 4 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
-| 5 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 6 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 8 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 9 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 2 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 3 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 4 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
+| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 6 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 7 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 8 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 9 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 10 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 11 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 12 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 13 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 14 | [#SiliconValleyBank](http://twitter.com/search?q=%23SiliconValleyBank) | N/A |
-| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 17 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 18 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 19 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 20 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 21 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 23 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 24 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 25 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 26 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 27 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 28 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 29 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 30 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 31 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 32 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 33 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 34 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
-| 35 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 36 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 37 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 38 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 39 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 40 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 41 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 42 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
-| 43 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 44 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 45 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 46 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 47 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 48 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 49 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 50 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 11 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 12 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 13 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 14 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 15 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 16 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 18 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 19 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 20 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 21 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 22 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 23 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 24 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 25 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 26 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 27 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 28 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 29 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 30 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 31 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
+| 32 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 33 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 34 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 35 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 36 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 37 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 38 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 39 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 40 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 41 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 42 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 43 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 44 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 45 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
+| 46 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 47 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 48 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 49 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 50 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 
 
 

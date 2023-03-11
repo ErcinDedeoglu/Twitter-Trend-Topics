@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-11 22:16:31 UTC`
+📆 Last Updated: `2023-03-11 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
 | 2 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
 | 3 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 4 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 5 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 6 | [#OpTicMajor](http://twitter.com/search?q=%23OpTicMajor) | N/A |
-| 7 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 8 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 9 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 10 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 11 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 12 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 13 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 14 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 15 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 16 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 18 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 19 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 20 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 21 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 22 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 23 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
-| 24 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 25 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 26 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 28 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 30 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 32 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
-| 33 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 34 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 35 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 36 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 37 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 38 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 39 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 40 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 41 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 42 | [Salas](http://twitter.com/search?q=Salas) | N/A |
-| 43 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 44 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 45 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 46 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 47 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 48 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 49 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
+| 4 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 5 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 6 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 7 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 8 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 9 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 10 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 11 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 13 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 14 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 15 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 16 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 17 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 18 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 19 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 20 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 21 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 22 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 23 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 24 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 25 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
+| 26 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 27 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 28 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 29 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 30 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 31 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 32 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 33 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 34 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 35 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 36 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 37 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 38 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 39 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
+| 40 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 41 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 42 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 43 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 44 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 45 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 46 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 47 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 48 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 49 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 
 
 

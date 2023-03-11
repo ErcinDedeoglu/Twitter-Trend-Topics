@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-11 22:16:29 UTC`
+📆 Last Updated: `2023-03-11 23:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LetsGoVCU](http://twitter.com/search?q=%23LetsGoVCU) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 4 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 5 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 6 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 7 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 8 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 11 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 12 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 13 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 14 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 15 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 16 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 17 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 18 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 19 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 20 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
-| 21 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 22 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 2 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 3 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 4 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 5 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 6 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 9 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 10 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
+| 11 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 12 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 13 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 14 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 15 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 16 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 17 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 18 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 19 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 20 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
+| 21 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 22 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
 | 23 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 24 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 26 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 27 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 28 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
-| 29 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 30 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 31 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 32 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 33 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 34 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 35 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 36 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 37 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 38 | [Salas](http://twitter.com/search?q=Salas) | N/A |
-| 39 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 40 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 41 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 42 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 43 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 44 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 45 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 46 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 47 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 48 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 49 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 24 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 26 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 28 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 29 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 30 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 31 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 32 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 33 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 34 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
+| 35 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 36 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 37 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 38 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 39 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 40 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 41 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 42 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 43 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 44 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 45 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 46 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
+| 47 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 48 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 49 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
 
 
 

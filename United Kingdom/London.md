@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-11 22:15:49 UTC`
+📆 Last Updated: `2023-03-11 23:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 2 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 3 | [Edouard](http://twitter.com/search?q=Edouard) | N/A |
-| 4 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 5 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
-| 6 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
-| 7 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 8 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 9 | [Dwight McNeil](http://twitter.com/search?q=Dwight+McNeil) | N/A |
-| 10 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 11 | [#Linekergate](http://twitter.com/search?q=%23Linekergate) | N/A |
-| 12 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 14 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 15 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
-| 16 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
-| 17 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 1 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
+| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 3 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 4 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 5 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 6 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 7 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
+| 8 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 9 | [#IStandWithGaryLineker](http://twitter.com/search?q=%23IStandWithGaryLineker) | N/A |
+| 10 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 11 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 12 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 13 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
+| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 16 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 17 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
 | 18 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 22 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
-| 23 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
-| 26 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 27 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
-| 28 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 29 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 30 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 31 | [Dan Azeez](http://twitter.com/search?q=Dan+Azeez) | N/A |
-| 32 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 20 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 21 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 22 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 23 | [Dan Azeez](http://twitter.com/search?q=Dan+Azeez) | N/A |
+| 24 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 25 | [Premier League Highlights](http://twitter.com/search?q=Premier+League+Highlights) | N/A |
+| 26 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 27 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 28 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 29 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 30 | [Sully](http://twitter.com/search?q=Sully) | N/A |
+| 31 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
+| 32 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
 | 33 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 34 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 35 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 36 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
-| 37 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 38 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 39 | [England](http://twitter.com/search?q=England) | N/A |
-| 40 | [Ian Stirling](http://twitter.com/search?q=Ian+Stirling) | N/A |
-| 41 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
-| 42 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [McNally](http://twitter.com/search?q=McNally) | N/A |
+| 34 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 35 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 36 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 37 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 38 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 39 | [Ian Stirling](http://twitter.com/search?q=Ian+Stirling) | N/A |
+| 40 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 41 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
+| 42 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 43 | [England](http://twitter.com/search?q=England) | N/A |
+| 44 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
 | 45 | [Top Buzz](http://twitter.com/search?q=Top+Buzz) | N/A |
-| 46 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 47 | [Thom Browne](http://twitter.com/search?q=Thom+Browne) | N/A |
-| 48 | [Hecky](http://twitter.com/search?q=Hecky) | N/A |
+| 46 | [Jonathan Ross](http://twitter.com/search?q=Jonathan+Ross) | N/A |
+| 47 | [McNally](http://twitter.com/search?q=McNally) | N/A |
+| 48 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-11 22:16:29 UTC`
+📆 Last Updated: `2023-03-11 23:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 2 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 3 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 4 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 5 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 6 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 7 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 8 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 9 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 11 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 13 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 14 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 15 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 16 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 17 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 18 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 19 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 20 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 21 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 22 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 23 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 24 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
-| 25 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 26 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 27 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 28 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 29 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 30 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 32 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
-| 33 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 34 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 35 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 36 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 37 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 38 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 39 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 40 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 41 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 42 | [Salas](http://twitter.com/search?q=Salas) | N/A |
-| 43 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 44 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 45 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 46 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 47 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 48 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 49 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 50 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 5 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 6 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 7 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 8 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 11 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 12 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 13 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
+| 14 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 15 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 16 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 17 | [#WeAre](http://twitter.com/search?q=%23WeAre) | #WeAre is a hashtag used to express solidarity and unity. It is often used to show support for a cause or group of people, or to celebrate diversity and inclusion. The phrase is often used in social media posts, slogans, and other forms of communication. |
+| 18 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 19 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 20 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 21 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 23 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 24 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
+| 25 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 26 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 28 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 29 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 30 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 31 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 32 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 33 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 34 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 35 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 36 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 37 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 38 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
+| 39 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 40 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 41 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 42 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 43 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 44 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 45 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 46 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 47 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 48 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 49 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 50 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
 
 
 

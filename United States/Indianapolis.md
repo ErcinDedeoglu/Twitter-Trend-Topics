@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-11 22:16:27 UTC`
+📆 Last Updated: `2023-03-11 23:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
-| 2 | [#BoilerUp](http://twitter.com/search?q=%23BoilerUp) | N/A |
-| 3 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 4 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 5 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 6 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 7 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 9 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 11 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 12 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 13 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 15 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 17 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 18 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 19 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 20 | [Fremd](http://twitter.com/search?q=Fremd) | N/A |
-| 21 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 22 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 23 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 24 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 25 | [Bruno Silva](http://twitter.com/search?q=Bruno+Silva) | N/A |
-| 26 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 27 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 29 | [JJ Aldrich](http://twitter.com/search?q=JJ+Aldrich) | N/A |
-| 30 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 31 | [Gooden](http://twitter.com/search?q=Gooden) | N/A |
-| 32 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 33 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 34 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 35 | [Norfolk State](http://twitter.com/search?q=Norfolk+State) | N/A |
-| 36 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 37 | [Tyreek Hill](http://twitter.com/search?q=Tyreek+Hill) | N/A |
-| 38 | [Salas](http://twitter.com/search?q=Salas) | N/A |
-| 39 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 40 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 41 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 42 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 43 | [Zach Edey](http://twitter.com/search?q=Zach+Edey) | Zach Edey is a British basketball player who currently plays for Purdue University in the United States. His name is derived from his first and last names, Zachary Edey. |
-| 44 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 45 | [MEAC](http://twitter.com/search?q=MEAC) | N/A |
-| 46 | [Clowney](http://twitter.com/search?q=Clowney) | Clowney is a slang term used to describe someone who is acting silly or foolish. It can also be used to describe someone who is being overly dramatic or making a spectacle of themselves. |
-| 47 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 48 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 49 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 50 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 1 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 2 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 3 | [Hannah Gibson](http://twitter.com/search?q=Hannah+Gibson) | N/A |
+| 4 | [Renee Merrifield](http://twitter.com/search?q=Renee+Merrifield) | N/A |
+| 5 | [Jim Irsay](http://twitter.com/search?q=Jim+Irsay) | N/A |
+| 6 | [Kenny Wayne Shepard](http://twitter.com/search?q=Kenny+Wayne+Shepard) | N/A |
+| 7 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 8 | [#BoilerUp](http://twitter.com/search?q=%23BoilerUp) | N/A |
+| 9 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 10 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 11 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 13 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 16 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 17 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
+| 18 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 19 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 20 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 21 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 22 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 23 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 24 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 25 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 26 | [Pred](http://twitter.com/search?q=Pred) | N/A |
+| 27 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
+| 28 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 29 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 30 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 31 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 32 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 33 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 34 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 35 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 36 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 37 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 38 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 39 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 40 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 41 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
+| 42 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
+| 43 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
+| 44 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 45 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 46 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 47 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
+| 48 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 49 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 50 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
 
 
 

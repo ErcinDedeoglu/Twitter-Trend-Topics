@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-11 22:16:00 UTC`
+📆 Last Updated: `2023-03-11 23:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
 | 2 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 4 | [#quizchampion](http://twitter.com/search?q=%23quizchampion) | N/A |
-| 5 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 6 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 7 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 8 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 9 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 10 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 11 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 12 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 13 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 14 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
-| 15 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 16 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 17 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 18 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 19 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 20 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 21 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 22 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 23 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 24 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 25 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 26 | [Blauen](http://twitter.com/search?q=Blauen) | N/A |
-| 27 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 28 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 29 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 30 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 31 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 32 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 33 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 34 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
-| 35 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
-| 36 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 37 | [#F95FCH](http://twitter.com/search?q=%23F95FCH) | N/A |
-| 38 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 39 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
-| 40 | [#Wirhabenmitgemacht](http://twitter.com/search?q=%23Wirhabenmitgemacht) | N/A |
-| 41 | [#Volksverpetzer](http://twitter.com/search?q=%23Volksverpetzer) | N/A |
-| 42 | [#wXw16Carat](http://twitter.com/search?q=%23wXw16Carat) | N/A |
-| 43 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
-| 44 | [#Fukushima](http://twitter.com/search?q=%23Fukushima) | N/A |
-| 45 | [#Eberl](http://twitter.com/search?q=%23Eberl) | N/A |
+| 3 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
+| 4 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 7 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 10 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
+| 11 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 12 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 13 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 14 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 15 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 16 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 17 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 18 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 20 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 21 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 22 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 23 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 24 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
+| 25 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 26 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 27 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 28 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 29 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 30 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 31 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 32 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 33 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 34 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 35 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 36 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 37 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 38 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
+| 39 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 40 | [Schlotterbeck](http://twitter.com/search?q=Schlotterbeck) | N/A |
+| 41 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 42 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 43 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 44 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 45 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 46 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 47 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 48 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 49 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
 
 
 
