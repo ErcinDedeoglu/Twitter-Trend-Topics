@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-12 16:17:09 UTC`
+📆 Last Updated: `2023-03-12 17:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 3 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 5 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 7 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 8 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 9 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 11 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 12 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 13 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 14 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 17 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 18 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
-| 19 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 20 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 21 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 22 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 23 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 24 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 25 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 26 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 27 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 28 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 29 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 30 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 31 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
-| 32 | [Antonee Robinson](http://twitter.com/search?q=Antonee+Robinson) | N/A |
-| 33 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 34 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 35 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 36 | [Jesus Shuttlesworth](http://twitter.com/search?q=Jesus+Shuttlesworth) | N/A |
-| 37 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 38 | [Mick Jagger](http://twitter.com/search?q=Mick+Jagger) | N/A |
-| 39 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 40 | [Auggie](http://twitter.com/search?q=Auggie) | N/A |
-| 41 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 42 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 43 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 44 | [Ray Allen](http://twitter.com/search?q=Ray+Allen) | N/A |
-| 45 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 46 | [Jack Kerouac](http://twitter.com/search?q=Jack+Kerouac) | N/A |
-| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 48 | [Pellistri](http://twitter.com/search?q=Pellistri) | Pellistri is a surname of Italian origin. It is derived from the Latin word Pellis, meaning "skin" or "hide". In English, it can be translated to mean "one who works with leather". |
+| 1 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 8 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 9 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 10 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 11 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 13 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 14 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 15 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 16 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 17 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 18 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 20 | [Matt Milano](http://twitter.com/search?q=Matt+Milano) | N/A |
+| 21 | [Will Wade](http://twitter.com/search?q=Will+Wade) | N/A |
+| 22 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 25 | [Yale](http://twitter.com/search?q=Yale) | N/A |
+| 26 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 27 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 28 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 29 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 31 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 32 | [Ray Allen](http://twitter.com/search?q=Ray+Allen) | N/A |
+| 33 | [Antonee Robinson](http://twitter.com/search?q=Antonee+Robinson) | N/A |
+| 34 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 35 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 36 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
+| 37 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
+| 38 | [McNeese State](http://twitter.com/search?q=McNeese+State) | N/A |
+| 39 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 40 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
+| 41 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 42 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 43 | [Baker Mayfield](http://twitter.com/search?q=Baker+Mayfield) | N/A |
+| 44 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 45 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
+| 46 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 47 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 48 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
 
 
 

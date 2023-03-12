@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-12 16:17:18 UTC`
+📆 Last Updated: `2023-03-12 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 1 | [#SCRWSG](http://twitter.com/search?q=%23SCRWSG) | N/A |
 | 2 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 3 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 4 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 5 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 6 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
-| 7 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 8 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 4 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
+| 5 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 6 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
+| 7 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 8 | [koalition](http://twitter.com/search?q=koalition) | N/A |
 | 9 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 10 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 11 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 10 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 11 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 12 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 14 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 15 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
-| 16 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 17 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 19 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
-| 20 | [Kilometer](http://twitter.com/search?q=Kilometer) | N/A |
-| 21 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 22 | [övp und fpö](http://twitter.com/search?q=%c3%b6vp+und+fp%c3%b6) | N/A |
-| 23 | [Meeresspiegel](http://twitter.com/search?q=Meeresspiegel) | N/A |
-| 24 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 25 | [neuwahlen](http://twitter.com/search?q=neuwahlen) | N/A |
-| 26 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 27 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
-| 28 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 29 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
-| 30 | [Vision](http://twitter.com/search?q=Vision) | N/A |
-| 31 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 32 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
-| 33 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 34 | [Holz](http://twitter.com/search?q=Holz) | N/A |
-| 35 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
-| 36 | [Legislaturperiode](http://twitter.com/search?q=Legislaturperiode) | N/A |
-| 37 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 38 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 39 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
-| 40 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 41 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 42 | [futtertrog](http://twitter.com/search?q=futtertrog) | N/A |
-| 43 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
-| 44 | [Mitmenschen](http://twitter.com/search?q=Mitmenschen) | N/A |
-| 45 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 46 | [niederösterreich](http://twitter.com/search?q=nieder%c3%b6sterreich) | N/A |
-| 47 | [verbrennungsmotoren](http://twitter.com/search?q=verbrennungsmotoren) | N/A |
-| 48 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 49 | [kompromisse](http://twitter.com/search?q=kompromisse) | N/A |
-| 50 | [Nimm](http://twitter.com/search?q=Nimm) | N/A |
+| 13 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 14 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 15 | [auswirkungen](http://twitter.com/search?q=auswirkungen) | N/A |
+| 16 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
+| 17 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 18 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
+| 19 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 20 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 21 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 22 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 23 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 24 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 25 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 26 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 29 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 30 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Innovationen](http://twitter.com/search?q=Innovationen) | N/A |
+| 33 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 34 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 35 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
+| 36 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 37 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 38 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 39 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 41 | [övp und fpö](http://twitter.com/search?q=%c3%b6vp+und+fp%c3%b6) | N/A |
+| 42 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 43 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
+| 44 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 45 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 46 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 47 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 48 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 49 | [Ansatz](http://twitter.com/search?q=Ansatz) | N/A |
+| 50 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
 
 
 

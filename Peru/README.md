@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-12 16:17:23 UTC`
+📆 Last Updated: `2023-03-12 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 2 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 3 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 4 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
-| 5 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
-| 6 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 8 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
-| 9 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
-| 12 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 2 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 3 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 4 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 5 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 6 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 7 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 8 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
+| 9 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 10 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 11 | [Indecopi](http://twitter.com/search?q=Indecopi) | N/A |
+| 12 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
 | 13 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 14 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 15 | [Indecopi](http://twitter.com/search?q=Indecopi) | N/A |
-| 16 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 17 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 18 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 19 | [kevin ortega](http://twitter.com/search?q=kevin+ortega) | N/A |
-| 20 | [Bryan Reyna](http://twitter.com/search?q=Bryan+Reyna) | N/A |
-| 21 | [le tongue](http://twitter.com/search?q=le+tongue) | N/A |
-| 22 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
-| 23 | [Santiago García](http://twitter.com/search?q=Santiago+Garc%c3%ada) | N/A |
-| 24 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
-| 25 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
-| 26 | [Stick](http://twitter.com/search?q=Stick) | N/A |
-| 27 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 28 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
-| 29 | [Donen](http://twitter.com/search?q=Donen) | N/A |
-| 30 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
-| 31 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 14 | [Palacin](http://twitter.com/search?q=Palacin) | N/A |
+| 15 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 18 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 19 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 20 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
+| 21 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 22 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 23 | [Kevin Ortega](http://twitter.com/search?q=Kevin+Ortega) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [le tongue](http://twitter.com/search?q=le+tongue) | N/A |
+| 26 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
+| 27 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 28 | [Stick](http://twitter.com/search?q=Stick) | N/A |
+| 29 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 30 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
+| 31 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
 | 32 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 33 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 35 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
-| 36 | [casma](http://twitter.com/search?q=casma) | N/A |
-| 37 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 38 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 39 | [La Pituca](http://twitter.com/search?q=La+Pituca) | N/A |
-| 40 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 41 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 43 | [Regatas](http://twitter.com/search?q=Regatas) | N/A |
-| 44 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 45 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 46 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 47 | [Marathon](http://twitter.com/search?q=Marathon) | N/A |
-| 48 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 49 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
-| 50 | [Tuesta](http://twitter.com/search?q=Tuesta) | N/A |
+| 33 | [Donen](http://twitter.com/search?q=Donen) | N/A |
+| 34 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 35 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
+| 36 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 37 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 38 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 39 | [tuesta](http://twitter.com/search?q=tuesta) | N/A |
+| 40 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
+| 41 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 42 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 43 | [La Pituca](http://twitter.com/search?q=La+Pituca) | N/A |
+| 44 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 45 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 46 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
+| 47 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 48 | [barcos](http://twitter.com/search?q=barcos) | N/A |
+| 49 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 50 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
 
 
 

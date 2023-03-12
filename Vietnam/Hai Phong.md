@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-12 16:16:57 UTC`
+📆 Last Updated: `2023-03-12 17:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
-| 2 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 3 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 4 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 5 | [#UMGSeriesEP1](http://twitter.com/search?q=%23UMGSeriesEP1) | N/A |
-| 6 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 7 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 8 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 10 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 11 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 14 | [SEOKJIN ĂN NHIỀU VÀO NHÉ](http://twitter.com/search?q=SEOKJIN+%c4%82N+NHI%e1%bb%80U+V%c3%80O+NH%c3%89) | N/A |
-| 15 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 16 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 18 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 19 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
-| 20 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 21 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 22 | [Suju](http://twitter.com/search?q=Suju) | N/A |
-| 23 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
-| 24 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 26 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 27 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 28 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
-| 29 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 30 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 31 | [$LQTY](http://twitter.com/search?q=%24LQTY) | N/A |
-| 32 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
-| 33 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 34 | [Welp](http://twitter.com/search?q=Welp) | N/A |
-| 35 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 36 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 37 | [stablecoin](http://twitter.com/search?q=stablecoin) | N/A |
-| 38 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 39 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 40 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 41 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 42 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 43 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 45 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
-| 46 | [Chung](http://twitter.com/search?q=Chung) | N/A |
-| 47 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
-| 48 | [Nước](http://twitter.com/search?q=N%c6%b0%e1%bb%9bc) | N/A |
-| 49 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
-| 50 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 2 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 3 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
+| 4 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 5 | [#quasar](http://twitter.com/search?q=%23quasar) | N/A |
+| 6 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
+| 7 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 8 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 9 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 12 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 13 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 14 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 15 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 18 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 20 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 21 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 24 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 26 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 29 | [P'Fa](http://twitter.com/search?q=P%27Fa) | N/A |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 31 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
+| 32 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 34 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 35 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 36 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 37 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
+| 38 | [$LQTY](http://twitter.com/search?q=%24LQTY) | N/A |
+| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 40 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 41 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 42 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 44 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 45 | [TUSD](http://twitter.com/search?q=TUSD) | N/A |
+| 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 47 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 48 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 49 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
+| 50 | [Chia](http://twitter.com/search?q=Chia) | N/A |
 
 
 

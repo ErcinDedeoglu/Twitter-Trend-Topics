@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-03-12 16:16:53 UTC`
+📆 Last Updated: `2023-03-12 17:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
-| 2 | [終わり方](http://twitter.com/search?q=%e7%b5%82%e3%82%8f%e3%82%8a%e6%96%b9) | 終わり方 is a Japanese phrase that literally translates to "the way something ends". It is used to refer to the conclusion or outcome of a situation, event, or story. In English, it could be translated as "the ending" or "how it all ends". |
-| 3 | [アカウント名](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e5%90%8d) | N/A |
-| 4 | [#ゲットレディ](http://twitter.com/search?q=%23%e3%82%b2%e3%83%83%e3%83%88%e3%83%ac%e3%83%87%e3%82%a3) | N/A |
-| 5 | [自分の看板](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
-| 6 | [Kアリーナ](http://twitter.com/search?q=K%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | Kアリーナ is a Japanese entertainment venue located in Tokyo. It is primarily used for concerts, live events, and other performances. The name Kアリーナ comes from the first letter of the words "Kabuki" and "Arena". In English, it translates to "Kabuki Arena". |
-| 7 | [#大勢はガチ](http://twitter.com/search?q=%23%e5%a4%a7%e5%8b%a2%e3%81%af%e3%82%ac%e3%83%81) | N/A |
-| 8 | [#星街とチルアウト](http://twitter.com/search?q=%23%e6%98%9f%e8%a1%97%e3%81%a8%e3%83%81%e3%83%ab%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
-| 9 | [シオンちゃん](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [好奇心旺盛](http://twitter.com/search?q=%e5%a5%bd%e5%a5%87%e5%bf%83%e6%97%ba%e7%9b%9b) | N/A |
-| 11 | [ユーモア](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%a2%e3%82%a2) | N/A |
-| 12 | [不滅のあなた](http://twitter.com/search?q=%e4%b8%8d%e6%bb%85%e3%81%ae%e3%81%82%e3%81%aa%e3%81%9f) | N/A |
-| 13 | [#拉致被害者全員奪還](http://twitter.com/search?q=%23%e6%8b%89%e8%87%b4%e8%a2%ab%e5%ae%b3%e8%80%85%e5%85%a8%e5%93%a1%e5%a5%aa%e9%82%84) | N/A |
-| 14 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 15 | [.hack](http://twitter.com/search?q=.hack) | N/A |
-| 16 | [自己啓発](http://twitter.com/search?q=%e8%87%aa%e5%b7%b1%e5%95%93%e7%99%ba) | N/A |
-| 17 | [感性豊か](http://twitter.com/search?q=%e6%84%9f%e6%80%a7%e8%b1%8a%e3%81%8b) | N/A |
-| 18 | [榎木淳弥](http://twitter.com/search?q=%e6%a6%8e%e6%9c%a8%e6%b7%b3%e5%bc%a5) | N/A |
-| 19 | [ビラノア](http://twitter.com/search?q=%e3%83%93%e3%83%a9%e3%83%8e%e3%82%a2) | N/A |
-| 20 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 21 | [社会問題](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e5%95%8f%e9%a1%8c) | N/A |
-| 22 | [自分の考え](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e8%80%83%e3%81%88) | N/A |
-| 23 | [高橋奎二](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%a5%8e%e4%ba%8c) | N/A |
-| 24 | [デビューコン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%b3%e3%83%b3) | N/A |
-| 25 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
-| 26 | [フォーメーション](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 27 | [マスク解禁](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e8%a7%a3%e7%a6%81) | N/A |
-| 28 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 29 | [台湾敗退](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e6%95%97%e9%80%80) | N/A |
-| 30 | [大河ドラマ](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e3%83%89%e3%83%a9%e3%83%9e) | 大河ドラマ (Taiga Drama) is a type of Japanese television drama series that focuses on historical events and figures. It typically covers a period of several decades and follows the lives of multiple generations of characters. The term literally translates to "big river drama" in English. |
-| 31 | [オーラス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%a9%e3%82%b9) | オーラス is a Japanese word that means "final" or "last". It is often used to refer to the last performance of a show or the last episode of a series. |
-| 32 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 33 | [#SideMPRS超常事変_day2](http://twitter.com/search?q=%23SideMPRS%e8%b6%85%e5%b8%b8%e4%ba%8b%e5%a4%89_day2) | N/A |
-| 34 | [しめちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%81%e3%81%a1%e3%82%83%e3%82%93) | しめちゃん is a nickname for someone named Shime. It is a combination of the person's name and the Japanese honorific suffix -chan, which is used to show endearment or familiarity. In English, it would be something like "Shimey" or "Shimers". |
-| 35 | [ムーチョ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%81%e3%83%a7) | N/A |
-| 36 | [無事帰宅](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%b8%b0%e5%ae%85) | 無事帰宅 (Mujiki Kitaku) is a Japanese phrase that means "safely returned home". It is often used to express relief when someone has returned home safely after being away for a while. |
-| 37 | [思いやり](http://twitter.com/search?q=%e6%80%9d%e3%81%84%e3%82%84%e3%82%8a) | N/A |
-| 38 | [言葉遣い](http://twitter.com/search?q=%e8%a8%80%e8%91%89%e9%81%a3%e3%81%84) | N/A |
-| 39 | [アウトドア](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%83%89%e3%82%a2) | N/A |
-| 40 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
-| 41 | [ファール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
-| 42 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 43 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
-| 44 | [準々決勝](http://twitter.com/search?q=%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
-| 45 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 46 | [アンダラ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%a9) | N/A |
-| 47 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
-| 48 | [健人くん](http://twitter.com/search?q=%e5%81%a5%e4%ba%ba%e3%81%8f%e3%82%93) | 健人くん is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of a young man named Kenjin, who is determined to become the strongest fighter in the world. The title translates to "Strong Man Kenjin" in English. |
-| 49 | [ケンティー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | ケンティー (KENTII) is a Japanese word that means "cute" or "adorable". It is often used to describe something that is attractive or endearing. |
+| 2 | [#ゲットレディ](http://twitter.com/search?q=%23%e3%82%b2%e3%83%83%e3%83%88%e3%83%ac%e3%83%87%e3%82%a3) | N/A |
+| 3 | [Kアリーナ](http://twitter.com/search?q=K%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | Kアリーナ is a Japanese entertainment venue located in Tokyo. It is primarily used for concerts, live events, and other performances. The name Kアリーナ comes from the first letter of the words "Kabuki" and "Arena". In English, it translates to "Kabuki Arena". |
+| 4 | [マスク解禁](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e8%a7%a3%e7%a6%81) | N/A |
+| 5 | [ユーモア](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%a2%e3%82%a2) | N/A |
+| 6 | [自分自身](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e8%87%aa%e8%ba%ab) | N/A |
+| 7 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 8 | [ビラノア](http://twitter.com/search?q=%e3%83%93%e3%83%a9%e3%83%8e%e3%82%a2) | N/A |
+| 9 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 10 | [アカウント名](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e5%90%8d) | N/A |
+| 11 | [.hack](http://twitter.com/search?q=.hack) | N/A |
+| 12 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
+| 13 | [無事帰宅](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%b8%b0%e5%ae%85) | 無事帰宅 (Mujiki Kitaku) is a Japanese phrase that means "safely returned home". It is often used to express relief when someone has returned home safely after being away for a while. |
+| 14 | [社会問題](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e5%95%8f%e9%a1%8c) | N/A |
+| 15 | [デビューコン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%b3%e3%83%b3) | N/A |
+| 16 | [不滅のあなた](http://twitter.com/search?q=%e4%b8%8d%e6%bb%85%e3%81%ae%e3%81%82%e3%81%aa%e3%81%9f) | N/A |
+| 17 | [自分の考え](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e8%80%83%e3%81%88) | N/A |
+| 18 | [アンコール](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
+| 19 | [ムーチョ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%81%e3%83%a7) | N/A |
+| 20 | [しめちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%81%e3%81%a1%e3%82%83%e3%82%93) | しめちゃん is a nickname for someone named Shime. It is a combination of the person's name and the Japanese honorific suffix -chan, which is used to show endearment or familiarity. In English, it would be something like "Shimey" or "Shimers". |
+| 21 | [オーラス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%a9%e3%82%b9) | オーラス is a Japanese word that means "final" or "last". It is often used to refer to the last performance of a show or the last episode of a series. |
+| 22 | [ジョージ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8) | N/A |
+| 23 | [大谷のホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 24 | [#SideMPRS超常事変_day2](http://twitter.com/search?q=%23SideMPRS%e8%b6%85%e5%b8%b8%e4%ba%8b%e5%a4%89_day2) | N/A |
+| 25 | [#せっかくグルメ](http://twitter.com/search?q=%23%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f%e3%82%b0%e3%83%ab%e3%83%a1) | #せっかくグルメ is a hashtag used on social media in Japan to share photos and experiences of delicious food. It translates to "Delicious Food, What a Treat!" |
+| 26 | [#TravisJapan](http://twitter.com/search?q=%23TravisJapan) | N/A |
+| 27 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
+| 28 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 29 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
+| 30 | [準々決勝](http://twitter.com/search?q=%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
+| 31 | [アンダラ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%a9) | N/A |
+| 32 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 33 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 34 | [健人くん](http://twitter.com/search?q=%e5%81%a5%e4%ba%ba%e3%81%8f%e3%82%93) | 健人くん is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of a young man named Kenjin, who is determined to become the strongest fighter in the world. The title translates to "Strong Man Kenjin" in English. |
+| 35 | [ケンティー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | ケンティー (KENTII) is a Japanese word that means "cute" or "adorable". It is often used to describe something that is attractive or endearing. |
+| 36 | [電脳コイル](http://twitter.com/search?q=%e9%9b%bb%e8%84%b3%e3%82%b3%e3%82%a4%e3%83%ab) | N/A |
+| 37 | [カゼミロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bc%e3%83%9f%e3%83%ad) | カゼミロ is a type of Japanese traditional folk song. It is usually sung by a group of people, and the lyrics are often about the hardships of life. In English, it can be translated as "Folk Song of Sorrow". |
+| 38 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 39 | [第416回](http://twitter.com/search?q=%e7%ac%ac416%e5%9b%9e) | N/A |
+| 40 | [マイラバ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%a9%e3%83%90) | N/A |
+| 41 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 42 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
+| 43 | [栗林離脱](http://twitter.com/search?q=%e6%a0%97%e6%9e%97%e9%9b%a2%e8%84%b1) | N/A |
+| 44 | [ハッピーエンド](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%89) | ハッピーエンド (Happī Endo) is a Japanese phrase meaning "happy ending". It is used to describe a story or movie that has a happy conclusion. |
+| 45 | [最高のドラマ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%89%e3%83%a9%e3%83%9e) | "最高のドラマ" is a Japanese phrase that translates to "the best drama". It is used to refer to a drama or television show that is considered to be the best of its kind. |
+| 46 | [晶哉ちゃん](http://twitter.com/search?q=%e6%99%b6%e5%93%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 47 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
+| 48 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 49 | [ポジティブ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3%e3%83%96) | N/A |
 
 
 

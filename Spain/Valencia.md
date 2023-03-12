@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-12 16:16:47 UTC`
+📆 Last Updated: `2023-03-12 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 3 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 4 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 5 | [#SevillaFCAlmeria](http://twitter.com/search?q=%23SevillaFCAlmeria) | N/A |
-| 6 | [Pozo](http://twitter.com/search?q=Pozo) | N/A |
-| 7 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 8 | [#Felices30Adara](http://twitter.com/search?q=%23Felices30Adara) | N/A |
-| 9 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 10 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 11 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
-| 12 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 13 | [#RCDMallorcaRealSociedad](http://twitter.com/search?q=%23RCDMallorcaRealSociedad) | N/A |
-| 14 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 15 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 17 | [#Oscars95](http://twitter.com/search?q=%23Oscars95) | N/A |
-| 18 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 19 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
-| 20 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
-| 21 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
-| 22 | [Puche](http://twitter.com/search?q=Puche) | N/A |
-| 23 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 24 | [Zaragoza](http://twitter.com/search?q=Zaragoza) | N/A |
-| 25 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 26 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 27 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 28 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 29 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 30 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 31 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 32 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 33 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 34 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 35 | [Ceuta](http://twitter.com/search?q=Ceuta) | Ceuta is a Spanish autonomous city located on the north coast of Africa. It is one of two permanently inhabited Spanish enclaves in mainland Africa, the other being Melilla. The name Ceuta is derived from the Arabic word for "fortress". In English, it can be translated as "fortress" or "stronghold". |
-| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 37 | [rojas](http://twitter.com/search?q=rojas) | N/A |
-| 38 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 39 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
-| 40 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 41 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 42 | [#APOYOROCIO12M](http://twitter.com/search?q=%23APOYOROCIO12M) | N/A |
-| 43 | [#YoMeRebelo12M](http://twitter.com/search?q=%23YoMeRebelo12M) | N/A |
-| 44 | [#PortimaoTest](http://twitter.com/search?q=%23PortimaoTest) | N/A |
+| 2 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 3 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 4 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 5 | [#KingsLeagueJ10](http://twitter.com/search?q=%23KingsLeagueJ10) | N/A |
+| 6 | [#SevillaFCAlmeria](http://twitter.com/search?q=%23SevillaFCAlmeria) | N/A |
+| 7 | [Pozo](http://twitter.com/search?q=Pozo) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 10 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 11 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
+| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 13 | [Telles](http://twitter.com/search?q=Telles) | N/A |
+| 14 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
+| 15 | [Badé](http://twitter.com/search?q=Bad%c3%a9) | Badé is a Yoruba word that means “to come” or “to arrive”. It is often used as a greeting to welcome someone or to express joy at their arrival. |
+| 16 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 17 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 18 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 19 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 20 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 21 | [#Felices30Adara](http://twitter.com/search?q=%23Felices30Adara) | N/A |
+| 22 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 23 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 24 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 25 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 27 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
+| 28 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 29 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 30 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 31 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 32 | [Zaragoza](http://twitter.com/search?q=Zaragoza) | N/A |
+| 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 34 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 35 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 36 | [Joan](http://twitter.com/search?q=Joan) | N/A |
+| 37 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 38 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
+| 39 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 40 | [rojas](http://twitter.com/search?q=rojas) | N/A |
+| 41 | [Ceuta](http://twitter.com/search?q=Ceuta) | Ceuta is a Spanish autonomous city located on the north coast of Africa. It is one of two permanently inhabited Spanish enclaves in mainland Africa, the other being Melilla. The name Ceuta is derived from the Arabic word for "fortress". In English, it can be translated as "fortress" or "stronghold". |
+| 42 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 43 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 44 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 45 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 46 | [#PortimaoTest](http://twitter.com/search?q=%23PortimaoTest) | N/A |
+| 47 | [#APOYOROCIO12M](http://twitter.com/search?q=%23APOYOROCIO12M) | N/A |
+| 48 | [#YoMeRebelo12M](http://twitter.com/search?q=%23YoMeRebelo12M) | N/A |
 
 
 
