@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-12 09:16:54 UTC`
+📆 Last Updated: `2023-03-12 10:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 3 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 4 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 5 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 6 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 3 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 4 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 7 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 8 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [#be1103](http://twitter.com/search?q=%23be1103) | N/A |
-| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 12 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 13 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 14 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 15 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 16 | [Worten](http://twitter.com/search?q=Worten) | N/A |
-| 17 | [Basis](http://twitter.com/search?q=Basis) | N/A |
-| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 19 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
-| 20 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 21 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 25 | [#fisalpine](http://twitter.com/search?q=%23fisalpine) | N/A |
-| 26 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 28 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 29 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 30 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 31 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
-| 32 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 33 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 34 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 35 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 36 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 37 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 38 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
-| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 40 | [Talent](http://twitter.com/search?q=Talent) | N/A |
-| 41 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 42 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 43 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
-| 44 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
-| 45 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 46 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 47 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 8 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 9 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 10 | [#Covid](http://twitter.com/search?q=%23Covid) | N/A |
+| 11 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 12 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 13 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 16 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 17 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 18 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 19 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 20 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 21 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 22 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 23 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 24 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 25 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 26 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 27 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 28 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 29 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 30 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
+| 31 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
+| 32 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 33 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 34 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 35 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
+| 36 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 37 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 38 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 39 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 40 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 41 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 42 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 43 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 44 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 45 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 46 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 47 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
 
 
 

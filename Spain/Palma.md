@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-12 09:16:53 UTC`
+📆 Last Updated: `2023-03-12 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Spain](</Spain>)
 | 6 | [11-M](http://twitter.com/search?q=11-M) | N/A |
 | 7 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
 | 8 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 9 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 10 | [Jn 4](http://twitter.com/search?q=Jn+4) | N/A |
-| 11 | [#RealMadridEspanyol](http://twitter.com/search?q=%23RealMadridEspanyol) | N/A |
-| 12 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 9 | [#CCubicos316](http://twitter.com/search?q=%23CCubicos316) | N/A |
+| 10 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 11 | [IGLESIAS VILLANUEVA](http://twitter.com/search?q=IGLESIAS+VILLANUEVA) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [JOSELU](http://twitter.com/search?q=JOSELU) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 16 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 17 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 18 | [SERGIO HERRERA](http://twitter.com/search?q=SERGIO+HERRERA) | N/A |
-| 19 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 20 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 21 | [KLUIVERT](http://twitter.com/search?q=KLUIVERT) | N/A |
-| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 23 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 24 | [III DOMINGO DE CUARESMA](http://twitter.com/search?q=III+DOMINGO+DE+CUARESMA) | N/A |
-| 25 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 26 | [LARIN](http://twitter.com/search?q=LARIN) | N/A |
+| 14 | [KLUIVERT](http://twitter.com/search?q=KLUIVERT) | N/A |
+| 15 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 17 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 18 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 19 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 20 | [garona](http://twitter.com/search?q=garona) | N/A |
+| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 22 | [III DOMINGO DE CUARESMA](http://twitter.com/search?q=III+DOMINGO+DE+CUARESMA) | N/A |
+| 23 | [LARIN](http://twitter.com/search?q=LARIN) | N/A |
+| 24 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 25 | [SERGIO HERRERA](http://twitter.com/search?q=SERGIO+HERRERA) | N/A |
+| 26 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
 | 27 | [Alex Calvo](http://twitter.com/search?q=Alex+Calvo) | N/A |
-| 28 | [Maguiro](http://twitter.com/search?q=Maguiro) | N/A |
-| 29 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 30 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 31 | [garona](http://twitter.com/search?q=garona) | N/A |
-| 32 | [Hoy 12](http://twitter.com/search?q=Hoy+12) | N/A |
-| 33 | [tchouaméni](http://twitter.com/search?q=tchouam%c3%a9ni) | N/A |
-| 34 | [Kokkinakis](http://twitter.com/search?q=Kokkinakis) | Kokkinakis is a Greek surname. It is derived from the Greek word "kokkinos", which means "red". In English, it can be translated to mean "red-haired". |
-| 35 | [pejiño](http://twitter.com/search?q=peji%c3%b1o) | N/A |
+| 28 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 29 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 30 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
+| 31 | [Jn 4](http://twitter.com/search?q=Jn+4) | N/A |
+| 32 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 33 | [Pejiño](http://twitter.com/search?q=Peji%c3%b1o) | N/A |
+| 34 | [Fran Sol](http://twitter.com/search?q=Fran+Sol) | N/A |
+| 35 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
 | 36 | [Pilar Manjón](http://twitter.com/search?q=Pilar+Manj%c3%b3n) | N/A |
-| 37 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 38 | [fran sol](http://twitter.com/search?q=fran+sol) | N/A |
-| 39 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 40 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 41 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 42 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 43 | [manuel ángel](http://twitter.com/search?q=manuel+%c3%a1ngel) | N/A |
-| 44 | [víctimas del terrorismo](http://twitter.com/search?q=v%c3%adctimas+del+terrorismo) | N/A |
-| 45 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
-| 46 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 47 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
-| 48 | [richard thompson](http://twitter.com/search?q=richard+thompson) | N/A |
-| 49 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 37 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 38 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 39 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
+| 40 | [víctimas del terrorismo](http://twitter.com/search?q=v%c3%adctimas+del+terrorismo) | N/A |
+| 41 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 42 | [manuel ángel](http://twitter.com/search?q=manuel+%c3%a1ngel) | N/A |
+| 43 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 44 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 45 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 46 | [Hace 19](http://twitter.com/search?q=Hace+19) | N/A |
+| 47 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 48 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 49 | [richard thompson](http://twitter.com/search?q=richard+thompson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-12 09:17:23 UTC`
+📆 Last Updated: `2023-03-12 10:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Argentina
 | 4 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
 | 5 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 6 | [#ElPuebloConCristina](http://twitter.com/search?q=%23ElPuebloConCristina) | N/A |
-| 7 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 8 | [#LucheYVuelve](http://twitter.com/search?q=%23LucheYVuelve) | N/A |
-| 9 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 10 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 11 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 12 | [#BuenSabado](http://twitter.com/search?q=%23BuenSabado) | N/A |
-| 13 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 14 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
+| 7 | [braida](http://twitter.com/search?q=braida) | N/A |
+| 8 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
+| 9 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
+| 10 | [#LucheYVuelve](http://twitter.com/search?q=%23LucheYVuelve) | N/A |
+| 11 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
+| 12 | [Conti](http://twitter.com/search?q=Conti) | N/A |
+| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 14 | [#BuenSabado](http://twitter.com/search?q=%23BuenSabado) | N/A |
 | 15 | [tehuel](http://twitter.com/search?q=tehuel) | N/A |
-| 16 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
-| 17 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 18 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
-| 19 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 16 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 17 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 18 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
+| 19 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
+| 20 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
 | 21 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 23 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 24 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 26 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 27 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 28 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
-| 29 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 30 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 31 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 33 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 34 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 35 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
-| 36 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 37 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 38 | [CHORRA](http://twitter.com/search?q=CHORRA) | N/A |
-| 39 | [Fernet](http://twitter.com/search?q=Fernet) | N/A |
-| 40 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 41 | [Plenario de la Militancia](http://twitter.com/search?q=Plenario+de+la+Militancia) | N/A |
-| 42 | [Abal](http://twitter.com/search?q=Abal) | N/A |
-| 43 | [Iván de Pineda](http://twitter.com/search?q=Iv%c3%a1n+de+Pineda) | N/A |
-| 44 | [enzito](http://twitter.com/search?q=enzito) | N/A |
-| 45 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 46 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
-| 47 | [Trips](http://twitter.com/search?q=Trips) | N/A |
-| 48 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 49 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 50 | [8-Brócoli](http://twitter.com/search?q=8-Br%c3%b3coli) | N/A |
+| 22 | [martegani](http://twitter.com/search?q=martegani) | N/A |
+| 23 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 24 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 25 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 26 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 27 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 29 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 32 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 33 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
+| 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 35 | [GARRO](http://twitter.com/search?q=GARRO) | N/A |
+| 36 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 37 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 38 | [niembro](http://twitter.com/search?q=niembro) | N/A |
+| 39 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 40 | [bareiro](http://twitter.com/search?q=bareiro) | N/A |
+| 41 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 42 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 43 | [Fernet](http://twitter.com/search?q=Fernet) | N/A |
+| 44 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
+| 45 | [Plenario de la Militancia](http://twitter.com/search?q=Plenario+de+la+Militancia) | N/A |
+| 46 | [iván de pineda](http://twitter.com/search?q=iv%c3%a1n+de+pineda) | N/A |
+| 47 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 48 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
+| 49 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 50 | [enzito](http://twitter.com/search?q=enzito) | N/A |
 
 
 

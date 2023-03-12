@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-12 09:16:40 UTC`
+📆 Last Updated: `2023-03-12 10:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 2 | [Macario](http://twitter.com/search?q=Macario) | N/A |
 | 3 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 6 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 7 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 8 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 9 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 10 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 11 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 12 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 13 | [Malagon](http://twitter.com/search?q=Malagon) | N/A |
-| 14 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 15 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 16 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 17 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 18 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 19 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
-| 20 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
-| 21 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 22 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 23 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 24 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 25 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 26 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 27 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 28 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 29 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 30 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 31 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 32 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 33 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 34 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 36 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 37 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 38 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 39 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 40 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 41 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 42 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 43 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 44 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 45 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 46 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
+| 5 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 6 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 9 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 10 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 11 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 12 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 13 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 14 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 15 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 16 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 17 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 18 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 19 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 20 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
+| 21 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 22 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 23 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 24 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 25 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 26 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 27 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 28 | [RANDY AROZARENA](http://twitter.com/search?q=RANDY+AROZARENA) | N/A |
+| 29 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 30 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 31 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 32 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 33 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 34 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
+| 35 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 36 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 37 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 38 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 39 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 40 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 41 | [welcome to the qsmp](http://twitter.com/search?q=welcome+to+the+qsmp) | N/A |
+| 42 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 43 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
+| 44 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 45 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 46 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 47 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
+| 48 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 49 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
 
 
 

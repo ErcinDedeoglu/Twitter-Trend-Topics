@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-12 09:17:18 UTC`
+📆 Last Updated: `2023-03-12 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 2 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 3 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 4 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 5 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 6 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 8 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 9 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 10 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 11 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
-| 12 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 13 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 1 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 2 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 3 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 4 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 5 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
+| 6 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 7 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 8 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 9 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 10 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 11 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 12 | [#tszyuharrison](http://twitter.com/search?q=%23tszyuharrison) | N/A |
+| 13 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
 | 14 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 15 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 16 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 17 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 18 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
-| 21 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 22 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 23 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 24 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 26 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
-| 27 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 28 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 29 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 30 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 31 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 32 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
-| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 34 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 35 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 36 | [Light the Beam](http://twitter.com/search?q=Light+the+Beam) | Light the Beam is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for achieving success, as in "Let's light the beam and get this project done!" |
-| 37 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
-| 38 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 39 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 40 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 42 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 43 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 44 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 16 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
+| 17 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
+| 18 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 19 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 20 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 24 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 27 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 28 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 29 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 30 | [Tim Tszyu](http://twitter.com/search?q=Tim+Tszyu) | N/A |
+| 31 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 32 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 33 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 34 | [ramey](http://twitter.com/search?q=ramey) | N/A |
+| 35 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 37 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 38 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 39 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 41 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 42 | [Cronin](http://twitter.com/search?q=Cronin) | N/A |
+| 43 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 44 | [Strive](http://twitter.com/search?q=Strive) | N/A |
 | 45 | [Jaquez](http://twitter.com/search?q=Jaquez) | N/A |
-| 46 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 47 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
-| 48 | [Tyger](http://twitter.com/search?q=Tyger) | N/A |
-| 49 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 50 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 46 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
+| 47 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 48 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 49 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 50 | [Spring Forward](http://twitter.com/search?q=Spring+Forward) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-12 09:16:57 UTC`
+📆 Last Updated: `2023-03-12 10:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 3 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 5 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 6 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 7 | [#NRLDragonsTitans](http://twitter.com/search?q=%23NRLDragonsTitans) | N/A |
-| 8 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 9 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 10 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
-| 11 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 14 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 15 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 16 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
-| 17 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 18 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 21 | [Talau](http://twitter.com/search?q=Talau) | N/A |
-| 22 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 23 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 24 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
-| 25 | [Tyson Gamble](http://twitter.com/search?q=Tyson+Gamble) | N/A |
-| 26 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 27 | [Autumn Ballet](http://twitter.com/search?q=Autumn+Ballet) | N/A |
+| 1 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 3 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
+| 4 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 5 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 6 | [#tszyuharrison](http://twitter.com/search?q=%23tszyuharrison) | N/A |
+| 7 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 8 | [#NRLDragonsTitans](http://twitter.com/search?q=%23NRLDragonsTitans) | N/A |
+| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 10 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 11 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 12 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 14 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 15 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 16 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
+| 17 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 18 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 19 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 20 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [Blake Lawrie](http://twitter.com/search?q=Blake+Lawrie) | N/A |
+| 23 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
+| 24 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 25 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 26 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 28 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 29 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 30 | [Benji](http://twitter.com/search?q=Benji) | N/A |
-| 31 | [Game 5](http://twitter.com/search?q=Game+5) | N/A |
-| 32 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 33 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 34 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 35 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 36 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 37 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 38 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 39 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 30 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 31 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 32 | [Tyson Gamble](http://twitter.com/search?q=Tyson+Gamble) | N/A |
+| 33 | [Liddle](http://twitter.com/search?q=Liddle) | N/A |
+| 34 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 35 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 36 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 37 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 38 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 40 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 41 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 42 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 43 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 44 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 45 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 46 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
-| 47 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 48 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 49 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 50 | [Alex Twal](http://twitter.com/search?q=Alex+Twal) | N/A |
+| 41 | [Autumn Ballet](http://twitter.com/search?q=Autumn+Ballet) | N/A |
+| 42 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 43 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 44 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 45 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 46 | [Talau](http://twitter.com/search?q=Talau) | N/A |
+| 47 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 48 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 49 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 50 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
 
 
 

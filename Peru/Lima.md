@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-12 09:16:44 UTC`
+📆 Last Updated: `2023-03-12 10:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 2 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 3 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 4 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 5 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
-| 6 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 7 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
-| 8 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 9 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 10 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 11 | [Bryan Reyna](http://twitter.com/search?q=Bryan+Reyna) | N/A |
-| 12 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 13 | [kevin ortega](http://twitter.com/search?q=kevin+ortega) | N/A |
-| 14 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
-| 15 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
-| 16 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
-| 17 | [Santiago García](http://twitter.com/search?q=Santiago+Garc%c3%ada) | N/A |
-| 18 | [Le Tongue](http://twitter.com/search?q=Le+Tongue) | N/A |
-| 19 | [#TheWeeknd](http://twitter.com/search?q=%23TheWeeknd) | N/A |
-| 20 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
-| 21 | [Stick](http://twitter.com/search?q=Stick) | N/A |
-| 22 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 23 | [casma](http://twitter.com/search?q=casma) | N/A |
-| 24 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 25 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
-| 26 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 28 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 29 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 30 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 31 | [Caro](http://twitter.com/search?q=Caro) | N/A |
-| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 33 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 34 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
-| 37 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 38 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 39 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 40 | [la pituca](http://twitter.com/search?q=la+pituca) | N/A |
-| 41 | [Regatas](http://twitter.com/search?q=Regatas) | N/A |
-| 42 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
-| 43 | [Analu](http://twitter.com/search?q=Analu) | N/A |
-| 44 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 45 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
-| 46 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 47 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 48 | [al fateh](http://twitter.com/search?q=al+fateh) | N/A |
-| 49 | [Marathon](http://twitter.com/search?q=Marathon) | N/A |
-| 50 | [tonguito](http://twitter.com/search?q=tonguito) | N/A |
+| 2 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 3 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 4 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 5 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
+| 6 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
+| 7 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 8 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 9 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
+| 10 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
+| 11 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 12 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 13 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 14 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 15 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 16 | [kevin ortega](http://twitter.com/search?q=kevin+ortega) | N/A |
+| 17 | [#teleticket](http://twitter.com/search?q=%23teleticket) | N/A |
+| 18 | [Senamhi](http://twitter.com/search?q=Senamhi) | N/A |
+| 19 | [Le Tongue](http://twitter.com/search?q=Le+Tongue) | N/A |
+| 20 | [#TheWeeknd](http://twitter.com/search?q=%23TheWeeknd) | N/A |
+| 21 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 22 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 23 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 24 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 25 | [Stick](http://twitter.com/search?q=Stick) | N/A |
+| 26 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 27 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 28 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 29 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 30 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 31 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 32 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
+| 33 | [casma](http://twitter.com/search?q=casma) | N/A |
+| 34 | [Regatas](http://twitter.com/search?q=Regatas) | N/A |
+| 35 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 36 | [liga 1 max](http://twitter.com/search?q=liga+1+max) | N/A |
+| 37 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 38 | [Caro](http://twitter.com/search?q=Caro) | N/A |
+| 39 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 40 | [Reconstrucción con Cambios](http://twitter.com/search?q=Reconstrucci%c3%b3n+con+Cambios) | N/A |
+| 41 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 42 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 44 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
+| 45 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 46 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
+| 47 | [GolPeru](http://twitter.com/search?q=GolPeru) | N/A |
+| 48 | [tuesta](http://twitter.com/search?q=tuesta) | N/A |
+| 49 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
+| 50 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
 
 
 

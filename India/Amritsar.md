@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-03-12 09:17:11 UTC`
+📆 Last Updated: `2023-03-12 10:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [India](</India>)
 | 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 3 | [#तेजस्वी_नहीं_झुकेगा](http://twitter.com/search?q=%23%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%9d%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%97%e0%a4%be) | N/A |
 | 4 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 5 | [#YehKhelHaiPriceless](http://twitter.com/search?q=%23YehKhelHaiPriceless) | N/A |
-| 6 | [28th Test](http://twitter.com/search?q=28th+Test) | N/A |
+| 5 | [#GetTestedForGlaucoma](http://twitter.com/search?q=%23GetTestedForGlaucoma) | N/A |
+| 6 | [Axar Patel](http://twitter.com/search?q=Axar+Patel) | N/A |
 | 7 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 8 | [Mandya](http://twitter.com/search?q=Mandya) | N/A |
-| 9 | [प्रज्ञा ठाकुर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
-| 10 | [1 MONTH OF ANKIT AS JAHAAN](http://twitter.com/search?q=1+MONTH+OF+ANKIT+AS+JAHAAN) | N/A |
-| 11 | [After 3](http://twitter.com/search?q=After+3) | N/A |
-| 12 | [Jai Mahakaal](http://twitter.com/search?q=Jai+Mahakaal) | N/A |
-| 13 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
-| 14 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
-| 15 | [BRAND ICON SHIV THAKARE](http://twitter.com/search?q=BRAND+ICON+SHIV+THAKARE) | N/A |
-| 16 | [Happy Family Conditions Apply](http://twitter.com/search?q=Happy+Family+Conditions+Apply) | N/A |
-| 17 | [माधुरी दीक्षित](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 18 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 19 | [Sushant Broke Barriers](http://twitter.com/search?q=Sushant+Broke+Barriers) | N/A |
-| 20 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
-| 21 | [मैसूर एक्सप्रेसवे](http://twitter.com/search?q=%e0%a4%ae%e0%a5%88%e0%a4%b8%e0%a5%82%e0%a4%b0+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a4%b5%e0%a5%87) | N/A |
-| 22 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 23 | [Just 5](http://twitter.com/search?q=Just+5) | N/A |
-| 24 | [नमक सत्याग्रह](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a4%95+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 25 | [Abolish Waqf Board](http://twitter.com/search?q=Abolish+Waqf+Board) | N/A |
-| 26 | [मार्च यात्रा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 27 | [साबरमती आश्रम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%86%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 28 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 29 | [Goonj Uthi Galiyan](http://twitter.com/search?q=Goonj+Uthi+Galiyan) | N/A |
-| 30 | [Roar Of Women](http://twitter.com/search?q=Roar+Of+Women) | N/A |
-| 31 | [Salaar](http://twitter.com/search?q=Salaar) | N/A |
+| 8 | [28th Test](http://twitter.com/search?q=28th+Test) | N/A |
+| 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 10 | [Mandya](http://twitter.com/search?q=Mandya) | N/A |
+| 11 | [प्रज्ञा ठाकुर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
+| 12 | [1 MONTH OF ANKIT AS JAHAAN](http://twitter.com/search?q=1+MONTH+OF+ANKIT+AS+JAHAAN) | N/A |
+| 13 | [Happy Family Conditions Apply](http://twitter.com/search?q=Happy+Family+Conditions+Apply) | N/A |
+| 14 | [Jai Mahakaal](http://twitter.com/search?q=Jai+Mahakaal) | N/A |
+| 15 | [After 3](http://twitter.com/search?q=After+3) | N/A |
+| 16 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 17 | [JASMIN BHASIN SUPREMACY](http://twitter.com/search?q=JASMIN+BHASIN+SUPREMACY) | N/A |
+| 18 | [BRAND ICON SHIV THAKARE](http://twitter.com/search?q=BRAND+ICON+SHIV+THAKARE) | N/A |
+| 19 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
+| 20 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
+| 21 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 23 | [माधुरी दीक्षित](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
+| 24 | [मैसूर एक्सप्रेसवे](http://twitter.com/search?q=%e0%a4%ae%e0%a5%88%e0%a4%b8%e0%a5%82%e0%a4%b0+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a4%b5%e0%a5%87) | N/A |
+| 25 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 26 | [Abolish Waqf Board](http://twitter.com/search?q=Abolish+Waqf+Board) | N/A |
+| 27 | [सनातन संस्कृति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
+| 28 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 29 | [Sushant Broke Barriers](http://twitter.com/search?q=Sushant+Broke+Barriers) | N/A |
+| 30 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 31 | [नमक सत्याग्रह](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a4%95+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
 | 32 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 33 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
-| 34 | [चाचा चौधरी](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 35 | [Mufa](http://twitter.com/search?q=Mufa) | N/A |
-| 36 | [Marathi](http://twitter.com/search?q=Marathi) | N/A |
-| 37 | [#GetTestedForGlaucoma](http://twitter.com/search?q=%23GetTestedForGlaucoma) | N/A |
-| 38 | [#GOAT𓃵](http://twitter.com/search?q=%23GOAT%f0%93%83%b5) | N/A |
-| 39 | [#शक्तिशाली_नाम_जयगुरुदेव](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a5%80_%e0%a4%a8%e0%a4%be%e0%a4%ae_%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 40 | [#रंगपंचमी](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae%e0%a5%80) | N/A |
-| 41 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
-| 42 | [#MadhuriDixit](http://twitter.com/search?q=%23MadhuriDixit) | N/A |
-| 43 | [#LearnKannadatoliveinKarnataka](http://twitter.com/search?q=%23LearnKannadatoliveinKarnataka) | N/A |
-| 44 | [#DholakiasOnPrime](http://twitter.com/search?q=%23DholakiasOnPrime) | N/A |
-| 45 | [#RangPanchami](http://twitter.com/search?q=%23RangPanchami) | N/A |
-| 46 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
-| 47 | [#BengaluruMysuruExpressway](http://twitter.com/search?q=%23BengaluruMysuruExpressway) | N/A |
-| 48 | [#RamCharanBossingOscars](http://twitter.com/search?q=%23RamCharanBossingOscars) | N/A |
-| 49 | [#dandimarchyatra](http://twitter.com/search?q=%23dandimarchyatra) | N/A |
-| 50 | [#आदिवासी_ईसाई_हिंदू_नहीं_हैं](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%88%e0%a4%b8%e0%a4%be%e0%a4%88_%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 33 | [#GodsOwnTrash](http://twitter.com/search?q=%23GodsOwnTrash) | N/A |
+| 34 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
+| 35 | [#YehKhelHaiPriceless](http://twitter.com/search?q=%23YehKhelHaiPriceless) | N/A |
+| 36 | [#शक्तिशाली_नाम_जयगुरुदेव](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a5%80_%e0%a4%a8%e0%a4%be%e0%a4%ae_%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 37 | [#GOAT𓃵](http://twitter.com/search?q=%23GOAT%f0%93%83%b5) | N/A |
+| 38 | [#dholakiasonprime](http://twitter.com/search?q=%23dholakiasonprime) | N/A |
+| 39 | [#SameSexMarriage](http://twitter.com/search?q=%23SameSexMarriage) | N/A |
+| 40 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
+| 41 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
+| 42 | [#BengaluruMysuruExpressway](http://twitter.com/search?q=%23BengaluruMysuruExpressway) | N/A |
+| 43 | [#MadhuriDixit](http://twitter.com/search?q=%23MadhuriDixit) | N/A |
+| 44 | [#रंगपंचमी](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae%e0%a5%80) | N/A |
+| 45 | [#AriTrailer](http://twitter.com/search?q=%23AriTrailer) | N/A |
+| 46 | [#RangPanchami](http://twitter.com/search?q=%23RangPanchami) | N/A |
+| 47 | [#ThrissurWelcomesAmitShah](http://twitter.com/search?q=%23ThrissurWelcomesAmitShah) | N/A |
+| 48 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 49 | [#आदिवासी_ईसाई_हिंदू_नहीं_हैं](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%88%e0%a4%b8%e0%a4%be%e0%a4%88_%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 50 | [#AriTheMovie](http://twitter.com/search?q=%23AriTheMovie) | N/A |
 
 
 

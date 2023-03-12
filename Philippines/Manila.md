@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-12 09:17:03 UTC`
+📆 Last Updated: `2023-03-12 10:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 2 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
-| 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 4 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 5 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
-| 6 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 7 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 8 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
-| 9 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 10 | [BGYO ASAP TAKEOVER](http://twitter.com/search?q=BGYO+ASAP+TAKEOVER) | N/A |
-| 11 | [Narit](http://twitter.com/search?q=Narit) | N/A |
-| 12 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
-| 13 | [peptionary with kdlex](http://twitter.com/search?q=peptionary+with+kdlex) | N/A |
-| 14 | [galing ng belleiogesic](http://twitter.com/search?q=galing+ng+belleiogesic) | N/A |
-| 15 | [Miner](http://twitter.com/search?q=Miner) | N/A |
-| 16 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
-| 17 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
-| 18 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
-| 19 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
-| 20 | [Congrats AdU](http://twitter.com/search?q=Congrats+AdU) | N/A |
-| 21 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 22 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 23 | [MARSObrang GALING MO JONA](http://twitter.com/search?q=MARSObrang+GALING+MO+JONA) | N/A |
-| 24 | [WeLoveYou Queen REGINE](http://twitter.com/search?q=WeLoveYou+Queen+REGINE) | N/A |
-| 25 | [PIESAYA SUNDAY](http://twitter.com/search?q=PIESAYA+SUNDAY) | N/A |
-| 26 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 27 | [SOLAR PANDORA OST](http://twitter.com/search?q=SOLAR+PANDORA+OST) | N/A |
-| 28 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 29 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
-| 30 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 31 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 32 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 33 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 34 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
-| 35 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 36 | [Nakkun](http://twitter.com/search?q=Nakkun) | N/A |
-| 37 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 38 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 40 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 41 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 42 | [PIEshortsEp2 CRIZJO](http://twitter.com/search?q=PIEshortsEp2+CRIZJO) | N/A |
-| 43 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 44 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 45 | [aldenwelcome backtoeb](http://twitter.com/search?q=aldenwelcome+backtoeb) | N/A |
-| 46 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 47 | [ama2ing y3ar of vinci](http://twitter.com/search?q=ama2ing+y3ar+of+vinci) | N/A |
-| 48 | [De Guzman](http://twitter.com/search?q=De+Guzman) | N/A |
-| 49 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
-| 50 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 2 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 3 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
+| 4 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 5 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 6 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
+| 7 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
+| 8 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
+| 9 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 10 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 11 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
+| 12 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 13 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 14 | [WONU](http://twitter.com/search?q=WONU) | N/A |
+| 15 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
+| 16 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 17 | [Kween Narit](http://twitter.com/search?q=Kween+Narit) | N/A |
+| 18 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 19 | [PIESAYA SUNDAY](http://twitter.com/search?q=PIESAYA+SUNDAY) | N/A |
+| 20 | [SCOUPS](http://twitter.com/search?q=SCOUPS) | N/A |
+| 21 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 22 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 23 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 24 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 25 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
+| 26 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 27 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
+| 28 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 29 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
+| 30 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
+| 31 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
+| 32 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 33 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
+| 34 | [#HORI7ON_1stMonthsary](http://twitter.com/search?q=%23HORI7ON_1stMonthsary) | N/A |
+| 35 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
+| 36 | [#DKNLKLadyAndLuke](http://twitter.com/search?q=%23DKNLKLadyAndLuke) | N/A |
+| 37 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 38 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
+| 39 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
+| 40 | [#BesideBeckyEverydayForever](http://twitter.com/search?q=%23BesideBeckyEverydayForever) | N/A |
+| 41 | [#SKZinMNL](http://twitter.com/search?q=%23SKZinMNL) | N/A |
+| 42 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
+| 43 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
+| 44 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
+| 45 | [#BOYCOTTEBxGMA732](http://twitter.com/search?q=%23BOYCOTTEBxGMA732) | N/A |
 
 
 
