@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-03-12 10:16:54 UTC`
+📆 Last Updated: `2023-03-12 11:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#京都サンガ](http://twitter.com/search?q=%23%e4%ba%ac%e9%83%bd%e3%82%b5%e3%83%b3%e3%82%ac) | N/A |
-| 2 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
-| 3 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
-| 4 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
-| 5 | [高杉晋作](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e6%99%8b%e4%bd%9c) | N/A |
-| 6 | [高杉実装](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e5%ae%9f%e8%a3%85) | N/A |
-| 7 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 8 | [オオタニサーン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%bc%e3%83%b3) | N/A |
-| 9 | [#Aqoursとホワイトデー_Day2](http://twitter.com/search?q=%23Aqours%e3%81%a8%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc_Day2) | N/A |
-| 10 | [#技名2つ言えばポケモンが何かわかる](http://twitter.com/search?q=%23%e6%8a%80%e5%90%8d2%e3%81%a4%e8%a8%80%e3%81%88%e3%81%b0%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%81%8c%e4%bd%95%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%8b) | N/A |
-| 11 | [#HappySho10000Days](http://twitter.com/search?q=%23HappySho10000Days) | N/A |
-| 12 | [アーチャー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 13 | [大谷ホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 14 | [ビッグフライ](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
-| 15 | [カマソッソ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%82%bd%e3%83%83%e3%82%bd) | カマソッソ is a type of traditional Okinawan dance. It is performed to celebrate the harvest season and to honor the gods. In English, it translates to "harvest dance". |
-| 16 | [おばさん構文](http://twitter.com/search?q=%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e6%a7%8b%e6%96%87) | N/A |
-| 17 | [武市先生](http://twitter.com/search?q=%e6%ad%a6%e5%b8%82%e5%85%88%e7%94%9f) | N/A |
-| 18 | [藤井選手](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e9%81%b8%e6%89%8b) | N/A |
-| 19 | [夢ノ咲廃校](http://twitter.com/search?q=%e5%a4%a2%e3%83%8e%e5%92%b2%e5%bb%83%e6%a0%a1) | N/A |
-| 20 | [アカウントの発信者](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%ae%e7%99%ba%e4%bf%a1%e8%80%85) | N/A |
-| 21 | [藤井さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 22 | [チコちゃん](http://twitter.com/search?q=%e3%83%81%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | チコちゃん is a nickname for the Japanese character Chico, who is a cute and cheerful girl from the manga series Chico of the Five Arrows. In English, it can be translated to mean "Chico-chan". |
-| 23 | [大丸別荘](http://twitter.com/search?q=%e5%a4%a7%e4%b8%b8%e5%88%a5%e8%8d%98) | N/A |
-| 24 | [柿原さん](http://twitter.com/search?q=%e6%9f%bf%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
-| 25 | [DASH](http://twitter.com/search?q=DASH) | N/A |
-| 26 | [かっきー](http://twitter.com/search?q=%e3%81%8b%e3%81%a3%e3%81%8d%e3%83%bc) | N/A |
-| 27 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 28 | [ナラティブ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%86%e3%82%a3%e3%83%96) | N/A |
-| 29 | [オオタニサーーーン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%bc%e3%83%bc%e3%83%bc%e3%83%b3) | N/A |
-| 30 | [藤井直伸さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%9b%b4%e4%bc%b8%e3%81%95%e3%82%93) | N/A |
-| 31 | [カッキー](http://twitter.com/search?q=%e3%82%ab%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 32 | [ゾルタン](http://twitter.com/search?q=%e3%82%be%e3%83%ab%e3%82%bf%e3%83%b3) | N/A |
-| 33 | [台湾敗退](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e6%95%97%e9%80%80) | N/A |
-| 34 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 35 | [柿原徹也](http://twitter.com/search?q=%e6%9f%bf%e5%8e%9f%e5%be%b9%e4%b9%9f) | N/A |
-| 36 | [ポッポズ](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%9d%e3%82%ba) | N/A |
-| 37 | [集団幻覚](http://twitter.com/search?q=%e9%9b%86%e5%9b%a3%e5%b9%bb%e8%a6%9a) | N/A |
-| 38 | [阿国さん](http://twitter.com/search?q=%e9%98%bf%e5%9b%bd%e3%81%95%e3%82%93) | N/A |
-| 39 | [CBC礼装](http://twitter.com/search?q=CBC%e7%a4%bc%e8%a3%85) | N/A |
-| 40 | [羽生さん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%95%e3%82%93) | 羽生さん is a respectful way of referring to the Japanese professional shogi player, Yūki Satoshi. In English, it would be translated as "Mr. Yūki". |
-| 41 | [アグラヴェイン](http://twitter.com/search?q=%e3%82%a2%e3%82%b0%e3%83%a9%e3%83%b4%e3%82%a7%e3%82%a4%e3%83%b3) | N/A |
-| 42 | [性格の持ち主](http://twitter.com/search?q=%e6%80%a7%e6%a0%bc%e3%81%ae%e6%8c%81%e3%81%a1%e4%b8%bb) | N/A |
-| 43 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
-| 44 | [プログノーシス](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%b9) | N/A |
-| 45 | [大谷さんホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 46 | [アウトドア](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%83%89%e3%82%a2) | N/A |
-| 47 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
-| 48 | [山南さん](http://twitter.com/search?q=%e5%b1%b1%e5%8d%97%e3%81%95%e3%82%93) | N/A |
-| 49 | [事実上廃校](http://twitter.com/search?q=%e4%ba%8b%e5%ae%9f%e4%b8%8a%e5%bb%83%e6%a0%a1) | N/A |
-| 50 | [藤井くん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
+| 2 | [自分の看板](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
+| 3 | [自分の看板](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
+| 4 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
+| 5 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 6 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 7 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
+| 8 | [申告敬遠](http://twitter.com/search?q=%e7%94%b3%e5%91%8a%e6%95%ac%e9%81%a0) | N/A |
+| 9 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
+| 10 | [ダーウィン](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%b3) | N/A |
+| 11 | [#せっかくグルメ](http://twitter.com/search?q=%23%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f%e3%82%b0%e3%83%ab%e3%83%a1) | #せっかくグルメ is a hashtag used on social media in Japan to share photos and experiences of delicious food. It translates to "Delicious Food, What a Treat!" |
+| 12 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
+| 13 | [#鉄腕DASH](http://twitter.com/search?q=%23%e9%89%84%e8%85%95DASH) | #鉄腕DASH is a Japanese manga series written and illustrated by Tetsuo Hara. It follows the story of a young man named Kenshiro, who is the successor to an ancient martial art known as Hokuto Shinken. The title of the series translates to "Iron Arm Dash" in English, referring to Kenshiro's superhuman strength and speed. |
+| 14 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
+| 15 | [高杉晋作](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e6%99%8b%e4%bd%9c) | N/A |
+| 16 | [高杉実装](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e5%ae%9f%e8%a3%85) | N/A |
+| 17 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
+| 18 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 19 | [Kアリーナ](http://twitter.com/search?q=K%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | Kアリーナ is a Japanese entertainment venue located in Tokyo. It is primarily used for concerts, live events, and other performances. The name Kアリーナ comes from the first letter of the words "Kabuki" and "Arena". In English, it translates to "Kabuki Arena". |
+| 20 | [台湾敗退](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e6%95%97%e9%80%80) | N/A |
+| 21 | [藤井選手](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e9%81%b8%e6%89%8b) | N/A |
+| 22 | [於大の方](http://twitter.com/search?q=%e6%96%bc%e5%a4%a7%e3%81%ae%e6%96%b9) | 於大の方 is a Japanese phrase that literally translates to "the great one". It is used as a term of respect for someone who has achieved great things or is held in high esteem. In English, it could be translated as "the great one" or "the esteemed one". |
+| 23 | [不滅のあなた](http://twitter.com/search?q=%e4%b8%8d%e6%bb%85%e3%81%ae%e3%81%82%e3%81%aa%e3%81%9f) | N/A |
+| 24 | [アカウントの発信者](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%ae%e7%99%ba%e4%bf%a1%e8%80%85) | N/A |
+| 25 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 26 | [オオタニサーーーン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%bc%e3%83%bc%e3%83%bc%e3%83%b3) | N/A |
+| 27 | [大谷3ラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b73%e3%83%a9%e3%83%b3) | N/A |
+| 28 | [ピケオー](http://twitter.com/search?q=%e3%83%94%e3%82%b1%e3%82%aa%e3%83%bc) | N/A |
+| 29 | [藤井さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 30 | [ジャニーズモデル部サブリーダー就任](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba%e3%83%a2%e3%83%87%e3%83%ab%e9%83%a8%e3%82%b5%e3%83%96%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%b0%b1%e4%bb%bb) | N/A |
+| 31 | [えびすくい](http://twitter.com/search?q=%e3%81%88%e3%81%b3%e3%81%99%e3%81%8f%e3%81%84) | N/A |
+| 32 | [おばさん構文](http://twitter.com/search?q=%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e6%a7%8b%e6%96%87) | N/A |
+| 33 | [藤井直伸さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%9b%b4%e4%bc%b8%e3%81%95%e3%82%93) | N/A |
+| 34 | [大谷敬遠](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e6%95%ac%e9%81%a0) | N/A |
+| 35 | [アーチャー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 36 | [自分の広告](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e5%ba%83%e5%91%8a) | N/A |
+| 37 | [大丸別荘](http://twitter.com/search?q=%e5%a4%a7%e4%b8%b8%e5%88%a5%e8%8d%98) | N/A |
+| 38 | [武市先生](http://twitter.com/search?q=%e6%ad%a6%e5%b8%82%e5%85%88%e7%94%9f) | N/A |
+| 39 | [確信歩き](http://twitter.com/search?q=%e7%a2%ba%e4%bf%a1%e6%ad%a9%e3%81%8d) | N/A |
+| 40 | [大谷の看板](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
+| 41 | [夢ノ咲廃校](http://twitter.com/search?q=%e5%a4%a2%e3%83%8e%e5%92%b2%e5%bb%83%e6%a0%a1) | N/A |
+| 42 | [カマソッソ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%82%bd%e3%83%83%e3%82%bd) | カマソッソ is a type of traditional Okinawan dance. It is performed to celebrate the harvest season and to honor the gods. In English, it translates to "harvest dance". |
+| 43 | [山本投手](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e6%8a%95%e6%89%8b) | N/A |
+| 44 | [海老すくい](http://twitter.com/search?q=%e6%b5%b7%e8%80%81%e3%81%99%e3%81%8f%e3%81%84) | 海老すくい is a traditional Japanese game that involves catching shrimp with a net. The game is usually played at festivals or special events, and it is a popular activity for children. In English, it is known as "shrimp scooping". |
+| 45 | [上位打線](http://twitter.com/search?q=%e4%b8%8a%e4%bd%8d%e6%89%93%e7%b7%9a) | N/A |
+| 46 | [Salesforce](http://twitter.com/search?q=Salesforce) | N/A |
+| 47 | [鉄腕ダッシュ](http://twitter.com/search?q=%e9%89%84%e8%85%95%e3%83%80%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 48 | [センター返し](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e8%bf%94%e3%81%97) | N/A |
+| 49 | [先制3ラン](http://twitter.com/search?q=%e5%85%88%e5%88%b63%e3%83%a9%e3%83%b3) | N/A |
+| 50 | [ポッポズ](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%9d%e3%82%ba) | N/A |
 
 
 

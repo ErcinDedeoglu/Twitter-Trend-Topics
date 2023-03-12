@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-12 10:16:34 UTC`
+📆 Last Updated: `2023-03-12 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,46 +18,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
 | 2 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
 | 3 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
-| 4 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
-| 5 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
-| 6 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 7 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
-| 8 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 9 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 10 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
-| 11 | [WONU](http://twitter.com/search?q=WONU) | N/A |
-| 12 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
-| 13 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 14 | [Kween Narit](http://twitter.com/search?q=Kween+Narit) | N/A |
-| 15 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 16 | [PIESAYA SUNDAY](http://twitter.com/search?q=PIESAYA+SUNDAY) | N/A |
+| 4 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
+| 5 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 6 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
+| 7 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 8 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
+| 9 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
+| 10 | [WONU](http://twitter.com/search?q=WONU) | N/A |
+| 11 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 12 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 13 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 14 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 15 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
+| 16 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
 | 17 | [SCOUPS](http://twitter.com/search?q=SCOUPS) | N/A |
-| 18 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 19 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 20 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 18 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 19 | [Edward](http://twitter.com/search?q=Edward) | N/A |
+| 20 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
 | 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 23 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
-| 24 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
-| 25 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
-| 26 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 22 | [JOSHUA HONG](http://twitter.com/search?q=JOSHUA+HONG) | N/A |
+| 23 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 24 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
+| 25 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 26 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
 | 27 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
-| 28 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
-| 29 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 30 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
+| 28 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
+| 29 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
+| 30 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
 | 31 | [#HORI7ON_1stMonthsary](http://twitter.com/search?q=%23HORI7ON_1stMonthsary) | N/A |
-| 32 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
-| 33 | [#DKNLKLadyAndLuke](http://twitter.com/search?q=%23DKNLKLadyAndLuke) | N/A |
-| 34 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 35 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
-| 36 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
-| 37 | [#BesideBeckyEverydayForever](http://twitter.com/search?q=%23BesideBeckyEverydayForever) | N/A |
-| 38 | [#SKZinMNL](http://twitter.com/search?q=%23SKZinMNL) | N/A |
-| 39 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
-| 40 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
-| 41 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
-| 42 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
-| 43 | [#BOYCOTTEBxGMA732](http://twitter.com/search?q=%23BOYCOTTEBxGMA732) | N/A |
+| 32 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
+| 33 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
+| 34 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
+| 35 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
+| 36 | [#2023PBAPassiAllStars](http://twitter.com/search?q=%232023PBAPassiAllStars) | N/A |
+| 37 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
+| 38 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 39 | [#CARATLAND2023](http://twitter.com/search?q=%23CARATLAND2023) | N/A |
+| 40 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
+| 41 | [#BesideBeckyEverydayForever](http://twitter.com/search?q=%23BesideBeckyEverydayForever) | N/A |
+| 42 | [#BOYCOTTEBxGMA732](http://twitter.com/search?q=%23BOYCOTTEBxGMA732) | N/A |
+| 43 | [#JENLISA](http://twitter.com/search?q=%23JENLISA) | N/A |
+| 44 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
+| 45 | [#SKZinMNL](http://twitter.com/search?q=%23SKZinMNL) | N/A |
+| 46 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
 
 
 

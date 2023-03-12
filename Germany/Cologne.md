@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-12 10:16:21 UTC`
+📆 Last Updated: `2023-03-12 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 4 | [#SchlagDenStar](http://twitter.com/search?q=%23SchlagDenStar) | N/A |
-| 5 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
-| 6 | [#SGEVfB](http://twitter.com/search?q=%23SGEVfB) | N/A |
+| 2 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 4 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 5 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 6 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
 | 7 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [SCHALKE](http://twitter.com/search?q=SCHALKE) | N/A |
-| 10 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 10 | [SCHALKE](http://twitter.com/search?q=SCHALKE) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 12 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 13 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 14 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 15 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 16 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 14 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 15 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 16 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
 | 17 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
 | 18 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 19 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 20 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 21 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 22 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 23 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 24 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 25 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 26 | [haller](http://twitter.com/search?q=haller) | N/A |
-| 27 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 28 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 29 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 30 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 31 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 32 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
-| 33 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 34 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 35 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 36 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 37 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
-| 38 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
-| 39 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 40 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 41 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 42 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 43 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 44 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 19 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 20 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 21 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 22 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 23 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 24 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 25 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
+| 26 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 27 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 28 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
+| 29 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 30 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 31 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 32 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 33 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 34 | [extremismus](http://twitter.com/search?q=extremismus) | N/A |
+| 35 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 36 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 37 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 40 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 41 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 42 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 43 | [Dein Sohn](http://twitter.com/search?q=Dein+Sohn) | N/A |
+| 44 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
 | 45 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 46 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 47 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 48 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 46 | [Janin](http://twitter.com/search?q=Janin) | N/A |
+| 47 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 48 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
 | 49 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 50 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
+| 50 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
 
 
 

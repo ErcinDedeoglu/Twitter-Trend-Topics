@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-12 10:16:48 UTC`
+📆 Last Updated: `2023-03-12 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 2 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 3 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
-| 4 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 5 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 8 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 9 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 10 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 11 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 12 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 13 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 14 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 15 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 16 | [#tszyuharrison](http://twitter.com/search?q=%23tszyuharrison) | N/A |
-| 17 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 18 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 19 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 20 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 21 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 22 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 25 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 26 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 28 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 29 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 30 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 31 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 32 | [Tim Tszyu](http://twitter.com/search?q=Tim+Tszyu) | N/A |
-| 33 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 34 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 35 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 36 | [ramey](http://twitter.com/search?q=ramey) | N/A |
-| 37 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 38 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 39 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 40 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 41 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 42 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 43 | [Cronin](http://twitter.com/search?q=Cronin) | N/A |
-| 44 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 45 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 46 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 47 | [Jaquez](http://twitter.com/search?q=Jaquez) | N/A |
-| 48 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
-| 49 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 2 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 3 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
+| 8 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 9 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 10 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 11 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
+| 12 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 13 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 14 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 15 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 16 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 17 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 19 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 20 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 21 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 22 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 23 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 24 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 27 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 28 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 29 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 30 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 31 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 32 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 33 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 34 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 35 | [Spring Forward](http://twitter.com/search?q=Spring+Forward) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 38 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 39 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 40 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 41 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Strive](http://twitter.com/search?q=Strive) | N/A |
+| 44 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
+| 45 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 46 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 47 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
+| 48 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 49 | [Shutter Island](http://twitter.com/search?q=Shutter+Island) | N/A |
 
 
 

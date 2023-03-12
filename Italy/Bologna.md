@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-12 10:16:22 UTC`
+📆 Last Updated: `2023-03-12 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
-| 2 | [#12marzo](http://twitter.com/search?q=%2312marzo) | N/A |
-| 3 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 3 | [#TheVoiceKidsIt](http://twitter.com/search?q=%23TheVoiceKidsIt) | N/A |
 | 4 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 5 | [#TheVoiceKidsIt](http://twitter.com/search?q=%23TheVoiceKidsIt) | N/A |
-| 6 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 5 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
+| 6 | [#12marzo](http://twitter.com/search?q=%2312marzo) | N/A |
 | 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
 | 8 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
 | 9 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 10 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 11 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 12 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 13 | [Torto](http://twitter.com/search?q=Torto) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 10 | [Torto](http://twitter.com/search?q=Torto) | N/A |
+| 11 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 12 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 13 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 14 | [Bucava](http://twitter.com/search?q=Bucava) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 16 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 17 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
-| 18 | [Gabriele D'Annunzio](http://twitter.com/search?q=Gabriele+D%27Annunzio) | N/A |
+| 17 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 18 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
 | 19 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 20 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 21 | [Bucava](http://twitter.com/search?q=Bucava) | N/A |
-| 22 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 21 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 22 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
 | 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 24 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
-| 25 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 26 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
-| 27 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
-| 28 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 24 | [Ragione](http://twitter.com/search?q=Ragione) | N/A |
+| 25 | [Gabriele D'Annunzio](http://twitter.com/search?q=Gabriele+D%27Annunzio) | N/A |
+| 26 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 27 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 28 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
 | 29 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 30 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 31 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 32 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 33 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
-| 34 | [buongiorno giuseppe](http://twitter.com/search?q=buongiorno+giuseppe) | N/A |
-| 35 | [Storace](http://twitter.com/search?q=Storace) | N/A |
-| 36 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 37 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
-| 38 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 39 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 40 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 41 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 42 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
-| 43 | [ranya](http://twitter.com/search?q=ranya) | N/A |
-| 44 | [Leriana](http://twitter.com/search?q=Leriana) | N/A |
-| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 46 | [Ipocriti](http://twitter.com/search?q=Ipocriti) | N/A |
-| 47 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
-| 48 | [Giuntoli](http://twitter.com/search?q=Giuntoli) | N/A |
-| 49 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 50 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 30 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 31 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 32 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 33 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 34 | [Storace](http://twitter.com/search?q=Storace) | N/A |
+| 35 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
+| 36 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
+| 37 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 38 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 39 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 40 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 41 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
+| 42 | [Ranya](http://twitter.com/search?q=Ranya) | N/A |
+| 43 | [Leriana](http://twitter.com/search?q=Leriana) | N/A |
+| 44 | [Ipocriti](http://twitter.com/search?q=Ipocriti) | N/A |
+| 45 | [Fausto Papetti](http://twitter.com/search?q=Fausto+Papetti) | N/A |
+| 46 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 47 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 48 | [abbatte](http://twitter.com/search?q=abbatte) | N/A |
+| 49 | [Giorgia Villa](http://twitter.com/search?q=Giorgia+Villa) | N/A |
+| 50 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-12 10:17:00 UTC`
+📆 Last Updated: `2023-03-12 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,7 +50,7 @@ This is top 50 for Panama
 | 33 | [gualaca](http://twitter.com/search?q=gualaca) | N/A |
 | 34 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
 | 35 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
-| 36 | [Balbina](http://twitter.com/search?q=Balbina) | N/A |
+| 36 | [balbina](http://twitter.com/search?q=balbina) | N/A |
 | 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 38 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
 | 39 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
@@ -60,10 +60,10 @@ This is top 50 for Panama
 | 43 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 44 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
 | 45 | [Aderlyn](http://twitter.com/search?q=Aderlyn) | N/A |
-| 46 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 47 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 48 | [inamu](http://twitter.com/search?q=inamu) | N/A |
-| 49 | [capira](http://twitter.com/search?q=capira) | N/A |
+| 46 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 47 | [inamu](http://twitter.com/search?q=inamu) | N/A |
+| 48 | [capira](http://twitter.com/search?q=capira) | N/A |
+| 49 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 50 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
 
 

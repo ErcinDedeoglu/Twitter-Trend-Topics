@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-12 10:16:43 UTC`
+📆 Last Updated: `2023-03-12 11:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Indore](http://twitter.com/search?q=%23Indore) | N/A |
-| 2 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [#तेजस्वी_नहीं_झुकेगा](http://twitter.com/search?q=%23%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%9d%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%97%e0%a4%be) | N/A |
+| 1 | [#rangpanchami2023](http://twitter.com/search?q=%23rangpanchami2023) | N/A |
+| 2 | [#Indore](http://twitter.com/search?q=%23Indore) | N/A |
+| 3 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 5 | [Axar Patel](http://twitter.com/search?q=Axar+Patel) | N/A |
-| 6 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 7 | [28th Test](http://twitter.com/search?q=28th+Test) | N/A |
-| 8 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 9 | [Mandya](http://twitter.com/search?q=Mandya) | N/A |
-| 10 | [प्रज्ञा ठाकुर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
-| 11 | [1 MONTH OF ANKIT AS JAHAAN](http://twitter.com/search?q=1+MONTH+OF+ANKIT+AS+JAHAAN) | N/A |
-| 12 | [Happy Family Conditions Apply](http://twitter.com/search?q=Happy+Family+Conditions+Apply) | N/A |
-| 13 | [Jai Mahakaal](http://twitter.com/search?q=Jai+Mahakaal) | N/A |
-| 14 | [After 3](http://twitter.com/search?q=After+3) | N/A |
-| 15 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 16 | [JASMIN BHASIN SUPREMACY](http://twitter.com/search?q=JASMIN+BHASIN+SUPREMACY) | N/A |
-| 17 | [BRAND ICON SHIV THAKARE](http://twitter.com/search?q=BRAND+ICON+SHIV+THAKARE) | N/A |
-| 18 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
-| 19 | [KS Bharat](http://twitter.com/search?q=KS+Bharat) | N/A |
-| 20 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 21 | [माधुरी दीक्षित](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 22 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
-| 23 | [मैसूर एक्सप्रेसवे](http://twitter.com/search?q=%e0%a4%ae%e0%a5%88%e0%a4%b8%e0%a5%82%e0%a4%b0+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a4%b5%e0%a5%87) | N/A |
-| 24 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 25 | [Abolish Waqf Board](http://twitter.com/search?q=Abolish+Waqf+Board) | N/A |
-| 26 | [सनातन संस्कृति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
-| 27 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 28 | [Sushant Broke Barriers](http://twitter.com/search?q=Sushant+Broke+Barriers) | N/A |
-| 29 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 30 | [नमक सत्याग्रह](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a4%95+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 31 | [Draw](http://twitter.com/search?q=Draw) | N/A |
-| 32 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 33 | [#GetTestedForGlaucoma](http://twitter.com/search?q=%23GetTestedForGlaucoma) | N/A |
-| 34 | [#GodsOwnTrash](http://twitter.com/search?q=%23GodsOwnTrash) | N/A |
-| 35 | [#YehKhelHaiPriceless](http://twitter.com/search?q=%23YehKhelHaiPriceless) | N/A |
-| 36 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
-| 37 | [#शक्तिशाली_नाम_जयगुरुदेव](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a5%80_%e0%a4%a8%e0%a4%be%e0%a4%ae_%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 38 | [#GOAT𓃵](http://twitter.com/search?q=%23GOAT%f0%93%83%b5) | N/A |
-| 39 | [#DholakiasOnPrime](http://twitter.com/search?q=%23DholakiasOnPrime) | N/A |
-| 40 | [#SameSexMarriage](http://twitter.com/search?q=%23SameSexMarriage) | N/A |
-| 41 | [#BorderGavaskarTrophy2023](http://twitter.com/search?q=%23BorderGavaskarTrophy2023) | N/A |
-| 42 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
-| 43 | [#BengaluruMysuruExpressway](http://twitter.com/search?q=%23BengaluruMysuruExpressway) | N/A |
-| 44 | [#MadhuriDixit](http://twitter.com/search?q=%23MadhuriDixit) | N/A |
-| 45 | [#रंगपंचमी](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae%e0%a5%80) | N/A |
-| 46 | [#AriTrailer](http://twitter.com/search?q=%23AriTrailer) | N/A |
-| 47 | [#RangPanchami](http://twitter.com/search?q=%23RangPanchami) | N/A |
-| 48 | [#ThrissurWelcomesAmitShah](http://twitter.com/search?q=%23ThrissurWelcomesAmitShah) | N/A |
-| 49 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 6 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 7 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 8 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
+| 9 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 11 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 12 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 13 | [Mandya](http://twitter.com/search?q=Mandya) | N/A |
+| 14 | [प्रज्ञा ठाकुर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
+| 15 | [28th Test](http://twitter.com/search?q=28th+Test) | N/A |
+| 16 | [75th Century](http://twitter.com/search?q=75th+Century) | N/A |
+| 17 | [Happy Family Conditions Apply](http://twitter.com/search?q=Happy+Family+Conditions+Apply) | N/A |
+| 18 | [After 3](http://twitter.com/search?q=After+3) | N/A |
+| 19 | [Shami](http://twitter.com/search?q=Shami) | Shami is a type of flatbread that is popular in the Middle East and South Asia. It is made from wheat flour, oil, and water, and is usually served with a variety of dips or curries. The name "Shami" comes from the Persian word for "flatbread". In English, it can also be referred to as "Lebanese flatbread". |
+| 20 | [1 MONTH OF ANKIT AS JAHAAN](http://twitter.com/search?q=1+MONTH+OF+ANKIT+AS+JAHAAN) | N/A |
+| 21 | [Sayema](http://twitter.com/search?q=Sayema) | N/A |
+| 22 | [JASMIN BHASIN SUPREMACY](http://twitter.com/search?q=JASMIN+BHASIN+SUPREMACY) | N/A |
+| 23 | [Sachin](http://twitter.com/search?q=Sachin) | N/A |
+| 24 | [Rahul Dravid](http://twitter.com/search?q=Rahul+Dravid) | N/A |
+| 25 | [Jai Mahakaal](http://twitter.com/search?q=Jai+Mahakaal) | N/A |
+| 26 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 27 | [माधुरी दीक्षित](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%81%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
+| 28 | [Bapu](http://twitter.com/search?q=Bapu) | N/A |
+| 29 | [BRAND ICON SHIV THAKARE](http://twitter.com/search?q=BRAND+ICON+SHIV+THAKARE) | N/A |
+| 30 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 31 | [मैसूर एक्सप्रेसवे](http://twitter.com/search?q=%e0%a4%ae%e0%a5%88%e0%a4%b8%e0%a5%82%e0%a4%b0+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a4%b5%e0%a5%87) | N/A |
+| 32 | [बुलेट ट्रेन](http://twitter.com/search?q=%e0%a4%ac%e0%a5%81%e0%a4%b2%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 33 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 34 | [सनातन संस्कृति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf) | N/A |
+| 35 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 36 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 37 | [Sushant Broke Barriers](http://twitter.com/search?q=Sushant+Broke+Barriers) | N/A |
+| 38 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
+| 39 | [#GodsOwnTrash](http://twitter.com/search?q=%23GodsOwnTrash) | N/A |
+| 40 | [#तेजस्वी_नहीं_झुकेगा](http://twitter.com/search?q=%23%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%9d%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%97%e0%a4%be) | N/A |
+| 41 | [#SameSexMarriage](http://twitter.com/search?q=%23SameSexMarriage) | N/A |
+| 42 | [#GetTestedForGlaucoma](http://twitter.com/search?q=%23GetTestedForGlaucoma) | N/A |
+| 43 | [#RailInfra4Karnataka](http://twitter.com/search?q=%23RailInfra4Karnataka) | N/A |
+| 44 | [#YehKhelHaiPriceless](http://twitter.com/search?q=%23YehKhelHaiPriceless) | N/A |
+| 45 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
+| 46 | [#शक्तिशाली_नाम_जयगुरुदेव](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a5%80_%e0%a4%a8%e0%a4%be%e0%a4%ae_%e0%a4%9c%e0%a4%af%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 47 | [#NayeBharatKaNayaStation](http://twitter.com/search?q=%23NayeBharatKaNayaStation) | N/A |
+| 48 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
+| 49 | [#GOAT𓃵](http://twitter.com/search?q=%23GOAT%f0%93%83%b5) | N/A |
 
 
 

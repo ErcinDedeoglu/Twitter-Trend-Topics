@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-12 10:17:00 UTC`
+📆 Last Updated: `2023-03-12 11:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Pakistan
 | 6 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
 | 7 | [indus hospital](http://twitter.com/search?q=indus+hospital) | N/A |
 | 8 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 9 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
-| 10 | [HABIB UNIVERSITY](http://twitter.com/search?q=HABIB+UNIVERSITY) | N/A |
+| 9 | [HABIB UNIVERSITY](http://twitter.com/search?q=HABIB+UNIVERSITY) | N/A |
+| 10 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
 | 11 | [Qais Ahmed](http://twitter.com/search?q=Qais+Ahmed) | N/A |
 | 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [ihhn](http://twitter.com/search?q=ihhn) | N/A |
-| 15 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 16 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 18 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 19 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 20 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
-| 21 | [PMML](http://twitter.com/search?q=PMML) | N/A |
-| 22 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 23 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 24 | [HAT-TRICK](http://twitter.com/search?q=HAT-TRICK) | N/A |
-| 25 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
-| 26 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
-| 27 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 30 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 31 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 32 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
-| 33 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 34 | [Flat](http://twitter.com/search?q=Flat) | N/A |
-| 35 | [Sirf](http://twitter.com/search?q=Sirf) | N/A |
-| 36 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 37 | [GET WELL SOON](http://twitter.com/search?q=GET+WELL+SOON) | N/A |
-| 38 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
-| 39 | [Haseen](http://twitter.com/search?q=Haseen) | N/A |
-| 40 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 41 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 14 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 15 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
+| 18 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 19 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 20 | [HAT-TRICK](http://twitter.com/search?q=HAT-TRICK) | N/A |
+| 21 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
+| 22 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
+| 23 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 24 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 25 | [PMML](http://twitter.com/search?q=PMML) | N/A |
+| 26 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 27 | [Iron](http://twitter.com/search?q=Iron) | N/A |
+| 28 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 30 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 31 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
+| 32 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
+| 33 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
+| 34 | [Azam](http://twitter.com/search?q=Azam) | N/A |
+| 35 | [Flat](http://twitter.com/search?q=Flat) | N/A |
+| 36 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 37 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
+| 38 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 39 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
+| 40 | [Haseen](http://twitter.com/search?q=Haseen) | N/A |
+| 41 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
 | 42 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 43 | [England](http://twitter.com/search?q=England) | N/A |
-| 44 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 45 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 46 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 43 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 44 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 45 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 46 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
 | 47 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 48 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 48 | [England](http://twitter.com/search?q=England) | N/A |
+| 49 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 50 | [Elections](http://twitter.com/search?q=Elections) | N/A |
 
 
 

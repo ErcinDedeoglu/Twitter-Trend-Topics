@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-12 10:16:26 UTC`
+📆 Last Updated: `2023-03-12 11:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 2 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 3 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 4 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 5 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 6 | [#PerindoLawanHoaks](http://twitter.com/search?q=%23PerindoLawanHoaks) | N/A |
-| 7 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
-| 8 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 9 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 10 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 11 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
-| 12 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 13 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 14 | [WONU](http://twitter.com/search?q=WONU) | N/A |
-| 15 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 16 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
-| 17 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 18 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 19 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 20 | [Yunani](http://twitter.com/search?q=Yunani) | N/A |
-| 21 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
-| 22 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 23 | [Ansor](http://twitter.com/search?q=Ansor) | N/A |
-| 24 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 25 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 26 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 27 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 28 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
-| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 30 | [Indonesia Raya](http://twitter.com/search?q=Indonesia+Raya) | N/A |
-| 31 | [Wahabi](http://twitter.com/search?q=Wahabi) | N/A |
-| 32 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 33 | [Konser](http://twitter.com/search?q=Konser) | N/A |
-| 34 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
-| 35 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
-| 36 | [#BORNPINKinJKTday2](http://twitter.com/search?q=%23BORNPINKinJKTday2) | N/A |
-| 37 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
-| 38 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
-| 39 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
-| 40 | [#novoclubbyparagon](http://twitter.com/search?q=%23novoclubbyparagon) | N/A |
-| 41 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 42 | [#จอยไม่หยุดเลย์xGF](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%ad%e0%b8%a2%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8cxGF) | N/A |
-| 43 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
-| 44 | [#Glory9lorySSCN](http://twitter.com/search?q=%23Glory9lorySSCN) | N/A |
-| 45 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 46 | [#JENNIE](http://twitter.com/search?q=%23JENNIE) | N/A |
-| 47 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 48 | [#PLTGSamberaMandek](http://twitter.com/search?q=%23PLTGSamberaMandek) | N/A |
+| 1 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
+| 2 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 3 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
+| 4 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 5 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 6 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
+| 7 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
+| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 9 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 12 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 13 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 14 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
+| 15 | [Persik](http://twitter.com/search?q=Persik) | N/A |
+| 16 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 17 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
+| 18 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 19 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 20 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 21 | [WONU](http://twitter.com/search?q=WONU) | N/A |
+| 22 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 23 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 24 | [JENNIE SHINING IN JAKARTA](http://twitter.com/search?q=JENNIE+SHINING+IN+JAKARTA) | N/A |
+| 25 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
+| 26 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
+| 27 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 28 | [CHILWELL](http://twitter.com/search?q=CHILWELL) | N/A |
+| 29 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 30 | [Ansor](http://twitter.com/search?q=Ansor) | N/A |
+| 31 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
+| 32 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 33 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
+| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 35 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 36 | [SHGB](http://twitter.com/search?q=SHGB) | N/A |
+| 37 | [Koesni Harningsih](http://twitter.com/search?q=Koesni+Harningsih) | N/A |
+| 38 | [Quidditch](http://twitter.com/search?q=Quidditch) | N/A |
+| 39 | [stay strong our biu](http://twitter.com/search?q=stay+strong+our+biu) | N/A |
+| 40 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 41 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 42 | [HyeMiLeeYeChaePa IS OUT](http://twitter.com/search?q=HyeMiLeeYeChaePa+IS+OUT) | N/A |
+| 43 | [Axis](http://twitter.com/search?q=Axis) | N/A |
+| 44 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 45 | [Yeonjin](http://twitter.com/search?q=Yeonjin) | N/A |
+| 46 | [Kodim 0105](http://twitter.com/search?q=Kodim+0105) | N/A |
+| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 48 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
+| 49 | [King Arthur](http://twitter.com/search?q=King+Arthur) | N/A |
+| 50 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
 
 
 

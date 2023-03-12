@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-12 10:16:57 UTC`
+📆 Last Updated: `2023-03-12 11:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,11 +28,11 @@ This is top 50 for Guatemala
 | 11 | [xelajú mc](http://twitter.com/search?q=xelaj%c3%ba+mc) | N/A |
 | 12 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
 | 13 | [iztapa](http://twitter.com/search?q=iztapa) | N/A |
-| 14 | [Santa Lucía Cotzumalguapa](http://twitter.com/search?q=Santa+Luc%c3%ada+Cotzumalguapa) | N/A |
+| 14 | [santa lucía cotzumalguapa](http://twitter.com/search?q=santa+luc%c3%ada+cotzumalguapa) | N/A |
 | 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 16 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 17 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 18 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 17 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 18 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
 | 19 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
 | 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -50,10 +50,10 @@ This is top 50 for Guatemala
 | 33 | [señor sepultado](http://twitter.com/search?q=se%c3%b1or+sepultado) | N/A |
 | 34 | [Lástima](http://twitter.com/search?q=L%c3%a1stima) | N/A |
 | 35 | [Fíjate](http://twitter.com/search?q=F%c3%adjate) | N/A |
-| 36 | [Leonel Rodas](http://twitter.com/search?q=Leonel+Rodas) | N/A |
+| 36 | [leonel rodas](http://twitter.com/search?q=leonel+rodas) | N/A |
 | 37 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
 | 38 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
-| 39 | [Catedral Metropolitana](http://twitter.com/search?q=Catedral+Metropolitana) | N/A |
+| 39 | [catedral metropolitana](http://twitter.com/search?q=catedral+metropolitana) | N/A |
 | 40 | [Correcto](http://twitter.com/search?q=Correcto) | N/A |
 | 41 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
 | 42 | [Necesitamos](http://twitter.com/search?q=Necesitamos) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Guatemala
 | 44 | [Transmetro](http://twitter.com/search?q=Transmetro) | N/A |
 | 45 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 46 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 47 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
+| 47 | [semilla](http://twitter.com/search?q=semilla) | N/A |
 | 48 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 49 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
 | 50 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
