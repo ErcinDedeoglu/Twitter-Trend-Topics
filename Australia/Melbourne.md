@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-12 19:16:41 UTC`
+📆 Last Updated: `2023-03-12 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 2 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 3 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 4 | [#nrldragonstitans](http://twitter.com/search?q=%23nrldragonstitans) | N/A |
-| 5 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 6 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 7 | [#nrlstormbulldogs](http://twitter.com/search?q=%23nrlstormbulldogs) | N/A |
-| 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 9 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 2 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 4 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
+| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 6 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 7 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 9 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 10 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 11 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 14 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 17 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
-| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [leichhardt](http://twitter.com/search?q=leichhardt) | N/A |
-| 21 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 23 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 24 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 26 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 27 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 28 | [tyson gamble](http://twitter.com/search?q=tyson+gamble) | N/A |
-| 29 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 30 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 31 | [Talau](http://twitter.com/search?q=Talau) | N/A |
-| 32 | [autumn ballet](http://twitter.com/search?q=autumn+ballet) | N/A |
-| 33 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 34 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 35 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
-| 36 | [Liddle](http://twitter.com/search?q=Liddle) | N/A |
-| 37 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 38 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 39 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 40 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
-| 41 | [alex twal](http://twitter.com/search?q=alex+twal) | N/A |
-| 42 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 43 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 44 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 45 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 46 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 47 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 48 | [barilaro](http://twitter.com/search?q=barilaro) | N/A |
-| 49 | [Game 5](http://twitter.com/search?q=Game+5) | N/A |
-| 50 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 12 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 13 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 15 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 17 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 19 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
+| 20 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 23 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 24 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 25 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 27 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 28 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 29 | [tyson gamble](http://twitter.com/search?q=tyson+gamble) | N/A |
+| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 31 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
+| 32 | [barilaro](http://twitter.com/search?q=barilaro) | N/A |
+| 33 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 34 | [Talau](http://twitter.com/search?q=Talau) | N/A |
+| 35 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
+| 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 37 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 38 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 40 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 41 | [leichhardt](http://twitter.com/search?q=leichhardt) | N/A |
+| 42 | [autumn ballet](http://twitter.com/search?q=autumn+ballet) | N/A |
+| 43 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 44 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
+| 45 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 46 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 48 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 50 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
 
 
 

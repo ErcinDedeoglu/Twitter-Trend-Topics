@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-12 19:16:35 UTC`
+📆 Last Updated: `2023-03-12 20:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVWB04](http://twitter.com/search?q=%23SVWB04) | N/A |
-| 2 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 3 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
-| 4 | [#SCFTSG](http://twitter.com/search?q=%23SCFTSG) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 7 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 10 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 13 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 14 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 15 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 16 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 17 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 18 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 19 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 20 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 21 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
-| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 23 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 1 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 2 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
+| 3 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 4 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
+| 5 | [Hackl](http://twitter.com/search?q=Hackl) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 9 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 10 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 11 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 12 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 14 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 15 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 16 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 17 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 18 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 19 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 20 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 21 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 22 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
+| 23 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
 | 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 25 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 26 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 28 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 29 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 30 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 31 | [janin](http://twitter.com/search?q=janin) | N/A |
-| 32 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 33 | [Schulversager](http://twitter.com/search?q=Schulversager) | N/A |
-| 34 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 35 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 36 | [Schonlau](http://twitter.com/search?q=Schonlau) | N/A |
-| 37 | ['zäune'](http://twitter.com/search?q=%27z%c3%a4une%27) | N/A |
-| 38 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 39 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 40 | [rotkraut](http://twitter.com/search?q=rotkraut) | N/A |
-| 41 | [Jugendpolitiker](http://twitter.com/search?q=Jugendpolitiker) | N/A |
-| 42 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 43 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 44 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
-| 45 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 46 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 47 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 48 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 49 | [Hochstapler](http://twitter.com/search?q=Hochstapler) | N/A |
+| 26 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 27 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 28 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 29 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
+| 30 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 31 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 33 | [extremismus](http://twitter.com/search?q=extremismus) | N/A |
+| 34 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 35 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 36 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 37 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
+| 38 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 39 | [amoklauf](http://twitter.com/search?q=amoklauf) | N/A |
+| 40 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 41 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 42 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 43 | [Rückrunde](http://twitter.com/search?q=R%c3%bcckrunde) | N/A |
+| 44 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 45 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
+| 46 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 47 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 48 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 49 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
 
 
 

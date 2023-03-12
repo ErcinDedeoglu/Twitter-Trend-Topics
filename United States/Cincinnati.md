@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-12 19:17:00 UTC`
+📆 Last Updated: `2023-03-12 20:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 2 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 3 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 4 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 5 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 1 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 2 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 5 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
 | 7 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
-| 8 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 9 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 10 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 11 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 12 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 13 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
-| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 15 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 16 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 17 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 18 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
-| 21 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 22 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 23 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 24 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
-| 25 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 26 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 27 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 28 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 29 | [NFC West](http://twitter.com/search?q=NFC+West) | N/A |
-| 30 | [Anthony Volpe](http://twitter.com/search?q=Anthony+Volpe) | N/A |
-| 31 | [Welcome to Miami](http://twitter.com/search?q=Welcome+to+Miami) | N/A |
-| 32 | [Hideki](http://twitter.com/search?q=Hideki) | N/A |
-| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 34 | [Shinymark](http://twitter.com/search?q=Shinymark) | N/A |
-| 35 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 36 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 37 | [Kupp](http://twitter.com/search?q=Kupp) | N/A |
-| 38 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 39 | [THATS IT](http://twitter.com/search?q=THATS+IT) | N/A |
-| 40 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 41 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 42 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 43 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 44 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 45 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 46 | [Min Woo](http://twitter.com/search?q=Min+Woo) | N/A |
-| 47 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
-| 48 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 49 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 8 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
+| 9 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 10 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 11 | [#UnitedRentals500](http://twitter.com/search?q=%23UnitedRentals500) | N/A |
+| 12 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 13 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
+| 14 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
+| 15 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 16 | [Shep](http://twitter.com/search?q=Shep) | N/A |
+| 17 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
+| 18 | [Hatton](http://twitter.com/search?q=Hatton) | N/A |
+| 19 | [#RollTide](http://twitter.com/search?q=%23RollTide) | N/A |
+| 20 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 21 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 22 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 23 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 24 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 25 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 26 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 27 | [Cal Quantrill](http://twitter.com/search?q=Cal+Quantrill) | N/A |
+| 28 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 29 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
+| 30 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 31 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 32 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 33 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 35 | [Dexter Lawrence](http://twitter.com/search?q=Dexter+Lawrence) | Dexter Lawrence is an American football defensive tackle for the New York Giants of the National Football League (NFL). He played college football at Clemson University. The name Dexter means "right-handed" or "skilled" in English. |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 38 | [Quinnen Williams](http://twitter.com/search?q=Quinnen+Williams) | Quinnen Williams is an American football defensive tackle for the New York Jets of the National Football League (NFL). He was drafted by the Jets third overall in the 2019 NFL Draft. His name is derived from his first name, Quinn, and his middle name, Nelson. The meaning of his name in English is "counselor of victory". |
+| 39 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 40 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 41 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
+| 42 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 43 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 44 | [Welcome to Miami](http://twitter.com/search?q=Welcome+to+Miami) | N/A |
+| 45 | [Academy Awards](http://twitter.com/search?q=Academy+Awards) | N/A |
+| 46 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 47 | [Kupp](http://twitter.com/search?q=Kupp) | N/A |
+| 48 | [AFC West](http://twitter.com/search?q=AFC+West) | N/A |
+| 49 | [Ashley Joens](http://twitter.com/search?q=Ashley+Joens) | N/A |
 
 
 

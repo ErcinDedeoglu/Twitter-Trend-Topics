@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-12 19:17:03 UTC`
+📆 Last Updated: `2023-03-12 20:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 1 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
 | 2 | [Matt Milano](http://twitter.com/search?q=Matt+Milano) | N/A |
 | 3 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
 | 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [#Bills](http://twitter.com/search?q=%23Bills) | N/A |
-| 6 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 7 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 5 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 6 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 7 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
 | 8 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
 | 9 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 10 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 11 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 12 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
 | 13 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 14 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 15 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 17 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 18 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
+| 14 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 15 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
+| 16 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 17 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 18 | [#UnitedRentals500](http://twitter.com/search?q=%23UnitedRentals500) | N/A |
 | 19 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 20 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 20 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
 | 21 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 22 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 23 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 25 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
-| 26 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 27 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 28 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 29 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
-| 30 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 31 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 32 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 33 | [NFC West](http://twitter.com/search?q=NFC+West) | N/A |
-| 34 | [Anthony Volpe](http://twitter.com/search?q=Anthony+Volpe) | N/A |
-| 35 | [Hideki](http://twitter.com/search?q=Hideki) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Shinymark](http://twitter.com/search?q=Shinymark) | N/A |
-| 38 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 39 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 40 | [Kupp](http://twitter.com/search?q=Kupp) | N/A |
-| 41 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 42 | [THATS IT](http://twitter.com/search?q=THATS+IT) | N/A |
-| 43 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 44 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 45 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 46 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 47 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 48 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 49 | [Min Woo](http://twitter.com/search?q=Min+Woo) | N/A |
-| 50 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
+| 22 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 23 | [Shep](http://twitter.com/search?q=Shep) | N/A |
+| 24 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
+| 25 | [Hatton](http://twitter.com/search?q=Hatton) | N/A |
+| 26 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 27 | [#RollTide](http://twitter.com/search?q=%23RollTide) | N/A |
+| 28 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 29 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 30 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 31 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 32 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 33 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 34 | [Cal Quantrill](http://twitter.com/search?q=Cal+Quantrill) | N/A |
+| 35 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 36 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
+| 37 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 39 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 40 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 41 | [Dexter Lawrence](http://twitter.com/search?q=Dexter+Lawrence) | Dexter Lawrence is an American football defensive tackle for the New York Giants of the National Football League (NFL). He played college football at Clemson University. The name Dexter means "right-handed" or "skilled" in English. |
+| 42 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 43 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 45 | [Quinnen Williams](http://twitter.com/search?q=Quinnen+Williams) | Quinnen Williams is an American football defensive tackle for the New York Jets of the National Football League (NFL). He was drafted by the Jets third overall in the 2019 NFL Draft. His name is derived from his first name, Quinn, and his middle name, Nelson. The meaning of his name in English is "counselor of victory". |
+| 46 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 47 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 48 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
+| 49 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 50 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 
 
 
