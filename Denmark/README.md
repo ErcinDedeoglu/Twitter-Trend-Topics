@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-12 07:17:18 UTC`
+📆 Last Updated: `2023-03-12 08:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Denmark
 | 7 | [Stærkt](http://twitter.com/search?q=St%c3%a6rkt) | N/A |
 | 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 9 | [Skat](http://twitter.com/search?q=Skat) | N/A |
-| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 11 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
-| 12 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
-| 13 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
-| 14 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 15 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 16 | [vermund](http://twitter.com/search?q=vermund) | N/A |
-| 17 | [boje](http://twitter.com/search?q=boje) | N/A |
-| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 20 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
-| 21 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 10 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 12 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 13 | [Statsministeriet](http://twitter.com/search?q=Statsministeriet) | N/A |
+| 14 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
+| 15 | [steffen](http://twitter.com/search?q=steffen) | N/A |
+| 16 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 17 | [vermund](http://twitter.com/search?q=vermund) | N/A |
+| 18 | [boje](http://twitter.com/search?q=boje) | N/A |
+| 19 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [aner](http://twitter.com/search?q=aner) | N/A |
-| 24 | [Estland](http://twitter.com/search?q=Estland) | N/A |
-| 25 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 26 | [#serieadk](http://twitter.com/search?q=%23serieadk) | N/A |
-| 27 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 28 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 29 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
-| 30 | [Drags](http://twitter.com/search?q=Drags) | N/A |
-| 31 | [Slap](http://twitter.com/search?q=Slap) | N/A |
-| 32 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 33 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
-| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 35 | [volbeat](http://twitter.com/search?q=volbeat) | N/A |
-| 36 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 37 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 38 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 39 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 40 | [støjberg](http://twitter.com/search?q=st%c3%b8jberg) | N/A |
-| 41 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 42 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 43 | [thorborg](http://twitter.com/search?q=thorborg) | N/A |
+| 23 | [Aner](http://twitter.com/search?q=Aner) | N/A |
+| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 25 | [#serieadk](http://twitter.com/search?q=%23serieadk) | N/A |
+| 26 | [Slap](http://twitter.com/search?q=Slap) | N/A |
+| 27 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 28 | [Saudi Arabien](http://twitter.com/search?q=Saudi+Arabien) | N/A |
+| 29 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 30 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 31 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 32 | [volbeat](http://twitter.com/search?q=volbeat) | N/A |
+| 33 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 34 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 35 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 38 | [støjberg](http://twitter.com/search?q=st%c3%b8jberg) | N/A |
+| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 40 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 41 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
+| 42 | [thorborg](http://twitter.com/search?q=thorborg) | N/A |
+| 43 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 44 | [Woah](http://twitter.com/search?q=Woah) | N/A |
 | 45 | [fanafdelingen](http://twitter.com/search?q=fanafdelingen) | N/A |
-| 46 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 46 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
 | 47 | [Vestegnen](http://twitter.com/search?q=Vestegnen) | N/A |
-| 48 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 49 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
-| 50 | [yousee](http://twitter.com/search?q=yousee) | N/A |
+| 48 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
+| 49 | [Husk](http://twitter.com/search?q=Husk) | N/A |
+| 50 | [Troede](http://twitter.com/search?q=Troede) | N/A |
 
 
 

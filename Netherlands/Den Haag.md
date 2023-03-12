@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-12 07:16:38 UTC`
+📆 Last Updated: `2023-03-12 08:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
 | 2 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
-| 3 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
-| 4 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 5 | [#fortwe](http://twitter.com/search?q=%23fortwe) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
+| 5 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 6 | [#spaVIT](http://twitter.com/search?q=%23spaVIT) | N/A |
-| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 7 | [#teamwaterkanon](http://twitter.com/search?q=%23teamwaterkanon) | N/A |
 | 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 9 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 10 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 10 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
 | 11 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 12 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 14 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
+| 12 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 13 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
+| 14 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 15 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 16 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 17 | [marijn](http://twitter.com/search?q=marijn) | N/A |
+| 17 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
 | 18 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [studio sport](http://twitter.com/search?q=studio+sport) | N/A |
+| 19 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 20 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 21 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
 | 22 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
 | 23 | [wittek](http://twitter.com/search?q=wittek) | N/A |
 | 24 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 25 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
-| 26 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 27 | [joost eerdmans](http://twitter.com/search?q=joost+eerdmans) | N/A |
-| 28 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
+| 25 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 26 | [joost eerdmans](http://twitter.com/search?q=joost+eerdmans) | N/A |
+| 27 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
+| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 29 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 30 | [demonstreren](http://twitter.com/search?q=demonstreren) | N/A |
+| 30 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
 | 31 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
 | 32 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 33 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 34 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 33 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 34 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 | 35 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 36 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 37 | [rob roos](http://twitter.com/search?q=rob+roos) | N/A |
+| 36 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 37 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 38 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
 | 39 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 40 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
-| 41 | [Zondag](http://twitter.com/search?q=Zondag) | N/A |
-| 42 | [mores](http://twitter.com/search?q=mores) | N/A |
-| 43 | [de a12](http://twitter.com/search?q=de+a12) | N/A |
-| 44 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
+| 40 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
+| 41 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
+| 42 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
+| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 44 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
 | 45 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 46 | [Met D66](http://twitter.com/search?q=Met+D66) | N/A |
-| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 48 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 49 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 50 | [Proost](http://twitter.com/search?q=Proost) | N/A |
+| 46 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 47 | [Met D66](http://twitter.com/search?q=Met+D66) | N/A |
+| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 49 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 50 | [Mooie](http://twitter.com/search?q=Mooie) | N/A |
 
 
 

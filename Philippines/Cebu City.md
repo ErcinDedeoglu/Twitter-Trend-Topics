@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-12 07:16:51 UTC`
+📆 Last Updated: `2023-03-12 08:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
-| 2 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 3 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
-| 4 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 5 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 6 | [MARSObrang GALING MO JONA](http://twitter.com/search?q=MARSObrang+GALING+MO+JONA) | N/A |
-| 7 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 8 | [WeLoveYou Queen REGINE](http://twitter.com/search?q=WeLoveYou+Queen+REGINE) | N/A |
-| 9 | [#BGYOAngatPPOP](http://twitter.com/search?q=%23BGYOAngatPPOP) | N/A |
-| 10 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
-| 11 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
-| 12 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 13 | [PIESAYA SUNDAY](http://twitter.com/search?q=PIESAYA+SUNDAY) | N/A |
-| 14 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
-| 15 | [peptionary with kdlex](http://twitter.com/search?q=peptionary+with+kdlex) | N/A |
-| 16 | [galing ng belleiogesic](http://twitter.com/search?q=galing+ng+belleiogesic) | N/A |
-| 17 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
-| 18 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 19 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 20 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 21 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 22 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 23 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 24 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 25 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 26 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 27 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 28 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
-| 29 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 30 | [BINI MARCHSAYA ON ASAP](http://twitter.com/search?q=BINI+MARCHSAYA+ON+ASAP) | N/A |
-| 31 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
-| 32 | [AllOut JAPS](http://twitter.com/search?q=AllOut+JAPS) | N/A |
-| 33 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 34 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 35 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 36 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 37 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 38 | [IWANT EDWARD MARCHCLUSIVE](http://twitter.com/search?q=IWANT+EDWARD+MARCHCLUSIVE) | N/A |
-| 39 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 40 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 41 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
-| 42 | [Congrats NU](http://twitter.com/search?q=Congrats+NU) | N/A |
-| 43 | [aldenwelcome backtoeb](http://twitter.com/search?q=aldenwelcome+backtoeb) | N/A |
-| 44 | [RALPHGAIL ASAPaKENsiAYUMI](http://twitter.com/search?q=RALPHGAIL+ASAPaKENsiAYUMI) | N/A |
-| 45 | [ama2ing y3ar of vinci](http://twitter.com/search?q=ama2ing+y3ar+of+vinci) | N/A |
-| 46 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 47 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 48 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 49 | [tcoback ang robxine](http://twitter.com/search?q=tcoback+ang+robxine) | N/A |
-| 50 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 2 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 3 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
+| 4 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
+| 5 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
+| 6 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
+| 7 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
+| 8 | [Kween Narit](http://twitter.com/search?q=Kween+Narit) | N/A |
+| 9 | [PIESAYA SUNDAY](http://twitter.com/search?q=PIESAYA+SUNDAY) | N/A |
+| 10 | [WeLoveYou Queen REGINE](http://twitter.com/search?q=WeLoveYou+Queen+REGINE) | N/A |
+| 11 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 12 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 13 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
+| 14 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
+| 15 | [BGYO ASAP TAKEOVER](http://twitter.com/search?q=BGYO+ASAP+TAKEOVER) | N/A |
+| 16 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
+| 17 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 18 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 19 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
+| 20 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 22 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 23 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 24 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 26 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 27 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 28 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 29 | [#BGYOAngatPPOP](http://twitter.com/search?q=%23BGYOAngatPPOP) | N/A |
+| 30 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
+| 31 | [#BesideBeckyEverydayForever](http://twitter.com/search?q=%23BesideBeckyEverydayForever) | N/A |
+| 32 | [#SKZinMNL](http://twitter.com/search?q=%23SKZinMNL) | N/A |
+| 33 | [#AOSSanKaPa](http://twitter.com/search?q=%23AOSSanKaPa) | N/A |
+| 34 | [#MANIACinMANILA](http://twitter.com/search?q=%23MANIACinMANILA) | N/A |
+| 35 | [#1stOne](http://twitter.com/search?q=%231stOne) | N/A |
+| 36 | [#JessicaLee](http://twitter.com/search?q=%23JessicaLee) | N/A |
+| 37 | [#DIONE](http://twitter.com/search?q=%23DIONE) | N/A |
+| 38 | [#FIRSTONEENT](http://twitter.com/search?q=%23FIRSTONEENT) | N/A |
+| 39 | [#BOYCOTTEBxGMA732](http://twitter.com/search?q=%23BOYCOTTEBxGMA732) | N/A |
+| 40 | [#BlytheAt20](http://twitter.com/search?q=%23BlytheAt20) | N/A |
+| 41 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
+| 42 | [#SarawatHappy23](http://twitter.com/search?q=%23SarawatHappy23) | N/A |
+| 43 | [#StrayKidsinManila2023](http://twitter.com/search?q=%23StrayKidsinManila2023) | N/A |
+| 44 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 45 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
 
 
 

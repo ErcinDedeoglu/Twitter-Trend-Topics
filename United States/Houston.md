@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-12 07:17:09 UTC`
+📆 Last Updated: `2023-03-12 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Miro](http://twitter.com/search?q=Miro) | N/A |
-| 2 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 3 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
-| 4 | [Tre Johnson](http://twitter.com/search?q=Tre+Johnson) | N/A |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
-| 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 8 | [Lake Highlands](http://twitter.com/search?q=Lake+Highlands) | N/A |
-| 9 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 10 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 1 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
+| 2 | [Tre Johnson](http://twitter.com/search?q=Tre+Johnson) | N/A |
+| 3 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 5 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
+| 6 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 7 | [Lake Highlands](http://twitter.com/search?q=Lake+Highlands) | N/A |
+| 8 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 9 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 10 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
 | 11 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 12 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 13 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 14 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 15 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 16 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 17 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 18 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 19 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 20 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 21 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 22 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 23 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 24 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 25 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 28 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
-| 29 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 30 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 31 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 12 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 13 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 15 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 16 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 17 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 18 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 19 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 20 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 21 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 22 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 23 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 24 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 25 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 26 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 27 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
+| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 29 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 30 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 31 | [Orion](http://twitter.com/search?q=Orion) | N/A |
 | 32 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 33 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 34 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 35 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 36 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 35 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
 | 37 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 38 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 39 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 40 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 41 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 42 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 43 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 44 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 45 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 46 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
-| 47 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 48 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 49 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 50 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 38 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 39 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 40 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 41 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 43 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 44 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 45 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 46 | [Strive](http://twitter.com/search?q=Strive) | N/A |
+| 47 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 48 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 49 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 50 | [Dave Pasch](http://twitter.com/search?q=Dave+Pasch) | N/A |
 
 
 

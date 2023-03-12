@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-12 07:17:05 UTC`
+📆 Last Updated: `2023-03-12 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,49 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
+| 1 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
 | 2 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 3 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 4 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
-| 5 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
-| 6 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
-| 7 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
-| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 9 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 10 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
-| 11 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 12 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 13 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 14 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 15 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 16 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 17 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
-| 18 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 19 | [#AsılMeselemiz](http://twitter.com/search?q=%23As%c4%b1lMeselemiz) | N/A |
-| 20 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 21 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
-| 22 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
-| 23 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
-| 24 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
-| 25 | [#GaziKatliamınıUNUTMADIK](http://twitter.com/search?q=%23GaziKatliam%c4%b1n%c4%b1UNUTMADIK) | N/A |
-| 26 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
-| 27 | [#UzmanÇavuşlarDevletinEmrinde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarDevletinEmrinde) | N/A |
-| 28 | [#UzmanÇavuşlarMilletinGönlünde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarMilletinG%c3%b6nl%c3%bcnde) | N/A |
-| 29 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 30 | [#UzmanÇavuşlarTorbaYasaya](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarTorbaYasaya) | N/A |
-| 31 | [#adana](http://twitter.com/search?q=%23adana) | N/A |
-| 32 | [#TürkiyedeOldu](http://twitter.com/search?q=%23T%c3%bcrkiyedeOldu) | N/A |
+| 3 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 4 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 5 | [Liselere Geçiş Sistemi](http://twitter.com/search?q=Liselere+Ge%c3%a7i%c5%9f+Sistemi) | N/A |
+| 6 | [Alanya Kestelspor](http://twitter.com/search?q=Alanya+Kestelspor) | N/A |
+| 7 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
+| 8 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 9 | [Gazi Mustafa Kemal Atatürk](http://twitter.com/search?q=Gazi+Mustafa+Kemal+Atat%c3%bcrk) | N/A |
+| 10 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 11 | [Milli Mücadelemizin](http://twitter.com/search?q=Milli+M%c3%bccadelemizin) | N/A |
+| 12 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
+| 13 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 14 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 15 | [TFF 3](http://twitter.com/search?q=TFF+3) | N/A |
+| 16 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 17 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 18 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 19 | [Serdar Ortaç](http://twitter.com/search?q=Serdar+Orta%c3%a7) | N/A |
+| 20 | [Çelebi](http://twitter.com/search?q=%c3%87elebi) | N/A |
+| 21 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 22 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
+| 23 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 24 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
+| 25 | [Selman](http://twitter.com/search?q=Selman) | N/A |
+| 26 | [Türk'üm](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcm) | N/A |
+| 27 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 28 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 29 | [#AsılMeselemiz](http://twitter.com/search?q=%23As%c4%b1lMeselemiz) | N/A |
+| 30 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
+| 31 | [#GaziKatliamınıUNUTMADIK](http://twitter.com/search?q=%23GaziKatliam%c4%b1n%c4%b1UNUTMADIK) | N/A |
+| 32 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
+| 33 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 34 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
+| 35 | [#Korkma](http://twitter.com/search?q=%23Korkma) | N/A |
+| 36 | [#ABOHerkesinSorunudur](http://twitter.com/search?q=%23ABOHerkesinSorunudur) | N/A |
+| 37 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
+| 38 | [#UzmanÇavuşlarDevletinEmrinde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarDevletinEmrinde) | N/A |
+| 39 | [#UzmanÇavuşlarTorbaYasaya](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarTorbaYasaya) | N/A |
+| 40 | [#UzmanÇavuşlarMilletinGönlünde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarMilletinG%c3%b6nl%c3%bcnde) | N/A |
+| 41 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 42 | [#TorbaYa5000veKısmiGirmeli](http://twitter.com/search?q=%23TorbaYa5000veK%c4%b1smiGirmeli) | N/A |
+| 43 | [#OylarTazminata](http://twitter.com/search?q=%23OylarTazminata) | N/A |
 
 
 

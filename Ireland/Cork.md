@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-12 07:16:33 UTC`
+📆 Last Updated: `2023-03-12 08:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,20 +20,20 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
 | 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
 | 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 8 | [#tommytiernanshow](http://twitter.com/search?q=%23tommytiernanshow) | N/A |
 | 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 10 | [England](http://twitter.com/search?q=England) | N/A |
-| 11 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 12 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 10 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 11 | [England](http://twitter.com/search?q=England) | N/A |
+| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 15 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
 | 16 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 17 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 17 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 18 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 19 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
 | 20 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
 | 21 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 22 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for [Ireland](</Ireland>)
 | 41 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
 | 42 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
 | 43 | [BAMFORD](http://twitter.com/search?q=BAMFORD) | N/A |
-| 44 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 45 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 46 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 47 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 48 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 49 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 50 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 44 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 45 | [Billing](http://twitter.com/search?q=Billing) | N/A |
+| 46 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 47 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 49 | [o'connell street](http://twitter.com/search?q=o%27connell+street) | N/A |
+| 50 | [Jermaine Jenas](http://twitter.com/search?q=Jermaine+Jenas) | Jermaine Jenas is a retired English professional footballer who played as a midfielder. He is currently a pundit for BBC Sport and BT Sport. |
 
 
 

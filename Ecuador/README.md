@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-12 07:17:19 UTC`
+📆 Last Updated: `2023-03-12 08:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,22 +18,22 @@ This is top 50 for Ecuador
 | 1 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
 | 2 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 3 | [GolTV](http://twitter.com/search?q=GolTV) | N/A |
-| 4 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 5 | [#NocheAzulgrana](http://twitter.com/search?q=%23NocheAzulgrana) | N/A |
+| 4 | [#NocheAzulgrana](http://twitter.com/search?q=%23NocheAzulgrana) | N/A |
+| 5 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
 | 6 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 7 | [#LaTri](http://twitter.com/search?q=%23LaTri) | N/A |
+| 7 | [#latri](http://twitter.com/search?q=%23latri) | N/A |
 | 8 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
 | 9 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
 | 10 | [#ecuadoresdemocracia](http://twitter.com/search?q=%23ecuadoresdemocracia) | N/A |
-| 11 | [#76AñosFunciónElectoral](http://twitter.com/search?q=%2376A%c3%b1osFunci%c3%b3nElectoral) | N/A |
+| 11 | [#76añosfunciónelectoral](http://twitter.com/search?q=%2376a%c3%b1osfunci%c3%b3nelectoral) | N/A |
 | 12 | [Almada](http://twitter.com/search?q=Almada) | N/A |
 | 13 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 | 14 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 15 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
+| 15 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
 | 16 | [Judicatura](http://twitter.com/search?q=Judicatura) | N/A |
 | 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 18 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
-| 19 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 18 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 19 | [#LaBikina](http://twitter.com/search?q=%23LaBikina) | N/A |
 | 20 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 22 | [Pony Malta](http://twitter.com/search?q=Pony+Malta) | N/A |
@@ -56,12 +56,12 @@ This is top 50 for Ecuador
 | 39 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
 | 40 | [Directv](http://twitter.com/search?q=Directv) | N/A |
 | 41 | [Blanki](http://twitter.com/search?q=Blanki) | N/A |
-| 42 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 43 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 44 | [Solidaridad](http://twitter.com/search?q=Solidaridad) | N/A |
-| 45 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
-| 46 | [Serie B](http://twitter.com/search?q=Serie+B) | N/A |
-| 47 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 42 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 43 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 44 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 45 | [Solidaridad](http://twitter.com/search?q=Solidaridad) | N/A |
+| 46 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
+| 47 | [Serie B](http://twitter.com/search?q=Serie+B) | N/A |
 | 48 | [marco tamayo](http://twitter.com/search?q=marco+tamayo) | N/A |
 | 49 | [Egas](http://twitter.com/search?q=Egas) | N/A |
 | 50 | [Corral](http://twitter.com/search?q=Corral) | N/A |

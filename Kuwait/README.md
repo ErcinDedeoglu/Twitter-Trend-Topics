@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-12 07:17:21 UTC`
+📆 Last Updated: `2023-03-12 08:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 2 | [#القادسيه_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 3 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 4 | [#موتمر_الحريه_من_الادمان](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d9%87_%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d8%af%d9%85%d8%a7%d9%86) | N/A |
+| 2 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 3 | [#موتمر_الحريه_من_الادمان](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d9%87_%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d8%af%d9%85%d8%a7%d9%86) | N/A |
+| 4 | [#القادسيه_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 5 | [#اعضاء_المجلس_خذلوا_الاوقاف](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%b6%d8%a7%d8%a1_%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3_%d8%ae%d8%b0%d9%84%d9%88%d8%a7_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
 | 6 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
 | 7 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Kuwait
 | 9 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 10 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 11 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 12 | [خالد ابراهيم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | خالد ابراهيم is an Arabic name, which translates to "Khalid Ibrahim" in English. |
-| 13 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 14 | [الزعيم الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 15 | [الامه القدساويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%82%d8%af%d8%b3%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 16 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 17 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 18 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 19 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
-| 20 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 21 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 22 | [عبدالسلام المجدلي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%af%d9%84%d9%8a) | N/A |
-| 23 | [علي المسلمين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 24 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 25 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 26 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 27 | [عبدالله الشمالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 28 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 29 | [بدر الدابان](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
-| 30 | [عبدالرحمن السميط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b7) | N/A |
-| 31 | [الابديت اليديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d9%8a%d8%aa+%d8%a7%d9%84%d9%8a%d8%af%d9%8a%d8%af) | N/A |
-| 32 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
-| 33 | [بني قادس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%82%d8%a7%d8%af%d8%b3) | N/A |
-| 34 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 35 | [علي العربي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 36 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 38 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 39 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 40 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 41 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 42 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 43 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
-| 44 | [اون لاين](http://twitter.com/search?q=%d8%a7%d9%88%d9%86+%d9%84%d8%a7%d9%8a%d9%86) | N/A |
-| 45 | [راشد الدوسري](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 46 | [الجهاز الاداري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a) | N/A |
-| 47 | [حسن حمدان](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
-| 48 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 49 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 50 | [المدريدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d9%8a%d8%af%d9%8a) | N/A |
+| 12 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 13 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 14 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 15 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 16 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 17 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 18 | [عبدالسلام المجدلي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%af%d9%84%d9%8a) | N/A |
+| 19 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 20 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 21 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 22 | [عبدالله الشمالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 23 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
+| 24 | [عبدالرحمن السميط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b7) | N/A |
+| 25 | [خالد ابراهيم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | خالد ابراهيم is an Arabic name, which translates to "Khalid Ibrahim" in English. |
+| 26 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
+| 27 | [بني قادس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%82%d8%a7%d8%af%d8%b3) | N/A |
+| 28 | [الابديت اليديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d9%8a%d8%aa+%d8%a7%d9%84%d9%8a%d8%af%d9%8a%d8%af) | N/A |
+| 29 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 30 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 31 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 33 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 34 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
+| 35 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 36 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 37 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 38 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 39 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 40 | [راشد الدوسري](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 41 | [الجهاز الاداري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a) | N/A |
+| 42 | [علي العربي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 43 | [حسن حمدان](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
+| 44 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 45 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 46 | [المدريدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d9%8a%d8%af%d9%8a) | N/A |
+| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 49 | [القسم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
 
 
 
