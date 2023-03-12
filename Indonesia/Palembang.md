@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-12 13:19:18 UTC`
+📆 Last Updated: `2023-03-12 14:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
-| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 3 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 4 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
-| 5 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 6 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 7 | [PLEDIS](http://twitter.com/search?q=PLEDIS) | N/A |
-| 8 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 2 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 3 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 4 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 5 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 6 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 7 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 8 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
 | 9 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 10 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
-| 11 | [#BORNPINKinJKTday2](http://twitter.com/search?q=%23BORNPINKinJKTday2) | N/A |
-| 12 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 13 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 14 | [JENNIE SHINING IN JAKARTA](http://twitter.com/search?q=JENNIE+SHINING+IN+JAKARTA) | N/A |
-| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 16 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 17 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 18 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
-| 19 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 20 | [ZEUS](http://twitter.com/search?q=ZEUS) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 22 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 23 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 24 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 25 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
-| 26 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
-| 27 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 28 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 29 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
-| 30 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 31 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 32 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 33 | [Tojimari](http://twitter.com/search?q=Tojimari) | N/A |
-| 34 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
-| 35 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
-| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 37 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 38 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 39 | [#PuntenSha](http://twitter.com/search?q=%23PuntenSha) | N/A |
-| 40 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
-| 41 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
-| 42 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 43 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
-| 44 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
-| 45 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 46 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 47 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
-| 48 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
+| 11 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
+| 12 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 13 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 14 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 16 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 17 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
+| 18 | [persija](http://twitter.com/search?q=persija) | N/A |
+| 19 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 20 | [Kodim 0105](http://twitter.com/search?q=Kodim+0105) | N/A |
+| 21 | [Persik](http://twitter.com/search?q=Persik) | N/A |
+| 22 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 23 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 24 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 27 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 28 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 29 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
+| 30 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
+| 31 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
+| 32 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 33 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 35 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 36 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 37 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
+| 38 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
+| 39 | [Tojimari](http://twitter.com/search?q=Tojimari) | N/A |
+| 40 | [#JAEHYUNforPradaSS23](http://twitter.com/search?q=%23JAEHYUNforPradaSS23) | N/A |
+| 41 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
+| 42 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 43 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
+| 44 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 45 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 46 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
+| 47 | [#PuntenSha](http://twitter.com/search?q=%23PuntenSha) | N/A |
+| 48 | [#BORNPINKinJKTday2](http://twitter.com/search?q=%23BORNPINKinJKTday2) | N/A |
+| 49 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
 
 
 

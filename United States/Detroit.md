@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-12 13:19:45 UTC`
+📆 Last Updated: `2023-03-12 14:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 2 | [Royal Oak](http://twitter.com/search?q=Royal+Oak) | N/A |
-| 3 | [#dctid](http://twitter.com/search?q=%23dctid) | N/A |
-| 4 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 8 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 12 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 13 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 15 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 16 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 17 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 18 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 19 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 20 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 22 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 23 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 24 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 25 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 26 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 27 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 28 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 29 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 30 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 31 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 32 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 33 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
-| 34 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 35 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 36 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 37 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 38 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 39 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 40 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 42 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 43 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
-| 44 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 45 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 46 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
-| 47 | [KESSLER EDWARDS](http://twitter.com/search?q=KESSLER+EDWARDS) | N/A |
+| 1 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 2 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 3 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 4 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 5 | [#dctid](http://twitter.com/search?q=%23dctid) | N/A |
+| 6 | [Royal Oak](http://twitter.com/search?q=Royal+Oak) | N/A |
+| 7 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 8 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 9 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 11 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 12 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 16 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 18 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
+| 19 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 20 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 21 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 22 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 23 | [Bautista](http://twitter.com/search?q=Bautista) | N/A |
+| 24 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 25 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 26 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 27 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 28 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 29 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 30 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
+| 31 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 32 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 33 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 34 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 35 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 36 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 37 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 38 | [Inception](http://twitter.com/search?q=Inception) | N/A |
+| 39 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 40 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 41 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 42 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
+| 43 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 44 | [Bank of America](http://twitter.com/search?q=Bank+of+America) | Bank of America is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second-largest bank holding company in the United States by assets. The company provides a variety of banking, investing, asset management, and other financial services to customers around the world. |
+| 45 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
+| 46 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 47 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 48 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
 
 
 

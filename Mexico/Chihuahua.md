@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-03-12 13:18:57 UTC`
+📆 Last Updated: `2023-03-12 14:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
 | 2 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 3 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 4 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 5 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
 | 6 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 7 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 8 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 11 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 9 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 10 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 11 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
 | 12 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 13 | [antuna](http://twitter.com/search?q=antuna) | N/A |
+| 13 | [rafa puente](http://twitter.com/search?q=rafa+puente) | N/A |
 | 14 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 15 | [escoboza](http://twitter.com/search?q=escoboza) | N/A |
-| 16 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 17 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 16 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 18 | [Lara](http://twitter.com/search?q=Lara) | N/A |
 | 19 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 20 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 21 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 22 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 23 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 24 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 25 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 26 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 27 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 28 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 29 | [URÍAS](http://twitter.com/search?q=UR%c3%8dAS) | N/A |
-| 30 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 31 | [vamos méxico](http://twitter.com/search?q=vamos+m%c3%a9xico) | N/A |
-| 32 | [vigon](http://twitter.com/search?q=vigon) | N/A |
-| 33 | [welcome to the qsmp](http://twitter.com/search?q=welcome+to+the+qsmp) | N/A |
-| 34 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 35 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 36 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
-| 37 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
-| 38 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 39 | [chivas](http://twitter.com/search?q=chivas) | N/A |
-| 40 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 41 | [wacho](http://twitter.com/search?q=wacho) | N/A |
-| 42 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 43 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 44 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
-| 45 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 46 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 47 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 48 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 20 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 21 | [proud of quackity](http://twitter.com/search?q=proud+of+quackity) | N/A |
+| 22 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 23 | [rivero](http://twitter.com/search?q=rivero) | N/A |
+| 24 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 25 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 26 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 27 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 28 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 29 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 30 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 31 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 32 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 33 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 34 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
+| 35 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 36 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 37 | [Urías](http://twitter.com/search?q=Ur%c3%adas) | N/A |
+| 38 | [Mariel](http://twitter.com/search?q=Mariel) | N/A |
+| 39 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 40 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 41 | [israel reyes](http://twitter.com/search?q=israel+reyes) | N/A |
+| 42 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 43 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 44 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 45 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 46 | [del prete](http://twitter.com/search?q=del+prete) | N/A |
+| 47 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 48 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 
 
 

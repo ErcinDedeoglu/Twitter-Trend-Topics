@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-12 13:19:01 UTC`
+📆 Last Updated: `2023-03-12 14:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1añoDeGobierno](http://twitter.com/search?q=%231a%c3%b1oDeGobierno) | N/A |
+| 1 | [#1AñoDeGobierno](http://twitter.com/search?q=%231A%c3%b1oDeGobierno) | N/A |
 | 2 | [#1AñoPerdido](http://twitter.com/search?q=%231A%c3%b1oPerdido) | N/A |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
+| 3 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
+| 4 | [#BloqueaAPamelaJiles](http://twitter.com/search?q=%23BloqueaAPamelaJiles) | N/A |
 | 5 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 6 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 7 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 7 | [Francisco Vidal](http://twitter.com/search?q=Francisco+Vidal) | N/A |
 | 8 | [Gary Medel](http://twitter.com/search?q=Gary+Medel) | N/A |
-| 9 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 9 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 10 | [Izkia](http://twitter.com/search?q=Izkia) | N/A |
 | 11 | [Jaime Pizarro](http://twitter.com/search?q=Jaime+Pizarro) | N/A |
 | 12 | [Marilyn](http://twitter.com/search?q=Marilyn) | N/A |
-| 13 | [Comisión de Expertos](http://twitter.com/search?q=Comisi%c3%b3n+de+Expertos) | N/A |
-| 14 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 15 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
-| 16 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
-| 17 | [Ester](http://twitter.com/search?q=Ester) | N/A |
-| 18 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 19 | [cientos](http://twitter.com/search?q=cientos) | N/A |
-| 20 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 21 | [Javiera Mena](http://twitter.com/search?q=Javiera+Mena) | N/A |
-| 22 | [Pedro Pool](http://twitter.com/search?q=Pedro+Pool) | N/A |
-| 23 | [Ramones](http://twitter.com/search?q=Ramones) | N/A |
-| 24 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
+| 13 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 14 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
+| 15 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
+| 16 | [Ramones](http://twitter.com/search?q=Ramones) | N/A |
+| 17 | [javiera mena](http://twitter.com/search?q=javiera+mena) | N/A |
+| 18 | [Comisión de Expertos](http://twitter.com/search?q=Comisi%c3%b3n+de+Expertos) | N/A |
+| 19 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
+| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 21 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 22 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
+| 23 | [Ester](http://twitter.com/search?q=Ester) | N/A |
+| 24 | [Pedro Pool](http://twitter.com/search?q=Pedro+Pool) | N/A |
 | 25 | [Puros](http://twitter.com/search?q=Puros) | N/A |
-| 26 | [Masiva](http://twitter.com/search?q=Masiva) | N/A |
-| 27 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 28 | [Jaime de Aguirre](http://twitter.com/search?q=Jaime+de+Aguirre) | N/A |
+| 26 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 27 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 28 | [Masiva](http://twitter.com/search?q=Masiva) | N/A |
 | 29 | [Luis Gnecco](http://twitter.com/search?q=Luis+Gnecco) | N/A |
-| 30 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 31 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 32 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
-| 33 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 34 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 35 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 36 | [Foto del 2022](http://twitter.com/search?q=Foto+del+2022) | N/A |
+| 30 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 31 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 32 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
+| 33 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
+| 34 | [Foto del 2022](http://twitter.com/search?q=Foto+del+2022) | N/A |
+| 35 | [Avances](http://twitter.com/search?q=Avances) | N/A |
+| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 37 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 38 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
-| 39 | [marcos llunas](http://twitter.com/search?q=marcos+llunas) | N/A |
-| 40 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 41 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
-| 42 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 43 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 44 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 45 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 46 | [krassnoff](http://twitter.com/search?q=krassnoff) | N/A |
-| 47 | [Team Patriota](http://twitter.com/search?q=Team+Patriota) | N/A |
-| 48 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 38 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 39 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 40 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 41 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
+| 42 | [Marcos Llunas](http://twitter.com/search?q=Marcos+Llunas) | N/A |
+| 43 | [jordi castell](http://twitter.com/search?q=jordi+castell) | N/A |
+| 44 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 45 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
+| 46 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 47 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 48 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
 | 49 | [jorge castillo](http://twitter.com/search?q=jorge+castillo) | N/A |
 
 

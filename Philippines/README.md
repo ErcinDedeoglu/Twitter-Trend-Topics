@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-12 13:20:01 UTC`
+📆 Last Updated: `2023-03-12 14:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 2 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
-| 3 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 4 | [PLEDIS](http://twitter.com/search?q=PLEDIS) | N/A |
-| 5 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
-| 6 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 7 | [#TheClashSurprise](http://twitter.com/search?q=%23TheClashSurprise) | N/A |
-| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 9 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
-| 10 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
-| 11 | [#iKONTAKEOFF2023](http://twitter.com/search?q=%23iKONTAKEOFF2023) | N/A |
-| 12 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 13 | [Japeth](http://twitter.com/search?q=Japeth) | N/A |
+| 2 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 3 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 4 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 5 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 6 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 7 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
+| 8 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
+| 9 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 10 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 11 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 12 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 13 | [Team Japeth](http://twitter.com/search?q=Team+Japeth) | N/A |
 | 14 | [Paul Lee](http://twitter.com/search?q=Paul+Lee) | N/A |
-| 15 | [KAIA 5678 LETSGO](http://twitter.com/search?q=KAIA+5678+LETSGO) | N/A |
-| 16 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
-| 17 | [Team Scottie](http://twitter.com/search?q=Team+Scottie) | N/A |
+| 15 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 16 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 19 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 20 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 21 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
-| 22 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 23 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 24 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 25 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
-| 26 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 19 | [Team Scottie](http://twitter.com/search?q=Team+Scottie) | N/A |
+| 20 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
+| 21 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 23 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
+| 24 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 25 | [Circles](http://twitter.com/search?q=Circles) | N/A |
+| 26 | [I LOVE YOU SO MUCH](http://twitter.com/search?q=I+LOVE+YOU+SO+MUCH) | N/A |
 | 27 | [Carats](http://twitter.com/search?q=Carats) | N/A |
-| 28 | [Circles](http://twitter.com/search?q=Circles) | N/A |
-| 29 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 30 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 31 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 32 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 33 | [#iKONinEssen](http://twitter.com/search?q=%23iKONinEssen) | N/A |
-| 34 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 35 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
-| 36 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 37 | [#iKONWORLDTOUR2023](http://twitter.com/search?q=%23iKONWORLDTOUR2023) | N/A |
-| 38 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
-| 39 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
-| 40 | [#PBAAllStar](http://twitter.com/search?q=%23PBAAllStar) | N/A |
-| 41 | [#EN_READS](http://twitter.com/search?q=%23EN_READS) | N/A |
-| 42 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
-| 43 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
-| 44 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
-| 45 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
-| 46 | [#HORI7ON_1stMonthsary](http://twitter.com/search?q=%23HORI7ON_1stMonthsary) | N/A |
-| 47 | [#ggrsg](http://twitter.com/search?q=%23ggrsg) | N/A |
-| 48 | [#2023PBAPassiAllStars](http://twitter.com/search?q=%232023PBAPassiAllStars) | N/A |
-| 49 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
-| 50 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
+| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 29 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 31 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 32 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 33 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 34 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 35 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 36 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 37 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 38 | [#TheClashSurprise](http://twitter.com/search?q=%23TheClashSurprise) | N/A |
+| 39 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 40 | [#13SangkapSarapDance](http://twitter.com/search?q=%2313SangkapSarapDance) | N/A |
+| 41 | [#TVK5CanSeeYourVoice](http://twitter.com/search?q=%23TVK5CanSeeYourVoice) | N/A |
+| 42 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
+| 43 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
+| 44 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
+| 45 | [#MANIACinMANILA_Day2](http://twitter.com/search?q=%23MANIACinMANILA_Day2) | N/A |
+| 46 | [#iKONTAKEOFF2023](http://twitter.com/search?q=%23iKONTAKEOFF2023) | N/A |
+| 47 | [#iKONinEssen](http://twitter.com/search?q=%23iKONinEssen) | N/A |
+| 48 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 49 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
+| 50 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
 
 
 

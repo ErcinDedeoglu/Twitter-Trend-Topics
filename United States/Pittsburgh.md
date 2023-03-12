@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-12 13:19:50 UTC`
+📆 Last Updated: `2023-03-12 14:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 2 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 3 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 1 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 2 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 4 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
 | 5 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 6 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 6 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
 | 7 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 9 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
-| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 11 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 12 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 13 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 8 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 9 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 11 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 12 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
+| 13 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 14 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 15 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 16 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 17 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 18 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 19 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 20 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 21 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 22 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 23 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 24 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 25 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 26 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 27 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 28 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 29 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 30 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 31 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 32 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
-| 33 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 34 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 35 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 36 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 37 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 38 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 39 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 41 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 42 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
+| 15 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 16 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 17 | [Bautista](http://twitter.com/search?q=Bautista) | N/A |
+| 18 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 19 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 20 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 21 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 22 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 24 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
+| 25 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 26 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 27 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 28 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 29 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 30 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 31 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 32 | [Inception](http://twitter.com/search?q=Inception) | N/A |
+| 33 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 34 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 35 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 36 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
+| 37 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 38 | [Bank of America](http://twitter.com/search?q=Bank+of+America) | Bank of America is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second-largest bank holding company in the United States by assets. The company provides a variety of banking, investing, asset management, and other financial services to customers around the world. |
+| 39 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
+| 40 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 41 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 42 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
 | 43 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 44 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 45 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
-| 46 | [KESSLER EDWARDS](http://twitter.com/search?q=KESSLER+EDWARDS) | N/A |
-| 47 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 48 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 44 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
+| 45 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 46 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
+| 47 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 48 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 
 
 

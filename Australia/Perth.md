@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-12 13:19:19 UTC`
+📆 Last Updated: `2023-03-12 14:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 2 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
 | 4 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 5 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 6 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 7 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 8 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 10 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 11 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 12 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
-| 13 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 17 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
-| 18 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 19 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 20 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 21 | [Talau](http://twitter.com/search?q=Talau) | N/A |
-| 22 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 25 | [Tyson Gamble](http://twitter.com/search?q=Tyson+Gamble) | N/A |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 28 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 29 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 30 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 31 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 32 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 33 | [Autumn Ballet](http://twitter.com/search?q=Autumn+Ballet) | N/A |
-| 34 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 35 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
-| 36 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 37 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 38 | [liddle](http://twitter.com/search?q=liddle) | N/A |
-| 39 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 40 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 41 | [alex twal](http://twitter.com/search?q=alex+twal) | N/A |
-| 42 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 43 | [Game 5](http://twitter.com/search?q=Game+5) | N/A |
-| 44 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
-| 45 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 46 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 47 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 48 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 6 | [alyssa](http://twitter.com/search?q=alyssa) | N/A |
+| 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 8 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 9 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 12 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 13 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 14 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
+| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 18 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 19 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 21 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 22 | [Talau](http://twitter.com/search?q=Talau) | N/A |
+| 23 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 24 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 25 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
+| 26 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 27 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 28 | [Tyson Gamble](http://twitter.com/search?q=Tyson+Gamble) | N/A |
+| 29 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 30 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 31 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 33 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 34 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 35 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
+| 36 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 37 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 38 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 39 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 40 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 42 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 43 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 44 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
+| 45 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 46 | [Autumn Ballet](http://twitter.com/search?q=Autumn+Ballet) | N/A |
+| 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 48 | [breakers](http://twitter.com/search?q=breakers) | N/A |
 
 
 

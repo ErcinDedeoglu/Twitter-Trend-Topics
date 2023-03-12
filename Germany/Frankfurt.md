@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-12 13:19:11 UTC`
+📆 Last Updated: `2023-03-12 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
-| 2 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 3 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 4 | [#presseclub](http://twitter.com/search?q=%23presseclub) | N/A |
-| 5 | [#H96FCH](http://twitter.com/search?q=%23H96FCH) | N/A |
-| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 8 | [Jatta](http://twitter.com/search?q=Jatta) | N/A |
-| 9 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 10 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 11 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 12 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 13 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 14 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 2 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
+| 3 | [#H96FCH](http://twitter.com/search?q=%23H96FCH) | N/A |
+| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 5 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 6 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 7 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 8 | [jatta](http://twitter.com/search?q=jatta) | N/A |
+| 9 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 10 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 11 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 14 | [Schonlau](http://twitter.com/search?q=Schonlau) | N/A |
 | 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 17 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 18 | [Siems](http://twitter.com/search?q=Siems) | N/A |
-| 19 | [Hundewelpen](http://twitter.com/search?q=Hundewelpen) | N/A |
-| 20 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 16 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 17 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 18 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 19 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
+| 20 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 21 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 22 | [Jugendpolitiker](http://twitter.com/search?q=Jugendpolitiker) | N/A |
-| 23 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
-| 24 | [Karlsruhe](http://twitter.com/search?q=Karlsruhe) | N/A |
-| 25 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
-| 26 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 27 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 28 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 29 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 30 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 31 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 32 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 33 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 34 | [Azubis](http://twitter.com/search?q=Azubis) | N/A |
-| 35 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 36 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
-| 37 | [janin](http://twitter.com/search?q=janin) | N/A |
-| 38 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 39 | [Schulversager](http://twitter.com/search?q=Schulversager) | N/A |
-| 40 | [doppelpass](http://twitter.com/search?q=doppelpass) | N/A |
-| 41 | [fährmann](http://twitter.com/search?q=f%c3%a4hrmann) | N/A |
-| 42 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 43 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 44 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 45 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 46 | ['zäune'](http://twitter.com/search?q=%27z%c3%a4une%27) | N/A |
-| 47 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 48 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 49 | [Elton](http://twitter.com/search?q=Elton) | N/A |
-| 50 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 22 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 23 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 24 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 25 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 26 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 27 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 28 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 29 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 30 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 31 | [Jugendpolitiker](http://twitter.com/search?q=Jugendpolitiker) | N/A |
+| 32 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 33 | [hummels](http://twitter.com/search?q=hummels) | N/A |
+| 34 | [Frau Siems](http://twitter.com/search?q=Frau+Siems) | N/A |
+| 35 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 36 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 37 | [amoklauf](http://twitter.com/search?q=amoklauf) | N/A |
+| 38 | [Schulversager](http://twitter.com/search?q=Schulversager) | N/A |
+| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 40 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
+| 41 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 42 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 43 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 44 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
+| 45 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 46 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 47 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 48 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 49 | [Karlsruhe](http://twitter.com/search?q=Karlsruhe) | N/A |
+| 50 | [janin](http://twitter.com/search?q=janin) | N/A |
 
 
 

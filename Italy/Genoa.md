@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-12 13:19:12 UTC`
+📆 Last Updated: `2023-03-12 14:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
-| 3 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 4 | [#edoinstudio](http://twitter.com/search?q=%23edoinstudio) | N/A |
-| 5 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 6 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 8 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 9 | [Torto](http://twitter.com/search?q=Torto) | N/A |
-| 10 | [Bucava](http://twitter.com/search?q=Bucava) | N/A |
-| 11 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 12 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 13 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 14 | [figc](http://twitter.com/search?q=figc) | N/A |
-| 15 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 18 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 19 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 20 | [Ragione](http://twitter.com/search?q=Ragione) | N/A |
-| 21 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 22 | [D'Annunzio](http://twitter.com/search?q=D%27Annunzio) | N/A |
-| 23 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 24 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 25 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 26 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 28 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
-| 29 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 30 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 31 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 32 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 33 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 34 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 35 | [Il 12](http://twitter.com/search?q=Il+12) | N/A |
-| 36 | [Aranzulla](http://twitter.com/search?q=Aranzulla) | N/A |
-| 37 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
-| 38 | [ranya](http://twitter.com/search?q=ranya) | N/A |
-| 39 | [leriana](http://twitter.com/search?q=leriana) | N/A |
-| 40 | [fausto papetti](http://twitter.com/search?q=fausto+papetti) | N/A |
-| 41 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 42 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
-| 43 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 44 | [abbatte](http://twitter.com/search?q=abbatte) | N/A |
-| 45 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 46 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 47 | [Storace](http://twitter.com/search?q=Storace) | N/A |
-| 48 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 49 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 2 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 3 | [#NapoliAtalanta](http://twitter.com/search?q=%23NapoliAtalanta) | N/A |
+| 4 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 5 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 6 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 7 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 8 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 9 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 10 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
+| 11 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 12 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
+| 13 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 14 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 15 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 16 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 17 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 18 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 19 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 20 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 21 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 22 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 23 | [figc](http://twitter.com/search?q=figc) | N/A |
+| 24 | [Torto](http://twitter.com/search?q=Torto) | N/A |
+| 25 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
+| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 27 | [Bucava](http://twitter.com/search?q=Bucava) | N/A |
+| 28 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 29 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 30 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 31 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 32 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 33 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 34 | [D'Annunzio](http://twitter.com/search?q=D%27Annunzio) | N/A |
+| 35 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 36 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 37 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 38 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 39 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
+| 40 | [Ragione](http://twitter.com/search?q=Ragione) | N/A |
+| 41 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
+| 42 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 43 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 44 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 45 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 46 | [meret](http://twitter.com/search?q=meret) | N/A |
+| 47 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
+| 48 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
+| 49 | [il 12](http://twitter.com/search?q=il+12) | N/A |
 
 
 

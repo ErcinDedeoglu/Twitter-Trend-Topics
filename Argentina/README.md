@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-12 13:19:54 UTC`
+📆 Last Updated: `2023-03-12 14:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
-| 2 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
-| 3 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
-| 4 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 5 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 6 | [Escudo Nacional](http://twitter.com/search?q=Escudo+Nacional) | N/A |
-| 7 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 8 | [#EsteFinde](http://twitter.com/search?q=%23EsteFinde) | N/A |
-| 9 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 10 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 11 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 12 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 13 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
-| 14 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 15 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
-| 16 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 17 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 19 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 20 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 21 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 22 | [El 12](http://twitter.com/search?q=El+12) | N/A |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 2 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
+| 3 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
+| 4 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 5 | [#PuntoPenalEnEl10](http://twitter.com/search?q=%23PuntoPenalEnEl10) | N/A |
+| 6 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 7 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
+| 8 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 9 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 10 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 11 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 12 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
+| 13 | [Kami](http://twitter.com/search?q=Kami) | N/A |
+| 14 | [Vilma Palma](http://twitter.com/search?q=Vilma+Palma) | N/A |
+| 15 | [Escudo Nacional](http://twitter.com/search?q=Escudo+Nacional) | N/A |
+| 16 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
+| 17 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
+| 18 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 19 | [El 12](http://twitter.com/search?q=El+12) | N/A |
+| 20 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 21 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 22 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 23 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 24 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
 | 25 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 26 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
-| 27 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 28 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 29 | [Tehuel](http://twitter.com/search?q=Tehuel) | N/A |
-| 30 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 31 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 32 | [martegani](http://twitter.com/search?q=martegani) | N/A |
-| 33 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 34 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
-| 35 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
-| 36 | [vombergar](http://twitter.com/search?q=vombergar) | N/A |
-| 37 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 38 | [abal](http://twitter.com/search?q=abal) | N/A |
-| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 40 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
-| 41 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 42 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 43 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 44 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 45 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 46 | [Hiroshima](http://twitter.com/search?q=Hiroshima) | N/A |
-| 47 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
-| 48 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 49 | [Fernet](http://twitter.com/search?q=Fernet) | N/A |
-| 50 | [plenario de la militancia](http://twitter.com/search?q=plenario+de+la+militancia) | N/A |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [Conti](http://twitter.com/search?q=Conti) | N/A |
+| 28 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 29 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
+| 30 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
+| 31 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 33 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 34 | [Asamblea General Constituyente](http://twitter.com/search?q=Asamblea+General+Constituyente) | N/A |
+| 35 | [Tehuel](http://twitter.com/search?q=Tehuel) | N/A |
+| 36 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 37 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 38 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 39 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 40 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 41 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 44 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 45 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
+| 46 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 47 | [rodrigo garro](http://twitter.com/search?q=rodrigo+garro) | N/A |
+| 48 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 49 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
+| 50 | [bareiro](http://twitter.com/search?q=bareiro) | N/A |
 
 
 

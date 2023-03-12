@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-03-12 13:18:56 UTC`
+📆 Last Updated: `2023-03-12 14:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 2 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
-| 3 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 4 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 5 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 6 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 7 | [#ToryBBC](http://twitter.com/search?q=%23ToryBBC) | N/A |
-| 8 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 9 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
-| 10 | [Chris Jordan](http://twitter.com/search?q=Chris+Jordan) | N/A |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 13 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 14 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 15 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 16 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 17 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
-| 18 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
-| 19 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 20 | [Viewing](http://twitter.com/search?q=Viewing) | N/A |
-| 21 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 22 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 23 | [Curiosity](http://twitter.com/search?q=Curiosity) | N/A |
-| 24 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 25 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 26 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 27 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 28 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 29 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 30 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [svb uk](http://twitter.com/search?q=svb+uk) | N/A |
-| 33 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 34 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 35 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
-| 36 | [Davie](http://twitter.com/search?q=Davie) | N/A |
-| 37 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 38 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 39 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 40 | [Orwell](http://twitter.com/search?q=Orwell) | N/A |
-| 41 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 42 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 43 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 44 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 45 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
-| 46 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 47 | [#NORSUN](http://twitter.com/search?q=%23NORSUN) | N/A |
+| 1 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 2 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 3 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 7 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 8 | [#ToryBBC](http://twitter.com/search?q=%23ToryBBC) | N/A |
+| 9 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 11 | [Chris Jordan](http://twitter.com/search?q=Chris+Jordan) | N/A |
+| 12 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 13 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 14 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 15 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 16 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 17 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 18 | [Raith](http://twitter.com/search?q=Raith) | N/A |
+| 19 | [Beaton](http://twitter.com/search?q=Beaton) | Beaton is a Scottish surname derived from the Gaelic word "bethan," meaning "little one." It is also a given name, derived from the Old French "beat," meaning "blessed." |
+| 20 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
+| 21 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 22 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
+| 23 | [Viewing](http://twitter.com/search?q=Viewing) | N/A |
+| 24 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 25 | [Curiosity](http://twitter.com/search?q=Curiosity) | N/A |
+| 26 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 27 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
+| 28 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 29 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
+| 30 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 31 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
+| 32 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
+| 33 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 34 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 35 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 36 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 37 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 38 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
+| 39 | [Wings](http://twitter.com/search?q=Wings) | N/A |
+| 40 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 41 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 42 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
+| 43 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 44 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 45 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 46 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 
 
 

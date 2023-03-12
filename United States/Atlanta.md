@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-12 13:19:43 UTC`
+📆 Last Updated: `2023-03-12 14:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 2 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 3 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 4 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 5 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 6 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 9 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 10 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 11 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 13 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
-| 14 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 15 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 16 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 17 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 19 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 20 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 21 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 22 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 23 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 24 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 26 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 27 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 28 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 29 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 30 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 31 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 32 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 33 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 34 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 35 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 36 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 37 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
-| 38 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 39 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 40 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 41 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 42 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 43 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 44 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 45 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 46 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 47 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
-| 48 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 49 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 50 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 3 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 5 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 6 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 7 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 9 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 10 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 11 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 12 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 13 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 14 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 15 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 16 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 18 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
+| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 23 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 24 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 26 | [Bautista](http://twitter.com/search?q=Bautista) | N/A |
+| 27 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 28 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 29 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 30 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 31 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 32 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 33 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
+| 34 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 35 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 36 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 37 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 38 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 39 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 40 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 41 | [Inception](http://twitter.com/search?q=Inception) | N/A |
+| 42 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 43 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 44 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 45 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
+| 46 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 47 | [Bank of America](http://twitter.com/search?q=Bank+of+America) | Bank of America is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second-largest bank holding company in the United States by assets. The company provides a variety of banking, investing, asset management, and other financial services to customers around the world. |
+| 48 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
+| 49 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 50 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
 
 
 
