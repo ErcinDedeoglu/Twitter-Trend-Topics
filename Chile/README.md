@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-12 08:17:39 UTC`
+📆 Last Updated: `2023-03-12 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,15 +28,15 @@ This is top 50 for Chile
 | 11 | [jaime de aguirre](http://twitter.com/search?q=jaime+de+aguirre) | N/A |
 | 12 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
 | 13 | [Cesarito](http://twitter.com/search?q=Cesarito) | N/A |
-| 14 | [Javiera Mena](http://twitter.com/search?q=Javiera+Mena) | N/A |
+| 14 | [javiera mena](http://twitter.com/search?q=javiera+mena) | N/A |
 | 15 | [Cientos](http://twitter.com/search?q=Cientos) | N/A |
-| 16 | [marta maurás](http://twitter.com/search?q=marta+maur%c3%a1s) | N/A |
-| 17 | [Marilyn](http://twitter.com/search?q=Marilyn) | N/A |
+| 16 | [Marilyn](http://twitter.com/search?q=Marilyn) | N/A |
+| 17 | [Comisión de Expertos](http://twitter.com/search?q=Comisi%c3%b3n+de+Expertos) | N/A |
 | 18 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 19 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 20 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 21 | [Izkia](http://twitter.com/search?q=Izkia) | N/A |
-| 22 | [Puros](http://twitter.com/search?q=Puros) | N/A |
+| 20 | [Izkia](http://twitter.com/search?q=Izkia) | N/A |
+| 21 | [Puros](http://twitter.com/search?q=Puros) | N/A |
+| 22 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
 | 23 | [Jordi Castell](http://twitter.com/search?q=Jordi+Castell) | N/A |
 | 24 | [Masiva](http://twitter.com/search?q=Masiva) | N/A |
 | 25 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Chile
 | 27 | [Pedro Pool](http://twitter.com/search?q=Pedro+Pool) | N/A |
 | 28 | [team patriota](http://twitter.com/search?q=team+patriota) | N/A |
 | 29 | [SOOBIN RUBIO](http://twitter.com/search?q=SOOBIN+RUBIO) | N/A |
-| 30 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 31 | [Comisión de Expertos](http://twitter.com/search?q=Comisi%c3%b3n+de+Expertos) | N/A |
-| 32 | [Luis Gnecco](http://twitter.com/search?q=Luis+Gnecco) | N/A |
-| 33 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 34 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 35 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 36 | [cancillería](http://twitter.com/search?q=canciller%c3%ada) | N/A |
-| 37 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 38 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
-| 39 | [Foto del 2022](http://twitter.com/search?q=Foto+del+2022) | N/A |
-| 40 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 41 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 42 | [marcos llunas](http://twitter.com/search?q=marcos+llunas) | N/A |
-| 43 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 44 | [Casi 3](http://twitter.com/search?q=Casi+3) | N/A |
-| 45 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 46 | [Curicó Unido](http://twitter.com/search?q=Curic%c3%b3+Unido) | N/A |
-| 47 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
-| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 49 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 50 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
+| 30 | [Luis Gnecco](http://twitter.com/search?q=Luis+Gnecco) | N/A |
+| 31 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 32 | [huachipato](http://twitter.com/search?q=huachipato) | N/A |
+| 33 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 34 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 35 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 36 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 37 | [partido liberal](http://twitter.com/search?q=partido+liberal) | N/A |
+| 38 | [Foto del 2022](http://twitter.com/search?q=Foto+del+2022) | N/A |
+| 39 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 40 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 41 | [marcos llunas](http://twitter.com/search?q=marcos+llunas) | N/A |
+| 42 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 43 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 44 | [curicó unido](http://twitter.com/search?q=curic%c3%b3+unido) | N/A |
+| 45 | [Krassnoff](http://twitter.com/search?q=Krassnoff) | N/A |
+| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 47 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 48 | [Jorge Castillo](http://twitter.com/search?q=Jorge+Castillo) | N/A |
+| 49 | [Larrain](http://twitter.com/search?q=Larrain) | N/A |
+| 50 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
 
 
 

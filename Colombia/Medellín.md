@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-12 08:16:50 UTC`
+📆 Last Updated: `2023-03-12 09:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Char](http://twitter.com/search?q=Char) | N/A |
 | 4 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
 | 5 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 6 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 7 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 6 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 7 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
 | 8 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
 | 9 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
 | 10 | [Montero](http://twitter.com/search?q=Montero) | N/A |
@@ -30,16 +30,16 @@ This is top 50 for [Colombia](</Colombia>)
 | 13 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
 | 14 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
 | 15 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 17 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 18 | [#laligaxwin](http://twitter.com/search?q=%23laligaxwin) | N/A |
+| 16 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 17 | [#laligaxwin](http://twitter.com/search?q=%23laligaxwin) | N/A |
+| 18 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 19 | [Arévalo](http://twitter.com/search?q=Ar%c3%a9valo) | N/A |
 | 20 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
 | 21 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 22 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 23 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
 | 24 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 25 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 25 | [paredes](http://twitter.com/search?q=paredes) | N/A |
 | 26 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
 | 27 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 28 | [Jader](http://twitter.com/search?q=Jader) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 37 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 38 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
 | 39 | [Logramos](http://twitter.com/search?q=Logramos) | N/A |
-| 40 | [Fernando Uribe](http://twitter.com/search?q=Fernando+Uribe) | N/A |
+| 40 | [FERNANDO URIBE](http://twitter.com/search?q=FERNANDO+URIBE) | N/A |
 | 41 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
 | 42 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 | 43 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |

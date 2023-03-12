@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-12 08:16:45 UTC`
+📆 Last Updated: `2023-03-12 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,19 +22,19 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 5 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 6 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 7 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 8 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
-| 9 | [Candelario](http://twitter.com/search?q=Candelario) | N/A |
-| 10 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 11 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 12 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 13 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 14 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 15 | [#louiscometodomrep](http://twitter.com/search?q=%23louiscometodomrep) | N/A |
-| 16 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 17 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 8 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 9 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
+| 10 | [Candelario](http://twitter.com/search?q=Candelario) | N/A |
+| 11 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 12 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 13 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 14 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 15 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 16 | [#louiscometodomrep](http://twitter.com/search?q=%23louiscometodomrep) | N/A |
+| 17 | [Santander](http://twitter.com/search?q=Santander) | N/A |
 | 18 | [Gary Sánchez](http://twitter.com/search?q=Gary+S%c3%a1nchez) | N/A |
 | 19 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
-| 20 | [Vamos RD](http://twitter.com/search?q=Vamos+RD) | N/A |
+| 20 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
 | 21 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 22 | [teleantillas](http://twitter.com/search?q=teleantillas) | N/A |
 | 23 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |

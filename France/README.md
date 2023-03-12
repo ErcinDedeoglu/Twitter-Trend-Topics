@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-12 08:17:40 UTC`
+📆 Last Updated: `2023-03-12 09:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for France
 | 7 | [#loscol](http://twitter.com/search?q=%23loscol) | N/A |
 | 8 | [Brest](http://twitter.com/search?q=Brest) | N/A |
 | 9 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 10 | [Mabrouk](http://twitter.com/search?q=Mabrouk) | N/A |
-| 11 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 12 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 13 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 16 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 10 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
+| 11 | [Mabrouk](http://twitter.com/search?q=Mabrouk) | N/A |
+| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 13 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 14 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 15 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 16 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 19 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 19 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 20 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
 | 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 23 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 24 | [lacazette](http://twitter.com/search?q=lacazette) | N/A |
-| 25 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 26 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
-| 27 | [Flament](http://twitter.com/search?q=Flament) | N/A |
-| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 29 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 30 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 31 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 32 | [Elise Lucet](http://twitter.com/search?q=Elise+Lucet) | N/A |
+| 22 | [Elise Lucet](http://twitter.com/search?q=Elise+Lucet) | N/A |
+| 23 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 24 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 27 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
+| 28 | [Flament](http://twitter.com/search?q=Flament) | N/A |
+| 29 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 30 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 31 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 32 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
 | 33 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 34 | [Galthié](http://twitter.com/search?q=Galthi%c3%a9) | N/A |
-| 35 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
-| 36 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
-| 37 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 38 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 39 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 34 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 35 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
+| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 37 | [Pourriture](http://twitter.com/search?q=Pourriture) | N/A |
+| 38 | [Galthié](http://twitter.com/search?q=Galthi%c3%a9) | N/A |
+| 39 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
 | 40 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 41 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 42 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 43 | [Les Anglais](http://twitter.com/search?q=Les+Anglais) | N/A |
-| 44 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 45 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
-| 46 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 47 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 41 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 42 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 43 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 44 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 45 | [Les Anglais](http://twitter.com/search?q=Les+Anglais) | N/A |
+| 46 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 47 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
 | 48 | [l'épisode de mha](http://twitter.com/search?q=l%27%c3%a9pisode+de+mha) | N/A |
-| 49 | [Bakugo](http://twitter.com/search?q=Bakugo) | N/A |
-| 50 | [Danty](http://twitter.com/search?q=Danty) | N/A |
+| 49 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 50 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 
 
 

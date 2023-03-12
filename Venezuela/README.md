@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-12 08:17:47 UTC`
+📆 Last Updated: `2023-03-12 09:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,11 @@ This is top 50 for Venezuela
 | 12 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 13 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
 | 14 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 15 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 16 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
-| 17 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 18 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 19 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 15 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
+| 16 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 17 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 18 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 19 | [Martin Pérez](http://twitter.com/search?q=Martin+P%c3%a9rez) | N/A |
 | 20 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
 | 21 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
 | 22 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Venezuela
 | 45 | [gonzalo lópez silvero](http://twitter.com/search?q=gonzalo+l%c3%b3pez+silvero) | N/A |
 | 46 | [Aure](http://twitter.com/search?q=Aure) | N/A |
 | 47 | [Simón Alberto Consalvi](http://twitter.com/search?q=Sim%c3%b3n+Alberto+Consalvi) | N/A |
-| 48 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
+| 48 | [arraez](http://twitter.com/search?q=arraez) | N/A |
 | 49 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
 | 50 | [Shakira y Bizarrap](http://twitter.com/search?q=Shakira+y+Bizarrap) | N/A |
 

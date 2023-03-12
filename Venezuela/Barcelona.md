@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-12 08:16:51 UTC`
+📆 Last Updated: `2023-03-12 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,11 +28,11 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 12 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
 | 13 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 14 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 15 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
-| 16 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 17 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 18 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 14 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
+| 15 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 16 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 17 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 18 | [Martin Pérez](http://twitter.com/search?q=Martin+P%c3%a9rez) | N/A |
 | 19 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
 | 20 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
 | 21 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 35 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
 | 36 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
 | 37 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 38 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 38 | [metropolitanos](http://twitter.com/search?q=metropolitanos) | N/A |
 | 39 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
 | 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 41 | [Peñaranda](http://twitter.com/search?q=Pe%c3%b1aranda) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 44 | [gonzalo lópez silvero](http://twitter.com/search?q=gonzalo+l%c3%b3pez+silvero) | N/A |
 | 45 | [Aure](http://twitter.com/search?q=Aure) | N/A |
 | 46 | [Simón Alberto Consalvi](http://twitter.com/search?q=Sim%c3%b3n+Alberto+Consalvi) | N/A |
-| 47 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
+| 47 | [arraez](http://twitter.com/search?q=arraez) | N/A |
 
 
 

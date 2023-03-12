@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-12 08:16:46 UTC`
+📆 Last Updated: `2023-03-12 09:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,46 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 6 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 7 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 8 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 7 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 8 | [Macario](http://twitter.com/search?q=Macario) | N/A |
 | 9 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
 | 10 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 11 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 12 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 13 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 14 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 15 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 16 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 17 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 18 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 11 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 12 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 13 | [Malagon](http://twitter.com/search?q=Malagon) | N/A |
+| 14 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 15 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 16 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 17 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 18 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
 | 19 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
 | 20 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
 | 21 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 22 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 23 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 24 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 25 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 26 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 22 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 23 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 24 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 25 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 26 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
 | 27 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
 | 28 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 29 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 29 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
 | 30 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 31 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 32 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 33 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 34 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 35 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 36 | [Diente](http://twitter.com/search?q=Diente) | N/A |
-| 37 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 38 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 39 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 40 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 41 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 42 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 43 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
-| 44 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 45 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 46 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 47 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 48 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 49 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 31 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 32 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 33 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 34 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 36 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 37 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 38 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 39 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 40 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 41 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
+| 42 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 43 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 44 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 45 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 46 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
 
 
 

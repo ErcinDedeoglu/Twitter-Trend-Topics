@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-12 08:17:41 UTC`
+📆 Last Updated: `2023-03-12 09:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,23 +22,23 @@ This is top 50 for Guatemala
 | 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 6 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
 | 7 | [Canela](http://twitter.com/search?q=Canela) | N/A |
-| 8 | [#BodasDeOroDeConsagración](http://twitter.com/search?q=%23BodasDeOroDeConsagraci%c3%b3n) | N/A |
+| 8 | [#bodasdeorodeconsagración](http://twitter.com/search?q=%23bodasdeorodeconsagraci%c3%b3n) | N/A |
 | 9 | [Mario Camposeco](http://twitter.com/search?q=Mario+Camposeco) | N/A |
-| 10 | [Iztapa](http://twitter.com/search?q=Iztapa) | N/A |
-| 11 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 10 | [iztapa](http://twitter.com/search?q=iztapa) | N/A |
+| 11 | [santo domingo](http://twitter.com/search?q=santo+domingo) | N/A |
 | 12 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
 | 13 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 14 | [Santa Lucía Cotzumalguapa](http://twitter.com/search?q=Santa+Luc%c3%ada+Cotzumalguapa) | N/A |
 | 15 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 16 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 16 | [quiñonez](http://twitter.com/search?q=qui%c3%b1onez) | N/A |
 | 17 | [Xelajú MC](http://twitter.com/search?q=Xelaj%c3%ba+MC) | N/A |
-| 18 | [Señor Sepultado](http://twitter.com/search?q=Se%c3%b1or+Sepultado) | N/A |
+| 18 | [señor sepultado](http://twitter.com/search?q=se%c3%b1or+sepultado) | N/A |
 | 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 20 | [#SismoGT](http://twitter.com/search?q=%23SismoGT) | N/A |
 | 21 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
 | 22 | [Catedral Metropolitana](http://twitter.com/search?q=Catedral+Metropolitana) | N/A |
-| 23 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
-| 24 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 23 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 24 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
 | 25 | [Estuardo](http://twitter.com/search?q=Estuardo) | N/A |
 | 26 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
 | 27 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Guatemala
 | 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 46 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
 | 47 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 48 | [Lástima](http://twitter.com/search?q=L%c3%a1stima) | N/A |
-| 49 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 50 | [Aaah](http://twitter.com/search?q=Aaah) | N/A |
+| 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 49 | [Aaah](http://twitter.com/search?q=Aaah) | N/A |
+| 50 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
 
 
 

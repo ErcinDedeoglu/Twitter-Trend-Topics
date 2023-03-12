@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-12 08:17:28 UTC`
+📆 Last Updated: `2023-03-12 09:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
 | 2 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
-| 3 | [Tre Johnson](http://twitter.com/search?q=Tre+Johnson) | N/A |
+| 3 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
 | 4 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
-| 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 8 | [Lake Highlands](http://twitter.com/search?q=Lake+Highlands) | N/A |
-| 9 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 10 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 11 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 12 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 13 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 14 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 15 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 16 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 17 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 19 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 20 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 21 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 22 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 23 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 24 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 25 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 26 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 27 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
-| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 29 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 30 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 31 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 32 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 34 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 35 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 37 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 38 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 39 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
-| 40 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 41 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 43 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 44 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 45 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 46 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 47 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 48 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 49 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 50 | [Dave Pasch](http://twitter.com/search?q=Dave+Pasch) | N/A |
+| 5 | [Lake Highlands](http://twitter.com/search?q=Lake+Highlands) | N/A |
+| 6 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 7 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 8 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 9 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 10 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 11 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 13 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 14 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 15 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
+| 16 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
+| 17 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 18 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 19 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 20 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 21 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 22 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 24 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 25 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 26 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 28 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
+| 29 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 31 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 32 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 33 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 34 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 35 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 36 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 37 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 38 | [Light the Beam](http://twitter.com/search?q=Light+the+Beam) | Light the Beam is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for achieving success, as in "Let's light the beam and get this project done!" |
+| 39 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
+| 40 | [Strive](http://twitter.com/search?q=Strive) | N/A |
+| 41 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 42 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 43 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 44 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 45 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 46 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 47 | [Jaquez](http://twitter.com/search?q=Jaquez) | N/A |
+| 48 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 49 | [Tommy Lloyd](http://twitter.com/search?q=Tommy+Lloyd) | N/A |
+| 50 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
 
 
 

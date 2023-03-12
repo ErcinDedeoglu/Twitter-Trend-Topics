@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-12 08:17:27 UTC`
+📆 Last Updated: `2023-03-12 09:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 2 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 3 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
-| 4 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 5 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
-| 6 | [Liselere Geçiş Sistemi](http://twitter.com/search?q=Liselere+Ge%c3%a7i%c5%9f+Sistemi) | N/A |
-| 7 | [Alanya Kestelspor](http://twitter.com/search?q=Alanya+Kestelspor) | N/A |
+| 1 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
+| 2 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 3 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
+| 4 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 5 | [Alanya Kestelspor](http://twitter.com/search?q=Alanya+Kestelspor) | N/A |
+| 6 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 7 | [Liselere Geçiş Sistemi](http://twitter.com/search?q=Liselere+Ge%c3%a7i%c5%9f+Sistemi) | N/A |
 | 8 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
-| 9 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
-| 10 | [Gazi Mustafa Kemal Atatürk](http://twitter.com/search?q=Gazi+Mustafa+Kemal+Atat%c3%bcrk) | N/A |
-| 11 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 12 | [Milli Mücadelemizin](http://twitter.com/search?q=Milli+M%c3%bccadelemizin) | N/A |
-| 13 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
-| 14 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 15 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 16 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 17 | [TFF 3](http://twitter.com/search?q=TFF+3) | N/A |
-| 18 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
-| 19 | [Serdar Ortaç](http://twitter.com/search?q=Serdar+Orta%c3%a7) | N/A |
-| 20 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 21 | [Çelebi](http://twitter.com/search?q=%c3%87elebi) | N/A |
-| 22 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 23 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 24 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 25 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
-| 26 | [Selman](http://twitter.com/search?q=Selman) | N/A |
-| 27 | [Türk'üm](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcm) | N/A |
-| 28 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
-| 29 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 30 | [#AsılMeselemiz](http://twitter.com/search?q=%23As%c4%b1lMeselemiz) | N/A |
-| 31 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
-| 32 | [#GaziKatliamınıUNUTMADIK](http://twitter.com/search?q=%23GaziKatliam%c4%b1n%c4%b1UNUTMADIK) | N/A |
-| 33 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
-| 34 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
-| 35 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
-| 36 | [#Korkma](http://twitter.com/search?q=%23Korkma) | N/A |
-| 37 | [#ABOHerkesinSorunudur](http://twitter.com/search?q=%23ABOHerkesinSorunudur) | N/A |
-| 38 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
-| 39 | [#UzmanÇavuşlarDevletinEmrinde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarDevletinEmrinde) | N/A |
-| 40 | [#UzmanÇavuşlarTorbaYasaya](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarTorbaYasaya) | N/A |
-| 41 | [#UzmanÇavuşlarMilletinGönlünde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarMilletinG%c3%b6nl%c3%bcnde) | N/A |
-| 42 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 43 | [#TorbaYa5000veKısmiGirmeli](http://twitter.com/search?q=%23TorbaYa5000veK%c4%b1smiGirmeli) | N/A |
-| 44 | [#OylarTazminata](http://twitter.com/search?q=%23OylarTazminata) | N/A |
+| 9 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 10 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 11 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
+| 12 | [TFF 3](http://twitter.com/search?q=TFF+3) | N/A |
+| 13 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 14 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 15 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 16 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 17 | [Serkan Gür](http://twitter.com/search?q=Serkan+G%c3%bcr) | N/A |
+| 18 | [Milli Mücadelemizin](http://twitter.com/search?q=Milli+M%c3%bccadelemizin) | N/A |
+| 19 | [Özer](http://twitter.com/search?q=%c3%96zer) | N/A |
+| 20 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 21 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 22 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 23 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 24 | [Kahraman Ordumuza](http://twitter.com/search?q=Kahraman+Ordumuza) | N/A |
+| 25 | [Çelebi](http://twitter.com/search?q=%c3%87elebi) | N/A |
+| 26 | [Serdar Ortaç](http://twitter.com/search?q=Serdar+Orta%c3%a7) | N/A |
+| 27 | [Kurtuluş Savaşı](http://twitter.com/search?q=Kurtulu%c5%9f+Sava%c5%9f%c4%b1) | N/A |
+| 28 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 29 | [MAÇ GÜNÜ](http://twitter.com/search?q=MA%c3%87+G%c3%9cN%c3%9c) | N/A |
+| 30 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
+| 31 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
+| 32 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 33 | [Türk'üm](http://twitter.com/search?q=T%c3%bcrk%27%c3%bcm) | N/A |
+| 34 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 35 | [Selman](http://twitter.com/search?q=Selman) | N/A |
+| 36 | [#GaziKatliamı](http://twitter.com/search?q=%23GaziKatliam%c4%b1) | N/A |
+| 37 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 38 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
+| 39 | [#normaldeğil](http://twitter.com/search?q=%23normalde%c4%9fil) | N/A |
+| 40 | [#AsılMeselemiz](http://twitter.com/search?q=%23As%c4%b1lMeselemiz) | N/A |
+| 41 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 42 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
+| 43 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
+| 44 | [#İBFKvBJK](http://twitter.com/search?q=%23%c4%b0BFKvBJK) | N/A |
+| 45 | [#ABOHerkesinSorunudur](http://twitter.com/search?q=%23ABOHerkesinSorunudur) | N/A |
+| 46 | [#Korkma](http://twitter.com/search?q=%23Korkma) | N/A |
+| 47 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
+| 48 | [#MemleketPartisi](http://twitter.com/search?q=%23MemleketPartisi) | N/A |
 
 
 

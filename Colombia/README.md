@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-12 08:17:39 UTC`
+📆 Last Updated: `2023-03-12 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,16 +29,16 @@ This is top 50 for Colombia
 | 12 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
 | 13 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
 | 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 15 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 16 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 17 | [#laligaxwin](http://twitter.com/search?q=%23laligaxwin) | N/A |
+| 15 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 16 | [#laligaxwin](http://twitter.com/search?q=%23laligaxwin) | N/A |
+| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 18 | [Arévalo](http://twitter.com/search?q=Ar%c3%a9valo) | N/A |
 | 19 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
 | 20 | [Cambio Radical](http://twitter.com/search?q=Cambio+Radical) | N/A |
-| 21 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 22 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
 | 23 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 24 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 24 | [paredes](http://twitter.com/search?q=paredes) | N/A |
 | 25 | [Uribito](http://twitter.com/search?q=Uribito) | N/A |
 | 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 27 | [Jader](http://twitter.com/search?q=Jader) | N/A |
@@ -49,11 +49,11 @@ This is top 50 for Colombia
 | 32 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
 | 33 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
 | 34 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 35 | [Ricaurte](http://twitter.com/search?q=Ricaurte) | N/A |
-| 36 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 37 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
-| 38 | [Logramos](http://twitter.com/search?q=Logramos) | N/A |
-| 39 | [Fernando Uribe](http://twitter.com/search?q=Fernando+Uribe) | N/A |
+| 35 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 36 | [Gerlein](http://twitter.com/search?q=Gerlein) | N/A |
+| 37 | [Logramos](http://twitter.com/search?q=Logramos) | N/A |
+| 38 | [Ricaurte](http://twitter.com/search?q=Ricaurte) | N/A |
+| 39 | [FERNANDO URIBE](http://twitter.com/search?q=FERNANDO+URIBE) | N/A |
 | 40 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
 | 41 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 | 42 | [Tiemblan](http://twitter.com/search?q=Tiemblan) | N/A |
