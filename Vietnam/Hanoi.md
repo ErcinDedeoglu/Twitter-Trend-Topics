@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-12 04:17:08 UTC`
+📆 Last Updated: `2023-03-12 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 4 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
+| 4 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 5 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
-| 6 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 7 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 6 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 7 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
 | 8 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 11 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 12 | [tổng thống kim namjoon](http://twitter.com/search?q=t%e1%bb%95ng+th%e1%bb%91ng+kim+namjoon) | N/A |
-| 13 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 9 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 12 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 14 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
-| 15 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 16 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
-| 17 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
-| 18 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 19 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
-| 20 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 21 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 22 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 23 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
-| 24 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 25 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 26 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 27 | [Suju](http://twitter.com/search?q=Suju) | N/A |
-| 28 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 29 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 30 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 31 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
-| 32 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 33 | [Lqty](http://twitter.com/search?q=Lqty) | N/A |
-| 34 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 36 | [Welp](http://twitter.com/search?q=Welp) | N/A |
-| 37 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 38 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
-| 39 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 40 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 41 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 42 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 43 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 44 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
-| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 46 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 15 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 16 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 17 | [tổng thống kim namjoon](http://twitter.com/search?q=t%e1%bb%95ng+th%e1%bb%91ng+kim+namjoon) | N/A |
+| 18 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 19 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
+| 20 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 21 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 22 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 23 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 24 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 25 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 26 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 27 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 28 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
+| 29 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 30 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 31 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 32 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 33 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 34 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 35 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 36 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 38 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
+| 39 | [$lqty](http://twitter.com/search?q=%24lqty) | N/A |
+| 40 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 41 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 43 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 46 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 47 | [thái lan](http://twitter.com/search?q=th%c3%a1i+lan) | N/A |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 
 
 

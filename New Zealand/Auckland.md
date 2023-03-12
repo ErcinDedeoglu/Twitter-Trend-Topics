@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-12 04:17:22 UTC`
+📆 Last Updated: `2023-03-12 05:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [#MCRAUCKLAND](http://twitter.com/search?q=%23MCRAUCKLAND) | N/A |
 | 4 | [#HURvBLU](http://twitter.com/search?q=%23HURvBLU) | N/A |
 | 5 | [#NRLRoostersWarriors](http://twitter.com/search?q=%23NRLRoostersWarriors) | N/A |
-| 6 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 6 | [gerard](http://twitter.com/search?q=gerard) | N/A |
 | 7 | [Big Gay Out](http://twitter.com/search?q=Big+Gay+Out) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 10 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 11 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 12 | [Tame](http://twitter.com/search?q=Tame) | N/A |
-| 13 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
-| 14 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 15 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 16 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
-| 17 | [Goodnight Nurse](http://twitter.com/search?q=Goodnight+Nurse) | N/A |
-| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 21 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 23 | [mt albert](http://twitter.com/search?q=mt+albert) | N/A |
-| 24 | [Drua](http://twitter.com/search?q=Drua) | N/A |
-| 25 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
-| 26 | [Pukekohe](http://twitter.com/search?q=Pukekohe) | N/A |
-| 27 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 28 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 29 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 30 | [Hurricanes](http://twitter.com/search?q=Hurricanes) | N/A |
-| 31 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 32 | [Helen White](http://twitter.com/search?q=Helen+White) | N/A |
-| 33 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 34 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 35 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 36 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 37 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 38 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
-| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 40 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 43 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 44 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
-| 45 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 46 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
-| 47 | [Roy Morgan](http://twitter.com/search?q=Roy+Morgan) | N/A |
-| 48 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 49 | [Royal](http://twitter.com/search?q=Royal) | N/A |
-| 50 | [freereadku amazon](http://twitter.com/search?q=freereadku+amazon) | N/A |
+| 8 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 9 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
+| 12 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 13 | [Hurricanes](http://twitter.com/search?q=Hurricanes) | N/A |
+| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 15 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 17 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 18 | [Tame](http://twitter.com/search?q=Tame) | N/A |
+| 19 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 20 | [Goodnight Nurse](http://twitter.com/search?q=Goodnight+Nurse) | N/A |
+| 21 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
+| 22 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 23 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 24 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
+| 25 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 26 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 27 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
+| 28 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 32 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 33 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 35 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 36 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 39 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 40 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 41 | [President](http://twitter.com/search?q=President) | N/A |
+| 42 | [Drua](http://twitter.com/search?q=Drua) | N/A |
+| 43 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 44 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 45 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
+| 46 | [Gosh](http://twitter.com/search?q=Gosh) | N/A |
+| 47 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 48 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [Tauranga](http://twitter.com/search?q=Tauranga) | N/A |
 
 
 

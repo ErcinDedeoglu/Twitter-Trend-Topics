@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-12 04:17:10 UTC`
+📆 Last Updated: `2023-03-12 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
 | 2 | [#Sundowns](http://twitter.com/search?q=%23Sundowns) | N/A |
 | 3 | [Mobi Dixon](http://twitter.com/search?q=Mobi+Dixon) | N/A |
-| 4 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 5 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 4 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
+| 5 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 6 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
 | 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 8 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 9 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
-| 10 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 11 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
-| 12 | [percy tau](http://twitter.com/search?q=percy+tau) | N/A |
+| 10 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
+| 11 | [#SundayFeels](http://twitter.com/search?q=%23SundayFeels) | N/A |
+| 12 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
 | 13 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 14 | [Kelly Khumalo](http://twitter.com/search?q=Kelly+Khumalo) | N/A |
-| 15 | [FAAJI WITH THABANG](http://twitter.com/search?q=FAAJI+WITH+THABANG) | N/A |
+| 14 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 15 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 17 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
-| 18 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 19 | [CHILWELL](http://twitter.com/search?q=CHILWELL) | N/A |
-| 20 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 21 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 22 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 23 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 24 | [Boity](http://twitter.com/search?q=Boity) | N/A |
-| 25 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 26 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 31 | [temba](http://twitter.com/search?q=temba) | N/A |
-| 32 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
-| 33 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 34 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 35 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 36 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
-| 37 | [mokoena](http://twitter.com/search?q=mokoena) | N/A |
-| 38 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 39 | [party with the finalist](http://twitter.com/search?q=party+with+the+finalist) | N/A |
-| 40 | [Neo Maema](http://twitter.com/search?q=Neo+Maema) | N/A |
-| 41 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
-| 42 | [tsatsii the host](http://twitter.com/search?q=tsatsii+the+host) | N/A |
-| 43 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 44 | [Arthur Fraser](http://twitter.com/search?q=Arthur+Fraser) | N/A |
-| 45 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 17 | [get down with tsatsii](http://twitter.com/search?q=get+down+with+tsatsii) | N/A |
+| 18 | [CHILWELL](http://twitter.com/search?q=CHILWELL) | N/A |
+| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 20 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 22 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 23 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 25 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
+| 26 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 27 | [Drugs](http://twitter.com/search?q=Drugs) | N/A |
+| 28 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
+| 31 | [Mokoena](http://twitter.com/search?q=Mokoena) | N/A |
+| 32 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 33 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 36 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 37 | [Akon](http://twitter.com/search?q=Akon) | N/A |
+| 38 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
+| 39 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 40 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 41 | [Arthur Fraser](http://twitter.com/search?q=Arthur+Fraser) | N/A |
+| 42 | [Boity](http://twitter.com/search?q=Boity) | N/A |
+| 43 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
+| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 45 | [party with the finalist](http://twitter.com/search?q=party+with+the+finalist) | N/A |
 | 46 | [tsatsii pyjama party](http://twitter.com/search?q=tsatsii+pyjama+party) | N/A |
-| 47 | [ndlondlo](http://twitter.com/search?q=ndlondlo) | N/A |
-| 48 | [monyane](http://twitter.com/search?q=monyane) | N/A |
-| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 50 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
+| 47 | [Neo Maema](http://twitter.com/search?q=Neo+Maema) | N/A |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 49 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 50 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 
 
 

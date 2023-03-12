@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-12 04:17:30 UTC`
+📆 Last Updated: `2023-03-12 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 2 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 3 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 4 | [#Big12Championship](http://twitter.com/search?q=%23Big12Championship) | N/A |
-| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 6 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 7 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 8 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 9 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 10 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 11 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 14 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 16 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 17 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 18 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 19 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 20 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 21 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 22 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 23 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 24 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 25 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 26 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 27 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 28 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 29 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 30 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 31 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 32 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 33 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 34 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
-| 35 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 36 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 37 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 38 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 39 | [Joe Ingles](http://twitter.com/search?q=Joe+Ingles) | N/A |
-| 40 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 42 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 43 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 44 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 45 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 46 | [ACC Champions](http://twitter.com/search?q=ACC+Champions) | N/A |
-| 47 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
-| 48 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 49 | [Jeremy Roach](http://twitter.com/search?q=Jeremy+Roach) | N/A |
+| 1 | [#SportingKC](http://twitter.com/search?q=%23SportingKC) | N/A |
+| 2 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 3 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 5 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 6 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 10 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 11 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 12 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 13 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 14 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 15 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 16 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 17 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 18 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 19 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 20 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 21 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 22 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 23 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 24 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 25 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 26 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 27 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 29 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 30 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 31 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 32 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 33 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 34 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 35 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 36 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 37 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 38 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 39 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 40 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 41 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
+| 44 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 45 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 46 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 47 | [Joe Ingles](http://twitter.com/search?q=Joe+Ingles) | N/A |
+| 48 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 49 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
 
 
 

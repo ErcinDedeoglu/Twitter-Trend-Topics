@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-12 04:17:24 UTC`
+📆 Last Updated: `2023-03-12 05:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 2 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 3 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
-| 4 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
-| 5 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 1 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 2 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
+| 3 | [Tre Johnson](http://twitter.com/search?q=Tre+Johnson) | N/A |
+| 4 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
+| 5 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
+| 6 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 7 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 8 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 9 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
-| 10 | [Faith Family](http://twitter.com/search?q=Faith+Family) | N/A |
-| 11 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 12 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 13 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 14 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 15 | [Horns](http://twitter.com/search?q=Horns) | N/A |
-| 16 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 17 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 18 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 19 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 20 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 21 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 22 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 23 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 24 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 25 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 28 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 31 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 32 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 33 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 34 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 35 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 36 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 37 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 38 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 39 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 40 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 41 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 42 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 43 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 44 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 45 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 46 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 47 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 48 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
-| 49 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 50 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 8 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 9 | [Wolff](http://twitter.com/search?q=Wolff) | N/A |
+| 10 | [Lake Highlands](http://twitter.com/search?q=Lake+Highlands) | N/A |
+| 11 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 12 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 13 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 14 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 15 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 17 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 18 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 19 | [Horns](http://twitter.com/search?q=Horns) | N/A |
+| 20 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 21 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 22 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 23 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 24 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 25 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 26 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 27 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 28 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 29 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 31 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 32 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 33 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 34 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 35 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 36 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 37 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 39 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 40 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 41 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 42 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 43 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 44 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 45 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 46 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 47 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 48 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 49 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 50 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
 
 
 

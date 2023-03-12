@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-12 04:17:37 UTC`
+📆 Last Updated: `2023-03-12 05:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,40 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [kozins](http://twitter.com/search?q=kozins) | N/A |
-| 3 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
-| 4 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 5 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 6 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
-| 7 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 8 | [karlsons](http://twitter.com/search?q=karlsons) | N/A |
-| 9 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 10 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 11 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 12 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 13 | [vinnijs pūks](http://twitter.com/search?q=vinnijs+p%c5%abks) | N/A |
-| 14 | [progresīvo](http://twitter.com/search?q=progres%c4%abvo) | N/A |
-| 15 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 16 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
-| 17 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 18 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
-| 19 | [zosēnos](http://twitter.com/search?q=zos%c4%93nos) | N/A |
-| 20 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 21 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 22 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 24 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 27 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 28 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 29 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 30 | [tikko](http://twitter.com/search?q=tikko) | N/A |
-| 31 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 32 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 33 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 34 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 35 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 36 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 37 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 38 | [gruzijā](http://twitter.com/search?q=gruzij%c4%81) | N/A |
-| 39 | [tiem](http://twitter.com/search?q=tiem) | N/A |
-| 40 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
-| 41 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 42 | [riga](http://twitter.com/search?q=riga) | N/A |
-| 43 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
-| 44 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 45 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 46 | [latgales](http://twitter.com/search?q=latgales) | N/A |
-| 47 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 48 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 49 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 1 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 2 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
+| 3 | [visu](http://twitter.com/search?q=visu) | N/A |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 5 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 6 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 8 | [Visi](http://twitter.com/search?q=Visi) | N/A |
+| 9 | [krievija](http://twitter.com/search?q=krievija) | N/A |
+| 10 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
+| 11 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 12 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
+| 13 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 14 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 15 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 16 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
+| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 18 | [Protams](http://twitter.com/search?q=Protams) | N/A |
+| 19 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 20 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 21 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
+| 22 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 23 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 24 | [gruzijā](http://twitter.com/search?q=gruzij%c4%81) | N/A |
+| 25 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 26 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 27 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
+| 28 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
+| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 30 | [ZINU](http://twitter.com/search?q=ZINU) | N/A |
+| 31 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 32 | [nekad](http://twitter.com/search?q=nekad) | N/A |
+| 33 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 34 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 
 
 

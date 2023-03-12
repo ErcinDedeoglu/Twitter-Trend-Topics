@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-12 04:17:33 UTC`
+📆 Last Updated: `2023-03-12 05:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Insiders](http://twitter.com/search?q=%23Insiders) | N/A |
-| 2 | [#nrldolphinsraiders](http://twitter.com/search?q=%23nrldolphinsraiders) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#WELvSYD](http://twitter.com/search?q=%23WELvSYD) | N/A |
-| 5 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
-| 6 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 9 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 10 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 11 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 1 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
+| 2 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 3 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 4 | [#Insiders](http://twitter.com/search?q=%23Insiders) | N/A |
+| 5 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
+| 6 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
+| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 12 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 13 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
 | 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 15 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 16 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 15 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 16 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
 | 17 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 18 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
-| 19 | [Echuca](http://twitter.com/search?q=Echuca) | N/A |
-| 20 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 18 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 19 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 20 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 21 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 24 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 25 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 26 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 27 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 28 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 29 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 30 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
-| 31 | [Port Kembla](http://twitter.com/search?q=Port+Kembla) | N/A |
-| 32 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 33 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 34 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
-| 35 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 36 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 37 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 38 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 39 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 40 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
-| 41 | [Pasifika](http://twitter.com/search?q=Pasifika) | N/A |
-| 42 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 43 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 44 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 45 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 46 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 47 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 48 | [panania](http://twitter.com/search?q=panania) | N/A |
-| 49 | [The Dolphins](http://twitter.com/search?q=The+Dolphins) | N/A |
-| 50 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
+| 22 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 23 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 24 | [Corica](http://twitter.com/search?q=Corica) | N/A |
+| 25 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 26 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
+| 27 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 28 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 29 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 30 | [Cairns](http://twitter.com/search?q=Cairns) | N/A |
+| 31 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 32 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 33 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 35 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 36 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
+| 37 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 38 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 39 | [Public Service](http://twitter.com/search?q=Public+Service) | N/A |
+| 40 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 41 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 44 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 45 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
+| 46 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
+| 47 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 48 | [Bunnings](http://twitter.com/search?q=Bunnings) | N/A |
+| 49 | [Seafolly](http://twitter.com/search?q=Seafolly) | N/A |
+| 50 | [Julia Gillard](http://twitter.com/search?q=Julia+Gillard) | N/A |
 
 
 

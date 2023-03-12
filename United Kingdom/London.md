@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-12 04:16:38 UTC`
+📆 Last Updated: `2023-03-12 05:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 2 | [#UFCVegas](http://twitter.com/search?q=%23UFCVegas) | N/A |
-| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 4 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 5 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 6 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 7 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
+| 1 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 3 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 4 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 5 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
+| 6 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 8 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 12 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 13 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 14 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 15 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 16 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 17 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 18 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 19 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 20 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 9 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 10 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 11 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 12 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 13 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 14 | [Wright](http://twitter.com/search?q=Wright) | N/A |
+| 15 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 16 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 17 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 18 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 19 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 21 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 22 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 23 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 26 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 27 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 28 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 29 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 30 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 31 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 32 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 34 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 38 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 39 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 40 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 41 | [England](http://twitter.com/search?q=England) | N/A |
-| 42 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 43 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 44 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 45 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 46 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 47 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 48 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 49 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 50 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 22 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 23 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 24 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 25 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 29 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 30 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 34 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 35 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 36 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 37 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 38 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 39 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 40 | [England](http://twitter.com/search?q=England) | N/A |
+| 41 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 42 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 43 | [bargain hunt](http://twitter.com/search?q=bargain+hunt) | N/A |
+| 44 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 45 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 46 | [jenas](http://twitter.com/search?q=jenas) | N/A |
+| 47 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 48 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
 
 
 

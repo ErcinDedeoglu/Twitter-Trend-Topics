@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-12 04:17:25 UTC`
+📆 Last Updated: `2023-03-12 05:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 2 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 3 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 4 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
-| 5 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 7 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 8 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 9 | [Bond](http://twitter.com/search?q=Bond) | N/A |
-| 10 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 11 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 12 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 13 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 14 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 15 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 16 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 17 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 18 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 19 | [The FDIC](http://twitter.com/search?q=The+FDIC) | N/A |
-| 20 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 21 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
-| 22 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 23 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 24 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 28 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 29 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 30 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 31 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 32 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 33 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 34 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 35 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 36 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 37 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 38 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 39 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 40 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 41 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 42 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 43 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 44 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 45 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 46 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
-| 47 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 48 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 49 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 1 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 2 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 3 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 6 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 7 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 8 | [Etiwanda](http://twitter.com/search?q=Etiwanda) | N/A |
+| 9 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 10 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 11 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 13 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 14 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 15 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 16 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 17 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 18 | [Bond](http://twitter.com/search?q=Bond) | N/A |
+| 19 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 20 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 21 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 22 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 23 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 24 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 25 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 26 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 27 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 28 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 29 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 30 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 31 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 32 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 33 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 35 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 36 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 37 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 38 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 39 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 40 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 41 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 42 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 43 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 44 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 45 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 46 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 47 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 48 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 49 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 
 
 
