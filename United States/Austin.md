@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-12 00:28:54 UTC`
+📆 Last Updated: `2023-03-12 01:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kimball](http://twitter.com/search?q=Kimball) | N/A |
+| 1 | [Houston](http://twitter.com/search?q=Houston) | N/A |
 | 2 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
-| 3 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 4 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 5 | [Marcus Sasser](http://twitter.com/search?q=Marcus+Sasser) | N/A |
-| 6 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 7 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
-| 8 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 9 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 10 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 11 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 12 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 13 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 14 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 16 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 17 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 18 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 19 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 20 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 21 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 22 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 23 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
-| 24 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 25 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 26 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 27 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
-| 28 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
-| 29 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 30 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
-| 31 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
-| 32 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 33 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 34 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 35 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 36 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 38 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 39 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
-| 40 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 41 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 43 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
-| 44 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 45 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
-| 46 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 47 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 48 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 50 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 3 | [Kimball](http://twitter.com/search?q=Kimball) | N/A |
+| 4 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 6 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 7 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 9 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 10 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 11 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 12 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 13 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 14 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 15 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 18 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 19 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 20 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 21 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 22 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 23 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 24 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 25 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
+| 26 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
+| 27 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
+| 28 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 29 | [Spann](http://twitter.com/search?q=Spann) | N/A |
+| 30 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 31 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 32 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 33 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 34 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 35 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 36 | [POKI](http://twitter.com/search?q=POKI) | N/A |
+| 37 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
+| 38 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 39 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
+| 40 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 41 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 42 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 43 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 44 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 45 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 46 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 47 | [Metamora](http://twitter.com/search?q=Metamora) | N/A |
+| 48 | [Paxton Lynch](http://twitter.com/search?q=Paxton+Lynch) | N/A |
+| 49 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 50 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
 
 
 

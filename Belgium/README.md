@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-12 00:29:02 UTC`
+📆 Last Updated: `2023-03-12 01:46:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [Tony Yoka](http://twitter.com/search?q=Tony+Yoka) | N/A |
 | 2 | [Takam](http://twitter.com/search?q=Takam) | N/A |
-| 3 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 5 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 6 | [#SERANT](http://twitter.com/search?q=%23SERANT) | N/A |
-| 7 | [#kvmstv](http://twitter.com/search?q=%23kvmstv) | N/A |
-| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 9 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 10 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 11 | [#stikstofakkoord](http://twitter.com/search?q=%23stikstofakkoord) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#SERANT](http://twitter.com/search?q=%23SERANT) | N/A |
+| 5 | [#kvmstv](http://twitter.com/search?q=%23kvmstv) | N/A |
+| 6 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 8 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 9 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 10 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
+| 11 | [Brest](http://twitter.com/search?q=Brest) | N/A |
 | 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Tijl](http://twitter.com/search?q=Tijl) | N/A |
-| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 16 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 13 | [Tijl](http://twitter.com/search?q=Tijl) | N/A |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [Seraing](http://twitter.com/search?q=Seraing) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 18 | [Seraing](http://twitter.com/search?q=Seraing) | N/A |
-| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 20 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 21 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 22 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 23 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 24 | [Zegt](http://twitter.com/search?q=Zegt) | N/A |
-| 25 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 26 | [J'attends](http://twitter.com/search?q=J%27attends) | N/A |
-| 27 | [Mouais](http://twitter.com/search?q=Mouais) | N/A |
-| 28 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 29 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 30 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 31 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 32 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 33 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 34 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 37 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 38 | [Slaapwel](http://twitter.com/search?q=Slaapwel) | N/A |
-| 39 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 40 | [Maddens](http://twitter.com/search?q=Maddens) | N/A |
-| 41 | [Ptdrrrrrrr](http://twitter.com/search?q=Ptdrrrrrrr) | N/A |
-| 42 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 43 | [Geloof](http://twitter.com/search?q=Geloof) | N/A |
-| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 45 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 46 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 47 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 48 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 49 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 50 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 18 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 20 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 21 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 22 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 23 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 26 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 27 | [bart maddens](http://twitter.com/search?q=bart+maddens) | N/A |
+| 28 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 29 | [25 MW](http://twitter.com/search?q=25+MW) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 32 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 33 | [Beerschot](http://twitter.com/search?q=Beerschot) | N/A |
+| 34 | [fluvius](http://twitter.com/search?q=fluvius) | N/A |
+| 35 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 36 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 37 | [stvv](http://twitter.com/search?q=stvv) | N/A |
+| 38 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 39 | [Slaapwel](http://twitter.com/search?q=Slaapwel) | N/A |
+| 40 | [batterijen](http://twitter.com/search?q=batterijen) | N/A |
+| 41 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 42 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 43 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 44 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 45 | [Philippot](http://twitter.com/search?q=Philippot) | N/A |
+| 46 | [Defensie](http://twitter.com/search?q=Defensie) | N/A |
+| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 48 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 49 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 50 | [Isolde](http://twitter.com/search?q=Isolde) | N/A |
 
 
 

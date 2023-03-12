@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-12 00:28:58 UTC`
+📆 Last Updated: `2023-03-12 01:45:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 2 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 3 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 4 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 5 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 6 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 7 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 8 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 9 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 11 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 12 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 13 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 14 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
-| 15 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 16 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 17 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 18 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
-| 19 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
-| 20 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 21 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 22 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
-| 23 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
-| 24 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 25 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 26 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 27 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 28 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 29 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 30 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
-| 31 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 33 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 34 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 35 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
-| 36 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 37 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
-| 38 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 39 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 40 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 41 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 42 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 43 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 44 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 3 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 4 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 5 | [PIAA](http://twitter.com/search?q=PIAA) | N/A |
+| 6 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 7 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 8 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 9 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 10 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 11 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 12 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 13 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 14 | [#GirlInTheCloset](http://twitter.com/search?q=%23GirlInTheCloset) | N/A |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 18 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 19 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 20 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 21 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
+| 22 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
+| 23 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
+| 24 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 25 | [Spann](http://twitter.com/search?q=Spann) | N/A |
+| 26 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 27 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 28 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 29 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 30 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 31 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 32 | [POKI](http://twitter.com/search?q=POKI) | N/A |
+| 33 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
+| 34 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 35 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
+| 36 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 37 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 38 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 39 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 40 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 42 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 43 | [Metamora](http://twitter.com/search?q=Metamora) | N/A |
+| 44 | [Paxton Lynch](http://twitter.com/search?q=Paxton+Lynch) | N/A |
+| 45 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
 
 
 

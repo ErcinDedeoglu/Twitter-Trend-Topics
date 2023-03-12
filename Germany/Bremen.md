@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-12 00:28:32 UTC`
+📆 Last Updated: `2023-03-12 01:45:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 2 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 3 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 2 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 3 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
 | 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 5 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 6 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 7 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 10 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 11 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 12 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 13 | [Janin](http://twitter.com/search?q=Janin) | N/A |
+| 7 | [Janin](http://twitter.com/search?q=Janin) | N/A |
+| 8 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
+| 11 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
+| 12 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 13 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 14 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 15 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 16 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 15 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 16 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
 | 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 18 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
-| 19 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 20 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 21 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
-| 22 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 23 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 24 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
-| 25 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 26 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 27 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 28 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 29 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 30 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 31 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 32 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 33 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 35 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 36 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
-| 37 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 38 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 39 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
-| 40 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
-| 41 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 42 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
-| 43 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
-| 44 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 45 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 46 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
-| 47 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 48 | [Elton](http://twitter.com/search?q=Elton) | N/A |
+| 18 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 19 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 20 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 21 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 22 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 23 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 24 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 25 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 26 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 27 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 28 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 29 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 30 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 31 | [Elton](http://twitter.com/search?q=Elton) | N/A |
+| 32 | ['Zäune'](http://twitter.com/search?q=%27Z%c3%a4une%27) | N/A |
+| 33 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 34 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 35 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 37 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 38 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 39 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 40 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 41 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 42 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 43 | [arminia](http://twitter.com/search?q=arminia) | N/A |
+| 44 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 45 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 46 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 47 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 48 | [Nach 28 Jahren](http://twitter.com/search?q=Nach+28+Jahren) | N/A |
 
 
 

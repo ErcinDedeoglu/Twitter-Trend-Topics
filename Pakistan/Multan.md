@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-12 00:28:49 UTC`
+📆 Last Updated: `2023-03-12 01:45:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#ظلِ_شاہ](http://twitter.com/search?q=%23%d8%b8%d9%84%d9%90_%d8%b4%d8%a7%db%81) | N/A |
 | 2 | [#QGvMS](http://twitter.com/search?q=%23QGvMS) | N/A |
-| 3 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
-| 4 | [#MSvsQG](http://twitter.com/search?q=%23MSvsQG) | N/A |
-| 5 | [#لاشوں_کی_سیاست_بےنقاب](http://twitter.com/search?q=%23%d9%84%d8%a7%d8%b4%d9%88%da%ba_%da%a9%db%8c_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%d8%a8%db%92%d9%86%d9%82%d8%a7%d8%a8) | N/A |
-| 6 | [Abbas Afridi](http://twitter.com/search?q=Abbas+Afridi) | N/A |
-| 7 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 3 | [#MSvsQG](http://twitter.com/search?q=%23MSvsQG) | N/A |
+| 4 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 5 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 6 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 7 | [#لاشوں_کی_سیاست_بےنقاب](http://twitter.com/search?q=%23%d9%84%d8%a7%d8%b4%d9%88%da%ba_%da%a9%db%8c_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%d8%a8%db%92%d9%86%d9%82%d8%a7%d8%a8) | N/A |
 | 8 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
 | 9 | [indus hospital](http://twitter.com/search?q=indus+hospital) | N/A |
-| 10 | [olive gala](http://twitter.com/search?q=olive+gala) | N/A |
-| 11 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 12 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 13 | [Nursery](http://twitter.com/search?q=Nursery) | N/A |
-| 14 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 15 | [habib university](http://twitter.com/search?q=habib+university) | N/A |
-| 16 | [Qais ahmed](http://twitter.com/search?q=Qais+ahmed) | N/A |
-| 17 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 20 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 21 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 24 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
-| 25 | [ihhn](http://twitter.com/search?q=ihhn) | N/A |
-| 26 | [shoaib sheikh](http://twitter.com/search?q=shoaib+sheikh) | N/A |
-| 27 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 28 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 29 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
-| 30 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 31 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 32 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
-| 33 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 34 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 35 | [jhang](http://twitter.com/search?q=jhang) | N/A |
-| 36 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 39 | [36 Balls](http://twitter.com/search?q=36+Balls) | N/A |
-| 40 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
-| 41 | [Najam sethi](http://twitter.com/search?q=Najam+sethi) | N/A |
-| 42 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
-| 43 | [hafeez](http://twitter.com/search?q=hafeez) | N/A |
-| 44 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
-| 45 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 48 | [Moin Khan](http://twitter.com/search?q=Moin+Khan) | N/A |
-| 49 | [Your DMs](http://twitter.com/search?q=Your+DMs) | N/A |
+| 10 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
+| 11 | [Qais ahmed](http://twitter.com/search?q=Qais+ahmed) | N/A |
+| 12 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 13 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 14 | [habib university](http://twitter.com/search?q=habib+university) | N/A |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
+| 18 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
+| 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 20 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 21 | [ihhn](http://twitter.com/search?q=ihhn) | N/A |
+| 22 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
+| 23 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 24 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 25 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 26 | [tim david](http://twitter.com/search?q=tim+david) | N/A |
+| 27 | [Jhang](http://twitter.com/search?q=Jhang) | N/A |
+| 28 | [Rilee Rossouw](http://twitter.com/search?q=Rilee+Rossouw) | N/A |
+| 29 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
+| 30 | [36 balls](http://twitter.com/search?q=36+balls) | N/A |
+| 31 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 33 | [Najam sethi](http://twitter.com/search?q=Najam+sethi) | N/A |
+| 34 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
+| 35 | [naseem and hasnain](http://twitter.com/search?q=naseem+and+hasnain) | N/A |
+| 36 | [Yasmin Rashid](http://twitter.com/search?q=Yasmin+Rashid) | N/A |
+| 37 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Honest](http://twitter.com/search?q=Honest) | N/A |
+| 40 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 41 | [Your DMs](http://twitter.com/search?q=Your+DMs) | N/A |
+| 42 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 43 | [German](http://twitter.com/search?q=German) | N/A |
+| 44 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
+| 45 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 46 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
+| 47 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 48 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
+| 49 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
 
 
 

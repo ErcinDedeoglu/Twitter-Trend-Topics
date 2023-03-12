@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-12 00:28:55 UTC`
+📆 Last Updated: `2023-03-12 01:45:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 3 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 4 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 5 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 6 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
-| 7 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 8 | [#TennisParadise](http://twitter.com/search?q=%23TennisParadise) | N/A |
-| 9 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 10 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
-| 11 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 12 | [#Oscars95](http://twitter.com/search?q=%23Oscars95) | N/A |
-| 13 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 14 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 15 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 16 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 17 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 18 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 19 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 20 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 21 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 22 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
-| 23 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 25 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 26 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
-| 27 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
-| 28 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 29 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
-| 30 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 31 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
-| 32 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 33 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 34 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 35 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 36 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 38 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
-| 39 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 40 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 41 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 43 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
-| 44 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 45 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
-| 46 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 47 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 48 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 3 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 4 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 7 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 8 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 9 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 12 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 13 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 14 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 15 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
+| 16 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 17 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 18 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 19 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 20 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 21 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 22 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 23 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 24 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 25 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 27 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 28 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 29 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 30 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
+| 31 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
+| 32 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 33 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
+| 34 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 35 | [Spann](http://twitter.com/search?q=Spann) | N/A |
+| 36 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 37 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 38 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 39 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 41 | [POKI](http://twitter.com/search?q=POKI) | N/A |
+| 42 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
+| 43 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 44 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
+| 45 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 46 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 47 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 48 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
+| 49 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
 
 
 

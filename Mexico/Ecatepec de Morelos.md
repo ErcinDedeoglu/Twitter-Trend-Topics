@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-03-12 00:28:23 UTC`
+📆 Last Updated: `2023-03-12 01:45:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 4 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 5 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 6 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 7 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 8 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 9 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 10 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
-| 11 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
-| 12 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 13 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 14 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 15 | [Skone](http://twitter.com/search?q=Skone) | N/A |
-| 16 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 17 | [Blon](http://twitter.com/search?q=Blon) | N/A |
-| 18 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 19 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 20 | [Zticma](http://twitter.com/search?q=Zticma) | N/A |
-| 21 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
-| 22 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 23 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 24 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 25 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
-| 26 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 27 | [Chase Field](http://twitter.com/search?q=Chase+Field) | N/A |
-| 28 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
-| 29 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 30 | [Morelia](http://twitter.com/search?q=Morelia) | Morelia is the capital city of the Mexican state of Michoacán. It is located in the central region of the country, about 250 miles west of Mexico City. The name Morelia comes from a Nahuatl word meaning "place of many trees." |
-| 31 | [Cuatrero](http://twitter.com/search?q=Cuatrero) | N/A |
-| 32 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 33 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 36 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 37 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 38 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 39 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 40 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 41 | [#LasMujeresTransNoMeBorran](http://twitter.com/search?q=%23LasMujeresTransNoMeBorran) | N/A |
-| 42 | [#CumbreDeComunidades](http://twitter.com/search?q=%23CumbreDeComunidades) | N/A |
-| 43 | [#FentAMLO](http://twitter.com/search?q=%23FentAMLO) | N/A |
-| 44 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 45 | [#YaNoHayHorarioDeVerano](http://twitter.com/search?q=%23YaNoHayHorarioDeVerano) | N/A |
-| 46 | [#DemonSlayer](http://twitter.com/search?q=%23DemonSlayer) | N/A |
-| 47 | [#ToTheSwordsmithVillage](http://twitter.com/search?q=%23ToTheSwordsmithVillage) | N/A |
+| 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 2 | [Macario](http://twitter.com/search?q=Macario) | N/A |
+| 3 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 4 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 5 | [WHERE IS QUACKITY](http://twitter.com/search?q=WHERE+IS+QUACKITY) | N/A |
+| 6 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 7 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 8 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 9 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 10 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 11 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 12 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 13 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 14 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 15 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 16 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 17 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 18 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 19 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
+| 20 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
+| 21 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 22 | [Dávila](http://twitter.com/search?q=D%c3%a1vila) | N/A |
+| 23 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
+| 24 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
+| 25 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
+| 26 | [Skone](http://twitter.com/search?q=Skone) | N/A |
+| 27 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
+| 28 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
+| 29 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 30 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 31 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
+| 32 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 33 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 34 | [Zticma](http://twitter.com/search?q=Zticma) | N/A |
+| 35 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 36 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 37 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 38 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 39 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
+| 40 | [Cuatrero](http://twitter.com/search?q=Cuatrero) | N/A |
+| 41 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 42 | [Morelia](http://twitter.com/search?q=Morelia) | Morelia is the capital city of the Mexican state of Michoacán. It is located in the central region of the country, about 250 miles west of Mexico City. The name Morelia comes from a Nahuatl word meaning "place of many trees." |
+| 43 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 44 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 46 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 47 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
+| 48 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
 
 
 

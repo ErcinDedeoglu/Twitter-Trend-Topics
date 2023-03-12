@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-12 00:28:43 UTC`
+📆 Last Updated: `2023-03-12 01:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 2 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 3 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 4 | [#pvl2023](http://twitter.com/search?q=%23pvl2023) | N/A |
-| 5 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 6 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 7 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
-| 8 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 9 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 10 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 11 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 12 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 13 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 14 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 1 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 2 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 3 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 4 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 5 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 6 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 7 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 8 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
+| 9 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 10 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 11 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
+| 12 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 13 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
+| 14 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 | 15 | [happy kumuniversary angge](http://twitter.com/search?q=happy+kumuniversary+angge) | N/A |
-| 16 | [stell hinahamon kita](http://twitter.com/search?q=stell+hinahamon+kita) | N/A |
-| 17 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
-| 18 | [Agust Hong](http://twitter.com/search?q=Agust+Hong) | N/A |
-| 19 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 20 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
-| 21 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 22 | [lee jihoon](http://twitter.com/search?q=lee+jihoon) | N/A |
-| 23 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 24 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
-| 25 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 16 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 17 | [stell hinahamon kita](http://twitter.com/search?q=stell+hinahamon+kita) | N/A |
+| 18 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 19 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 20 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
+| 21 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 22 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 23 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 24 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 25 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
 | 26 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 27 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 28 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 29 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 30 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
-| 31 | [gayuma mv out now](http://twitter.com/search?q=gayuma+mv+out+now) | N/A |
-| 32 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 33 | [treasure hit the stage](http://twitter.com/search?q=treasure+hit+the+stage) | N/A |
-| 34 | [smile flower](http://twitter.com/search?q=smile+flower) | N/A |
-| 35 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
-| 36 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 37 | [Aju Nice](http://twitter.com/search?q=Aju+Nice) | N/A |
-| 38 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 39 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 40 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 41 | [tcoback ang robxine](http://twitter.com/search?q=tcoback+ang+robxine) | N/A |
-| 42 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 43 | [Hikaru](http://twitter.com/search?q=Hikaru) | N/A |
-| 44 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
-| 45 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 46 | [Mr. KAI](http://twitter.com/search?q=Mr.+KAI) | N/A |
-| 47 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 27 | [ALDENWelcome BacktoEB](http://twitter.com/search?q=ALDENWelcome+BacktoEB) | N/A |
+| 28 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
+| 29 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 30 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 31 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
+| 32 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
+| 33 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 35 | [smile flower](http://twitter.com/search?q=smile+flower) | N/A |
+| 36 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
+| 37 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
+| 38 | [tcoback ang robxine](http://twitter.com/search?q=tcoback+ang+robxine) | N/A |
+| 39 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 40 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
+| 41 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 42 | [MR. KAI](http://twitter.com/search?q=MR.+KAI) | N/A |
+| 43 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 44 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
+| 45 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 46 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 47 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 48 | [BEATBOX ENGLISH VERSION](http://twitter.com/search?q=BEATBOX+ENGLISH+VERSION) | N/A |
 
 
 
