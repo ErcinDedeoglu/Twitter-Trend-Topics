@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-03-12 20:17:32 UTC`
+📆 Last Updated: `2023-03-12 21:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Russia](</Russia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 2 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 3 | [#arbitrumm](http://twitter.com/search?q=%23arbitrumm) | N/A |
-| 4 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 5 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 6 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 7 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 8 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
-| 11 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 12 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 13 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 14 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 15 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 16 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 17 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 18 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 19 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 20 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 21 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 22 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 23 | [#cosmos](http://twitter.com/search?q=%23cosmos) | N/A |
-| 24 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 25 | [Красивый](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9) | N/A |
-| 26 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
-| 27 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 28 | [Добрый](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d1%8b%d0%b9) | N/A |
-| 29 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 30 | [Сочи](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d0%b8) | N/A |
-| 31 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 32 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 33 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 34 | [Здравствуйте](http://twitter.com/search?q=%d0%97%d0%b4%d1%80%d0%b0%d0%b2%d1%81%d1%82%d0%b2%d1%83%d0%b9%d1%82%d0%b5) | N/A |
-| 35 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 36 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 37 | [Поддерживаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | N/A |
-| 38 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 39 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 40 | [ЦСКА](http://twitter.com/search?q=%d0%a6%d0%a1%d0%9a%d0%90) | N/A |
-| 41 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 42 | [Соболезную](http://twitter.com/search?q=%d0%a1%d0%be%d0%b1%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%83%d1%8e) | N/A |
-| 43 | [ЛГБТ](http://twitter.com/search?q=%d0%9b%d0%93%d0%91%d0%a2) | N/A |
-| 44 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 45 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 46 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
-| 47 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 48 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 49 | [Волкова](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
-| 50 | [Обязательно](http://twitter.com/search?q=%d0%9e%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 2 | [#arbitrumm](http://twitter.com/search?q=%23arbitrumm) | N/A |
+| 3 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 4 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 5 | [Приятного](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%8f%d1%82%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 6 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
+| 7 | [Отличный](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 8 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 9 | [#Cosmos](http://twitter.com/search?q=%23Cosmos) | N/A |
+| 10 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 11 | [Шаман](http://twitter.com/search?q=%d0%a8%d0%b0%d0%bc%d0%b0%d0%bd) | N/A |
+| 12 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 14 | [Добрый](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d1%8b%d0%b9) | N/A |
+| 15 | [ленина](http://twitter.com/search?q=%d0%bb%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
+| 16 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 17 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 18 | [ЦСКА](http://twitter.com/search?q=%d0%a6%d0%a1%d0%9a%d0%90) | N/A |
+| 19 | [Миша](http://twitter.com/search?q=%d0%9c%d0%b8%d1%88%d0%b0) | N/A |
+| 20 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 21 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 22 | [В Питере](http://twitter.com/search?q=%d0%92+%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 23 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
+| 24 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
+| 25 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 26 | [любой](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%be%d0%b9) | N/A |
+| 27 | [в рф](http://twitter.com/search?q=%d0%b2+%d1%80%d1%84) | N/A |
+| 28 | [Волкова](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
+| 29 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 30 | [женя](http://twitter.com/search?q=%d0%b6%d0%b5%d0%bd%d1%8f) | N/A |
+| 31 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 32 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
+| 33 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 34 | [Идеально](http://twitter.com/search?q=%d0%98%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 35 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 36 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
+| 37 | [илон маск](http://twitter.com/search?q=%d0%b8%d0%bb%d0%be%d0%bd+%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
+| 38 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 39 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 40 | [Бред](http://twitter.com/search?q=%d0%91%d1%80%d0%b5%d0%b4) | N/A |
+| 41 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 42 | [УЖАСНО](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1%d0%9d%d0%9e) | N/A |
+| 43 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 44 | [Собчак](http://twitter.com/search?q=%d0%a1%d0%be%d0%b1%d1%87%d0%b0%d0%ba) | N/A |
+| 45 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 46 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
+| 47 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
+| 48 | [Аналогично](http://twitter.com/search?q=%d0%90%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 49 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 50 | [Израиля](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8f) | N/A |
 
 
 

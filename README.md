@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-12 20:16:51 UTC`
+📆 Last Updated: `2023-03-12 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 2 | [#الاهلي_الرياض](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 3 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 4 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 5 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 8 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
-| 9 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 10 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 11 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 12 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 14 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 15 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 17 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 18 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 19 | [Muharremİnceye Aşığız](http://twitter.com/search?q=Muharrem%c4%b0nceye+A%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
-| 20 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
-| 21 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
-| 22 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 23 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 24 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 25 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 26 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 28 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 29 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 30 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 31 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 32 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 33 | [BACK DOOR OPENED 300M](http://twitter.com/search?q=BACK+DOOR+OPENED+300M) | N/A |
-| 34 | [nalu](http://twitter.com/search?q=nalu) | N/A |
-| 35 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 36 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
-| 37 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 38 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
-| 39 | [Rever](http://twitter.com/search?q=Rever) | N/A |
-| 40 | [Başım Belada Atvde](http://twitter.com/search?q=Ba%c5%9f%c4%b1m+Belada+Atvde) | N/A |
-| 41 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 42 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 43 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 44 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
-| 45 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 46 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 47 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 48 | [انبي](http://twitter.com/search?q=%d8%a7%d9%86%d8%a8%d9%8a) | N/A |
-| 49 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 50 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 4 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 5 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 6 | [#الاهلي_الرياض](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 7 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 8 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 9 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 10 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 11 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 12 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 13 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 14 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
+| 15 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
+| 16 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 17 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 18 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 19 | [#OMRCSA](http://twitter.com/search?q=%23OMRCSA) | N/A |
+| 20 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
+| 21 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 22 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 23 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 26 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 27 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 28 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 29 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 30 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 31 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 32 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 33 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
+| 34 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 35 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 36 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 37 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 39 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 40 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 41 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 42 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 43 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 44 | [Muharremİnceye Aşığız](http://twitter.com/search?q=Muharrem%c4%b0nceye+A%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
+| 45 | [Solange Couto](http://twitter.com/search?q=Solange+Couto) | N/A |
+| 46 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 47 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 48 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 49 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 50 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
 
 
 

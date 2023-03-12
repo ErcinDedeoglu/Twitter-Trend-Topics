@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-12 20:17:45 UTC`
+📆 Last Updated: `2023-03-12 21:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United States](</United States>)
 | 4 | [Durk](http://twitter.com/search?q=Durk) | N/A |
 | 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 6 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 7 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 7 | [Payne](http://twitter.com/search?q=Payne) | N/A |
 | 8 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 9 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
-| 10 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 11 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 12 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 13 | [#UnitedRentals500](http://twitter.com/search?q=%23UnitedRentals500) | N/A |
-| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 15 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 16 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 17 | [Shep](http://twitter.com/search?q=Shep) | N/A |
-| 18 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
-| 19 | [Hatton](http://twitter.com/search?q=Hatton) | N/A |
-| 20 | [#RollTide](http://twitter.com/search?q=%23RollTide) | N/A |
-| 21 | [Payne](http://twitter.com/search?q=Payne) | N/A |
-| 22 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 23 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 24 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 25 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 26 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 27 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 28 | [Cal Quantrill](http://twitter.com/search?q=Cal+Quantrill) | N/A |
-| 29 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 30 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
-| 31 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 33 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 34 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 35 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 36 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 37 | [Dexter Lawrence](http://twitter.com/search?q=Dexter+Lawrence) | Dexter Lawrence is an American football defensive tackle for the New York Giants of the National Football League (NFL). He played college football at Clemson University. The name Dexter means "right-handed" or "skilled" in English. |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [Quinnen Williams](http://twitter.com/search?q=Quinnen+Williams) | Quinnen Williams is an American football defensive tackle for the New York Jets of the National Football League (NFL). He was drafted by the Jets third overall in the 2019 NFL Draft. His name is derived from his first name, Quinn, and his middle name, Nelson. The meaning of his name in English is "counselor of victory". |
-| 40 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 41 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 42 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
-| 43 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 44 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 45 | [Welcome to Miami](http://twitter.com/search?q=Welcome+to+Miami) | N/A |
-| 46 | [Academy Awards](http://twitter.com/search?q=Academy+Awards) | N/A |
-| 47 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 48 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 49 | [Kupp](http://twitter.com/search?q=Kupp) | N/A |
+| 9 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 10 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 11 | [#UnitedRentals500](http://twitter.com/search?q=%23UnitedRentals500) | N/A |
+| 12 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 13 | [#Break4Busch](http://twitter.com/search?q=%23Break4Busch) | N/A |
+| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 15 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 16 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
+| 17 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 18 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 19 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 20 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 21 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
+| 22 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
+| 23 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 24 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 25 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 26 | [Dexter Lawrence](http://twitter.com/search?q=Dexter+Lawrence) | Dexter Lawrence is an American football defensive tackle for the New York Giants of the National Football League (NFL). He played college football at Clemson University. The name Dexter means "right-handed" or "skilled" in English. |
+| 27 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
+| 28 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 29 | [Hatton](http://twitter.com/search?q=Hatton) | N/A |
+| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 31 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 32 | [Shep](http://twitter.com/search?q=Shep) | N/A |
+| 33 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 34 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 35 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 36 | [Sonix](http://twitter.com/search?q=Sonix) | Sonix is a software platform that enables users to create and edit audio files. It is used for creating music, podcasts, sound effects, and other audio content. The name Sonix is derived from the Latin word "sonus," which means sound. |
+| 37 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 38 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 39 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 40 | [Quinnen Williams](http://twitter.com/search?q=Quinnen+Williams) | Quinnen Williams is an American football defensive tackle for the New York Jets of the National Football League (NFL). He was drafted by the Jets third overall in the 2019 NFL Draft. His name is derived from his first name, Quinn, and his middle name, Nelson. The meaning of his name in English is "counselor of victory". |
+| 41 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 42 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 43 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 44 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
+| 45 | [Almirola](http://twitter.com/search?q=Almirola) | N/A |
+| 46 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
+| 47 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 48 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 49 | [Jeffery Simmons](http://twitter.com/search?q=Jeffery+Simmons) | N/A |
 
 
 
