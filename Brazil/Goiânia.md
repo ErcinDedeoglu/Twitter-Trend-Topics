@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-11 23:16:02 UTC`
+📆 Last Updated: `2023-03-12 00:28:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 2 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 3 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 4 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 5 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 6 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 7 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 8 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 2 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 3 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 4 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 5 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 6 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 7 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 8 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
 | 9 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 10 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 11 | [#PaulistaoNoYoutube](http://twitter.com/search?q=%23PaulistaoNoYoutube) | N/A |
-| 12 | [#caldeirao](http://twitter.com/search?q=%23caldeirao) | N/A |
-| 13 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 14 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 15 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 16 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 17 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 18 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
-| 19 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 20 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 21 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 22 | [Cascavel](http://twitter.com/search?q=Cascavel) | N/A |
-| 23 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 24 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 26 | [Rony Rústico](http://twitter.com/search?q=Rony+R%c3%bastico) | N/A |
+| 10 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 12 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 13 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 14 | [#PaulistaoNoYoutube](http://twitter.com/search?q=%23PaulistaoNoYoutube) | N/A |
+| 15 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 16 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 17 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
+| 18 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 19 | [Cascavel](http://twitter.com/search?q=Cascavel) | N/A |
+| 20 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
+| 23 | [Antônio Oliveira](http://twitter.com/search?q=Ant%c3%b4nio+Oliveira) | N/A |
+| 24 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 25 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
+| 26 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
 | 27 | [árbitra](http://twitter.com/search?q=%c3%a1rbitra) | N/A |
-| 28 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 29 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 30 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
-| 31 | [Fabrício Daniel](http://twitter.com/search?q=Fabr%c3%adcio+Daniel) | N/A |
-| 32 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 33 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 34 | [Darlan](http://twitter.com/search?q=Darlan) | N/A |
-| 35 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 36 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
-| 37 | [É GOL DO RONY](http://twitter.com/search?q=%c3%89+GOL+DO+RONY) | N/A |
-| 38 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 39 | [Bernô](http://twitter.com/search?q=Bern%c3%b4) | N/A |
-| 40 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
-| 41 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 42 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 43 | [Antônio Oliveira](http://twitter.com/search?q=Ant%c3%b4nio+Oliveira) | N/A |
-| 44 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 45 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 46 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 28 | [Renata Sorrah](http://twitter.com/search?q=Renata+Sorrah) | N/A |
+| 29 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 30 | [Rony Rústico](http://twitter.com/search?q=Rony+R%c3%bastico) | N/A |
+| 31 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 32 | [NX Zero](http://twitter.com/search?q=NX+Zero) | N/A |
+| 33 | [Varmeiras](http://twitter.com/search?q=Varmeiras) | N/A |
+| 34 | [Fabrício Daniel](http://twitter.com/search?q=Fabr%c3%adcio+Daniel) | N/A |
+| 35 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 36 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
+| 37 | [Bernô](http://twitter.com/search?q=Bern%c3%b4) | N/A |
+| 38 | [Rafael Vaz](http://twitter.com/search?q=Rafael+Vaz) | N/A |
+| 39 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
+| 40 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 41 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 42 | [Ridículas](http://twitter.com/search?q=Rid%c3%adculas) | N/A |
+| 43 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
+| 44 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 45 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
+| 46 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
 | 47 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 48 | [André Luiz](http://twitter.com/search?q=Andr%c3%a9+Luiz) | N/A |
+| 48 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
 
 
 

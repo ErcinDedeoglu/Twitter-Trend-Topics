@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-11 23:16:36 UTC`
+📆 Last Updated: `2023-03-12 00:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 4 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 5 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 6 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 7 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 8 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 9 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 11 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 12 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 13 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 14 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 15 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 16 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 17 | [#WeAre](http://twitter.com/search?q=%23WeAre) | #WeAre is a hashtag used to express solidarity and unity. It is often used to show support for a cause or group of people, or to celebrate diversity and inclusion. The phrase is often used in social media posts, slogans, and other forms of communication. |
-| 18 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 19 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 20 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 21 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 23 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 24 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
-| 25 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 26 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 28 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 29 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 30 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 31 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 32 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
-| 33 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 34 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 35 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 36 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 37 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 38 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
-| 39 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 40 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 41 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
-| 42 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 43 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 44 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 45 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 46 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 47 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 48 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 49 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
-| 50 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
+| 2 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 3 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 4 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 5 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 6 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 7 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 8 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 9 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 10 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 11 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 12 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 13 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 14 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 15 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 16 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 17 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 18 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 19 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 20 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 21 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 22 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
+| 23 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 25 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 26 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 27 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
+| 28 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
+| 29 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 30 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
+| 31 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 32 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
+| 33 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 34 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 35 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 36 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 38 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 39 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 40 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 41 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 42 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 43 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 44 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 45 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
+| 46 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 47 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 48 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 50 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
 
 
 

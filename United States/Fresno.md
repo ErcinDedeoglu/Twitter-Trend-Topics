@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-11 23:16:33 UTC`
+📆 Last Updated: `2023-03-12 00:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 2 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 3 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
-| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 5 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 6 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 7 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
-| 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 9 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 10 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 11 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 12 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 13 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 14 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 15 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 16 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 17 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 18 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 19 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 20 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 21 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 22 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 23 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 24 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 25 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 26 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 27 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 28 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 29 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 30 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
-| 31 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 32 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 33 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 34 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 35 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 36 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 37 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
-| 38 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 39 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 40 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 41 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 42 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
-| 43 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 44 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 45 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
-| 46 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 47 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 48 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 49 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 3 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 4 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 5 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 6 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
+| 7 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 8 | [#TennisParadise](http://twitter.com/search?q=%23TennisParadise) | N/A |
+| 9 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 10 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
+| 11 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 12 | [#Oscars95](http://twitter.com/search?q=%23Oscars95) | N/A |
+| 13 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 14 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 15 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 16 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 17 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 18 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 19 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 20 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 21 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 22 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
+| 23 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 24 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 25 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 26 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
+| 27 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
+| 28 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 29 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
+| 30 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 31 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
+| 32 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 33 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 34 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 35 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 36 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 38 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 39 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 40 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 41 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 43 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 44 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 45 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
+| 46 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 47 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 48 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
 
 
 

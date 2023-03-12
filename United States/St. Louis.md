@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-11 23:16:38 UTC`
+📆 Last Updated: `2023-03-12 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
-| 2 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 3 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 4 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
-| 5 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 6 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 7 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 8 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 10 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 11 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 12 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 13 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 14 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 15 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 16 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 17 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 18 | [#WeAre](http://twitter.com/search?q=%23WeAre) | #WeAre is a hashtag used to express solidarity and unity. It is often used to show support for a cause or group of people, or to celebrate diversity and inclusion. The phrase is often used in social media posts, slogans, and other forms of communication. |
-| 19 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 20 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 21 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 22 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 23 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 24 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 25 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 26 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
-| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 28 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 29 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 30 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 31 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 32 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 33 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
-| 34 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 35 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 36 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 37 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 38 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
-| 39 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 40 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 41 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
-| 42 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 43 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 44 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 45 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 46 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 47 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 48 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
-| 49 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 2 | [#Big12MBB](http://twitter.com/search?q=%23Big12MBB) | N/A |
+| 3 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 4 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 6 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 8 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 9 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 10 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 11 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 12 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 13 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 15 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 16 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 17 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
+| 18 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 19 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 20 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 21 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 22 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
+| 23 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
+| 24 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 25 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
+| 26 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 27 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
+| 28 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 29 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 30 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 31 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 32 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 34 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 35 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 36 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 37 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 38 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 39 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 40 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
+| 41 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 42 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 43 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 44 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 45 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 46 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 47 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 48 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
+| 49 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
 
 
 

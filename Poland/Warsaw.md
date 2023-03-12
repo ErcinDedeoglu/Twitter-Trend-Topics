@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-11 23:16:04 UTC`
+📆 Last Updated: `2023-03-12 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Poland](</Poland>)
 | 12 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
 | 13 | [Panie Generale](http://twitter.com/search?q=Panie+Generale) | N/A |
 | 14 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 15 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 16 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 19 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 20 | [Igi Świątek](http://twitter.com/search?q=Igi+%c5%9awi%c4%85tek) | N/A |
-| 21 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 22 | [Claire Liu](http://twitter.com/search?q=Claire+Liu) | N/A |
-| 23 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
+| 15 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 16 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 17 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
+| 18 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 19 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Claire Liu](http://twitter.com/search?q=Claire+Liu) | N/A |
+| 22 | [Świnoujściu](http://twitter.com/search?q=%c5%9awinouj%c5%9bciu) | N/A |
+| 23 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
 | 24 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 25 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 26 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
-| 27 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
-| 28 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
-| 29 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 30 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
-| 31 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
-| 32 | [Wisła Kraków](http://twitter.com/search?q=Wis%c5%82a+Krak%c3%b3w) | N/A |
-| 33 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 34 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 35 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 36 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
-| 37 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 38 | [Pinokia](http://twitter.com/search?q=Pinokia) | N/A |
-| 39 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 40 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 41 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 42 | [Gaul](http://twitter.com/search?q=Gaul) | N/A |
-| 43 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 44 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
-| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 46 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 49 | [Kazik](http://twitter.com/search?q=Kazik) | N/A |
-| 50 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 25 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
+| 26 | [Kielcach](http://twitter.com/search?q=Kielcach) | N/A |
+| 27 | [Wstydem](http://twitter.com/search?q=Wstydem) | N/A |
+| 28 | [Igi Świątek](http://twitter.com/search?q=Igi+%c5%9awi%c4%85tek) | N/A |
+| 29 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
+| 30 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 31 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
+| 32 | [Pinokia](http://twitter.com/search?q=Pinokia) | N/A |
+| 33 | [Podolski](http://twitter.com/search?q=Podolski) | N/A |
+| 34 | [Wisła Kraków](http://twitter.com/search?q=Wis%c5%82a+Krak%c3%b3w) | N/A |
+| 35 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 36 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 37 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 38 | [Gaul](http://twitter.com/search?q=Gaul) | N/A |
+| 39 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 40 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | N/A |
+| 41 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 42 | [Rokietnicy](http://twitter.com/search?q=Rokietnicy) | N/A |
+| 43 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 46 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 47 | [Kostka](http://twitter.com/search?q=Kostka) | N/A |
+| 48 | [Krym](http://twitter.com/search?q=Krym) | N/A |
+| 49 | [Pomaska](http://twitter.com/search?q=Pomaska) | N/A |
+| 50 | [Miliard](http://twitter.com/search?q=Miliard) | N/A |
 
 
 

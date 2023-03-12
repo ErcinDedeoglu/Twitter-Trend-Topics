@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-11 23:16:47 UTC`
+📆 Last Updated: `2023-03-12 00:29:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for Vietnam
 | 7 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 8 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
 | 9 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 11 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 12 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 14 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 15 | [Circle](http://twitter.com/search?q=Circle) | N/A |
@@ -38,16 +38,16 @@ This is top 50 for Vietnam
 | 21 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
 | 22 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
 | 23 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
-| 24 | [cũng](http://twitter.com/search?q=c%c5%a9ng) | N/A |
-| 25 | [Build](http://twitter.com/search?q=Build) | N/A |
-| 26 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 28 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 29 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 32 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
-| 33 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 24 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 25 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 26 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 27 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 28 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 29 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 30 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 33 | [chính](http://twitter.com/search?q=ch%c3%adnh) | N/A |
 | 34 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
 | 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 36 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Vietnam
 | 39 | [$LQTY](http://twitter.com/search?q=%24LQTY) | N/A |
 | 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 44 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 43 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 44 | [không](http://twitter.com/search?q=kh%c3%b4ng) | N/A |
 | 45 | [America](http://twitter.com/search?q=America) | N/A |
 | 46 | [thái lan](http://twitter.com/search?q=th%c3%a1i+lan) | N/A |
 | 47 | [i deadline](http://twitter.com/search?q=i+deadline) | N/A |
-| 48 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 50 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
+| 48 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 49 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 50 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 
 
 

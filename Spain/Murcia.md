@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-11 23:16:10 UTC`
+📆 Last Updated: `2023-03-12 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 3 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 4 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 5 | [Alex Calvo](http://twitter.com/search?q=Alex+Calvo) | N/A |
-| 6 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 1 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 2 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 3 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 4 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 5 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 6 | [#XplicaPensiones](http://twitter.com/search?q=%23XplicaPensiones) | N/A |
 | 7 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 8 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 9 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 8 | [Alex Calvo](http://twitter.com/search?q=Alex+Calvo) | N/A |
+| 9 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
 | 10 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 11 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 12 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 11 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 12 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
 | 13 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
 | 14 | [Pejiño](http://twitter.com/search?q=Peji%c3%b1o) | N/A |
-| 15 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 16 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 15 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
+| 16 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
 | 17 | [PIPO BARRACA](http://twitter.com/search?q=PIPO+BARRACA) | N/A |
 | 18 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 19 | [Blon](http://twitter.com/search?q=Blon) | N/A |
-| 20 | [Jagoba](http://twitter.com/search?q=Jagoba) | N/A |
-| 21 | [Fran Sol](http://twitter.com/search?q=Fran+Sol) | N/A |
-| 22 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
-| 23 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 24 | [Aimar Oroz](http://twitter.com/search?q=Aimar+Oroz) | N/A |
-| 25 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
-| 26 | [Marchena](http://twitter.com/search?q=Marchena) | N/A |
-| 27 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 28 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
-| 29 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 30 | [rojas](http://twitter.com/search?q=rojas) | N/A |
+| 19 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 20 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
+| 21 | [Jagoba](http://twitter.com/search?q=Jagoba) | N/A |
+| 22 | [Fran Sol](http://twitter.com/search?q=Fran+Sol) | N/A |
+| 23 | [Torró](http://twitter.com/search?q=Torr%c3%b3) | N/A |
+| 24 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 25 | [Blon](http://twitter.com/search?q=Blon) | N/A |
+| 26 | [rojas](http://twitter.com/search?q=rojas) | N/A |
+| 27 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 28 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 29 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
+| 30 | [Marchena](http://twitter.com/search?q=Marchena) | N/A |
 | 31 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 32 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
-| 33 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
-| 34 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
-| 35 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 36 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 37 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 38 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 39 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
-| 40 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 41 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
-| 42 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
-| 43 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 32 | [Juan Cruz](http://twitter.com/search?q=Juan+Cruz) | N/A |
+| 33 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 34 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 35 | [MeMa](http://twitter.com/search?q=MeMa) | N/A |
+| 36 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 37 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
+| 38 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
+| 39 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 40 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 41 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 42 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
+| 43 | [Kvaratskhelia](http://twitter.com/search?q=Kvaratskhelia) | Kvaratskhelia is a Georgian folk dance that originated in the region of Kvemo Kartli. It is a lively, energetic dance that is often performed in a circle. The name Kvaratskhelia translates to "circle of joy" in English. |
 
 
 

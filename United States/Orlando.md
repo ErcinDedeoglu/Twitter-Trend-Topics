@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-11 23:16:37 UTC`
+📆 Last Updated: `2023-03-12 00:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Terran1](http://twitter.com/search?q=%23Terran1) | N/A |
-| 2 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 3 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
-| 4 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 5 | [#TeamRubio](http://twitter.com/search?q=%23TeamRubio) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 8 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 9 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 10 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 11 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 12 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 13 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
-| 14 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
-| 15 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
-| 16 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
-| 17 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 18 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 19 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 20 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 21 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 22 | [Pred](http://twitter.com/search?q=Pred) | N/A |
-| 23 | [Austin Barnes](http://twitter.com/search?q=Austin+Barnes) | N/A |
-| 24 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 25 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
-| 26 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 27 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 28 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 29 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 30 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
-| 31 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
-| 32 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 33 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 34 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 35 | [Josh Fremd](http://twitter.com/search?q=Josh+Fremd) | N/A |
-| 36 | [Gravely](http://twitter.com/search?q=Gravely) | N/A |
-| 37 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 38 | [Lipski](http://twitter.com/search?q=Lipski) | N/A |
-| 39 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
-| 40 | [Victor Henry](http://twitter.com/search?q=Victor+Henry) | N/A |
-| 41 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 42 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 43 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 44 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 45 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
-| 46 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
-| 47 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 48 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
-| 49 | [Kopp](http://twitter.com/search?q=Kopp) | N/A |
+| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 2 | [#GatorNats](http://twitter.com/search?q=%23GatorNats) | N/A |
+| 3 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 4 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
+| 5 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 6 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 7 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 8 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 9 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 10 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 11 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 12 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 13 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 14 | [Petrino](http://twitter.com/search?q=Petrino) | N/A |
+| 15 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
+| 16 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 17 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 18 | [Mario Bautista](http://twitter.com/search?q=Mario+Bautista) | N/A |
+| 19 | [Turkalj](http://twitter.com/search?q=Turkalj) | N/A |
+| 20 | [Dumas](http://twitter.com/search?q=Dumas) | N/A |
+| 21 | [Ryan Truex](http://twitter.com/search?q=Ryan+Truex) | N/A |
+| 22 | [ludwig](http://twitter.com/search?q=ludwig) | N/A |
+| 23 | [Keith Peterson](http://twitter.com/search?q=Keith+Peterson) | N/A |
+| 24 | [Assuncao](http://twitter.com/search?q=Assuncao) | N/A |
+| 25 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 26 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 27 | [Tom Hoge](http://twitter.com/search?q=Tom+Hoge) | N/A |
+| 28 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 29 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 30 | [Super 17](http://twitter.com/search?q=Super+17) | N/A |
+| 31 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 32 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 33 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 34 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 35 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 36 | [Brandon Jones](http://twitter.com/search?q=Brandon+Jones) | N/A |
+| 37 | [Jordin Sparks](http://twitter.com/search?q=Jordin+Sparks) | N/A |
+| 38 | [Ackman](http://twitter.com/search?q=Ackman) | N/A |
+| 39 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 40 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 41 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 42 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 43 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 44 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 45 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
+| 46 | [Moxxie](http://twitter.com/search?q=Moxxie) | N/A |
+| 47 | [Sheldon Creed](http://twitter.com/search?q=Sheldon+Creed) | N/A |
+| 48 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 49 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
 
 
 

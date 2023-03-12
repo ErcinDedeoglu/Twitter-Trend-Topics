@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-11 23:16:41 UTC`
+📆 Last Updated: `2023-03-12 00:29:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Denmark
 | 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 4 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 5 | [Mette](http://twitter.com/search?q=Mette) | N/A |
-| 6 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 7 | [lars boje](http://twitter.com/search?q=lars+boje) | N/A |
-| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 7 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 8 | [lars boje](http://twitter.com/search?q=lars+boje) | N/A |
 | 9 | [SKAT](http://twitter.com/search?q=SKAT) | N/A |
 | 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 11 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
@@ -32,24 +32,24 @@ This is top 50 for Denmark
 | 15 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
 | 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 18 | [America](http://twitter.com/search?q=America) | N/A |
+| 18 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
 | 19 | [Saudi Arabien](http://twitter.com/search?q=Saudi+Arabien) | N/A |
-| 20 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 20 | [America](http://twitter.com/search?q=America) | N/A |
 | 21 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 24 | [vejle](http://twitter.com/search?q=vejle) | N/A |
-| 25 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 26 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
-| 27 | [nye borgerliges](http://twitter.com/search?q=nye+borgerliges) | N/A |
-| 28 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 22 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 23 | [vejle](http://twitter.com/search?q=vejle) | N/A |
+| 24 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 25 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
+| 26 | [nye borgerliges](http://twitter.com/search?q=nye+borgerliges) | N/A |
+| 27 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 29 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 31 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 32 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 34 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 30 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 31 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
+| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 35 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 36 | [Estland](http://twitter.com/search?q=Estland) | N/A |
 | 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |

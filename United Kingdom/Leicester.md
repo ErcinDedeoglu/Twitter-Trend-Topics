@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-11 23:15:54 UTC`
+📆 Last Updated: `2023-03-12 00:28:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CRYMCI](http://twitter.com/search?q=%23CRYMCI) | N/A |
-| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 3 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 4 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 1 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
+| 2 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
+| 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 4 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
 | 5 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 6 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 7 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 8 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
-| 9 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 10 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 11 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 12 | [Danneel](http://twitter.com/search?q=Danneel) | N/A |
-| 13 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 14 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
-| 15 | [#bwfc](http://twitter.com/search?q=%23bwfc) | N/A |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 18 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
-| 19 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
-| 20 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 21 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 22 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 23 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 24 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 25 | [Dan Azeez](http://twitter.com/search?q=Dan+Azeez) | N/A |
-| 26 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 27 | [Premier League Highlights](http://twitter.com/search?q=Premier+League+Highlights) | N/A |
-| 28 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
-| 29 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 30 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
-| 31 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 32 | [Sully](http://twitter.com/search?q=Sully) | N/A |
-| 33 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
-| 34 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
-| 35 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 36 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 37 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 38 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 39 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 40 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 41 | [Ian Stirling](http://twitter.com/search?q=Ian+Stirling) | N/A |
-| 42 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 43 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
-| 44 | [England](http://twitter.com/search?q=England) | N/A |
-| 45 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 46 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 47 | [Top Buzz](http://twitter.com/search?q=Top+Buzz) | N/A |
-| 48 | [Jonathan Ross](http://twitter.com/search?q=Jonathan+Ross) | N/A |
-| 49 | [McNally](http://twitter.com/search?q=McNally) | N/A |
-| 50 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 6 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 7 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 8 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 9 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 10 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 11 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
+| 12 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 13 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 14 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
+| 15 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 16 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 17 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 18 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 19 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 20 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 21 | [Sully](http://twitter.com/search?q=Sully) | N/A |
+| 22 | [Dan Azeez](http://twitter.com/search?q=Dan+Azeez) | N/A |
+| 23 | [Premier League Highlights](http://twitter.com/search?q=Premier+League+Highlights) | N/A |
+| 24 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 25 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
+| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 27 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 28 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 29 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 30 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 31 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 32 | [Aaron Rai](http://twitter.com/search?q=Aaron+Rai) | N/A |
+| 33 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 34 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 35 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 36 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 37 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
+| 38 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 39 | [Ian Stirling](http://twitter.com/search?q=Ian+Stirling) | N/A |
+| 40 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 41 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 42 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 43 | [England](http://twitter.com/search?q=England) | N/A |
+| 44 | [Jonathan Ross](http://twitter.com/search?q=Jonathan+Ross) | N/A |
+| 45 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 46 | [Andy Serkis](http://twitter.com/search?q=Andy+Serkis) | N/A |
+| 47 | [McNally](http://twitter.com/search?q=McNally) | N/A |
+| 48 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 49 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 50 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
 
 
 
