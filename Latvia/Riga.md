@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-12 02:40:48 UTC`
+📆 Last Updated: `2023-03-12 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 2 | [kozins](http://twitter.com/search?q=kozins) | N/A |
 | 3 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
 | 4 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 5 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 5 | [labs](http://twitter.com/search?q=labs) | N/A |
 | 6 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 7 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 8 | [karlsons](http://twitter.com/search?q=karlsons) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 27 | [ceru](http://twitter.com/search?q=ceru) | N/A |
 | 28 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 29 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 29 | [riga](http://twitter.com/search?q=riga) | N/A |
 | 30 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 31 | [tikko](http://twitter.com/search?q=tikko) | N/A |
 | 32 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 46 | [latgales](http://twitter.com/search?q=latgales) | N/A |
 | 47 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 48 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 49 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
+| 49 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
 
 
 

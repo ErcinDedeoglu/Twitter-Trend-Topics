@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-12 02:41:30 UTC`
+📆 Last Updated: `2023-03-12 03:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Philippines
 | 6 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 7 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
 | 8 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 10 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
-| 11 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 12 | [Malinis](http://twitter.com/search?q=Malinis) | N/A |
-| 13 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 15 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 16 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 17 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 18 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 19 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
-| 20 | [stell hinahamon kita](http://twitter.com/search?q=stell+hinahamon+kita) | N/A |
-| 21 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 22 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
-| 23 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 24 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 25 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 26 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
-| 27 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 28 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 29 | [ALDENWelcome BacktoEB](http://twitter.com/search?q=ALDENWelcome+BacktoEB) | N/A |
-| 30 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
-| 31 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 32 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 33 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
-| 34 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 35 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 36 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
-| 37 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 38 | [smile flower](http://twitter.com/search?q=smile+flower) | N/A |
-| 39 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
-| 40 | [Baguio City Public Market](http://twitter.com/search?q=Baguio+City+Public+Market) | N/A |
-| 41 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 42 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 43 | [tcoback ang robxine](http://twitter.com/search?q=tcoback+ang+robxine) | N/A |
-| 44 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 45 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 46 | [KAI ROVER IS COMING](http://twitter.com/search?q=KAI+ROVER+IS+COMING) | N/A |
-| 47 | [8 Carly Rae Jepsen](http://twitter.com/search?q=8+Carly+Rae+Jepsen) | N/A |
-| 48 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 49 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 50 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
+| 9 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
+| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 11 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
+| 12 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 13 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
+| 14 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 15 | [ASAP SOULDIVA COMEBACK](http://twitter.com/search?q=ASAP+SOULDIVA+COMEBACK) | N/A |
+| 16 | [TheaAstley AOSomeBDay](http://twitter.com/search?q=TheaAstley+AOSomeBDay) | N/A |
+| 17 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
+| 18 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 19 | [MARSOloistMAYMAY OnASAP](http://twitter.com/search?q=MARSOloistMAYMAY+OnASAP) | N/A |
+| 20 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 22 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 23 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
+| 24 | [Malinis](http://twitter.com/search?q=Malinis) | N/A |
+| 25 | [Almendras](http://twitter.com/search?q=Almendras) | N/A |
+| 26 | [UNSTOPPABLE REIVEN UMALI](http://twitter.com/search?q=UNSTOPPABLE+REIVEN+UMALI) | N/A |
+| 27 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 28 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 29 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
+| 30 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 31 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 32 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 33 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 34 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
+| 35 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
+| 36 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 37 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 38 | [ALDENWelcome BacktoEB](http://twitter.com/search?q=ALDENWelcome+BacktoEB) | N/A |
+| 39 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
+| 40 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 41 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 42 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 43 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 44 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
+| 45 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
+| 46 | [smile flower](http://twitter.com/search?q=smile+flower) | N/A |
+| 47 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 48 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
+| 49 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
+| 50 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
 
 
 

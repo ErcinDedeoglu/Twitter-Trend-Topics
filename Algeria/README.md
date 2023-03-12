@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-12 02:41:23 UTC`
+📆 Last Updated: `2023-03-12 03:18:37 UTC`
 
 🔧 Updated every 1 hour!
 

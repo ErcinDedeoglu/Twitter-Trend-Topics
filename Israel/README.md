@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-12 02:41:26 UTC`
+📆 Last Updated: `2023-03-12 03:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Israel
 | 9 | [ניר ביטון](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
 | 10 | [בין סעודיה](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
 | 11 | [עם איראן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
-| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 12 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 14 | [של וואלה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%95%d7%95%d7%90%d7%9c%d7%94) | N/A |
 | 15 | [היא ציטטה](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a6%d7%99%d7%98%d7%98%d7%94) | N/A |
-| 16 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 17 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 18 | [תום ליבנה](http://twitter.com/search?q=%d7%aa%d7%95%d7%9d+%d7%9c%d7%99%d7%91%d7%a0%d7%94) | N/A |
-| 19 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
-| 20 | [עידן עמדי](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
-| 21 | [מילה שלי](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%94+%d7%a9%d7%9c%d7%99) | N/A |
-| 22 | [צומת כרכור](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%9b%d7%a8%d7%9b%d7%95%d7%a8) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [יובל נוח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%95%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
-| 25 | [מיליארד יורו](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%90%d7%a8%d7%93+%d7%99%d7%95%d7%a8%d7%95) | N/A |
-| 26 | [נגד ההתנתקות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
-| 27 | [יונתן כהן](http://twitter.com/search?q=%d7%99%d7%95%d7%a0%d7%aa%d7%9f+%d7%9b%d7%94%d7%9f) | N/A |
-| 28 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
-| 29 | [אורי משגב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%9e%d7%a9%d7%92%d7%91) | N/A |
-| 30 | [הפועל חיפה](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [מאמר מערכת](http://twitter.com/search?q=%d7%9e%d7%90%d7%9e%d7%a8+%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa) | N/A |
-| 33 | [יום יפה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%99%d7%a4%d7%94) | N/A |
-| 34 | [בית״ר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa%d7%b4%d7%a8) | N/A |
-| 35 | [עינת גז](http://twitter.com/search?q=%d7%a2%d7%99%d7%a0%d7%aa+%d7%92%d7%96) | N/A |
-| 36 | [איילון צפון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%a6%d7%a4%d7%95%d7%9f) | N/A |
-| 37 | [בן ברק](http://twitter.com/search?q=%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
-| 38 | [ניצב אשד](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%90%d7%a9%d7%93) | N/A |
-| 39 | [עם נצרה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a0%d7%a6%d7%a8%d7%94) | N/A |
-| 40 | [מפקד מחוז](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96) | N/A |
-| 41 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 42 | [דיקטטורה בטוחה](http://twitter.com/search?q=%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94+%d7%91%d7%98%d7%95%d7%97%d7%94) | N/A |
-| 43 | [סיליקון ואלי](http://twitter.com/search?q=%d7%a1%d7%99%d7%9c%d7%99%d7%a7%d7%95%d7%9f+%d7%95%d7%90%d7%9c%d7%99) | N/A |
-| 44 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 45 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 46 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
-| 47 | [חברות ישראליות](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%95%d7%aa) | N/A |
-| 48 | [אמיר גולדשטיין](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%93%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 49 | [של סעודיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
-| 50 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 16 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 17 | [תום ליבנה](http://twitter.com/search?q=%d7%aa%d7%95%d7%9d+%d7%9c%d7%99%d7%91%d7%a0%d7%94) | N/A |
+| 18 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
+| 19 | [עידן עמדי](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%a2%d7%9e%d7%93%d7%99) | N/A |
+| 20 | [מילה שלי](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%94+%d7%a9%d7%9c%d7%99) | N/A |
+| 21 | [צומת כרכור](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%9b%d7%a8%d7%9b%d7%95%d7%a8) | N/A |
+| 22 | [יובל נוח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%95%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
+| 23 | [מיליארד יורו](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%90%d7%a8%d7%93+%d7%99%d7%95%d7%a8%d7%95) | N/A |
+| 24 | [נגד ההתנתקות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 25 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 26 | [יונתן כהן](http://twitter.com/search?q=%d7%99%d7%95%d7%a0%d7%aa%d7%9f+%d7%9b%d7%94%d7%9f) | N/A |
+| 27 | [בין איראן](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%99%d7%a8%d7%90%d7%9f) | N/A |
+| 28 | [הפועל חיפה](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [מאמר מערכת](http://twitter.com/search?q=%d7%9e%d7%90%d7%9e%d7%a8+%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa) | N/A |
+| 31 | [יום יפה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%99%d7%a4%d7%94) | N/A |
+| 32 | [בית״ר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa%d7%b4%d7%a8) | N/A |
+| 33 | [עינת גז](http://twitter.com/search?q=%d7%a2%d7%99%d7%a0%d7%aa+%d7%92%d7%96) | N/A |
+| 34 | [איילון צפון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%a6%d7%a4%d7%95%d7%9f) | N/A |
+| 35 | [בן ברק](http://twitter.com/search?q=%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
+| 36 | [עם נצרה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a0%d7%a6%d7%a8%d7%94) | N/A |
+| 37 | [מפקד מחוז](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96) | N/A |
+| 38 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 39 | [דיקטטורה בטוחה](http://twitter.com/search?q=%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94+%d7%91%d7%98%d7%95%d7%97%d7%94) | N/A |
+| 40 | [סיליקון ואלי](http://twitter.com/search?q=%d7%a1%d7%99%d7%9c%d7%99%d7%a7%d7%95%d7%9f+%d7%95%d7%90%d7%9c%d7%99) | N/A |
+| 41 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 42 | [אורי משגב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%9e%d7%a9%d7%92%d7%91) | N/A |
+| 43 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 44 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
+| 45 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 46 | [חברות ישראליות](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%95%d7%aa) | N/A |
+| 47 | [אמיר גולדשטיין](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%93%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 48 | [של סעודיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%94) | N/A |
+| 49 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 50 | [נועה תשבי](http://twitter.com/search?q=%d7%a0%d7%95%d7%a2%d7%94+%d7%aa%d7%a9%d7%91%d7%99) | N/A |
 
 
 

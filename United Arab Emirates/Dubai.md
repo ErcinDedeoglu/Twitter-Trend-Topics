@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-12 02:41:03 UTC`
+📆 Last Updated: `2023-03-12 03:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 6 | [#الوصل_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b5%d9%84_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
 | 7 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 8 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 9 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 8 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 9 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 11 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 12 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
@@ -34,9 +34,9 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 17 | [حسن حمزه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ad%d9%85%d8%b2%d9%87) | N/A |
 | 18 | [حسن ابراهيم](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 19 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 22 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 20 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 21 | [الشامسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
+| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 23 | [علي التعادل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
 | 24 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
 | 25 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 37 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
 | 38 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
 | 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 40 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 40 | [Usman khan](http://twitter.com/search?q=Usman+khan) | N/A |
 | 41 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
 | 42 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 43 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |

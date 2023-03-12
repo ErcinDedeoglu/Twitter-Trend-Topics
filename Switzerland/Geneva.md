@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-12 02:40:47 UTC`
+📆 Last Updated: `2023-03-12 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,19 +50,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 34 | [Talent](http://twitter.com/search?q=Talent) | N/A |
 | 35 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 36 | [zusammenarbeit](http://twitter.com/search?q=zusammenarbeit) | N/A |
+| 36 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
 | 37 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
 | 38 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
 | 39 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 40 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 41 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
-| 42 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 43 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 44 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
-| 45 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 47 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 48 | [Patient](http://twitter.com/search?q=Patient) | N/A |
+| 40 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
+| 41 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 42 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 43 | [Lebensmittel](http://twitter.com/search?q=Lebensmittel) | N/A |
+| 44 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 47 | [Patient](http://twitter.com/search?q=Patient) | N/A |
+| 48 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-03-12 02:41:16 UTC`
+📆 Last Updated: `2023-03-12 03:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 1 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
 | 2 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 3 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 6 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 7 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 8 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 9 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 10 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 11 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 12 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 13 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 14 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 15 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 17 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 18 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 19 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 20 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 21 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 23 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 24 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 25 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
-| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 27 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 28 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 30 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 31 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 32 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 33 | [Spann](http://twitter.com/search?q=Spann) | N/A |
-| 34 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 35 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 36 | [O'Malley](http://twitter.com/search?q=O%27Malley) | N/A |
-| 37 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 38 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
-| 39 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
-| 40 | [Paxton Lynch](http://twitter.com/search?q=Paxton+Lynch) | N/A |
-| 41 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 42 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
-| 43 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
-| 44 | [Cale Makar](http://twitter.com/search?q=Cale+Makar) | N/A |
-| 45 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 46 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 47 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 5 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 6 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 7 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 8 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 9 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 10 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 11 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 12 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 13 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 14 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 15 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 16 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 17 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 18 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 19 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 20 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 21 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 22 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 23 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 24 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 25 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 26 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 27 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 28 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 29 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
+| 30 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 31 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 32 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 33 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 34 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 35 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 36 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 37 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 38 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 39 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 40 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 41 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 42 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 43 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 44 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 45 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 46 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 47 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
 
 
 

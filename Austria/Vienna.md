@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-12 02:40:40 UTC`
+📆 Last Updated: `2023-03-12 03:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,7 +40,7 @@ This is top 50 for [Austria](</Austria>)
 | 23 | [Bankomaten](http://twitter.com/search?q=Bankomaten) | N/A |
 | 24 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 25 | [innenminister](http://twitter.com/search?q=innenminister) | N/A |
-| 26 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 26 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
 | 27 | [Kilometer](http://twitter.com/search?q=Kilometer) | N/A |
 | 28 | [verbrennungsmotor](http://twitter.com/search?q=verbrennungsmotor) | N/A |
 | 29 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
@@ -48,12 +48,12 @@ This is top 50 for [Austria](</Austria>)
 | 31 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 32 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
 | 33 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 34 | [programmieren](http://twitter.com/search?q=programmieren) | N/A |
+| 34 | [Programmieren](http://twitter.com/search?q=Programmieren) | N/A |
 | 35 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
 | 36 | [Meister](http://twitter.com/search?q=Meister) | N/A |
 | 37 | [futtertrog](http://twitter.com/search?q=futtertrog) | N/A |
 | 38 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 39 | [Meeresspiegel](http://twitter.com/search?q=Meeresspiegel) | N/A |
+| 39 | [meeresspiegel](http://twitter.com/search?q=meeresspiegel) | N/A |
 | 40 | [Nachteil](http://twitter.com/search?q=Nachteil) | N/A |
 | 41 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
 | 42 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |

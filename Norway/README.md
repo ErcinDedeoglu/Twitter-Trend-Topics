@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-12 02:41:29 UTC`
+📆 Last Updated: `2023-03-12 03:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for Norway
 | 16 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 17 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
 | 18 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 19 | [Tøyen](http://twitter.com/search?q=T%c3%b8yen) | N/A |
+| 19 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
 | 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 21 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
 | 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for Norway
 | 26 | [#GW27](http://twitter.com/search?q=%23GW27) | N/A |
 | 27 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
 | 28 | [noreg](http://twitter.com/search?q=noreg) | N/A |
-| 29 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 29 | [hovland](http://twitter.com/search?q=hovland) | N/A |
 | 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 32 | [Smart](http://twitter.com/search?q=Smart) | N/A |

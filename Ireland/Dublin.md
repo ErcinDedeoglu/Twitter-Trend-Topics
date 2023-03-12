@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-12 02:40:40 UTC`
+📆 Last Updated: `2023-03-12 03:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 3 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
 | 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#tommytiernanshow](http://twitter.com/search?q=%23tommytiernanshow) | N/A |
-| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 5 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 6 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
 | 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 9 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 10 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 11 | [England](http://twitter.com/search?q=England) | N/A |
 | 12 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
@@ -40,31 +40,31 @@ This is top 50 for [Ireland](</Ireland>)
 | 23 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
 | 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 25 | [United 7-0](http://twitter.com/search?q=United+7-0) | N/A |
-| 26 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 27 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
-| 28 | [Jake Morris](http://twitter.com/search?q=Jake+Morris) | N/A |
-| 29 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 30 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 33 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 34 | [Richie Sadlier](http://twitter.com/search?q=Richie+Sadlier) | N/A |
-| 35 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 37 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 38 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 39 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 40 | [Sligo Rovers](http://twitter.com/search?q=Sligo+Rovers) | N/A |
-| 41 | [John Boyne](http://twitter.com/search?q=John+Boyne) | N/A |
-| 42 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 43 | [hendo](http://twitter.com/search?q=hendo) | N/A |
-| 44 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 26 | [David Attenborough](http://twitter.com/search?q=David+Attenborough) | N/A |
+| 27 | [Jake Morris](http://twitter.com/search?q=Jake+Morris) | N/A |
+| 28 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 29 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 31 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 32 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 33 | [Richie Sadlier](http://twitter.com/search?q=Richie+Sadlier) | N/A |
+| 34 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 35 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 36 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 37 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 39 | [Sligo Rovers](http://twitter.com/search?q=Sligo+Rovers) | N/A |
+| 40 | [John Boyne](http://twitter.com/search?q=John+Boyne) | N/A |
+| 41 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 42 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 43 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 44 | [TINA](http://twitter.com/search?q=TINA) | N/A |
 | 45 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
 | 46 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
 | 47 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
 | 48 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 49 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 50 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 49 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 50 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
 
 
 

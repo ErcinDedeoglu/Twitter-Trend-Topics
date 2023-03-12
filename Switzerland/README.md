@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-12 02:41:31 UTC`
+📆 Last Updated: `2023-03-12 03:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,11 +52,11 @@ This is top 50 for Switzerland
 | 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 36 | [Talent](http://twitter.com/search?q=Talent) | N/A |
 | 37 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 38 | [zusammenarbeit](http://twitter.com/search?q=zusammenarbeit) | N/A |
-| 39 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 40 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
-| 41 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 42 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 38 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 39 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
+| 40 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 41 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
+| 42 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
 | 43 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
 | 44 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
 | 45 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |

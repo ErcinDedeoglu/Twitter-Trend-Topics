@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-12 02:40:46 UTC`
+📆 Last Updated: `2023-03-12 03:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 4 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
 | 5 | [#spavit](http://twitter.com/search?q=%23spavit) | N/A |
 | 6 | [#fortwe](http://twitter.com/search?q=%23fortwe) | N/A |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 8 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 7 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 9 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
 | 10 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 11 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 12 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 13 | [TINA](http://twitter.com/search?q=TINA) | N/A |
 | 14 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
 | 15 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 16 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
-| 17 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 18 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 19 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 16 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 17 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 18 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 19 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 21 | [marijn](http://twitter.com/search?q=marijn) | N/A |
 | 22 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
 | 23 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
 | 24 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
 | 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 26 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 27 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
-| 28 | [wittek](http://twitter.com/search?q=wittek) | N/A |
-| 29 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 30 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 31 | [Joost Eerdmans](http://twitter.com/search?q=Joost+Eerdmans) | N/A |
-| 32 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
-| 33 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 34 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
-| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 36 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 37 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
-| 38 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 39 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 40 | [Utrechtsebaan](http://twitter.com/search?q=Utrechtsebaan) | N/A |
-| 41 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 42 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
-| 43 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
-| 44 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 45 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
-| 46 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 26 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 27 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 28 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
+| 29 | [wittek](http://twitter.com/search?q=wittek) | N/A |
+| 30 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
+| 31 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 32 | [joost eerdmans](http://twitter.com/search?q=joost+eerdmans) | N/A |
+| 33 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
+| 34 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
+| 35 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
+| 36 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 37 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 38 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 39 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 40 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 41 | [utrechtsebaan](http://twitter.com/search?q=utrechtsebaan) | N/A |
+| 42 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 43 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 44 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 45 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 46 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
+| 47 | [Circle](http://twitter.com/search?q=Circle) | N/A |
 | 48 | [Mores](http://twitter.com/search?q=Mores) | N/A |
 | 49 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
 | 50 | [Met D66](http://twitter.com/search?q=Met+D66) | N/A |

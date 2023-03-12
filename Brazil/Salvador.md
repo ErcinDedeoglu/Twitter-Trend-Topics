@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-12 02:40:37 UTC`
+📆 Last Updated: `2023-03-12 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
 | 2 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
 | 3 | [Itabuna](http://twitter.com/search?q=Itabuna) | N/A |
-| 4 | [O Bahia](http://twitter.com/search?q=O+Bahia) | N/A |
-| 5 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 6 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 4 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 5 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 6 | [Lua de Cristal](http://twitter.com/search?q=Lua+de+Cristal) | N/A |
 | 7 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
 | 8 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
 | 9 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 10 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 11 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 10 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 11 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
 | 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 13 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
-| 14 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 15 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 16 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 17 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 18 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 19 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 20 | [Melhor Sozinha](http://twitter.com/search?q=Melhor+Sozinha) | N/A |
-| 21 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 22 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 13 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 14 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 15 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
+| 16 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 17 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 18 | [Melhor Sozinha](http://twitter.com/search?q=Melhor+Sozinha) | N/A |
+| 19 | [Penhasco](http://twitter.com/search?q=Penhasco) | N/A |
+| 20 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
+| 21 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 22 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 23 | [20x12](http://twitter.com/search?q=20x12) | N/A |
-| 24 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
-| 25 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 26 | [#PaulistaoNoYoutube](http://twitter.com/search?q=%23PaulistaoNoYoutube) | N/A |
-| 27 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 28 | [Engov](http://twitter.com/search?q=Engov) | N/A |
-| 29 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 30 | [Adenizia](http://twitter.com/search?q=Adenizia) | N/A |
-| 31 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 32 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 33 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 34 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 35 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 36 | [Douglas Souza](http://twitter.com/search?q=Douglas+Souza) | N/A |
-| 37 | [Tidinha](http://twitter.com/search?q=Tidinha) | N/A |
-| 38 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 39 | [Benja](http://twitter.com/search?q=Benja) | N/A |
-| 40 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 41 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 42 | [Pudim](http://twitter.com/search?q=Pudim) | N/A |
-| 43 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 44 | [Cascavel](http://twitter.com/search?q=Cascavel) | N/A |
-| 45 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 24 | [Tidinha](http://twitter.com/search?q=Tidinha) | N/A |
+| 25 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 26 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 27 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 29 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 30 | [Engov](http://twitter.com/search?q=Engov) | N/A |
+| 31 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 32 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
+| 33 | [Adenizia](http://twitter.com/search?q=Adenizia) | N/A |
+| 34 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
+| 35 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
+| 36 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
+| 37 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 38 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 39 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 40 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 41 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 42 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 43 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 44 | [Pudim](http://twitter.com/search?q=Pudim) | N/A |
+| 45 | [Douglas Souza](http://twitter.com/search?q=Douglas+Souza) | N/A |
 | 46 | [Ridículas](http://twitter.com/search?q=Rid%c3%adculas) | N/A |
-| 47 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 48 | [Creusa](http://twitter.com/search?q=Creusa) | N/A |
-| 49 | [Varmeiras](http://twitter.com/search?q=Varmeiras) | N/A |
-| 50 | [Antônio Oliveira](http://twitter.com/search?q=Ant%c3%b4nio+Oliveira) | N/A |
+| 47 | [Benja](http://twitter.com/search?q=Benja) | N/A |
+| 48 | [Wanessa](http://twitter.com/search?q=Wanessa) | N/A |
+| 49 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 50 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
 
 
 

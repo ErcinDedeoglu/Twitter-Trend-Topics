@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-12 02:40:59 UTC`
+📆 Last Updated: `2023-03-12 03:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
-| 4 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 4 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
 | 5 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
-| 6 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
-| 7 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 8 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 9 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
+| 6 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 7 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 8 | [#TwoYearsWithR](http://twitter.com/search?q=%23TwoYearsWithR) | N/A |
+| 9 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 11 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 12 | [Circle](http://twitter.com/search?q=Circle) | N/A |
@@ -33,37 +33,37 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
 | 17 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
 | 18 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
-| 19 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 20 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 21 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 22 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 25 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
-| 26 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 27 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 19 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 20 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
+| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 22 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 23 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 24 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
+| 25 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 26 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
 | 28 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
 | 29 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 30 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 31 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 32 | [Lqty](http://twitter.com/search?q=Lqty) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 31 | [Lqty](http://twitter.com/search?q=Lqty) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
 | 34 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 35 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 36 | [Welp](http://twitter.com/search?q=Welp) | N/A |
 | 37 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
 | 38 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
 | 39 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
 | 40 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 41 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 42 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 43 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 46 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 47 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 49 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 41 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 42 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 43 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 44 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
+| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 46 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 47 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 50 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 
 

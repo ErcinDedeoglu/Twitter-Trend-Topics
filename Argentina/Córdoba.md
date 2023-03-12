@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-12 02:40:38 UTC`
+📆 Last Updated: `2023-03-12 03:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
 | 2 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 3 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 4 | [Blando](http://twitter.com/search?q=Blando) | N/A |
+| 3 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 4 | [Kami](http://twitter.com/search?q=Kami) | N/A |
 | 5 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
-| 6 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 7 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 8 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 9 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
-| 10 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 11 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 12 | [Colidio](http://twitter.com/search?q=Colidio) | N/A |
-| 13 | [Orozco](http://twitter.com/search?q=Orozco) | N/A |
-| 14 | [#LucheYVuelve](http://twitter.com/search?q=%23LucheYVuelve) | N/A |
-| 15 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 16 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
-| 17 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
-| 18 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 19 | [Abal](http://twitter.com/search?q=Abal) | N/A |
-| 20 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 21 | [Boggio](http://twitter.com/search?q=Boggio) | N/A |
-| 22 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 23 | [Defensa](http://twitter.com/search?q=Defensa) | N/A |
-| 24 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 25 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 26 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
-| 27 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 28 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
-| 29 | [Plenario de la Militancia](http://twitter.com/search?q=Plenario+de+la+Militancia) | N/A |
-| 30 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 31 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
-| 32 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 33 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 34 | [Fassi](http://twitter.com/search?q=Fassi) | N/A |
-| 35 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 36 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 37 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
-| 38 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 39 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 40 | [Merlos](http://twitter.com/search?q=Merlos) | N/A |
-| 41 | [Gandolfi](http://twitter.com/search?q=Gandolfi) | N/A |
+| 6 | [Blando](http://twitter.com/search?q=Blando) | N/A |
+| 7 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 8 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
+| 9 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 10 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
+| 11 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 12 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 14 | [Orozco](http://twitter.com/search?q=Orozco) | N/A |
+| 15 | [Marinelli](http://twitter.com/search?q=Marinelli) | N/A |
+| 16 | [Colidio](http://twitter.com/search?q=Colidio) | N/A |
+| 17 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
+| 18 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 19 | [Molinas](http://twitter.com/search?q=Molinas) | Molinas is a Spanish surname. It is derived from the Latin word "molinus," which means "mill." The name likely originated as an occupational surname for someone who worked in or owned a mill. |
+| 20 | [Boggio](http://twitter.com/search?q=Boggio) | N/A |
+| 21 | [#LucheYVuelve](http://twitter.com/search?q=%23LucheYVuelve) | N/A |
+| 22 | [Zabala](http://twitter.com/search?q=Zabala) | N/A |
+| 23 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
+| 24 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
+| 25 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 26 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
+| 27 | [Plenario de la Militancia](http://twitter.com/search?q=Plenario+de+la+Militancia) | N/A |
+| 28 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 29 | [Garro](http://twitter.com/search?q=Garro) | N/A |
+| 30 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 31 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 32 | [Defensa](http://twitter.com/search?q=Defensa) | N/A |
+| 33 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
+| 34 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 35 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
+| 36 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
+| 37 | [Fassi](http://twitter.com/search?q=Fassi) | N/A |
+| 38 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 39 | [Gandolfi](http://twitter.com/search?q=Gandolfi) | N/A |
+| 40 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
+| 41 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 42 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
-| 43 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 44 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
-| 45 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 46 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 47 | [#TorneoBinance](http://twitter.com/search?q=%23TorneoBinance) | N/A |
-| 48 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 43 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 44 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 45 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 46 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 47 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 48 | [#TorneoBinance](http://twitter.com/search?q=%23TorneoBinance) | N/A |
 | 49 | [Fernet](http://twitter.com/search?q=Fernet) | N/A |
-| 50 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 50 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-12 02:40:48 UTC`
+📆 Last Updated: `2023-03-12 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 2 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 2 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
 | 3 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
 | 4 | [#Mello](http://twitter.com/search?q=%23Mello) | N/A |
 | 5 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
@@ -35,26 +35,26 @@ This is top 50 for [Sweden](</Sweden>)
 | 18 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
 | 19 | [khazeni](http://twitter.com/search?q=khazeni) | N/A |
 | 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 21 | [Enskild](http://twitter.com/search?q=Enskild) | N/A |
+| 21 | [enskild](http://twitter.com/search?q=enskild) | N/A |
 | 22 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 23 | [Tone](http://twitter.com/search?q=Tone) | N/A |
 | 24 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
 | 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 26 | [jon henrik](http://twitter.com/search?q=jon+henrik) | N/A |
 | 27 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 28 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
-| 29 | [Farah](http://twitter.com/search?q=Farah) | N/A |
-| 30 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 33 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
-| 34 | [komarek](http://twitter.com/search?q=komarek) | N/A |
-| 35 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 28 | [Farah](http://twitter.com/search?q=Farah) | N/A |
+| 29 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
+| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 31 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
+| 32 | [Euphoria](http://twitter.com/search?q=Euphoria) | N/A |
+| 33 | [komarek](http://twitter.com/search?q=komarek) | N/A |
+| 34 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 35 | [Tattoo](http://twitter.com/search?q=Tattoo) | N/A |
 | 36 | [Elstödet](http://twitter.com/search?q=Elst%c3%b6det) | N/A |
 | 37 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 38 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 39 | [Bönder](http://twitter.com/search?q=B%c3%b6nder) | N/A |
-| 40 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
+| 39 | [bönder](http://twitter.com/search?q=b%c3%b6nder) | N/A |
+| 40 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
 | 41 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
 | 42 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 43 | [engsund](http://twitter.com/search?q=engsund) | N/A |

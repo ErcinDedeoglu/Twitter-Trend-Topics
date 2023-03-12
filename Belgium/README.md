@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-12 02:41:24 UTC`
+📆 Last Updated: `2023-03-12 03:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,15 +35,15 @@ This is top 50 for Belgium
 | 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 19 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 20 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 21 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 22 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 23 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
-| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 26 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
-| 27 | [bart maddens](http://twitter.com/search?q=bart+maddens) | N/A |
+| 21 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 22 | [Holodomor](http://twitter.com/search?q=Holodomor) | N/A |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 26 | [bart maddens](http://twitter.com/search?q=bart+maddens) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 28 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 29 | [25 MW](http://twitter.com/search?q=25+MW) | N/A |
+| 29 | [25 mw](http://twitter.com/search?q=25+mw) | N/A |
 | 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 31 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 32 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
@@ -59,11 +59,11 @@ This is top 50 for Belgium
 | 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 43 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
 | 44 | [Philippot](http://twitter.com/search?q=Philippot) | N/A |
-| 45 | [Defensie](http://twitter.com/search?q=Defensie) | N/A |
+| 45 | [defensie](http://twitter.com/search?q=defensie) | N/A |
 | 46 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 47 | [remco](http://twitter.com/search?q=remco) | N/A |
 | 48 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 49 | [Isolde](http://twitter.com/search?q=Isolde) | N/A |
+| 49 | [isolde](http://twitter.com/search?q=isolde) | N/A |
 | 50 | [parijs-nice](http://twitter.com/search?q=parijs-nice) | N/A |
 
 

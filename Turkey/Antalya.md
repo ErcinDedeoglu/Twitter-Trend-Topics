@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-12 02:41:11 UTC`
+📆 Last Updated: `2023-03-12 03:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 2 | [Vecihi Geliyor](http://twitter.com/search?q=Vecihi+Geliyor) | N/A |
-| 3 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 4 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 5 | [#adana](http://twitter.com/search?q=%23adana) | N/A |
-| 6 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
-| 7 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
-| 8 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 9 | [HÜDA-PAR](http://twitter.com/search?q=H%c3%9cDA-PAR) | N/A |
-| 10 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 11 | [recep tayyip erdoğan kazanacak](http://twitter.com/search?q=recep+tayyip+erdo%c4%9fan+kazanacak) | N/A |
-| 12 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 13 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
-| 14 | [Mehmet Ali Çelebi](http://twitter.com/search?q=Mehmet+Ali+%c3%87elebi) | N/A |
-| 15 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 16 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 17 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 18 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 19 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
-| 20 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
-| 21 | [#TürkiyedeOldu](http://twitter.com/search?q=%23T%c3%bcrkiyedeOldu) | N/A |
-| 22 | [#YanındayızAliKoç](http://twitter.com/search?q=%23Yan%c4%b1nday%c4%b1zAliKo%c3%a7) | N/A |
-| 23 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
-| 24 | [#UzmanÇavuşlarTorbaYasaya](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarTorbaYasaya) | N/A |
-| 25 | [#UzmanÇavuşlarMilletinGönlünde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarMilletinG%c3%b6nl%c3%bcnde) | N/A |
-| 26 | [#Şeriat](http://twitter.com/search?q=%23%c5%9eeriat) | N/A |
-| 27 | [#UzmanÇavuşlarDevletinEmrinde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarDevletinEmrinde) | N/A |
-| 28 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
-| 29 | [#KöpekleriToplayın](http://twitter.com/search?q=%23K%c3%b6pekleriToplay%c4%b1n) | N/A |
-| 30 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
-| 31 | [#elazığ](http://twitter.com/search?q=%23elaz%c4%b1%c4%9f) | N/A |
-| 32 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 33 | [#Zaniolo](http://twitter.com/search?q=%23Zaniolo) | N/A |
-| 34 | [#KamuyaPsikologLazım](http://twitter.com/search?q=%23KamuyaPsikologLaz%c4%b1m) | N/A |
-| 35 | [#MemleketPartisi](http://twitter.com/search?q=%23MemleketPartisi) | N/A |
-| 36 | [#OylarTazminata](http://twitter.com/search?q=%23OylarTazminata) | N/A |
-| 37 | [#AliKoçİstifa](http://twitter.com/search?q=%23AliKo%c3%a7%c4%b0stifa) | N/A |
-| 38 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
-| 39 | [#Yökegitimekulakver](http://twitter.com/search?q=%23Y%c3%b6kegitimekulakver) | N/A |
+| 2 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 3 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 4 | [Vecihi Geliyor](http://twitter.com/search?q=Vecihi+Geliyor) | N/A |
+| 5 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 6 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
+| 7 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 8 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 9 | [#BerkinElvan](http://twitter.com/search?q=%23BerkinElvan) | N/A |
+| 10 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 11 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 12 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
+| 13 | [ucuzfiyatdan tthizmeti](http://twitter.com/search?q=ucuzfiyatdan+tthizmeti) | N/A |
+| 14 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 15 | [reisbizi unutma](http://twitter.com/search?q=reisbizi+unutma) | N/A |
+| 16 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 17 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 18 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 19 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 20 | [YusufKerime AnnesiniVerin](http://twitter.com/search?q=YusufKerime+AnnesiniVerin) | N/A |
+| 21 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 22 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 23 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 24 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
+| 25 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
+| 26 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
+| 27 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 28 | [GeneldeBana Jackdiyorlar](http://twitter.com/search?q=GeneldeBana+Jackdiyorlar) | N/A |
+| 29 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 30 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
+| 31 | [profilime kimlerbakiyoo](http://twitter.com/search?q=profilime+kimlerbakiyoo) | N/A |
+| 32 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 33 | [sokullu mehmet paşa](http://twitter.com/search?q=sokullu+mehmet+pa%c5%9fa) | N/A |
+| 34 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 35 | [TaşeronSandıkta KadroNerede](http://twitter.com/search?q=Ta%c5%9feronSand%c4%b1kta+KadroNerede) | N/A |
+| 36 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
+| 37 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 38 | [rashica](http://twitter.com/search?q=rashica) | N/A |
+| 39 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 40 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 41 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 42 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 43 | [muhammed emin özkan](http://twitter.com/search?q=muhammed+emin+%c3%b6zkan) | N/A |
+| 44 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 45 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
+| 46 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 47 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 48 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 49 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 50 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
 
 
 

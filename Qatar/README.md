@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-12 02:41:30 UTC`
+📆 Last Updated: `2023-03-12 03:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for Qatar
 | 3 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 4 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 5 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
-| 6 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 7 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 8 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 6 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 7 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 10 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
 | 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 12 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 13 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
@@ -38,12 +38,12 @@ This is top 50 for Qatar
 | 21 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
 | 22 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 23 | [الالعاب الشاطييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d9%8a%d9%8a%d9%87) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [الاسبوع العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
-| 26 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 27 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
-| 28 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 29 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 24 | [الاسبوع العاشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1) | N/A |
+| 25 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 26 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
+| 27 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 28 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 30 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
 | 31 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
 | 32 | [درب لوسيل](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d9%84%d9%88%d8%b3%d9%8a%d9%84) | N/A |

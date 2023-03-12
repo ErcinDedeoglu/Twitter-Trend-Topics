@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-12 02:41:27 UTC`
+📆 Last Updated: `2023-03-12 03:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,14 +57,14 @@ This is top 50 for Kuwait
 | 40 | [يابو فلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%84%d8%a7%d8%ad) | N/A |
 | 41 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 43 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 44 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 45 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 46 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 48 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 49 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 50 | [بدر المطوع](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d8%b9) | N/A |
+| 43 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 44 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 46 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 47 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 48 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 49 | [بدر المطوع](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d8%b9) | N/A |
+| 50 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
 
 
 
