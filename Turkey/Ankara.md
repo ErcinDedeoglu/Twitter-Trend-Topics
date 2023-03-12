@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-12 06:16:57 UTC`
+📆 Last Updated: `2023-03-12 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,36 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 2 | [#GSvKAS](http://twitter.com/search?q=%23GSvKAS) | N/A |
-| 3 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 4 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 5 | [vecihi geliyor](http://twitter.com/search?q=vecihi+geliyor) | N/A |
-| 6 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 7 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 8 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
-| 9 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 10 | [ucuzfiyatdan tthizmeti](http://twitter.com/search?q=ucuzfiyatdan+tthizmeti) | N/A |
-| 11 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 12 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
-| 13 | [reisbizi unutma](http://twitter.com/search?q=reisbizi+unutma) | N/A |
-| 14 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 15 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 16 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 17 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 18 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 19 | [YusufKerime AnnesiniVerin](http://twitter.com/search?q=YusufKerime+AnnesiniVerin) | N/A |
-| 20 | [günay](http://twitter.com/search?q=g%c3%bcnay) | N/A |
-| 21 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 22 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
-| 23 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 24 | [geneldebana jackdiyorlar](http://twitter.com/search?q=geneldebana+jackdiyorlar) | N/A |
-| 25 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 26 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 27 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 28 | [profilime kimlerbakiyoo](http://twitter.com/search?q=profilime+kimlerbakiyoo) | N/A |
-| 29 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 30 | [sokullu mehmet paşa](http://twitter.com/search?q=sokullu+mehmet+pa%c5%9fa) | N/A |
-| 31 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 32 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 33 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 34 | [rashica](http://twitter.com/search?q=rashica) | N/A |
-| 35 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 36 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
-| 37 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
-| 38 | [TaşeronSandıkta KadroNerede](http://twitter.com/search?q=Ta%c5%9feronSand%c4%b1kta+KadroNerede) | N/A |
-| 39 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
-| 40 | [Türkan Şoray](http://twitter.com/search?q=T%c3%bcrkan+%c5%9eoray) | N/A |
-| 41 | [Donk](http://twitter.com/search?q=Donk) | N/A |
-| 42 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
-| 43 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
-| 44 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 45 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 46 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 47 | [Resmi Gazete](http://twitter.com/search?q=Resmi+Gazete) | N/A |
-| 48 | [KUTLU OLSUN](http://twitter.com/search?q=KUTLU+OLSUN) | N/A |
-| 49 | [Hakk](http://twitter.com/search?q=Hakk) | N/A |
+| 2 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
+| 3 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 4 | [#AsılMeselemiz](http://twitter.com/search?q=%23As%c4%b1lMeselemiz) | N/A |
+| 5 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 6 | [Yılı Kutlu Olsun](http://twitter.com/search?q=Y%c4%b1l%c4%b1+Kutlu+Olsun) | N/A |
+| 7 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 9 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 10 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 11 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 12 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 13 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 14 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 15 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
+| 16 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 17 | [Vatanını](http://twitter.com/search?q=Vatan%c4%b1n%c4%b1) | N/A |
+| 18 | [Selman](http://twitter.com/search?q=Selman) | N/A |
+| 19 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 20 | [#StajyerDurmayacak](http://twitter.com/search?q=%23StajyerDurmayacak) | N/A |
+| 21 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
+| 22 | [#HDPileSAADETlerDileriz](http://twitter.com/search?q=%23HDPileSAADETlerDileriz) | N/A |
+| 23 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 24 | [#GaziKatliamınıUNUTMADIK](http://twitter.com/search?q=%23GaziKatliam%c4%b1n%c4%b1UNUTMADIK) | N/A |
+| 25 | [#AdayOlamazsınERDOĞAN](http://twitter.com/search?q=%23AdayOlamazs%c4%b1nERDO%c4%9eAN) | N/A |
+| 26 | [#UzmanÇavuşlarDevletinEmrinde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarDevletinEmrinde) | N/A |
+| 27 | [#UzmanÇavuşlarMilletinGönlünde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarMilletinG%c3%b6nl%c3%bcnde) | N/A |
+| 28 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 29 | [#UzmanÇavuşlarTorbaYasaya](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarTorbaYasaya) | N/A |
+| 30 | [#adana](http://twitter.com/search?q=%23adana) | N/A |
+| 31 | [#TürkiyedeOldu](http://twitter.com/search?q=%23T%c3%bcrkiyedeOldu) | N/A |
 
 
 

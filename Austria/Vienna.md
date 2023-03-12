@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-12 06:16:32 UTC`
+📆 Last Updated: `2023-03-12 07:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 2 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 5 | [#hergovich](http://twitter.com/search?q=%23hergovich) | N/A |
-| 6 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
+| 1 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 2 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
+| 3 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
+| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 5 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 6 | [#kanzlerrede](http://twitter.com/search?q=%23kanzlerrede) | N/A |
 | 7 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 8 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 9 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 10 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 11 | [koalitionspartner](http://twitter.com/search?q=koalitionspartner) | N/A |
-| 12 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 13 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 14 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 15 | [Sven](http://twitter.com/search?q=Sven) | N/A |
-| 16 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 17 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 18 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 19 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
-| 20 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 21 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 22 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
-| 23 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
-| 24 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 25 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [Vision](http://twitter.com/search?q=Vision) | N/A |
-| 28 | [Regime](http://twitter.com/search?q=Regime) | N/A |
-| 29 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
-| 30 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
-| 33 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 34 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 35 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 36 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 37 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 39 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 40 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 41 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 42 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
-| 43 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 44 | [Fernsehen](http://twitter.com/search?q=Fernsehen) | N/A |
-| 45 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 47 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 48 | [ungarn](http://twitter.com/search?q=ungarn) | N/A |
-| 49 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 50 | [wählern](http://twitter.com/search?q=w%c3%a4hlern) | N/A |
+| 9 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 10 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 11 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 12 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 13 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 14 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 15 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 16 | [#oesterreich2030](http://twitter.com/search?q=%23oesterreich2030) | N/A |
+| 17 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 18 | [Vision](http://twitter.com/search?q=Vision) | N/A |
+| 19 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 22 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
+| 23 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 24 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
+| 25 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
+| 26 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
+| 27 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 28 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 29 | [programmieren](http://twitter.com/search?q=programmieren) | N/A |
+| 30 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 31 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 32 | [meister](http://twitter.com/search?q=meister) | N/A |
+| 33 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 34 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 35 | [Meeresspiegel](http://twitter.com/search?q=Meeresspiegel) | N/A |
+| 36 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 37 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
+| 38 | [eigenheim](http://twitter.com/search?q=eigenheim) | N/A |
+| 39 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 40 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 41 | [dämme](http://twitter.com/search?q=d%c3%a4mme) | N/A |
+| 42 | [rede zur lage der nation](http://twitter.com/search?q=rede+zur+lage+der+nation) | N/A |
+| 43 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
+| 44 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 45 | [Geschwätz](http://twitter.com/search?q=Geschw%c3%a4tz) | N/A |
+| 46 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 47 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 48 | [autoland](http://twitter.com/search?q=autoland) | N/A |
+| 49 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 50 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-12 06:16:34 UTC`
+📆 Last Updated: `2023-03-12 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
-| 2 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 3 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 5 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 6 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 7 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 3 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 4 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 6 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 7 | [SCHALKE](http://twitter.com/search?q=SCHALKE) | N/A |
 | 8 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 9 | [Volksverpetzer](http://twitter.com/search?q=Volksverpetzer) | N/A |
-| 10 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 10 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 11 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [Waffenrecht](http://twitter.com/search?q=Waffenrecht) | N/A |
-| 14 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 15 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 14 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 15 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
 | 16 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 18 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 19 | [sportschützen](http://twitter.com/search?q=sportsch%c3%bctzen) | N/A |
-| 20 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 21 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 22 | [modeste](http://twitter.com/search?q=modeste) | N/A |
+| 17 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 20 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
+| 21 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 22 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
 | 23 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 24 | [gegentore](http://twitter.com/search?q=gegentore) | N/A |
-| 25 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 26 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 27 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 28 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
-| 31 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 32 | [zalazar](http://twitter.com/search?q=zalazar) | N/A |
-| 33 | [meisterschaft](http://twitter.com/search?q=meisterschaft) | N/A |
-| 34 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
-| 35 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 36 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 24 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 25 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
+| 26 | [zalazar](http://twitter.com/search?q=zalazar) | N/A |
+| 27 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 28 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 29 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 30 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 31 | [meisterschaft](http://twitter.com/search?q=meisterschaft) | N/A |
+| 32 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 33 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 34 | ['zäune'](http://twitter.com/search?q=%27z%c3%a4une%27) | N/A |
+| 35 | [Rapha](http://twitter.com/search?q=Rapha) | N/A |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 37 | [karaman](http://twitter.com/search?q=karaman) | N/A |
-| 38 | [kämpfen und siegen](http://twitter.com/search?q=k%c3%a4mpfen+und+siegen) | N/A |
-| 39 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 40 | ['zäune'](http://twitter.com/search?q=%27z%c3%a4une%27) | N/A |
-| 41 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 42 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 43 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 44 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 45 | [Arminia](http://twitter.com/search?q=Arminia) | N/A |
-| 46 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
-| 47 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
-| 48 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 38 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 39 | [Arminia](http://twitter.com/search?q=Arminia) | N/A |
+| 40 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 41 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 42 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 43 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 44 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 45 | [janin](http://twitter.com/search?q=janin) | N/A |
+| 46 | [Rundfunkgebühren](http://twitter.com/search?q=Rundfunkgeb%c3%bchren) | N/A |
+| 47 | [Wirtschaftswunder](http://twitter.com/search?q=Wirtschaftswunder) | N/A |
+| 48 | [fährmann](http://twitter.com/search?q=f%c3%a4hrmann) | N/A |
 
 
 

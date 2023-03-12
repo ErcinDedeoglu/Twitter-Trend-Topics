@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-12 06:16:41 UTC`
+📆 Last Updated: `2023-03-12 07:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
 | 2 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
 | 3 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 4 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 5 | [#NRLDolphinsRaiders](http://twitter.com/search?q=%23NRLDolphinsRaiders) | N/A |
-| 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 4 | [#nrldolphinsraiders](http://twitter.com/search?q=%23nrldolphinsraiders) | N/A |
+| 5 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 6 | [#Insiders](http://twitter.com/search?q=%23Insiders) | N/A |
 | 7 | [#RepcoSC](http://twitter.com/search?q=%23RepcoSC) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [Alex Twal](http://twitter.com/search?q=Alex+Twal) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 12 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 15 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 16 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 17 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 18 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 19 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 20 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 21 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 22 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 23 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 24 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 25 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 26 | [World Champion](http://twitter.com/search?q=World+Champion) | N/A |
-| 27 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 28 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 29 | [Corica](http://twitter.com/search?q=Corica) | N/A |
-| 30 | [Aiden O'Neill](http://twitter.com/search?q=Aiden+O%27Neill) | N/A |
-| 31 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 32 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 33 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 34 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 35 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 36 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 37 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 38 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 39 | [Public Service](http://twitter.com/search?q=Public+Service) | N/A |
-| 40 | [Cairns](http://twitter.com/search?q=Cairns) | N/A |
-| 41 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 42 | [Bunnings](http://twitter.com/search?q=Bunnings) | N/A |
-| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 44 | [Seafolly](http://twitter.com/search?q=Seafolly) | N/A |
-| 45 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 46 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 47 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
-| 48 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 49 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
-| 50 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 8 | [Tyson Gamble](http://twitter.com/search?q=Tyson+Gamble) | N/A |
+| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [Alex Twal](http://twitter.com/search?q=Alex+Twal) | N/A |
+| 11 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
+| 12 | [Autumn Ballet](http://twitter.com/search?q=Autumn+Ballet) | N/A |
+| 13 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 14 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 17 | [Dom Young](http://twitter.com/search?q=Dom+Young) | N/A |
+| 18 | [Aiden O'Neill](http://twitter.com/search?q=Aiden+O%27Neill) | N/A |
+| 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 20 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 21 | [World Champion](http://twitter.com/search?q=World+Champion) | N/A |
+| 22 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
+| 23 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 25 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 26 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 27 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 28 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 29 | [Kostya](http://twitter.com/search?q=Kostya) | N/A |
+| 30 | [Tim Sheens](http://twitter.com/search?q=Tim+Sheens) | N/A |
+| 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 32 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 33 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 35 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 36 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 37 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
+| 38 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 39 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 40 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 41 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 42 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 43 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 44 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 45 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
+| 46 | [Pasifika](http://twitter.com/search?q=Pasifika) | N/A |
+| 47 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
+| 48 | [Port Kembla](http://twitter.com/search?q=Port+Kembla) | N/A |
+| 49 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 50 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-12 06:17:02 UTC`
+📆 Last Updated: `2023-03-12 07:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 2 | [#Crew5](http://twitter.com/search?q=%23Crew5) | N/A |
+| 1 | [JIMMY BUTLER](http://twitter.com/search?q=JIMMY+BUTLER) | N/A |
+| 2 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 3 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
-| 4 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 4 | [Magic](http://twitter.com/search?q=Magic) | N/A |
 | 5 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 6 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 7 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
-| 8 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 6 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 7 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 8 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 10 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 11 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 12 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 14 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 15 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 17 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 18 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 21 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 10 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 11 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 13 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 14 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 15 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 16 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 17 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 18 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 19 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 20 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 21 | [#PowerSlap1](http://twitter.com/search?q=%23PowerSlap1) | N/A |
 | 22 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
-| 23 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 24 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 25 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 26 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 27 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 28 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 29 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 30 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 31 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 32 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 33 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 34 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 35 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 36 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 37 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 25 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 26 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 27 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 28 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 29 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 31 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 32 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 33 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 34 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 35 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 36 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 37 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
 | 38 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 39 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 40 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 41 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 42 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 43 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 39 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 40 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 41 | [Strive](http://twitter.com/search?q=Strive) | N/A |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
 | 44 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
 | 45 | [Dave Pasch](http://twitter.com/search?q=Dave+Pasch) | N/A |
-| 46 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 47 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
-| 48 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 49 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 50 | [Tyger](http://twitter.com/search?q=Tyger) | N/A |
+| 46 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 47 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 48 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 49 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 50 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
 
 
 
