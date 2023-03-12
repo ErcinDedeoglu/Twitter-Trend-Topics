@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-12 11:17:02 UTC`
+📆 Last Updated: `2023-03-12 12:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for France
 | 4 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
 | 5 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 6 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
-| 7 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 8 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
+| 7 | [brest](http://twitter.com/search?q=brest) | N/A |
+| 8 | [Areola](http://twitter.com/search?q=Areola) | N/A |
 | 9 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 10 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 12 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 10 | [#xvdefrance](http://twitter.com/search?q=%23xvdefrance) | N/A |
+| 11 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 12 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 13 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 14 | [Équipe 2](http://twitter.com/search?q=%c3%89quipe+2) | N/A |
-| 15 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 14 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 15 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
 | 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 18 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 20 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 21 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
-| 22 | [Lucet](http://twitter.com/search?q=Lucet) | N/A |
-| 23 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 24 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 26 | [Olivier Giroud](http://twitter.com/search?q=Olivier+Giroud) | N/A |
-| 27 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 28 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 29 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
-| 30 | [Flament](http://twitter.com/search?q=Flament) | N/A |
+| 17 | [Équipe 2](http://twitter.com/search?q=%c3%89quipe+2) | N/A |
+| 18 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 19 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 20 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 22 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 23 | [Lucet](http://twitter.com/search?q=Lucet) | N/A |
+| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 25 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 27 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 28 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
+| 29 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 30 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
 | 31 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 32 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 33 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
+| 33 | [Flament](http://twitter.com/search?q=Flament) | N/A |
 | 34 | [Gambie](http://twitter.com/search?q=Gambie) | N/A |
-| 35 | [Brice Samba](http://twitter.com/search?q=Brice+Samba) | N/A |
-| 36 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 37 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 38 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 39 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
+| 35 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
+| 36 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 37 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
+| 38 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 39 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
 | 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
 | 41 | [Danty](http://twitter.com/search?q=Danty) | N/A |
 | 42 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
 | 43 | [Le Sénégal](http://twitter.com/search?q=Le+S%c3%a9n%c3%a9gal) | N/A |
-| 44 | [Galthié](http://twitter.com/search?q=Galthi%c3%a9) | N/A |
-| 45 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 46 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 47 | [Carlos Soler](http://twitter.com/search?q=Carlos+Soler) | N/A |
-| 48 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 49 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 50 | [Oscars 2023](http://twitter.com/search?q=Oscars+2023) | N/A |
+| 44 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
+| 45 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 46 | [Oscars 2023](http://twitter.com/search?q=Oscars+2023) | N/A |
+| 47 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 48 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 50 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 
 
 

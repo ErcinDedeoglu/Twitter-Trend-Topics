@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-12 11:17:05 UTC`
+📆 Last Updated: `2023-03-12 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
-| 2 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 3 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
-| 4 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 6 | [#Buitenhof](http://twitter.com/search?q=%23Buitenhof) | N/A |
+| 1 | [#Buitenhof](http://twitter.com/search?q=%23Buitenhof) | N/A |
+| 2 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
+| 3 | [#necutr](http://twitter.com/search?q=%23necutr) | N/A |
+| 4 | [#ExtinctionRebellion](http://twitter.com/search?q=%23ExtinctionRebellion) | N/A |
+| 5 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 6 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
 | 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 8 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 8 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
 | 9 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
 | 10 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
 | 11 | [USDC](http://twitter.com/search?q=USDC) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Netherlands
 | 15 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 16 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
 | 17 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 18 | [Wie is de Mol](http://twitter.com/search?q=Wie+is+de+Mol) | N/A |
-| 19 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
-| 20 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
-| 21 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
-| 22 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
-| 23 | [wittek](http://twitter.com/search?q=wittek) | N/A |
-| 24 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 25 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
-| 26 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 27 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 28 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
-| 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 19 | [Wie is de Mol](http://twitter.com/search?q=Wie+is+de+Mol) | N/A |
+| 20 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 21 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
+| 22 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 23 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
+| 24 | [wittek](http://twitter.com/search?q=wittek) | N/A |
+| 25 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 26 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 27 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
+| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 29 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
 | 30 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 31 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 32 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
-| 33 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
-| 34 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 35 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 37 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 38 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 39 | [utrechtsebaan](http://twitter.com/search?q=utrechtsebaan) | N/A |
+| 31 | [André Hazes](http://twitter.com/search?q=Andr%c3%a9+Hazes) | N/A |
+| 32 | [mart smeets](http://twitter.com/search?q=mart+smeets) | N/A |
+| 33 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 34 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
+| 35 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
+| 36 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 37 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 38 | [Nieman](http://twitter.com/search?q=Nieman) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 40 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 41 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
-| 42 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 43 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 41 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 42 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 43 | [pim lammers](http://twitter.com/search?q=pim+lammers) | N/A |
 | 44 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
 | 45 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 46 | [Tuig](http://twitter.com/search?q=Tuig) | N/A |
-| 47 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 48 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
-| 49 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 50 | [Politie](http://twitter.com/search?q=Politie) | N/A |
+| 46 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 47 | [Doelman](http://twitter.com/search?q=Doelman) | N/A |
+| 48 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
+| 49 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 50 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
 
 
 

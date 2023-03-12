@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-12 11:16:47 UTC`
+📆 Last Updated: `2023-03-12 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 2 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
-| 3 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 4 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 5 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 6 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
-| 7 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
-| 8 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 9 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
-| 10 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 11 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
-| 12 | [Sayın Bakanımıza](http://twitter.com/search?q=Say%c4%b1n+Bakan%c4%b1m%c4%b1za) | N/A |
-| 13 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
-| 14 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
-| 15 | [Alanya Kestelspor](http://twitter.com/search?q=Alanya+Kestelspor) | N/A |
-| 16 | [Milli Mücadelemizin](http://twitter.com/search?q=Milli+M%c3%bccadelemizin) | N/A |
-| 17 | [İvedik](http://twitter.com/search?q=%c4%b0vedik) | N/A |
-| 18 | [İsmet Paşa](http://twitter.com/search?q=%c4%b0smet+Pa%c5%9fa) | N/A |
-| 19 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
-| 20 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 21 | [Liselere Geçiş Sistemi](http://twitter.com/search?q=Liselere+Ge%c3%a7i%c5%9f+Sistemi) | N/A |
-| 22 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 23 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
-| 24 | [Kutlu Olsun](http://twitter.com/search?q=Kutlu+Olsun) | N/A |
-| 25 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 26 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 27 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 28 | [Donk](http://twitter.com/search?q=Donk) | N/A |
-| 29 | [TFF 3](http://twitter.com/search?q=TFF+3) | N/A |
+| 2 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 3 | [Testere Necmi](http://twitter.com/search?q=Testere+Necmi) | N/A |
+| 4 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 5 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 6 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 7 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
+| 8 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 9 | [mehmet karahanlı](http://twitter.com/search?q=mehmet+karahanl%c4%b1) | N/A |
+| 10 | [Patatesli Gözleme](http://twitter.com/search?q=Patatesli+G%c3%b6zleme) | N/A |
+| 11 | [Kılavuza5Bin SağlıkYönetimi](http://twitter.com/search?q=K%c4%b1lavuza5Bin+Sa%c4%9fl%c4%b1kY%c3%b6netimi) | N/A |
+| 12 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
+| 13 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 14 | [Recep İvedik](http://twitter.com/search?q=Recep+%c4%b0vedik) | N/A |
+| 15 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
+| 16 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
+| 17 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
+| 18 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 19 | [İsmet Paşa](http://twitter.com/search?q=%c4%b0smet+Pa%c5%9fa) | N/A |
+| 20 | [Sayın Bakanımıza](http://twitter.com/search?q=Say%c4%b1n+Bakan%c4%b1m%c4%b1za) | N/A |
+| 21 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 22 | [Milli Mücadelemizin](http://twitter.com/search?q=Milli+M%c3%bccadelemizin) | N/A |
+| 23 | [Merhuma Allah'tan](http://twitter.com/search?q=Merhuma+Allah%27tan) | N/A |
+| 24 | [Alanya Kestelspor](http://twitter.com/search?q=Alanya+Kestelspor) | N/A |
+| 25 | [Karabağ](http://twitter.com/search?q=Karaba%c4%9f) | N/A |
+| 26 | [Hata](http://twitter.com/search?q=Hata) | N/A |
+| 27 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 28 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 29 | [Kutlu Olsun](http://twitter.com/search?q=Kutlu+Olsun) | N/A |
 | 30 | [Yavan](http://twitter.com/search?q=Yavan) | N/A |
-| 31 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
-| 32 | [Kahraman Ordumuza](http://twitter.com/search?q=Kahraman+Ordumuza) | N/A |
-| 33 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 34 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
-| 35 | [Serdar Ortaç](http://twitter.com/search?q=Serdar+Orta%c3%a7) | N/A |
-| 36 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 37 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 38 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 39 | [Keyifli](http://twitter.com/search?q=Keyifli) | N/A |
-| 40 | [maç günü](http://twitter.com/search?q=ma%c3%a7+g%c3%bcn%c3%bc) | N/A |
-| 41 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 42 | [Kurtuluş Savaşı](http://twitter.com/search?q=Kurtulu%c5%9f+Sava%c5%9f%c4%b1) | N/A |
-| 43 | [Çelebi](http://twitter.com/search?q=%c3%87elebi) | N/A |
-| 44 | [Hudapar](http://twitter.com/search?q=Hudapar) | N/A |
-| 45 | [NE MUTLU TÜRK'ÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%27%c3%9cM+D%c4%b0YENE) | N/A |
-| 46 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
-| 47 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 48 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 31 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 32 | [Liselere Geçiş Sistemi](http://twitter.com/search?q=Liselere+Ge%c3%a7i%c5%9f+Sistemi) | N/A |
+| 33 | [Mekanı Cennet](http://twitter.com/search?q=Mekan%c4%b1+Cennet) | N/A |
+| 34 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 35 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 36 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 37 | [Kahraman Ordumuza](http://twitter.com/search?q=Kahraman+Ordumuza) | N/A |
+| 38 | [Minnetle](http://twitter.com/search?q=Minnetle) | N/A |
+| 39 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 40 | [TFF 3](http://twitter.com/search?q=TFF+3) | N/A |
+| 41 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 42 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 43 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 44 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 45 | [Denizli](http://twitter.com/search?q=Denizli) | N/A |
+| 46 | [Kurtuluş Savaşı](http://twitter.com/search?q=Kurtulu%c5%9f+Sava%c5%9f%c4%b1) | N/A |
+| 47 | [İftira](http://twitter.com/search?q=%c4%b0ftira) | N/A |
+| 48 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
 
 
 

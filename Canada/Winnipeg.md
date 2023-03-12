@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-12 11:16:01 UTC`
+📆 Last Updated: `2023-03-12 12:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 5 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 10 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 11 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 12 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 13 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 14 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
+| 7 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 8 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 9 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 10 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 11 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 12 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 13 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
+| 14 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 16 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 17 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 18 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
-| 19 | [evander kane](http://twitter.com/search?q=evander+kane) | N/A |
-| 20 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 21 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 23 | [acciari](http://twitter.com/search?q=acciari) | N/A |
-| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 25 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 26 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 27 | [jt miller](http://twitter.com/search?q=jt+miller) | N/A |
-| 28 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 29 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 30 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 31 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 32 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 33 | [CHSLD](http://twitter.com/search?q=CHSLD) | N/A |
-| 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 35 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 36 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 37 | [rielly](http://twitter.com/search?q=rielly) | N/A |
-| 38 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
-| 39 | [dunstone](http://twitter.com/search?q=dunstone) | N/A |
-| 40 | [gushue](http://twitter.com/search?q=gushue) | N/A |
-| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 42 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 43 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 44 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 45 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 46 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 47 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 48 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 17 | [evander kane](http://twitter.com/search?q=evander+kane) | N/A |
+| 18 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 19 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 20 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 21 | [acciari](http://twitter.com/search?q=acciari) | N/A |
+| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 23 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 24 | [jt miller](http://twitter.com/search?q=jt+miller) | N/A |
+| 25 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 26 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 27 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 28 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
+| 29 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 30 | [CHSLD](http://twitter.com/search?q=CHSLD) | N/A |
+| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 32 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 33 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 34 | [rielly](http://twitter.com/search?q=rielly) | N/A |
+| 35 | [JUSTIN HOLL](http://twitter.com/search?q=JUSTIN+HOLL) | N/A |
+| 36 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 37 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 39 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 40 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 41 | [Soup](http://twitter.com/search?q=Soup) | N/A |
+| 42 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 43 | [lucic](http://twitter.com/search?q=lucic) | N/A |
+| 44 | [Flair](http://twitter.com/search?q=Flair) | N/A |
+| 45 | [kerfoot](http://twitter.com/search?q=kerfoot) | N/A |
+| 46 | [Barb](http://twitter.com/search?q=Barb) | N/A |
+| 47 | [debrincat](http://twitter.com/search?q=debrincat) | N/A |
+| 48 | [Joly](http://twitter.com/search?q=Joly) | N/A |
 
 
 

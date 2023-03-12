@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-12 11:17:09 UTC`
+📆 Last Updated: `2023-03-12 12:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
-| 2 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 3 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 4 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 5 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
-| 8 | [#HELLOinKL](http://twitter.com/search?q=%23HELLOinKL) | N/A |
-| 9 | [CHILWELL](http://twitter.com/search?q=CHILWELL) | N/A |
-| 10 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 13 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 14 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 15 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 17 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 19 | [America](http://twitter.com/search?q=America) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 22 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 23 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 24 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 25 | [FeiJian](http://twitter.com/search?q=FeiJian) | N/A |
-| 26 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 27 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
-| 28 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
-| 29 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 32 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 33 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 34 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 3 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 4 | [#ROVER_MvTeaserOutNow](http://twitter.com/search?q=%23ROVER_MvTeaserOutNow) | N/A |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [#카이로버_뮤비티저_커밍오버](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b9%84%ed%8b%b0%ec%a0%80_%ec%bb%a4%eb%b0%8d%ec%98%a4%eb%b2%84) | N/A |
+| 7 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 9 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
+| 10 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 11 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 12 | [SHOWNU](http://twitter.com/search?q=SHOWNU) | N/A |
+| 13 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 17 | [America](http://twitter.com/search?q=America) | N/A |
+| 18 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 20 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 22 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 24 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 25 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 26 | [FeiJian](http://twitter.com/search?q=FeiJian) | N/A |
+| 27 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 28 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 29 | [blonde soobin](http://twitter.com/search?q=blonde+soobin) | N/A |
+| 30 | [pearthin](http://twitter.com/search?q=pearthin) | N/A |
+| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 33 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 34 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 35 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 36 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 37 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 38 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 39 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 40 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 41 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 42 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 43 | [Sabah](http://twitter.com/search?q=Sabah) | N/A |
-| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 47 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 48 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 40 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 41 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 42 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 43 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 44 | [Sabah](http://twitter.com/search?q=Sabah) | N/A |
+| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 46 | [aidil](http://twitter.com/search?q=aidil) | N/A |
+| 47 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 48 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 49 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 
 
 

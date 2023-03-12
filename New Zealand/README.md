@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-12 11:17:05 UTC`
+📆 Last Updated: `2023-03-12 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,11 +26,11 @@ This is top 50 for New Zealand
 | 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 10 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 11 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 15 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 16 | [Goodnight Nurse](http://twitter.com/search?q=Goodnight+Nurse) | N/A |
+| 12 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 14 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [goodnight nurse](http://twitter.com/search?q=goodnight+nurse) | N/A |
 | 17 | [Tame](http://twitter.com/search?q=Tame) | N/A |
 | 18 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 | 19 | [Eden Park](http://twitter.com/search?q=Eden+Park) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for New Zealand
 | 39 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
 | 40 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
 | 41 | [Hurricanes](http://twitter.com/search?q=Hurricanes) | N/A |
-| 42 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 43 | [Pukekohe](http://twitter.com/search?q=Pukekohe) | N/A |
-| 44 | [Absolute](http://twitter.com/search?q=Absolute) | N/A |
+| 42 | [Absolute](http://twitter.com/search?q=Absolute) | N/A |
+| 43 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 44 | [Pukekohe](http://twitter.com/search?q=Pukekohe) | N/A |
 | 45 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 47 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 49 | [Rubbish](http://twitter.com/search?q=Rubbish) | N/A |
-| 50 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 46 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 47 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 48 | [Rubbish](http://twitter.com/search?q=Rubbish) | N/A |
+| 49 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 50 | [tvnz](http://twitter.com/search?q=tvnz) | N/A |
 
 
 

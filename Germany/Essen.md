@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-12 11:16:19 UTC`
+📆 Last Updated: `2023-03-12 12:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
 | 2 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 4 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
-| 5 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 6 | [#RBLBMG](http://twitter.com/search?q=%23RBLBMG) | N/A |
+| 3 | [#Presseclub](http://twitter.com/search?q=%23Presseclub) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 5 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
+| 6 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
 | 7 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 10 | [SCHALKE](http://twitter.com/search?q=SCHALKE) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 8 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 11 | [SCHALKE](http://twitter.com/search?q=SCHALKE) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 14 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 15 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
-| 16 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 17 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 18 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 19 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 20 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 21 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 22 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 23 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 24 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 25 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
-| 26 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 27 | [Bildungssystem](http://twitter.com/search?q=Bildungssystem) | N/A |
-| 28 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 29 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 30 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
-| 31 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 32 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
-| 33 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 34 | [extremismus](http://twitter.com/search?q=extremismus) | N/A |
-| 35 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 36 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 37 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 40 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 41 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 42 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 43 | [Dein Sohn](http://twitter.com/search?q=Dein+Sohn) | N/A |
-| 44 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
-| 45 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 46 | [Janin](http://twitter.com/search?q=Janin) | N/A |
-| 47 | [Sportschützen](http://twitter.com/search?q=Sportsch%c3%bctzen) | N/A |
-| 48 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 49 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 14 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 15 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 16 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 17 | [Siems](http://twitter.com/search?q=Siems) | N/A |
+| 18 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 19 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 20 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 21 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 22 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 23 | [Hundewelpen](http://twitter.com/search?q=Hundewelpen) | N/A |
+| 24 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 25 | [kämpfen und siegen](http://twitter.com/search?q=k%c3%a4mpfen+und+siegen) | N/A |
+| 26 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 27 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 28 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
+| 29 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 30 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 31 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 32 | [Jugendpolitiker](http://twitter.com/search?q=Jugendpolitiker) | N/A |
+| 33 | [hummels](http://twitter.com/search?q=hummels) | N/A |
+| 34 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 35 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 36 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 37 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 38 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 40 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 41 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 42 | [Extremismus](http://twitter.com/search?q=Extremismus) | N/A |
+| 43 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 44 | [Lehrermangel](http://twitter.com/search?q=Lehrermangel) | N/A |
+| 45 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 46 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 47 | [Verschwörungstheoretiker](http://twitter.com/search?q=Verschw%c3%b6rungstheoretiker) | N/A |
+| 48 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 49 | [Janin](http://twitter.com/search?q=Janin) | N/A |
 | 50 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
 
 
