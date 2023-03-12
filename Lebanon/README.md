@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-12 03:18:42 UTC`
+📆 Last Updated: `2023-03-12 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,12 +20,12 @@ This is top 50 for Lebanon
 | 3 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
 | 4 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
 | 5 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 6 | [#جويل_حاتم](http://twitter.com/search?q=%23%d8%ac%d9%88%d9%8a%d9%84_%d8%ad%d8%a7%d8%aa%d9%85) | N/A |
-| 7 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 6 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 7 | [#جويل_حاتم](http://twitter.com/search?q=%23%d8%ac%d9%88%d9%8a%d9%84_%d8%ad%d8%a7%d8%aa%d9%85) | N/A |
 | 8 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 9 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 10 | [#نصرالله_دجال](http://twitter.com/search?q=%23%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87_%d8%af%d8%ac%d8%a7%d9%84) | N/A |
-| 11 | [#وننتصر](http://twitter.com/search?q=%23%d9%88%d9%86%d9%86%d8%aa%d8%b5%d8%b1) | N/A |
+| 9 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 10 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 11 | [#نصرالله_دجال](http://twitter.com/search?q=%23%d9%86%d8%b5%d8%b1%d8%a7%d9%84%d9%84%d9%87_%d8%af%d8%ac%d8%a7%d9%84) | N/A |
 | 12 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
 | 13 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 14 | [وليد بيك](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a8%d9%8a%d9%83) | N/A |
@@ -44,9 +44,9 @@ This is top 50 for Lebanon
 | 27 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
 | 28 | [11 اذار 2023](http://twitter.com/search?q=11+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
 | 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
-| 31 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
-| 32 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 30 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 31 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
+| 32 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
 | 33 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 34 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
 | 35 | [دول المنطقه](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Lebanon
 | 39 | [زياد بارود](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a8%d8%a7%d8%b1%d9%88%d8%af) | N/A |
 | 40 | [جين بينغ](http://twitter.com/search?q=%d8%ac%d9%8a%d9%86+%d8%a8%d9%8a%d9%86%d8%ba) | N/A |
 | 41 | [الحاج صالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d8%ac+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 42 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 43 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 42 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 43 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 44 | [المانيا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 45 | [علي نعمه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87) | N/A |
-| 46 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 47 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 48 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 49 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 50 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 45 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 46 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 47 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 48 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 49 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 

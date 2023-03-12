@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-12 03:18:03 UTC`
+📆 Last Updated: `2023-03-12 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 2 | [kozins](http://twitter.com/search?q=kozins) | N/A |
 | 3 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | N/A |
 | 4 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 5 | [labs](http://twitter.com/search?q=labs) | N/A |
+| 5 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 6 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 7 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 8 | [karlsons](http://twitter.com/search?q=karlsons) | N/A |
@@ -35,35 +35,34 @@ This is top 50 for [Latvia](</Latvia>)
 | 18 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
 | 19 | [zosēnos](http://twitter.com/search?q=zos%c4%93nos) | N/A |
 | 20 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 21 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 23 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 25 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 28 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 29 | [riga](http://twitter.com/search?q=riga) | N/A |
-| 30 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 31 | [tikko](http://twitter.com/search?q=tikko) | N/A |
-| 32 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 33 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 34 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 35 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 36 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 37 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 38 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 39 | [gruzijā](http://twitter.com/search?q=gruzij%c4%81) | N/A |
-| 40 | [tiem](http://twitter.com/search?q=tiem) | N/A |
-| 41 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
-| 42 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 21 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 22 | [visiem](http://twitter.com/search?q=visiem) | N/A |
+| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 24 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 27 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 28 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 29 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 30 | [tikko](http://twitter.com/search?q=tikko) | N/A |
+| 31 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 32 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 33 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 34 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 35 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 36 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 37 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 38 | [gruzijā](http://twitter.com/search?q=gruzij%c4%81) | N/A |
+| 39 | [tiem](http://twitter.com/search?q=tiem) | N/A |
+| 40 | [vai jūs](http://twitter.com/search?q=vai+j%c5%abs) | N/A |
+| 41 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 42 | [riga](http://twitter.com/search?q=riga) | N/A |
 | 43 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
 | 44 | [atceros](http://twitter.com/search?q=atceros) | N/A |
 | 45 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 46 | [latgales](http://twitter.com/search?q=latgales) | N/A |
-| 47 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 48 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 49 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 47 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
+| 48 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
 
 
 

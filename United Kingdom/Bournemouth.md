@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-12 03:17:43 UTC`
+📆 Last Updated: `2023-03-12 04:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
-| 2 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 3 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 4 | [England](http://twitter.com/search?q=England) | N/A |
-| 5 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 6 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 7 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
-| 8 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 9 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 10 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 11 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 12 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 13 | [Best MOTD](http://twitter.com/search?q=Best+MOTD) | N/A |
-| 14 | [Sully](http://twitter.com/search?q=Sully) | N/A |
-| 15 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 16 | [hasan](http://twitter.com/search?q=hasan) | N/A |
-| 17 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 18 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 19 | [Dusty Springfield](http://twitter.com/search?q=Dusty+Springfield) | N/A |
-| 20 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 21 | [RIP Ian](http://twitter.com/search?q=RIP+Ian) | N/A |
-| 22 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 23 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
-| 24 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 26 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 27 | [Hecky](http://twitter.com/search?q=Hecky) | N/A |
-| 28 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 29 | [#UFCVegas](http://twitter.com/search?q=%23UFCVegas) | N/A |
-| 30 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 31 | [#OpTicTexas](http://twitter.com/search?q=%23OpTicTexas) | N/A |
-| 32 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 33 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 34 | [#Gogglebox10Years](http://twitter.com/search?q=%23Gogglebox10Years) | N/A |
-| 35 | [#Luther_The_Fallen_Sun](http://twitter.com/search?q=%23Luther_The_Fallen_Sun) | N/A |
-| 36 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 37 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
-| 38 | [#Linekergate](http://twitter.com/search?q=%23Linekergate) | N/A |
-| 39 | [#Melodifestivalen](http://twitter.com/search?q=%23Melodifestivalen) | N/A |
-| 40 | [#ToryBBC](http://twitter.com/search?q=%23ToryBBC) | N/A |
+| 1 | [#UFCVegas](http://twitter.com/search?q=%23UFCVegas) | N/A |
+| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 4 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 5 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 6 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
+| 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 11 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 12 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 14 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 15 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 16 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
+| 17 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 18 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 19 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 20 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 21 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 23 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 24 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 25 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 26 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 27 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 28 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 29 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 30 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 32 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 33 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
+| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 35 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 36 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 38 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 39 | [England](http://twitter.com/search?q=England) | N/A |
+| 40 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 41 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
+| 42 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 43 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 44 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 45 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 46 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 47 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 48 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 49 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
 
 
 

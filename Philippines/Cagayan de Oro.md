@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-12 03:18:13 UTC`
+📆 Last Updated: `2023-03-12 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
-| 2 | [#BGYOAngatPPOP](http://twitter.com/search?q=%23BGYOAngatPPOP) | N/A |
-| 3 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
-| 4 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 5 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
-| 6 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 7 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 8 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 10 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
-| 11 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
-| 12 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 13 | [PEPtionary WITH KDLEX](http://twitter.com/search?q=PEPtionary+WITH+KDLEX) | N/A |
-| 14 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 15 | [Almendras](http://twitter.com/search?q=Almendras) | N/A |
-| 16 | [ASAP SOULDIVA COMEBACK](http://twitter.com/search?q=ASAP+SOULDIVA+COMEBACK) | N/A |
-| 17 | [TheaAstley AOSomeBDay](http://twitter.com/search?q=TheaAstley+AOSomeBDay) | N/A |
-| 18 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 19 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 20 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 21 | [Malinis](http://twitter.com/search?q=Malinis) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 24 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
-| 25 | [UNSTOPPABLE REIVEN UMALI](http://twitter.com/search?q=UNSTOPPABLE+REIVEN+UMALI) | N/A |
-| 26 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
-| 27 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 28 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
-| 29 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 30 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 31 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 32 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 33 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
-| 34 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
-| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 36 | [ALDENWelcome BacktoEB](http://twitter.com/search?q=ALDENWelcome+BacktoEB) | N/A |
-| 37 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
-| 38 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 39 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 40 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
-| 41 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 42 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
-| 43 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
-| 44 | [smile flower](http://twitter.com/search?q=smile+flower) | N/A |
-| 45 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 46 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
-| 47 | [BOBBY SiR ALBUM](http://twitter.com/search?q=BOBBY+SiR+ALBUM) | N/A |
-| 48 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 49 | [tcoback ang robxine](http://twitter.com/search?q=tcoback+ang+robxine) | N/A |
+| 2 | [MARSObrang GALING MO JONA](http://twitter.com/search?q=MARSObrang+GALING+MO+JONA) | N/A |
+| 3 | [#ASAPEpicParty](http://twitter.com/search?q=%23ASAPEpicParty) | N/A |
+| 4 | [#BGYOAngatPPOP](http://twitter.com/search?q=%23BGYOAngatPPOP) | N/A |
+| 5 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 7 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
+| 8 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
+| 9 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 10 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 11 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
+| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 16 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 18 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 19 | [RALPHGAIL ASAPaKENsiAYUMI](http://twitter.com/search?q=RALPHGAIL+ASAPaKENsiAYUMI) | N/A |
+| 20 | [peptionary with kdlex](http://twitter.com/search?q=peptionary+with+kdlex) | N/A |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 23 | [ASAP SOULDIVA COMEBACK](http://twitter.com/search?q=ASAP+SOULDIVA+COMEBACK) | N/A |
+| 24 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 25 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
+| 26 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 28 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
+| 29 | [SAM MarchPasabog](http://twitter.com/search?q=SAM+MarchPasabog) | N/A |
+| 30 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 31 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 32 | [TheaAstley AOSomeBDay](http://twitter.com/search?q=TheaAstley+AOSomeBDay) | N/A |
+| 33 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 34 | [hori7on the beginning](http://twitter.com/search?q=hori7on+the+beginning) | N/A |
+| 35 | [MARSOloistMAYMAY OnASAP](http://twitter.com/search?q=MARSOloistMAYMAY+OnASAP) | N/A |
+| 36 | [ALJAY ASAPinaTEENdingCLASH](http://twitter.com/search?q=ALJAY+ASAPinaTEENdingCLASH) | N/A |
+| 37 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
+| 38 | [Almendras](http://twitter.com/search?q=Almendras) | N/A |
+| 39 | [UNSTOPPABLE REIVEN UMALI](http://twitter.com/search?q=UNSTOPPABLE+REIVEN+UMALI) | N/A |
+| 40 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 41 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 42 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
+| 43 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 44 | [SoMARCHLove MAYWARD](http://twitter.com/search?q=SoMARCHLove+MAYWARD) | N/A |
+| 45 | [Sheena B MarSoaringDiva](http://twitter.com/search?q=Sheena+B+MarSoaringDiva) | N/A |
+| 46 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
+| 47 | [JEREMYsaASAP MarchMasaya](http://twitter.com/search?q=JEREMYsaASAP+MarchMasaya) | N/A |
+| 48 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 49 | [PASSIONATE INTERN V](http://twitter.com/search?q=PASSIONATE+INTERN+V) | N/A |
 
 
 

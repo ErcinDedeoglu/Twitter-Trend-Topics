@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-12 03:18:37 UTC`
+📆 Last Updated: `2023-03-12 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,12 +50,12 @@ This is top 50 for Algeria
 | 33 | [America](http://twitter.com/search?q=America) | N/A |
 | 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 35 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 36 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 37 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 38 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 39 | [العلاقات الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 40 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 41 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 36 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 37 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 38 | [العلاقات الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 40 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 41 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 42 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
 | 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |

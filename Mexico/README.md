@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-12 03:18:42 UTC`
+📆 Last Updated: `2023-03-12 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
 | 2 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 3 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 4 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 5 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 6 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 7 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 8 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 9 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 10 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 11 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 12 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
-| 13 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 14 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 15 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 16 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 17 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 18 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 19 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 20 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 21 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 22 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 23 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 24 | [WHERE IS QUACKITY](http://twitter.com/search?q=WHERE+IS+QUACKITY) | N/A |
-| 25 | [Vamos América](http://twitter.com/search?q=Vamos+Am%c3%a9rica) | N/A |
-| 26 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 27 | [El Hombre de Papel](http://twitter.com/search?q=El+Hombre+de+Papel) | N/A |
-| 28 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 29 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 30 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 31 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
-| 32 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 33 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 34 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 35 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
-| 36 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 37 | [Cri Cri](http://twitter.com/search?q=Cri+Cri) | N/A |
-| 38 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 39 | [di yorio](http://twitter.com/search?q=di+yorio) | N/A |
-| 40 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 41 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 42 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 44 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 45 | [Rafita](http://twitter.com/search?q=Rafita) | N/A |
-| 46 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
-| 47 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 48 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 49 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 50 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
+| 3 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 4 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 5 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 6 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 7 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 8 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 9 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 10 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 11 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 12 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 13 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 14 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 15 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 16 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 17 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
+| 18 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 19 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 20 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 21 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 22 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 23 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
+| 24 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 25 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 26 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 27 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 28 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 29 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 30 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 31 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 32 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 33 | [Estorboza](http://twitter.com/search?q=Estorboza) | N/A |
+| 34 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 35 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 36 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 37 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 38 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 39 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 40 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 41 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 42 | [Época de Oro](http://twitter.com/search?q=%c3%89poca+de+Oro) | N/A |
+| 43 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 44 | [El Hombre de Papel](http://twitter.com/search?q=El+Hombre+de+Papel) | N/A |
+| 45 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 46 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
+| 47 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
+| 48 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
+| 49 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 50 | [Actor](http://twitter.com/search?q=Actor) | N/A |
 
 
 

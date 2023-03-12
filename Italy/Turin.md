@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-12 03:18:01 UTC`
+📆 Last Updated: `2023-03-12 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Italy](</Italy>)
 | 13 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
 | 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 15 | [De André](http://twitter.com/search?q=De+Andr%c3%a9) | N/A |
-| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 18 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 19 | [Mannarino](http://twitter.com/search?q=Mannarino) | N/A |
-| 20 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 21 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
-| 22 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
-| 23 | [daniel maldini](http://twitter.com/search?q=daniel+maldini) | N/A |
-| 24 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 25 | [fausto papetti](http://twitter.com/search?q=fausto+papetti) | N/A |
-| 26 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 27 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 28 | [handanovic](http://twitter.com/search?q=handanovic) | N/A |
-| 29 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 30 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 31 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
-| 32 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 33 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 34 | [aranzulla](http://twitter.com/search?q=aranzulla) | N/A |
-| 35 | [Leriana](http://twitter.com/search?q=Leriana) | N/A |
-| 36 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 37 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
-| 38 | [Ranya](http://twitter.com/search?q=Ranya) | N/A |
-| 39 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 40 | [Giuntoli](http://twitter.com/search?q=Giuntoli) | N/A |
-| 41 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 42 | [nzola](http://twitter.com/search?q=nzola) | N/A |
-| 43 | [Abbatte](http://twitter.com/search?q=Abbatte) | N/A |
-| 44 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
-| 45 | [Atac](http://twitter.com/search?q=Atac) | N/A |
-| 46 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 47 | [Storace](http://twitter.com/search?q=Storace) | N/A |
-| 48 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 49 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 50 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 16 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 17 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 18 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 19 | [Gollini](http://twitter.com/search?q=Gollini) | N/A |
+| 20 | [daniel maldini](http://twitter.com/search?q=daniel+maldini) | N/A |
+| 21 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 22 | [fausto papetti](http://twitter.com/search?q=fausto+papetti) | N/A |
+| 23 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 24 | [handanovic](http://twitter.com/search?q=handanovic) | N/A |
+| 25 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 26 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 27 | [Gerry Scotti](http://twitter.com/search?q=Gerry+Scotti) | N/A |
+| 28 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
+| 29 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 30 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
+| 31 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 32 | [aranzulla](http://twitter.com/search?q=aranzulla) | N/A |
+| 33 | [Leriana](http://twitter.com/search?q=Leriana) | N/A |
+| 34 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 35 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
+| 36 | [Ranya](http://twitter.com/search?q=Ranya) | N/A |
+| 37 | [zaccagni](http://twitter.com/search?q=zaccagni) | N/A |
+| 38 | [giuntoli](http://twitter.com/search?q=giuntoli) | N/A |
+| 39 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 40 | [nzola](http://twitter.com/search?q=nzola) | N/A |
+| 41 | [abbatte](http://twitter.com/search?q=abbatte) | N/A |
+| 42 | [Gazzetta](http://twitter.com/search?q=Gazzetta) | N/A |
+| 43 | [Atac](http://twitter.com/search?q=Atac) | N/A |
+| 44 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 45 | [Storace](http://twitter.com/search?q=Storace) | N/A |
+| 46 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 47 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 48 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 49 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 50 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 
 
 

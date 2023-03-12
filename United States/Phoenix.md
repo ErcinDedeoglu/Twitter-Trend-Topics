@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-12 03:18:34 UTC`
+📆 Last Updated: `2023-03-12 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chase Field](http://twitter.com/search?q=Chase+Field) | N/A |
-| 2 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 3 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 4 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 5 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 8 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 9 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 10 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 11 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 12 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 13 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 14 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 16 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 17 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 18 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 19 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 20 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 21 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 22 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 23 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 24 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 25 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 26 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 27 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 28 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 29 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 30 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 31 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 32 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 33 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 34 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 35 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 36 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 37 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 38 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 39 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 40 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 41 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 42 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 43 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 44 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 45 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 46 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 47 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 48 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 49 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 50 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 3 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 5 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 6 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 10 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 11 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 12 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 13 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 14 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 15 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 16 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 17 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 18 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 19 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 20 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 21 | [#PowerSlap1](http://twitter.com/search?q=%23PowerSlap1) | N/A |
+| 22 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 23 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 24 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 25 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 26 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 27 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 28 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 29 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 30 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 31 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 32 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 33 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
+| 34 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 35 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 36 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 37 | [Joe Ingles](http://twitter.com/search?q=Joe+Ingles) | N/A |
+| 38 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 39 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 40 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 42 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 43 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 44 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 45 | [ACC Champions](http://twitter.com/search?q=ACC+Champions) | N/A |
+| 46 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
+| 47 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 48 | [Jeremy Roach](http://twitter.com/search?q=Jeremy+Roach) | N/A |
+| 49 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 50 | [KARL](http://twitter.com/search?q=KARL) | N/A |
 
 
 

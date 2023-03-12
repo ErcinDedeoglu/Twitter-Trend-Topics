@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-12 03:18:32 UTC`
+📆 Last Updated: `2023-03-12 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 2 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 3 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 5 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 6 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 7 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 8 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 9 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 14 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 2 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 3 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 4 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 5 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 6 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 7 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 8 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 9 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 10 | [Bond](http://twitter.com/search?q=Bond) | N/A |
+| 11 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 12 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
+| 13 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 14 | [Keith](http://twitter.com/search?q=Keith) | N/A |
 | 15 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 16 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 17 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 18 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 19 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 20 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 21 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 22 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 23 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 24 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 25 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 27 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 28 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 29 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 30 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 31 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 32 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 33 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 34 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 35 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 36 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 37 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 38 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 39 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 40 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 41 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 42 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 43 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 44 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 45 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 46 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 47 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 48 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 49 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 50 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 16 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 18 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 19 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 20 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 21 | [The FDIC](http://twitter.com/search?q=The+FDIC) | N/A |
+| 22 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 23 | [#scale20x](http://twitter.com/search?q=%23scale20x) | N/A |
+| 24 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 25 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 26 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 31 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 32 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 33 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 34 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 35 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 36 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 37 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 38 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 39 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 40 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 41 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 42 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 43 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 44 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 45 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 46 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 47 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 48 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
+| 49 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 50 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
 
 
 

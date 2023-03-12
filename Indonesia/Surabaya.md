@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-12 03:18:05 UTC`
+📆 Last Updated: `2023-03-12 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 2 | [#PLTGSamberaMandek](http://twitter.com/search?q=%23PLTGSamberaMandek) | N/A |
-| 3 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 4 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 5 | [#BORNPINKinJKTday1](http://twitter.com/search?q=%23BORNPINKinJKTday1) | N/A |
-| 6 | [#c55dibreakout](http://twitter.com/search?q=%23c55dibreakout) | N/A |
+| 1 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
+| 2 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 3 | [#JakartaSTINBINPastiBisa](http://twitter.com/search?q=%23JakartaSTINBINPastiBisa) | N/A |
+| 4 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 5 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
+| 6 | [#BORNPINKinJKTday1](http://twitter.com/search?q=%23BORNPINKinJKTday1) | N/A |
 | 7 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 8 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 9 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
+| 8 | [teh gelas jaksel](http://twitter.com/search?q=teh+gelas+jaksel) | N/A |
+| 9 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
 | 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 12 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
-| 13 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
-| 14 | [Koesni Harningsih](http://twitter.com/search?q=Koesni+Harningsih) | N/A |
-| 15 | [get well soon chenle](http://twitter.com/search?q=get+well+soon+chenle) | N/A |
-| 16 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 17 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
-| 18 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 19 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
-| 20 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 21 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
-| 22 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 23 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 24 | [umur 15](http://twitter.com/search?q=umur+15) | N/A |
-| 25 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
-| 26 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 28 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 29 | [ROSÉ MEMUKAU JAKARTA](http://twitter.com/search?q=ROS%c3%89+MEMUKAU+JAKARTA) | N/A |
-| 30 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 31 | [Promotornya](http://twitter.com/search?q=Promotornya) | N/A |
-| 32 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 33 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 35 | [AgustD](http://twitter.com/search?q=AgustD) | N/A |
-| 36 | [WAYV 1ST CHARITY SONG](http://twitter.com/search?q=WAYV+1ST+CHARITY+SONG) | N/A |
-| 37 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 38 | [stay strong our biu](http://twitter.com/search?q=stay+strong+our+biu) | N/A |
-| 39 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 40 | [Iespa](http://twitter.com/search?q=Iespa) | N/A |
-| 41 | [Everyone Silent](http://twitter.com/search?q=Everyone+Silent) | N/A |
-| 42 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 43 | [Yeonjin](http://twitter.com/search?q=Yeonjin) | N/A |
-| 44 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 45 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 46 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
-| 47 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 48 | [Indonesia Raya](http://twitter.com/search?q=Indonesia+Raya) | N/A |
-| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 50 | [irish bella](http://twitter.com/search?q=irish+bella) | N/A |
+| 11 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 12 | [Lavani Allo Bank](http://twitter.com/search?q=Lavani+Allo+Bank) | N/A |
+| 13 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
+| 14 | [mitologi indonesia](http://twitter.com/search?q=mitologi+indonesia) | N/A |
+| 15 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 16 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
+| 17 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 18 | [Collabonation Mini Camp](http://twitter.com/search?q=Collabonation+Mini+Camp) | N/A |
+| 19 | [get well soon chenle](http://twitter.com/search?q=get+well+soon+chenle) | N/A |
+| 20 | [INDONESIA CINTA JENNIE](http://twitter.com/search?q=INDONESIA+CINTA+JENNIE) | N/A |
+| 21 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 22 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
+| 23 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 24 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
+| 25 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 26 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 27 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 28 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 29 | [Koesni Harningsih](http://twitter.com/search?q=Koesni+Harningsih) | N/A |
+| 30 | [ROSÉ MEMUKAU JAKARTA](http://twitter.com/search?q=ROS%c3%89+MEMUKAU+JAKARTA) | N/A |
+| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 32 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 33 | [AgustD](http://twitter.com/search?q=AgustD) | N/A |
+| 34 | [CHILWELL](http://twitter.com/search?q=CHILWELL) | N/A |
+| 35 | [Indonesia Raya](http://twitter.com/search?q=Indonesia+Raya) | N/A |
+| 36 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 37 | [Otsulemao](http://twitter.com/search?q=Otsulemao) | N/A |
+| 38 | [WAYV 1ST CHARITY SONG](http://twitter.com/search?q=WAYV+1ST+CHARITY+SONG) | N/A |
+| 39 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
+| 40 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 41 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 42 | [iespa](http://twitter.com/search?q=iespa) | N/A |
+| 43 | [Everyone Silent](http://twitter.com/search?q=Everyone+Silent) | N/A |
+| 44 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 45 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 47 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 48 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
+| 49 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 50 | [Yeonjin](http://twitter.com/search?q=Yeonjin) | N/A |
 
 
 

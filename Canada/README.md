@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-12 03:18:38 UTC`
+📆 Last Updated: `2023-03-12 04:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,52 @@ This is top 50 for Canada
 | 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 3 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
 | 4 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 5 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 5 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
 | 6 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 7 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 8 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 9 | [#EDMvsTOR](http://twitter.com/search?q=%23EDMvsTOR) | N/A |
-| 10 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 12 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 13 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
-| 14 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 15 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 16 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 17 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 18 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 19 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 20 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 21 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 22 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 24 | [Dunstone](http://twitter.com/search?q=Dunstone) | N/A |
-| 25 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 26 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 27 | [Jake McCabe](http://twitter.com/search?q=Jake+McCabe) | N/A |
-| 28 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 29 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 30 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
-| 31 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 32 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 33 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 34 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 35 | [PSPP](http://twitter.com/search?q=PSPP) | N/A |
-| 36 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 37 | [#UnFnSanctioned](http://twitter.com/search?q=%23UnFnSanctioned) | N/A |
-| 38 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 39 | [#HNIC](http://twitter.com/search?q=%23HNIC) | N/A |
-| 40 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 41 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
-| 42 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 43 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 44 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
-| 45 | [#UFCVegas71](http://twitter.com/search?q=%23UFCVegas71) | N/A |
-| 46 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 47 | [#SpringForward](http://twitter.com/search?q=%23SpringForward) | N/A |
+| 7 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 8 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 9 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 10 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 11 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
+| 12 | [#UnFnSanctioned](http://twitter.com/search?q=%23UnFnSanctioned) | N/A |
+| 13 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 14 | [#EDMvsTOR](http://twitter.com/search?q=%23EDMvsTOR) | N/A |
+| 15 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 16 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 17 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 18 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 19 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 20 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 21 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 22 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 24 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 25 | [Dunstone](http://twitter.com/search?q=Dunstone) | N/A |
+| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 27 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 28 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 29 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 30 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 31 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 32 | [Jake McCabe](http://twitter.com/search?q=Jake+McCabe) | N/A |
+| 33 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
+| 34 | [Brier](http://twitter.com/search?q=Brier) | N/A |
+| 35 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 36 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 37 | [Soup](http://twitter.com/search?q=Soup) | N/A |
+| 38 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 40 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 41 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 42 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 43 | [#HNIC](http://twitter.com/search?q=%23HNIC) | N/A |
+| 44 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 45 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 46 | [#IMFC](http://twitter.com/search?q=%23IMFC) | N/A |
+| 47 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 48 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
+| 49 | [#SpringForward](http://twitter.com/search?q=%23SpringForward) | N/A |
+| 50 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
 
 
 

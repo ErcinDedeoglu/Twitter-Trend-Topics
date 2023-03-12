@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-12 03:17:52 UTC`
+📆 Last Updated: `2023-03-12 04:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,32 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 2 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 3 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 4 | [#11Mar](http://twitter.com/search?q=%2311Mar) | N/A |
-| 5 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [#SoleimaniVive](http://twitter.com/search?q=%23SoleimaniVive) | N/A |
-| 8 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 9 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 10 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 11 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 12 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 13 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 14 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 15 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 16 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
-| 17 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 18 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 19 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 20 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
-| 21 | [José Ruiz](http://twitter.com/search?q=Jos%c3%a9+Ruiz) | N/A |
-| 22 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 25 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 26 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
-| 27 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 28 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 29 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 30 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 31 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 32 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 33 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 34 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 35 | [Eduardo Rodríguez](http://twitter.com/search?q=Eduardo+Rodr%c3%adguez) | N/A |
-| 36 | [Aure](http://twitter.com/search?q=Aure) | N/A |
-| 37 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 38 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 39 | [Julio Rodríguez](http://twitter.com/search?q=Julio+Rodr%c3%adguez) | N/A |
-| 40 | [Manuel Rodríguez](http://twitter.com/search?q=Manuel+Rodr%c3%adguez) | N/A |
-| 41 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
-| 42 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
-| 43 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 44 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 45 | [Arraez](http://twitter.com/search?q=Arraez) | Arraez is a Spanish surname. It is derived from the Latin word "arrare", which means "to plow". In English, it can be translated to mean "plowman". |
-| 46 | [Peñaranda](http://twitter.com/search?q=Pe%c3%b1aranda) | N/A |
+| 2 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 3 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Ganó Venezuela](http://twitter.com/search?q=Gan%c3%b3+Venezuela) | N/A |
+| 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 7 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 8 | [#ArepaPower](http://twitter.com/search?q=%23ArepaPower) | N/A |
+| 9 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 10 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 11 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 12 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 13 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 14 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 15 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 16 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
+| 17 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 18 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 19 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 20 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 21 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 22 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 23 | [Martin Pérez](http://twitter.com/search?q=Martin+P%c3%a9rez) | N/A |
+| 24 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 25 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 26 | [Venevisión](http://twitter.com/search?q=Venevisi%c3%b3n) | Venevisión is a Venezuelan television network founded in 1961. It is one of the largest and most popular networks in the country, and it broadcasts a variety of programming including news, sports, movies, soap operas, and more. The name Venevisión is derived from the words "Venezuela" and "televisión," meaning "television from Venezuela." |
+| 27 | [#LaQueNosVuelveLocos](http://twitter.com/search?q=%23LaQueNosVuelveLocos) | N/A |
 
 
 

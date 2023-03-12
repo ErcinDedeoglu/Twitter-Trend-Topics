@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-12 03:18:01 UTC`
+📆 Last Updated: `2023-03-12 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
 | 10 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 11 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 12 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 14 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
-| 15 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 16 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 15 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 16 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
 | 17 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
 | 18 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
 | 19 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 21 | [marijn](http://twitter.com/search?q=marijn) | N/A |
 | 22 | [Duitse](http://twitter.com/search?q=Duitse) | N/A |
-| 23 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
-| 24 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
-| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 26 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 23 | [stekkerrijders](http://twitter.com/search?q=stekkerrijders) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
+| 26 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
 | 27 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 28 | [afgelast](http://twitter.com/search?q=afgelast) | N/A |
 | 29 | [wittek](http://twitter.com/search?q=wittek) | N/A |
 | 30 | [Mart Smeets](http://twitter.com/search?q=Mart+Smeets) | N/A |
 | 31 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 32 | [joost eerdmans](http://twitter.com/search?q=joost+eerdmans) | N/A |
-| 33 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
-| 34 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
-| 35 | [Demonstreren](http://twitter.com/search?q=Demonstreren) | N/A |
-| 36 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 37 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
-| 38 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
-| 39 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 40 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 41 | [utrechtsebaan](http://twitter.com/search?q=utrechtsebaan) | N/A |
-| 42 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 43 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
-| 44 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
-| 45 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 46 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
-| 47 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 48 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 49 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
-| 50 | [Met D66](http://twitter.com/search?q=Met+D66) | N/A |
+| 33 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
+| 34 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
+| 35 | [demonstreren](http://twitter.com/search?q=demonstreren) | N/A |
+| 36 | [Demograaf](http://twitter.com/search?q=Demograaf) | N/A |
+| 37 | [cocu](http://twitter.com/search?q=cocu) | N/A |
+| 38 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 39 | [utrechtsebaan](http://twitter.com/search?q=utrechtsebaan) | N/A |
+| 40 | [pim lammers](http://twitter.com/search?q=pim+lammers) | N/A |
+| 41 | [De Jonge](http://twitter.com/search?q=De+Jonge) | N/A |
+| 42 | [Rob Roos](http://twitter.com/search?q=Rob+Roos) | N/A |
+| 43 | [vooruitgang](http://twitter.com/search?q=vooruitgang) | N/A |
+| 44 | [Suslov](http://twitter.com/search?q=Suslov) | N/A |
+| 45 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 46 | [mores](http://twitter.com/search?q=mores) | N/A |
+| 47 | [De A12](http://twitter.com/search?q=De+A12) | N/A |
+| 48 | [Met D66](http://twitter.com/search?q=Met+D66) | N/A |
+| 49 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 50 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 
 
 

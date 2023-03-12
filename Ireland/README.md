@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-12 03:18:39 UTC`
+📆 Last Updated: `2023-03-12 04:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Ireland
 | 1 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
 | 2 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 3 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 4 | [#ITAvWAL](http://twitter.com/search?q=%23ITAvWAL) | N/A |
+| 4 | [#itavwal](http://twitter.com/search?q=%23itavwal) | N/A |
 | 5 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 6 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
@@ -29,10 +29,10 @@ This is top 50 for Ireland
 | 12 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 13 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 16 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 18 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 17 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 18 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
 | 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 20 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
 | 21 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
@@ -55,11 +55,11 @@ This is top 50 for Ireland
 | 38 | [Sligo Rovers](http://twitter.com/search?q=Sligo+Rovers) | N/A |
 | 39 | [John Boyne](http://twitter.com/search?q=John+Boyne) | N/A |
 | 40 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 41 | [hendo](http://twitter.com/search?q=hendo) | N/A |
+| 41 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 42 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 | 43 | [TINA](http://twitter.com/search?q=TINA) | N/A |
 | 44 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
-| 45 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
+| 45 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
 | 46 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
 | 47 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 48 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-12 03:18:18 UTC`
+📆 Last Updated: `2023-03-12 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 2 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 3 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 4 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 5 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 6 | [#الوصل_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b5%d9%84_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 5 | [#الوصل_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b5%d9%84_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 7 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 8 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 9 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 12 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 13 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 8 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 11 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 12 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 13 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 14 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 15 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
 | 16 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-12 03:17:53 UTC`
+📆 Last Updated: `2023-03-12 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brasileiro](http://twitter.com/search?q=Brasileiro) | N/A |
-| 2 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
+| 1 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 2 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
 | 3 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 4 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 5 | [Ian Lucas](http://twitter.com/search?q=Ian+Lucas) | N/A |
-| 6 | [Nikao](http://twitter.com/search?q=Nikao) | N/A |
-| 7 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 8 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 9 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 10 | [Sete Lagoas](http://twitter.com/search?q=Sete+Lagoas) | N/A |
-| 11 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 12 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 13 | [Lua de Cristal](http://twitter.com/search?q=Lua+de+Cristal) | N/A |
-| 14 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
-| 15 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
-| 16 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 17 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 18 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
-| 19 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 22 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
-| 23 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 24 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 25 | [Melhor Sozinha](http://twitter.com/search?q=Melhor+Sozinha) | N/A |
-| 26 | [Penhasco](http://twitter.com/search?q=Penhasco) | N/A |
-| 27 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
-| 28 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 29 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 30 | [20x12](http://twitter.com/search?q=20x12) | N/A |
+| 4 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 5 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 6 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 7 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 8 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 9 | [Lua de Cristal](http://twitter.com/search?q=Lua+de+Cristal) | N/A |
+| 10 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
+| 11 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 12 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 13 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
+| 14 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 15 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 16 | [Silvero](http://twitter.com/search?q=Silvero) | N/A |
+| 17 | [Jrue Holiday](http://twitter.com/search?q=Jrue+Holiday) | N/A |
+| 18 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 19 | [Ilariê](http://twitter.com/search?q=Ilari%c3%aa) | N/A |
+| 20 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 21 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
+| 22 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 23 | [XSPB](http://twitter.com/search?q=XSPB) | N/A |
+| 24 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 25 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 26 | [Paquita](http://twitter.com/search?q=Paquita) | Paquita is a ballet in two acts, originally choreographed by the French ballet master Joseph Mazilier to the music of Edouard Deldevez. The libretto was written by Vernoy de Saint-Georges and Jules-Henri Vernoy de Saint-Georges. The title character is a Spanish peasant girl who is rescued from poverty and brought to the court of King Louis XIV. In English, Paquita means "little one". |
+| 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 28 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 29 | [Tiago Abravanel](http://twitter.com/search?q=Tiago+Abravanel) | N/A |
+| 30 | [Melhor Sozinha](http://twitter.com/search?q=Melhor+Sozinha) | N/A |
 | 31 | [Tidinha](http://twitter.com/search?q=Tidinha) | N/A |
-| 32 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
-| 33 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
-| 34 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 35 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 36 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 37 | [Engov](http://twitter.com/search?q=Engov) | N/A |
-| 38 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 39 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
-| 40 | [Adenizia](http://twitter.com/search?q=Adenizia) | N/A |
-| 41 | [Anaconda](http://twitter.com/search?q=Anaconda) | N/A |
-| 42 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 43 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 44 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 45 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 46 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 47 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 48 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 49 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 50 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 32 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 33 | [Penhasco](http://twitter.com/search?q=Penhasco) | N/A |
+| 34 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 35 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
+| 36 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 37 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 39 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
+| 40 | [Fabiana Karla](http://twitter.com/search?q=Fabiana+Karla) | N/A |
+| 41 | [20x12](http://twitter.com/search?q=20x12) | N/A |
+| 42 | [Baixinhos](http://twitter.com/search?q=Baixinhos) | N/A |
+| 43 | [Doce Mel](http://twitter.com/search?q=Doce+Mel) | N/A |
+| 44 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 45 | [crazy girls](http://twitter.com/search?q=crazy+girls) | N/A |
+| 46 | [Arco-íris](http://twitter.com/search?q=Arco-%c3%adris) | N/A |
+| 47 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 48 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 49 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 50 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 
 
 

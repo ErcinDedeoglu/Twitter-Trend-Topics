@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-12 03:18:30 UTC`
+📆 Last Updated: `2023-03-12 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeAre](http://twitter.com/search?q=%23WeAre) | #WeAre is a hashtag used to express solidarity and unity. It is often used to show support for a cause or group of people, or to celebrate diversity and inclusion. The phrase is often used in social media posts, slogans, and other forms of communication. |
-| 2 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 3 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 4 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 5 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 6 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 7 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 1 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 2 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 3 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 4 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 5 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 9 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 10 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 11 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 12 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 13 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 14 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 15 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 16 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 17 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 18 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 19 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 20 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 21 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 23 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
-| 24 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 25 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 26 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 27 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 28 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 29 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 30 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 31 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 32 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 33 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 34 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 35 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 36 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 37 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 38 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 39 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 42 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 43 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 44 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 45 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 46 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 48 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 49 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 50 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 9 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 10 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 11 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 12 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 13 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 14 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 15 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 16 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 17 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 18 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 19 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 20 | [#PowerSlap1](http://twitter.com/search?q=%23PowerSlap1) | N/A |
+| 21 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 22 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 24 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 25 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 26 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 27 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 28 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 29 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 30 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 31 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 32 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
+| 33 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 34 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 35 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 36 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 37 | [Joe Ingles](http://twitter.com/search?q=Joe+Ingles) | N/A |
+| 38 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 39 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 40 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 41 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 42 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 44 | [ACC Champions](http://twitter.com/search?q=ACC+Champions) | N/A |
+| 45 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 46 | [Mousey](http://twitter.com/search?q=Mousey) | Mousey is a slang term used to describe someone who is timid or shy. It can also be used to describe someone who is easily intimidated or scared. |
+| 47 | [Jeremy Roach](http://twitter.com/search?q=Jeremy+Roach) | N/A |
+| 48 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 49 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 50 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 
 
 

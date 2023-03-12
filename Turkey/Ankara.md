@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-12 03:18:26 UTC`
+📆 Last Updated: `2023-03-12 04:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
 | 11 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
 | 12 | [ucuzfiyatdan tthizmeti](http://twitter.com/search?q=ucuzfiyatdan+tthizmeti) | N/A |
-| 13 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 14 | [reisbizi unutma](http://twitter.com/search?q=reisbizi+unutma) | N/A |
+| 13 | [reisbizi unutma](http://twitter.com/search?q=reisbizi+unutma) | N/A |
+| 14 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
 | 15 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 16 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 17 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 16 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 17 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
 | 18 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 19 | [YusufKerime AnnesiniVerin](http://twitter.com/search?q=YusufKerime+AnnesiniVerin) | N/A |
-| 20 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 21 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 19 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 20 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 21 | [YusufKerime AnnesiniVerin](http://twitter.com/search?q=YusufKerime+AnnesiniVerin) | N/A |
 | 22 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
 | 23 | [Adekugbe](http://twitter.com/search?q=Adekugbe) | N/A |
 | 24 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 25 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
-| 26 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 27 | [GeneldeBana Jackdiyorlar](http://twitter.com/search?q=GeneldeBana+Jackdiyorlar) | N/A |
-| 28 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
-| 29 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 30 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
-| 31 | [profilime kimlerbakiyoo](http://twitter.com/search?q=profilime+kimlerbakiyoo) | N/A |
-| 32 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 33 | [sokullu mehmet paşa](http://twitter.com/search?q=sokullu+mehmet+pa%c5%9fa) | N/A |
-| 34 | [TaşeronSandıkta KadroNerede](http://twitter.com/search?q=Ta%c5%9feronSand%c4%b1kta+KadroNerede) | N/A |
-| 35 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
-| 36 | [Donk](http://twitter.com/search?q=Donk) | N/A |
-| 37 | [rashica](http://twitter.com/search?q=rashica) | N/A |
+| 25 | [günay](http://twitter.com/search?q=g%c3%bcnay) | N/A |
+| 26 | [geneldebana jackdiyorlar](http://twitter.com/search?q=geneldebana+jackdiyorlar) | N/A |
+| 27 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 28 | [türkiye vakti](http://twitter.com/search?q=t%c3%bcrkiye+vakti) | N/A |
+| 29 | [profilime kimlerbakiyoo](http://twitter.com/search?q=profilime+kimlerbakiyoo) | N/A |
+| 30 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 31 | [sokullu mehmet paşa](http://twitter.com/search?q=sokullu+mehmet+pa%c5%9fa) | N/A |
+| 32 | [Muhtarlık](http://twitter.com/search?q=Muhtarl%c4%b1k) | N/A |
+| 33 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 34 | [seninleyiz türkiye](http://twitter.com/search?q=seninleyiz+t%c3%bcrkiye) | N/A |
+| 35 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 36 | [rashica](http://twitter.com/search?q=rashica) | N/A |
+| 37 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
 | 38 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
-| 39 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 40 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 39 | [Gülşen Bubikoğlu](http://twitter.com/search?q=G%c3%bcl%c5%9fen+Bubiko%c4%9flu) | N/A |
+| 40 | [TaşeronSandıkta KadroNerede](http://twitter.com/search?q=Ta%c5%9feronSand%c4%b1kta+KadroNerede) | N/A |
 | 41 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
-| 42 | [muhammed emin özkan](http://twitter.com/search?q=muhammed+emin+%c3%b6zkan) | N/A |
-| 43 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
-| 44 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
-| 45 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 46 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 47 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 48 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 49 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 42 | [ASIMIN NESLİ GELİYOR](http://twitter.com/search?q=ASIMIN+NESL%c4%b0+GEL%c4%b0YOR) | N/A |
+| 43 | [muhammed emin özkan](http://twitter.com/search?q=muhammed+emin+%c3%b6zkan) | N/A |
+| 44 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 45 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
+| 46 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 47 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 48 | [Selamün Aleyküm](http://twitter.com/search?q=Selam%c3%bcn+Aleyk%c3%bcm) | N/A |
+| 49 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
 
 
 
