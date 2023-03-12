@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-12 22:17:39 UTC`
+📆 Last Updated: `2023-03-12 23:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
 | 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [#airbnb](http://twitter.com/search?q=%23airbnb) | N/A |
-| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
+| 5 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
+| 9 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 10 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
-| 11 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
-| 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 13 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 14 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 15 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 16 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 17 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 18 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 19 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 21 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
-| 22 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 23 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 24 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 25 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 26 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 28 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 29 | [Gedankengut](http://twitter.com/search?q=Gedankengut) | N/A |
-| 30 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Talent](http://twitter.com/search?q=Talent) | N/A |
-| 33 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 34 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
-| 35 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 36 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 37 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 38 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 39 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 40 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 41 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 42 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 43 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 44 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 45 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 46 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 47 | [Reich](http://twitter.com/search?q=Reich) | N/A |
-| 48 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 49 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 12 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
+| 16 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 17 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 18 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 19 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 20 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 21 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
+| 22 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 24 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 25 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 26 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 27 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 28 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 29 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 30 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 31 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 32 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 33 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 34 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 35 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
+| 36 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 37 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 38 | [Wege](http://twitter.com/search?q=Wege) | N/A |
+| 39 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 40 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 41 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 43 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 44 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 47 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 48 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 49 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 50 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
 
 
 

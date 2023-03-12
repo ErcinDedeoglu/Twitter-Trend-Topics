@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-12 22:16:34 UTC`
+📆 Last Updated: `2023-03-12 23:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 2 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 3 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 4 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 5 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
-| 6 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 7 | [#DavidAttenborough](http://twitter.com/search?q=%23DavidAttenborough) | N/A |
-| 8 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 9 | [#WHUFC](http://twitter.com/search?q=%23WHUFC) | N/A |
-| 10 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 11 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 12 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
-| 13 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 14 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 15 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 16 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
-| 17 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 18 | [Shaqs](http://twitter.com/search?q=Shaqs) | N/A |
-| 19 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 20 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
-| 21 | [Nile](http://twitter.com/search?q=Nile) | N/A |
-| 22 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 23 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 24 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 25 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 1 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 2 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 3 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 4 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 5 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 6 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
+| 7 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 8 | [#loveislandaftersun](http://twitter.com/search?q=%23loveislandaftersun) | N/A |
+| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 10 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 11 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 12 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 13 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 14 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 15 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 16 | [John Thaw](http://twitter.com/search?q=John+Thaw) | N/A |
+| 17 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
+| 18 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 19 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 20 | [Shaqs](http://twitter.com/search?q=Shaqs) | N/A |
+| 21 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 22 | [Nile](http://twitter.com/search?q=Nile) | N/A |
+| 23 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
+| 24 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 25 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 27 | [Bolero](http://twitter.com/search?q=Bolero) | N/A |
-| 28 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 29 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 30 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 31 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
-| 32 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 33 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 34 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 35 | [Irish Wolfhound](http://twitter.com/search?q=Irish+Wolfhound) | N/A |
-| 36 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 37 | [Bill Tidy](http://twitter.com/search?q=Bill+Tidy) | N/A |
-| 38 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 39 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 40 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 41 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 42 | [The Vivienne](http://twitter.com/search?q=The+Vivienne) | N/A |
-| 43 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 44 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
-| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 46 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 47 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 48 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 27 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 28 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 29 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 30 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 31 | [Bill Tidy](http://twitter.com/search?q=Bill+Tidy) | N/A |
+| 32 | [Irish Wolfhound](http://twitter.com/search?q=Irish+Wolfhound) | N/A |
+| 33 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 34 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 35 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 36 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 37 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 38 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
+| 39 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 40 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 41 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 42 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 43 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 44 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 45 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 46 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 47 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 48 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
 
 
 

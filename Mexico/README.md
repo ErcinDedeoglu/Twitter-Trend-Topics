@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-12 22:17:36 UTC`
+📆 Last Updated: `2023-03-12 23:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 3 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 4 | [CUPIDO HACE MALAS DECISIONES](http://twitter.com/search?q=CUPIDO+HACE+MALAS+DECISIONES) | N/A |
-| 5 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 7 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 8 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 9 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 10 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 11 | [#MorwinCanon](http://twitter.com/search?q=%23MorwinCanon) | N/A |
-| 12 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 14 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 15 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 3 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
+| 4 | [AMOR DE CINE DISCO DE ORO](http://twitter.com/search?q=AMOR+DE+CINE+DISCO+DE+ORO) | N/A |
+| 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 6 | [CUPIDO HACE MALAS DECISIONES](http://twitter.com/search?q=CUPIDO+HACE+MALAS+DECISIONES) | N/A |
+| 7 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 8 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 9 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 10 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
+| 11 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 12 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 13 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 14 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 15 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 16 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 17 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 18 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
-| 19 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 20 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 21 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 22 | [Benedetti](http://twitter.com/search?q=Benedetti) | N/A |
-| 23 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
-| 24 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 25 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 26 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 27 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 28 | [Jalen Ramsey](http://twitter.com/search?q=Jalen+Ramsey) | N/A |
-| 29 | [Marcel Ruiz](http://twitter.com/search?q=Marcel+Ruiz) | N/A |
-| 30 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 31 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 32 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 33 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 34 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 35 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 36 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 37 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 38 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 39 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 40 | [Palacio de Bellas Artes](http://twitter.com/search?q=Palacio+de+Bellas+Artes) | N/A |
-| 41 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
-| 42 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 44 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 45 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 46 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 47 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 48 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 49 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 50 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 17 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
+| 18 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 19 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 20 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 22 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 23 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 24 | [#MorwinCanon](http://twitter.com/search?q=%23MorwinCanon) | N/A |
+| 25 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 26 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 27 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 28 | [Mejor Actor](http://twitter.com/search?q=Mejor+Actor) | N/A |
+| 29 | [#pinocchiomovie](http://twitter.com/search?q=%23pinocchiomovie) | N/A |
+| 30 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 31 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 32 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 33 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 35 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 36 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 37 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 38 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 39 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 40 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
+| 41 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 42 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
+| 43 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 44 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
+| 45 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
+| 46 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 47 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
+| 48 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 49 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
+| 50 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 
 
 

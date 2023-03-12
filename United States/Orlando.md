@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-12 22:17:27 UTC`
+📆 Last Updated: `2023-03-12 23:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Lightningstrikes](http://twitter.com/search?q=%23Lightningstrikes) | N/A |
-| 2 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 3 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 1 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 2 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
 | 4 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 5 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 6 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
-| 7 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
+| 5 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
+| 6 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
+| 7 | [Banks](http://twitter.com/search?q=Banks) | N/A |
 | 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 9 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 10 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 11 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
-| 14 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
-| 15 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 16 | [South Region](http://twitter.com/search?q=South+Region) | N/A |
-| 17 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 18 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 19 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 20 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 21 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 22 | [Payne](http://twitter.com/search?q=Payne) | N/A |
-| 23 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 24 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 25 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 26 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 27 | [Selection Show](http://twitter.com/search?q=Selection+Show) | N/A |
-| 28 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 29 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 30 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 31 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 32 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 33 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
-| 34 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 35 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 37 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 38 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 39 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 40 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 41 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 42 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 43 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
-| 44 | [FaZe](http://twitter.com/search?q=FaZe) | N/A |
-| 45 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 46 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
-| 47 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 48 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 49 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 9 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 10 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
+| 11 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 12 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 13 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 14 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 15 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 16 | [Bryce Hopkins](http://twitter.com/search?q=Bryce+Hopkins) | Bryce Hopkins is a name of a person. It is not an English phrase or expression and therefore does not have a meaning in English. |
+| 17 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 18 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 19 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 21 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 22 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 23 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
+| 24 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 25 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 26 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 27 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 28 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 29 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 30 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 31 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 32 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 33 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 34 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 35 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 36 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 37 | [East Region](http://twitter.com/search?q=East+Region) | N/A |
+| 38 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 39 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 40 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
+| 41 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
+| 42 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 43 | [South Region](http://twitter.com/search?q=South+Region) | N/A |
+| 44 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 45 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 46 | [Des Moines](http://twitter.com/search?q=Des+Moines) | Des Moines is the capital and most populous city in the U.S. state of Iowa. The name Des Moines is derived from the French phrase "des moines," which translates to "of the monks." |
+| 47 | [Jay Wright](http://twitter.com/search?q=Jay+Wright) | N/A |
+| 48 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 49 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
 
 
 
