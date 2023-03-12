@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-12 17:16:26 UTC`
+📆 Last Updated: `2023-03-12 18:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 7 | [SURENE JAYA JAYA JAYA](http://twitter.com/search?q=SURENE+JAYA+JAYA+JAYA) | N/A |
 | 8 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Soton](http://twitter.com/search?q=Soton) | N/A |
-| 11 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 10 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 11 | [Soton](http://twitter.com/search?q=Soton) | N/A |
 | 12 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 13 | [EXPÉRGO PRERELEASE](http://twitter.com/search?q=EXP%c3%89RGO+PRERELEASE) | N/A |
-| 14 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
-| 15 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 16 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 17 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 18 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 19 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [Botak](http://twitter.com/search?q=Botak) | N/A |
-| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 15 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
+| 16 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 17 | [Botak](http://twitter.com/search?q=Botak) | N/A |
+| 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 21 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 22 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 23 | [Lina](http://twitter.com/search?q=Lina) | N/A |
 | 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 25 | [Gabjes](http://twitter.com/search?q=Gabjes) | N/A |
-| 26 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 27 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
-| 28 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 31 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 32 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 33 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
-| 34 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 35 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
-| 36 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 37 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 38 | [Kejucake](http://twitter.com/search?q=Kejucake) | N/A |
-| 39 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 40 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
-| 41 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 42 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 43 | [Serizawa](http://twitter.com/search?q=Serizawa) | N/A |
-| 44 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 45 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 46 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
-| 47 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 48 | [#BORNPINKinJakartaDay2](http://twitter.com/search?q=%23BORNPINKinJakartaDay2) | N/A |
-| 49 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 26 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
+| 27 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 31 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 33 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 34 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
+| 35 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 36 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
+| 37 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 38 | [Serizawa](http://twitter.com/search?q=Serizawa) | N/A |
+| 39 | [#BORNPINKinJakartaDay2](http://twitter.com/search?q=%23BORNPINKinJakartaDay2) | N/A |
+| 40 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 41 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 42 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 43 | [#3YearsWithSweetNight](http://twitter.com/search?q=%233YearsWithSweetNight) | N/A |
+| 44 | [#태형이가선물한_단밤3주년](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ea%b0%80%ec%84%a0%eb%ac%bc%ed%95%9c_%eb%8b%a8%eb%b0%a43%ec%a3%bc%eb%85%84) | N/A |
+| 45 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 46 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 47 | [#StayStrongFCBarcelona](http://twitter.com/search?q=%23StayStrongFCBarcelona) | N/A |
+| 48 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 49 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 
 
 

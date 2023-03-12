@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-12 17:16:58 UTC`
+📆 Last Updated: `2023-03-12 18:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 2 | [visi](http://twitter.com/search?q=visi) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 4 | [Visi](http://twitter.com/search?q=Visi) | N/A |
 | 5 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 6 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
 | 7 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
@@ -28,28 +28,29 @@ This is top 50 for Latvia
 | 11 | [Krievija](http://twitter.com/search?q=Krievija) | N/A |
 | 12 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 13 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
-| 14 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 15 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 16 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 14 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 15 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 16 | [visu](http://twitter.com/search?q=visu) | N/A |
 | 17 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 18 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
 | 19 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
 | 20 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 21 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
+| 21 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
 | 22 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 23 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 23 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
 | 24 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 25 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
-| 26 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 26 | [Turklāt](http://twitter.com/search?q=Turkl%c4%81t) | N/A |
 | 27 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 28 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
 | 29 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
 | 30 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 31 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 32 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 33 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 31 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 32 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
+| 33 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 34 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 35 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 36 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
 
 
 

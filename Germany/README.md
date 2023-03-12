@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-12 17:16:56 UTC`
+📆 Last Updated: `2023-03-12 18:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SCFTSG](http://twitter.com/search?q=%23SCFTSG) | N/A |
-| 2 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 3 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
-| 4 | [#SVWB04](http://twitter.com/search?q=%23SVWB04) | N/A |
-| 5 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 1 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 2 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
+| 3 | [#SVWB04](http://twitter.com/search?q=%23SVWB04) | N/A |
+| 4 | [#SCFTSG](http://twitter.com/search?q=%23SCFTSG) | N/A |
+| 5 | [#FCBFCA](http://twitter.com/search?q=%23FCBFCA) | N/A |
 | 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 8 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 8 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 11 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 12 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 13 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 14 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 18 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 21 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 22 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 23 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 24 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 25 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 26 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
-| 27 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 28 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 29 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 30 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 31 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 32 | [hummels](http://twitter.com/search?q=hummels) | N/A |
-| 33 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 34 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
-| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 36 | [extremismus](http://twitter.com/search?q=extremismus) | N/A |
-| 37 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 38 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 40 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 41 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
-| 42 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 43 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
-| 44 | [Schulversager](http://twitter.com/search?q=Schulversager) | N/A |
-| 45 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
-| 46 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 47 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 48 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
-| 49 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
-| 50 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
+| 12 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 13 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 14 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 15 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 16 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 17 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 20 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 21 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 22 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 23 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 24 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 25 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 26 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
+| 27 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 28 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 29 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 30 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
+| 31 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 33 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 34 | [extremismus](http://twitter.com/search?q=extremismus) | N/A |
+| 35 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
+| 36 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 37 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 38 | [MALEN](http://twitter.com/search?q=MALEN) | N/A |
+| 39 | [Heyer](http://twitter.com/search?q=Heyer) | N/A |
+| 40 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 41 | [Amoklauf](http://twitter.com/search?q=Amoklauf) | N/A |
+| 42 | [Schulversager](http://twitter.com/search?q=Schulversager) | N/A |
+| 43 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
+| 44 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
+| 45 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 46 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 47 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 48 | [Regenwald](http://twitter.com/search?q=Regenwald) | N/A |
+| 49 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 50 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
 
 
 

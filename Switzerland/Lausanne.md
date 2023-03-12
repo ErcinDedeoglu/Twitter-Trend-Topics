@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-12 17:16:24 UTC`
+📆 Last Updated: `2023-03-12 18:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#Abst23](http://twitter.com/search?q=%23Abst23) | N/A |
 | 4 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 5 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 7 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 7 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 9 | [#CHvote](http://twitter.com/search?q=%23CHvote) | N/A |
 | 10 | [Circle](http://twitter.com/search?q=Circle) | N/A |
@@ -31,34 +31,34 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 15 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 17 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 18 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
 | 19 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 22 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 23 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 24 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 25 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 27 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 28 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 29 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 30 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 32 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 33 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 34 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 35 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 36 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 37 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
-| 38 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 39 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 40 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 41 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 42 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 43 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 44 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
+| 20 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 21 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 22 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 24 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 25 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
+| 26 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 27 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 28 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 30 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 31 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 32 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 33 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 34 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
+| 35 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
+| 36 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 37 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 38 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 39 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 40 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 41 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 42 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 43 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
+| 44 | [Bundesplatz](http://twitter.com/search?q=Bundesplatz) | N/A |
 | 45 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 46 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
 | 47 | [Eier](http://twitter.com/search?q=Eier) | N/A |
