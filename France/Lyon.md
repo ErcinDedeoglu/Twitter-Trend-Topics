@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-12 01:45:17 UTC`
+📆 Last Updated: `2023-03-12 02:40:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 2 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
-| 3 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 4 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 5 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 6 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 7 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 8 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 9 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 10 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 11 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 12 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
-| 13 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 14 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
-| 15 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
-| 16 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 17 | [Zazie](http://twitter.com/search?q=Zazie) | N/A |
-| 18 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 19 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 20 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 21 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
-| 22 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 23 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 24 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 25 | [Sénégal](http://twitter.com/search?q=S%c3%a9n%c3%a9gal) | N/A |
-| 26 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 27 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 28 | [Wooyoung](http://twitter.com/search?q=Wooyoung) | N/A |
-| 29 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 30 | [England](http://twitter.com/search?q=England) | N/A |
-| 31 | [VIVE LA FRANCE](http://twitter.com/search?q=VIVE+LA+FRANCE) | N/A |
-| 32 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 33 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 34 | [Jongho](http://twitter.com/search?q=Jongho) | N/A |
-| 35 | [#rmcmma](http://twitter.com/search?q=%23rmcmma) | N/A |
-| 36 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
-| 37 | [#100Logique](http://twitter.com/search?q=%23100Logique) | N/A |
-| 38 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 39 | [#boxe](http://twitter.com/search?q=%23boxe) | N/A |
-| 40 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 41 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 42 | [#LOLQuiRitSort3](http://twitter.com/search?q=%23LOLQuiRitSort3) | N/A |
-| 43 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
-| 44 | [#ASSEASC](http://twitter.com/search?q=%23ASSEASC) | N/A |
-| 45 | [#MacronDestitution](http://twitter.com/search?q=%23MacronDestitution) | N/A |
-| 46 | [#Benzema](http://twitter.com/search?q=%23Benzema) | N/A |
-| 47 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 48 | [#TheGlory](http://twitter.com/search?q=%23TheGlory) | N/A |
+| 1 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
+| 2 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 3 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
+| 4 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 5 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 6 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 7 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 8 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
+| 9 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 10 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 11 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 12 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
+| 13 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 14 | [Dvalishvili](http://twitter.com/search?q=Dvalishvili) | N/A |
+| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 17 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
+| 20 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 21 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
+| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 23 | [Flament](http://twitter.com/search?q=Flament) | N/A |
+| 24 | [Said Nurmagomedov](http://twitter.com/search?q=Said+Nurmagomedov) | N/A |
+| 25 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
+| 26 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 27 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 28 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 31 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
+| 32 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 33 | [Galthié](http://twitter.com/search?q=Galthi%c3%a9) | N/A |
+| 34 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 35 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 36 | [O'Malley](http://twitter.com/search?q=O%27Malley) | N/A |
+| 37 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 38 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
+| 39 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 40 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 41 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
+| 42 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 43 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 44 | [Décision](http://twitter.com/search?q=D%c3%a9cision) | N/A |
+| 45 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 46 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
+| 47 | [Good Game](http://twitter.com/search?q=Good+Game) | N/A |
+| 48 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 49 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 50 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-12 01:45:24 UTC`
+📆 Last Updated: `2023-03-12 02:40:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,10 +61,10 @@ This is top 50 for [Norway](</Norway>)
 | 44 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 46 | [Scandinavian](http://twitter.com/search?q=Scandinavian) | N/A |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 49 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
-| 50 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 47 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 50 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-12 01:45:23 UTC`
+📆 Last Updated: `2023-03-12 02:40:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,21 +38,21 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
 | 22 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
 | 23 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 24 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 25 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 26 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 27 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 28 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 29 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
-| 30 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 31 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 32 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 33 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
-| 34 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 35 | [Talent](http://twitter.com/search?q=Talent) | N/A |
-| 36 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 38 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
+| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 25 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 26 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 27 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 28 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 29 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 30 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
+| 31 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 32 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 33 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 34 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
+| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 36 | [Talent](http://twitter.com/search?q=Talent) | N/A |
+| 37 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 38 | [zusammenarbeit](http://twitter.com/search?q=zusammenarbeit) | N/A |
 | 39 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
 | 40 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
 | 41 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |

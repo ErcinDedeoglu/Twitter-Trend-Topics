@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-12 01:46:08 UTC`
+📆 Last Updated: `2023-03-12 02:41:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 2 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 4 | [Englot](http://twitter.com/search?q=Englot) | N/A |
 | 5 | [#BiuStrongLuve](http://twitter.com/search?q=%23BiuStrongLuve) | N/A |
 | 6 | [#SS9inVietnam](http://twitter.com/search?q=%23SS9inVietnam) | N/A |
 | 7 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
@@ -28,9 +28,9 @@ This is top 50 for Vietnam
 | 11 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 12 | [Circle](http://twitter.com/search?q=Circle) | N/A |
 | 13 | [tổng thống kim namjoon](http://twitter.com/search?q=t%e1%bb%95ng+th%e1%bb%91ng+kim+namjoon) | N/A |
-| 14 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 15 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
-| 16 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 14 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 15 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 16 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
 | 17 | [TENsSCENT OF FREEDOM](http://twitter.com/search?q=TENsSCENT+OF+FREEDOM) | N/A |
 | 18 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
 | 19 | [babiu](http://twitter.com/search?q=babiu) | N/A |
@@ -38,30 +38,30 @@ This is top 50 for Vietnam
 | 21 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
 | 22 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
 | 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
-| 25 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 26 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 24 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 25 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
+| 26 | [Project](http://twitter.com/search?q=Project) | N/A |
 | 27 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
 | 28 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
 | 29 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 30 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 31 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 31 | [Luna](http://twitter.com/search?q=Luna) | N/A |
 | 32 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
 | 33 | [Lqty](http://twitter.com/search?q=Lqty) | N/A |
 | 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 35 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 36 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 37 | [Welp](http://twitter.com/search?q=Welp) | N/A |
-| 38 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 39 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
-| 40 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 41 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 42 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 43 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 44 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 45 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
-| 46 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 47 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 36 | [Welp](http://twitter.com/search?q=Welp) | N/A |
+| 37 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 38 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 39 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 40 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 41 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 42 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 43 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 46 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 47 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 | 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 49 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
 | 50 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |

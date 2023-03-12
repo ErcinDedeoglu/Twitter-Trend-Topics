@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-12 01:45:55 UTC`
+📆 Last Updated: `2023-03-12 02:41:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 2 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 3 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 4 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
-| 5 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 6 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 2 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 3 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 4 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 5 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
+| 6 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
 | 7 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 8 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 9 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 10 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 11 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 12 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
-| 13 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 14 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 16 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 17 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 19 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 20 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 21 | [#GirlInTheCloset](http://twitter.com/search?q=%23GirlInTheCloset) | N/A |
-| 22 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 23 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 24 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 26 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 27 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
-| 28 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
-| 29 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
-| 30 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
-| 31 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 32 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 33 | [Spann](http://twitter.com/search?q=Spann) | N/A |
-| 34 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 35 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 36 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 37 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 38 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 40 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
-| 41 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 42 | [POKI](http://twitter.com/search?q=POKI) | N/A |
-| 43 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 44 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
-| 45 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 46 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 47 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 48 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 49 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 50 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
+| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 10 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 11 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 12 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 13 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 14 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 15 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 16 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 17 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 18 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 19 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 20 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 21 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 22 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 23 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 24 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 25 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 26 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 27 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 28 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 30 | [Neris](http://twitter.com/search?q=Neris) | N/A |
+| 31 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 32 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 33 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 34 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 35 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 36 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 37 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 38 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 39 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 40 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 41 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 42 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 43 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 44 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 45 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 46 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 47 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 48 | [Spann](http://twitter.com/search?q=Spann) | N/A |
+| 49 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 50 | [O'Malley](http://twitter.com/search?q=O%27Malley) | N/A |
 
 
 

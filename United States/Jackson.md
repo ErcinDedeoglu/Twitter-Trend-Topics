@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-12 01:45:52 UTC`
+📆 Last Updated: `2023-03-12 02:41:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 2 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 3 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 4 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 6 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 7 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 8 | [#GirlInTheCloset](http://twitter.com/search?q=%23GirlInTheCloset) | N/A |
-| 9 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 10 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 13 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
-| 14 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 1 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 2 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 3 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 6 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 7 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 8 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 9 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 10 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 11 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 12 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
 | 15 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 16 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
-| 17 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
-| 18 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 19 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 20 | [Spann](http://twitter.com/search?q=Spann) | N/A |
-| 21 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 22 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 23 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 24 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 25 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 26 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 27 | [POKI](http://twitter.com/search?q=POKI) | N/A |
-| 28 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
-| 29 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 30 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
-| 31 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 32 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 33 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 34 | [Krylov](http://twitter.com/search?q=Krylov) | N/A |
-| 35 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 36 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 37 | [Davey Grant](http://twitter.com/search?q=Davey+Grant) | N/A |
-| 38 | [Metamora](http://twitter.com/search?q=Metamora) | N/A |
-| 39 | [Paxton Lynch](http://twitter.com/search?q=Paxton+Lynch) | N/A |
-| 40 | [Zuniga](http://twitter.com/search?q=Zuniga) | N/A |
-| 41 | [Sammy Blais](http://twitter.com/search?q=Sammy+Blais) | N/A |
-| 42 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 43 | [Nurmagomedov](http://twitter.com/search?q=Nurmagomedov) | N/A |
-| 44 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 45 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 46 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 47 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 17 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 18 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 19 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 20 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 21 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 23 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 24 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 25 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 27 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 28 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 29 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 30 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 31 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 32 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 33 | [Spann](http://twitter.com/search?q=Spann) | N/A |
+| 34 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 35 | [O'Malley](http://twitter.com/search?q=O%27Malley) | N/A |
+| 36 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 37 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 38 | [Paxton Lynch](http://twitter.com/search?q=Paxton+Lynch) | N/A |
+| 39 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 40 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 41 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
+| 42 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
+| 43 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
+| 44 | [Cale Makar](http://twitter.com/search?q=Cale+Makar) | N/A |
+| 45 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 46 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 47 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
 
 
 

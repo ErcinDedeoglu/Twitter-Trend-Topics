@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-12 01:45:26 UTC`
+📆 Last Updated: `2023-03-12 02:40:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
 | 2 | [#nrldolphinsraiders](http://twitter.com/search?q=%23nrldolphinsraiders) | N/A |
 | 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 4 | [#NRLStormBulldogs](http://twitter.com/search?q=%23NRLStormBulldogs) | N/A |
-| 5 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 9 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 10 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [Port Kembla](http://twitter.com/search?q=Port+Kembla) | N/A |
-| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 15 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 16 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 17 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
-| 18 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 19 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 20 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 21 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 22 | [Min Woo](http://twitter.com/search?q=Min+Woo) | N/A |
-| 23 | [todd smith](http://twitter.com/search?q=todd+smith) | N/A |
-| 24 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 25 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 26 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 27 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 28 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
-| 29 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 4 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 5 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 6 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 7 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 13 | [Port Kembla](http://twitter.com/search?q=Port+Kembla) | N/A |
+| 14 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [revolutionary miss](http://twitter.com/search?q=revolutionary+miss) | N/A |
+| 17 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 18 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 19 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 21 | [Todd Smith](http://twitter.com/search?q=Todd+Smith) | N/A |
+| 22 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 23 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 24 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 25 | [Dean Holland](http://twitter.com/search?q=Dean+Holland) | N/A |
+| 26 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 28 | [Pasifika](http://twitter.com/search?q=Pasifika) | N/A |
+| 29 | [Min Woo Lee](http://twitter.com/search?q=Min+Woo+Lee) | N/A |
 | 30 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
-| 31 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 31 | [Keith](http://twitter.com/search?q=Keith) | N/A |
 | 32 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
 | 33 | [Commissioner Holmes](http://twitter.com/search?q=Commissioner+Holmes) | N/A |
-| 34 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 35 | [panania](http://twitter.com/search?q=panania) | N/A |
-| 36 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 37 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 38 | [The Dolphins](http://twitter.com/search?q=The+Dolphins) | N/A |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 41 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 42 | [Bellamy](http://twitter.com/search?q=Bellamy) | N/A |
-| 43 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 34 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 35 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 36 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 37 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 38 | [panania](http://twitter.com/search?q=panania) | N/A |
+| 39 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 40 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 41 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 42 | [The Dolphins](http://twitter.com/search?q=The+Dolphins) | N/A |
+| 43 | [Timoko](http://twitter.com/search?q=Timoko) | N/A |
 | 44 | [Fred Nile](http://twitter.com/search?q=Fred+Nile) | N/A |
-| 45 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
-| 46 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 47 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 48 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 45 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 46 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 47 | [SANFL](http://twitter.com/search?q=SANFL) | N/A |
+| 48 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
 
 
 

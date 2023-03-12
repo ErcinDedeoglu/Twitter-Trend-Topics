@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-12 01:46:05 UTC`
+📆 Last Updated: `2023-03-12 02:41:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Norway
 | 6 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 8 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 9 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 9 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
 | 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
@@ -61,10 +61,10 @@ This is top 50 for Norway
 | 44 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 46 | [Scandinavian](http://twitter.com/search?q=Scandinavian) | N/A |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 49 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
-| 50 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 47 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 50 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
 
 
 

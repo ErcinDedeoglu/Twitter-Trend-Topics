@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-12 01:45:53 UTC`
+📆 Last Updated: `2023-03-12 02:41:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 2 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 3 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 4 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 7 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 8 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
-| 9 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
-| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 11 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 12 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 13 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
-| 14 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
-| 15 | [Pajaro](http://twitter.com/search?q=Pajaro) | N/A |
-| 16 | [#TennisParadise](http://twitter.com/search?q=%23TennisParadise) | N/A |
-| 17 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 18 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 19 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 21 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 3 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 4 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 5 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
+| 6 | [Rodman](http://twitter.com/search?q=Rodman) | N/A |
+| 7 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 8 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 9 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 11 | [Peter Thiel](http://twitter.com/search?q=Peter+Thiel) | N/A |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 15 | [Delaware](http://twitter.com/search?q=Delaware) | Delaware is a state in the Mid-Atlantic region of the United States. It is bordered by Pennsylvania to the north, Maryland to the east and south, and the Atlantic Ocean to the east and south. The state was named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. Delaware is known as "The First State" because it was the first of the original Thirteen Colonies to ratify the U.S. Constitution on December 7, 1787. |
+| 16 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 17 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 18 | [#HelluvaBoss](http://twitter.com/search?q=%23HelluvaBoss) | N/A |
+| 19 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 20 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 21 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
 | 22 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 23 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 24 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 25 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 26 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 27 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 28 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
-| 29 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
-| 30 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 23 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 24 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 25 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
+| 26 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 27 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 28 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 29 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 31 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 32 | [Romanov](http://twitter.com/search?q=Romanov) | N/A |
-| 33 | [OpTic Pred](http://twitter.com/search?q=OpTic+Pred) | N/A |
-| 34 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
-| 35 | [Texas Southern](http://twitter.com/search?q=Texas+Southern) | N/A |
-| 36 | [Spann](http://twitter.com/search?q=Spann) | N/A |
-| 37 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 38 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 39 | [Sammy Smith](http://twitter.com/search?q=Sammy+Smith) | N/A |
-| 40 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 41 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 42 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 43 | [MIYOUNG](http://twitter.com/search?q=MIYOUNG) | N/A |
-| 44 | [POKI](http://twitter.com/search?q=POKI) | N/A |
-| 45 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 46 | [Martin Perez](http://twitter.com/search?q=Martin+Perez) | N/A |
-| 47 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
+| 32 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 33 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 34 | [David Peralta](http://twitter.com/search?q=David+Peralta) | N/A |
+| 35 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 36 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 37 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 38 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 39 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 40 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 41 | [BIG 12 CHAMPS](http://twitter.com/search?q=BIG+12+CHAMPS) | N/A |
+| 42 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 43 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 44 | [Dominican Republic](http://twitter.com/search?q=Dominican+Republic) | The Dominican Republic is a Caribbean nation located on the island of Hispaniola, which it shares with Haiti. It is known for its tropical climate, beautiful beaches, and vibrant culture. The official language of the Dominican Republic is Spanish, but English is also widely spoken. |
+| 45 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 46 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 47 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
 | 48 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 49 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 49 | [Spann](http://twitter.com/search?q=Spann) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-12 01:46:04 UTC`
+📆 Last Updated: `2023-03-12 02:41:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
 | 2 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 3 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 4 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 5 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 6 | [WHERE IS QUACKITY](http://twitter.com/search?q=WHERE+IS+QUACKITY) | N/A |
-| 7 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 8 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 9 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 10 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 11 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
-| 12 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 13 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
-| 14 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 15 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 16 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 17 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 18 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 19 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 20 | [#FueraMora](http://twitter.com/search?q=%23FueraMora) | N/A |
-| 21 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 22 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 23 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 24 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
-| 25 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 26 | [Dávila](http://twitter.com/search?q=D%c3%a1vila) | N/A |
-| 27 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 28 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 29 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
-| 30 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
-| 31 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
-| 32 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 33 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 34 | [Benjamin Mora](http://twitter.com/search?q=Benjamin+Mora) | N/A |
-| 35 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 3 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 5 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 6 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 7 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 8 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 9 | [WHERE IS QUACKITY](http://twitter.com/search?q=WHERE+IS+QUACKITY) | N/A |
+| 10 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 11 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 12 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 13 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 14 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 15 | [Skiper](http://twitter.com/search?q=Skiper) | N/A |
+| 16 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 17 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 18 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
+| 19 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 20 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 21 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 22 | [#QuieroMiGrogu](http://twitter.com/search?q=%23QuieroMiGrogu) | N/A |
+| 23 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 24 | [Cri Cri](http://twitter.com/search?q=Cri+Cri) | N/A |
+| 25 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 26 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 27 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 28 | [#FueraMora](http://twitter.com/search?q=%23FueraMora) | N/A |
+| 29 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 30 | [Blon](http://twitter.com/search?q=Blon) | N/A |
+| 31 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 32 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 33 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 34 | [#Atlas](http://twitter.com/search?q=%23Atlas) | N/A |
+| 35 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
 | 36 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 37 | [Zticma](http://twitter.com/search?q=Zticma) | N/A |
-| 38 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 39 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 40 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 41 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 42 | [soobin rubio](http://twitter.com/search?q=soobin+rubio) | N/A |
-| 43 | [Cuatrero](http://twitter.com/search?q=Cuatrero) | N/A |
-| 44 | [Morelia](http://twitter.com/search?q=Morelia) | Morelia is the capital city of the Mexican state of Michoacán. It is located in the central region of the country, about 250 miles west of Mexico City. The name Morelia comes from a Nahuatl word meaning "place of many trees." |
-| 45 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 46 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 47 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 48 | [Tantita](http://twitter.com/search?q=Tantita) | N/A |
-| 49 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 50 | [#Atlas](http://twitter.com/search?q=%23Atlas) | N/A |
+| 37 | [Dávila](http://twitter.com/search?q=D%c3%a1vila) | N/A |
+| 38 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
+| 39 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
+| 40 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 41 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
+| 42 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
+| 43 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
+| 44 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 45 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
+| 46 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 47 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 48 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 49 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 50 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
 
 
 

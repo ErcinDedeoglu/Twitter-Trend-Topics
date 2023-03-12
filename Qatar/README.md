@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-12 01:46:06 UTC`
+📆 Last Updated: `2023-03-12 02:41:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for Qatar
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#بن_فط](http://twitter.com/search?q=%23%d8%a8%d9%86_%d9%81%d8%b7) | N/A |
-| 2 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
-| 3 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 4 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 5 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 2 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 3 | [#محمد_بن_زايد](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 4 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 5 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
 | 6 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 8 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 9 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 7 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 8 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 12 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 13 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 14 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |

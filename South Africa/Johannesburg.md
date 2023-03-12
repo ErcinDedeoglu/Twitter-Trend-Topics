@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-12 01:45:37 UTC`
+📆 Last Updated: `2023-03-12 02:41:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,37 +24,37 @@ This is top 50 for [South Africa](</South Africa>)
 | 7 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 8 | [#CAFCL](http://twitter.com/search?q=%23CAFCL) | N/A |
 | 9 | [DANCE WITH KHOSI](http://twitter.com/search?q=DANCE+WITH+KHOSI) | N/A |
-| 10 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 11 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 12 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 10 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 11 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 12 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
 | 13 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 14 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 14 | [percy tau](http://twitter.com/search?q=percy+tau) | N/A |
 | 15 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
-| 16 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
-| 17 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 18 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
-| 19 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 23 | [Akon](http://twitter.com/search?q=Akon) | N/A |
-| 24 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 16 | [Kelly Khumalo](http://twitter.com/search?q=Kelly+Khumalo) | N/A |
+| 17 | [Miracle](http://twitter.com/search?q=Miracle) | In English, the word "miracle" is used to describe an event or occurrence that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency. It can also refer to any amazing or wonderful event that defies explanation. |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [GET DOWN WITH TSATSII](http://twitter.com/search?q=GET+DOWN+WITH+TSATSII) | N/A |
+| 20 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 22 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 24 | [Akon](http://twitter.com/search?q=Akon) | N/A |
 | 25 | [neo maema](http://twitter.com/search?q=neo+maema) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 28 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 29 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 32 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 33 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 34 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 35 | [Temba](http://twitter.com/search?q=Temba) | N/A |
-| 36 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
-| 37 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 38 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 39 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 40 | [Khobang](http://twitter.com/search?q=Khobang) | N/A |
+| 26 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 27 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 28 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 29 | [Boity](http://twitter.com/search?q=Boity) | N/A |
+| 30 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 33 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
+| 34 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 35 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 36 | [Temba](http://twitter.com/search?q=Temba) | N/A |
+| 37 | [Maharaj](http://twitter.com/search?q=Maharaj) | N/A |
+| 38 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 39 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 40 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 41 | [mokoena](http://twitter.com/search?q=mokoena) | N/A |
 | 42 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
 | 43 | [PARTY WITH THE FINALIST](http://twitter.com/search?q=PARTY+WITH+THE+FINALIST) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [South Africa](</South Africa>)
 | 47 | [ndlondlo](http://twitter.com/search?q=ndlondlo) | N/A |
 | 48 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
 | 49 | [monyane](http://twitter.com/search?q=monyane) | N/A |
-| 50 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 50 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
 
 
 

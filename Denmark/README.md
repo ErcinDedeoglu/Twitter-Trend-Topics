@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-12 01:46:01 UTC`
+📆 Last Updated: `2023-03-12 02:41:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Denmark
 | 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 12 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
 | 13 | [nye borgerliges](http://twitter.com/search?q=nye+borgerliges) | N/A |
-| 14 | [Saudi Arabien](http://twitter.com/search?q=Saudi+Arabien) | N/A |
+| 14 | [saudi arabien](http://twitter.com/search?q=saudi+arabien) | N/A |
 | 15 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
 | 16 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
 | 17 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Denmark
 | 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 36 | [F-35](http://twitter.com/search?q=F-35) | N/A |
 | 37 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 38 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 39 | [støjberg](http://twitter.com/search?q=st%c3%b8jberg) | N/A |
-| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 41 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
-| 42 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 43 | [Thorborg](http://twitter.com/search?q=Thorborg) | N/A |
-| 44 | [fanafdelingen](http://twitter.com/search?q=fanafdelingen) | N/A |
-| 45 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 46 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 47 | [Vestegnen](http://twitter.com/search?q=Vestegnen) | N/A |
-| 48 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
-| 49 | [YouSee](http://twitter.com/search?q=YouSee) | N/A |
-| 50 | [tom jensen](http://twitter.com/search?q=tom+jensen) | N/A |
+| 38 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 39 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 40 | [støjberg](http://twitter.com/search?q=st%c3%b8jberg) | N/A |
+| 41 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 42 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
+| 43 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 44 | [thorborg](http://twitter.com/search?q=thorborg) | N/A |
+| 45 | [fanafdelingen](http://twitter.com/search?q=fanafdelingen) | N/A |
+| 46 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 47 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 48 | [Vestegnen](http://twitter.com/search?q=Vestegnen) | N/A |
+| 49 | [Lotte](http://twitter.com/search?q=Lotte) | N/A |
+| 50 | [YouSee](http://twitter.com/search?q=YouSee) | N/A |
 
 
 
