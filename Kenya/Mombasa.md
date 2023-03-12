@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-12 14:16:21 UTC`
+📆 Last Updated: `2023-03-12 15:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 2 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 2 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 4 | [#reggaesplash](http://twitter.com/search?q=%23reggaesplash) | N/A |
-| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 6 | [#DPGachaguaSpeaks](http://twitter.com/search?q=%23DPGachaguaSpeaks) | N/A |
-| 7 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 8 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
-| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [Groundless Lounge Nakuru](http://twitter.com/search?q=Groundless+Lounge+Nakuru) | N/A |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
-| 17 | [eacc](http://twitter.com/search?q=eacc) | N/A |
-| 18 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 19 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 20 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Muthaiga Golf](http://twitter.com/search?q=Muthaiga+Golf) | N/A |
-| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 25 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 26 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 28 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 29 | [Church](http://twitter.com/search?q=Church) | N/A |
-| 30 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 31 | [Boutross](http://twitter.com/search?q=Boutross) | N/A |
-| 32 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 33 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 34 | [Benji](http://twitter.com/search?q=Benji) | N/A |
-| 35 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 36 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 37 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 4 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 9 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 11 | [#reggaesplash](http://twitter.com/search?q=%23reggaesplash) | N/A |
+| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 13 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 14 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 15 | [#StandTallStrideOn](http://twitter.com/search?q=%23StandTallStrideOn) | N/A |
+| 16 | [Groundless Lounge Nakuru](http://twitter.com/search?q=Groundless+Lounge+Nakuru) | N/A |
+| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 18 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 21 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 22 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 23 | [Muthaiga Golf Club](http://twitter.com/search?q=Muthaiga+Golf+Club) | N/A |
+| 24 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 25 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
+| 26 | [EACC](http://twitter.com/search?q=EACC) | N/A |
+| 27 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 31 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 32 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 33 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
+| 34 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 35 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 36 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 38 | [The Magical Kenya Open](http://twitter.com/search?q=The+Magical+Kenya+Open) | N/A |
-| 39 | [Laikipia](http://twitter.com/search?q=Laikipia) | N/A |
-| 40 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 41 | [Kinuthia](http://twitter.com/search?q=Kinuthia) | N/A |
-| 42 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 43 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 44 | [Baba In Mombasa](http://twitter.com/search?q=Baba+In+Mombasa) | N/A |
-| 45 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
-| 46 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 47 | [IPPs](http://twitter.com/search?q=IPPs) | N/A |
+| 39 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 40 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 41 | [Boutross](http://twitter.com/search?q=Boutross) | N/A |
+| 42 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 43 | [baba in mombasa](http://twitter.com/search?q=baba+in+mombasa) | N/A |
+| 44 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 45 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
+| 46 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 47 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
 | 48 | [Mama Ida](http://twitter.com/search?q=Mama+Ida) | N/A |
-| 49 | [Eggs](http://twitter.com/search?q=Eggs) | N/A |
-| 50 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 49 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 50 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 
 
 

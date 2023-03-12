@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-12 14:16:22 UTC`
+📆 Last Updated: `2023-03-12 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
-| 2 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
-| 3 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 4 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 5 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 6 | [#DataAsseblief](http://twitter.com/search?q=%23DataAsseblief) | N/A |
-| 7 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 8 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 9 | [Christian Saile](http://twitter.com/search?q=Christian+Saile) | N/A |
-| 10 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
-| 11 | [#Nota](http://twitter.com/search?q=%23Nota) | N/A |
-| 12 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 15 | [get down with tsatsii](http://twitter.com/search?q=get+down+with+tsatsii) | N/A |
-| 16 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 17 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 18 | [boity](http://twitter.com/search?q=boity) | N/A |
-| 19 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
-| 20 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 21 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 23 | [faaji with thabang](http://twitter.com/search?q=faaji+with+thabang) | N/A |
-| 24 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 27 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 28 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
-| 29 | [mvala](http://twitter.com/search?q=mvala) | N/A |
-| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 31 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 32 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 33 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 34 | [party with the finalist](http://twitter.com/search?q=party+with+the+finalist) | N/A |
-| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 36 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
-| 37 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 38 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 39 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 40 | [Congolese](http://twitter.com/search?q=Congolese) | N/A |
-| 41 | [Lucas Radebe](http://twitter.com/search?q=Lucas+Radebe) | N/A |
-| 42 | [Vaccine](http://twitter.com/search?q=Vaccine) | N/A |
-| 43 | [Akon](http://twitter.com/search?q=Akon) | N/A |
-| 44 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 46 | [Amapiano](http://twitter.com/search?q=Amapiano) | Amapiano is a type of South African house music that combines elements of jazz, deep house, and lounge music. It is characterized by its use of piano melodies and heavy basslines. The term "Amapiano" is derived from the Zulu phrase "Piano-e-tshona," which translates to "the sound of the piano." |
-| 47 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 48 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 49 | [arthur fraser](http://twitter.com/search?q=arthur+fraser) | N/A |
+| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 6 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 9 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
+| 10 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 11 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 13 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 14 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 17 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 18 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 19 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
+| 20 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 21 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
+| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 23 | [TS Galaxy](http://twitter.com/search?q=TS+Galaxy) | N/A |
+| 24 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 26 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 27 | [faaji with thabang](http://twitter.com/search?q=faaji+with+thabang) | N/A |
+| 28 | [get down with tsatsii](http://twitter.com/search?q=get+down+with+tsatsii) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 31 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 33 | [Boity](http://twitter.com/search?q=Boity) | N/A |
+| 34 | [Red Card](http://twitter.com/search?q=Red+Card) | Red Card is a term used in sports, particularly soccer, to indicate that a player has been ejected from the game. It is usually shown by the referee after a player has committed a serious foul or has received two yellow cards. The meaning of Red Card in English is "to be sent off". |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 37 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 38 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 39 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 40 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 41 | [Kelly Khumalo](http://twitter.com/search?q=Kelly+Khumalo) | N/A |
+| 42 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
+| 43 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 44 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
+| 45 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 46 | [Lucas Radebe](http://twitter.com/search?q=Lucas+Radebe) | N/A |
+| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 48 | [party with the finalist](http://twitter.com/search?q=party+with+the+finalist) | N/A |
+| 49 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 
 
 

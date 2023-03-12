@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-12 14:16:45 UTC`
+📆 Last Updated: `2023-03-12 15:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 2 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 1 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 2 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
 | 3 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
-| 4 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 5 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 6 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 7 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
-| 8 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
-| 9 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 10 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 11 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 12 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
-| 13 | [Team Japeth](http://twitter.com/search?q=Team+Japeth) | N/A |
-| 14 | [Paul Lee](http://twitter.com/search?q=Paul+Lee) | N/A |
-| 15 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
-| 16 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 19 | [Team Scottie](http://twitter.com/search?q=Team+Scottie) | N/A |
-| 20 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
-| 21 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
-| 24 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 25 | [Circles](http://twitter.com/search?q=Circles) | N/A |
-| 26 | [I LOVE YOU SO MUCH](http://twitter.com/search?q=I+LOVE+YOU+SO+MUCH) | N/A |
-| 27 | [Carats](http://twitter.com/search?q=Carats) | N/A |
-| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 29 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 32 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 33 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 34 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 35 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 36 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
-| 37 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 38 | [#TheClashSurprise](http://twitter.com/search?q=%23TheClashSurprise) | N/A |
-| 39 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 40 | [#13SangkapSarapDance](http://twitter.com/search?q=%2313SangkapSarapDance) | N/A |
-| 41 | [#TVK5CanSeeYourVoice](http://twitter.com/search?q=%23TVK5CanSeeYourVoice) | N/A |
-| 42 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
-| 43 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
-| 44 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
-| 45 | [#MANIACinMANILA_Day2](http://twitter.com/search?q=%23MANIACinMANILA_Day2) | N/A |
-| 46 | [#iKONTAKEOFF2023](http://twitter.com/search?q=%23iKONTAKEOFF2023) | N/A |
-| 47 | [#iKONinEssen](http://twitter.com/search?q=%23iKONinEssen) | N/A |
-| 48 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 49 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
-| 50 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
+| 4 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 5 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 6 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 7 | [#Carats_Always_onSVT_side](http://twitter.com/search?q=%23Carats_Always_onSVT_side) | N/A |
+| 8 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 9 | [ALBUM TRACK LIST](http://twitter.com/search?q=ALBUM+TRACK+LIST) | N/A |
+| 10 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 11 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 12 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 13 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 14 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 15 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 18 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 19 | [Japeth](http://twitter.com/search?q=Japeth) | N/A |
+| 20 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 22 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 23 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 24 | [I LOVE YOU SO MUCH](http://twitter.com/search?q=I+LOVE+YOU+SO+MUCH) | N/A |
+| 25 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 26 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
+| 27 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 28 | [Circles](http://twitter.com/search?q=Circles) | N/A |
+| 29 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
+| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 31 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 32 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 33 | [#캐럿들은_언제나_세븐틴편](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%93%a4%ec%9d%80_%ec%96%b8%ec%a0%9c%eb%82%98_%ec%84%b8%eb%b8%90%ed%8b%b4%ed%8e%b8) | N/A |
+| 34 | [#편히앉아_수민이_생일_속으로](http://twitter.com/search?q=%23%ed%8e%b8%ed%9e%88%ec%95%89%ec%95%84_%ec%88%98%eb%af%bc%ec%9d%b4_%ec%83%9d%ec%9d%bc_%ec%86%8d%ec%9c%bc%eb%a1%9c) | N/A |
+| 35 | [#Act1Scene1_Tracklist](http://twitter.com/search?q=%23Act1Scene1_Tracklist) | N/A |
+| 36 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
+| 37 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
+| 38 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
+| 39 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
+| 40 | [#MANIACinMANILA_Day2](http://twitter.com/search?q=%23MANIACinMANILA_Day2) | N/A |
+| 41 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
+| 42 | [#13SangkapSarapDance](http://twitter.com/search?q=%2313SangkapSarapDance) | N/A |
+| 43 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
+| 44 | [#TVK5CanSeeYourVoice](http://twitter.com/search?q=%23TVK5CanSeeYourVoice) | N/A |
+| 45 | [#JENLISA](http://twitter.com/search?q=%23JENLISA) | N/A |
+| 46 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
+| 47 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
+| 48 | [#iKONinEssen](http://twitter.com/search?q=%23iKONinEssen) | N/A |
+| 49 | [#iKONTAKEOFF2023](http://twitter.com/search?q=%23iKONTAKEOFF2023) | N/A |
+| 50 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
 
 
 

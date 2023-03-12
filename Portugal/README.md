@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-12 14:16:45 UTC`
+📆 Last Updated: `2023-03-12 15:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Portugal
 | ------- | ------------ | ------------ |
 | 1 | [#FestivaldaCancao](http://twitter.com/search?q=%23FestivaldaCancao) | N/A |
 | 2 | [#OscaresBetclic](http://twitter.com/search?q=%23OscaresBetclic) | N/A |
-| 3 | [mimicat](http://twitter.com/search?q=mimicat) | N/A |
-| 4 | [eurovisão](http://twitter.com/search?q=eurovis%c3%a3o) | N/A |
-| 5 | [#sousaveiga](http://twitter.com/search?q=%23sousaveiga) | N/A |
-| 6 | [EDMUNDO](http://twitter.com/search?q=EDMUNDO) | N/A |
-| 7 | [Jesus Quisto](http://twitter.com/search?q=Jesus+Quisto) | N/A |
-| 8 | [neon soho](http://twitter.com/search?q=neon+soho) | N/A |
-| 9 | [inês apenas](http://twitter.com/search?q=in%c3%aas+apenas) | N/A |
-| 10 | [cláudia pascoal](http://twitter.com/search?q=cl%c3%a1udia+pascoal) | N/A |
-| 11 | [tiago gouveia](http://twitter.com/search?q=tiago+gouveia) | N/A |
-| 12 | [Ivandro](http://twitter.com/search?q=Ivandro) | N/A |
-| 13 | [Benfica B](http://twitter.com/search?q=Benfica+B) | N/A |
-| 14 | [Nasci Maria](http://twitter.com/search?q=Nasci+Maria) | N/A |
-| 15 | [Ai Coração](http://twitter.com/search?q=Ai+Cora%c3%a7%c3%a3o) | N/A |
-| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 17 | [bárbara tinoco](http://twitter.com/search?q=b%c3%a1rbara+tinoco) | N/A |
-| 18 | [David Fonseca](http://twitter.com/search?q=David+Fonseca) | N/A |
-| 19 | [geraldes](http://twitter.com/search?q=geraldes) | N/A |
-| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 21 | [Maro](http://twitter.com/search?q=Maro) | N/A |
-| 22 | [armindo](http://twitter.com/search?q=armindo) | N/A |
-| 23 | [#brunardo](http://twitter.com/search?q=%23brunardo) | N/A |
-| 24 | [Bebida Alcoólica Favorita](http://twitter.com/search?q=Bebida+Alco%c3%b3lica+Favorita) | N/A |
-| 25 | [esse povo](http://twitter.com/search?q=esse+povo) | N/A |
-| 26 | [Cor Favorita](http://twitter.com/search?q=Cor+Favorita) | N/A |
-| 27 | [Salvador Sobral](http://twitter.com/search?q=Salvador+Sobral) | N/A |
-| 28 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 29 | [arouca](http://twitter.com/search?q=arouca) | N/A |
-| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 31 | [galeno](http://twitter.com/search?q=galeno) | N/A |
-| 32 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 33 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Suécia](http://twitter.com/search?q=Su%c3%a9cia) | N/A |
-| 36 | [T-Rex](http://twitter.com/search?q=T-Rex) | N/A |
-| 37 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 38 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 39 | [O Liverpool](http://twitter.com/search?q=O+Liverpool) | N/A |
+| 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 5 | [mimicat](http://twitter.com/search?q=mimicat) | N/A |
+| 6 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 7 | [EDMUNDO](http://twitter.com/search?q=EDMUNDO) | N/A |
+| 8 | [#SousaVeiga](http://twitter.com/search?q=%23SousaVeiga) | N/A |
+| 9 | [Eurovisão](http://twitter.com/search?q=Eurovis%c3%a3o) | N/A |
+| 10 | [Jesus Quisto](http://twitter.com/search?q=Jesus+Quisto) | N/A |
+| 11 | [neon soho](http://twitter.com/search?q=neon+soho) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [inês apenas](http://twitter.com/search?q=in%c3%aas+apenas) | N/A |
+| 14 | [#PremierEleven](http://twitter.com/search?q=%23PremierEleven) | N/A |
+| 15 | [Ivandro](http://twitter.com/search?q=Ivandro) | N/A |
+| 16 | [ai coração](http://twitter.com/search?q=ai+cora%c3%a7%c3%a3o) | N/A |
+| 17 | [Nasci Maria](http://twitter.com/search?q=Nasci+Maria) | N/A |
+| 18 | [Cláudia Pascoal](http://twitter.com/search?q=Cl%c3%a1udia+Pascoal) | N/A |
+| 19 | [tiago gouveia](http://twitter.com/search?q=tiago+gouveia) | N/A |
+| 20 | [david fonseca](http://twitter.com/search?q=david+fonseca) | N/A |
+| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 22 | [geraldes](http://twitter.com/search?q=geraldes) | N/A |
+| 23 | [Maro](http://twitter.com/search?q=Maro) | N/A |
+| 24 | [Benfica B](http://twitter.com/search?q=Benfica+B) | N/A |
+| 25 | [armindo](http://twitter.com/search?q=armindo) | N/A |
+| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 27 | [salvador sobral](http://twitter.com/search?q=salvador+sobral) | N/A |
+| 28 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 29 | [esse povo](http://twitter.com/search?q=esse+povo) | N/A |
+| 30 | [Bárbara Tinoco](http://twitter.com/search?q=B%c3%a1rbara+Tinoco) | N/A |
+| 31 | [#brunardo](http://twitter.com/search?q=%23brunardo) | N/A |
+| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
+| 35 | [Bebida Alcoólica Favorita](http://twitter.com/search?q=Bebida+Alco%c3%b3lica+Favorita) | N/A |
+| 36 | [Cor Favorita](http://twitter.com/search?q=Cor+Favorita) | N/A |
+| 37 | [voodoo marmalade](http://twitter.com/search?q=voodoo+marmalade) | N/A |
+| 38 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 39 | [DAPUNKSPORTIF](http://twitter.com/search?q=DAPUNKSPORTIF) | N/A |
 | 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 41 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 42 | [Voodoo Marmalade](http://twitter.com/search?q=Voodoo+Marmalade) | N/A |
-| 43 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 44 | [churky](http://twitter.com/search?q=churky) | N/A |
-| 45 | [DAPUNKSPORTIF](http://twitter.com/search?q=DAPUNKSPORTIF) | N/A |
-| 46 | [Erick](http://twitter.com/search?q=Erick) | N/A |
-| 47 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 48 | [Vizela](http://twitter.com/search?q=Vizela) | Vizela is a municipality in the district of Braga, Portugal. The name is derived from the Latin word Visalia, which means "place of the gods". In English, Vizela can be translated to mean "place of the gods". |
-| 49 | [paços](http://twitter.com/search?q=pa%c3%a7os) | N/A |
-| 50 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
+| 41 | [O Liverpool](http://twitter.com/search?q=O+Liverpool) | N/A |
+| 42 | [churky](http://twitter.com/search?q=churky) | N/A |
+| 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 44 | [sapatos de cimento](http://twitter.com/search?q=sapatos+de+cimento) | N/A |
+| 45 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
+| 46 | [paços](http://twitter.com/search?q=pa%c3%a7os) | N/A |
+| 47 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 48 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 49 | [guedes](http://twitter.com/search?q=guedes) | N/A |
+| 50 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 
 
 

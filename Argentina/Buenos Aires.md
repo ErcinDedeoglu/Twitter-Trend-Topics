@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-12 14:16:03 UTC`
+📆 Last Updated: `2023-03-12 15:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
-| 2 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
-| 3 | [#DetrasDeLasNoticias](http://twitter.com/search?q=%23DetrasDeLasNoticias) | N/A |
-| 4 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 5 | [#PuntoPenalEnEl10](http://twitter.com/search?q=%23PuntoPenalEnEl10) | N/A |
-| 6 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 7 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 8 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 9 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 10 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 11 | [Vilma Palma](http://twitter.com/search?q=Vilma+Palma) | N/A |
-| 12 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
-| 13 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 14 | [Escudo Nacional](http://twitter.com/search?q=Escudo+Nacional) | N/A |
-| 15 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
-| 16 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
-| 17 | [Beto Pascutti](http://twitter.com/search?q=Beto+Pascutti) | N/A |
-| 18 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 19 | [El 12](http://twitter.com/search?q=El+12) | N/A |
-| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 21 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 22 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
-| 23 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 24 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 25 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 26 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 27 | [Conti](http://twitter.com/search?q=Conti) | N/A |
-| 28 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 29 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 30 | [Máximo](http://twitter.com/search?q=M%c3%a1ximo) | Máximo is a Spanish name derived from the Latin word maximus, meaning "greatest" or "largest". In English, it is often used as a given name or nickname for someone who is considered to be the best or most important person in a particular group. |
-| 31 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 33 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 34 | [Asamblea General Constituyente](http://twitter.com/search?q=Asamblea+General+Constituyente) | N/A |
-| 35 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
-| 36 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 37 | [Tehuel](http://twitter.com/search?q=Tehuel) | N/A |
-| 38 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 39 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 40 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
-| 41 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 44 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 45 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 46 | [Chorra](http://twitter.com/search?q=Chorra) | N/A |
-| 47 | [rodrigo garro](http://twitter.com/search?q=rodrigo+garro) | N/A |
-| 48 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 49 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
-| 50 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 2 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 3 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [#PuntoPenalEnEl10](http://twitter.com/search?q=%23PuntoPenalEnEl10) | N/A |
+| 8 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
+| 9 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 10 | [Vilma Palma](http://twitter.com/search?q=Vilma+Palma) | N/A |
+| 11 | [Raúl Alfonsín](http://twitter.com/search?q=Ra%c3%bal+Alfons%c3%adn) | N/A |
+| 12 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 13 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 14 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 15 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 16 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 18 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 19 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
+| 20 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 21 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 22 | [Kami](http://twitter.com/search?q=Kami) | N/A |
+| 23 | [Brandoni](http://twitter.com/search?q=Brandoni) | N/A |
+| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 25 | [Día del Escudo Nacional](http://twitter.com/search?q=D%c3%ada+del+Escudo+Nacional) | N/A |
+| 26 | [beto Pascutti](http://twitter.com/search?q=beto+Pascutti) | N/A |
+| 27 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 29 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 30 | [Diario El Sol Mendoza](http://twitter.com/search?q=Diario+El+Sol+Mendoza) | N/A |
+| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
+| 33 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
+| 34 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 35 | [Hiroshima](http://twitter.com/search?q=Hiroshima) | N/A |
+| 36 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 38 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 39 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
+| 40 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 41 | [conti](http://twitter.com/search?q=conti) | N/A |
+| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 43 | [Celia Cruz](http://twitter.com/search?q=Celia+Cruz) | N/A |
+| 44 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 45 | [Asamblea General Constituyente](http://twitter.com/search?q=Asamblea+General+Constituyente) | N/A |
+| 46 | [Tehuel](http://twitter.com/search?q=Tehuel) | N/A |
+| 47 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 48 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 49 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 50 | [El 12](http://twitter.com/search?q=El+12) | N/A |
 
 
 

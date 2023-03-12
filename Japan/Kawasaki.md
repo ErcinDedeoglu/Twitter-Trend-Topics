@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-12 14:16:14 UTC`
+📆 Last Updated: `2023-03-12 15:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [自分自身](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e8%87%aa%e8%ba%ab) | N/A |
-| 2 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 3 | [#BUCKTICK](http://twitter.com/search?q=%23BUCKTICK) | N/A |
+| 1 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 2 | [Kアリーナ](http://twitter.com/search?q=K%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | Kアリーナ is a Japanese entertainment venue located in Tokyo. It is primarily used for concerts, live events, and other performances. The name Kアリーナ comes from the first letter of the words "Kabuki" and "Arena". In English, it translates to "Kabuki Arena". |
+| 3 | [#特定失踪者全員奪還](http://twitter.com/search?q=%23%e7%89%b9%e5%ae%9a%e5%a4%b1%e8%b8%aa%e8%80%85%e5%85%a8%e5%93%a1%e5%a5%aa%e9%82%84) | N/A |
 | 4 | [ユーモア](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%a2%e3%82%a2) | N/A |
-| 5 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 6 | [ジャニーズモデル部サブリーダー就任](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba%e3%83%a2%e3%83%87%e3%83%ab%e9%83%a8%e3%82%b5%e3%83%96%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e5%b0%b1%e4%bb%bb) | N/A |
-| 7 | [アカウント名](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e5%90%8d) | N/A |
-| 8 | [#ダーウィンが来た](http://twitter.com/search?q=%23%e3%83%80%e3%83%bc%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%8c%e6%9d%a5%e3%81%9f) | N/A |
-| 9 | [好奇心旺盛](http://twitter.com/search?q=%e5%a5%bd%e5%a5%87%e5%bf%83%e6%97%ba%e7%9b%9b) | N/A |
-| 10 | [#にじワンパン杯](http://twitter.com/search?q=%23%e3%81%ab%e3%81%98%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e6%9d%af) | N/A |
-| 11 | [#鎌倉殿の13人](http://twitter.com/search?q=%23%e9%8e%8c%e5%80%89%e6%ae%bf%e3%81%ae13%e4%ba%ba) | N/A |
-| 12 | [社会問題](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e5%95%8f%e9%a1%8c) | N/A |
-| 13 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
-| 14 | [ヤクルト](http://twitter.com/search?q=%e3%83%a4%e3%82%af%e3%83%ab%e3%83%88) | N/A |
-| 15 | [自分の考え](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e8%80%83%e3%81%88) | N/A |
-| 16 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 17 | [デビューコン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%b3%e3%83%b3) | N/A |
-| 18 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
-| 19 | [DASH](http://twitter.com/search?q=DASH) | N/A |
-| 20 | [ストライクゾーン](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af%e3%82%be%e3%83%bc%e3%83%b3) | N/A |
-| 21 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
-| 22 | [下位打線](http://twitter.com/search?q=%e4%b8%8b%e4%bd%8d%e6%89%93%e7%b7%9a) | N/A |
-| 23 | [高杉実装](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e5%ae%9f%e8%a3%85) | N/A |
-| 24 | [大丸別荘](http://twitter.com/search?q=%e5%a4%a7%e4%b8%b8%e5%88%a5%e8%8d%98) | N/A |
-| 25 | [しめちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%81%e3%81%a1%e3%82%83%e3%82%93) | しめちゃん is a nickname for someone named Shime. It is a combination of the person's name and the Japanese honorific suffix -chan, which is used to show endearment or familiarity. In English, it would be something like "Shimey" or "Shimers". |
-| 26 | [高杉晋作](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e6%99%8b%e4%bd%9c) | N/A |
-| 27 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
-| 28 | [藤井さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 29 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
-| 30 | [思いやり](http://twitter.com/search?q=%e6%80%9d%e3%81%84%e3%82%84%e3%82%8a) | N/A |
-| 31 | [#アコスタ池袋](http://twitter.com/search?q=%23%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf%e6%b1%a0%e8%a2%8b) | N/A |
-| 32 | [短期決戦](http://twitter.com/search?q=%e7%9f%ad%e6%9c%9f%e6%b1%ba%e6%88%a6) | N/A |
-| 33 | [おじさん構文](http://twitter.com/search?q=%e3%81%8a%e3%81%98%e3%81%95%e3%82%93%e6%a7%8b%e6%96%87) | おじさん構文 is a type of Japanese sentence structure that is used to express politeness and respect. It is characterized by the use of honorific language, such as o-jisan (uncle) or o-san (Mr./Mrs.), and the use of polite verb forms. In English, it could be translated as "polite sentence structure". |
-| 34 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
-| 35 | [準々決勝](http://twitter.com/search?q=%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
-| 36 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 37 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
-| 38 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
-| 39 | [プールA](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%83%abA) | N/A |
-| 40 | [レッツゴージョージ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%84%e3%82%b4%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8) | N/A |
-| 41 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
-| 42 | [日本全勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%85%a8%e5%8b%9d) | N/A |
-| 43 | [一位通過](http://twitter.com/search?q=%e4%b8%80%e4%bd%8d%e9%80%9a%e9%81%8e) | N/A |
-| 44 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 45 | [電脳コイル](http://twitter.com/search?q=%e9%9b%bb%e8%84%b3%e3%82%b3%e3%82%a4%e3%83%ab) | N/A |
-| 46 | [首位通過](http://twitter.com/search?q=%e9%a6%96%e4%bd%8d%e9%80%9a%e9%81%8e) | N/A |
-| 47 | [河口さん](http://twitter.com/search?q=%e6%b2%b3%e5%8f%a3%e3%81%95%e3%82%93) | N/A |
-| 48 | [ポジティブ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3%e3%83%96) | N/A |
-| 49 | [自分の看板](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
-| 50 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 5 | [シオンちゃん](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 6 | [好奇心旺盛](http://twitter.com/search?q=%e5%a5%bd%e5%a5%87%e5%bf%83%e6%97%ba%e7%9b%9b) | N/A |
+| 7 | [自分の考え](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e8%80%83%e3%81%88) | N/A |
+| 8 | [#拉致被害者全員奪還](http://twitter.com/search?q=%23%e6%8b%89%e8%87%b4%e8%a2%ab%e5%ae%b3%e8%80%85%e5%85%a8%e5%93%a1%e5%a5%aa%e9%82%84) | N/A |
+| 9 | [感性豊か](http://twitter.com/search?q=%e6%84%9f%e6%80%a7%e8%b1%8a%e3%81%8b) | N/A |
+| 10 | [不滅のあなた](http://twitter.com/search?q=%e4%b8%8d%e6%bb%85%e3%81%ae%e3%81%82%e3%81%aa%e3%81%9f) | N/A |
+| 11 | [榎木淳弥](http://twitter.com/search?q=%e6%a6%8e%e6%9c%a8%e6%b7%b3%e5%bc%a5) | N/A |
+| 12 | [#BUCKTICK](http://twitter.com/search?q=%23BUCKTICK) | N/A |
+| 13 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 14 | [#せっかくグルメ](http://twitter.com/search?q=%23%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f%e3%82%b0%e3%83%ab%e3%83%a1) | #せっかくグルメ is a hashtag used on social media in Japan to share photos and experiences of delicious food. It translates to "Delicious Food, What a Treat!" |
+| 15 | [高橋奎二](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%a5%8e%e4%ba%8c) | N/A |
+| 16 | [中村悠平](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%82%a0%e5%b9%b3) | N/A |
+| 17 | [フォーメーション](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 18 | [#SideMPRS超常事変_day2](http://twitter.com/search?q=%23SideMPRS%e8%b6%85%e5%b8%b8%e4%ba%8b%e5%a4%89_day2) | N/A |
+| 19 | [社会問題](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e5%95%8f%e9%a1%8c) | N/A |
+| 20 | [台湾敗退](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e6%95%97%e9%80%80) | N/A |
+| 21 | [ヤクルト](http://twitter.com/search?q=%e3%83%a4%e3%82%af%e3%83%ab%e3%83%88) | N/A |
+| 22 | [大河ドラマ](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e3%83%89%e3%83%a9%e3%83%9e) | 大河ドラマ (Taiga Drama) is a type of Japanese television drama series that focuses on historical events and figures. It typically covers a period of several decades and follows the lives of multiple generations of characters. The term literally translates to "big river drama" in English. |
+| 23 | [デビューコン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%b3%e3%83%b3) | N/A |
+| 24 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 25 | [思いやり](http://twitter.com/search?q=%e6%80%9d%e3%81%84%e3%82%84%e3%82%8a) | N/A |
+| 26 | [しめちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%81%e3%81%a1%e3%82%83%e3%82%93) | しめちゃん is a nickname for someone named Shime. It is a combination of the person's name and the Japanese honorific suffix -chan, which is used to show endearment or familiarity. In English, it would be something like "Shimey" or "Shimers". |
+| 27 | [オーラス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%a9%e3%82%b9) | オーラス is a Japanese word that means "final" or "last". It is often used to refer to the last performance of a show or the last episode of a series. |
+| 28 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
+| 29 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 30 | [DASH](http://twitter.com/search?q=DASH) | N/A |
+| 31 | [申告敬遠](http://twitter.com/search?q=%e7%94%b3%e5%91%8a%e6%95%ac%e9%81%a0) | N/A |
+| 32 | [言葉遣い](http://twitter.com/search?q=%e8%a8%80%e8%91%89%e9%81%a3%e3%81%84) | N/A |
+| 33 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 34 | [藤井さん](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 35 | [アウトドア](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%83%89%e3%82%a2) | N/A |
+| 36 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
+| 37 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
+| 38 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
+| 39 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 40 | [準々決勝](http://twitter.com/search?q=%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
+| 41 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 42 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 43 | [アンダラ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%a9) | N/A |
+| 44 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 45 | [ポジティブ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3%e3%83%96) | N/A |
+| 46 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 47 | [プールA](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%83%abA) | N/A |
+| 48 | [電脳コイル](http://twitter.com/search?q=%e9%9b%bb%e8%84%b3%e3%82%b3%e3%82%a4%e3%83%ab) | N/A |
+| 49 | [マイラバ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%a9%e3%83%90) | N/A |
 
 
 

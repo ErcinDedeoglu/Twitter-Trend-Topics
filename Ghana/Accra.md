@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-12 14:16:20 UTC`
+📆 Last Updated: `2023-03-12 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
-| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 6 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 7 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
-| 8 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 9 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 10 | [Dede Ayew](http://twitter.com/search?q=Dede+Ayew) | N/A |
-| 11 | [#LinkinForLife](http://twitter.com/search?q=%23LinkinForLife) | N/A |
-| 12 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 13 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 14 | [#LeiChe](http://twitter.com/search?q=%23LeiChe) | N/A |
-| 15 | [#unitedshowbiz](http://twitter.com/search?q=%23unitedshowbiz) | N/A |
-| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 17 | [Sportybet](http://twitter.com/search?q=Sportybet) | N/A |
-| 18 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 19 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 20 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 21 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 22 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 24 | [Msport](http://twitter.com/search?q=Msport) | N/A |
-| 25 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 26 | [United 7](http://twitter.com/search?q=United+7) | N/A |
-| 27 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 29 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 33 | [Still 10th](http://twitter.com/search?q=Still+10th) | N/A |
-| 34 | [AMARTEY](http://twitter.com/search?q=AMARTEY) | N/A |
-| 35 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 36 | [Gambo](http://twitter.com/search?q=Gambo) | N/A |
-| 37 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
-| 38 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 39 | [Shugatiti](http://twitter.com/search?q=Shugatiti) | N/A |
-| 40 | [Daka](http://twitter.com/search?q=Daka) | N/A |
-| 41 | [KAI HAVERTZ](http://twitter.com/search?q=KAI+HAVERTZ) | N/A |
-| 42 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
-| 43 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 46 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 47 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
-| 48 | [Measles](http://twitter.com/search?q=Measles) | N/A |
-| 49 | [Shatta Wale](http://twitter.com/search?q=Shatta+Wale) | N/A |
-| 50 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 2 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 3 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 6 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 8 | [enzo](http://twitter.com/search?q=enzo) | N/A |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 11 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 12 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 13 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
+| 14 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 18 | [Dede Ayew](http://twitter.com/search?q=Dede+Ayew) | N/A |
+| 19 | [#linkinforlife](http://twitter.com/search?q=%23linkinforlife) | N/A |
+| 20 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 21 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 25 | [Sportybet](http://twitter.com/search?q=Sportybet) | N/A |
+| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 27 | [United 7](http://twitter.com/search?q=United+7) | N/A |
+| 28 | [Msport](http://twitter.com/search?q=Msport) | N/A |
+| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 30 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 32 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 33 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 34 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 35 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 37 | [Gambo](http://twitter.com/search?q=Gambo) | N/A |
+| 38 | [Shugatiti](http://twitter.com/search?q=Shugatiti) | N/A |
+| 39 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 40 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [Still 10th](http://twitter.com/search?q=Still+10th) | N/A |
+| 43 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 44 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 45 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
+| 46 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
+| 47 | [daka](http://twitter.com/search?q=daka) | N/A |
+| 48 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 49 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 50 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 
 
 

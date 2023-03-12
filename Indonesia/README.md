@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-12 14:16:42 UTC`
+📆 Last Updated: `2023-03-12 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Indonesia
 | 1 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
 | 2 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
 | 3 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
-| 4 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 5 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 6 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
-| 7 | [#JAEHYUNforPradaSS23](http://twitter.com/search?q=%23JAEHYUNforPradaSS23) | N/A |
-| 8 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 9 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
-| 10 | [#jinan_resolved](http://twitter.com/search?q=%23jinan_resolved) | N/A |
-| 11 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
-| 12 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
-| 13 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 14 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 16 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 17 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
-| 18 | [persija](http://twitter.com/search?q=persija) | N/A |
-| 19 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 20 | [Kodim 0105](http://twitter.com/search?q=Kodim+0105) | N/A |
-| 21 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 22 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 23 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 26 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 27 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 28 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
-| 29 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 30 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 32 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 33 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 35 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 36 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 37 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
-| 38 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
-| 39 | [Tojimari](http://twitter.com/search?q=Tojimari) | N/A |
-| 40 | [Souta](http://twitter.com/search?q=Souta) | N/A |
-| 41 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 42 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 43 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 44 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 45 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
-| 46 | [#BORNPINKinJKTday2](http://twitter.com/search?q=%23BORNPINKinJKTday2) | N/A |
-| 47 | [#PuntenSha](http://twitter.com/search?q=%23PuntenSha) | N/A |
-| 48 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 49 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
-| 50 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 6 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 8 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 9 | [SURENE JAYA JAYA JAYA](http://twitter.com/search?q=SURENE+JAYA+JAYA+JAYA) | N/A |
+| 10 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 11 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 12 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 15 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
+| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 17 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 20 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
+| 21 | [Soton](http://twitter.com/search?q=Soton) | N/A |
+| 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 23 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 24 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 25 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 26 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 27 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 28 | [Botak](http://twitter.com/search?q=Botak) | N/A |
+| 29 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
+| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 31 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 33 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
+| 34 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 35 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 36 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 37 | [Serizawa](http://twitter.com/search?q=Serizawa) | N/A |
+| 38 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
+| 39 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 40 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 41 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
+| 42 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 43 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 44 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 45 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
+| 46 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 47 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 48 | [Souta](http://twitter.com/search?q=Souta) | N/A |
+| 49 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
+| 50 | [Circle](http://twitter.com/search?q=Circle) | N/A |
 
 
 

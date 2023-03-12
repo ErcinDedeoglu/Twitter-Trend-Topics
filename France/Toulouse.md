@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-12 14:16:05 UTC`
+📆 Last Updated: `2023-03-12 15:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
+| 1 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 2 | [#CF63RCL](http://twitter.com/search?q=%23CF63RCL) | N/A |
-| 3 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 4 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 5 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 6 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
-| 7 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 8 | [#RCLens](http://twitter.com/search?q=%23RCLens) | N/A |
-| 9 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 10 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 11 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 12 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 13 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
-| 14 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
-| 15 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
-| 16 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 17 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 18 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 19 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 21 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 22 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 23 | [équipe 1](http://twitter.com/search?q=%c3%a9quipe+1) | N/A |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Samba](http://twitter.com/search?q=Samba) | N/A |
-| 26 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 27 | [petr yan](http://twitter.com/search?q=petr+yan) | N/A |
-| 28 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 29 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
-| 30 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 31 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 32 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 34 | [Thomasson](http://twitter.com/search?q=Thomasson) | N/A |
-| 35 | [Elise Lucet](http://twitter.com/search?q=Elise+Lucet) | N/A |
-| 36 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 37 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 38 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
-| 39 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 40 | [Soso Maness](http://twitter.com/search?q=Soso+Maness) | N/A |
-| 41 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 42 | [gambie](http://twitter.com/search?q=gambie) | N/A |
-| 43 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
-| 44 | [Flament](http://twitter.com/search?q=Flament) | N/A |
-| 45 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
-| 46 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 47 | [Claude François](http://twitter.com/search?q=Claude+Fran%c3%a7ois) | N/A |
-| 48 | [Triplé](http://twitter.com/search?q=Tripl%c3%a9) | N/A |
-| 49 | [Le Sénégal](http://twitter.com/search?q=Le+S%c3%a9n%c3%a9gal) | N/A |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 5 | [#FCNOGCN](http://twitter.com/search?q=%23FCNOGCN) | N/A |
+| 6 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 7 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 12 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 13 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 14 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 15 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
+| 16 | [Sotoca](http://twitter.com/search?q=Sotoca) | N/A |
+| 17 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 18 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 19 | [Équipe 2](http://twitter.com/search?q=%c3%89quipe+2) | N/A |
+| 20 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 21 | [Lucet](http://twitter.com/search?q=Lucet) | N/A |
+| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 23 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 25 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 26 | [Retailleau](http://twitter.com/search?q=Retailleau) | N/A |
+| 27 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 28 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 29 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 30 | [France 2](http://twitter.com/search?q=France+2) | N/A |
+| 31 | [Palomba](http://twitter.com/search?q=Palomba) | N/A |
+| 32 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 33 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 34 | [Le Sénat](http://twitter.com/search?q=Le+S%c3%a9nat) | N/A |
+| 35 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 36 | [#SCOTFC](http://twitter.com/search?q=%23SCOTFC) | N/A |
+| 37 | [#rclens](http://twitter.com/search?q=%23rclens) | N/A |
+| 38 | [#ACAMHSC](http://twitter.com/search?q=%23ACAMHSC) | N/A |
+| 39 | [#FCLESTAC](http://twitter.com/search?q=%23FCLESTAC) | N/A |
+| 40 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 41 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 42 | [#OMRCSA](http://twitter.com/search?q=%23OMRCSA) | N/A |
+| 43 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-12 14:15:54 UTC`
+📆 Last Updated: `2023-03-12 15:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 2 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 3 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 1 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 2 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 3 | [walcott](http://twitter.com/search?q=walcott) | N/A |
+| 4 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
 | 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 7 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 8 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 9 | [#ToryBBC](http://twitter.com/search?q=%23ToryBBC) | N/A |
-| 10 | [#MatchOfTheDay](http://twitter.com/search?q=%23MatchOfTheDay) | N/A |
-| 11 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 13 | [Chris Jordan](http://twitter.com/search?q=Chris+Jordan) | N/A |
-| 14 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 15 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 16 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 17 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 18 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 19 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 20 | [Raith](http://twitter.com/search?q=Raith) | N/A |
-| 21 | [Beaton](http://twitter.com/search?q=Beaton) | Beaton is a Scottish surname derived from the Gaelic word "bethan," meaning "little one." It is also a given name, derived from the Old French "beat," meaning "blessed." |
-| 22 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
-| 25 | [Viewing](http://twitter.com/search?q=Viewing) | N/A |
-| 26 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 27 | [Curiosity](http://twitter.com/search?q=Curiosity) | N/A |
-| 28 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 29 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 30 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 31 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 32 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 33 | [Ibrox](http://twitter.com/search?q=Ibrox) | N/A |
-| 34 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 35 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 36 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 37 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 38 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 39 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 40 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
-| 41 | [Wings](http://twitter.com/search?q=Wings) | N/A |
-| 42 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 43 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
-| 44 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 45 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 46 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 47 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 6 | [#Linekergate](http://twitter.com/search?q=%23Linekergate) | N/A |
+| 7 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 8 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 11 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 14 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 15 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 16 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 17 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 18 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 19 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 20 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 23 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 24 | [Studs](http://twitter.com/search?q=Studs) | N/A |
+| 25 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 26 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 27 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 28 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 29 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 30 | [Andre Marriner](http://twitter.com/search?q=Andre+Marriner) | Andre Marriner is a professional football referee from England who has officiated in the Premier League since 2005. He is also a FIFA-listed referee, meaning he is eligible to officiate international matches. |
+| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 32 | [Ollie Watkins](http://twitter.com/search?q=Ollie+Watkins) | N/A |
+| 33 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 34 | [Granit](http://twitter.com/search?q=Granit) | N/A |
+| 35 | [Raith](http://twitter.com/search?q=Raith) | N/A |
+| 36 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 37 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 38 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 39 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 40 | [Alan Smith](http://twitter.com/search?q=Alan+Smith) | N/A |
+| 41 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 42 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
+| 43 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
+| 44 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
+| 45 | [Beaton](http://twitter.com/search?q=Beaton) | Beaton is a Scottish surname derived from the Gaelic word "bethan," meaning "little one." It is also a given name, derived from the Old French "beat," meaning "blessed." |
+| 46 | [Viewing](http://twitter.com/search?q=Viewing) | N/A |
+| 47 | [Red Card](http://twitter.com/search?q=Red+Card) | Red Card is a term used in sports, particularly soccer, to indicate that a player has been ejected from the game. It is usually shown by the referee after a player has committed a serious foul or has received two yellow cards. The meaning of Red Card in English is "to be sent off". |
+| 48 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
 
 
 

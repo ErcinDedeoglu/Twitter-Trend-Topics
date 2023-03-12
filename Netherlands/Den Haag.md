@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-12 14:16:08 UTC`
+📆 Last Updated: `2023-03-12 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 2 | [#Buitenhof](http://twitter.com/search?q=%23Buitenhof) | N/A |
-| 3 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 4 | [#necutr](http://twitter.com/search?q=%23necutr) | N/A |
-| 5 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
-| 6 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 7 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 8 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 9 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 10 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 11 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 12 | [jurre](http://twitter.com/search?q=jurre) | N/A |
-| 13 | [Vincent Janssen](http://twitter.com/search?q=Vincent+Janssen) | N/A |
-| 14 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 15 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
-| 16 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
-| 17 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
-| 18 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 19 | [Libië](http://twitter.com/search?q=Libi%c3%ab) | N/A |
-| 20 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 21 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
-| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 23 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 25 | [Ruim 600.000](http://twitter.com/search?q=Ruim+600.000) | N/A |
-| 26 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 27 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 28 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 29 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 2 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 3 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 5 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 6 | [#Buitenhof](http://twitter.com/search?q=%23Buitenhof) | N/A |
+| 7 | [#boerenprotest](http://twitter.com/search?q=%23boerenprotest) | N/A |
+| 8 | [#necutr](http://twitter.com/search?q=%23necutr) | N/A |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 14 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 15 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 16 | [Vincent Janssen](http://twitter.com/search?q=Vincent+Janssen) | N/A |
+| 17 | [Van Hooijdonk](http://twitter.com/search?q=Van+Hooijdonk) | N/A |
+| 18 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 21 | [Libië](http://twitter.com/search?q=Libi%c3%ab) | N/A |
+| 22 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 23 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 24 | [Ruim 600.000](http://twitter.com/search?q=Ruim+600.000) | N/A |
+| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 27 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
+| 28 | [jurre](http://twitter.com/search?q=jurre) | N/A |
+| 29 | [Tavsan](http://twitter.com/search?q=Tavsan) | N/A |
 | 30 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 31 | [camilla van der burgt](http://twitter.com/search?q=camilla+van+der+burgt) | N/A |
-| 32 | [Wie Is De Mol](http://twitter.com/search?q=Wie+Is+De+Mol) | N/A |
+| 31 | [Camilla van der Burgt](http://twitter.com/search?q=Camilla+van+der+Burgt) | N/A |
+| 32 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
 | 33 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 34 | [Studio Sport](http://twitter.com/search?q=Studio+Sport) | N/A |
 | 35 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 37 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 38 | [jack van gelder](http://twitter.com/search?q=jack+van+gelder) | N/A |
-| 39 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 36 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 37 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 38 | [Cocu](http://twitter.com/search?q=Cocu) | N/A |
+| 39 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 40 | [Wittek](http://twitter.com/search?q=Wittek) | N/A |
 | 41 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 42 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
-| 43 | [truste](http://twitter.com/search?q=truste) | N/A |
-| 44 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 45 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 46 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 48 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 49 | [duitse](http://twitter.com/search?q=duitse) | N/A |
-| 50 | [demograaf](http://twitter.com/search?q=demograaf) | N/A |
+| 42 | [Nieman](http://twitter.com/search?q=Nieman) | N/A |
+| 43 | [andré hazes](http://twitter.com/search?q=andr%c3%a9+hazes) | N/A |
+| 44 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 45 | [oranje](http://twitter.com/search?q=oranje) | N/A |
+| 46 | [vooruitgang](http://twitter.com/search?q=vooruitgang) | N/A |
+| 47 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 48 | [demograaf](http://twitter.com/search?q=demograaf) | N/A |
+| 49 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 50 | [Timber](http://twitter.com/search?q=Timber) | N/A |
 
 
 

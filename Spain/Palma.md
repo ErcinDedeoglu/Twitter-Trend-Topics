@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-12 14:16:09 UTC`
+📆 Last Updated: `2023-03-12 15:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 2 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 3 | [#Felices30Adara](http://twitter.com/search?q=%23Felices30Adara) | N/A |
-| 4 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 5 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 6 | [#11marzo](http://twitter.com/search?q=%2311marzo) | N/A |
-| 7 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
-| 8 | [11-M](http://twitter.com/search?q=11-M) | N/A |
-| 9 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 10 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 11 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 12 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 13 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 16 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 17 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 18 | [LARIN](http://twitter.com/search?q=LARIN) | N/A |
-| 19 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 20 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 21 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 22 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 23 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 25 | [Clos Gómez](http://twitter.com/search?q=Clos+G%c3%b3mez) | N/A |
-| 26 | [alex calvo](http://twitter.com/search?q=alex+calvo) | N/A |
-| 27 | [eldense](http://twitter.com/search?q=eldense) | N/A |
-| 28 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 29 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
-| 30 | [SERGIO HERRERA](http://twitter.com/search?q=SERGIO+HERRERA) | N/A |
-| 31 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 32 | [David Silva](http://twitter.com/search?q=David+Silva) | N/A |
-| 33 | [aspas](http://twitter.com/search?q=aspas) | N/A |
-| 34 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 35 | [víctimas del terrorismo](http://twitter.com/search?q=v%c3%adctimas+del+terrorismo) | N/A |
-| 36 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 37 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
-| 38 | [manuel ángel](http://twitter.com/search?q=manuel+%c3%a1ngel) | N/A |
-| 39 | [pilar manjón](http://twitter.com/search?q=pilar+manj%c3%b3n) | N/A |
-| 40 | [Del Bosque](http://twitter.com/search?q=Del+Bosque) | N/A |
-| 41 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 42 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 43 | [Mónica García](http://twitter.com/search?q=M%c3%b3nica+Garc%c3%ada) | N/A |
-| 44 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 45 | [Mcfadden](http://twitter.com/search?q=Mcfadden) | N/A |
-| 46 | [Puche](http://twitter.com/search?q=Puche) | N/A |
-| 47 | [Zaplana](http://twitter.com/search?q=Zaplana) | N/A |
-| 48 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
-| 49 | [hace 19](http://twitter.com/search?q=hace+19) | N/A |
+| 4 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 5 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 6 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
+| 7 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 8 | [#RCDMallorcaRealSociedad](http://twitter.com/search?q=%23RCDMallorcaRealSociedad) | N/A |
+| 9 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 10 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 11 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 12 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 13 | [Puche](http://twitter.com/search?q=Puche) | N/A |
+| 14 | [#Oscars95](http://twitter.com/search?q=%23Oscars95) | N/A |
+| 15 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 16 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 17 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 18 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 19 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 20 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 21 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 22 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 23 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 24 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
+| 25 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 26 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 27 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 28 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 29 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 30 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 31 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 33 | [Ceuta](http://twitter.com/search?q=Ceuta) | Ceuta is a Spanish autonomous city located on the north coast of Africa. It is one of two permanently inhabited Spanish enclaves in mainland Africa, the other being Melilla. The name Ceuta is derived from the Arabic word for "fortress". In English, it can be translated as "fortress" or "stronghold". |
+| 34 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 35 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 38 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
+| 39 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 40 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 41 | [#APOYOROCIO12M](http://twitter.com/search?q=%23APOYOROCIO12M) | N/A |
+| 42 | [#YoMeRebelo12M](http://twitter.com/search?q=%23YoMeRebelo12M) | N/A |
+| 43 | [#Fallas2023](http://twitter.com/search?q=%23Fallas2023) | N/A |
+| 44 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
 
 
 
