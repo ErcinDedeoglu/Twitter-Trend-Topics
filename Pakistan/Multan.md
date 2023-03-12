@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-12 12:17:42 UTC`
+📆 Last Updated: `2023-03-12 13:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
 | 2 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
-| 3 | [#پاکستان_کی_ضرورت_عمران](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%a9%db%8c_%d8%b6%d8%b1%d9%88%d8%b1%d8%aa_%d8%b9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 4 | [#ظلِ_شاہ](http://twitter.com/search?q=%23%d8%b8%d9%84%d9%90_%d8%b4%d8%a7%db%81) | N/A |
-| 5 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 6 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
-| 7 | [HABIB UNIVERSITY](http://twitter.com/search?q=HABIB+UNIVERSITY) | N/A |
-| 8 | [Qais Ahmed](http://twitter.com/search?q=Qais+Ahmed) | N/A |
-| 9 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 10 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [Hales](http://twitter.com/search?q=Hales) | N/A |
-| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 14 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 15 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 16 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
-| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 18 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 19 | [HAT-TRICK](http://twitter.com/search?q=HAT-TRICK) | N/A |
-| 20 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
-| 21 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
-| 22 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 23 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 24 | [PMML](http://twitter.com/search?q=PMML) | N/A |
-| 25 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 26 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 27 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 30 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 31 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
-| 32 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 33 | [Flat](http://twitter.com/search?q=Flat) | N/A |
-| 34 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 35 | [hassan](http://twitter.com/search?q=hassan) | N/A |
-| 36 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 38 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
-| 39 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
-| 40 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 41 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 3 | [#ISupportShoaibShaikh](http://twitter.com/search?q=%23ISupportShoaibShaikh) | N/A |
+| 4 | [#PZvIU](http://twitter.com/search?q=%23PZvIU) | N/A |
+| 5 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 6 | [Khurram](http://twitter.com/search?q=Khurram) | N/A |
+| 7 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 8 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 9 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 10 | [Abbas afridi](http://twitter.com/search?q=Abbas+afridi) | N/A |
+| 11 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
+| 12 | [Wasim Jr](http://twitter.com/search?q=Wasim+Jr) | N/A |
+| 13 | [Peshawar Zalmi](http://twitter.com/search?q=Peshawar+Zalmi) | N/A |
+| 14 | [Pindi](http://twitter.com/search?q=Pindi) | N/A |
+| 15 | [Qais Ahmed](http://twitter.com/search?q=Qais+Ahmed) | N/A |
+| 16 | [HABIB UNIVERSITY](http://twitter.com/search?q=HABIB+UNIVERSITY) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [multan sultan](http://twitter.com/search?q=multan+sultan) | N/A |
+| 19 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 20 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 21 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 22 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 23 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
+| 24 | [Mohammad Haris](http://twitter.com/search?q=Mohammad+Haris) | N/A |
+| 25 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 26 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 27 | [PMML](http://twitter.com/search?q=PMML) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [HAT-TRICK](http://twitter.com/search?q=HAT-TRICK) | N/A |
+| 30 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Moin Khan](http://twitter.com/search?q=Moin+Khan) | N/A |
+| 33 | [Hales](http://twitter.com/search?q=Hales) | N/A |
+| 34 | [Munro](http://twitter.com/search?q=Munro) | N/A |
+| 35 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 36 | [Fraud](http://twitter.com/search?q=Fraud) | N/A |
+| 37 | [Islu](http://twitter.com/search?q=Islu) | N/A |
+| 38 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 39 | [Haseebullah](http://twitter.com/search?q=Haseebullah) | N/A |
+| 40 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 41 | [Laanat](http://twitter.com/search?q=Laanat) | N/A |
 | 42 | [England](http://twitter.com/search?q=England) | N/A |
-| 43 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 44 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 45 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 46 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 47 | [Pakistan Army](http://twitter.com/search?q=Pakistan+Army) | N/A |
-| 48 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 49 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 43 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 44 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
+| 45 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
+| 46 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 47 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 48 | [naughty](http://twitter.com/search?q=naughty) | N/A |
+| 49 | [London](http://twitter.com/search?q=London) | N/A |
 
 
 

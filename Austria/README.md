@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-12 12:17:56 UTC`
+📆 Last Updated: `2023-03-12 13:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
+| 1 | [#nehammer](http://twitter.com/search?q=%23nehammer) | N/A |
 | 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 4 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 5 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
-| 6 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 7 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 8 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
-| 9 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 10 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 11 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 12 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 13 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 14 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 15 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 16 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 17 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 20 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 21 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 23 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
-| 24 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 25 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 26 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
-| 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 28 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 29 | [träume](http://twitter.com/search?q=tr%c3%a4ume) | N/A |
-| 30 | [ärzte](http://twitter.com/search?q=%c3%a4rzte) | N/A |
-| 31 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 32 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 33 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 34 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 35 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 36 | [Regime](http://twitter.com/search?q=Regime) | N/A |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 38 | [Unfall](http://twitter.com/search?q=Unfall) | N/A |
-| 39 | [Innovationen](http://twitter.com/search?q=Innovationen) | N/A |
-| 40 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 41 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
-| 42 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 43 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 44 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 45 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 46 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 47 | [Sven](http://twitter.com/search?q=Sven) | N/A |
-| 48 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
-| 49 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 7 | [#Kanzlerrede](http://twitter.com/search?q=%23Kanzlerrede) | N/A |
+| 8 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 9 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 10 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 11 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 12 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
+| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 14 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 15 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 16 | [Lehrer](http://twitter.com/search?q=Lehrer) | N/A |
+| 17 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 18 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
+| 19 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 20 | [messias](http://twitter.com/search?q=messias) | N/A |
+| 21 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 22 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
+| 23 | [Kilometer](http://twitter.com/search?q=Kilometer) | N/A |
+| 24 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 25 | [ÖVP und FPÖ](http://twitter.com/search?q=%c3%96VP+und+FP%c3%96) | N/A |
+| 26 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 27 | [meeresspiegel](http://twitter.com/search?q=meeresspiegel) | N/A |
+| 28 | [Ibiza](http://twitter.com/search?q=Ibiza) | N/A |
+| 29 | [Eigenheim](http://twitter.com/search?q=Eigenheim) | N/A |
+| 30 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 31 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 32 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 33 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 34 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 35 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 36 | [schwarz-blau](http://twitter.com/search?q=schwarz-blau) | N/A |
+| 37 | [Vision](http://twitter.com/search?q=Vision) | N/A |
+| 38 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 39 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 40 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 41 | [hanni](http://twitter.com/search?q=hanni) | N/A |
+| 42 | [autoland](http://twitter.com/search?q=autoland) | N/A |
+| 43 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 44 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 45 | [legislaturperiode](http://twitter.com/search?q=legislaturperiode) | N/A |
+| 46 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 47 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
+| 48 | [Futtertrog](http://twitter.com/search?q=Futtertrog) | N/A |
+| 49 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 50 | [Mitmenschen](http://twitter.com/search?q=Mitmenschen) | N/A |
 
 
 

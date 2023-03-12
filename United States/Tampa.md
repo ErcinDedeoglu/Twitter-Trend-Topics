@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-12 12:17:55 UTC`
+📆 Last Updated: `2023-03-12 13:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 1 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
 | 2 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 3 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 4 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 5 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 8 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 10 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 11 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 3 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 4 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 5 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 6 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
+| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 10 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 11 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
 | 12 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 13 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 15 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 16 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 17 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 18 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 19 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 20 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 21 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 22 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 23 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
-| 24 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 25 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 26 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 27 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 28 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 29 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 32 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 33 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 34 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 35 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 36 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 37 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 38 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
-| 39 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 40 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 41 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 42 | [Dodd Frank](http://twitter.com/search?q=Dodd+Frank) | N/A |
-| 43 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 44 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 45 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 46 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 47 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 48 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 49 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 13 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 14 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 15 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 16 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 17 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 18 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 19 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 20 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 21 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 22 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
+| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 24 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 25 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 26 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 27 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 28 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 29 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 30 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 31 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 32 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 33 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 34 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 35 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 36 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 37 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
+| 38 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 39 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 40 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
+| 41 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 42 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 43 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 44 | [KESSLER EDWARDS](http://twitter.com/search?q=KESSLER+EDWARDS) | N/A |
+| 45 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 46 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 47 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
+| 48 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 49 | [#SpringForward](http://twitter.com/search?q=%23SpringForward) | N/A |
 
 
 

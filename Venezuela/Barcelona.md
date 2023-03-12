@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-12 12:17:17 UTC`
+📆 Last Updated: `2023-03-12 13:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 2 | [#12Mar](http://twitter.com/search?q=%2312Mar) | N/A |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
 | 4 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 5 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 5 | [#ClasicoMundialDeBeisbol](http://twitter.com/search?q=%23ClasicoMundialDeBeisbol) | N/A |
 | 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 7 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 8 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
-| 9 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 8 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 9 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
 | 10 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 11 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 12 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 13 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 14 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 15 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 16 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 17 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 18 | [martin pérez](http://twitter.com/search?q=martin+p%c3%a9rez) | N/A |
-| 19 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 20 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 21 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 22 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 23 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 24 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 25 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 30 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
-| 31 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 32 | [Nury Flores](http://twitter.com/search?q=Nury+Flores) | N/A |
-| 33 | [vamos carajo](http://twitter.com/search?q=vamos+carajo) | N/A |
-| 34 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 35 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
-| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 38 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 39 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 40 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 41 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
-| 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 43 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 44 | [Aure](http://twitter.com/search?q=Aure) | N/A |
-| 45 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 46 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
-| 47 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 11 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
+| 12 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 14 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 15 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 16 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 17 | [dr. josé maría vargas](http://twitter.com/search?q=dr.+jos%c3%a9+mar%c3%ada+vargas) | N/A |
+| 18 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
+| 19 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 20 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 21 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 22 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 25 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
+| 26 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 27 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 28 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 29 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 30 | [nury flores](http://twitter.com/search?q=nury+flores) | N/A |
+| 31 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
+| 32 | [Vamos Carajo](http://twitter.com/search?q=Vamos+Carajo) | N/A |
+| 33 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 34 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 35 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 36 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
+| 37 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 38 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 39 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
+| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 41 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 42 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
+| 43 | [Pdval](http://twitter.com/search?q=Pdval) | N/A |
+| 44 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 45 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 46 | [Planchas](http://twitter.com/search?q=Planchas) | N/A |
+| 47 | [Shakira y Bizarrap](http://twitter.com/search?q=Shakira+y+Bizarrap) | N/A |
 
 
 

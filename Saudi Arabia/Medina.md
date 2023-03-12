@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-03-12 12:17:39 UTC`
+📆 Last Updated: `2023-03-12 13:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#طيران_الرياض](http://twitter.com/search?q=%23%d8%b7%d9%8a%d8%b1%d8%a7%d9%86_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 2 | [#الاجواء_الحلوه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1_%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
-| 3 | [#الفيحاء_يطلب_لجنه_المنشطات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d9%8a%d8%b7%d9%84%d8%a8_%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%b7%d8%a7%d8%aa) | N/A |
-| 4 | [#الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 5 | [صندوق الاستثمارات العامه](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 6 | [#هوم_الك](http://twitter.com/search?q=%23%d9%87%d9%88%d9%85_%d8%a7%d9%84%d9%83) | N/A |
+| 1 | [#وزاره_التعليم](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 2 | [#طيران_الرياض](http://twitter.com/search?q=%23%d8%b7%d9%8a%d8%b1%d8%a7%d9%86_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 3 | [#الاجواء_الحلوه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1_%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 4 | [#استشارات_تدمر_البيوت](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa_%d8%aa%d8%af%d9%85%d8%b1_%d8%a7%d9%84%d8%a8%d9%8a%d9%88%d8%aa) | N/A |
+| 5 | [#شلالات_وامطار_الحبله](http://twitter.com/search?q=%23%d8%b4%d9%84%d8%a7%d9%84%d8%a7%d8%aa_%d9%88%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%ad%d8%a8%d9%84%d9%87) | N/A |
+| 6 | [صندوق الاستثمارات العامه](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 7 | [الناقل الجوي الوطني الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 8 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 9 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 10 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 11 | [شركات الطيران](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 12 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 13 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 14 | [الخطوط السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 15 | [الهدر المالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 16 | [فؤاد](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 17 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 18 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 19 | [الحصه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 20 | [اليوم الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 21 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 22 | [علي قبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d8%b1) | N/A |
-| 23 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
-| 24 | [رشه مطر](http://twitter.com/search?q=%d8%b1%d8%b4%d9%87+%d9%85%d8%b7%d8%b1) | N/A |
-| 25 | [الربع الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 26 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 27 | [مطر الصباح](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 28 | [بيوم العلم السعودي](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 29 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
-| 30 | [النشيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 8 | [الخدمات اللوجستيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%84%d9%88%d8%ac%d8%b3%d8%aa%d9%8a%d9%87) | N/A |
+| 9 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 10 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
+| 11 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 12 | [قطاع الطيران](http://twitter.com/search?q=%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 13 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
+| 14 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 15 | [الخطوط السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 16 | [الاستراتيجيه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [الهدر المالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
+| 18 | [شركات الطيران](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 19 | [مطار الملك](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | مطار الملك (King Khalid International Airport) is an airport located 35 kilometers north of Riyadh, the capital of Saudi Arabia. It is the largest airport in the country and serves as a hub for Saudia, Flynas, and Saudi Arabian Airlines. In English, it translates to King Khalid International Airport. |
+| 20 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 21 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 22 | [فؤاد انور](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%86%d9%88%d8%b1) | N/A |
+| 23 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 24 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 25 | [التحالف الثلاثي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a) | N/A |
+| 26 | [الربع الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 27 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 28 | [رشه مطر](http://twitter.com/search?q=%d8%b1%d8%b4%d9%87+%d9%85%d8%b7%d8%b1) | N/A |
+| 29 | [الحصه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 30 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
 | 31 | [الدين الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 32 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [#RiyadhAir](http://twitter.com/search?q=%23RiyadhAir) | N/A |
-| 34 | [#يخبرني_الصباح](http://twitter.com/search?q=%23%d9%8a%d8%ae%d8%a8%d8%b1%d9%86%d9%8a_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 35 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
-| 36 | [#بيرين_تغيب_الكفاءات_السعوديه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%b1%d9%8a%d9%86_%d8%aa%d8%ba%d9%8a%d8%a8_%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d8%a7%d8%aa_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 37 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
-| 38 | [#الحرس_الوطني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%b1%d8%b3_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 39 | [#زد_رصيدك48](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8348) | N/A |
-| 40 | [#امطار](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
-| 41 | [#حوقلوا](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%82%d9%84%d9%88%d8%a7) | N/A |
-| 42 | [#ارامكو](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a7%d9%85%d9%83%d9%88) | N/A |
-| 43 | [#بريده](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%8a%d8%af%d9%87) | N/A |
-| 44 | [#الاهلي_الرياض](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 45 | [#الرس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%b3) | N/A |
-| 46 | [#تعليم_جده](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%af%d9%87) | N/A |
-| 47 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
-| 48 | [#الطايف_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 49 | [#الجوف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%88%d9%81) | N/A |
-| 50 | [#عنيزه](http://twitter.com/search?q=%23%d8%b9%d9%86%d9%8a%d8%b2%d9%87) | N/A |
+| 32 | [#الفيحاء_يطلب_لجنه_المنشطات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d9%8a%d8%b7%d9%84%d8%a8_%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%b7%d8%a7%d8%aa) | N/A |
+| 33 | [#الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 34 | [#RiyadhAir](http://twitter.com/search?q=%23RiyadhAir) | N/A |
+| 35 | [#بهاج_مع_الغربي](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac_%d9%85%d8%b9_%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
+| 36 | [#هوم_الك](http://twitter.com/search?q=%23%d9%87%d9%88%d9%85_%d8%a7%d9%84%d9%83) | N/A |
+| 37 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
+| 38 | [#زد_رصيدك48](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8348) | N/A |
+| 39 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
+| 40 | [#الحرس_الوطني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%b1%d8%b3_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 41 | [#يخبرني_الصباح](http://twitter.com/search?q=%23%d9%8a%d8%ae%d8%a8%d8%b1%d9%86%d9%8a_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 42 | [#ميلاد_مجد_العرب](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d8%af_%d9%85%d8%ac%d8%af_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 43 | [#حفل_توثيق_وليد_قشران](http://twitter.com/search?q=%23%d8%ad%d9%81%d9%84_%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d9%88%d9%84%d9%8a%d8%af_%d9%82%d8%b4%d8%b1%d8%a7%d9%86) | N/A |
+| 44 | [#بيرين_تغيب_الكفاءات_السعوديه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%b1%d9%8a%d9%86_%d8%aa%d8%ba%d9%8a%d8%a8_%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d8%a7%d8%aa_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 45 | [#الاهلي_الرياض](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 46 | [#حوقلوا](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%82%d9%84%d9%88%d8%a7) | N/A |
+| 47 | [#بريده](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%8a%d8%af%d9%87) | N/A |
+| 48 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
+| 49 | [#ارامكو](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a7%d9%85%d9%83%d9%88) | N/A |
+| 50 | [#تعليم_جده](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%af%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-12 12:17:09 UTC`
+📆 Last Updated: `2023-03-12 13:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 1 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 4 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 8 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
-| 9 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 10 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 11 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 12 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 13 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 7 | [#UFCLasVegas](http://twitter.com/search?q=%23UFCLasVegas) | N/A |
+| 8 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 9 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 10 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 11 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 12 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
+| 13 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 14 | [McLeod](http://twitter.com/search?q=McLeod) | N/A |
-| 15 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 17 | [Bud Grant](http://twitter.com/search?q=Bud+Grant) | N/A |
-| 18 | [evander kane](http://twitter.com/search?q=evander+kane) | N/A |
-| 19 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 20 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 22 | [acciari](http://twitter.com/search?q=acciari) | N/A |
-| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 25 | [jt miller](http://twitter.com/search?q=jt+miller) | N/A |
-| 26 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
-| 27 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 28 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 29 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
-| 30 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 31 | [CHSLD](http://twitter.com/search?q=CHSLD) | N/A |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 34 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 35 | [rielly](http://twitter.com/search?q=rielly) | N/A |
-| 36 | [JUSTIN HOLL](http://twitter.com/search?q=JUSTIN+HOLL) | N/A |
-| 37 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 38 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 40 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 42 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 43 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 44 | [lucic](http://twitter.com/search?q=lucic) | N/A |
-| 45 | [Flair](http://twitter.com/search?q=Flair) | N/A |
-| 46 | [kerfoot](http://twitter.com/search?q=kerfoot) | N/A |
-| 47 | [Barb](http://twitter.com/search?q=Barb) | N/A |
-| 48 | [debrincat](http://twitter.com/search?q=debrincat) | N/A |
-| 49 | [Joly](http://twitter.com/search?q=Joly) | N/A |
+| 15 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 16 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 17 | [acciari](http://twitter.com/search?q=acciari) | N/A |
+| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 20 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
+| 21 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 22 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 23 | [DJ Moore](http://twitter.com/search?q=DJ+Moore) | DJ Moore is an American football wide receiver for the Carolina Panthers of the National Football League (NFL). His name stands for "Darius Johnson Moore". He was drafted by the Panthers in the first round of the 2018 NFL Draft. The name DJ Moore is derived from his given name, Darius Johnson. |
+| 24 | [Evander Kane](http://twitter.com/search?q=Evander+Kane) | N/A |
+| 25 | [Marineland](http://twitter.com/search?q=Marineland) | N/A |
+| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 28 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 29 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 30 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 31 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 33 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 34 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 35 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
+| 36 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 37 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 38 | [pionk](http://twitter.com/search?q=pionk) | N/A |
+| 39 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 40 | [March Break](http://twitter.com/search?q=March+Break) | N/A |
+| 41 | [Chris Lee](http://twitter.com/search?q=Chris+Lee) | N/A |
+| 42 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
+| 43 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 44 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 45 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
+| 46 | [hamonic](http://twitter.com/search?q=hamonic) | N/A |
+| 47 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 48 | [Shandro](http://twitter.com/search?q=Shandro) | N/A |
+| 49 | [Boeser](http://twitter.com/search?q=Boeser) | N/A |
 
 
 

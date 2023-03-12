@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-12 12:17:12 UTC`
+📆 Last Updated: `2023-03-12 13:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 3 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 4 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 5 | [#engvfra](http://twitter.com/search?q=%23engvfra) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 8 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
-| 9 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
-| 10 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 11 | [#itavwal](http://twitter.com/search?q=%23itavwal) | N/A |
-| 12 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 13 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 14 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 15 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 16 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 17 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 18 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 19 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 20 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 22 | [Wright](http://twitter.com/search?q=Wright) | N/A |
-| 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 24 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 25 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 26 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 27 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
-| 28 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 29 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 30 | [England](http://twitter.com/search?q=England) | N/A |
-| 31 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 33 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
-| 36 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 37 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 38 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 39 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 40 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 41 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 42 | [Bodie](http://twitter.com/search?q=Bodie) | N/A |
-| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 44 | [iPlayer](http://twitter.com/search?q=iPlayer) | N/A |
-| 45 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 46 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 47 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 48 | [Shoot First](http://twitter.com/search?q=Shoot+First) | N/A |
-| 49 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 1 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 2 | [Chris Jordan](http://twitter.com/search?q=Chris+Jordan) | N/A |
+| 3 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 4 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 5 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 6 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 7 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 8 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 9 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
+| 10 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
+| 11 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 12 | [Viewing](http://twitter.com/search?q=Viewing) | N/A |
+| 13 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
+| 14 | [Jeremy Hunt](http://twitter.com/search?q=Jeremy+Hunt) | Jeremy Hunt is the name of the current British Secretary of State for Health and Social Care. The name is derived from the Old English given name "Geraint", which means "strong spear". |
+| 15 | [Curiosity](http://twitter.com/search?q=Curiosity) | N/A |
+| 16 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 17 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 18 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 19 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
+| 20 | [John Redwood](http://twitter.com/search?q=John+Redwood) | N/A |
+| 21 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 22 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 25 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
+| 26 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 27 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 28 | [Gibb](http://twitter.com/search?q=Gibb) | N/A |
+| 29 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 30 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 31 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 32 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 33 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 34 | [Orwell](http://twitter.com/search?q=Orwell) | N/A |
+| 35 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 36 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 37 | [#BBCLauraK](http://twitter.com/search?q=%23BBCLauraK) | #BBCLauraK is a hashtag used to refer to the BBC journalist Laura Kuenssberg. It is used to promote her work and news stories she has reported on. |
+| 38 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 39 | [#NORSUN](http://twitter.com/search?q=%23NORSUN) | N/A |
+| 40 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 41 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
+| 42 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 43 | [#MUWomen](http://twitter.com/search?q=%23MUWomen) | N/A |
+| 44 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 45 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
 
 
 

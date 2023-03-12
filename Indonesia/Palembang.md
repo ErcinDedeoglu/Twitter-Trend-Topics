@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-12 12:17:29 UTC`
+📆 Last Updated: `2023-03-12 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 2 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
-| 3 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 4 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 5 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 6 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 7 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 8 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 9 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 12 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 13 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 14 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
-| 15 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 16 | [Ibnu Riza](http://twitter.com/search?q=Ibnu+Riza) | N/A |
-| 17 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 18 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 19 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 20 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 21 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 22 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 23 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 24 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 25 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 26 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 27 | [JISOO MENGGUNCANG JAKARTA](http://twitter.com/search?q=JISOO+MENGGUNCANG+JAKARTA) | N/A |
-| 28 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
-| 29 | [Ansor](http://twitter.com/search?q=Ansor) | N/A |
-| 30 | [SHGB](http://twitter.com/search?q=SHGB) | N/A |
-| 31 | [Koesni Harningsih](http://twitter.com/search?q=Koesni+Harningsih) | N/A |
-| 32 | [King Arthur](http://twitter.com/search?q=King+Arthur) | N/A |
-| 33 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 34 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 35 | [STAY STRONG OUR BIU](http://twitter.com/search?q=STAY+STRONG+OUR+BIU) | N/A |
-| 36 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 37 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 38 | [malming](http://twitter.com/search?q=malming) | N/A |
-| 39 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 40 | [Simbiosis](http://twitter.com/search?q=Simbiosis) | N/A |
-| 41 | [Yeonjin](http://twitter.com/search?q=Yeonjin) | N/A |
-| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 44 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
-| 45 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 46 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 47 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
-| 48 | [WAYV 1ST CHARITY SONG](http://twitter.com/search?q=WAYV+1ST+CHARITY+SONG) | N/A |
-| 49 | [DROWNING COMING SOON](http://twitter.com/search?q=DROWNING+COMING+SOON) | N/A |
+| 1 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
+| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 3 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 4 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
+| 5 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 6 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
+| 7 | [PLEDIS](http://twitter.com/search?q=PLEDIS) | N/A |
+| 8 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 9 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 10 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
+| 11 | [#BORNPINKinJKTday2](http://twitter.com/search?q=%23BORNPINKinJKTday2) | N/A |
+| 12 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 13 | [Persik](http://twitter.com/search?q=Persik) | N/A |
+| 14 | [JENNIE SHINING IN JAKARTA](http://twitter.com/search?q=JENNIE+SHINING+IN+JAKARTA) | N/A |
+| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 16 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 17 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 18 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
+| 19 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 20 | [ZEUS](http://twitter.com/search?q=ZEUS) | N/A |
+| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 22 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
+| 23 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 24 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
+| 25 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
+| 26 | [HAPPINESS COME FROM CARATLAND](http://twitter.com/search?q=HAPPINESS+COME+FROM+CARATLAND) | N/A |
+| 27 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 28 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 29 | [Jambak](http://twitter.com/search?q=Jambak) | N/A |
+| 30 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 31 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 32 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 33 | [Tojimari](http://twitter.com/search?q=Tojimari) | N/A |
+| 34 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
+| 35 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
+| 36 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 37 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 38 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 39 | [#PuntenSha](http://twitter.com/search?q=%23PuntenSha) | N/A |
+| 40 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 41 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
+| 42 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 43 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
+| 44 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
+| 45 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 46 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 47 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
+| 48 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
 
 
 

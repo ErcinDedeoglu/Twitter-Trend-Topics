@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-12 12:17:54 UTC`
+📆 Last Updated: `2023-03-12 13:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BreatheFire](http://twitter.com/search?q=%23BreatheFire) | N/A |
+| 1 | [#breathefire](http://twitter.com/search?q=%23breathefire) | N/A |
 | 2 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [sounders](http://twitter.com/search?q=sounders) | N/A |
-| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 6 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 9 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 10 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 11 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 12 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 13 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 15 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 16 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 18 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 19 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 20 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 21 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 22 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 24 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 25 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 26 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
-| 27 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 28 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 29 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 30 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 31 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 32 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 35 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 36 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 37 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 38 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 39 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 41 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
-| 42 | [Shutter Island](http://twitter.com/search?q=Shutter+Island) | N/A |
-| 43 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 44 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 45 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 46 | [Dodd Frank](http://twitter.com/search?q=Dodd+Frank) | N/A |
-| 47 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 48 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 49 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 50 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 3 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
+| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 7 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 8 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 9 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 10 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 11 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 13 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 14 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 17 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 18 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 19 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 20 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 21 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 23 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 24 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 25 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 26 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
+| 27 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 28 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 29 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 30 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 31 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 32 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 33 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 34 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 35 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 36 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 37 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 38 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 39 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 40 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 41 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 44 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
+| 45 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 46 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 47 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
+| 48 | [KESSLER EDWARDS](http://twitter.com/search?q=KESSLER+EDWARDS) | N/A |
+| 49 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 50 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
 
 
 

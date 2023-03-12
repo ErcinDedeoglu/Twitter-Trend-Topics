@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-12 12:17:35 UTC`
+📆 Last Updated: `2023-03-12 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 2 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
-| 3 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 4 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 5 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
-| 6 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 7 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 1 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
+| 2 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 3 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
+| 4 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 5 | [PLEDIS](http://twitter.com/search?q=PLEDIS) | N/A |
+| 6 | [#DaigCursedLady](http://twitter.com/search?q=%23DaigCursedLady) | N/A |
+| 7 | [wonu](http://twitter.com/search?q=wonu) | N/A |
 | 8 | [#TheClashSurprise](http://twitter.com/search?q=%23TheClashSurprise) | N/A |
-| 9 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 10 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
-| 11 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 12 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
-| 13 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 14 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 15 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
-| 16 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 17 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 18 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 19 | [Carats](http://twitter.com/search?q=Carats) | N/A |
-| 20 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 21 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 22 | [Circles](http://twitter.com/search?q=Circles) | N/A |
-| 23 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
-| 24 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 25 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 26 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 27 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 28 | [JOSHUA HONG](http://twitter.com/search?q=JOSHUA+HONG) | N/A |
-| 29 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 31 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
-| 32 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
-| 33 | [#iKONWORLDTOUR2023](http://twitter.com/search?q=%23iKONWORLDTOUR2023) | N/A |
-| 34 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
-| 35 | [#JUMP_in_SVT_CARATLAND](http://twitter.com/search?q=%23JUMP_in_SVT_CARATLAND) | N/A |
-| 36 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
-| 37 | [#HORI7ON_1stMonthsary](http://twitter.com/search?q=%23HORI7ON_1stMonthsary) | N/A |
-| 38 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
-| 39 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
-| 40 | [#2023PBAPassiAllStars](http://twitter.com/search?q=%232023PBAPassiAllStars) | N/A |
-| 41 | [#MarkandKiminMNL](http://twitter.com/search?q=%23MarkandKiminMNL) | N/A |
-| 42 | [#OustOA](http://twitter.com/search?q=%23OustOA) | N/A |
-| 43 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
-| 44 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 45 | [#AndreaBrillantes](http://twitter.com/search?q=%23AndreaBrillantes) | N/A |
-| 46 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 47 | [#JENLISA](http://twitter.com/search?q=%23JENLISA) | N/A |
-| 48 | [#BesideBeckyEverydayForever](http://twitter.com/search?q=%23BesideBeckyEverydayForever) | N/A |
-| 49 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
-| 50 | [#BOYCOTTEBxGMA732](http://twitter.com/search?q=%23BOYCOTTEBxGMA732) | N/A |
+| 9 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 10 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 11 | [#NOCHILLPHILIPPINES](http://twitter.com/search?q=%23NOCHILLPHILIPPINES) | N/A |
+| 12 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 13 | [Japeth](http://twitter.com/search?q=Japeth) | N/A |
+| 14 | [Paul Lee](http://twitter.com/search?q=Paul+Lee) | N/A |
+| 15 | [KAIA 5678 LETSGO](http://twitter.com/search?q=KAIA+5678+LETSGO) | N/A |
+| 16 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
+| 17 | [Team Scottie](http://twitter.com/search?q=Team+Scottie) | N/A |
+| 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 19 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 20 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
+| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 22 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 23 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 24 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 25 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 26 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 27 | [Carats](http://twitter.com/search?q=Carats) | N/A |
+| 28 | [Circles](http://twitter.com/search?q=Circles) | N/A |
+| 29 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 30 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 31 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 32 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 33 | [#iKONTAKEOFF2023](http://twitter.com/search?q=%23iKONTAKEOFF2023) | N/A |
+| 34 | [#iKONinEssen](http://twitter.com/search?q=%23iKONinEssen) | N/A |
+| 35 | [#STREAM_WILD_TONIGHT](http://twitter.com/search?q=%23STREAM_WILD_TONIGHT) | N/A |
+| 36 | [#CARATLAND2023day3](http://twitter.com/search?q=%23CARATLAND2023day3) | N/A |
+| 37 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 38 | [#SmartxDonBelleBTS](http://twitter.com/search?q=%23SmartxDonBelleBTS) | N/A |
+| 39 | [#iKONWORLDTOUR2023](http://twitter.com/search?q=%23iKONWORLDTOUR2023) | N/A |
+| 40 | [#HORI7ON_GoesToNuevaEcija](http://twitter.com/search?q=%23HORI7ON_GoesToNuevaEcija) | N/A |
+| 41 | [#PBAAllStar](http://twitter.com/search?q=%23PBAAllStar) | N/A |
+| 42 | [#EN_READS](http://twitter.com/search?q=%23EN_READS) | N/A |
+| 43 | [#ErrrDay_With_Youngjae](http://twitter.com/search?q=%23ErrrDay_With_Youngjae) | N/A |
+| 44 | [#1stOneFANMEET2023](http://twitter.com/search?q=%231stOneFANMEET2023) | N/A |
+| 45 | [#MYCONinMNL](http://twitter.com/search?q=%23MYCONinMNL) | N/A |
+| 46 | [#HORI7ON_1stMonthsary](http://twitter.com/search?q=%23HORI7ON_1stMonthsary) | N/A |
+| 47 | [#ggrsg](http://twitter.com/search?q=%23ggrsg) | N/A |
+| 48 | [#2023PBAPassiAllStars](http://twitter.com/search?q=%232023PBAPassiAllStars) | N/A |
+| 49 | [#캐럿랜드_막날_모두_뛰어](http://twitter.com/search?q=%23%ec%ba%90%eb%9f%bf%eb%9e%9c%eb%93%9c_%eb%a7%89%eb%82%a0_%eb%aa%a8%eb%91%90_%eb%9b%b0%ec%96%b4) | N/A |
+| 50 | [#DaigKayoNgLolaKo](http://twitter.com/search?q=%23DaigKayoNgLolaKo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-12 12:17:47 UTC`
+📆 Last Updated: `2023-03-12 13:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
 | 4 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 5 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
 | 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [#DaylightSavingTime](http://twitter.com/search?q=%23DaylightSavingTime) | N/A |
-| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 10 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 11 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 12 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 13 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 14 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
-| 15 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 16 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 18 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 19 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 20 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 21 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 24 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 25 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 26 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 27 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 28 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 29 | [Tszyu](http://twitter.com/search?q=Tszyu) | N/A |
-| 30 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 31 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 32 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 33 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
-| 34 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
-| 35 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
-| 38 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 39 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
-| 40 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 41 | [Strive](http://twitter.com/search?q=Strive) | N/A |
-| 42 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
-| 43 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 44 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
-| 45 | [Shutter Island](http://twitter.com/search?q=Shutter+Island) | N/A |
-| 46 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
-| 47 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 48 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 49 | [Dodd Frank](http://twitter.com/search?q=Dodd+Frank) | N/A |
-| 50 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 8 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 9 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 10 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 11 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 13 | [#Wordle631](http://twitter.com/search?q=%23Wordle631) | N/A |
+| 14 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 15 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 16 | [Daily Quordle 412](http://twitter.com/search?q=Daily+Quordle+412) | N/A |
+| 17 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
+| 18 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 19 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 20 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 21 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 22 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 23 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 24 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 27 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 28 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 29 | [Standard Time](http://twitter.com/search?q=Standard+Time) | N/A |
+| 30 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 31 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 32 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 33 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 34 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 35 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 36 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 37 | [Bill Ackman](http://twitter.com/search?q=Bill+Ackman) | N/A |
+| 38 | [Jerma](http://twitter.com/search?q=Jerma) | N/A |
+| 39 | [Sammi](http://twitter.com/search?q=Sammi) | N/A |
+| 40 | [Wolf of Wall Street](http://twitter.com/search?q=Wolf+of+Wall+Street) | N/A |
+| 41 | [The Departed](http://twitter.com/search?q=The+Departed) | N/A |
+| 42 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 43 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 44 | [Nezarec](http://twitter.com/search?q=Nezarec) | N/A |
+| 45 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 46 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 47 | [The Oscars](http://twitter.com/search?q=The+Oscars) | N/A |
+| 48 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 49 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 50 | [Depositors](http://twitter.com/search?q=Depositors) | N/A |
 
 
 

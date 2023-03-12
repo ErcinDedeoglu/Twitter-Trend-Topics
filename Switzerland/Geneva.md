@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-12 12:17:27 UTC`
+📆 Last Updated: `2023-03-12 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 4 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 7 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 8 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 9 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 10 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 11 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 12 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 15 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 16 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 17 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 18 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 19 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 20 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 21 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 22 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 23 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 24 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 25 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 26 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 27 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 28 | [sanktionen](http://twitter.com/search?q=sanktionen) | N/A |
-| 29 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 30 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
-| 31 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 32 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 33 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 34 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 35 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 36 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 37 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 39 | [Finger](http://twitter.com/search?q=Finger) | N/A |
-| 40 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 41 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 42 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 43 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 44 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 45 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 46 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 47 | [England](http://twitter.com/search?q=England) | N/A |
-| 48 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 1 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
+| 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 3 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 4 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 5 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 8 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 9 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 10 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 14 | [#be1103](http://twitter.com/search?q=%23be1103) | N/A |
+| 15 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 16 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 17 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 18 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
+| 19 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
+| 20 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
+| 21 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 22 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 23 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 24 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 25 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 26 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 27 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 28 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
+| 29 | [Gedankengut](http://twitter.com/search?q=Gedankengut) | N/A |
+| 30 | [TPMP](http://twitter.com/search?q=TPMP) | N/A |
+| 31 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 32 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 33 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 34 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 35 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 36 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 37 | [Mikaela Shiffrin](http://twitter.com/search?q=Mikaela+Shiffrin) | N/A |
+| 38 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 39 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 40 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 41 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 42 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 44 | [Talent](http://twitter.com/search?q=Talent) | N/A |
+| 45 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 47 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 
