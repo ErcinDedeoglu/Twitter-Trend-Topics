@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-12 05:16:50 UTC`
+📆 Last Updated: `2023-03-12 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 | 4 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
 | 5 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 7 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
-| 8 | [MARSObrang GALING MO JONA](http://twitter.com/search?q=MARSObrang+GALING+MO+JONA) | N/A |
+| 6 | [MARSObrang GALING MO JONA](http://twitter.com/search?q=MARSObrang+GALING+MO+JONA) | N/A |
+| 7 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 8 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
 | 9 | [WeLoveYou Queen REGINE](http://twitter.com/search?q=WeLoveYou+Queen+REGINE) | N/A |
-| 10 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
-| 11 | [POPSTAR ROYALTY FOR LAZADA](http://twitter.com/search?q=POPSTAR+ROYALTY+FOR+LAZADA) | N/A |
-| 12 | [peptionary with kdlex](http://twitter.com/search?q=peptionary+with+kdlex) | N/A |
-| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 14 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 15 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
-| 16 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 17 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 18 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 19 | [BINI MARCHSAYA ON ASAP](http://twitter.com/search?q=BINI+MARCHSAYA+ON+ASAP) | N/A |
-| 20 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
-| 21 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 22 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 23 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 24 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 25 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [AllOut JAPS](http://twitter.com/search?q=AllOut+JAPS) | N/A |
-| 28 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 10 | [peptionary with kdlex](http://twitter.com/search?q=peptionary+with+kdlex) | N/A |
+| 11 | [ASAP-TB90s SAYA WITH ALEXA](http://twitter.com/search?q=ASAP-TB90s+SAYA+WITH+ALEXA) | N/A |
+| 12 | [galing ng belleiogesic](http://twitter.com/search?q=galing+ng+belleiogesic) | N/A |
+| 13 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 14 | [KODREA SUMMERKILIG ON ASAP](http://twitter.com/search?q=KODREA+SUMMERKILIG+ON+ASAP) | N/A |
+| 15 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 16 | [BARCELONight with KATHNIEL](http://twitter.com/search?q=BARCELONight+with+KATHNIEL) | N/A |
+| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 18 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
+| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 20 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 21 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 22 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 23 | [zacham barkadahan epiesode6](http://twitter.com/search?q=zacham+barkadahan+epiesode6) | N/A |
+| 24 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
+| 25 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 26 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
+| 27 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 28 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
 | 29 | [ALAMAT INVASION SA ASAP](http://twitter.com/search?q=ALAMAT+INVASION+SA+ASAP) | N/A |
-| 30 | [seham on showtime](http://twitter.com/search?q=seham+on+showtime) | N/A |
-| 31 | [RALPHGAIL ASAPaKENsiAYUMI](http://twitter.com/search?q=RALPHGAIL+ASAPaKENsiAYUMI) | N/A |
-| 32 | [kd tiktoker era](http://twitter.com/search?q=kd+tiktoker+era) | N/A |
-| 33 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 34 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 35 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 36 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 37 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
-| 38 | [BLONDE SOOBIN](http://twitter.com/search?q=BLONDE+SOOBIN) | N/A |
+| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 31 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 32 | [ralphgail isipbatasashowtime](http://twitter.com/search?q=ralphgail+isipbatasashowtime) | N/A |
+| 33 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 34 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 35 | [RALPHGAIL ASAPaKENsiAYUMI](http://twitter.com/search?q=RALPHGAIL+ASAPaKENsiAYUMI) | N/A |
+| 36 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 37 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 38 | [Mukaba](http://twitter.com/search?q=Mukaba) | N/A |
 | 39 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 40 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 41 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 42 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 43 | [Mukaba](http://twitter.com/search?q=Mukaba) | N/A |
-| 44 | [AMA2ING Y3AR of VINCI](http://twitter.com/search?q=AMA2ING+Y3AR+of+VINCI) | N/A |
-| 45 | [AGUST HONG](http://twitter.com/search?q=AGUST+HONG) | N/A |
-| 46 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
-| 47 | [SAM MarchPasabog](http://twitter.com/search?q=SAM+MarchPasabog) | N/A |
+| 40 | [AMA2ING Y3AR of VINCI](http://twitter.com/search?q=AMA2ING+Y3AR+of+VINCI) | N/A |
+| 41 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 42 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 43 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
+| 44 | [SAM MarchPasabog](http://twitter.com/search?q=SAM+MarchPasabog) | N/A |
+| 45 | [Smile Flower](http://twitter.com/search?q=Smile+Flower) | N/A |
+| 46 | [Lars Pacheco](http://twitter.com/search?q=Lars+Pacheco) | N/A |
+| 47 | [BINI MARCHSAYA ON ASAP](http://twitter.com/search?q=BINI+MARCHSAYA+ON+ASAP) | N/A |
 
 
 

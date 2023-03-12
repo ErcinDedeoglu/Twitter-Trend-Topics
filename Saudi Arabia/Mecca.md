@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-12 05:16:55 UTC`
+📆 Last Updated: `2023-03-12 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 3 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
-| 4 | [#ارفع_الخفاق_اخضر](http://twitter.com/search?q=%23%d8%a7%d8%b1%d9%81%d8%b9_%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82_%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 5 | [#اعلامي_يضرب_مشجع_في_المدرجات](http://twitter.com/search?q=%23%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a_%d9%8a%d8%b6%d8%b1%d8%a8_%d9%85%d8%b4%d8%ac%d8%b9_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac%d8%a7%d8%aa) | N/A |
-| 6 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 7 | [11 مارس](http://twitter.com/search?q=11+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 8 | [النور المسطر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%b7%d8%b1) | N/A |
-| 9 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 10 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 11 | [مطر الصباح](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 12 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
-| 13 | [الاجواء الحلوه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
-| 14 | [الخفاق الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
-| 15 | [ابو كاتم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%83%d8%a7%d8%aa%d9%85) | ابو كاتم is an Arabic phrase that translates to "Father of Silence". It is used to refer to someone who is quiet and introspective. |
-| 16 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 17 | [المشجع النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
-| 18 | [١١ مارس](http://twitter.com/search?q=%d9%a1%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 19 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 20 | [مطر الفجر](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 21 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 22 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 23 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 25 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 26 | [مدرج الهلال](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 27 | [ستيف](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d9%81) | N/A |
-| 28 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 29 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 30 | [الثلث العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 31 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 32 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 33 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 34 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 35 | [مفتاح الاسلام](http://twitter.com/search?q=%d9%85%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 36 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [علم التوحيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d9%8a%d8%af) | N/A |
-| 38 | [علي البيارق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d8%b1%d9%82) | N/A |
-| 39 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
-| 40 | [مطر الليل](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
-| 41 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
-| 42 | [علم الفخر](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
-| 43 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 44 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 45 | [ابراهيم الصالحي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%8a) | N/A |
-| 46 | [علي المشجع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%ac%d8%b9) | N/A |
-| 47 | [محمد القحطاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 49 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [السيف الاجرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a8) | N/A |
+| 1 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 2 | [#تعليم_القنفذه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d9%86%d9%81%d8%b0%d9%87) | N/A |
+| 3 | [#يوم_العلم_مع_حمدي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85_%d9%85%d8%b9_%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 4 | [#يخبرني_الصباح](http://twitter.com/search?q=%23%d9%8a%d8%ae%d8%a8%d8%b1%d9%86%d9%8a_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 5 | [#الفيحاء_يطلب_لجنه_المنشطات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d9%8a%d8%b7%d9%84%d8%a8_%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%b7%d8%a7%d8%aa) | N/A |
+| 6 | [الاجواء الحلوه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
+| 7 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 8 | [الفصل الدراسي الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 9 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 10 | [مطر الصباح](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 11 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 12 | [الحصه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 13 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 14 | [ابو كاتم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%83%d8%a7%d8%aa%d9%85) | ابو كاتم is an Arabic phrase that translates to "Father of Silence". It is used to refer to someone who is quiet and introspective. |
+| 15 | [تعليم عسير](http://twitter.com/search?q=%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 16 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 17 | [الطابور الصباحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a) | N/A |
+| 18 | [مطر الفجر](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 19 | [البدايات الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%af%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 20 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
+| 21 | [ستيف](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d9%81) | N/A |
+| 22 | [ترم جديد](http://twitter.com/search?q=%d8%aa%d8%b1%d9%85+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 23 | [الترم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 24 | [النشيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 25 | [مطر الليل](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 26 | [12 مارس](http://twitter.com/search?q=12+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 27 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 28 | [الفصل الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 29 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 30 | [#الشهري_سعد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a_%d8%b3%d8%b9%d8%af) | N/A |
+| 31 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
+| 32 | [#امطار_المدينه](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87) | N/A |
+| 33 | [#حوقلوا](http://twitter.com/search?q=%23%d8%ad%d9%88%d9%82%d9%84%d9%88%d8%a7) | N/A |
+| 34 | [#المعروف_لايعرف_سعد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d9%81_%d9%84%d8%a7%d9%8a%d8%b9%d8%b1%d9%81_%d8%b3%d8%b9%d8%af) | N/A |
+| 35 | [#عودا_حميدا](http://twitter.com/search?q=%23%d8%b9%d9%88%d8%af%d8%a7_%d8%ad%d9%85%d9%8a%d8%af%d8%a7) | N/A |
+| 36 | [#تعليق_الدراسه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%82_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87) | N/A |
+| 37 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
+| 38 | [#بوح_اخر_الليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 39 | [#تعليم_الخرج](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%ae%d8%b1%d8%ac) | N/A |
+| 40 | [#البزنس95](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b395) | N/A |
+| 41 | [#سفينه_الاستغفار](http://twitter.com/search?q=%23%d8%b3%d9%81%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ba%d9%81%d8%a7%d8%b1) | N/A |
+| 42 | [#حفل_توثيق_وليد_قشران](http://twitter.com/search?q=%23%d8%ad%d9%81%d9%84_%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d9%88%d9%84%d9%8a%d8%af_%d9%82%d8%b4%d8%b1%d8%a7%d9%86) | N/A |
+| 43 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 44 | [#مسعود_بن_شعفول](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%b9%d9%88%d8%af_%d8%a8%d9%86_%d8%b4%d8%b9%d9%81%d9%88%d9%84) | N/A |
+| 45 | [#تعليم_بيشه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a8%d9%8a%d8%b4%d9%87) | N/A |
+| 46 | [#تعليم_ينبع](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%8a%d9%86%d8%a8%d8%b9) | N/A |
+| 47 | [#يوم_العلم_السعودي_11_مارس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_11_%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 48 | [#مشاري_العتيبي](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
+| 49 | [#ام_توفيق_تنخي_شعب_طويق1](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%aa%d9%88%d9%81%d9%8a%d9%82_%d8%aa%d9%86%d8%ae%d9%8a_%d8%b4%d8%b9%d8%a8_%d8%b7%d9%88%d9%8a%d9%821) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-12 05:17:20 UTC`
+📆 Last Updated: `2023-03-12 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 2 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 3 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 4 | [Macario](http://twitter.com/search?q=Macario) | N/A |
+| 1 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 2 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 3 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 4 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 5 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 6 | [Macario](http://twitter.com/search?q=Macario) | N/A |
 | 7 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 8 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 9 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 10 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 11 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 12 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 13 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 14 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 15 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 16 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 17 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 18 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 19 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 20 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 21 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 22 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 23 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 8 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 9 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 10 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 11 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 12 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 13 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 14 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 15 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 16 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 17 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
+| 18 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 19 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 20 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 21 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 22 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 23 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
 | 24 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 25 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 26 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 28 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 29 | [Israel Reyes](http://twitter.com/search?q=Israel+Reyes) | N/A |
-| 30 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 31 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 32 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 25 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 26 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 27 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 28 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 29 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 30 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
+| 31 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 32 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
 | 33 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 34 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 35 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 36 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 37 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 38 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 39 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 40 | [Diente](http://twitter.com/search?q=Diente) | N/A |
-| 41 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 42 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 43 | [QUACKITY WON](http://twitter.com/search?q=QUACKITY+WON) | N/A |
-| 44 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 45 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 46 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
-| 47 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
-| 48 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 49 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 50 | [Estorboza](http://twitter.com/search?q=Estorboza) | N/A |
+| 34 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 36 | [Diente](http://twitter.com/search?q=Diente) | N/A |
+| 37 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 38 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 39 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 40 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 41 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 42 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 43 | [Piojo](http://twitter.com/search?q=Piojo) | N/A |
+| 44 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 45 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 46 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 47 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 48 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
+| 49 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 50 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-12 05:16:18 UTC`
+📆 Last Updated: `2023-03-12 06:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 2 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 3 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 1 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
+| 2 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 3 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
 | 4 | [おばさん構文](http://twitter.com/search?q=%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e6%a7%8b%e6%96%87) | N/A |
-| 5 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
-| 6 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 5 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 6 | [#DiantarSangBintang](http://twitter.com/search?q=%23DiantarSangBintang) | N/A |
 | 7 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 9 | [ディライラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%a9%e3%82%a4%e3%83%a9) | N/A |
-| 10 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 11 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 12 | [#จอยไม่หยุดเลย์xGF](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%ad%e0%b8%a2%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8cxGF) | N/A |
-| 13 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 14 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 15 | [#それスノ](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e) | #それスノ is a hashtag used on Twitter in Japan. It translates to "That's snow" and is used to express surprise or admiration at something beautiful or amazing. |
-| 16 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
-| 17 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 18 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
-| 19 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 20 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 21 | [Macario](http://twitter.com/search?q=Macario) | N/A |
-| 22 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 23 | [ドミニカ](http://twitter.com/search?q=%e3%83%89%e3%83%9f%e3%83%8b%e3%82%ab) | N/A |
-| 24 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 8 | [#จอยไม่หยุดเลย์xGF](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%ad%e0%b8%a2%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b9%8cxGF) | N/A |
+| 9 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 10 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 11 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 12 | [ディライラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%a9%e3%82%a4%e3%83%a9) | N/A |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 16 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 17 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 18 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 19 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 21 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 22 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 23 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 24 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
 | 25 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 26 | [Lua de Cristal](http://twitter.com/search?q=Lua+de+Cristal) | N/A |
-| 27 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 28 | [マスクなしOK](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e3%81%aa%e3%81%97OK) | N/A |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 30 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 31 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 32 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 33 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 34 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 35 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
-| 36 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 37 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 38 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 39 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 40 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 41 | [カニちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | カニちゃん is a nickname for the Japanese red king crab, which is a type of large crab found in the waters around Japan. In English, it can be translated to "Crab-chan". |
-| 42 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 43 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 44 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
-| 45 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 46 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 47 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 48 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 49 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 50 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 26 | [グレートサンドシー](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%88%e3%82%b5%e3%83%b3%e3%83%89%e3%82%b7%e3%83%bc) | N/A |
+| 27 | [マリアエレーナ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8a) | マリアエレーナ is a Japanese song composed by Yumi Matsutoya. The title translates to "Maria Elena" in English. The song is about a woman who has been betrayed by her lover and is trying to find the strength to move on. |
+| 28 | [DONNYs ASAP COMEBACK](http://twitter.com/search?q=DONNYs+ASAP+COMEBACK) | N/A |
+| 29 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 30 | [ドミニカ](http://twitter.com/search?q=%e3%83%89%e3%83%9f%e3%83%8b%e3%82%ab) | N/A |
+| 31 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
+| 32 | [Macario](http://twitter.com/search?q=Macario) | N/A |
+| 33 | [アカウントの発信者](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%ae%e7%99%ba%e4%bf%a1%e8%80%85) | N/A |
+| 34 | [マスクなしOK](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e3%81%aa%e3%81%97OK) | N/A |
+| 35 | [Cホール](http://twitter.com/search?q=C%e3%83%9b%e3%83%bc%e3%83%ab) | Cホール (C Hall) is a type of concert hall in Japan. It is a medium-sized venue, typically seating between 500 and 1,500 people. It is used for concerts, theatrical performances, and other events. In English, it can be translated as "C Hall". |
+| 36 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 37 | [フィリーズレビュー](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 38 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
+| 39 | [山南さん](http://twitter.com/search?q=%e5%b1%b1%e5%8d%97%e3%81%95%e3%82%93) | N/A |
+| 40 | [プログノーシス](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%b9) | N/A |
+| 41 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 42 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 43 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 44 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 45 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 46 | [カニちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | カニちゃん is a nickname for the Japanese red king crab, which is a type of large crab found in the waters around Japan. In English, it can be translated to "Crab-chan". |
+| 47 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 48 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 49 | [Lua de Cristal](http://twitter.com/search?q=Lua+de+Cristal) | N/A |
+| 50 | [フェーングロッテン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%bc%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%83%e3%83%86%e3%83%b3) | フェーングロッテン (Feen Glueten) is a type of German cake made with a combination of almonds, hazelnuts, and sugar. It is usually served as a dessert or snack. In English, it can be translated to "Feen Gluten Cake". |
 
 
 

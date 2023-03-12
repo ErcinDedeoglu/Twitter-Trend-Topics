@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-12 05:16:40 UTC`
+📆 Last Updated: `2023-03-12 06:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 4 | [#COVID](http://twitter.com/search?q=%23COVID) | N/A |
 | 5 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 24 | [England](http://twitter.com/search?q=England) | N/A |
 | 25 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 26 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
+| 26 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 27 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 28 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
@@ -60,9 +60,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 44 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
 | 45 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 46 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 47 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 48 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 46 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 47 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
 
 
 

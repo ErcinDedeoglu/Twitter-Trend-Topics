@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-12 05:17:06 UTC`
+📆 Last Updated: `2023-03-12 06:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 3 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 4 | [Moline](http://twitter.com/search?q=Moline) | N/A |
-| 5 | [#cf97](http://twitter.com/search?q=%23cf97) | N/A |
+| 3 | [Moline](http://twitter.com/search?q=Moline) | N/A |
+| 4 | [#cf97](http://twitter.com/search?q=%23cf97) | N/A |
+| 5 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
 | 6 | [Metamora](http://twitter.com/search?q=Metamora) | N/A |
-| 7 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 8 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 9 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 10 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 11 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 13 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 14 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 18 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 19 | [#streamerawards](http://twitter.com/search?q=%23streamerawards) | N/A |
-| 20 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 21 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 22 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 23 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 24 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 25 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 26 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 27 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 28 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
-| 29 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 30 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 31 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 32 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 33 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 34 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 35 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 36 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 7 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 8 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
+| 9 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 10 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 11 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 12 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
+| 15 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 16 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 18 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 19 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 21 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
+| 22 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
+| 23 | [#PowerSlap1](http://twitter.com/search?q=%23PowerSlap1) | N/A |
+| 24 | [Courtney Ramey](http://twitter.com/search?q=Courtney+Ramey) | N/A |
+| 25 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 26 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 27 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 28 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 29 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 31 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
+| 32 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 33 | [ACC Champs](http://twitter.com/search?q=ACC+Champs) | N/A |
+| 34 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 35 | [Orion](http://twitter.com/search?q=Orion) | N/A |
+| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
 | 37 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 38 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
-| 39 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 40 | [Tony Harrison](http://twitter.com/search?q=Tony+Harrison) | N/A |
-| 41 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 42 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
-| 43 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 44 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 45 | [Orion](http://twitter.com/search?q=Orion) | N/A |
-| 46 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 47 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 48 | [Mocchi](http://twitter.com/search?q=Mocchi) | N/A |
-| 49 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 50 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 38 | [David Roddy](http://twitter.com/search?q=David+Roddy) | N/A |
+| 39 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 40 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 41 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 42 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 43 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 44 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 45 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 46 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 47 | [Dave Pasch](http://twitter.com/search?q=Dave+Pasch) | N/A |
+| 48 | [Vance Worley](http://twitter.com/search?q=Vance+Worley) | N/A |
+| 49 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 50 | [Trayce Thompson](http://twitter.com/search?q=Trayce+Thompson) | N/A |
 
 
 

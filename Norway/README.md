@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-12 05:17:20 UTC`
+📆 Last Updated: `2023-03-12 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
+| 1 | [kollen](http://twitter.com/search?q=kollen) | N/A |
 | 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 4 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Norway
 | 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 23 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
-| 24 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 24 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 26 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 | 27 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
@@ -54,10 +54,10 @@ This is top 50 for Norway
 | 37 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
 | 38 | [fikk](http://twitter.com/search?q=fikk) | N/A |
 | 39 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
-| 40 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 41 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
-| 42 | [David](http://twitter.com/search?q=David) | N/A |
-| 43 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 40 | [selvfølgelig](http://twitter.com/search?q=selvf%c3%b8lgelig) | N/A |
+| 41 | [David](http://twitter.com/search?q=David) | N/A |
+| 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 43 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
 | 44 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 | 46 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-12 05:16:41 UTC`
+📆 Last Updated: `2023-03-12 06:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
+| 1 | [kollen](http://twitter.com/search?q=kollen) | N/A |
 | 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 4 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
@@ -30,15 +30,15 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [trist](http://twitter.com/search?q=trist) | N/A |
 | 14 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 | 15 | [tenk](http://twitter.com/search?q=tenk) | N/A |
-| 16 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 17 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 16 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 19 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 23 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
-| 24 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 24 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 26 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 | 27 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for [Norway](</Norway>)
 | 37 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
 | 38 | [fikk](http://twitter.com/search?q=fikk) | N/A |
 | 39 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
-| 40 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 41 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 42 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
-| 43 | [David](http://twitter.com/search?q=David) | N/A |
-| 44 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 45 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 46 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 47 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 40 | [selvfølgelig](http://twitter.com/search?q=selvf%c3%b8lgelig) | N/A |
+| 41 | [David](http://twitter.com/search?q=David) | N/A |
+| 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 43 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 44 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 50 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 

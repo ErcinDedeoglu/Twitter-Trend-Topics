@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-03-12 05:16:34 UTC`
+📆 Last Updated: `2023-03-12 06:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for [France](</France>)
 | 5 | [#greve11mars](http://twitter.com/search?q=%23greve11mars) | N/A |
 | 6 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 7 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 8 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 9 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 11 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 12 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 8 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
+| 9 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 10 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 11 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 12 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 14 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 15 | [Poussin](http://twitter.com/search?q=Poussin) | N/A |
+| 15 | [poussin](http://twitter.com/search?q=poussin) | N/A |
 | 16 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
 | 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [France](</France>)
 | 24 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
 | 25 | [Flament](http://twitter.com/search?q=Flament) | N/A |
 | 26 | [Guillaume Diop](http://twitter.com/search?q=Guillaume+Diop) | N/A |
-| 27 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 28 | [galthié](http://twitter.com/search?q=galthi%c3%a9) | N/A |
-| 29 | [Le Sénégal](http://twitter.com/search?q=Le+S%c3%a9n%c3%a9gal) | N/A |
-| 30 | [Carlos Soler](http://twitter.com/search?q=Carlos+Soler) | N/A |
-| 31 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 32 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 33 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
-| 34 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 35 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 36 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 37 | [danty](http://twitter.com/search?q=danty) | N/A |
-| 38 | [sochaux](http://twitter.com/search?q=sochaux) | N/A |
-| 39 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 40 | [Gambie](http://twitter.com/search?q=Gambie) | N/A |
-| 41 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 42 | [genesio](http://twitter.com/search?q=genesio) | N/A |
-| 43 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 45 | [les anglais](http://twitter.com/search?q=les+anglais) | N/A |
-| 46 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 47 | [GOOD GAME](http://twitter.com/search?q=GOOD+GAME) | N/A |
-| 48 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
-| 49 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 27 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
+| 28 | [carlos soler](http://twitter.com/search?q=carlos+soler) | N/A |
+| 29 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 30 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 31 | [Le Sénégal](http://twitter.com/search?q=Le+S%c3%a9n%c3%a9gal) | N/A |
+| 32 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 33 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 34 | [sochaux](http://twitter.com/search?q=sochaux) | N/A |
+| 35 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 36 | [Gambie](http://twitter.com/search?q=Gambie) | N/A |
+| 37 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 38 | [genesio](http://twitter.com/search?q=genesio) | N/A |
+| 39 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 40 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 41 | [les anglais](http://twitter.com/search?q=les+anglais) | N/A |
+| 42 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 43 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 44 | [GOOD GAME](http://twitter.com/search?q=GOOD+GAME) | N/A |
+| 45 | [Belkebla](http://twitter.com/search?q=Belkebla) | N/A |
+| 46 | [Pembele](http://twitter.com/search?q=Pembele) | N/A |
+| 47 | [Galthié](http://twitter.com/search?q=Galthi%c3%a9) | N/A |
+| 48 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 49 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
 
 
 

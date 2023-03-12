@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-12 05:17:23 UTC`
+📆 Last Updated: `2023-03-12 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 4 | [#COVID](http://twitter.com/search?q=%23COVID) | N/A |
 | 5 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Switzerland
 | 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 24 | [England](http://twitter.com/search?q=England) | N/A |
 | 25 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 26 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
+| 26 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 27 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 28 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 30 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 31 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 32 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 35 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 36 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 37 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 38 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 39 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 40 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 41 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 42 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 43 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 44 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
-| 45 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 46 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 47 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 48 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 49 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 50 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 31 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 34 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 35 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 36 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 37 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 38 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 39 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 40 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
+| 41 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 42 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 43 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
+| 44 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
+| 45 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 46 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 47 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 48 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 49 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 50 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 
 
 

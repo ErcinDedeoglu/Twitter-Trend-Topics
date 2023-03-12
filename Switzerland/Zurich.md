@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-12 05:16:40 UTC`
+📆 Last Updated: `2023-03-12 06:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 2 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 3 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 2 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 3 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 4 | [#COVID](http://twitter.com/search?q=%23COVID) | N/A |
 | 5 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 23 | [England](http://twitter.com/search?q=England) | N/A |
 | 24 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 25 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
+| 25 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 26 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 27 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
@@ -59,11 +59,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 43 | [T-bills](http://twitter.com/search?q=T-bills) | N/A |
 | 44 | [Entscheidungen](http://twitter.com/search?q=Entscheidungen) | N/A |
-| 45 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 46 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 47 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 48 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 49 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 45 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 46 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 47 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 48 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 49 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
 
 
 

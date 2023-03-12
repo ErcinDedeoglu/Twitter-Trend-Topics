@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-12 05:17:16 UTC`
+📆 Last Updated: `2023-03-12 06:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [ладно](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 2 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 3 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 3 | [БОЖЕ](http://twitter.com/search?q=%d0%91%d0%9e%d0%96%d0%95) | N/A |
 | 4 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 5 | [дзякую](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
 | 6 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | N/A |

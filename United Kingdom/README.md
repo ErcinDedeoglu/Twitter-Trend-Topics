@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-12 05:17:23 UTC`
+📆 Last Updated: `2023-03-12 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for United Kingdom
 | 11 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 12 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
 | 13 | [#itavwal](http://twitter.com/search?q=%23itavwal) | N/A |
-| 14 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 14 | [#saturdaynighttakeaway](http://twitter.com/search?q=%23saturdaynighttakeaway) | N/A |
 | 15 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 16 | [Wright](http://twitter.com/search?q=Wright) | N/A |
 | 17 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
 | 18 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 19 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 20 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 19 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 20 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 | 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 22 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 23 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 24 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 22 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 23 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 24 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 25 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 26 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 27 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
-| 28 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 26 | [Steph Curry](http://twitter.com/search?q=Steph+Curry) | N/A |
+| 27 | [football focus](http://twitter.com/search?q=football+focus) | N/A |
+| 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 31 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
-| 32 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
-| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [Eddie Jones](http://twitter.com/search?q=Eddie+Jones) | N/A |
+| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 32 | [Attenborough](http://twitter.com/search?q=Attenborough) | N/A |
+| 33 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 35 | [Alex Scott](http://twitter.com/search?q=Alex+Scott) | N/A |
 | 36 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
 | 37 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
 | 38 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
 | 39 | [Matt Le Tissier](http://twitter.com/search?q=Matt+Le+Tissier) | N/A |
-| 40 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 41 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 40 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 41 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
 | 42 | [England](http://twitter.com/search?q=England) | N/A |
-| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 44 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 45 | [bargain hunt](http://twitter.com/search?q=bargain+hunt) | N/A |
-| 46 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 47 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 48 | [jenas](http://twitter.com/search?q=jenas) | N/A |
-| 49 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 50 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 43 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 44 | [jenas](http://twitter.com/search?q=jenas) | N/A |
+| 45 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 46 | [Sturridge](http://twitter.com/search?q=Sturridge) | N/A |
+| 47 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 48 | [zaha](http://twitter.com/search?q=zaha) | N/A |
+| 49 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 50 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
 
 
 
