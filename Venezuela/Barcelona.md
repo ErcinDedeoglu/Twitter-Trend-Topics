@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-12 18:16:14 UTC`
+📆 Last Updated: `2023-03-12 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 2 | [#12Mar](http://twitter.com/search?q=%2312Mar) | N/A |
+| 1 | [#12Mar](http://twitter.com/search?q=%2312Mar) | N/A |
+| 2 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 3 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 4 | [Vamos VENEZUELA](http://twitter.com/search?q=Vamos+VENEZUELA) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
 | 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 7 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
+| 7 | [Vamos VENEZUELA](http://twitter.com/search?q=Vamos+VENEZUELA) | N/A |
 | 8 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
 | 9 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 10 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 13 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 14 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
-| 15 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 16 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 17 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
-| 18 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 19 | [FLOR DEL TEIDE](http://twitter.com/search?q=FLOR+DEL+TEIDE) | N/A |
-| 20 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 21 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 22 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 23 | [Aure](http://twitter.com/search?q=Aure) | N/A |
-| 24 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 25 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 26 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 29 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 30 | [Martin Pérez](http://twitter.com/search?q=Martin+P%c3%a9rez) | N/A |
-| 31 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 32 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 33 | [Lope de Aguirre](http://twitter.com/search?q=Lope+de+Aguirre) | N/A |
-| 34 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 35 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 36 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 37 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 38 | [eugenio suárez](http://twitter.com/search?q=eugenio+su%c3%a1rez) | N/A |
-| 39 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 10 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
+| 11 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 12 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 13 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 14 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 15 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
+| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 17 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
+| 18 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 19 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 20 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 21 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 22 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 23 | [Fast Sensations](http://twitter.com/search?q=Fast+Sensations) | N/A |
+| 24 | [Tito Rodríguez](http://twitter.com/search?q=Tito+Rodr%c3%adguez) | N/A |
+| 25 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 26 | [FLOR DEL TEIDE](http://twitter.com/search?q=FLOR+DEL+TEIDE) | N/A |
+| 27 | [Aure](http://twitter.com/search?q=Aure) | N/A |
+| 28 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 29 | [Cacao](http://twitter.com/search?q=Cacao) | N/A |
+| 30 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
+| 31 | [Stencil](http://twitter.com/search?q=Stencil) | N/A |
+| 32 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
+| 33 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 34 | [Pargo](http://twitter.com/search?q=Pargo) | N/A |
+| 35 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 36 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 37 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 38 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 39 | [Martin Pérez](http://twitter.com/search?q=Martin+P%c3%a9rez) | N/A |
 | 40 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 41 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 42 | [Llano](http://twitter.com/search?q=Llano) | N/A |
-| 43 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
-| 44 | [Cacao](http://twitter.com/search?q=Cacao) | N/A |
-| 45 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 46 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 47 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
+| 41 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
+| 42 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 43 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 44 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 45 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 46 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 47 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 
 
 

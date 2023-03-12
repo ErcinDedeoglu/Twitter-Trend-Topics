@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-12 18:16:44 UTC`
+📆 Last Updated: `2023-03-12 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Başım Belada Atvde](http://twitter.com/search?q=Ba%c5%9f%c4%b1m+Belada+Atvde) | N/A |
+| 1 | [Muharremİnceye Aşığız](http://twitter.com/search?q=Muharrem%c4%b0nceye+A%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
 | 2 | [GüzelKızlar CaminoyaGelin](http://twitter.com/search?q=G%c3%bczelK%c4%b1zlar+CaminoyaGelin) | N/A |
-| 3 | [#isiasadaletiçinirade](http://twitter.com/search?q=%23isiasadaleti%c3%a7inirade) | N/A |
-| 4 | [#AftzdeAsstnHkmeNkl](http://twitter.com/search?q=%23AftzdeAsstnHkmeNkl) | N/A |
-| 5 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 6 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 7 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
-| 8 | [Selin Ciğerci](http://twitter.com/search?q=Selin+Ci%c4%9ferci) | N/A |
+| 3 | [#SahipÇıkacağız](http://twitter.com/search?q=%23Sahip%c3%87%c4%b1kaca%c4%9f%c4%b1z) | N/A |
+| 4 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 5 | [Başım Belada Atvde](http://twitter.com/search?q=Ba%c5%9f%c4%b1m+Belada+Atvde) | N/A |
+| 6 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
+| 7 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 8 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
 | 9 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 10 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 11 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
-| 12 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 13 | [GeçmişOlsun CelalAbi](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fOlsun+CelalAbi) | N/A |
-| 14 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 15 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 16 | [ProfileBakanları Görüyoruzz](http://twitter.com/search?q=ProfileBakanlar%c4%b1+G%c3%b6r%c3%bcyoruzz) | N/A |
-| 17 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
-| 18 | [Şenol](http://twitter.com/search?q=%c5%9eenol) | Şenol is a Turkish given name, derived from the Arabic name Shanul. It is a unisex name, and it means "happy" or "cheerful". |
-| 19 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 20 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 21 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
-| 22 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 23 | [Rakip 10](http://twitter.com/search?q=Rakip+10) | N/A |
-| 24 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
-| 25 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
-| 26 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 27 | [Januzaj](http://twitter.com/search?q=Januzaj) | N/A |
-| 28 | [Markovic](http://twitter.com/search?q=Markovic) | N/A |
-| 29 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 30 | [Başakşehir - Beşiktaş](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir+-+Be%c5%9fikta%c5%9f) | N/A |
-| 31 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
-| 32 | [Edin Visca](http://twitter.com/search?q=Edin+Visca) | N/A |
-| 33 | [Colley](http://twitter.com/search?q=Colley) | N/A |
-| 34 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
-| 35 | [Tayfun Taşdemir](http://twitter.com/search?q=Tayfun+Ta%c5%9fdemir) | N/A |
-| 36 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
-| 37 | [Tayyip Talha](http://twitter.com/search?q=Tayyip+Talha) | N/A |
-| 38 | [Muhafazakar](http://twitter.com/search?q=Muhafazakar) | N/A |
-| 39 | [Motorları](http://twitter.com/search?q=Motorlar%c4%b1) | N/A |
-| 40 | [Son Yaz](http://twitter.com/search?q=Son+Yaz) | N/A |
-| 41 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
-| 42 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
-| 43 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
-| 44 | [Orhan Ak](http://twitter.com/search?q=Orhan+Ak) | N/A |
-| 45 | [Caner](http://twitter.com/search?q=Caner) | N/A |
-| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 47 | [İstiklal Marşımızın](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1m%c4%b1z%c4%b1n) | N/A |
+| 10 | [TaşeronSorunu HalaDuruyor](http://twitter.com/search?q=Ta%c5%9feronSorunu+HalaDuruyor) | N/A |
+| 11 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 12 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 13 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 14 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 15 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
+| 16 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 17 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 18 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 19 | [ŞoförPuanı SandıktaVerecek](http://twitter.com/search?q=%c5%9eof%c3%b6rPuan%c4%b1+Sand%c4%b1ktaVerecek) | N/A |
+| 20 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 21 | [Tebrikler Beşiktaş'ım](http://twitter.com/search?q=Tebrikler+Be%c5%9fikta%c5%9f%27%c4%b1m) | "Tebrikler Beşiktaş'ım" is a Turkish phrase that translates to "Congratulations, my Beşiktaş!" It is a phrase of encouragement and support for the Turkish football team Beşiktaş. |
+| 22 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
+| 23 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
+| 24 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 25 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 26 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 27 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 28 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 29 | [Rakip 10](http://twitter.com/search?q=Rakip+10) | N/A |
+| 30 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 31 | [Tayfun Taşdemir](http://twitter.com/search?q=Tayfun+Ta%c5%9fdemir) | N/A |
+| 32 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
+| 33 | [Son Yaz](http://twitter.com/search?q=Son+Yaz) | N/A |
+| 34 | [ProfileBakanları Görüyoruzz](http://twitter.com/search?q=ProfileBakanlar%c4%b1+G%c3%b6r%c3%bcyoruzz) | N/A |
+| 35 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 36 | [Januzaj](http://twitter.com/search?q=Januzaj) | N/A |
+| 37 | [Başakşehir - Beşiktaş](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir+-+Be%c5%9fikta%c5%9f) | N/A |
+| 38 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
+| 39 | [Avlu](http://twitter.com/search?q=Avlu) | N/A |
+| 40 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
+| 41 | [Motorları](http://twitter.com/search?q=Motorlar%c4%b1) | N/A |
+| 42 | [Tayyip Talha](http://twitter.com/search?q=Tayyip+Talha) | N/A |
+| 43 | [Ayağı](http://twitter.com/search?q=Aya%c4%9f%c4%b1) | N/A |
+| 44 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
+| 45 | [Colley](http://twitter.com/search?q=Colley) | N/A |
+| 46 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 47 | [Muhafazakar](http://twitter.com/search?q=Muhafazakar) | N/A |
 | 48 | [Hatay'ın Kırıkhan](http://twitter.com/search?q=Hatay%27%c4%b1n+K%c4%b1r%c4%b1khan) | N/A |
 
 

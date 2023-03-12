@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-12 18:16:57 UTC`
+📆 Last Updated: `2023-03-12 19:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,39 @@ This is top 50 for Indonesia
 | 6 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
 | 7 | [SURENE JAYA JAYA JAYA](http://twitter.com/search?q=SURENE+JAYA+JAYA+JAYA) | N/A |
 | 8 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 9 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
 | 12 | [Soton](http://twitter.com/search?q=Soton) | N/A |
-| 13 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 14 | [EXPÉRGO PRERELEASE](http://twitter.com/search?q=EXP%c3%89RGO+PRERELEASE) | N/A |
-| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 16 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
-| 17 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 18 | [Botak](http://twitter.com/search?q=Botak) | N/A |
-| 19 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 22 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 23 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 24 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 25 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 26 | [Gabjes](http://twitter.com/search?q=Gabjes) | N/A |
-| 27 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
-| 28 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 30 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 31 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
-| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 33 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 34 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
-| 35 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 36 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
-| 37 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 38 | [Serizawa](http://twitter.com/search?q=Serizawa) | N/A |
-| 39 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 40 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 41 | [#3YearsWithSweetNight](http://twitter.com/search?q=%233YearsWithSweetNight) | N/A |
-| 42 | [#태형이가선물한_단밤3주년](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ea%b0%80%ec%84%a0%eb%ac%bc%ed%95%9c_%eb%8b%a8%eb%b0%a43%ec%a3%bc%eb%85%84) | N/A |
-| 43 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
-| 44 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 45 | [#StayStrongFCBarcelona](http://twitter.com/search?q=%23StayStrongFCBarcelona) | N/A |
-| 46 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 47 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 48 | [#응애_생일](http://twitter.com/search?q=%23%ec%9d%91%ec%95%a0_%ec%83%9d%ec%9d%bc) | N/A |
-| 49 | [#편히앉아_수민이_생일_속으로](http://twitter.com/search?q=%23%ed%8e%b8%ed%9e%88%ec%95%89%ec%95%84_%ec%88%98%eb%af%bc%ec%9d%b4_%ec%83%9d%ec%9d%bc_%ec%86%8d%ec%9c%bc%eb%a1%9c) | N/A |
-| 50 | [#아기_곰](http://twitter.com/search?q=%23%ec%95%84%ea%b8%b0_%ea%b3%b0) | N/A |
+| 13 | [EXPÉRGO PRERELEASE](http://twitter.com/search?q=EXP%c3%89RGO+PRERELEASE) | N/A |
+| 14 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
+| 15 | [Botak](http://twitter.com/search?q=Botak) | N/A |
+| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 17 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 18 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 19 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 20 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 21 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
+| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 24 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 25 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 26 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 28 | [Siapin](http://twitter.com/search?q=Siapin) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Serizawa](http://twitter.com/search?q=Serizawa) | N/A |
+| 31 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 32 | [#StayStrongFCBarcelona](http://twitter.com/search?q=%23StayStrongFCBarcelona) | N/A |
+| 33 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 34 | [#3YearsWithSweetNight](http://twitter.com/search?q=%233YearsWithSweetNight) | N/A |
+| 35 | [#태형이가선물한_단밤3주년](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ea%b0%80%ec%84%a0%eb%ac%bc%ed%95%9c_%eb%8b%a8%eb%b0%a43%ec%a3%bc%eb%85%84) | N/A |
+| 36 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 37 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 38 | [#투모로우바이투게더](http://twitter.com/search?q=%23%ed%88%ac%eb%aa%a8%eb%a1%9c%ec%9a%b0%eb%b0%94%ec%9d%b4%ed%88%ac%ea%b2%8c%eb%8d%94) | N/A |
+| 39 | [#UMGSeriesEP1](http://twitter.com/search?q=%23UMGSeriesEP1) | N/A |
+| 40 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 41 | [#JINAN_RESOLVED](http://twitter.com/search?q=%23JINAN_RESOLVED) | N/A |
 
 
 

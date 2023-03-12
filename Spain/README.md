@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-12 18:17:01 UTC`
+📆 Last Updated: `2023-03-12 19:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Pepe Reina](http://twitter.com/search?q=Pepe+Reina) | Pepe Reina is a Spanish professional footballer who plays as a goalkeeper for Italian club AC Milan. His name translates to "King Pepe" in English. |
-| 3 | [Almería](http://twitter.com/search?q=Almer%c3%ada) | Almería is a city in the southeastern region of Spain. It is the capital of the province of Almería and is located on the Mediterranean Sea. In English, Almería means "The Watchtower". |
-| 4 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
-| 5 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 6 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 7 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 8 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
-| 9 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 10 | [#KingsLeagueJ10](http://twitter.com/search?q=%23KingsLeagueJ10) | N/A |
-| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 12 | [Pozo](http://twitter.com/search?q=Pozo) | N/A |
-| 13 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 14 | [#VillarrealRealBetis](http://twitter.com/search?q=%23VillarrealRealBetis) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Rubí](http://twitter.com/search?q=Rub%c3%ad) | N/A |
-| 17 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 18 | [Badé](http://twitter.com/search?q=Bad%c3%a9) | Badé is a Yoruba word that means “to come” or “to arrive”. It is often used as a greeting to welcome someone or to express joy at their arrival. |
-| 19 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
-| 20 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
-| 21 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 22 | [Telles](http://twitter.com/search?q=Telles) | N/A |
-| 23 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 24 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 25 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
-| 26 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 28 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 29 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 30 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 31 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 32 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 33 | [#Felices30Adara](http://twitter.com/search?q=%23Felices30Adara) | N/A |
-| 34 | [Carlos Fernández](http://twitter.com/search?q=Carlos+Fern%c3%a1ndez) | N/A |
-| 35 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
-| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 37 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 39 | [rojas](http://twitter.com/search?q=rojas) | N/A |
-| 40 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 41 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
-| 42 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 43 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 44 | [Ceuta](http://twitter.com/search?q=Ceuta) | Ceuta is a Spanish autonomous city located on the north coast of Africa. It is one of two permanently inhabited Spanish enclaves in mainland Africa, the other being Melilla. The name Ceuta is derived from the Arabic word for "fortress". In English, it can be translated as "fortress" or "stronghold". |
-| 45 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 46 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 47 | [#Negreira](http://twitter.com/search?q=%23Negreira) | N/A |
-| 48 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 49 | [#PortimaoTest](http://twitter.com/search?q=%23PortimaoTest) | N/A |
-| 50 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 1 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
+| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [#VillarrealRealBetis](http://twitter.com/search?q=%23VillarrealRealBetis) | N/A |
+| 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 5 | [Pepe Reina](http://twitter.com/search?q=Pepe+Reina) | Pepe Reina is a Spanish professional footballer who plays as a goalkeeper for Italian club AC Milan. His name translates to "King Pepe" in English. |
+| 6 | [Ludmila](http://twitter.com/search?q=Ludmila) | N/A |
+| 7 | [#KingsLeagueJ10](http://twitter.com/search?q=%23KingsLeagueJ10) | N/A |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 9 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
+| 10 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 11 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 12 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 13 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 14 | [#SevillaFCAlmería](http://twitter.com/search?q=%23SevillaFCAlmer%c3%ada) | N/A |
+| 15 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 16 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 17 | [Pozo](http://twitter.com/search?q=Pozo) | N/A |
+| 18 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
+| 19 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 20 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 21 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
+| 22 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
+| 23 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 24 | [Rubí](http://twitter.com/search?q=Rub%c3%ad) | N/A |
+| 25 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
+| 26 | [Badé](http://twitter.com/search?q=Bad%c3%a9) | Badé is a Yoruba word that means “to come” or “to arrive”. It is often used as a greeting to welcome someone or to express joy at their arrival. |
+| 27 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 28 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 29 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 30 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 31 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 34 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
+| 35 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 36 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 37 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 38 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 39 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 40 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 41 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 42 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 43 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 44 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 45 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 46 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 47 | [#Felices30Adara](http://twitter.com/search?q=%23Felices30Adara) | N/A |
+| 48 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 49 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
 
 
 

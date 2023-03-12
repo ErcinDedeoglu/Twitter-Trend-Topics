@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-12 18:16:53 UTC`
+📆 Last Updated: `2023-03-12 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 2 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 3 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
-| 4 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 5 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 6 | [#SpringForward](http://twitter.com/search?q=%23SpringForward) | N/A |
-| 7 | [The FDIC](http://twitter.com/search?q=The+FDIC) | N/A |
+| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 6 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
+| 7 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 8 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 9 | [Triangle of Sadness](http://twitter.com/search?q=Triangle+of+Sadness) | The Triangle of Sadness is a term used to describe the feeling of being stuck in a cycle of sadness, depression, and anxiety. It is a metaphor for the idea that when one is feeling down, it can be difficult to break out of that state and find joy or happiness. |
-| 10 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 11 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 12 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 13 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 14 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 15 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 16 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 19 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 20 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 21 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
-| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 23 | [Yale](http://twitter.com/search?q=Yale) | N/A |
-| 24 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 25 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 26 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 27 | [Daylight Savings](http://twitter.com/search?q=Daylight+Savings) | N/A |
-| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 29 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 30 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 31 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 9 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
+| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 11 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 12 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 13 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
+| 14 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 15 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 16 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 17 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 19 | [Triangle of Sadness](http://twitter.com/search?q=Triangle+of+Sadness) | The Triangle of Sadness is a term used to describe the feeling of being stuck in a cycle of sadness, depression, and anxiety. It is a metaphor for the idea that when one is feeling down, it can be difficult to break out of that state and find joy or happiness. |
+| 20 | [#SpringForward](http://twitter.com/search?q=%23SpringForward) | N/A |
+| 21 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 22 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 23 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 24 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
+| 25 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 26 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 27 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
+| 28 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 29 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 30 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
+| 31 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
 | 32 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 33 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 34 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 35 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 36 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 37 | [Will Wade](http://twitter.com/search?q=Will+Wade) | N/A |
-| 38 | [Matt Milano](http://twitter.com/search?q=Matt+Milano) | N/A |
-| 39 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 40 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 41 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 42 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 43 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 44 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 45 | [Ray Allen](http://twitter.com/search?q=Ray+Allen) | N/A |
-| 46 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 47 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 48 | [Min Woo](http://twitter.com/search?q=Min+Woo) | N/A |
-| 49 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 50 | [Mattison](http://twitter.com/search?q=Mattison) | N/A |
+| 33 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 34 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
+| 35 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Garrett Stubbs](http://twitter.com/search?q=Garrett+Stubbs) | N/A |
+| 38 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 39 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 40 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 41 | [Bradley Chubb](http://twitter.com/search?q=Bradley+Chubb) | Bradley Chubb is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He was drafted fifth overall in the 2018 NFL Draft by the Broncos. Chubb is a defensive end who specializes in pass rushing and has been named to the Pro Bowl twice. The meaning of his name in English is "strong defender". |
+| 42 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 43 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 44 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 45 | [NFC West](http://twitter.com/search?q=NFC+West) | N/A |
+| 46 | [Anthony Volpe](http://twitter.com/search?q=Anthony+Volpe) | N/A |
+| 47 | [Welcome to Miami](http://twitter.com/search?q=Welcome+to+Miami) | N/A |
+| 48 | [Hideki](http://twitter.com/search?q=Hideki) | N/A |
+| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 50 | [Shinymark](http://twitter.com/search?q=Shinymark) | N/A |
 
 
 

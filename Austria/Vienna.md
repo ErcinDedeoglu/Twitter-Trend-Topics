@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-12 18:16:18 UTC`
+📆 Last Updated: `2023-03-12 19:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 4 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
 | 5 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 6 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 7 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 9 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 10 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 11 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 12 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 13 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 14 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 15 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
-| 16 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 17 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
-| 18 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 19 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
-| 20 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 21 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 22 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 23 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 24 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 25 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 28 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 29 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 30 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Innovationen](http://twitter.com/search?q=Innovationen) | N/A |
-| 33 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 34 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 35 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
-| 36 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 37 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 38 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 39 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 40 | [övp und fpö](http://twitter.com/search?q=%c3%b6vp+und+fp%c3%b6) | N/A |
-| 41 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
-| 42 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 43 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 44 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 45 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 46 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 47 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 48 | [Ansatz](http://twitter.com/search?q=Ansatz) | N/A |
-| 49 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 50 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 6 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 7 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 8 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 9 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
+| 10 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 11 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 12 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 13 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 14 | [bankomaten](http://twitter.com/search?q=bankomaten) | N/A |
+| 15 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 19 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 20 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
+| 21 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 22 | [övp und fpö](http://twitter.com/search?q=%c3%b6vp+und+fp%c3%b6) | N/A |
+| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 24 | [neuwahlen](http://twitter.com/search?q=neuwahlen) | N/A |
+| 25 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 26 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 27 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 28 | [Vision](http://twitter.com/search?q=Vision) | N/A |
+| 29 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 30 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 31 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 32 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 33 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
+| 34 | [Legislaturperiode](http://twitter.com/search?q=Legislaturperiode) | N/A |
+| 35 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 36 | [Kilometer](http://twitter.com/search?q=Kilometer) | N/A |
+| 37 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
+| 38 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 39 | [futtertrog](http://twitter.com/search?q=futtertrog) | N/A |
+| 40 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 41 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 42 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 43 | [Nimm](http://twitter.com/search?q=Nimm) | N/A |
+| 44 | [innenminister](http://twitter.com/search?q=innenminister) | N/A |
+| 45 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
+| 46 | [Geschwätz](http://twitter.com/search?q=Geschw%c3%a4tz) | N/A |
+| 47 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
+| 48 | [Panik](http://twitter.com/search?q=Panik) | N/A |
+| 49 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 50 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
 
 
 
