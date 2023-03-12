@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-12 21:17:34 UTC`
+📆 Last Updated: `2023-03-12 22:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,20 +19,20 @@ This is top 50 for Switzerland
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 5 | [#airbnb](http://twitter.com/search?q=%23airbnb) | N/A |
-| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 9 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [#airbnb](http://twitter.com/search?q=%23airbnb) | N/A |
+| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
 | 10 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
 | 11 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
 | 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 13 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 14 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 15 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 13 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 14 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 15 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
 | 16 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 17 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 18 | [Bundesplatz](http://twitter.com/search?q=Bundesplatz) | N/A |
+| 18 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
 | 19 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 21 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |

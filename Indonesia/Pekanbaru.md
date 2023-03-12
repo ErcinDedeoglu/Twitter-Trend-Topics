@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-12 21:16:48 UTC`
+📆 Last Updated: `2023-03-12 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,45 +20,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 4 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
 | 5 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 6 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
 | 8 | [SURENE JAYA JAYA JAYA](http://twitter.com/search?q=SURENE+JAYA+JAYA+JAYA) | N/A |
 | 9 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 10 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 13 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 14 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 11 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 12 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 13 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 15 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
 | 16 | [Jaejun](http://twitter.com/search?q=Jaejun) | N/A |
 | 17 | [ibnu riza](http://twitter.com/search?q=ibnu+riza) | N/A |
-| 18 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
-| 19 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 20 | [Soton](http://twitter.com/search?q=Soton) | N/A |
-| 21 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 18 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 19 | [Garda Bangsa](http://twitter.com/search?q=Garda+Bangsa) | N/A |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [Soton](http://twitter.com/search?q=Soton) | N/A |
 | 22 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
-| 26 | [BACK DOOR OPENED 300M](http://twitter.com/search?q=BACK+DOOR+OPENED+300M) | N/A |
-| 27 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 28 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 29 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
-| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 33 | [Kegiatan Run 10K](http://twitter.com/search?q=Kegiatan+Run+10K) | N/A |
-| 34 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 35 | [koesni harningsih](http://twitter.com/search?q=koesni+harningsih) | N/A |
-| 36 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 37 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
-| 38 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 39 | [Ansor](http://twitter.com/search?q=Ansor) | N/A |
-| 40 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
-| 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 42 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
-| 43 | [SHGB](http://twitter.com/search?q=SHGB) | N/A |
-| 44 | [gabjes](http://twitter.com/search?q=gabjes) | N/A |
+| 24 | [BACK DOOR OPENED 300M](http://twitter.com/search?q=BACK+DOOR+OPENED+300M) | N/A |
+| 25 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 26 | [Kondom](http://twitter.com/search?q=Kondom) | N/A |
+| 27 | [iqlab](http://twitter.com/search?q=iqlab) | N/A |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 31 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 32 | [koesni harningsih](http://twitter.com/search?q=koesni+harningsih) | N/A |
+| 33 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 34 | [Dimple](http://twitter.com/search?q=Dimple) | N/A |
+| 35 | [Kegiatan Run 10K](http://twitter.com/search?q=Kegiatan+Run+10K) | N/A |
+| 36 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
+| 37 | [Bilqis](http://twitter.com/search?q=Bilqis) | N/A |
+| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 39 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 40 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 41 | [SHGB](http://twitter.com/search?q=SHGB) | N/A |
+| 42 | [gabjes](http://twitter.com/search?q=gabjes) | N/A |
+| 43 | [hapsun](http://twitter.com/search?q=hapsun) | N/A |
+| 44 | [Ansor](http://twitter.com/search?q=Ansor) | N/A |
 
 
 

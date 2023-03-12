@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-03-12 21:16:34 UTC`
+📆 Last Updated: `2023-03-12 22:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#12Mar](http://twitter.com/search?q=%2312Mar) | N/A |
 | 2 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 3 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 4 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 5 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
 | 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 7 | [Vamos VENEZUELA](http://twitter.com/search?q=Vamos+VENEZUELA) | N/A |
-| 8 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 9 | [#HombresGEnCaracas](http://twitter.com/search?q=%23HombresGEnCaracas) | N/A |
-| 10 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 11 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 12 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 13 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 14 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
-| 15 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 16 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
-| 17 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 18 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 19 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 20 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 21 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
-| 22 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
-| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 24 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
-| 25 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 26 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
-| 27 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 28 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 29 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 32 | [FAST SENSATIONS](http://twitter.com/search?q=FAST+SENSATIONS) | N/A |
-| 33 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
-| 34 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 35 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 36 | [Tito Rodríguez](http://twitter.com/search?q=Tito+Rodr%c3%adguez) | N/A |
-| 37 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 38 | [martin pérez](http://twitter.com/search?q=martin+p%c3%a9rez) | N/A |
-| 39 | [Mía Farrow](http://twitter.com/search?q=M%c3%ada+Farrow) | N/A |
-| 40 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 41 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 42 | [Peter Falk](http://twitter.com/search?q=Peter+Falk) | N/A |
-| 43 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 44 | [Aló Presidente](http://twitter.com/search?q=Al%c3%b3+Presidente) | N/A |
-| 45 | [Eugenio Suárez](http://twitter.com/search?q=Eugenio+Su%c3%a1rez) | N/A |
-| 46 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 47 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 48 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 49 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Vamos VENEZUELA](http://twitter.com/search?q=Vamos+VENEZUELA) | N/A |
+| 9 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 10 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 11 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 12 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 13 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 14 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 15 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 16 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 17 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 18 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 19 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 20 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 21 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 23 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 24 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
+| 25 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 26 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
+| 27 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 28 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 29 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
+| 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 31 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
+| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 36 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 37 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 38 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 39 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
+| 40 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
+| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 42 | [Alcántara](http://twitter.com/search?q=Alc%c3%a1ntara) | N/A |
+| 43 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 44 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 45 | [martin pérez](http://twitter.com/search?q=martin+p%c3%a9rez) | N/A |
+| 46 | [Mía Farrow](http://twitter.com/search?q=M%c3%ada+Farrow) | N/A |
+| 47 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 48 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 49 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 
 
 

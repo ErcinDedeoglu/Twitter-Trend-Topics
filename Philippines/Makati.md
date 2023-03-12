@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-12 21:16:57 UTC`
+📆 Last Updated: `2023-03-12 22:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
 | 2 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 3 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 4 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 3 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 4 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 5 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 | 6 | [#MANIAC_IN_MANILA](http://twitter.com/search?q=%23MANIAC_IN_MANILA) | N/A |
 | 7 | [donnys asap comeback](http://twitter.com/search?q=donnys+asap+comeback) | N/A |
@@ -26,17 +26,17 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 10 | [bgyo asap takeover](http://twitter.com/search?q=bgyo+asap+takeover) | N/A |
 | 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 12 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 13 | [galing ng belleiogesic](http://twitter.com/search?q=galing+ng+belleiogesic) | N/A |
-| 14 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
-| 15 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
-| 16 | [popstar royalty for lazada](http://twitter.com/search?q=popstar+royalty+for+lazada) | N/A |
-| 17 | [kodrea summerkilig on asap](http://twitter.com/search?q=kodrea+summerkilig+on+asap) | N/A |
-| 18 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
-| 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 20 | [weloveyou queen regine](http://twitter.com/search?q=weloveyou+queen+regine) | N/A |
-| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 22 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
+| 12 | [galing ng belleiogesic](http://twitter.com/search?q=galing+ng+belleiogesic) | N/A |
+| 13 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
+| 14 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 15 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
+| 16 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
+| 17 | [popstar royalty for lazada](http://twitter.com/search?q=popstar+royalty+for+lazada) | N/A |
+| 18 | [kodrea summerkilig on asap](http://twitter.com/search?q=kodrea+summerkilig+on+asap) | N/A |
+| 19 | [weloveyou queen regine](http://twitter.com/search?q=weloveyou+queen+regine) | N/A |
+| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 21 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
+| 22 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 23 | [the sarah geronimo](http://twitter.com/search?q=the+sarah+geronimo) | N/A |
 | 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 25 | [hori7on 1n gapan](http://twitter.com/search?q=hori7on+1n+gapan) | N/A |
@@ -44,10 +44,10 @@ This is top 50 for [Philippines](</Philippines>)
 | 27 | [SUBIC NA SAYONG PAGIBIG BINI](http://twitter.com/search?q=SUBIC+NA+SAYONG+PAGIBIG+BINI) | N/A |
 | 28 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 29 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [aldenwelcome backtoeb](http://twitter.com/search?q=aldenwelcome+backtoeb) | N/A |
-| 32 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 33 | [ama2ing y3ar of vinci](http://twitter.com/search?q=ama2ing+y3ar+of+vinci) | N/A |
+| 30 | [aldenwelcome backtoeb](http://twitter.com/search?q=aldenwelcome+backtoeb) | N/A |
+| 31 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 32 | [ama2ing y3ar of vinci](http://twitter.com/search?q=ama2ing+y3ar+of+vinci) | N/A |
+| 33 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 34 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
 | 35 | [blonde soobin](http://twitter.com/search?q=blonde+soobin) | N/A |
 | 36 | [team japeth](http://twitter.com/search?q=team+japeth) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 38 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
 | 39 | [piesaya sunday](http://twitter.com/search?q=piesaya+sunday) | N/A |
 | 40 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 41 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 42 | [drowning coming soon](http://twitter.com/search?q=drowning+coming+soon) | N/A |
-| 43 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 44 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
-| 45 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
-| 46 | [marsobrang galing mo jona](http://twitter.com/search?q=marsobrang+galing+mo+jona) | N/A |
+| 41 | [drowning coming soon](http://twitter.com/search?q=drowning+coming+soon) | N/A |
+| 42 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 43 | [marsobrang galing mo jona](http://twitter.com/search?q=marsobrang+galing+mo+jona) | N/A |
+| 44 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 45 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 46 | [kaia 5678 letsgo](http://twitter.com/search?q=kaia+5678+letsgo) | N/A |
 | 47 | [ALBUM TRACK LIST](http://twitter.com/search?q=ALBUM+TRACK+LIST) | N/A |
-| 48 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 49 | [yeng constantino](http://twitter.com/search?q=yeng+constantino) | N/A |
-| 50 | [kaia 5678 letsgo](http://twitter.com/search?q=kaia+5678+letsgo) | N/A |
+| 48 | [Yeng Constantino](http://twitter.com/search?q=Yeng+Constantino) | N/A |
+| 49 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
+| 50 | [ROVER MV TEASER](http://twitter.com/search?q=ROVER+MV+TEASER) | N/A |
 
 
 

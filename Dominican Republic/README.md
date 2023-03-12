@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-12 21:17:27 UTC`
+📆 Last Updated: `2023-03-12 22:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Dominican Republic
 | 6 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 7 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
 | 8 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 9 | [#louiscometodomrep](http://twitter.com/search?q=%23louiscometodomrep) | N/A |
-| 10 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 11 | [Candelario](http://twitter.com/search?q=Candelario) | N/A |
+| 9 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 10 | [#louiscometodomrep](http://twitter.com/search?q=%23louiscometodomrep) | N/A |
+| 11 | [candelario](http://twitter.com/search?q=candelario) | N/A |
 | 12 | [Ramiro Matos](http://twitter.com/search?q=Ramiro+Matos) | N/A |
 | 13 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 14 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 16 | [Gary Sánchez](http://twitter.com/search?q=Gary+S%c3%a1nchez) | N/A |
-| 17 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
-| 18 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
-| 19 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 21 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 22 | [Willy Adames](http://twitter.com/search?q=Willy+Adames) | N/A |
-| 23 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
-| 24 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
-| 25 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 26 | [Aliméntate](http://twitter.com/search?q=Alim%c3%a9ntate) | N/A |
-| 27 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 28 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 29 | [Francisco Peña](http://twitter.com/search?q=Francisco+Pe%c3%b1a) | N/A |
-| 30 | [NERIS](http://twitter.com/search?q=NERIS) | N/A |
-| 31 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 32 | [Tony Peña](http://twitter.com/search?q=Tony+Pe%c3%b1a) | N/A |
-| 33 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 34 | [Bajo Yuna](http://twitter.com/search?q=Bajo+Yuna) | N/A |
-| 35 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 36 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 37 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 38 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 39 | [Martín Pérez](http://twitter.com/search?q=Mart%c3%adn+P%c3%a9rez) | N/A |
-| 40 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 41 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 42 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 43 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 44 | [teleantillas](http://twitter.com/search?q=teleantillas) | N/A |
-| 45 | [San Juan de la Maguana](http://twitter.com/search?q=San+Juan+de+la+Maguana) | N/A |
-| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 47 | [Perdimos](http://twitter.com/search?q=Perdimos) | N/A |
-| 48 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 49 | [Presi](http://twitter.com/search?q=Presi) | N/A |
-| 50 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 14 | [gary sánchez](http://twitter.com/search?q=gary+s%c3%a1nchez) | N/A |
+| 15 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
+| 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 17 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
+| 18 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 19 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 20 | [Willy Adames](http://twitter.com/search?q=Willy+Adames) | N/A |
+| 21 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 22 | [Jeremy Peña](http://twitter.com/search?q=Jeremy+Pe%c3%b1a) | N/A |
+| 23 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 24 | [Aliméntate](http://twitter.com/search?q=Alim%c3%a9ntate) | N/A |
+| 25 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 26 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 27 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 28 | [NERIS](http://twitter.com/search?q=NERIS) | N/A |
+| 29 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 30 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 31 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 32 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 33 | [Bajo Yuna](http://twitter.com/search?q=Bajo+Yuna) | N/A |
+| 34 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 35 | [San Juan de la Maguana](http://twitter.com/search?q=San+Juan+de+la+Maguana) | N/A |
+| 36 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 37 | [martín pérez](http://twitter.com/search?q=mart%c3%adn+p%c3%a9rez) | N/A |
+| 38 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 39 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 40 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 41 | [teleantillas](http://twitter.com/search?q=teleantillas) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [Perdimos](http://twitter.com/search?q=Perdimos) | N/A |
+| 44 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 45 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
+| 46 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 47 | [Presi](http://twitter.com/search?q=Presi) | N/A |
+| 48 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 49 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 50 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
 
 
 

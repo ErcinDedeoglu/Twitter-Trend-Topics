@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-12 21:16:50 UTC`
+📆 Last Updated: `2023-03-12 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 2 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
-| 3 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#TszyuHarrison](http://twitter.com/search?q=%23TszyuHarrison) | N/A |
 | 4 | [#nrlstormbulldogs](http://twitter.com/search?q=%23nrlstormbulldogs) | N/A |
 | 5 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 6 | [#nrldragonstitans](http://twitter.com/search?q=%23nrldragonstitans) | N/A |
+| 6 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 7 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
 | 8 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
 | 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 11 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 10 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
 | 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [leichhardt](http://twitter.com/search?q=leichhardt) | N/A |
-| 15 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 14 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 16 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 17 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 18 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 22 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 23 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 24 | [Talau](http://twitter.com/search?q=Talau) | N/A |
-| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 26 | [tyson gamble](http://twitter.com/search?q=tyson+gamble) | N/A |
-| 27 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 28 | [Troy](http://twitter.com/search?q=Troy) | N/A |
-| 29 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 30 | [autumn ballet](http://twitter.com/search?q=autumn+ballet) | N/A |
+| 17 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 19 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 21 | [Talau](http://twitter.com/search?q=Talau) | N/A |
+| 22 | [tyson gamble](http://twitter.com/search?q=tyson+gamble) | N/A |
+| 23 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
+| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 25 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 26 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 27 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 28 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
+| 29 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 31 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
 | 32 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
-| 33 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 33 | [ClubsNSW](http://twitter.com/search?q=ClubsNSW) | N/A |
 | 34 | [Liddle](http://twitter.com/search?q=Liddle) | N/A |
 | 35 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
 | 36 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
 | 37 | [alex twal](http://twitter.com/search?q=alex+twal) | N/A |
 | 38 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
 | 39 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 40 | [barilaro](http://twitter.com/search?q=barilaro) | N/A |
+| 40 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
 | 41 | [Game 5](http://twitter.com/search?q=Game+5) | N/A |
 | 42 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
 | 43 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 44 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 45 | [port kembla](http://twitter.com/search?q=port+kembla) | N/A |
-| 46 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
+| 46 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 47 | [Gerry and Matt](http://twitter.com/search?q=Gerry+and+Matt) | N/A |
-| 48 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 49 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 48 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 49 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 
 
 

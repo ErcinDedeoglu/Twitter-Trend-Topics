@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-12 21:16:46 UTC`
+📆 Last Updated: `2023-03-12 22:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,12 +27,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Kriegsrausch](http://twitter.com/search?q=Kriegsrausch) | N/A |
 | 11 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
 | 12 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 13 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 14 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 15 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 13 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 14 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 15 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
 | 16 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 17 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 18 | [Bundesplatz](http://twitter.com/search?q=Bundesplatz) | N/A |
+| 18 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
 | 19 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 | 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 21 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |

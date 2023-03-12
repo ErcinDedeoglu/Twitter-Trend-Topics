@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-12 21:16:32 UTC`
+📆 Last Updated: `2023-03-12 22:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [#NoTapenLoDeNicolas](http://twitter.com/search?q=%23NoTapenLoDeNicolas) | N/A |
 | 2 | [#NoTapenLoDeNicolas](http://twitter.com/search?q=%23NoTapenLoDeNicolas) | N/A |
 | 3 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 4 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 5 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 6 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 7 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 8 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 10 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 11 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 12 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 13 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
-| 14 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 15 | [Pirry](http://twitter.com/search?q=Pirry) | N/A |
-| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 17 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 18 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 19 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 20 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 21 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 22 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 23 | [Montelíbano](http://twitter.com/search?q=Montel%c3%adbano) | N/A |
-| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [Segurito](http://twitter.com/search?q=Segurito) | N/A |
-| 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 27 | [Ni Judas](http://twitter.com/search?q=Ni+Judas) | N/A |
-| 28 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
-| 29 | [Cielo Rusinque](http://twitter.com/search?q=Cielo+Rusinque) | N/A |
-| 30 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 33 | [Gnecco](http://twitter.com/search?q=Gnecco) | N/A |
-| 34 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 35 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 36 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 37 | [Sebastián Gómez](http://twitter.com/search?q=Sebasti%c3%a1n+G%c3%b3mez) | N/A |
-| 38 | [Logramos](http://twitter.com/search?q=Logramos) | N/A |
-| 39 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 40 | [vamos colombia](http://twitter.com/search?q=vamos+colombia) | N/A |
-| 41 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 42 | [Arévalo](http://twitter.com/search?q=Ar%c3%a9valo) | N/A |
-| 43 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 44 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 45 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 46 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
-| 47 | [Angélica Monsalve](http://twitter.com/search?q=Ang%c3%a9lica+Monsalve) | N/A |
-| 48 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 49 | [Ricaurte](http://twitter.com/search?q=Ricaurte) | N/A |
-| 50 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 6 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 9 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 10 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 11 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 12 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 13 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 14 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 15 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 16 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 17 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 18 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
+| 19 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 22 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 23 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 24 | [Pirry](http://twitter.com/search?q=Pirry) | N/A |
+| 25 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 26 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 29 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 30 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 31 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 32 | [Montelíbano](http://twitter.com/search?q=Montel%c3%adbano) | N/A |
+| 33 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 34 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
+| 35 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 37 | [Segurito](http://twitter.com/search?q=Segurito) | N/A |
+| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 39 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 40 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
+| 41 | [Nitro](http://twitter.com/search?q=Nitro) | N/A |
+| 42 | [Cielo Rusinque](http://twitter.com/search?q=Cielo+Rusinque) | N/A |
+| 43 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 44 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 45 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 46 | [Gnecco](http://twitter.com/search?q=Gnecco) | N/A |
+| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 48 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 49 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 50 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
 
 
 

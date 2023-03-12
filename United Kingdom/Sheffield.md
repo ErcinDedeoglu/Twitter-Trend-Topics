@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-12 21:16:27 UTC`
+📆 Last Updated: `2023-03-12 22:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 2 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 3 | [#DavidAttenborough](http://twitter.com/search?q=%23DavidAttenborough) | N/A |
-| 4 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 5 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 6 | [#WHUFC](http://twitter.com/search?q=%23WHUFC) | N/A |
-| 7 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
-| 8 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
-| 9 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 10 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 11 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 12 | [Nile](http://twitter.com/search?q=Nile) | N/A |
-| 13 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 16 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 17 | [Bolero](http://twitter.com/search?q=Bolero) | N/A |
-| 18 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 19 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 20 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 21 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
-| 22 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 23 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 24 | [Irish Wolfhound](http://twitter.com/search?q=Irish+Wolfhound) | N/A |
-| 25 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 26 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 27 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 28 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 29 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 30 | [The Vivienne](http://twitter.com/search?q=The+Vivienne) | N/A |
-| 31 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 32 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
-| 33 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 34 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
-| 35 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 36 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 37 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 38 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 39 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
-| 40 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 41 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 42 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 43 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 44 | [Jacob Murphy](http://twitter.com/search?q=Jacob+Murphy) | Jacob Murphy is a name of English origin. It is derived from the Hebrew name Yaakov, meaning "supplanter" or "one who takes the place of another". |
-| 45 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 46 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 47 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 48 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 1 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 2 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 3 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 4 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
+| 5 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 6 | [#DavidAttenborough](http://twitter.com/search?q=%23DavidAttenborough) | N/A |
+| 7 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 8 | [Peter Hitchens](http://twitter.com/search?q=Peter+Hitchens) | N/A |
+| 9 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 10 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 11 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 12 | [Hunt](http://twitter.com/search?q=Hunt) | N/A |
+| 13 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 14 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 15 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 16 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
+| 17 | [Nile](http://twitter.com/search?q=Nile) | N/A |
+| 18 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 19 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 20 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 21 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 23 | [Bolero](http://twitter.com/search?q=Bolero) | N/A |
+| 24 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 25 | [Sanam and Kai](http://twitter.com/search?q=Sanam+and+Kai) | N/A |
+| 26 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 27 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 28 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
+| 29 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 30 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 31 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 32 | [Irish Wolfhound](http://twitter.com/search?q=Irish+Wolfhound) | N/A |
+| 33 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 34 | [Bill Tidy](http://twitter.com/search?q=Bill+Tidy) | N/A |
+| 35 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 36 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 37 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 38 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 39 | [The Vivienne](http://twitter.com/search?q=The+Vivienne) | N/A |
+| 40 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 41 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 42 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 43 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 44 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 45 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 46 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 47 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 48 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-12 21:17:35 UTC`
+📆 Last Updated: `2023-03-12 22:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#FinsUp](http://twitter.com/search?q=%23FinsUp) | #FinsUp is a hashtag used by fans of the Miami Dolphins, an American football team. It is used to show support for the team and is a rallying cry for fans to cheer on the Dolphins. The phrase "Fins Up" is a play on words, as "fins" are a part of the Dolphins' logo and mascot. |
-| 5 | [Payne](http://twitter.com/search?q=Payne) | N/A |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 8 | [#UnitedRentals500](http://twitter.com/search?q=%23UnitedRentals500) | N/A |
-| 9 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
-| 10 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 11 | [#Break4Busch](http://twitter.com/search?q=%23Break4Busch) | N/A |
-| 12 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 13 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 15 | [Chris Grier](http://twitter.com/search?q=Chris+Grier) | N/A |
-| 16 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 17 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 18 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 19 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
-| 20 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
-| 21 | [Aaron Donald](http://twitter.com/search?q=Aaron+Donald) | Aaron Donald is an American professional football player who plays for the Los Angeles Rams of the National Football League (NFL). He is a six-time Pro Bowl selection and four-time First-Team All-Pro. He is widely regarded as one of the best defensive players in the NFL. |
-| 22 | [Selection Sunday](http://twitter.com/search?q=Selection+Sunday) | N/A |
-| 23 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 24 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 25 | [Dexter Lawrence](http://twitter.com/search?q=Dexter+Lawrence) | Dexter Lawrence is an American football defensive tackle for the New York Giants of the National Football League (NFL). He played college football at Clemson University. The name Dexter means "right-handed" or "skilled" in English. |
-| 26 | [Xavien Howard](http://twitter.com/search?q=Xavien+Howard) | Xavien Howard is an American football cornerback for the Miami Dolphins of the National Football League (NFL). He was drafted by the Dolphins in the second round of the 2016 NFL Draft. His name is derived from his father's middle name, Xavier. The name Xavien means "bright" or "shining" in Latin. |
-| 27 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 28 | [Hatton](http://twitter.com/search?q=Hatton) | N/A |
-| 29 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 30 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 31 | [Shep](http://twitter.com/search?q=Shep) | N/A |
-| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 33 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 34 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 35 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 36 | [Sonix](http://twitter.com/search?q=Sonix) | Sonix is a software platform that enables users to create and edit audio files. It is used for creating music, podcasts, sound effects, and other audio content. The name Sonix is derived from the Latin word "sonus," which means sound. |
-| 37 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 38 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 39 | [Quinnen Williams](http://twitter.com/search?q=Quinnen+Williams) | Quinnen Williams is an American football defensive tackle for the New York Jets of the National Football League (NFL). He was drafted by the Jets third overall in the 2019 NFL Draft. His name is derived from his first name, Quinn, and his middle name, Nelson. The meaning of his name in English is "counselor of victory". |
-| 40 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 41 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 42 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 43 | [Les Snead](http://twitter.com/search?q=Les+Snead) | N/A |
-| 44 | [Almirola](http://twitter.com/search?q=Almirola) | N/A |
-| 45 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
-| 46 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 47 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 48 | [Jeffery Simmons](http://twitter.com/search?q=Jeffery+Simmons) | N/A |
-| 49 | [Riddles](http://twitter.com/search?q=Riddles) | N/A |
-| 50 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 3 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 4 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 6 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
+| 7 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
+| 8 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 9 | [South Region](http://twitter.com/search?q=South+Region) | N/A |
+| 10 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 11 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 12 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 13 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 14 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 15 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 16 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 17 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 18 | [Payne](http://twitter.com/search?q=Payne) | N/A |
+| 19 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 20 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 21 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 22 | [Selection Show](http://twitter.com/search?q=Selection+Show) | N/A |
+| 23 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 24 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 25 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 26 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 27 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 28 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 29 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 30 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 31 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 32 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 33 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 34 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 35 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 36 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 37 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
+| 38 | [Sasser](http://twitter.com/search?q=Sasser) | N/A |
+| 39 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 40 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 41 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 42 | [Penny Hardaway](http://twitter.com/search?q=Penny+Hardaway) | N/A |
+| 43 | [FaZe](http://twitter.com/search?q=FaZe) | N/A |
+| 44 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 45 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 46 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 47 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 48 | [Hunter Long](http://twitter.com/search?q=Hunter+Long) | N/A |
+| 49 | [Utah State](http://twitter.com/search?q=Utah+State) | N/A |
+| 50 | [Matt Painter](http://twitter.com/search?q=Matt+Painter) | N/A |
 
 
 
