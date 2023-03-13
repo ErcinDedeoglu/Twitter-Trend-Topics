@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-13 13:20:07 UTC`
+📆 Last Updated: `2023-03-13 14:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 4 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 5 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 6 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 7 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 8 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 13 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 14 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
-| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 16 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 18 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 19 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 20 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 21 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 22 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 23 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 24 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
-| 25 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 26 | [wege](http://twitter.com/search?q=wege) | N/A |
-| 27 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 28 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 29 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 30 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 31 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 32 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 33 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 34 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 35 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 36 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 37 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 38 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 39 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 40 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 41 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 43 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 44 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 45 | [England](http://twitter.com/search?q=England) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 48 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 49 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 3 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 5 | [#airbnb](http://twitter.com/search?q=%23airbnb) | N/A |
+| 6 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 9 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 10 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 12 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 13 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 14 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 15 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 19 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 20 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
+| 23 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 24 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 25 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 26 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
+| 27 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 28 | [Terror](http://twitter.com/search?q=Terror) | N/A |
+| 29 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 31 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
+| 32 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 33 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 34 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 35 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 37 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 38 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 39 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 41 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 42 | [Gratulation](http://twitter.com/search?q=Gratulation) | N/A |
+| 43 | [Füsse](http://twitter.com/search?q=F%c3%bcsse) | N/A |
+| 44 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 45 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 46 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 47 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 48 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 49 | [handeln](http://twitter.com/search?q=handeln) | N/A |
 
 
 

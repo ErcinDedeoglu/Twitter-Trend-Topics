@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-13 13:20:00 UTC`
+📆 Last Updated: `2023-03-13 14:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
-| 4 | [#przepraszajcieispadajcie](http://twitter.com/search?q=%23przepraszajcieispadajcie) | N/A |
-| 5 | [jaśle](http://twitter.com/search?q=ja%c5%9ble) | N/A |
-| 6 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 7 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
-| 8 | [stali](http://twitter.com/search?q=stali) | N/A |
-| 9 | [stefan hula](http://twitter.com/search?q=stefan+hula) | N/A |
-| 10 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 11 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 12 | [pruszkowie](http://twitter.com/search?q=pruszkowie) | N/A |
-| 13 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 14 | [lech kaczyński](http://twitter.com/search?q=lech+kaczy%c5%84ski) | N/A |
-| 15 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 16 | [łapy](http://twitter.com/search?q=%c5%82apy) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 3 | [#PrzepraszajcieiSpadajcie](http://twitter.com/search?q=%23PrzepraszajcieiSpadajcie) | N/A |
+| 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 5 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 6 | [Franciszek](http://twitter.com/search?q=Franciszek) | N/A |
+| 7 | [Kibole](http://twitter.com/search?q=Kibole) | N/A |
+| 8 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 9 | [Pruszkowa](http://twitter.com/search?q=Pruszkowa) | N/A |
+| 10 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
+| 11 | [Pawła Adamowicza](http://twitter.com/search?q=Paw%c5%82a+Adamowicza) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
+| 14 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 15 | [Łapy](http://twitter.com/search?q=%c5%81apy) | N/A |
+| 16 | [Stefan Hula](http://twitter.com/search?q=Stefan+Hula) | N/A |
+| 17 | [muci](http://twitter.com/search?q=muci) | N/A |
 | 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 20 | [papież franciszek](http://twitter.com/search?q=papie%c5%bc+franciszek) | N/A |
-| 21 | [kibole](http://twitter.com/search?q=kibole) | N/A |
-| 22 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 23 | [Romy](http://twitter.com/search?q=Romy) | N/A |
-| 24 | [skra](http://twitter.com/search?q=skra) | N/A |
-| 25 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 26 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 27 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 28 | [panie generale](http://twitter.com/search?q=panie+generale) | N/A |
-| 29 | [sandomierzu](http://twitter.com/search?q=sandomierzu) | N/A |
+| 19 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 20 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 21 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 22 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 23 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
+| 24 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 25 | [Stali](http://twitter.com/search?q=Stali) | N/A |
+| 26 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 27 | [jaśle](http://twitter.com/search?q=ja%c5%9ble) | N/A |
+| 28 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 29 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
 | 30 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 31 | [strzałek](http://twitter.com/search?q=strza%c5%82ek) | N/A |
-| 32 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 33 | [piast](http://twitter.com/search?q=piast) | N/A |
-| 34 | [kazik](http://twitter.com/search?q=kazik) | N/A |
-| 35 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 36 | [duchy inisherin](http://twitter.com/search?q=duchy+inisherin) | N/A |
-| 37 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 38 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 39 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 40 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
-| 41 | [ruchu](http://twitter.com/search?q=ruchu) | N/A |
-| 42 | [wiśle](http://twitter.com/search?q=wi%c5%9ble) | N/A |
-| 43 | [ciekawa](http://twitter.com/search?q=ciekawa) | N/A |
-| 44 | [basha](http://twitter.com/search?q=basha) | N/A |
-| 45 | [tobiasz](http://twitter.com/search?q=tobiasz) | N/A |
-| 46 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | N/A |
-| 47 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 48 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 49 | [karolinę](http://twitter.com/search?q=karolin%c4%99) | N/A |
+| 31 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 34 | [Basha](http://twitter.com/search?q=Basha) | N/A |
+| 35 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 36 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 37 | [Na Zachodzie](http://twitter.com/search?q=Na+Zachodzie) | N/A |
+| 38 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 39 | [karolinę](http://twitter.com/search?q=karolin%c4%99) | N/A |
+| 40 | [Bydgoszcz](http://twitter.com/search?q=Bydgoszcz) | N/A |
+| 41 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 43 | [Kibice](http://twitter.com/search?q=Kibice) | N/A |
+| 44 | [piast](http://twitter.com/search?q=piast) | N/A |
+| 45 | [tłumy](http://twitter.com/search?q=t%c5%82umy) | N/A |
+| 46 | [nicola zalewski](http://twitter.com/search?q=nicola+zalewski) | N/A |
+| 47 | [amaral](http://twitter.com/search?q=amaral) | N/A |
+| 48 | [Duchy Inisherin](http://twitter.com/search?q=Duchy+Inisherin) | N/A |
 
 
 

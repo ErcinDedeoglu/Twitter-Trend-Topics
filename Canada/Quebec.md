@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-13 13:19:48 UTC`
+📆 Last Updated: `2023-03-13 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 3 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 4 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 7 | [stephanie hsu](http://twitter.com/search?q=stephanie+hsu) | N/A |
-| 8 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 9 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 12 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 16 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 18 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 19 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 20 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 21 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 22 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 24 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
-| 25 | [bunting](http://twitter.com/search?q=bunting) | N/A |
-| 26 | [gushue](http://twitter.com/search?q=gushue) | N/A |
-| 27 | [austin butler](http://twitter.com/search?q=austin+butler) | N/A |
-| 28 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 29 | [SANCHO](http://twitter.com/search?q=SANCHO) | N/A |
-| 30 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 31 | [dunstone](http://twitter.com/search?q=dunstone) | N/A |
-| 32 | [Sarah Polley](http://twitter.com/search?q=Sarah+Polley) | N/A |
-| 33 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 34 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 35 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 36 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 37 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 38 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 39 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 40 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 41 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 42 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 43 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 44 | [dolphins](http://twitter.com/search?q=dolphins) | N/A |
-| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 46 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 47 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 48 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 49 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 2 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 3 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [Sarah Polley](http://twitter.com/search?q=Sarah+Polley) | N/A |
+| 9 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 10 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 11 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 12 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 13 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 14 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 15 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 16 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
+| 20 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 21 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 22 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 23 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 24 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 27 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 28 | [Dunstone](http://twitter.com/search?q=Dunstone) | N/A |
+| 29 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 30 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 31 | [Brier](http://twitter.com/search?q=Brier) | N/A |
+| 32 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 33 | [Gushue](http://twitter.com/search?q=Gushue) | N/A |
+| 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 35 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 36 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 37 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 38 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 39 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 40 | [desharnais](http://twitter.com/search?q=desharnais) | N/A |
+| 41 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 42 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 43 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 44 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 45 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
+| 46 | [Colin Farrell](http://twitter.com/search?q=Colin+Farrell) | Colin Farrell is an Irish actor. He is best known for his roles in films such as Phone Booth, In Bruges, and The Lobster. He has also appeared in several television series, including True Detective and The Killing of a Sacred Deer. |
+| 47 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 48 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 49 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
 
 
 

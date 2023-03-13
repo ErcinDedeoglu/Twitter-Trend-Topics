@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 13:20:39 UTC`
+📆 Last Updated: `2023-03-13 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
-| 2 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
-| 3 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
-| 4 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
-| 5 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 8 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 2 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
+| 3 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [#ACHFCK](http://twitter.com/search?q=%23ACHFCK) | N/A |
+| 6 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 7 | [#vfffcn](http://twitter.com/search?q=%23vfffcn) | N/A |
+| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 13 | [malte](http://twitter.com/search?q=malte) | N/A |
-| 14 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
-| 15 | [pogacar](http://twitter.com/search?q=pogacar) | N/A |
-| 16 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
-| 17 | [problemet](http://twitter.com/search?q=problemet) | N/A |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 20 | [vingegaard](http://twitter.com/search?q=vingegaard) | N/A |
-| 21 | [dahl](http://twitter.com/search?q=dahl) | N/A |
-| 22 | [capellas](http://twitter.com/search?q=capellas) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [diks](http://twitter.com/search?q=diks) | N/A |
-| 25 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 26 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
-| 27 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
-| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 29 | [viborg](http://twitter.com/search?q=viborg) | N/A |
-| 30 | [horsens](http://twitter.com/search?q=horsens) | N/A |
-| 31 | [Folk](http://twitter.com/search?q=Folk) | N/A |
-| 32 | [troede](http://twitter.com/search?q=troede) | N/A |
-| 33 | [elsker](http://twitter.com/search?q=elsker) | N/A |
-| 34 | [fint](http://twitter.com/search?q=fint) | N/A |
-| 35 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 36 | [mette](http://twitter.com/search?q=mette) | N/A |
-| 37 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 39 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 40 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 41 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 44 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 45 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [danske](http://twitter.com/search?q=danske) | N/A |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 50 | [i danmark](http://twitter.com/search?q=i+danmark) | N/A |
+| 10 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 11 | [Capellas](http://twitter.com/search?q=Capellas) | N/A |
+| 12 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 13 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 14 | [diks](http://twitter.com/search?q=diks) | N/A |
+| 15 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 16 | [Herning](http://twitter.com/search?q=Herning) | N/A |
+| 17 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 18 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 20 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 21 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 23 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
+| 24 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 25 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 27 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
+| 28 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 29 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 30 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 31 | [Aske](http://twitter.com/search?q=Aske) | N/A |
+| 32 | [corner](http://twitter.com/search?q=corner) | N/A |
+| 33 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 34 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 36 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 37 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
+| 38 | [Slap](http://twitter.com/search?q=Slap) | N/A |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 41 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
+| 42 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 43 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
+| 44 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 45 | [Tager](http://twitter.com/search?q=Tager) | N/A |
+| 46 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 47 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 48 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
+| 49 | [SKAT](http://twitter.com/search?q=SKAT) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

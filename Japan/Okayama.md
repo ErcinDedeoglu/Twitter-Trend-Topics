@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-13 13:20:45 UTC`
+📆 Last Updated: `2023-03-13 14:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#中島健人のインスタライブ](http://twitter.com/search?q=%23%e4%b8%ad%e5%b3%b6%e5%81%a5%e4%ba%ba%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 2 | [#しゃべくり007](http://twitter.com/search?q=%23%e3%81%97%e3%82%83%e3%81%b9%e3%81%8f%e3%82%8a007) | #しゃべくり007 is a Japanese variety show that has been airing since 2002. It is a talk show featuring celebrity guests and topics of discussion related to current events, entertainment, and lifestyle. The English translation of the title would be "Talk Show 007". |
-| 3 | [#V最協S5](http://twitter.com/search?q=%23V%e6%9c%80%e5%8d%94S5) | N/A |
-| 4 | [#クレイジージャーニー](http://twitter.com/search?q=%23%e3%82%af%e3%83%ac%e3%82%a4%e3%82%b8%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8b%e3%83%bc) | N/A |
-| 5 | [グレーテルのかまど](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%86%e3%83%ab%e3%81%ae%e3%81%8b%e3%81%be%e3%81%a9) | N/A |
-| 6 | [#ロヂベー](http://twitter.com/search?q=%23%e3%83%ad%e3%83%82%e3%83%99%e3%83%bc) | N/A |
-| 7 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
-| 8 | [独身中年男性](http://twitter.com/search?q=%e7%8b%ac%e8%ba%ab%e4%b8%ad%e5%b9%b4%e7%94%b7%e6%80%a7) | N/A |
-| 9 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
-| 10 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
-| 11 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
-| 12 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
-| 13 | [扇千景さん](http://twitter.com/search?q=%e6%89%87%e5%8d%83%e6%99%af%e3%81%95%e3%82%93) | N/A |
-| 14 | [kcon](http://twitter.com/search?q=kcon) | N/A |
-| 15 | [ナートゥ](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%83%88%e3%82%a5) | ナートゥ (Nātū) is a Japanese word that means "to be natural". It is often used to describe someone who is relaxed and comfortable in their own skin. |
-| 16 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 17 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
-| 18 | [コアラのマーチ](http://twitter.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81) | N/A |
-| 19 | [ガレソさん](http://twitter.com/search?q=%e3%82%ac%e3%83%ac%e3%82%bd%e3%81%95%e3%82%93) | N/A |
-| 20 | [大江さん](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e3%81%95%e3%82%93) | N/A |
-| 21 | [ガンプラジムギャラリー](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%97%e3%83%a9%e3%82%b8%e3%83%a0%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
-| 22 | [両手いっぱい](http://twitter.com/search?q=%e4%b8%a1%e6%89%8b%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84) | N/A |
-| 23 | [トロッコ問題](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%83%e3%82%b3%e5%95%8f%e9%a1%8c) | N/A |
-| 24 | [ホビーサイト](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%83%bc%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 25 | [袴田事件](http://twitter.com/search?q=%e8%a2%b4%e7%94%b0%e4%ba%8b%e4%bb%b6) | N/A |
-| 26 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
-| 27 | [ケンティー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | ケンティー (KENTII) is a Japanese word that means "cute" or "adorable". It is often used to describe something that is attractive or endearing. |
-| 28 | [蒼空の旅](http://twitter.com/search?q=%e8%92%bc%e7%a9%ba%e3%81%ae%e6%97%85) | N/A |
-| 29 | [大臣レク](http://twitter.com/search?q=%e5%a4%a7%e8%87%a3%e3%83%ac%e3%82%af) | N/A |
-| 30 | [ジェントルマン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 31 | [雨上がり](http://twitter.com/search?q=%e9%9b%a8%e4%b8%8a%e3%81%8c%e3%82%8a) | N/A |
-| 32 | [ユウカの太もも](http://twitter.com/search?q=%e3%83%a6%e3%82%a6%e3%82%ab%e3%81%ae%e5%a4%aa%e3%82%82%e3%82%82) | N/A |
-| 33 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 34 | [オスカー](http://twitter.com/search?q=%e3%82%aa%e3%82%b9%e3%82%ab%e3%83%bc) | N/A |
-| 35 | [グーニーズ](http://twitter.com/search?q=%e3%82%b0%e3%83%bc%e3%83%8b%e3%83%bc%e3%82%ba) | N/A |
-| 36 | [滝沢ガレソ](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e3%82%ac%e3%83%ac%e3%82%bd) | N/A |
-| 37 | [ミシェル・ヨー](http://twitter.com/search?q=%e3%83%9f%e3%82%b7%e3%82%a7%e3%83%ab%e3%83%bb%e3%83%a8%e3%83%bc) | N/A |
-| 38 | [アンコン](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b3%e3%83%b3) | N/A |
-| 39 | [キー・ホイ・クァン](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%bb%e3%83%9b%e3%82%a4%e3%83%bb%e3%82%af%e3%82%a1%e3%83%b3) | N/A |
-| 40 | [ダイスロール](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b9%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 41 | [ガブリアス](http://twitter.com/search?q=%e3%82%ac%e3%83%96%e3%83%aa%e3%82%a2%e3%82%b9) | N/A |
-| 42 | [#スマスマ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e) | N/A |
-| 43 | [#kanayoru](http://twitter.com/search?q=%23kanayoru) | N/A |
-| 44 | [#ワナワナ](http://twitter.com/search?q=%23%e3%83%af%e3%83%8a%e3%83%af%e3%83%8a) | N/A |
-| 45 | [#復興に向けて手を繋ごう](http://twitter.com/search?q=%23%e5%be%a9%e8%88%88%e3%81%ab%e5%90%91%e3%81%91%e3%81%a6%e6%89%8b%e3%82%92%e7%b9%8b%e3%81%94%e3%81%86) | N/A |
-| 46 | [#シャドウバース](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%89%e3%82%a6%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 47 | [#シャドバルムマ](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%89%e3%83%90%e3%83%ab%e3%83%a0%e3%83%9e) | N/A |
-| 48 | [#マイローテーション](http://twitter.com/search?q=%23%e3%83%9e%e3%82%a4%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 49 | [#高市さん見苦しいよ](http://twitter.com/search?q=%23%e9%ab%98%e5%b8%82%e3%81%95%e3%82%93%e8%a6%8b%e8%8b%a6%e3%81%97%e3%81%84%e3%82%88) | N/A |
-| 50 | [#俺が好きなシャドバ](http://twitter.com/search?q=%23%e4%bf%ba%e3%81%8c%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%b7%e3%83%a3%e3%83%89%e3%83%90) | N/A |
+| 1 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
+| 2 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
+| 3 | [#中島健人のインスタライブ](http://twitter.com/search?q=%23%e4%b8%ad%e5%b3%b6%e5%81%a5%e4%ba%ba%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 4 | [#三上悠亜引退](http://twitter.com/search?q=%23%e4%b8%89%e4%b8%8a%e6%82%a0%e4%ba%9c%e5%bc%95%e9%80%80) | N/A |
+| 5 | [#V最協S5](http://twitter.com/search?q=%23V%e6%9c%80%e5%8d%94S5) | N/A |
+| 6 | [#Mr5](http://twitter.com/search?q=%23Mr5) | N/A |
+| 7 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
+| 8 | [グレーテルのかまど](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%86%e3%83%ab%e3%81%ae%e3%81%8b%e3%81%be%e3%81%a9) | N/A |
+| 9 | [キュケオーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%b1%e3%82%aa%e3%83%bc%e3%83%b3) | キュケオーン is a Japanese onomatopoeia that is used to describe the sound of something being sucked up, such as a vacuum cleaner. In English, it can be translated as "suck-a-thon". |
+| 10 | [内川さん](http://twitter.com/search?q=%e5%86%85%e5%b7%9d%e3%81%95%e3%82%93) | 内川さん is a Japanese honorific title used to refer to someone with the surname Uchikawa. It is similar to the English titles of Mr. or Mrs., and is used as a sign of respect. |
+| 11 | [ジャケ写](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b1%e5%86%99) | ジャケ写 (jake-sha) is a Japanese term that refers to the cover art or image of a CD, DVD, or other media. It literally translates to "cover photo" in English. |
+| 12 | [王子様衣装](http://twitter.com/search?q=%e7%8e%8b%e5%ad%90%e6%a7%98%e8%a1%a3%e8%a3%85) | N/A |
+| 13 | [恵比寿田町多摩五反田](http://twitter.com/search?q=%e6%81%b5%e6%af%94%e5%af%bf%e7%94%b0%e7%94%ba%e5%a4%9a%e6%91%a9%e4%ba%94%e5%8f%8d%e7%94%b0) | N/A |
+| 14 | [扉バーン](http://twitter.com/search?q=%e6%89%89%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
+| 15 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
+| 16 | [英吸不滅](http://twitter.com/search?q=%e8%8b%b1%e5%90%b8%e4%b8%8d%e6%bb%85) | N/A |
+| 17 | [ヴァモネさん](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a2%e3%83%8d%e3%81%95%e3%82%93) | N/A |
+| 18 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
+| 19 | [滝沢ガレソ](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e3%82%ac%e3%83%ac%e3%82%bd) | N/A |
+| 20 | [モルカーの香水](http://twitter.com/search?q=%e3%83%a2%e3%83%ab%e3%82%ab%e3%83%bc%e3%81%ae%e9%a6%99%e6%b0%b4) | N/A |
+| 21 | [侮辱動画](http://twitter.com/search?q=%e4%be%ae%e8%be%b1%e5%8b%95%e7%94%bb) | N/A |
+| 22 | [AQF復活](http://twitter.com/search?q=AQF%e5%be%a9%e6%b4%bb) | N/A |
+| 23 | [クンヤズ](http://twitter.com/search?q=%e3%82%af%e3%83%b3%e3%83%a4%e3%82%ba) | N/A |
+| 24 | [秘書のせい](http://twitter.com/search?q=%e7%a7%98%e6%9b%b8%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 25 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
+| 26 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
+| 27 | [ThereのMV](http://twitter.com/search?q=There%e3%81%aeMV) | N/A |
+| 28 | [ギルガメシュ叙事詩](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%82%ac%e3%83%a1%e3%82%b7%e3%83%a5%e5%8f%99%e4%ba%8b%e8%a9%a9) | N/A |
+| 29 | [サクラナイツ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%83%8a%e3%82%a4%e3%83%84) | サクラナイツ (Sakura Knights) is a Japanese anime series created by Studio Deen. It follows the story of five young girls who are chosen to become knights and protect their kingdom from evil forces. The title translates to "Cherry Blossom Knights" in English. |
+| 30 | [ウルクの民](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%af%e3%81%ae%e6%b0%91) | N/A |
+| 31 | [内川南場](http://twitter.com/search?q=%e5%86%85%e5%b7%9d%e5%8d%97%e5%a0%b4) | N/A |
+| 32 | [Your Eyes](http://twitter.com/search?q=Your+Eyes) | N/A |
+| 33 | [投稿生徒の憔悴](http://twitter.com/search?q=%e6%8a%95%e7%a8%bf%e7%94%9f%e5%be%92%e3%81%ae%e6%86%94%e6%82%b4) | N/A |
+| 34 | [サウンズオブアース](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%96%e3%82%a2%e3%83%bc%e3%82%b9) | N/A |
+| 35 | [Nissy](http://twitter.com/search?q=Nissy) | Nissy is a nickname for the Japanese singer and actor Naoya Nishida. It is derived from his given name, Naoya. |
+| 36 | [雪山遭難回](http://twitter.com/search?q=%e9%9b%aa%e5%b1%b1%e9%81%ad%e9%9b%a3%e5%9b%9e) | N/A |
+| 37 | [はらめぐ脱出島](http://twitter.com/search?q=%e3%81%af%e3%82%89%e3%82%81%e3%81%90%e8%84%b1%e5%87%ba%e5%b3%b6) | N/A |
+| 38 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
+| 39 | [無名の司祭](http://twitter.com/search?q=%e7%84%a1%e5%90%8d%e3%81%ae%e5%8f%b8%e7%a5%ad) | N/A |
+| 40 | [マツケンサンバのイントロ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90%e3%81%ae%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad) | N/A |
+| 41 | [青江単騎](http://twitter.com/search?q=%e9%9d%92%e6%b1%9f%e5%8d%98%e9%a8%8e) | N/A |
+| 42 | [東城さん](http://twitter.com/search?q=%e6%9d%b1%e5%9f%8e%e3%81%95%e3%82%93) | 東城さん is a Japanese honorific title used to refer to someone who is from the east side of town. It is similar to the English term "Mr. Eastside" and is used as a sign of respect. |
+| 43 | [多田さん](http://twitter.com/search?q=%e5%a4%9a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 44 | [FB777](http://twitter.com/search?q=FB777) | N/A |
+| 45 | [ドラルク](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%ab%e3%82%af) | ドラルク (Doraruku) is a Japanese term that refers to a type of traditional Japanese folk song. It is usually sung in a slow, gentle style and often includes stories about love, nature, and the lives of the people who lived in rural areas. The English translation of ドラルク is "folk song". |
+| 46 | [ベイクドモチョチョ](http://twitter.com/search?q=%e3%83%99%e3%82%a4%e3%82%af%e3%83%89%e3%83%a2%e3%83%81%e3%83%a7%e3%83%81%e3%83%a7) | N/A |
+| 47 | [シノアリスカフェ](http://twitter.com/search?q=%e3%82%b7%e3%83%8e%e3%82%a2%e3%83%aa%e3%82%b9%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 48 | [V最楽しみ](http://twitter.com/search?q=V%e6%9c%80%e6%a5%bd%e3%81%97%e3%81%bf) | N/A |
+| 49 | [ロヂフェス](http://twitter.com/search?q=%e3%83%ad%e3%83%82%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 50 | [あまちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

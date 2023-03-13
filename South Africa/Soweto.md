@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-13 13:20:19 UTC`
+📆 Last Updated: `2023-03-13 14:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
-| 2 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
 | 3 | [#40YearsOfCTM](http://twitter.com/search?q=%2340YearsOfCTM) | N/A |
-| 4 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 5 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 6 | [#isencanelengane](http://twitter.com/search?q=%23isencanelengane) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 4 | [#datemyfamily](http://twitter.com/search?q=%23datemyfamily) | N/A |
+| 5 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 6 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 7 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
 | 8 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 9 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
-| 10 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 11 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [modiba](http://twitter.com/search?q=modiba) | N/A |
-| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 15 | [stage 1](http://twitter.com/search?q=stage+1) | N/A |
-| 16 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 17 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 18 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 19 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 20 | [casric](http://twitter.com/search?q=casric) | N/A |
-| 21 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
-| 22 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
-| 23 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 24 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 26 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 27 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 28 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 29 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
-| 30 | [Mahlatsi](http://twitter.com/search?q=Mahlatsi) | N/A |
-| 31 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
-| 32 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 34 | [Congolese](http://twitter.com/search?q=Congolese) | N/A |
-| 35 | [khosi and thabang](http://twitter.com/search?q=khosi+and+thabang) | N/A |
-| 36 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 37 | [caleb](http://twitter.com/search?q=caleb) | N/A |
-| 38 | [boity](http://twitter.com/search?q=boity) | N/A |
-| 39 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 40 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
-| 41 | [Baloyi](http://twitter.com/search?q=Baloyi) | N/A |
-| 42 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 43 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 44 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 45 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
-| 46 | [block 11](http://twitter.com/search?q=block+11) | N/A |
-| 47 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 48 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
-| 49 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 50 | [black envelope reveal](http://twitter.com/search?q=black+envelope+reveal) | N/A |
+| 9 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 10 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
+| 11 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 12 | [chiefs](http://twitter.com/search?q=chiefs) | N/A |
+| 13 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
+| 14 | [Airtime Advance](http://twitter.com/search?q=Airtime+Advance) | N/A |
+| 15 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 18 | [12 Windmills](http://twitter.com/search?q=12+Windmills) | N/A |
+| 19 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 20 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 21 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
+| 22 | [chippa](http://twitter.com/search?q=chippa) | N/A |
+| 23 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 24 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 25 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 26 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 27 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 28 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 29 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 30 | [Christian Saile](http://twitter.com/search?q=Christian+Saile) | N/A |
+| 31 | [Herman Mashaba](http://twitter.com/search?q=Herman+Mashaba) | N/A |
+| 32 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 33 | [Mahlatsi](http://twitter.com/search?q=Mahlatsi) | N/A |
+| 34 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 35 | [Zille](http://twitter.com/search?q=Zille) | N/A |
+| 36 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 37 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 38 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 39 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 40 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 41 | [kelly khumalo](http://twitter.com/search?q=kelly+khumalo) | N/A |
+| 42 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 43 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 44 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 45 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 47 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 48 | [Maart](http://twitter.com/search?q=Maart) | N/A |
+| 49 | [MIGHTY FREAKING THABANG](http://twitter.com/search?q=MIGHTY+FREAKING+THABANG) | N/A |
+| 50 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
 
 
 

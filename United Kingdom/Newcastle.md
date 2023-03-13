@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-13 13:19:51 UTC`
+📆 Last Updated: `2023-03-13 14:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 2 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 3 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 4 | [stephanie hsu](http://twitter.com/search?q=stephanie+hsu) | N/A |
-| 5 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 6 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
-| 7 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 8 | [Poundland](http://twitter.com/search?q=Poundland) | N/A |
-| 9 | [Companies House](http://twitter.com/search?q=Companies+House) | N/A |
-| 10 | [Wales and Scotland](http://twitter.com/search?q=Wales+and+Scotland) | N/A |
-| 11 | [Dunkirk](http://twitter.com/search?q=Dunkirk) | N/A |
-| 12 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 13 | [Erik ten Hag](http://twitter.com/search?q=Erik+ten+Hag) | N/A |
-| 14 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 15 | [sandra](http://twitter.com/search?q=sandra) | N/A |
-| 16 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 17 | [caleb](http://twitter.com/search?q=caleb) | N/A |
-| 18 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
-| 19 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 20 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 21 | [Precisely](http://twitter.com/search?q=Precisely) | N/A |
-| 22 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 23 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 24 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 25 | [UK Gov](http://twitter.com/search?q=UK+Gov) | N/A |
-| 26 | [I Know](http://twitter.com/search?q=I+Know) | N/A |
-| 27 | [Trek](http://twitter.com/search?q=Trek) | N/A |
-| 28 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
-| 29 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 32 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 33 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 34 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 35 | [danny](http://twitter.com/search?q=danny) | N/A |
-| 36 | [rory](http://twitter.com/search?q=rory) | N/A |
-| 37 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 1 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
+| 2 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 5 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 6 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 7 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
+| 8 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 9 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
+| 10 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 11 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 12 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 13 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
+| 14 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 15 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 16 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 17 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 18 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 19 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 20 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 21 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 22 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 23 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 24 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 25 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 26 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 27 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
+| 28 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
+| 29 | [Endeavour](http://twitter.com/search?q=Endeavour) | N/A |
+| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 32 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 33 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
+| 34 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 35 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 36 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
+| 37 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 38 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
+| 39 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 40 | [#BritishScienceWeek](http://twitter.com/search?q=%23BritishScienceWeek) | N/A |
+| 41 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 42 | [#CheltenhamFestivalNAP](http://twitter.com/search?q=%23CheltenhamFestivalNAP) | N/A |
+| 43 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 44 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
+| 45 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 46 | [#Dunblane](http://twitter.com/search?q=%23Dunblane) | N/A |
 
 
 

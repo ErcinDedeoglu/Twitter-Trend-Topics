@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-13 13:20:34 UTC`
+📆 Last Updated: `2023-03-13 14:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Joey Meneses](http://twitter.com/search?q=Joey+Meneses) | N/A |
-| 2 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 3 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 4 | [chase field](http://twitter.com/search?q=chase+field) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 7 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 8 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 9 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 10 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 11 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 12 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 13 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 15 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 18 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 19 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 20 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 21 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 22 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 23 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 24 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 25 | [#selectionsunday](http://twitter.com/search?q=%23selectionsunday) | N/A |
-| 26 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 27 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 28 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 29 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 30 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 31 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 33 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 34 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 35 | [austin butler](http://twitter.com/search?q=austin+butler) | N/A |
-| 36 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 37 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 38 | [halle](http://twitter.com/search?q=halle) | N/A |
-| 39 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 40 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 41 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 42 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 43 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 44 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 45 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 46 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 47 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 48 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 49 | [RUTH CARTER](http://twitter.com/search?q=RUTH+CARTER) | N/A |
-| 50 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 2 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 9 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 10 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 11 | [Happy 313](http://twitter.com/search?q=Happy+313) | N/A |
+| 12 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 13 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
+| 14 | [All A Blur Tour](http://twitter.com/search?q=All+A+Blur+Tour) | N/A |
+| 15 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
+| 16 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 17 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 18 | [She is Asian](http://twitter.com/search?q=She+is+Asian) | N/A |
+| 19 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 20 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 21 | [Charles Schwab](http://twitter.com/search?q=Charles+Schwab) | N/A |
+| 22 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 23 | [Identifies as Asian](http://twitter.com/search?q=Identifies+as+Asian) | N/A |
+| 24 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 25 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 26 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
+| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 28 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 29 | [The Lincoln Project](http://twitter.com/search?q=The+Lincoln+Project) | N/A |
+| 30 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 31 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 32 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 33 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 34 | [$SCHW](http://twitter.com/search?q=%24SCHW) | N/A |
+| 35 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 36 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
+| 37 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 39 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 40 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 41 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 42 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 43 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 44 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
+| 45 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 46 | [Nor'easter](http://twitter.com/search?q=Nor%27easter) | N/A |
+| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 48 | [Oscars 2023](http://twitter.com/search?q=Oscars+2023) | N/A |
+| 49 | [Goldman Sachs](http://twitter.com/search?q=Goldman+Sachs) | N/A |
+| 50 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
 
 
 

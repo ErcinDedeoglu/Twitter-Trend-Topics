@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-13 13:19:57 UTC`
+📆 Last Updated: `2023-03-13 14:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#12mar](http://twitter.com/search?q=%2312mar) | N/A |
-| 3 | [#beisbolxteleven](http://twitter.com/search?q=%23beisbolxteleven) | N/A |
-| 4 | [ACUÑA](http://twitter.com/search?q=ACU%c3%91A) | N/A |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [salvador pérez](http://twitter.com/search?q=salvador+p%c3%a9rez) | N/A |
-| 7 | [vamos venezuela](http://twitter.com/search?q=vamos+venezuela) | N/A |
-| 8 | [dominicana](http://twitter.com/search?q=dominicana) | N/A |
-| 9 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 10 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 1 | [#13Mar](http://twitter.com/search?q=%2313Mar) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#ChávezDelMundo](http://twitter.com/search?q=%23Ch%c3%a1vezDelMundo) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 7 | [Día de la Industria Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Industria+Nacional) | N/A |
+| 8 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 9 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 10 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 11 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
 | 12 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 13 | [anthony santander](http://twitter.com/search?q=anthony+santander) | N/A |
-| 14 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 15 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 16 | [miguel cabrera](http://twitter.com/search?q=miguel+cabrera) | N/A |
-| 17 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 18 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 19 | [daniel santos](http://twitter.com/search?q=daniel+santos) | N/A |
-| 20 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
-| 21 | [julio jaramillo](http://twitter.com/search?q=julio+jaramillo) | N/A |
-| 22 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
-| 23 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
-| 24 | [Gil manzano](http://twitter.com/search?q=Gil+manzano) | N/A |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
-| 27 | [peralta](http://twitter.com/search?q=peralta) | N/A |
-| 28 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
-| 29 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 30 | [ultraman](http://twitter.com/search?q=ultraman) | N/A |
-| 31 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 32 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 35 | [altuve](http://twitter.com/search?q=altuve) | N/A |
-| 36 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 37 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 13 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
+| 14 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 15 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 16 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 17 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 18 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 19 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 20 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 21 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
+| 22 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
+| 23 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 24 | [luis García](http://twitter.com/search?q=luis+Garc%c3%ada) | N/A |
+| 25 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
+| 26 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 27 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 28 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 29 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 30 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 32 | [SALVY](http://twitter.com/search?q=SALVY) | N/A |
+| 33 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 34 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 35 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 36 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 37 | [Chacin](http://twitter.com/search?q=Chacin) | N/A |
 | 38 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
-| 39 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 40 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 42 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 43 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 44 | [MIGGY](http://twitter.com/search?q=MIGGY) | N/A |
-| 45 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
-| 46 | [salvy](http://twitter.com/search?q=salvy) | N/A |
-| 47 | [yadier molina](http://twitter.com/search?q=yadier+molina) | N/A |
+| 39 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 40 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
+| 41 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 42 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 43 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 44 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 45 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 46 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
+| 47 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
 
 
 
