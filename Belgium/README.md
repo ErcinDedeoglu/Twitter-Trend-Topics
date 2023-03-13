@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 05:18:09 UTC`
+📆 Last Updated: `2023-03-13 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,10 +26,10 @@ This is top 50 for Belgium
 | 9 | [perica](http://twitter.com/search?q=perica) | N/A |
 | 10 | [visser](http://twitter.com/search?q=visser) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 12 | [cercle](http://twitter.com/search?q=cercle) | N/A |
 | 13 | [deila](http://twitter.com/search?q=deila) | N/A |
 | 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
+| 15 | [odoi](http://twitter.com/search?q=odoi) | N/A |
 | 16 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
 | 17 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
 | 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
@@ -54,17 +54,17 @@ This is top 50 for Belgium
 | 37 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 38 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 39 | [gaudu](http://twitter.com/search?q=gaudu) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 42 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 43 | [rwdm](http://twitter.com/search?q=rwdm) | N/A |
-| 44 | [évidemment](http://twitter.com/search?q=%c3%a9videmment) | N/A |
-| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 46 | [geloof](http://twitter.com/search?q=geloof) | N/A |
-| 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 49 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 50 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
+| 40 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 41 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 42 | [rwdm](http://twitter.com/search?q=rwdm) | N/A |
+| 43 | [évidemment](http://twitter.com/search?q=%c3%a9videmment) | N/A |
+| 44 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 45 | [geloof](http://twitter.com/search?q=geloof) | N/A |
+| 46 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 48 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 49 | [réal](http://twitter.com/search?q=r%c3%a9al) | N/A |
+| 50 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
 
 
 

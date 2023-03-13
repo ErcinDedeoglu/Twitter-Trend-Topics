@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-13 05:17:40 UTC`
+📆 Last Updated: `2023-03-13 06:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 3 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 4 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
-| 5 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 6 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 1 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 4 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 5 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
+| 6 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 7 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 | 8 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 9 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
+| 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 10 | [donnys asap comeback](http://twitter.com/search?q=donnys+asap+comeback) | N/A |
-| 11 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 12 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 13 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
-| 14 | [KAI COMEBACK D-DAY](http://twitter.com/search?q=KAI+COMEBACK+D-DAY) | N/A |
+| 11 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 12 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 13 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
+| 14 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 15 | [bgyo asap takeover](http://twitter.com/search?q=bgyo+asap+takeover) | N/A |
 | 16 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 17 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
-| 18 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 20 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 21 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
-| 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 23 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
-| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 17 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 18 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 20 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 21 | [KAI COMEBACK D-DAY](http://twitter.com/search?q=KAI+COMEBACK+D-DAY) | N/A |
+| 22 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
+| 23 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 25 | [JANENELLA MOVE THE GLASS](http://twitter.com/search?q=JANENELLA+MOVE+THE+GLASS) | N/A |
 | 26 | [kodrea summerkilig on asap](http://twitter.com/search?q=kodrea+summerkilig+on+asap) | N/A |
 | 27 | [weloveyou queen regine](http://twitter.com/search?q=weloveyou+queen+regine) | N/A |
-| 28 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 28 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 29 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
-| 30 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 31 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 32 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
-| 33 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 34 | [tubu](http://twitter.com/search?q=tubu) | N/A |
-| 35 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 36 | [subic na sayong pagibig bini](http://twitter.com/search?q=subic+na+sayong+pagibig+bini) | N/A |
-| 37 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
-| 38 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 40 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 41 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
-| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 43 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
-| 44 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 45 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 46 | [Shana](http://twitter.com/search?q=Shana) | N/A |
+| 30 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 31 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 32 | [pH-1](http://twitter.com/search?q=pH-1) | N/A |
+| 33 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 34 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 35 | [ROVER D-DAY](http://twitter.com/search?q=ROVER+D-DAY) | N/A |
+| 36 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 38 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 39 | [BarDa ONDKNLK](http://twitter.com/search?q=BarDa+ONDKNLK) | N/A |
+| 40 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 41 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 42 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
+| 43 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
+| 44 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 45 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
+| 46 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 | 47 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 48 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 48 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 49 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 50 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 50 | [Academy](http://twitter.com/search?q=Academy) | Academy is a term used to refer to a school or institution of higher learning. It typically refers to a private school, college, or university that offers specialized instruction in a particular field or area of study. The term can also be used more broadly to refer to any organization devoted to the advancement of knowledge or skill in a particular area. |
 
 
 

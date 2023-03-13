@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-13 05:17:28 UTC`
+📆 Last Updated: `2023-03-13 06:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
 | 2 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
-| 3 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 4 | [Oscarsgalan](http://twitter.com/search?q=Oscarsgalan) | N/A |
+| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 4 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
 | 5 | [#Mello](http://twitter.com/search?q=%23Mello) | N/A |
-| 6 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
+| 6 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
 | 7 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 8 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
-| 9 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 10 | [nordman](http://twitter.com/search?q=nordman) | N/A |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 13 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 8 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 9 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
+| 10 | [manner](http://twitter.com/search?q=manner) | N/A |
+| 11 | [nordman](http://twitter.com/search?q=nordman) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 | 14 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
 | 15 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 16 | [Danny](http://twitter.com/search?q=Danny) | N/A |
@@ -45,10 +45,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 28 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
 | 29 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
 | 30 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 31 | [Tone](http://twitter.com/search?q=Tone) | N/A |
-| 32 | [martinus](http://twitter.com/search?q=martinus) | N/A |
-| 33 | [khazeni](http://twitter.com/search?q=khazeni) | N/A |
-| 34 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 33 | [martinus](http://twitter.com/search?q=martinus) | N/A |
+| 34 | [khazeni](http://twitter.com/search?q=khazeni) | N/A |
 | 35 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
 | 36 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |
 | 37 | [lindberg](http://twitter.com/search?q=lindberg) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Sweden](</Sweden>)
 | 43 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
 | 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 45 | [förutom](http://twitter.com/search?q=f%c3%b6rutom) | N/A |
-| 46 | [enskild](http://twitter.com/search?q=enskild) | N/A |
-| 47 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 48 | [wilderäng](http://twitter.com/search?q=wilder%c3%a4ng) | N/A |
-| 49 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 50 | [gasten](http://twitter.com/search?q=gasten) | N/A |
+| 46 | [wilderäng](http://twitter.com/search?q=wilder%c3%a4ng) | N/A |
+| 47 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 48 | [gasten](http://twitter.com/search?q=gasten) | N/A |
+| 49 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 50 | [håkan](http://twitter.com/search?q=h%c3%a5kan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-13 05:17:27 UTC`
+📆 Last Updated: `2023-03-13 06:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,16 +35,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 19 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 20 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 21 | [interessant](http://twitter.com/search?q=interessant) | N/A |
+| 21 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 22 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 23 | [bildung](http://twitter.com/search?q=bildung) | N/A |
+| 23 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
 | 24 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 25 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
 | 26 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
 | 27 | [ganser](http://twitter.com/search?q=ganser) | N/A |
 | 28 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 29 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
-| 30 | [immerhin](http://twitter.com/search?q=immerhin) | N/A |
+| 30 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
 | 31 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 32 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
 | 33 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
@@ -52,16 +52,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 35 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 | 36 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 37 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 38 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 39 | [idioten](http://twitter.com/search?q=idioten) | N/A |
-| 40 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 41 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 42 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 43 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 44 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 45 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 46 | [journalismus](http://twitter.com/search?q=journalismus) | N/A |
-| 47 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 38 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 39 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 40 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 41 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 42 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 43 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 44 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 45 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 46 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 47 | [gelegenheit](http://twitter.com/search?q=gelegenheit) | N/A |
 | 48 | [berne](http://twitter.com/search?q=berne) | N/A |
 | 49 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
 

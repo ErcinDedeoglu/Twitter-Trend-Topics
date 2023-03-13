@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 05:18:10 UTC`
+📆 Last Updated: `2023-03-13 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
-| 2 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
+| 1 | [#FCMLBK](http://twitter.com/search?q=%23FCMLBK) | N/A |
+| 2 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
 | 3 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
 | 4 | [#BIFSIF](http://twitter.com/search?q=%23BIFSIF) | N/A |
-| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 5 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
 | 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 7 | [herning](http://twitter.com/search?q=herning) | N/A |
 | 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 9 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 12 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 13 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 14 | [mette](http://twitter.com/search?q=mette) | N/A |
 | 15 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 | 16 | [capellas](http://twitter.com/search?q=capellas) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Denmark
 | 35 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 36 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 37 | [elsker](http://twitter.com/search?q=elsker) | N/A |
-| 38 | [fint](http://twitter.com/search?q=fint) | N/A |
+| 38 | [Fint](http://twitter.com/search?q=Fint) | N/A |
 | 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 40 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 41 | [skat](http://twitter.com/search?q=skat) | N/A |
