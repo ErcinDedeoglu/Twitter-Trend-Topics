@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-12 23:16:27 UTC`
+📆 Last Updated: `2023-03-13 00:28:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 2 | [Rekdal](http://twitter.com/search?q=Rekdal) | N/A |
-| 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 4 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
-| 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 6 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 7 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
-| 8 | [Skeid](http://twitter.com/search?q=Skeid) | N/A |
-| 9 | [England](http://twitter.com/search?q=England) | N/A |
-| 10 | [Mjøndalen](http://twitter.com/search?q=Mj%c3%b8ndalen) | N/A |
+| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 6 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
+| 7 | [Skeid](http://twitter.com/search?q=Skeid) | N/A |
+| 8 | [England](http://twitter.com/search?q=England) | N/A |
+| 9 | [mjøndalen](http://twitter.com/search?q=mj%c3%b8ndalen) | N/A |
+| 10 | [Rekdal](http://twitter.com/search?q=Rekdal) | N/A |
 | 11 | [Sogndal](http://twitter.com/search?q=Sogndal) | N/A |
-| 12 | [Kristiansand](http://twitter.com/search?q=Kristiansand) | N/A |
+| 12 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
 | 13 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
 | 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 15 | [Sanyang](http://twitter.com/search?q=Sanyang) | N/A |
@@ -37,8 +37,8 @@ This is top 50 for [Norway](</Norway>)
 | 20 | [Molde](http://twitter.com/search?q=Molde) | N/A |
 | 21 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
 | 22 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 23 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 25 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
 | 26 | [#MELFEST](http://twitter.com/search?q=%23MELFEST) | N/A |
 | 27 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Norway](</Norway>)
 | 38 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 39 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
 | 40 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 41 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 41 | [obos](http://twitter.com/search?q=obos) | N/A |
 | 42 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 43 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
-| 44 | [listhaug](http://twitter.com/search?q=listhaug) | N/A |
-| 45 | [SoSoPa](http://twitter.com/search?q=SoSoPa) | N/A |
+| 44 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 45 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
 | 46 | [Altså](http://twitter.com/search?q=Alts%c3%a5) | N/A |
 | 47 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
 | 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 50 | [Herregud](http://twitter.com/search?q=Herregud) | N/A |
+| 49 | [Herregud](http://twitter.com/search?q=Herregud) | N/A |
+| 50 | [Ganske](http://twitter.com/search?q=Ganske) | N/A |
 
 
 

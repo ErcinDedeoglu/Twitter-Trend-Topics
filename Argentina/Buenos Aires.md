@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-12 23:16:19 UTC`
+📆 Last Updated: `2023-03-13 00:28:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 2 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 3 | [#LigaProfesional](http://twitter.com/search?q=%23LigaProfesional) | N/A |
-| 4 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 7 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 8 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 9 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
-| 10 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
-| 11 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
-| 12 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
-| 13 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
-| 14 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 15 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
-| 16 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 17 | [Dolores Fonzi](http://twitter.com/search?q=Dolores+Fonzi) | N/A |
-| 18 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 19 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 20 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
-| 21 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 22 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 23 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 24 | [Santiago Mitre](http://twitter.com/search?q=Santiago+Mitre) | N/A |
-| 25 | [#Racing](http://twitter.com/search?q=%23Racing) | N/A |
-| 26 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 27 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 28 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 29 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 30 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 31 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 32 | [Ricardo Darín](http://twitter.com/search?q=Ricardo+Dar%c3%adn) | N/A |
-| 33 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
-| 34 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 35 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 36 | [Zaina](http://twitter.com/search?q=Zaina) | N/A |
-| 37 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 38 | [FINAL DEL PRIMER TIEMPO](http://twitter.com/search?q=FINAL+DEL+PRIMER+TIEMPO) | N/A |
-| 39 | [Casco](http://twitter.com/search?q=Casco) | N/A |
-| 40 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
-| 41 | [Cilindro](http://twitter.com/search?q=Cilindro) | N/A |
-| 42 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 43 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 44 | [ELIJO CREER](http://twitter.com/search?q=ELIJO+CREER) | N/A |
-| 45 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 46 | [Vilma Palma](http://twitter.com/search?q=Vilma+Palma) | N/A |
-| 47 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 48 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
-| 49 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 50 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 2 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 3 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 4 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
+| 5 | [Alfonsín](http://twitter.com/search?q=Alfons%c3%adn) | N/A |
+| 6 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 7 | [#LigaProfesional](http://twitter.com/search?q=%23LigaProfesional) | N/A |
+| 8 | [#CAMILAAL9009](http://twitter.com/search?q=%23CAMILAAL9009) | N/A |
+| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 10 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
+| 11 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 12 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
+| 13 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 14 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 15 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 16 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 17 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 18 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 19 | [Antonio Banderas](http://twitter.com/search?q=Antonio+Banderas) | N/A |
+| 20 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 21 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 22 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
+| 23 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 24 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 25 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
+| 26 | [Ascacibar](http://twitter.com/search?q=Ascacibar) | N/A |
+| 27 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 28 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 29 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 30 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 31 | [Dolores Fonzi](http://twitter.com/search?q=Dolores+Fonzi) | N/A |
+| 32 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
+| 33 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 34 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 35 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 36 | [Rondon](http://twitter.com/search?q=Rondon) | N/A |
+| 37 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
+| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 39 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 40 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 41 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 42 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 43 | [Santiago Mitre](http://twitter.com/search?q=Santiago+Mitre) | N/A |
+| 44 | [Skone](http://twitter.com/search?q=Skone) | N/A |
+| 45 | [Arezo](http://twitter.com/search?q=Arezo) | Arezo is a Persian name that means "wish" or "desire". It is often used as a female given name. |
+| 46 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 47 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 48 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 49 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 50 | [Sauro](http://twitter.com/search?q=Sauro) | N/A |
 
 
 

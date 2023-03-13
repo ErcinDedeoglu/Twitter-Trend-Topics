@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-12 23:17:01 UTC`
+📆 Last Updated: `2023-03-13 00:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,39 +20,39 @@ This is top 50 for New Zealand
 | 3 | [#welvsyd](http://twitter.com/search?q=%23welvsyd) | N/A |
 | 4 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 5 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 6 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 7 | [Big Gay Out](http://twitter.com/search?q=Big+Gay+Out) | N/A |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 9 | [goodnight nurse](http://twitter.com/search?q=goodnight+nurse) | N/A |
-| 10 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 11 | [Tame](http://twitter.com/search?q=Tame) | N/A |
-| 12 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 13 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 14 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
-| 15 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
-| 16 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
-| 17 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 18 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
-| 19 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 20 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 21 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 22 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 23 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 24 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 25 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 26 | [Absolute](http://twitter.com/search?q=Absolute) | N/A |
-| 27 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 28 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 29 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
-| 30 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 31 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 32 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 36 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 37 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 10 | [Tame](http://twitter.com/search?q=Tame) | N/A |
+| 11 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 12 | [eden park](http://twitter.com/search?q=eden+park) | N/A |
+| 13 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 14 | [My Chemical Romance](http://twitter.com/search?q=My+Chemical+Romance) | N/A |
+| 15 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 16 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
+| 17 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 18 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 19 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
+| 20 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 21 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 22 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 23 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 24 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
+| 25 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 26 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 27 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 28 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 29 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 32 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 33 | [Pukekohe](http://twitter.com/search?q=Pukekohe) | N/A |
+| 34 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 35 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 37 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 38 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
 | 39 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 41 | [Russians](http://twitter.com/search?q=Russians) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for New Zealand
 | 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 45 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 46 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
-| 47 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 48 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 50 | [Pukekohe](http://twitter.com/search?q=Pukekohe) | N/A |
+| 46 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 47 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 48 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 49 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 50 | [polyfest](http://twitter.com/search?q=polyfest) | N/A |
 
 
 

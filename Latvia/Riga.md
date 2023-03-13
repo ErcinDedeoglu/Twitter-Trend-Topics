@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-12 23:16:26 UTC`
+📆 Last Updated: `2023-03-13 00:28:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 14 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
 | 15 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 16 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 17 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 17 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 18 | [Paga](http://twitter.com/search?q=Paga) | N/A |
 | 19 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
 | 20 | [Uzreiz](http://twitter.com/search?q=Uzreiz) | N/A |
@@ -41,13 +41,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 24 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 25 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 26 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 27 | [tavu](http://twitter.com/search?q=tavu) | N/A |
-| 28 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
-| 29 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 30 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
-| 31 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
-| 32 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 33 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 27 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 28 | [tavu](http://twitter.com/search?q=tavu) | N/A |
+| 29 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
+| 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 31 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 32 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 33 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
+| 34 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 
 
 

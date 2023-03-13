@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-12 23:16:52 UTC`
+📆 Last Updated: `2023-03-13 00:29:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 2 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 2 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
 | 3 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 4 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 5 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 6 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 4 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 5 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
+| 6 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 7 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
 | 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 9 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 10 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
-| 11 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 14 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 15 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 16 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 17 | [Bryce Hopkins](http://twitter.com/search?q=Bryce+Hopkins) | Bryce Hopkins is a name of a person. It is not an English phrase or expression and therefore does not have a meaning in English. |
-| 18 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 19 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 20 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 21 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 22 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 23 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 24 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 25 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
-| 26 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 27 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 28 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 29 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 30 | [Shotzzy](http://twitter.com/search?q=Shotzzy) | N/A |
-| 31 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 32 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 33 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 34 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 35 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 36 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 37 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 38 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 39 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 40 | [East Region](http://twitter.com/search?q=East+Region) | N/A |
-| 41 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 42 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 43 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 44 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
-| 45 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 46 | [South Region](http://twitter.com/search?q=South+Region) | N/A |
-| 47 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 48 | [Des Moines](http://twitter.com/search?q=Des+Moines) | Des Moines is the capital and most populous city in the U.S. state of Iowa. The name Des Moines is derived from the French phrase "des moines," which translates to "of the monks." |
-| 49 | [Jay Wright](http://twitter.com/search?q=Jay+Wright) | N/A |
-| 50 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 9 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 10 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 11 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 12 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 14 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 15 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 16 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 17 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
+| 18 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 19 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 21 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 23 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 24 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 27 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 28 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 29 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
+| 30 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 31 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 33 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 34 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 35 | [Bryce Hopkins](http://twitter.com/search?q=Bryce+Hopkins) | Bryce Hopkins is a name of a person. It is not an English phrase or expression and therefore does not have a meaning in English. |
+| 36 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 37 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 38 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 39 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 40 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 41 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 42 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
+| 43 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
+| 44 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 45 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 46 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 47 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 48 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 49 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 50 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 
 
 

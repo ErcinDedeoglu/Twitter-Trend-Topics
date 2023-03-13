@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-12 23:17:03 UTC`
+📆 Last Updated: `2023-03-13 00:29:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,40 +23,40 @@ This is top 50 for South Africa
 | 6 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
 | 7 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
 | 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 9 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 13 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 14 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
-| 15 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 16 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 17 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 18 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
-| 19 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 20 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 11 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [dance with khosi](http://twitter.com/search?q=dance+with+khosi) | N/A |
+| 14 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 15 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
+| 16 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 17 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 18 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 20 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 21 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 22 | [Christian Saile](http://twitter.com/search?q=Christian+Saile) | N/A |
 | 23 | [Casric](http://twitter.com/search?q=Casric) | N/A |
-| 24 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 25 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 26 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 27 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 28 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 29 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 30 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 31 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 32 | [Congolese](http://twitter.com/search?q=Congolese) | N/A |
-| 33 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 34 | [Kelly Khumalo](http://twitter.com/search?q=Kelly+Khumalo) | N/A |
-| 35 | [Boity](http://twitter.com/search?q=Boity) | N/A |
-| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 37 | [Mahlatsi](http://twitter.com/search?q=Mahlatsi) | N/A |
-| 38 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 27 | [Mako](http://twitter.com/search?q=Mako) | N/A |
+| 28 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 29 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 30 | [Congolese](http://twitter.com/search?q=Congolese) | N/A |
+| 31 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 32 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 34 | [kelly khumalo](http://twitter.com/search?q=kelly+khumalo) | N/A |
+| 35 | [boity](http://twitter.com/search?q=boity) | N/A |
+| 36 | [Mahlatsi](http://twitter.com/search?q=Mahlatsi) | N/A |
+| 37 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 39 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
 | 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 41 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
-| 42 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
+| 41 | [dj ph](http://twitter.com/search?q=dj+ph) | N/A |
+| 42 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
 | 43 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
 | 44 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
 | 45 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |

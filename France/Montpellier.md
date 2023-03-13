@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-03-12 23:16:21 UTC`
+📆 Last Updated: `2023-03-13 00:28:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OMRCSA](http://twitter.com/search?q=%23OMRCSA) | N/A |
-| 2 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 3 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 4 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
-| 5 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 6 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 7 | [#OMRSCA](http://twitter.com/search?q=%23OMRSCA) | N/A |
-| 8 | [#ZoneInterdite](http://twitter.com/search?q=%23ZoneInterdite) | N/A |
-| 9 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 10 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 11 | [Aholou](http://twitter.com/search?q=Aholou) | N/A |
-| 12 | [Sanson](http://twitter.com/search?q=Sanson) | N/A |
-| 13 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 14 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 15 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 16 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 17 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
-| 18 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
-| 19 | [Djiku](http://twitter.com/search?q=Djiku) | N/A |
-| 20 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 21 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 22 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 23 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
+| 4 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 5 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 6 | [#ZoneInterdite](http://twitter.com/search?q=%23ZoneInterdite) | N/A |
+| 7 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 8 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 9 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
+| 10 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 11 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 12 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 13 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
+| 14 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 15 | [Aholou](http://twitter.com/search?q=Aholou) | N/A |
+| 16 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 17 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
+| 18 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 19 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 20 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 21 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 22 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 23 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 24 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 25 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 26 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 27 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
-| 28 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 29 | [Ruslan](http://twitter.com/search?q=Ruslan) | N/A |
-| 30 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 31 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 32 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
-| 33 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
-| 34 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 35 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
+| 25 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 26 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 28 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 31 | [Sanson](http://twitter.com/search?q=Sanson) | N/A |
+| 32 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 33 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 34 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 36 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 37 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 40 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 41 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 42 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 43 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
-| 44 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 46 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 47 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 49 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 37 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 38 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 39 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
+| 40 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 41 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 42 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 43 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 44 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 45 | [Élise Lucet](http://twitter.com/search?q=%c3%89lise+Lucet) | N/A |
+| 46 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 47 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 48 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 49 | [poussin](http://twitter.com/search?q=poussin) | N/A |
 
 
 
