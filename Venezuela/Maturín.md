@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-13 12:18:02 UTC`
+📆 Last Updated: `2023-03-13 13:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#12mar](http://twitter.com/search?q=%2312mar) | N/A |
 | 3 | [#beisbolxteleven](http://twitter.com/search?q=%23beisbolxteleven) | N/A |
-| 4 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 4 | [ACUÑA](http://twitter.com/search?q=ACU%c3%91A) | N/A |
 | 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 6 | [#chávezcomunicador](http://twitter.com/search?q=%23ch%c3%a1vezcomunicador) | N/A |
-| 7 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 8 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 9 | [vamos venezuela](http://twitter.com/search?q=vamos+venezuela) | N/A |
-| 10 | [dominicana](http://twitter.com/search?q=dominicana) | N/A |
+| 7 | [salvador pérez](http://twitter.com/search?q=salvador+p%c3%a9rez) | N/A |
+| 8 | [vamos venezuela](http://twitter.com/search?q=vamos+venezuela) | N/A |
+| 9 | [dominicana](http://twitter.com/search?q=dominicana) | N/A |
+| 10 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 11 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 13 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 21 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
 | 22 | [julio jaramillo](http://twitter.com/search?q=julio+jaramillo) | N/A |
 | 23 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
-| 24 | [neceser](http://twitter.com/search?q=neceser) | N/A |
-| 25 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 24 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
+| 25 | [Gil manzano](http://twitter.com/search?q=Gil+manzano) | N/A |
 | 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 27 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
-| 28 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 29 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 30 | [ultraman](http://twitter.com/search?q=ultraman) | N/A |
-| 31 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 32 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 33 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 34 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 35 | [altuve](http://twitter.com/search?q=altuve) | N/A |
-| 36 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 28 | [peralta](http://twitter.com/search?q=peralta) | N/A |
+| 29 | [Pablo Aure](http://twitter.com/search?q=Pablo+Aure) | N/A |
+| 30 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 31 | [ultraman](http://twitter.com/search?q=ultraman) | N/A |
+| 32 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 33 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 34 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 35 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 36 | [altuve](http://twitter.com/search?q=altuve) | N/A |
 | 37 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 38 | [omar lópez](http://twitter.com/search?q=omar+l%c3%b3pez) | N/A |
+| 38 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
 | 39 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
 | 40 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 41 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 43 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 44 | [MIGGY](http://twitter.com/search?q=MIGGY) | N/A |
-| 45 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
-| 46 | [silvino bracho](http://twitter.com/search?q=silvino+bracho) | N/A |
+| 44 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 45 | [MIGGY](http://twitter.com/search?q=MIGGY) | N/A |
+| 46 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
 | 47 | [salvy](http://twitter.com/search?q=salvy) | N/A |
 | 48 | [yadier molina](http://twitter.com/search?q=yadier+molina) | N/A |
-| 49 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
-| 50 | [denunciado](http://twitter.com/search?q=denunciado) | N/A |
+| 49 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 50 | [WALT DISNEY](http://twitter.com/search?q=WALT+DISNEY) | N/A |
 
 
 

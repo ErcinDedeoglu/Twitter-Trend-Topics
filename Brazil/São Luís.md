@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-13 12:18:02 UTC`
+📆 Last Updated: `2023-03-13 13:19:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
-| 6 | [#foralaritruci](http://twitter.com/search?q=%23foralaritruci) | N/A |
-| 7 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 1 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 3 | [ITUANO](http://twitter.com/search?q=ITUANO) | N/A |
+| 4 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
+| 5 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 6 | [CÁSSIO](http://twitter.com/search?q=C%c3%81SSIO) | N/A |
+| 7 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
 | 8 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 9 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 10 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 11 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 12 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 13 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 14 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 15 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
-| 16 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 17 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 18 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 20 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 21 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 22 | [camila morgado](http://twitter.com/search?q=camila+morgado) | N/A |
-| 23 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 24 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
-| 25 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
-| 26 | [se a larissa](http://twitter.com/search?q=se+a+larissa) | N/A |
-| 27 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
-| 28 | [pilantra](http://twitter.com/search?q=pilantra) | N/A |
-| 29 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 30 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 31 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 32 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
-| 33 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 34 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 35 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 36 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
-| 37 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 38 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 39 | [pantera negra](http://twitter.com/search?q=pantera+negra) | N/A |
-| 40 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
-| 41 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 42 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 43 | [merecido](http://twitter.com/search?q=merecido) | N/A |
-| 44 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 47 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 48 | [melhor filme](http://twitter.com/search?q=melhor+filme) | N/A |
+| 9 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
+| 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 11 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 14 | [sapato merece respeito](http://twitter.com/search?q=sapato+merece+respeito) | N/A |
+| 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 16 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 17 | [VOLTA REDONDA](http://twitter.com/search?q=VOLTA+REDONDA) | N/A |
+| 18 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 19 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 20 | [itaquera](http://twitter.com/search?q=itaquera) | N/A |
+| 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 22 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 23 | [#themaskedsingerbr](http://twitter.com/search?q=%23themaskedsingerbr) | N/A |
+| 24 | [scarpa](http://twitter.com/search?q=scarpa) | N/A |
+| 25 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 26 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 27 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 28 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 29 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
+| 30 | [cruzeiro](http://twitter.com/search?q=cruzeiro) | N/A |
+| 31 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 32 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 33 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 34 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 35 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 36 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 37 | [nalu](http://twitter.com/search?q=nalu) | N/A |
+| 38 | [camila morgado](http://twitter.com/search?q=camila+morgado) | N/A |
+| 39 | [austin butler](http://twitter.com/search?q=austin+butler) | N/A |
+| 40 | [fábio santos](http://twitter.com/search?q=f%c3%a1bio+santos) | N/A |
+| 41 | [fausto vera](http://twitter.com/search?q=fausto+vera) | N/A |
+| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 43 | [voltaço](http://twitter.com/search?q=volta%c3%a7o) | N/A |
+| 44 | [tabata](http://twitter.com/search?q=tabata) | N/A |
+| 45 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 46 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 47 | [lelê](http://twitter.com/search?q=lel%c3%aa) | N/A |
+| 48 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 49 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
+| 50 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
 
 
 

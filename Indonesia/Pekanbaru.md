@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-13 12:18:11 UTC`
+📆 Last Updated: `2023-03-13 13:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,46 +19,46 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [Indonesia Kuat Disegani](http://twitter.com/search?q=Indonesia+Kuat+Disegani) | N/A |
 | 3 | [Prabowo Pastikan Kedaulatan](http://twitter.com/search?q=Prabowo+Pastikan+Kedaulatan) | N/A |
 | 4 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 5 | [NKRI](http://twitter.com/search?q=NKRI) | N/A |
-| 6 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 7 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 8 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 9 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
-| 10 | [Kamulah](http://twitter.com/search?q=Kamulah) | N/A |
-| 11 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 12 | [Menikah](http://twitter.com/search?q=Menikah) | N/A |
-| 13 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 14 | [surene jaya jaya jaya](http://twitter.com/search?q=surene+jaya+jaya+jaya) | N/A |
-| 15 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 5 | [Wonwoo](http://twitter.com/search?q=Wonwoo) | N/A |
+| 6 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 7 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 8 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 9 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
+| 10 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 11 | [surene jaya jaya jaya](http://twitter.com/search?q=surene+jaya+jaya+jaya) | N/A |
+| 12 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 13 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 14 | [wasit](http://twitter.com/search?q=wasit) | N/A |
+| 15 | [Menikah](http://twitter.com/search?q=Menikah) | N/A |
 | 16 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 18 | [wasit](http://twitter.com/search?q=wasit) | N/A |
-| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 20 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 21 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 23 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 24 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 25 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 26 | [ibnu riza](http://twitter.com/search?q=ibnu+riza) | N/A |
-| 27 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 28 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
-| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
-| 31 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 32 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 33 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
-| 34 | [ARMY YOUTUBE PARTY](http://twitter.com/search?q=ARMY+YOUTUBE+PARTY) | N/A |
-| 35 | [Hoshi 35k](http://twitter.com/search?q=Hoshi+35k) | N/A |
-| 36 | [prabowo lebih pantas](http://twitter.com/search?q=prabowo+lebih+pantas) | N/A |
-| 37 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 38 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
-| 39 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
-| 40 | [kondom](http://twitter.com/search?q=kondom) | N/A |
-| 41 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 42 | [onel](http://twitter.com/search?q=onel) | N/A |
-| 43 | [Jenn](http://twitter.com/search?q=Jenn) | N/A |
-| 44 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 17 | [the glory](http://twitter.com/search?q=the+glory) | N/A |
+| 18 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 19 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 20 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 21 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 22 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 23 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 24 | [ibnu riza](http://twitter.com/search?q=ibnu+riza) | N/A |
+| 25 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 26 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
+| 29 | [Kamulah](http://twitter.com/search?q=Kamulah) | N/A |
+| 30 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 31 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 32 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 33 | [NKRI](http://twitter.com/search?q=NKRI) | N/A |
+| 34 | [prabowo lebih pantas](http://twitter.com/search?q=prabowo+lebih+pantas) | N/A |
+| 35 | [Merapi](http://twitter.com/search?q=Merapi) | N/A |
+| 36 | [KONDOM](http://twitter.com/search?q=KONDOM) | N/A |
+| 37 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 38 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 39 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 40 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 41 | [kegiatan run 10k](http://twitter.com/search?q=kegiatan+run+10k) | N/A |
+| 42 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 43 | [pilihlah prabowo](http://twitter.com/search?q=pilihlah+prabowo) | N/A |
+| 44 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 12:18:47 UTC`
+📆 Last Updated: `2023-03-13 13:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,35 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [latviju](http://twitter.com/search?q=latviju) | N/A |
-| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 3 | [visi](http://twitter.com/search?q=visi) | N/A |
-| 4 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 5 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 2 | [visi](http://twitter.com/search?q=visi) | N/A |
+| 3 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
+| 4 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 5 | [vajag](http://twitter.com/search?q=vajag) | N/A |
 | 6 | [krievija](http://twitter.com/search?q=krievija) | N/A |
-| 7 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
-| 8 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 9 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 10 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 11 | [Tagad](http://twitter.com/search?q=Tagad) | N/A |
-| 12 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 13 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 14 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 15 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 16 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 17 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 18 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 19 | [paga](http://twitter.com/search?q=paga) | N/A |
-| 20 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 21 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 22 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
-| 23 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | N/A |
-| 24 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 25 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 26 | [tavs](http://twitter.com/search?q=tavs) | N/A |
-| 27 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 28 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 29 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 30 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 31 | [tavu](http://twitter.com/search?q=tavu) | N/A |
-| 32 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 33 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 34 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
-| 35 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 36 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
-| 37 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
+| 7 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 8 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 9 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 10 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 11 | [visu](http://twitter.com/search?q=visu) | N/A |
+| 12 | [NEKO](http://twitter.com/search?q=NEKO) | N/A |
+| 13 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 14 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 15 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
+| 16 | [paga](http://twitter.com/search?q=paga) | N/A |
+| 17 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 18 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
+| 19 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 20 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 21 | [tavs](http://twitter.com/search?q=tavs) | N/A |
+| 22 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
+| 23 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 24 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 25 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 26 | [tavu](http://twitter.com/search?q=tavu) | N/A |
+| 27 | [latvia](http://twitter.com/search?q=latvia) | N/A |
+| 28 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
+| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 30 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-13 12:18:10 UTC`
+📆 Last Updated: `2023-03-13 13:20:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 5 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 7 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 8 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 13 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 14 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
-| 15 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 16 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 18 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 19 | [begriff](http://twitter.com/search?q=begriff) | N/A |
-| 20 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 21 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 22 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 23 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
-| 24 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 25 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 26 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
-| 27 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 28 | [eier](http://twitter.com/search?q=eier) | N/A |
-| 29 | [wege](http://twitter.com/search?q=wege) | N/A |
-| 30 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 31 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 32 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 33 | [faschisten](http://twitter.com/search?q=faschisten) | N/A |
-| 34 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 35 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 36 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 37 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 38 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 39 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 40 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 41 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 42 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 43 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 44 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 45 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [Justement](http://twitter.com/search?q=Justement) | N/A |
-| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 4 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
+| 5 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
+| 6 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 7 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 12 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 13 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
+| 14 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 15 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 17 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 18 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 19 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 20 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 21 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 22 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 23 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
+| 24 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 25 | [wege](http://twitter.com/search?q=wege) | N/A |
+| 26 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 27 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 28 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 29 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 30 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 31 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 32 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 33 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 34 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 35 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 37 | [berne](http://twitter.com/search?q=berne) | N/A |
+| 38 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 39 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 40 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 42 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 43 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 44 | [England](http://twitter.com/search?q=England) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 47 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 48 | [Form](http://twitter.com/search?q=Form) | N/A |
 
 
 

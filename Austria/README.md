@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-13 12:18:43 UTC`
+📆 Last Updated: `2023-03-13 13:20:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Austria
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 4 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 5 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
-| 6 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
-| 7 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 8 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 9 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 10 | [kanzlerrede](http://twitter.com/search?q=kanzlerrede) | N/A |
-| 11 | [unglaublich](http://twitter.com/search?q=unglaublich) | N/A |
-| 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 13 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 14 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 15 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 16 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 17 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 18 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 19 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 21 | [neos](http://twitter.com/search?q=neos) | N/A |
-| 22 | [menschheit](http://twitter.com/search?q=menschheit) | N/A |
-| 23 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [modell](http://twitter.com/search?q=modell) | N/A |
-| 26 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 27 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 28 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 29 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 30 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 31 | [mitteln](http://twitter.com/search?q=mitteln) | N/A |
-| 32 | [quellen](http://twitter.com/search?q=quellen) | N/A |
-| 33 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 34 | [messias](http://twitter.com/search?q=messias) | N/A |
-| 35 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 36 | [Karten](http://twitter.com/search?q=Karten) | N/A |
-| 37 | [Nimm](http://twitter.com/search?q=Nimm) | N/A |
-| 38 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 39 | [rauch](http://twitter.com/search?q=rauch) | N/A |
-| 40 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 41 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
-| 42 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 43 | [erde](http://twitter.com/search?q=erde) | N/A |
-| 44 | [Visionen](http://twitter.com/search?q=Visionen) | N/A |
-| 45 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 46 | [schuhe](http://twitter.com/search?q=schuhe) | N/A |
-| 47 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 48 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 49 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 50 | [meister](http://twitter.com/search?q=meister) | N/A |
+| 4 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
+| 5 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
+| 6 | [#stufak](http://twitter.com/search?q=%23stufak) | N/A |
+| 7 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
+| 8 | [unglaublich](http://twitter.com/search?q=unglaublich) | N/A |
+| 9 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 10 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 11 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 12 | [wert](http://twitter.com/search?q=wert) | N/A |
+| 13 | [technologien](http://twitter.com/search?q=technologien) | N/A |
+| 14 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 15 | [verbrechen](http://twitter.com/search?q=verbrechen) | N/A |
+| 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 17 | [neos](http://twitter.com/search?q=neos) | N/A |
+| 18 | [menschheit](http://twitter.com/search?q=menschheit) | N/A |
+| 19 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 22 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 23 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [mitteln](http://twitter.com/search?q=mitteln) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [quellen](http://twitter.com/search?q=quellen) | N/A |
+| 29 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 30 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 31 | [Karten](http://twitter.com/search?q=Karten) | N/A |
+| 32 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 33 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 34 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
+| 35 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 37 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 38 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
+| 39 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 40 | [lachen](http://twitter.com/search?q=lachen) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 43 | [autoindustrie](http://twitter.com/search?q=autoindustrie) | N/A |
+| 44 | [Regime](http://twitter.com/search?q=Regime) | N/A |
+| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 46 | [flugzeug](http://twitter.com/search?q=flugzeug) | N/A |
+| 47 | [ärzte](http://twitter.com/search?q=%c3%a4rzte) | N/A |
+| 48 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 49 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 50 | [Reise](http://twitter.com/search?q=Reise) | N/A |
 
 
 

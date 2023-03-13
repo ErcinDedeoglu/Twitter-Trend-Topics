@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-03-13 12:18:14 UTC`
+📆 Last Updated: `2023-03-13 13:20:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 2 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
-| 3 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
-| 4 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
-| 5 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
-| 6 | [独身中年男性](http://twitter.com/search?q=%e7%8b%ac%e8%ba%ab%e4%b8%ad%e5%b9%b4%e7%94%b7%e6%80%a7) | N/A |
-| 7 | [ノーベル文学賞](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%99%e3%83%ab%e6%96%87%e5%ad%a6%e8%b3%9e) | N/A |
-| 8 | [#マイローテーション](http://twitter.com/search?q=%23%e3%83%9e%e3%82%a4%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 9 | [#シャドバルムマ](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%89%e3%83%90%e3%83%ab%e3%83%a0%e3%83%9e) | N/A |
-| 10 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
-| 11 | [ナートゥ](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%83%88%e3%82%a5) | ナートゥ (Nātū) is a Japanese word that means "to be natural". It is often used to describe someone who is relaxed and comfortable in their own skin. |
-| 12 | [扇千景さん](http://twitter.com/search?q=%e6%89%87%e5%8d%83%e6%99%af%e3%81%95%e3%82%93) | N/A |
-| 13 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
-| 14 | [#シャドウバース](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%89%e3%82%a6%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 15 | [#国会中継](http://twitter.com/search?q=%23%e5%9b%bd%e4%bc%9a%e4%b8%ad%e7%b6%99) | N/A |
-| 16 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 17 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 18 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
-| 19 | [食道胃接合部がん](http://twitter.com/search?q=%e9%a3%9f%e9%81%93%e8%83%83%e6%8e%a5%e5%90%88%e9%83%a8%e3%81%8c%e3%82%93) | N/A |
-| 20 | [両手いっぱい](http://twitter.com/search?q=%e4%b8%a1%e6%89%8b%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84) | N/A |
-| 21 | [アカデミー賞](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%b3%9e) | N/A |
-| 22 | [#倍てりやきマックなら倍味わえる](http://twitter.com/search?q=%23%e5%80%8d%e3%81%a6%e3%82%8a%e3%82%84%e3%81%8d%e3%83%9e%e3%83%83%e3%82%af%e3%81%aa%e3%82%89%e5%80%8d%e5%91%b3%e3%82%8f%e3%81%88%e3%82%8b) | N/A |
-| 23 | [ガレソさん](http://twitter.com/search?q=%e3%82%ac%e3%83%ac%e3%82%bd%e3%81%95%e3%82%93) | N/A |
-| 24 | [マスク解禁](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e8%a7%a3%e7%a6%81) | N/A |
-| 25 | [ガンプラジムギャラリー](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%97%e3%83%a9%e3%82%b8%e3%83%a0%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
-| 26 | [ノーマスク](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%af) | N/A |
-| 27 | [ホビーサイト](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%83%bc%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 28 | [東京高裁](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e9%ab%98%e8%a3%81) | 東京高裁 (Tokyo High Court) is the highest court in Tokyo, Japan. It is the court of last resort for appeals from lower courts in Tokyo and handles cases involving civil and criminal matters. In English, it is referred to as the Tokyo High Court. |
-| 29 | [大江さん](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e3%81%95%e3%82%93) | N/A |
-| 30 | [トロッコ問題](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%83%e3%82%b3%e5%95%8f%e9%a1%8c) | N/A |
-| 31 | [袴田事件](http://twitter.com/search?q=%e8%a2%b4%e7%94%b0%e4%ba%8b%e4%bb%b6) | N/A |
-| 32 | [コアラのマーチ](http://twitter.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81) | N/A |
-| 33 | [死者の奢り](http://twitter.com/search?q=%e6%ad%bb%e8%80%85%e3%81%ae%e5%a5%a2%e3%82%8a) | N/A |
-| 34 | [蒼空の旅](http://twitter.com/search?q=%e8%92%bc%e7%a9%ba%e3%81%ae%e6%97%85) | N/A |
-| 35 | [個人の判断](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%81%ae%e5%88%a4%e6%96%ad) | 個人の判断 is a Japanese phrase meaning "personal judgment". It refers to the process of making decisions based on one's own opinion or experience, rather than relying on external sources. |
-| 36 | [万延元年のフットボール](http://twitter.com/search?q=%e4%b8%87%e5%bb%b6%e5%85%83%e5%b9%b4%e3%81%ae%e3%83%95%e3%83%83%e3%83%88%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 37 | [再審開始](http://twitter.com/search?q=%e5%86%8d%e5%af%a9%e9%96%8b%e5%a7%8b) | N/A |
-| 38 | [ジェントルマン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 39 | [skzooアニメ化](http://twitter.com/search?q=skzoo%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 40 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
-| 41 | [雨上がり](http://twitter.com/search?q=%e9%9b%a8%e4%b8%8a%e3%81%8c%e3%82%8a) | N/A |
-| 42 | [ビールの売り子](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%81%ae%e5%a3%b2%e3%82%8a%e5%ad%90) | N/A |
-| 43 | [マスク着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8) | N/A |
-| 44 | [エゴイスト](http://twitter.com/search?q=%e3%82%a8%e3%82%b4%e3%82%a4%e3%82%b9%e3%83%88) | N/A |
-| 45 | [チェコ監督感激](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e7%9b%a3%e7%9d%a3%e6%84%9f%e6%bf%80) | N/A |
-| 46 | [キャンディボン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%83%9c%e3%83%b3) | N/A |
-| 47 | [ミシェル・ヨー](http://twitter.com/search?q=%e3%83%9f%e3%82%b7%e3%82%a7%e3%83%ab%e3%83%bb%e3%83%a8%e3%83%bc) | N/A |
-| 48 | [ジュエル・ド・パリ!!](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab%e3%83%bb%e3%83%89%e3%83%bb%e3%83%91%e3%83%aa!!) | N/A |
-| 49 | [ユウカの太もも](http://twitter.com/search?q=%e3%83%a6%e3%82%a6%e3%82%ab%e3%81%ae%e5%a4%aa%e3%82%82%e3%82%82) | N/A |
-| 50 | [オスカー](http://twitter.com/search?q=%e3%82%aa%e3%82%b9%e3%82%ab%e3%83%bc) | N/A |
+| 1 | [#bayfm_it](http://twitter.com/search?q=%23bayfm_it) | N/A |
+| 2 | [#ツイートai分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88ai%e5%88%86%e6%9e%90) | N/A |
+| 3 | [#中島健人のインスタライブ](http://twitter.com/search?q=%23%e4%b8%ad%e5%b3%b6%e5%81%a5%e4%ba%ba%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 4 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
+| 5 | [マスク解禁](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e8%a7%a3%e7%a6%81) | N/A |
+| 6 | [個人の判断](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%81%ae%e5%88%a4%e6%96%ad) | 個人の判断 is a Japanese phrase meaning "personal judgment". It refers to the process of making decisions based on one's own opinion or experience, rather than relying on external sources. |
+| 7 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
+| 8 | [おばさん構文](http://twitter.com/search?q=%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e6%a7%8b%e6%96%87) | N/A |
+| 9 | [マスク着用](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%9d%80%e7%94%a8) | N/A |
+| 10 | [オーストラリア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2) | N/A |
+| 11 | [#しゃべくり007](http://twitter.com/search?q=%23%e3%81%97%e3%82%83%e3%81%b9%e3%81%8f%e3%82%8a007) | #しゃべくり007 is a Japanese variety show that has been airing since 2002. It is a talk show featuring celebrity guests and topics of discussion related to current events, entertainment, and lifestyle. The English translation of the title would be "Talk Show 007". |
+| 12 | [自分の看板](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e7%9c%8b%e6%9d%bf) | N/A |
+| 13 | [アカデミー賞](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%b3%9e) | N/A |
+| 14 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
+| 15 | [準々決勝](http://twitter.com/search?q=%e6%ba%96%e3%80%85%e6%b1%ba%e5%8b%9d) | N/A |
+| 16 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
+| 17 | [ノーマスク](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%af) | N/A |
+| 18 | [ナートゥ](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%83%88%e3%82%a5) | ナートゥ (Nātū) is a Japanese word that means "to be natural". It is often used to describe someone who is relaxed and comfortable in their own skin. |
+| 19 | [高杉さん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%95%e3%82%93) | N/A |
+| 20 | [アカウントの発信内容](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%81%ae%e7%99%ba%e4%bf%a1%e5%86%85%e5%ae%b9) | N/A |
+| 21 | [高杉社長](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%a4%be%e9%95%b7) | N/A |
+| 22 | [独身中年男性](http://twitter.com/search?q=%e7%8b%ac%e8%ba%ab%e4%b8%ad%e5%b9%b4%e7%94%b7%e6%80%a7) | N/A |
+| 23 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 24 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
+| 25 | [マスクなし](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e3%81%aa%e3%81%97) | N/A |
+| 26 | [プールA](http://twitter.com/search?q=%e3%83%97%e3%83%bc%e3%83%abA) | N/A |
+| 27 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
+| 28 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 29 | [高杉晋作](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e6%99%8b%e4%bd%9c) | N/A |
+| 30 | [オスカー](http://twitter.com/search?q=%e3%82%aa%e3%82%b9%e3%82%ab%e3%83%bc) | N/A |
+| 31 | [レッツゴージョージ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%84%e3%82%b4%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8) | N/A |
+| 32 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
+| 33 | [扉バーン](http://twitter.com/search?q=%e6%89%89%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
+| 34 | [高杉実装](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e5%ae%9f%e8%a3%85) | N/A |
+| 35 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
+| 36 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
+| 37 | [kcon](http://twitter.com/search?q=kcon) | N/A |
+| 38 | [ケンティー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | ケンティー (KENTII) is a Japanese word that means "cute" or "adorable". It is often used to describe something that is attractive or endearing. |
+| 39 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 40 | [ノーベル文学賞](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%99%e3%83%ab%e6%96%87%e5%ad%a6%e8%b3%9e) | N/A |
+| 41 | [瑠姫くん](http://twitter.com/search?q=%e7%91%a0%e5%a7%ab%e3%81%8f%e3%82%93) | 瑠姫くん is a character from the Japanese manga series, Chihayafuru. The character's name is Ruka Tsukuba and she is a high school student who loves the card game karuta. In English, her name can be translated to "Ruka Princess". |
+| 42 | [健人くん](http://twitter.com/search?q=%e5%81%a5%e4%ba%ba%e3%81%8f%e3%82%93) | 健人くん is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of a young man named Kenjin, who is determined to become the strongest fighter in the world. The title translates to "Strong Man Kenjin" in English. |
+| 43 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 44 | [両手いっぱい](http://twitter.com/search?q=%e4%b8%a1%e6%89%8b%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84) | N/A |
+| 45 | [チェコの選手](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e3%81%ae%e9%81%b8%e6%89%8b) | N/A |
+| 46 | [リミチケ](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e3%83%81%e3%82%b1) | N/A |
+| 47 | [夢ノ咲廃校](http://twitter.com/search?q=%e5%a4%a2%e3%83%8e%e5%92%b2%e5%bb%83%e6%a0%a1) | N/A |
+| 48 | [マリアエレーナ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%8a) | マリアエレーナ is a Japanese song composed by Yumi Matsutoya. The title translates to "Maria Elena" in English. The song is about a woman who has been betrayed by her lover and is trying to find the strength to move on. |
+| 49 | [ベネズエラ](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%82%ba%e3%82%a8%e3%83%a9) | N/A |
+| 50 | [記憶力おばけ](http://twitter.com/search?q=%e8%a8%98%e6%86%b6%e5%8a%9b%e3%81%8a%e3%81%b0%e3%81%91) | N/A |
 
 
 

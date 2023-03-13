@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-13 12:18:49 UTC`
+📆 Last Updated: `2023-03-13 13:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for Panama
 | 18 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 19 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
 | 20 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 21 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 21 | [Gil manzano](http://twitter.com/search?q=Gil+manzano) | N/A |
 | 22 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 23 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
 | 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
@@ -49,22 +49,22 @@ This is top 50 for Panama
 | 32 | [noriega](http://twitter.com/search?q=noriega) | N/A |
 | 33 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
 | 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 35 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 37 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 38 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
-| 39 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 40 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 42 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
-| 43 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 44 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 37 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
+| 38 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
+| 39 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 40 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 41 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
+| 42 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 43 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 44 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 45 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 46 | [#todosxlacopa](http://twitter.com/search?q=%23todosxlacopa) | N/A |
 | 47 | [panameños](http://twitter.com/search?q=paname%c3%b1os) | N/A |
 | 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 50 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 49 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 50 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 
 
 
