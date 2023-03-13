@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-13 17:16:15 UTC`
+📆 Last Updated: `2023-03-13 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MISSING BIBLEBUILD](http://twitter.com/search?q=MISSING+BIBLEBUILD) | N/A |
-| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 3 | [#MEbyJisoo](http://twitter.com/search?q=%23MEbyJisoo) | N/A |
-| 4 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 5 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 6 | [#VichyM89xBible](http://twitter.com/search?q=%23VichyM89xBible) | N/A |
-| 7 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 8 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 10 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
-| 11 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 12 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
-| 13 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 16 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 17 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 18 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 19 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 20 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 22 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 25 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 26 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 27 | [thung](http://twitter.com/search?q=thung) | N/A |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 32 | [Nhiều](http://twitter.com/search?q=Nhi%e1%bb%81u) | N/A |
-| 33 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
-| 34 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 38 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 39 | [lalisa guncang jakarta](http://twitter.com/search?q=lalisa+guncang+jakarta) | N/A |
-| 40 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 41 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
-| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 43 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 44 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 45 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 46 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 48 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 49 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 50 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 2 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 3 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
+| 4 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 5 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [#BuildisLuved](http://twitter.com/search?q=%23BuildisLuved) | N/A |
+| 7 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 8 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 9 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 10 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 11 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 12 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 13 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 14 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 15 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 16 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 17 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 18 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 19 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 20 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 21 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 22 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 24 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 25 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 26 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 27 | [vàng](http://twitter.com/search?q=v%c3%a0ng) | N/A |
+| 28 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 29 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 30 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
+| 31 | [Thứ 2](http://twitter.com/search?q=Th%e1%bb%a9+2) | N/A |
+| 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 33 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 34 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 35 | [bằng](http://twitter.com/search?q=b%e1%ba%b1ng) | N/A |
+| 36 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 37 | [Meow](http://twitter.com/search?q=Meow) | N/A |
+| 38 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 39 | [Cuối](http://twitter.com/search?q=Cu%e1%bb%91i) | N/A |
+| 40 | [Cuộc](http://twitter.com/search?q=Cu%e1%bb%99c) | N/A |
+| 41 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 42 | [Có 1](http://twitter.com/search?q=C%c3%b3+1) | N/A |
+| 43 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
+| 44 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 45 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
+| 46 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 47 | [seokjin ăn nhiều vào nhé](http://twitter.com/search?q=seokjin+%c4%83n+nhi%e1%bb%81u+v%c3%a0o+nh%c3%a9) | N/A |
+| 48 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
+| 49 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 50 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-13 17:15:51 UTC`
+📆 Last Updated: `2023-03-13 18:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 4 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
-| 5 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 6 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 7 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 8 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 9 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 10 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 11 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 16 | [Will and Jessie](http://twitter.com/search?q=Will+and+Jessie) | N/A |
-| 17 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 18 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 19 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 21 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 23 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 24 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 25 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 26 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 29 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
-| 30 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 31 | [Monster Munch](http://twitter.com/search?q=Monster+Munch) | N/A |
-| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 33 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 34 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
-| 35 | [Toby](http://twitter.com/search?q=Toby) | N/A |
-| 36 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 37 | [Westminster Abbey](http://twitter.com/search?q=Westminster+Abbey) | N/A |
-| 38 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 39 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 40 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 41 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 42 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 43 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 44 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 45 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 46 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 47 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 48 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
-| 49 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 1 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
+| 2 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 3 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 4 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 5 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 6 | [#FestivalFour](http://twitter.com/search?q=%23FestivalFour) | N/A |
+| 7 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 8 | [#BritishScienceWeek2023](http://twitter.com/search?q=%23BritishScienceWeek2023) | N/A |
+| 9 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 10 | [Greedy Belly](http://twitter.com/search?q=Greedy+Belly) | N/A |
+| 11 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 12 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 13 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 14 | [Monster Munch](http://twitter.com/search?q=Monster+Munch) | N/A |
+| 15 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 16 | [Pickled Onion](http://twitter.com/search?q=Pickled+Onion) | N/A |
+| 17 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 18 | [Westminster Abbey](http://twitter.com/search?q=Westminster+Abbey) | N/A |
+| 19 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 20 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 21 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
+| 22 | [Azerbaijan](http://twitter.com/search?q=Azerbaijan) | N/A |
+| 23 | [Jeffrey Marsh](http://twitter.com/search?q=Jeffrey+Marsh) | N/A |
+| 24 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
+| 25 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 26 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 27 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 28 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 29 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 30 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 31 | [#BVCheltenham](http://twitter.com/search?q=%23BVCheltenham) | N/A |
+| 32 | [#JamesOrJimsInSongOrFilm](http://twitter.com/search?q=%23JamesOrJimsInSongOrFilm) | N/A |
+| 33 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
+| 34 | [#StopTheBill](http://twitter.com/search?q=%23StopTheBill) | N/A |
+| 35 | [#BSW23](http://twitter.com/search?q=%23BSW23) | N/A |
+| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 37 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
+| 38 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 39 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
+| 40 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 41 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 42 | [#ITAKOM](http://twitter.com/search?q=%23ITAKOM) | N/A |
+| 43 | [#FionaBruce](http://twitter.com/search?q=%23FionaBruce) | N/A |
+| 44 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 45 | [#SignLanguageWeek](http://twitter.com/search?q=%23SignLanguageWeek) | N/A |
+| 46 | [#Dunblane](http://twitter.com/search?q=%23Dunblane) | N/A |
+| 47 | [#HumzaForScotland](http://twitter.com/search?q=%23HumzaForScotland) | N/A |
+| 48 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 49 | [#StPatricksDay](http://twitter.com/search?q=%23StPatricksDay) | N/A |
 
 
 

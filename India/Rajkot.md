@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-03-13 17:16:24 UTC`
+📆 Last Updated: `2023-03-13 18:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
-| 3 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
-| 4 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
-| 5 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 6 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 7 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
-| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 9 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
-| 10 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
-| 11 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
-| 12 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 13 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 14 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 15 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 16 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 17 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
-| 18 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
-| 19 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
-| 20 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
-| 21 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
-| 22 | [Proud Moment](http://twitter.com/search?q=Proud+Moment) | N/A |
-| 23 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 24 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
-| 25 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
-| 26 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 27 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
-| 28 | [Oval](http://twitter.com/search?q=Oval) | N/A |
-| 29 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
-| 30 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 31 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 32 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 33 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
-| 34 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 35 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
-| 36 | [राजस्थान कांग्रेस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 37 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
-| 38 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 39 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 40 | [Prachi](http://twitter.com/search?q=Prachi) | N/A |
-| 41 | [Second Single](http://twitter.com/search?q=Second+Single) | N/A |
-| 42 | [Kapp](http://twitter.com/search?q=Kapp) | N/A |
-| 43 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 44 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 45 | [$BITE](http://twitter.com/search?q=%24BITE) | N/A |
-| 46 | [रात्रि वंदन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 47 | [सार्वजनिक जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 48 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 49 | [विजय कांग्रेस](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 50 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 1 | [#DCvRCB](http://twitter.com/search?q=%23DCvRCB) | N/A |
+| 2 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
+| 3 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
+| 4 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
+| 5 | [#ATKMBHFC](http://twitter.com/search?q=%23ATKMBHFC) | N/A |
+| 6 | [#CervicalRelief](http://twitter.com/search?q=%23CervicalRelief) | N/A |
+| 7 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 8 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
+| 9 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
+| 10 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
+| 11 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 12 | [Mandhana](http://twitter.com/search?q=Mandhana) | N/A |
+| 13 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
+| 14 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
+| 15 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
+| 16 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
+| 17 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
+| 18 | [Deepika](http://twitter.com/search?q=Deepika) | N/A |
+| 19 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
+| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 21 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 22 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [प्रदेश कांग्रेस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 25 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 26 | [Raghu](http://twitter.com/search?q=Raghu) | N/A |
+| 27 | [#HappyBirthdayAamirKhan](http://twitter.com/search?q=%23HappyBirthdayAamirKhan) | N/A |
+| 28 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
+| 29 | [#RCBW](http://twitter.com/search?q=%23RCBW) | N/A |
+| 30 | [#ATKMohunBagan](http://twitter.com/search?q=%23ATKMohunBagan) | N/A |
+| 31 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
+| 32 | [#JoyMohunBagan](http://twitter.com/search?q=%23JoyMohunBagan) | N/A |
+| 33 | [#JanaSenaFormationDay](http://twitter.com/search?q=%23JanaSenaFormationDay) | N/A |
+| 34 | [#RRRWinsOscar](http://twitter.com/search?q=%23RRRWinsOscar) | N/A |
+| 35 | [#HyderabadFC](http://twitter.com/search?q=%23HyderabadFC) | N/A |
+| 36 | [#ChaloMachilipatnam](http://twitter.com/search?q=%23ChaloMachilipatnam) | N/A |
+| 37 | [#cha_nurses_want_job](http://twitter.com/search?q=%23cha_nurses_want_job) | N/A |
+| 38 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
+| 39 | [#DowJones](http://twitter.com/search?q=%23DowJones) | N/A |
+| 40 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
+| 41 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
+| 42 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
+| 43 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 44 | [#RajasthanMeinBhiKejriwal](http://twitter.com/search?q=%23RajasthanMeinBhiKejriwal) | N/A |
+| 45 | [#Ninaivirukka](http://twitter.com/search?q=%23Ninaivirukka) | N/A |
+| 46 | [#CustodyOnMay12](http://twitter.com/search?q=%23CustodyOnMay12) | N/A |
+| 47 | [#WTCFINAL2023](http://twitter.com/search?q=%23WTCFINAL2023) | N/A |
+| 48 | [#WTCFinals](http://twitter.com/search?q=%23WTCFinals) | N/A |
+| 49 | [#KeerthySuresh](http://twitter.com/search?q=%23KeerthySuresh) | N/A |
 
 
 

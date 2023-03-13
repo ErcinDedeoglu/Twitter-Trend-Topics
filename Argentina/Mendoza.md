@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-13 17:15:54 UTC`
+📆 Last Updated: `2023-03-13 18:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 3 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
-| 4 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 5 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 6 | [camila al 9009](http://twitter.com/search?q=camila+al+9009) | N/A |
-| 7 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 8 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 9 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 10 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
-| 11 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 12 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 13 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
-| 14 | [#LollapaloozaEnFMLike](http://twitter.com/search?q=%23LollapaloozaEnFMLike) | N/A |
-| 15 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 16 | [Romina al 9009](http://twitter.com/search?q=Romina+al+9009) | N/A |
-| 17 | [Darin](http://twitter.com/search?q=Darin) | N/A |
-| 18 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 19 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
-| 20 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
-| 21 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 22 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 23 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 24 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 25 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 3 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 4 | [#GranAcomodo](http://twitter.com/search?q=%23GranAcomodo) | N/A |
+| 5 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
+| 6 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
+| 7 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 8 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 9 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 10 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 12 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 13 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 14 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 15 | [Darín](http://twitter.com/search?q=Dar%c3%adn) | N/A |
+| 16 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 17 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 18 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 19 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 21 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 22 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 23 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 24 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
+| 25 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
 | 26 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 27 | [SOFIA CARSON](http://twitter.com/search?q=SOFIA+CARSON) | N/A |
-| 28 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 29 | [Antonio Banderas](http://twitter.com/search?q=Antonio+Banderas) | N/A |
-| 30 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 31 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 32 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 33 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 34 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 35 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 36 | [ELIZABETH OLSEN](http://twitter.com/search?q=ELIZABETH+OLSEN) | N/A |
-| 37 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 38 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 39 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 40 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 41 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 42 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 43 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 44 | [Dolores Fonzi](http://twitter.com/search?q=Dolores+Fonzi) | N/A |
-| 45 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 46 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 47 | [LIZZIE](http://twitter.com/search?q=LIZZIE) | N/A |
-| 48 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 49 | [Rapallini](http://twitter.com/search?q=Rapallini) | Rapallini is a type of Italian pasta that is shaped like a small, flat wheel. It is usually served with a variety of sauces, such as pesto or tomato sauce. The name comes from the city of Rapallo in Italy, where the pasta was first created. In English, Rapallini means "little wheels" or "little discs". |
-| 50 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 27 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 28 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
+| 29 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 30 | [POL FERNÁNDEZ](http://twitter.com/search?q=POL+FERN%c3%81NDEZ) | N/A |
+| 31 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 32 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 33 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 34 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 36 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 37 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 38 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 39 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 40 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 41 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 42 | [Impune](http://twitter.com/search?q=Impune) | N/A |
+| 43 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 44 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 45 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 46 | [Antonio Banderas](http://twitter.com/search?q=Antonio+Banderas) | N/A |
+| 47 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 48 | [Kami](http://twitter.com/search?q=Kami) | N/A |
+| 49 | [Sin Novedad](http://twitter.com/search?q=Sin+Novedad) | N/A |
+| 50 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-13 17:16:04 UTC`
+📆 Last Updated: `2023-03-13 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#feyvol](http://twitter.com/search?q=%23feyvol) | N/A |
-| 2 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 3 | [#PauwDebat](http://twitter.com/search?q=%23PauwDebat) | N/A |
-| 4 | [#psvcam](http://twitter.com/search?q=%23psvcam) | N/A |
-| 5 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 6 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 7 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 8 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 9 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 11 | [schippers](http://twitter.com/search?q=schippers) | N/A |
-| 12 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 13 | [sophie hermans](http://twitter.com/search?q=sophie+hermans) | N/A |
-| 14 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 15 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
-| 16 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 17 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
-| 21 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 22 | [simons](http://twitter.com/search?q=simons) | N/A |
-| 23 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
-| 24 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |
-| 25 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 26 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 28 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 29 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 30 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 31 | [Klassieker](http://twitter.com/search?q=Klassieker) | N/A |
-| 32 | [bergsma](http://twitter.com/search?q=bergsma) | N/A |
-| 33 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 34 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 35 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 36 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
-| 37 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
-| 38 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 39 | [mores](http://twitter.com/search?q=mores) | N/A |
-| 40 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 41 | [libië](http://twitter.com/search?q=libi%c3%ab) | N/A |
-| 42 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
-| 43 | [vincent janssen](http://twitter.com/search?q=vincent+janssen) | N/A |
-| 44 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 45 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 46 | [de var](http://twitter.com/search?q=de+var) | N/A |
-| 47 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 1 | [#eenvandaag](http://twitter.com/search?q=%23eenvandaag) | N/A |
+| 2 | [#feyvol](http://twitter.com/search?q=%23feyvol) | N/A |
+| 3 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 4 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 5 | [bergwijn](http://twitter.com/search?q=bergwijn) | N/A |
+| 6 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 7 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 10 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 11 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 12 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 13 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
+| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 15 | [rulli](http://twitter.com/search?q=rulli) | N/A |
+| 16 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 17 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 18 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 19 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 20 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 21 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 22 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |
+| 23 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 24 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 25 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
+| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 27 | [Oprapen](http://twitter.com/search?q=Oprapen) | N/A |
+| 28 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 29 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 31 | [bergsma](http://twitter.com/search?q=bergsma) | N/A |
+| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 33 | [Teruggeven](http://twitter.com/search?q=Teruggeven) | N/A |
+| 34 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 36 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 37 | [hoofdredactie nos sport](http://twitter.com/search?q=hoofdredactie+nos+sport) | N/A |
+| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 39 | [veerman](http://twitter.com/search?q=veerman) | N/A |
+| 40 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 41 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 42 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
+| 43 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 45 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 46 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 47 | [drommel](http://twitter.com/search?q=drommel) | N/A |
+| 48 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 49 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
 
 
 

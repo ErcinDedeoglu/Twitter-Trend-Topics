@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-13 17:16:30 UTC`
+📆 Last Updated: `2023-03-13 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 4 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 5 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 7 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 8 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 9 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 10 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 11 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
-| 12 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
-| 13 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
-| 14 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 15 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
-| 16 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
-| 17 | [Ben Powers](http://twitter.com/search?q=Ben+Powers) | N/A |
+| 1 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 2 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 3 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 4 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 5 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 6 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 7 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 8 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 9 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 10 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 11 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 12 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 13 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
+| 14 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 15 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 16 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 17 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
 | 18 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
-| 19 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 20 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
-| 21 | [Sanborn](http://twitter.com/search?q=Sanborn) | N/A |
-| 22 | [Damon Stoudamire](http://twitter.com/search?q=Damon+Stoudamire) | N/A |
-| 23 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 24 | [Risner](http://twitter.com/search?q=Risner) | N/A |
-| 25 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
-| 26 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 27 | [Jonathan Jones](http://twitter.com/search?q=Jonathan+Jones) | N/A |
-| 28 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
-| 29 | [Keisean Nixon](http://twitter.com/search?q=Keisean+Nixon) | N/A |
-| 30 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
-| 31 | [Mighty Mouse](http://twitter.com/search?q=Mighty+Mouse) | N/A |
-| 32 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 33 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
-| 34 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 35 | [Jimmy Garoppolo](http://twitter.com/search?q=Jimmy+Garoppolo) | N/A |
-| 36 | [Brissett](http://twitter.com/search?q=Brissett) | N/A |
-| 37 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 38 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 39 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 40 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
-| 41 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 42 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
-| 43 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 44 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 45 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 46 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 47 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 49 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
-| 50 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 19 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 20 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 21 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 22 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 23 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
+| 24 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
+| 25 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 26 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 27 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 28 | [Pitts](http://twitter.com/search?q=Pitts) | N/A |
+| 29 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 30 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
+| 31 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
+| 32 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
+| 33 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 34 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
+| 35 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
+| 36 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 37 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 38 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
+| 39 | [Nick Gates](http://twitter.com/search?q=Nick+Gates) | N/A |
+| 40 | [Keenum](http://twitter.com/search?q=Keenum) | N/A |
+| 41 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
+| 42 | [Ben Powers](http://twitter.com/search?q=Ben+Powers) | N/A |
+| 43 | [Davante Adams](http://twitter.com/search?q=Davante+Adams) | Davante Adams is an American football wide receiver for the Green Bay Packers of the National Football League (NFL). He was drafted by the Packers in the second round of the 2014 NFL Draft. Adams has been selected to two Pro Bowls and was named an All-Pro in 2020. |
+| 44 | [Welcome to the Bay](http://twitter.com/search?q=Welcome+to+the+Bay) | N/A |
+| 45 | [Jordan Davis](http://twitter.com/search?q=Jordan+Davis) | N/A |
+| 46 | [Tuttle](http://twitter.com/search?q=Tuttle) | N/A |
+| 47 | [Onyemata](http://twitter.com/search?q=Onyemata) | N/A |
+| 48 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
+| 49 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 50 | [Arthur Smith](http://twitter.com/search?q=Arthur+Smith) | Arthur Smith is a common English surname. It is derived from the given name Arthur, which is of Celtic origin and means "bear" or "strong as a bear". |
 
 
 

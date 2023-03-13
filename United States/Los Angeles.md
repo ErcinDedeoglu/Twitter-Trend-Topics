@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-13 17:16:30 UTC`
+📆 Last Updated: `2023-03-13 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 4 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 6 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 7 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 8 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 9 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 10 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 11 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 12 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
-| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 14 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 15 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 16 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 17 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 18 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
-| 19 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
-| 20 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
-| 21 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
-| 22 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
-| 23 | [Ben Powers](http://twitter.com/search?q=Ben+Powers) | N/A |
-| 24 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 25 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
-| 26 | [Sanborn](http://twitter.com/search?q=Sanborn) | N/A |
-| 27 | [Damon Stoudamire](http://twitter.com/search?q=Damon+Stoudamire) | N/A |
-| 28 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 29 | [Risner](http://twitter.com/search?q=Risner) | N/A |
-| 30 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
-| 31 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 32 | [Jonathan Jones](http://twitter.com/search?q=Jonathan+Jones) | N/A |
-| 33 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
-| 34 | [Keisean Nixon](http://twitter.com/search?q=Keisean+Nixon) | N/A |
-| 35 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
-| 36 | [Mighty Mouse](http://twitter.com/search?q=Mighty+Mouse) | N/A |
-| 37 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 38 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
-| 39 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 40 | [Brissett](http://twitter.com/search?q=Brissett) | N/A |
-| 41 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 1 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 2 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 3 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 4 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 5 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 6 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
+| 7 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 8 | [#BankRuns](http://twitter.com/search?q=%23BankRuns) | N/A |
+| 9 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
+| 10 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
+| 11 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 12 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 13 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
+| 14 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 15 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
+| 16 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
+| 17 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 18 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 19 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 20 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 21 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 22 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 23 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 24 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 25 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 26 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
+| 27 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 28 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 29 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 30 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
+| 31 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 32 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 33 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 34 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 35 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
+| 36 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
+| 37 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 38 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 39 | [Pitts](http://twitter.com/search?q=Pitts) | N/A |
+| 40 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
+| 41 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
+| 42 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
+| 43 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 44 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
+| 45 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
+| 46 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 47 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 48 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
+| 49 | [Nick Gates](http://twitter.com/search?q=Nick+Gates) | N/A |
+| 50 | [Keenum](http://twitter.com/search?q=Keenum) | N/A |
 
 
 

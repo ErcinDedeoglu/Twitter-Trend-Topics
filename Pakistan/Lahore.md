@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-13 17:16:22 UTC`
+📆 Last Updated: `2023-03-13 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
-| 2 | [#WhyDrNaumanNiaz](http://twitter.com/search?q=%23WhyDrNaumanNiaz) | N/A |
-| 3 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 4 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
-| 5 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
+| 2 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 3 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 4 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
+| 5 | [#ننھی_مُنی_ریلی](http://twitter.com/search?q=%23%d9%86%d9%86%da%be%db%8c_%d9%85%d9%8f%d9%86%db%8c_%d8%b1%db%8c%d9%84%db%8c) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 8 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 9 | [usman khan](http://twitter.com/search?q=usman+khan) | N/A |
-| 10 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 11 | [ban nasra school](http://twitter.com/search?q=ban+nasra+school) | N/A |
-| 12 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 13 | [section 144](http://twitter.com/search?q=section+144) | N/A |
-| 14 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
-| 15 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
-| 16 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 17 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 18 | [pm in 2008](http://twitter.com/search?q=pm+in+2008) | N/A |
-| 19 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 20 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 21 | [sharifs](http://twitter.com/search?q=sharifs) | N/A |
-| 22 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 23 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 24 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 25 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 26 | [Gifts](http://twitter.com/search?q=Gifts) | N/A |
-| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 28 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 30 | [Cabinet Division](http://twitter.com/search?q=Cabinet+Division) | N/A |
-| 31 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 33 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 34 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 35 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 36 | [MashAllah](http://twitter.com/search?q=MashAllah) | N/A |
-| 37 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 38 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 39 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 40 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 41 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 42 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 43 | [University](http://twitter.com/search?q=University) | N/A |
-| 44 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 45 | [London](http://twitter.com/search?q=London) | N/A |
-| 46 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 47 | [Okie](http://twitter.com/search?q=Okie) | N/A |
-| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 49 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 50 | [Yesh](http://twitter.com/search?q=Yesh) | N/A |
+| 9 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 10 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 11 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 12 | [shoaib sheikh](http://twitter.com/search?q=shoaib+sheikh) | N/A |
+| 13 | [Zahir Jaffer](http://twitter.com/search?q=Zahir+Jaffer) | N/A |
+| 14 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 15 | [Director](http://twitter.com/search?q=Director) | N/A |
+| 16 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 17 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 18 | [ban nasra school](http://twitter.com/search?q=ban+nasra+school) | N/A |
+| 19 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 20 | [Islamabad High Court](http://twitter.com/search?q=Islamabad+High+Court) | N/A |
+| 21 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 22 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
+| 23 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 24 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 25 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
+| 26 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 27 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 28 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 29 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 30 | [Bold](http://twitter.com/search?q=Bold) | N/A |
+| 31 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 32 | [Sports](http://twitter.com/search?q=Sports) | N/A |
+| 33 | [London](http://twitter.com/search?q=London) | N/A |
+| 34 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 35 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 36 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 37 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 38 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 39 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 40 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 41 | [Turkiye](http://twitter.com/search?q=Turkiye) | N/A |
+| 42 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 43 | [Arif Alvi](http://twitter.com/search?q=Arif+Alvi) | N/A |
+| 44 | [Wasim Jr](http://twitter.com/search?q=Wasim+Jr) | N/A |
+| 45 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 46 | [India and Pakistan](http://twitter.com/search?q=India+and+Pakistan) | N/A |
+| 47 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 48 | [Upwork](http://twitter.com/search?q=Upwork) | N/A |
+| 49 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 50 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
 
 
 
