@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-13 20:17:21 UTC`
+📆 Last Updated: `2023-03-13 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,28 +25,28 @@ This is top 50 for Singapore
 | 8 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
 | 9 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 10 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 13 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 14 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 19 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 20 | [kamal adli](http://twitter.com/search?q=kamal+adli) | N/A |
-| 21 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 22 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 23 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 12 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 13 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 16 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 19 | [kamal adli](http://twitter.com/search?q=kamal+adli) | N/A |
+| 20 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 22 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 23 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 29 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 30 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 27 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 28 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 30 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
 | 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 32 | [Malay](http://twitter.com/search?q=Malay) | N/A |
+| 32 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 33 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 34 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 35 | [European](http://twitter.com/search?q=European) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Singapore
 | 40 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 41 | [shownu](http://twitter.com/search?q=shownu) | N/A |
 | 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 44 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 45 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 46 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 47 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 48 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 49 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 50 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
+| 43 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 44 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 45 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 46 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 47 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 48 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
+| 49 | [the mirror effect](http://twitter.com/search?q=the+mirror+effect) | N/A |
+| 50 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-13 20:16:45 UTC`
+📆 Last Updated: `2023-03-13 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [latviju](http://twitter.com/search?q=latviju) | N/A |
 | 2 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 3 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 4 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 5 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 4 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 5 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
 | 6 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 7 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 8 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 7 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 8 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 9 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 10 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
-| 11 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 12 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 11 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 12 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 | 13 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 
 

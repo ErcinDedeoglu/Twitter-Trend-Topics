@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-13 20:17:05 UTC`
+📆 Last Updated: `2023-03-13 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 2 | [AsistnHekimlrEnkazAltnda](http://twitter.com/search?q=AsistnHekimlrEnkazAltnda) | N/A |
-| 3 | [#MutlakaGeriDöneceğiz](http://twitter.com/search?q=%23MutlakaGeriD%c3%b6nece%c4%9fiz) | N/A |
-| 4 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
-| 5 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 6 | [Profilime KimBakıyo](http://twitter.com/search?q=Profilime+KimBak%c4%b1yo) | N/A |
-| 7 | [#DepremAnı](http://twitter.com/search?q=%23DepremAn%c4%b1) | N/A |
-| 8 | [#ömer](http://twitter.com/search?q=%23%c3%b6mer) | N/A |
-| 9 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 10 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 11 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
-| 12 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
-| 13 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
-| 14 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 15 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
-| 16 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
-| 17 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
-| 18 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 19 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 20 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 21 | [EbruŞahin HarikaylaDönüyor](http://twitter.com/search?q=Ebru%c5%9eahin+HarikaylaD%c3%b6n%c3%bcyor) | N/A |
-| 22 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
-| 23 | [Cansel](http://twitter.com/search?q=Cansel) | N/A |
-| 24 | [S-400](http://twitter.com/search?q=S-400) | N/A |
-| 25 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
-| 26 | [İstanbulspor](http://twitter.com/search?q=%c4%b0stanbulspor) | İstanbulspor is a Turkish professional football club based in Istanbul. The club was founded in 1926 and currently plays in the TFF First League, the second tier of Turkish football. The name İstanbulspor translates to "Istanbul Sports" in English. |
-| 27 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
-| 28 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 29 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 30 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
-| 31 | [Bozkurt](http://twitter.com/search?q=Bozkurt) | N/A |
+| 1 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 2 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 3 | [#OAnGeliyor](http://twitter.com/search?q=%23OAnGeliyor) | N/A |
+| 4 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
+| 5 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
+| 6 | [#MutlakaGeriDöneceğiz](http://twitter.com/search?q=%23MutlakaGeriD%c3%b6nece%c4%9fiz) | N/A |
+| 7 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 8 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
+| 9 | [Profilime KimBakıyo](http://twitter.com/search?q=Profilime+KimBak%c4%b1yo) | N/A |
+| 10 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 12 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
+| 13 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 14 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
+| 15 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
+| 16 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
+| 17 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 18 | [Uzun Adam Tamam İnşallah](http://twitter.com/search?q=Uzun+Adam+Tamam+%c4%b0n%c5%9fallah) | N/A |
+| 19 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 20 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 21 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
+| 22 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 23 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
+| 24 | [Bozkurt Kemal](http://twitter.com/search?q=Bozkurt+Kemal) | N/A |
+| 25 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 26 | [Cansel](http://twitter.com/search?q=Cansel) | N/A |
+| 27 | [S-400](http://twitter.com/search?q=S-400) | N/A |
+| 28 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
+| 29 | [İstanbulspor](http://twitter.com/search?q=%c4%b0stanbulspor) | İstanbulspor is a Turkish professional football club based in Istanbul. The club was founded in 1926 and currently plays in the TFF First League, the second tier of Turkish football. The name İstanbulspor translates to "Istanbul Sports" in English. |
+| 30 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
+| 31 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
 | 32 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
-| 33 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 34 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 35 | [#BayKemalUnvYeTayin](http://twitter.com/search?q=%23BayKemalUnvYeTayin) | N/A |
-| 36 | [#YasakElma](http://twitter.com/search?q=%23YasakElma) | N/A |
-| 37 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 38 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 39 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
-| 40 | [#MaltepeÜniKaçakDersler](http://twitter.com/search?q=%23Maltepe%c3%9cniKa%c3%a7akDersler) | N/A |
-| 41 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 42 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 43 | [#foxhaber](http://twitter.com/search?q=%23foxhaber) | N/A |
-| 44 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
-| 45 | [#HayatiSedefNedenTutuklu](http://twitter.com/search?q=%23HayatiSedefNedenTutuklu) | N/A |
-| 46 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 47 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
-| 48 | [#Tabakademisi](http://twitter.com/search?q=%23Tabakademisi) | N/A |
-| 49 | [#GelecekTarımda](http://twitter.com/search?q=%23GelecekTar%c4%b1mda) | N/A |
-| 50 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
+| 33 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 34 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 35 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 36 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
+| 37 | [#ömer](http://twitter.com/search?q=%23%c3%b6mer) | N/A |
+| 38 | [#DepremAnı](http://twitter.com/search?q=%23DepremAn%c4%b1) | N/A |
+| 39 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
+| 40 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
+| 41 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
+| 42 | [#YasakElma](http://twitter.com/search?q=%23YasakElma) | N/A |
+| 43 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 44 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
+| 45 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
+| 46 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
+| 47 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 48 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 49 | [#BakanYanıkİstifa](http://twitter.com/search?q=%23BakanYan%c4%b1k%c4%b0stifa) | N/A |
+| 50 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
 
 
 
