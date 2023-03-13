@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-13 22:16:50 UTC`
+📆 Last Updated: `2023-03-13 23:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 4 | [Neko](http://twitter.com/search?q=Neko) | N/A |
 | 5 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
 | 6 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
-| 7 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 7 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 8 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 10 | [Visu](http://twitter.com/search?q=Visu) | N/A |

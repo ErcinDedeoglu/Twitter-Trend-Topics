@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-13 22:17:00 UTC`
+📆 Last Updated: `2023-03-13 23:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 4 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 5 | [#ekoforsanwo](http://twitter.com/search?q=%23ekoforsanwo) | N/A |
-| 6 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 3 | [#ekoforsanwo](http://twitter.com/search?q=%23ekoforsanwo) | N/A |
+| 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 5 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 7 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 8 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 9 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 8 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 9 | [Murder](http://twitter.com/search?q=Murder) | N/A |
 | 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 13 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 14 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
-| 15 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
-| 16 | [THE MONEY IS KANALIZED](http://twitter.com/search?q=THE+MONEY+IS+KANALIZED) | N/A |
-| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 20 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 21 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
-| 24 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
-| 25 | [Harvesters](http://twitter.com/search?q=Harvesters) | N/A |
-| 26 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 27 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
-| 28 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 32 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
-| 33 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [today is sunday](http://twitter.com/search?q=today+is+sunday) | N/A |
-| 36 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 37 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
-| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 39 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 40 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 41 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 42 | [Padre](http://twitter.com/search?q=Padre) | N/A |
-| 43 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 45 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 46 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 47 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 48 | [alpha beta](http://twitter.com/search?q=alpha+beta) | N/A |
+| 12 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 13 | [THE MONEY IS KANALIZED](http://twitter.com/search?q=THE+MONEY+IS+KANALIZED) | N/A |
+| 14 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
+| 19 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 20 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
+| 21 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
+| 22 | [Harvesters](http://twitter.com/search?q=Harvesters) | N/A |
+| 23 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
+| 24 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
+| 25 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
+| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
+| 29 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 30 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
+| 33 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 34 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
+| 35 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 36 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 37 | [Padre](http://twitter.com/search?q=Padre) | N/A |
+| 38 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [Meffy](http://twitter.com/search?q=Meffy) | N/A |
+| 41 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 44 | [alpha beta](http://twitter.com/search?q=alpha+beta) | N/A |
+| 45 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
+| 46 | [HE IS SHEGGZ OLU](http://twitter.com/search?q=HE+IS+SHEGGZ+OLU) | N/A |
+| 47 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 48 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
 
 
 

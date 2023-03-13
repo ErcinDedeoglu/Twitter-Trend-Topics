@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-13 22:17:10 UTC`
+📆 Last Updated: `2023-03-13 23:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 2 | [#MutlakaGeriDöneceğiz](http://twitter.com/search?q=%23MutlakaGeriD%c3%b6nece%c4%9fiz) | N/A |
-| 3 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 4 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
-| 5 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
-| 6 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 7 | [Serkan Toper](http://twitter.com/search?q=Serkan+Toper) | N/A |
-| 8 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
-| 9 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
-| 10 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 11 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
-| 12 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
-| 13 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
-| 14 | [Uzun Adam Tamam İnşallah](http://twitter.com/search?q=Uzun+Adam+Tamam+%c4%b0n%c5%9fallah) | N/A |
-| 15 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 16 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 17 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 18 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
-| 19 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
-| 20 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 21 | [Bozkurt Kemal](http://twitter.com/search?q=Bozkurt+Kemal) | N/A |
-| 22 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 23 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 24 | [Cansel](http://twitter.com/search?q=Cansel) | N/A |
-| 25 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
-| 26 | [S-400](http://twitter.com/search?q=S-400) | N/A |
-| 27 | [İstanbulspor](http://twitter.com/search?q=%c4%b0stanbulspor) | İstanbulspor is a Turkish professional football club based in Istanbul. The club was founded in 1926 and currently plays in the TFF First League, the second tier of Turkish football. The name İstanbulspor translates to "Istanbul Sports" in English. |
-| 28 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
-| 29 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
-| 30 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 31 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 32 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
-| 33 | [#ömer](http://twitter.com/search?q=%23%c3%b6mer) | N/A |
-| 34 | [#DepremAnı](http://twitter.com/search?q=%23DepremAn%c4%b1) | N/A |
-| 35 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
-| 36 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
-| 37 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
-| 38 | [#YasakElma](http://twitter.com/search?q=%23YasakElma) | N/A |
-| 39 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 40 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 41 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
-| 42 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 43 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
-| 44 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 45 | [#BakanYanıkİstifa](http://twitter.com/search?q=%23BakanYan%c4%b1k%c4%b0stifa) | N/A |
-| 46 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
-| 47 | [#HayatiSedefNedenTutuklu](http://twitter.com/search?q=%23HayatiSedefNedenTutuklu) | N/A |
+| 1 | [asistnhekimlrenkazaltnda](http://twitter.com/search?q=asistnhekimlrenkazaltnda) | N/A |
+| 2 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
+| 3 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 4 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 5 | [#BayKemalUnvYeTayin](http://twitter.com/search?q=%23BayKemalUnvYeTayin) | N/A |
+| 6 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 7 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 8 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 9 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 10 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 11 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
+| 12 | [seninleyiz cansu](http://twitter.com/search?q=seninleyiz+cansu) | N/A |
+| 13 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 14 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
+| 15 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
+| 16 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 17 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 18 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 19 | [Selin Ciğerci](http://twitter.com/search?q=Selin+Ci%c4%9ferci) | N/A |
+| 20 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 21 | [Profilime KimBakıyo](http://twitter.com/search?q=Profilime+KimBak%c4%b1yo) | N/A |
+| 22 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
+| 23 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 24 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
+| 25 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
+| 26 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
+| 27 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 28 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 29 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 30 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 31 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 32 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 33 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 34 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 35 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 36 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 37 | [cbkemalziraate15bin](http://twitter.com/search?q=cbkemalziraate15bin) | N/A |
+| 38 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 39 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
+| 40 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 41 | [Rıza Çalımbay](http://twitter.com/search?q=R%c4%b1za+%c3%87al%c4%b1mbay) | N/A |
+| 42 | [Bozkurt Kemal](http://twitter.com/search?q=Bozkurt+Kemal) | N/A |
+| 43 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
+| 44 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 45 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 46 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 48 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
 
 
 
