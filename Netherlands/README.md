@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-13 02:36:34 UTC`
+📆 Last Updated: `2023-03-13 03:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,16 +47,16 @@ This is top 50 for Netherlands
 | 30 | [sophie hermans](http://twitter.com/search?q=sophie+hermans) | N/A |
 | 31 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 32 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 33 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 33 | [tadic](http://twitter.com/search?q=tadic) | N/A |
 | 34 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
 | 35 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 36 | [camilla van der burgt](http://twitter.com/search?q=camilla+van+der+burgt) | N/A |
-| 37 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 37 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
 | 38 | [studio sport](http://twitter.com/search?q=studio+sport) | N/A |
 | 39 | [cambuur](http://twitter.com/search?q=cambuur) | N/A |
 | 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 41 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 42 | [Wie Is De Mol](http://twitter.com/search?q=Wie+Is+De+Mol) | N/A |
+| 42 | [wie is de mol](http://twitter.com/search?q=wie+is+de+mol) | N/A |
 | 43 | [rensch](http://twitter.com/search?q=rensch) | N/A |
 | 44 | [Simons](http://twitter.com/search?q=Simons) | N/A |
 | 45 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-13 02:36:37 UTC`
+📆 Last Updated: `2023-03-13 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Sweden
 | 7 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 8 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
 | 9 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 10 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
+| 10 | [nordman](http://twitter.com/search?q=nordman) | N/A |
 | 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
 | 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Sweden
 | 34 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |
 | 35 | [LINDBERG](http://twitter.com/search?q=LINDBERG) | N/A |
 | 36 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 37 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
+| 37 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
 | 38 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 39 | [Edvardsen](http://twitter.com/search?q=Edvardsen) | N/A |
 | 40 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |

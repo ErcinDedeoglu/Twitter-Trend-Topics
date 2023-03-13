@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-13 02:35:35 UTC`
+📆 Last Updated: `2023-03-13 03:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Argentina](</Argentina>)
 | 1 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 3 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 4 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 5 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 6 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 4 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 5 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 6 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 7 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 8 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 8 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
 | 9 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 10 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
-| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 12 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 10 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 11 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 13 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 14 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 15 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
-| 16 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 17 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
-| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 19 | [Darin](http://twitter.com/search?q=Darin) | N/A |
-| 20 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 21 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 22 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 23 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 24 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 15 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 16 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
+| 17 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 18 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 20 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 21 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 22 | [Darin](http://twitter.com/search?q=Darin) | N/A |
+| 23 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 24 | [yankees](http://twitter.com/search?q=yankees) | N/A |
 | 25 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
 | 26 | [Barco](http://twitter.com/search?q=Barco) | N/A |
 | 27 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 28 | [Antonio Banderas](http://twitter.com/search?q=Antonio+Banderas) | N/A |
-| 29 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
-| 30 | [Gotze](http://twitter.com/search?q=Gotze) | N/A |
-| 31 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 29 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
+| 30 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 31 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
 | 32 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 33 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 34 | [All Quiet On The Western Front](http://twitter.com/search?q=All+Quiet+On+The+Western+Front) | N/A |
-| 35 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 36 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 37 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
-| 38 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 39 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 40 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 41 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 42 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
-| 43 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 44 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 45 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 46 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 33 | [Gotze](http://twitter.com/search?q=Gotze) | N/A |
+| 34 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 35 | [#GranAcomodo](http://twitter.com/search?q=%23GranAcomodo) | N/A |
+| 36 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 37 | [All Quiet On The Western Front](http://twitter.com/search?q=All+Quiet+On+The+Western+Front) | N/A |
+| 38 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
+| 39 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 40 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
+| 41 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 42 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 43 | [Sin Novedad](http://twitter.com/search?q=Sin+Novedad) | N/A |
+| 44 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
+| 45 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 47 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 49 | [Sin Novedad](http://twitter.com/search?q=Sin+Novedad) | N/A |
-| 50 | [CON NACHO A LA FINAL](http://twitter.com/search?q=CON+NACHO+A+LA+FINAL) | N/A |
+| 48 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 49 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 50 | [Lenny Kravitz](http://twitter.com/search?q=Lenny+Kravitz) | N/A |
 
 
 

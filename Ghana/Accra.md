@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-13 02:36:03 UTC`
+📆 Last Updated: `2023-03-13 03:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 2 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
+| 1 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
+| 2 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 5 | [#GameAnalyst](http://twitter.com/search?q=%23GameAnalyst) | N/A |
-| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 7 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 8 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 9 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 10 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
+| 5 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 6 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 7 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 8 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 9 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 10 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 12 | [#bouliv](http://twitter.com/search?q=%23bouliv) | N/A |
+| 13 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
 | 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 15 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
 | 16 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 34 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 35 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 36 | [gambo](http://twitter.com/search?q=gambo) | N/A |
-| 37 | [What is 50](http://twitter.com/search?q=What+is+50) | N/A |
+| 37 | [what is 50](http://twitter.com/search?q=what+is+50) | N/A |
 | 38 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 39 | [Anita](http://twitter.com/search?q=Anita) | N/A |
 | 40 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 02:36:29 UTC`
+📆 Last Updated: `2023-03-13 03:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CluSta](http://twitter.com/search?q=%23CluSta) | N/A |
-| 2 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
 | 4 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
 | 5 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
 | 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
@@ -42,7 +42,7 @@ This is top 50 for Belgium
 | 25 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
 | 26 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
 | 27 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 28 | [Seraing](http://twitter.com/search?q=Seraing) | N/A |
+| 28 | [seraing](http://twitter.com/search?q=seraing) | N/A |
 | 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 30 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
 | 31 | [J'attends](http://twitter.com/search?q=J%27attends) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Belgium
 | 36 | [Brest](http://twitter.com/search?q=Brest) | N/A |
 | 37 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 38 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 39 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 39 | [gaudu](http://twitter.com/search?q=gaudu) | N/A |
 | 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
 | 42 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |

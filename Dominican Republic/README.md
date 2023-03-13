@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-13 02:36:30 UTC`
+📆 Last Updated: `2023-03-13 03:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,13 +27,13 @@ This is top 50 for Dominican Republic
 | 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 11 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
 | 12 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 13 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
-| 14 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 14 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
 | 15 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 16 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 | 17 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
 | 18 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 19 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
+| 19 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
 | 20 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
 | 21 | [vamos rd](http://twitter.com/search?q=vamos+rd) | N/A |
 | 22 | [Ramiro Matos](http://twitter.com/search?q=Ramiro+Matos) | N/A |

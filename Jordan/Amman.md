@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-13 02:36:08 UTC`
+📆 Last Updated: `2023-03-13 03:16:12 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-13 02:36:35 UTC`
+📆 Last Updated: `2023-03-13 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 4 | [#WELvSYD](http://twitter.com/search?q=%23WELvSYD) | N/A |
-| 5 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 6 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
-| 7 | [#MCRAUCKLAND](http://twitter.com/search?q=%23MCRAUCKLAND) | N/A |
-| 8 | [Big Gay Out](http://twitter.com/search?q=Big+Gay+Out) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 3 | [#WELvSYD](http://twitter.com/search?q=%23WELvSYD) | N/A |
+| 4 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 5 | [#NRLTigersKnights](http://twitter.com/search?q=%23NRLTigersKnights) | N/A |
+| 6 | [#MCRAUCKLAND](http://twitter.com/search?q=%23MCRAUCKLAND) | N/A |
+| 7 | [Big Gay Out](http://twitter.com/search?q=Big+Gay+Out) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 10 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
 | 11 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 12 | [Christians](http://twitter.com/search?q=Christians) | N/A |

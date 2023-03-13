@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-13 02:35:50 UTC`
+📆 Last Updated: `2023-03-13 03:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 18 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 19 | [Paga](http://twitter.com/search?q=Paga) | N/A |
 | 20 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 21 | [Uzreiz](http://twitter.com/search?q=Uzreiz) | N/A |
+| 21 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
 | 22 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 23 | [nevis](http://twitter.com/search?q=nevis) | N/A |
 | 24 | [tavs](http://twitter.com/search?q=tavs) | N/A |

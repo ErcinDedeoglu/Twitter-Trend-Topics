@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-13 02:35:51 UTC`
+📆 Last Updated: `2023-03-13 03:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 7 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 8 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
 | 9 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 10 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
+| 10 | [nordman](http://twitter.com/search?q=nordman) | N/A |
 | 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
 | 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 21 | [theoz](http://twitter.com/search?q=theoz) | N/A |
 | 22 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 24 | [boden](http://twitter.com/search?q=boden) | N/A |
 | 25 | [habib chaab](http://twitter.com/search?q=habib+chaab) | N/A |
 | 26 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
 | 27 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
@@ -51,7 +51,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 34 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |
 | 35 | [LINDBERG](http://twitter.com/search?q=LINDBERG) | N/A |
 | 36 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 37 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
+| 37 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
 | 38 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 39 | [Edvardsen](http://twitter.com/search?q=Edvardsen) | N/A |
 | 40 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-13 02:35:50 UTC`
+📆 Last Updated: `2023-03-13 03:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 11 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
 | 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
-| 14 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 13 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 14 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 15 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 | 16 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 17 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 28 | [ganser](http://twitter.com/search?q=ganser) | N/A |
 | 29 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 30 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
-| 31 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 31 | [immerhin](http://twitter.com/search?q=immerhin) | N/A |
 | 32 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 33 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
 | 34 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
@@ -61,7 +61,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
 | 45 | [Regel](http://twitter.com/search?q=Regel) | N/A |
 | 46 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 47 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 47 | [journalismus](http://twitter.com/search?q=journalismus) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-13 02:36:12 UTC`
+📆 Last Updated: `2023-03-13 03:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,23 +18,23 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
 | 2 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
 | 3 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
-| 4 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 4 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
 | 5 | [#مریم_چورنی_پاگل_ہوگئی](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%86%d9%88%d8%b1%d9%86%db%8c_%d9%be%d8%a7%da%af%d9%84_%db%81%d9%88%da%af%d8%a6%db%8c) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 7 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 8 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
 | 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 10 | [section 144](http://twitter.com/search?q=section+144) | N/A |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [khurram](http://twitter.com/search?q=khurram) | N/A |
-| 13 | [Ban Nasra School](http://twitter.com/search?q=Ban+Nasra+School) | N/A |
-| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 11 | [khurram](http://twitter.com/search?q=khurram) | N/A |
+| 12 | [Ban Nasra School](http://twitter.com/search?q=Ban+Nasra+School) | N/A |
+| 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 15 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 16 | [Abbas afridi](http://twitter.com/search?q=Abbas+afridi) | N/A |
-| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 19 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
-| 20 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 18 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
+| 19 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 21 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
 | 22 | [Gold](http://twitter.com/search?q=Gold) | N/A |
 | 23 | [pindi](http://twitter.com/search?q=pindi) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 44 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
 | 45 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 46 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 47 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
-| 48 | [CM Punjab](http://twitter.com/search?q=CM+Punjab) | N/A |
-| 49 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 50 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 46 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 47 | [CM Punjab](http://twitter.com/search?q=CM+Punjab) | N/A |
+| 48 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 49 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 50 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
 
 
 

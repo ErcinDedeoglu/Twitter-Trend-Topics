@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-13 02:36:28 UTC`
+📆 Last Updated: `2023-03-13 03:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for Australia
 | 8 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
 | 9 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 10 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 11 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 12 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 13 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 16 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 17 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 11 | [BRONTE](http://twitter.com/search?q=BRONTE) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 14 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 15 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 16 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 18 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
 | 19 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 20 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
@@ -41,16 +41,16 @@ This is top 50 for Australia
 | 24 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
 | 25 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
 | 26 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 27 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 28 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 29 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 30 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 31 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 32 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 27 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 28 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 29 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 30 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 31 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 33 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
 | 34 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 35 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
-| 36 | [Australian Ethical](http://twitter.com/search?q=Australian+Ethical) | N/A |
+| 36 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
 | 37 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 38 | [Labour Day](http://twitter.com/search?q=Labour+Day) | N/A |
 | 39 | [Lendlease](http://twitter.com/search?q=Lendlease) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Australia
 | 42 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 43 | [Talau](http://twitter.com/search?q=Talau) | N/A |
 | 44 | [Adelaide Cup](http://twitter.com/search?q=Adelaide+Cup) | N/A |
-| 45 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 46 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 47 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 48 | [Hats](http://twitter.com/search?q=Hats) | N/A |
-| 49 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 50 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 46 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 47 | [Hats](http://twitter.com/search?q=Hats) | N/A |
+| 48 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 49 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 50 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 
 
 

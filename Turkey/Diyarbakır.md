@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-13 02:36:15 UTC`
+📆 Last Updated: `2023-03-13 03:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,34 +36,34 @@ This is top 50 for [Turkey](</Turkey>)
 | 19 | [testere necmi](http://twitter.com/search?q=testere+necmi) | N/A |
 | 20 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
 | 21 | [milli şairimiz](http://twitter.com/search?q=milli+%c5%9fairimiz) | N/A |
-| 22 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
-| 23 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
-| 24 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 25 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 26 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 27 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 28 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 22 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 23 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
+| 24 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 25 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 26 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 27 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
 | 29 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
 | 30 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
 | 31 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
-| 32 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 33 | [hakkıdır](http://twitter.com/search?q=hakk%c4%b1d%c4%b1r) | N/A |
-| 34 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 35 | [edin visca](http://twitter.com/search?q=edin+visca) | N/A |
-| 36 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 37 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 38 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
-| 39 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 40 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
-| 41 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
-| 42 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
-| 43 | [TaşeronSorunu HalaDuruyor](http://twitter.com/search?q=Ta%c5%9feronSorunu+HalaDuruyor) | N/A |
-| 44 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
-| 45 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 46 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
-| 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 48 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
-| 49 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 32 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 33 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 34 | [hakkıdır](http://twitter.com/search?q=hakk%c4%b1d%c4%b1r) | N/A |
+| 35 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 36 | [edin visca](http://twitter.com/search?q=edin+visca) | N/A |
+| 37 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 38 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 39 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 40 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 41 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 42 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
+| 43 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
+| 44 | [TaşeronSorunu HalaDuruyor](http://twitter.com/search?q=Ta%c5%9feronSorunu+HalaDuruyor) | N/A |
+| 45 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 46 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 47 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
+| 48 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 49 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 
 
 

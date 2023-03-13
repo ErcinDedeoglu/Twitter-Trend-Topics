@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-13 02:36:25 UTC`
+📆 Last Updated: `2023-03-13 03:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [The Boy](http://twitter.com/search?q=The+Boy) | N/A |
-| 2 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
-| 3 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 4 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
-| 5 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
-| 6 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 7 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
-| 8 | [Freaky Friday](http://twitter.com/search?q=Freaky+Friday) | N/A |
+| 2 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
+| 3 | [The Elephant Whisperers](http://twitter.com/search?q=The+Elephant+Whisperers) | N/A |
+| 4 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
+| 5 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 6 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
+| 7 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
+| 8 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
 | 9 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
-| 10 | [Best Animated Feature](http://twitter.com/search?q=Best+Animated+Feature) | N/A |
-| 11 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
-| 12 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 13 | [Fire of Love](http://twitter.com/search?q=Fire+of+Love) | N/A |
+| 10 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 11 | [Best Animated Feature](http://twitter.com/search?q=Best+Animated+Feature) | N/A |
+| 12 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 13 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
 | 14 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 15 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
@@ -40,31 +40,31 @@ This is top 50 for [United States](</United States>)
 | 23 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
 | 24 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 | 25 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 26 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 27 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 28 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
-| 29 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 27 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 29 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
 | 30 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
 | 31 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 32 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 33 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 34 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 35 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 36 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 32 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 33 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 34 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
+| 35 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 36 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
 | 37 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 38 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 38 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 39 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
-| 40 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 41 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 40 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
+| 41 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 42 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 43 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 44 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 45 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 46 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
-| 47 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 48 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 49 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 50 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 43 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 44 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 45 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 46 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 47 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 48 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 49 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 50 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
 
 
 

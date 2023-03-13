@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-13 02:36:33 UTC`
+📆 Last Updated: `2023-03-13 03:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HapaNdipo](http://twitter.com/search?q=%23HapaNdipo) | N/A |
-| 2 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
+| 1 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
+| 2 | [#HapaNdipo](http://twitter.com/search?q=%23HapaNdipo) | N/A |
 | 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
 | 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 5 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for Kenya
 | 10 | [rigathi gachagua](http://twitter.com/search?q=rigathi+gachagua) | N/A |
 | 11 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
 | 12 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 13 | [#MKO2023](http://twitter.com/search?q=%23MKO2023) | N/A |
+| 13 | [#mko2023](http://twitter.com/search?q=%23mko2023) | N/A |
 | 14 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 15 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 16 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Kenya
 | 36 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 37 | [Benji](http://twitter.com/search?q=Benji) | N/A |
 | 38 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 39 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 39 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
 | 40 | [EACC](http://twitter.com/search?q=EACC) | N/A |
 | 41 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 42 | [Church](http://twitter.com/search?q=Church) | N/A |

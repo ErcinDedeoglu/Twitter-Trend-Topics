@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-13 02:36:31 UTC`
+📆 Last Updated: `2023-03-13 03:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Germany
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
 | 3 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
-| 4 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 4 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
 | 5 | [#ImWestenNichtsNeues](http://twitter.com/search?q=%23ImWestenNichtsNeues) | N/A |
 | 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Germany
 | 35 | [zeugen jehovas](http://twitter.com/search?q=zeugen+jehovas) | N/A |
 | 36 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 37 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 38 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 38 | [malen](http://twitter.com/search?q=malen) | N/A |
 | 39 | [heyer](http://twitter.com/search?q=heyer) | N/A |
-| 40 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 40 | [mannschaft](http://twitter.com/search?q=mannschaft) | N/A |
 | 41 | [wölfin](http://twitter.com/search?q=w%c3%b6lfin) | N/A |
 | 42 | [klassenerhalt](http://twitter.com/search?q=klassenerhalt) | N/A |
 | 43 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |

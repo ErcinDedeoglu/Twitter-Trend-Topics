@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-13 02:35:42 UTC`
+📆 Last Updated: `2023-03-13 03:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 7 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 8 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 9 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 9 | [auswirkungen](http://twitter.com/search?q=auswirkungen) | N/A |
 | 10 | [kanzlerrede](http://twitter.com/search?q=kanzlerrede) | N/A |
-| 11 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 11 | [unglaublich](http://twitter.com/search?q=unglaublich) | N/A |
 | 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 13 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 14 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 18 | [technologien](http://twitter.com/search?q=technologien) | N/A |
 | 19 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 20 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 20 | [verbrechen](http://twitter.com/search?q=verbrechen) | N/A |
 | 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 23 | [Neos](http://twitter.com/search?q=Neos) | N/A |

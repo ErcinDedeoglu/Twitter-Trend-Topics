@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-13 02:36:30 UTC`
+📆 Last Updated: `2023-03-13 03:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,22 +49,22 @@ This is top 50 for Egypt
 | 32 | [انتوني تايلور](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a+%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
 | 33 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
 | 34 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
-| 35 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 36 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 37 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 38 | [تريكة](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
-| 39 | [الابن الضال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%b6%d8%a7%d9%84) | N/A |
-| 40 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
-| 41 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
-| 42 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 43 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 44 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 45 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 46 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 47 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 48 | [التجمع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 49 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 50 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
+| 35 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 36 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 37 | [تريكة](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
+| 38 | [الابن الضال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%b6%d8%a7%d9%84) | N/A |
+| 39 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
+| 40 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
+| 41 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 42 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 43 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 44 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 45 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 46 | [التجمع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 47 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 48 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
+| 49 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
+| 50 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
 
 
 

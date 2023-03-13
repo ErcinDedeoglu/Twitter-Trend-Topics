@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 02:36:30 UTC`
+📆 Last Updated: `2023-03-13 03:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,8 +63,8 @@ This is top 50 for Denmark
 | 46 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
 | 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 49 | [saudi arabien](http://twitter.com/search?q=saudi+arabien) | N/A |
-| 50 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 49 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 
 
 
