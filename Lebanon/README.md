@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-13 01:44:21 UTC`
+📆 Last Updated: `2023-03-13 02:36:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Lebanon
 | 5 | [الروح الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%ad+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
 | 6 | [#احد_مبارك](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%af_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 7 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 8 | [الدوري اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 9 | [ملعب جونيه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%ac%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 8 | [ملعب جونيه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%ac%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [الدوري اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
 | 10 | [نبيل بدر](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%84+%d8%a8%d8%af%d8%b1) | N/A |
 | 11 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 | 12 | [راغب حرب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%ba%d8%a8+%d8%ad%d8%b1%d8%a8) | N/A |

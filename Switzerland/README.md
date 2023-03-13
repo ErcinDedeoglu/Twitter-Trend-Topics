@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-13 01:44:24 UTC`
+📆 Last Updated: `2023-03-13 02:36:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Switzerland
 | 11 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
 | 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 13 | [Kreisen](http://twitter.com/search?q=Kreisen) | N/A |
-| 14 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 14 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 15 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 | 16 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 17 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Switzerland
 | 35 | [Eier](http://twitter.com/search?q=Eier) | N/A |
 | 36 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 | 37 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 38 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 38 | [willen](http://twitter.com/search?q=willen) | N/A |
 | 39 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 40 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 40 | [idioten](http://twitter.com/search?q=idioten) | N/A |
 | 41 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 | 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 43 | [Pause](http://twitter.com/search?q=Pause) | N/A |

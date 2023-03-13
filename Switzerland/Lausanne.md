@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-13 01:43:48 UTC`
+📆 Last Updated: `2023-03-13 02:35:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,9 +52,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 35 | [Eier](http://twitter.com/search?q=Eier) | N/A |
 | 36 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 | 37 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 38 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 38 | [willen](http://twitter.com/search?q=willen) | N/A |
 | 39 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 40 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 40 | [idioten](http://twitter.com/search?q=idioten) | N/A |
 | 41 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 | 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 43 | [Pause](http://twitter.com/search?q=Pause) | N/A |

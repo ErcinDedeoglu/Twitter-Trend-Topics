@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 01:44:18 UTC`
+📆 Last Updated: `2023-03-13 02:36:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,23 +16,23 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CluSta](http://twitter.com/search?q=%23CluSta) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
-| 4 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
-| 5 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
+| 2 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
+| 5 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
 | 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 8 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
 | 9 | [perica](http://twitter.com/search?q=perica) | N/A |
 | 10 | [visser](http://twitter.com/search?q=visser) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [cercle](http://twitter.com/search?q=cercle) | N/A |
-| 14 | [deila](http://twitter.com/search?q=deila) | N/A |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
-| 17 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 18 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 12 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 13 | [deila](http://twitter.com/search?q=deila) | N/A |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
+| 16 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 17 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 20 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 21 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
@@ -58,8 +58,8 @@ This is top 50 for Belgium
 | 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
 | 42 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
 | 43 | [rwdm](http://twitter.com/search?q=rwdm) | N/A |
-| 44 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 45 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
+| 44 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
+| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
 | 46 | [geloof](http://twitter.com/search?q=geloof) | N/A |
 | 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |

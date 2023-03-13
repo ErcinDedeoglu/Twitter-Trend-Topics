@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-13 01:44:09 UTC`
+📆 Last Updated: `2023-03-13 02:36:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 1 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 2 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 3 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 4 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 5 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 7 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 8 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 9 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 10 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 11 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 8 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 9 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 10 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 11 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
 | 12 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 13 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 13 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
 | 14 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 15 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 16 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 17 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 18 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
-| 19 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 20 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 21 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 22 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 23 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 24 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 25 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 26 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 27 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 28 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 29 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 30 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 31 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 32 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 33 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 34 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 35 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
-| 36 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 37 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
-| 38 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 39 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 40 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 41 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 42 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 44 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
-| 45 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
-| 46 | [Riz Ahmed](http://twitter.com/search?q=Riz+Ahmed) | Riz Ahmed is a British actor, rapper, and activist. He is best known for his roles in films such as Rogue One: A Star Wars Story, Venom, and The Night Of. He has also appeared in television series such as The OA and Four Lions. His activism focuses on issues of representation and diversity in the media. |
-| 47 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 48 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 49 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 50 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
+| 15 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 16 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 17 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 18 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 19 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
+| 20 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 21 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 22 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 23 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 24 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 25 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 26 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 27 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 28 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 29 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
+| 30 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 31 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 32 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 33 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 34 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
+| 35 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 36 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 37 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 38 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 39 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 40 | [Elizabeth Banks](http://twitter.com/search?q=Elizabeth+Banks) | N/A |
+| 41 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 42 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 43 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 44 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 45 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 46 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 47 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
+| 48 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
+| 49 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 50 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 
 
 

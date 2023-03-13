@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-03-13 01:43:36 UTC`
+📆 Last Updated: `2023-03-13 02:35:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 3 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 3 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 4 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 5 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 6 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
-| 7 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 8 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 9 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 10 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 11 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 12 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 13 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 14 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 15 | [#Navalny](http://twitter.com/search?q=%23Navalny) | N/A |
-| 16 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 17 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 19 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 20 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 21 | [Mejor Actriz de Reparto](http://twitter.com/search?q=Mejor+Actriz+de+Reparto) | N/A |
-| 22 | [James Friend](http://twitter.com/search?q=James+Friend) | N/A |
-| 23 | [Mejor Fotografía](http://twitter.com/search?q=Mejor+Fotograf%c3%ada) | N/A |
-| 24 | [Cara Delevingne](http://twitter.com/search?q=Cara+Delevingne) | N/A |
-| 25 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 26 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
-| 27 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 28 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 29 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 30 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
-| 31 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 32 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
-| 33 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 34 | [Jonathan Ke Quan](http://twitter.com/search?q=Jonathan+Ke+Quan) | N/A |
-| 35 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 36 | [Cuarón](http://twitter.com/search?q=Cuar%c3%b3n) | N/A |
-| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 38 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
-| 39 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 40 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 41 | [AMOR DE CINE DISCO DE ORO](http://twitter.com/search?q=AMOR+DE+CINE+DISCO+DE+ORO) | N/A |
-| 42 | [Antonio Banderas](http://twitter.com/search?q=Antonio+Banderas) | N/A |
-| 43 | [Acertijo](http://twitter.com/search?q=Acertijo) | N/A |
-| 44 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 45 | [CUPIDO HACE MALAS DECISIONES](http://twitter.com/search?q=CUPIDO+HACE+MALAS+DECISIONES) | N/A |
-| 46 | [Mitski](http://twitter.com/search?q=Mitski) | N/A |
-| 47 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 48 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 49 | [Bardo](http://twitter.com/search?q=Bardo) | N/A |
-| 50 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
+| 5 | [#pinocchiomovie](http://twitter.com/search?q=%23pinocchiomovie) | N/A |
+| 6 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 7 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
+| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 10 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 11 | [Mejor Película Animada](http://twitter.com/search?q=Mejor+Pel%c3%adcula+Animada) | N/A |
+| 12 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 13 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 14 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 15 | [Salma Hayek](http://twitter.com/search?q=Salma+Hayek) | N/A |
+| 16 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 17 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 18 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 19 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 20 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 21 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 22 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 23 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 24 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 25 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 26 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 27 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
+| 28 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 29 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 30 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 31 | [Mejor Fotografía](http://twitter.com/search?q=Mejor+Fotograf%c3%ada) | N/A |
+| 32 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 33 | [Eva Longoria](http://twitter.com/search?q=Eva+Longoria) | N/A |
+| 34 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 35 | [James Friend](http://twitter.com/search?q=James+Friend) | N/A |
+| 36 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 37 | [Mejor Actriz de Reparto](http://twitter.com/search?q=Mejor+Actriz+de+Reparto) | N/A |
+| 38 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 39 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 40 | [Cara Delevingne](http://twitter.com/search?q=Cara+Delevingne) | N/A |
+| 41 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 42 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 43 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
+| 44 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 45 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 46 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
+| 47 | [Jonathan Ke Quan](http://twitter.com/search?q=Jonathan+Ke+Quan) | N/A |
+| 48 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 49 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 50 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
 
 
 

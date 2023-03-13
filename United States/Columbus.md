@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-13 01:44:11 UTC`
+📆 Last Updated: `2023-03-13 02:36:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 2 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 1 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
 | 3 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 4 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 5 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 6 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 7 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
-| 8 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 13 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 14 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 15 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 16 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 5 | [Kent State](http://twitter.com/search?q=Kent+State) | N/A |
+| 6 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 7 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 12 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 14 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 15 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 16 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
 | 17 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 18 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 18 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
 | 19 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 20 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 21 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 22 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 23 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 24 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 25 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 26 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
-| 27 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 20 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 21 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 22 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 23 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
+| 24 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 27 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
 | 28 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 29 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 30 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 31 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 32 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 33 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 34 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 29 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 30 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 31 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 32 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 33 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 34 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
 | 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 36 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 37 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 39 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
-| 40 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
-| 41 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 42 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 43 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 44 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 45 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 46 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 47 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 48 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 49 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
-| 50 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
+| 36 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 37 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 38 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 39 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
+| 40 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 41 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 42 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 45 | [Elizabeth Banks](http://twitter.com/search?q=Elizabeth+Banks) | N/A |
+| 46 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 47 | [Black Panther](http://twitter.com/search?q=Black+Panther) | N/A |
+| 48 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 49 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 50 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 
 
 

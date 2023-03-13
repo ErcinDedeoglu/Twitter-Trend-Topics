@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-13 01:43:49 UTC`
+📆 Last Updated: `2023-03-13 02:35:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
 | 3 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
-| 4 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 4 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 5 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
-| 6 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
+| 6 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
 | 7 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 8 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
-| 9 | [manner](http://twitter.com/search?q=manner) | N/A |
+| 9 | [Manner](http://twitter.com/search?q=Manner) | N/A |
 | 10 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
 | 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
@@ -39,12 +39,12 @@ This is top 50 for [Sweden](</Sweden>)
 | 22 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 24 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 25 | [Habib Chaab](http://twitter.com/search?q=Habib+Chaab) | N/A |
-| 26 | [Alcén](http://twitter.com/search?q=Alc%c3%a9n) | N/A |
+| 25 | [habib chaab](http://twitter.com/search?q=habib+chaab) | N/A |
+| 26 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
 | 27 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
 | 28 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 29 | [Tone](http://twitter.com/search?q=Tone) | N/A |
-| 30 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
+| 30 | [martinus](http://twitter.com/search?q=martinus) | N/A |
 | 31 | [khazeni](http://twitter.com/search?q=khazeni) | N/A |
 | 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 33 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 46 | [wilderäng](http://twitter.com/search?q=wilder%c3%a4ng) | N/A |
 | 47 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
 | 48 | [gasten](http://twitter.com/search?q=gasten) | N/A |
-| 49 | [Tele 2](http://twitter.com/search?q=Tele+2) | N/A |
-| 50 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 49 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 50 | [håkan](http://twitter.com/search?q=h%c3%a5kan) | N/A |
 
 
 

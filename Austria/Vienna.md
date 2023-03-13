@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-13 01:43:42 UTC`
+📆 Last Updated: `2023-03-13 02:35:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,9 +41,9 @@ This is top 50 for [Austria](</Austria>)
 | 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 | 25 | [koalitionspartner](http://twitter.com/search?q=koalitionspartner) | N/A |
 | 26 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 27 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 27 | [irrtum](http://twitter.com/search?q=irrtum) | N/A |
 | 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 29 | [modell](http://twitter.com/search?q=modell) | N/A |
 | 30 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 31 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 32 | [Islam](http://twitter.com/search?q=Islam) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Austria](</Austria>)
 | 45 | [Karten](http://twitter.com/search?q=Karten) | N/A |
 | 46 | [nimm](http://twitter.com/search?q=nimm) | N/A |
 | 47 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 48 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 48 | [rauch](http://twitter.com/search?q=rauch) | N/A |
 | 49 | [Maul](http://twitter.com/search?q=Maul) | N/A |
 | 50 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
 

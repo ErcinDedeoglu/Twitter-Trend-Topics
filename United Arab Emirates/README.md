@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-13 01:44:18 UTC`
+📆 Last Updated: `2023-03-13 02:36:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for United Arab Emirates
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 4 | [#الوصل_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b5%d9%84_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 2 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 3 | [#الوصل_الشارقه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b5%d9%84_%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 5 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
 | 6 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
 | 7 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
@@ -34,12 +34,12 @@ This is top 50 for United Arab Emirates
 | 17 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
 | 18 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 19 | [صندوق النقد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af) | N/A |
-| 20 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 21 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 23 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 21 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 22 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 26 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 27 | [سامبدوريا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%a8%d8%af%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 28 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
@@ -47,8 +47,8 @@ This is top 50 for United Arab Emirates
 | 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 31 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
 | 32 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 33 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 34 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 33 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 34 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 35 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
 | 36 | [البنك الدوليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%8a%d9%86) | N/A |
 | 37 | [علي صالح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for United Arab Emirates
 | 45 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
 | 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 47 | [15 مارس](http://twitter.com/search?q=15+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 48 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [علي التعادل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 50 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
+| 48 | [علي التعادل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 49 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
+| 50 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 
 
 

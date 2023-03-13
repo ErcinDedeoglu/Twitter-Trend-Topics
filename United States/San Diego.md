@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-13 01:44:16 UTC`
+📆 Last Updated: `2023-03-13 02:36:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 2 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 3 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
-| 4 | [Freaky Friday](http://twitter.com/search?q=Freaky+Friday) | N/A |
-| 5 | [Fire of Love](http://twitter.com/search?q=Fire+of+Love) | N/A |
-| 6 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 7 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 8 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
-| 9 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
-| 10 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 11 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 12 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
-| 13 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 14 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
-| 15 | [Black Panther](http://twitter.com/search?q=Black+Panther) | N/A |
-| 16 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 17 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 18 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 19 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 20 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 21 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 22 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 23 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 24 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 25 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 26 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 27 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 28 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 29 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 30 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 1 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 2 | [The Boy](http://twitter.com/search?q=The+Boy) | N/A |
+| 3 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 4 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
+| 5 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 6 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
+| 7 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
+| 8 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 9 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
+| 10 | [Freaky Friday](http://twitter.com/search?q=Freaky+Friday) | N/A |
+| 11 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
+| 12 | [Best Animated Feature](http://twitter.com/search?q=Best+Animated+Feature) | N/A |
+| 13 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 14 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 15 | [Fire of Love](http://twitter.com/search?q=Fire+of+Love) | N/A |
+| 16 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 17 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 18 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 19 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 20 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 21 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 22 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 23 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 24 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 25 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 26 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 27 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 28 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 29 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 30 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
 | 31 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 32 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 33 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 34 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
-| 35 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 36 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 37 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 38 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 39 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 40 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 41 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 42 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 43 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 44 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 45 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 46 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 47 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 48 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 49 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
-| 50 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 32 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 33 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 34 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 35 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 36 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 37 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 38 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 39 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 40 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
+| 41 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 42 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 43 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 44 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 45 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
+| 46 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 47 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 48 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 49 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 50 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 
 
 

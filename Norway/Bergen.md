@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-13 01:43:48 UTC`
+📆 Last Updated: `2023-03-13 02:35:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 2 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 5 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
-| 6 | [Skeid](http://twitter.com/search?q=Skeid) | N/A |
+| 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 4 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
+| 5 | [Skeid](http://twitter.com/search?q=Skeid) | N/A |
+| 6 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 7 | [England](http://twitter.com/search?q=England) | N/A |
 | 8 | [mjøndalen](http://twitter.com/search?q=mj%c3%b8ndalen) | N/A |
 | 9 | [Rekdal](http://twitter.com/search?q=Rekdal) | N/A |
-| 10 | [Sogndal](http://twitter.com/search?q=Sogndal) | N/A |
+| 10 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 11 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
 | 12 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
 | 13 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
@@ -38,14 +38,14 @@ This is top 50 for [Norway](</Norway>)
 | 21 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 23 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
-| 24 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
+| 24 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
 | 25 | [tenk](http://twitter.com/search?q=tenk) | N/A |
 | 26 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
 | 27 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
 | 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 30 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 31 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 31 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 32 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 33 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
 | 34 | [Staten](http://twitter.com/search?q=Staten) | N/A |

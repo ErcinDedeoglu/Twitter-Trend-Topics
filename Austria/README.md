@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-13 01:44:18 UTC`
+📆 Last Updated: `2023-03-13 02:36:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Austria
 | 6 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 7 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 8 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 9 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 9 | [auswirkungen](http://twitter.com/search?q=auswirkungen) | N/A |
 | 10 | [kanzlerrede](http://twitter.com/search?q=kanzlerrede) | N/A |
 | 11 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
 | 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
@@ -41,9 +41,9 @@ This is top 50 for Austria
 | 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 | 25 | [koalitionspartner](http://twitter.com/search?q=koalitionspartner) | N/A |
 | 26 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 27 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 27 | [irrtum](http://twitter.com/search?q=irrtum) | N/A |
 | 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 29 | [modell](http://twitter.com/search?q=modell) | N/A |
 | 30 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 31 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 32 | [Islam](http://twitter.com/search?q=Islam) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Austria
 | 45 | [Karten](http://twitter.com/search?q=Karten) | N/A |
 | 46 | [nimm](http://twitter.com/search?q=nimm) | N/A |
 | 47 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 48 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 48 | [rauch](http://twitter.com/search?q=rauch) | N/A |
 | 49 | [Maul](http://twitter.com/search?q=Maul) | N/A |
 | 50 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
 

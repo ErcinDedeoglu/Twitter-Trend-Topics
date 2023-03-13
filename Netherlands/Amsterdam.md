@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-13 01:43:46 UTC`
+📆 Last Updated: `2023-03-13 02:35:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,24 +18,24 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
 | 2 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
 | 3 | [#feyvol](http://twitter.com/search?q=%23feyvol) | N/A |
-| 4 | [#linksomofrechtsom](http://twitter.com/search?q=%23linksomofrechtsom) | N/A |
-| 5 | [#psvcam](http://twitter.com/search?q=%23psvcam) | N/A |
+| 4 | [#psvcam](http://twitter.com/search?q=%23psvcam) | N/A |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 6 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 7 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 8 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 9 | [jurre](http://twitter.com/search?q=jurre) | N/A |
-| 10 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 13 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 15 | [vindicat](http://twitter.com/search?q=vindicat) | N/A |
-| 16 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 17 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 18 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 19 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 20 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 21 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
+| 7 | [jurre](http://twitter.com/search?q=jurre) | N/A |
+| 8 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 9 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 10 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 11 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 12 | [vindicat](http://twitter.com/search?q=vindicat) | N/A |
+| 13 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 14 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 15 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
+| 16 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 17 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 18 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 19 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 20 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
+| 21 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
 | 22 | [daniël](http://twitter.com/search?q=dani%c3%abl) | N/A |
 | 23 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
 | 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
@@ -56,15 +56,15 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 39 | [cambuur](http://twitter.com/search?q=cambuur) | N/A |
 | 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 41 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 42 | [Ter Apel](http://twitter.com/search?q=Ter+Apel) | N/A |
-| 43 | [Wie Is De Mol](http://twitter.com/search?q=Wie+Is+De+Mol) | N/A |
-| 44 | [rensch](http://twitter.com/search?q=rensch) | N/A |
-| 45 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 46 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |
-| 47 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 48 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
-| 49 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 50 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 42 | [Wie Is De Mol](http://twitter.com/search?q=Wie+Is+De+Mol) | N/A |
+| 43 | [rensch](http://twitter.com/search?q=rensch) | N/A |
+| 44 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 45 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |
+| 46 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
+| 47 | [Mores](http://twitter.com/search?q=Mores) | N/A |
+| 48 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 49 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 50 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 
 
 
