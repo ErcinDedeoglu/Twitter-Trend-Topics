@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-13 03:16:34 UTC`
+📆 Last Updated: `2023-03-13 04:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 5 | [московия](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
-| 6 | [#开云体育](http://twitter.com/search?q=%23%e5%bc%80%e4%ba%91%e4%bd%93%e8%82%b2) | N/A |
-| 7 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
+| 1 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 4 | [московия](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
+| 5 | [#开云体育](http://twitter.com/search?q=%23%e5%bc%80%e4%ba%91%e4%bd%93%e8%82%b2) | N/A |
+| 6 | [#globalcrisis](http://twitter.com/search?q=%23globalcrisis) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 9 | [бахмута](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
-| 10 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 11 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
-| 12 | [Zaporizhzhia](http://twitter.com/search?q=Zaporizhzhia) | N/A |
+| 10 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 11 | [скоро](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%be) | N/A |
+| 12 | [zaporizhzhia](http://twitter.com/search?q=zaporizhzhia) | N/A |
 | 13 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
 | 14 | [русня](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%bd%d1%8f) | N/A |
 | 15 | [краса](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0) | N/A |
@@ -46,12 +46,12 @@ This is top 50 for Ukraine
 | 29 | [Armed Forces of Ukraine](http://twitter.com/search?q=Armed+Forces+of+Ukraine) | N/A |
 | 30 | [нема](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bc%d0%b0) | N/A |
 | 31 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 32 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 33 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 34 | [прикольно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 35 | [русь](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 36 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 32 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 33 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 34 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 35 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 36 | [русь](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 37 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
 | 38 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
 | 39 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 | 40 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |

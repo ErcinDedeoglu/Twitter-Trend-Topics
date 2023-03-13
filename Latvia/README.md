@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 03:16:31 UTC`
+📆 Last Updated: `2023-03-13 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 1 | [latviju](http://twitter.com/search?q=latviju) | N/A |
 | 2 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
 | 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 4 | [Visi](http://twitter.com/search?q=Visi) | N/A |
@@ -42,11 +42,11 @@ This is top 50 for Latvia
 | 25 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 26 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 27 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 28 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 28 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 29 | [tavu](http://twitter.com/search?q=tavu) | N/A |
-| 30 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 31 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
-| 32 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 30 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 31 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 32 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
 | 33 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 34 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 | 35 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |

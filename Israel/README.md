@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-13 03:16:30 UTC`
+📆 Last Updated: `2023-03-13 04:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,11 +60,11 @@ This is top 50 for Israel
 | 43 | [של בנק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%a7) | N/A |
 | 44 | [משה קראדי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a7%d7%a8%d7%90%d7%93%d7%99) | N/A |
 | 45 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 46 | [כך הם](http://twitter.com/search?q=%d7%9b%d7%9a+%d7%94%d7%9d) | N/A |
-| 47 | [של דמוקרטיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
-| 48 | [אורלי לב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9c%d7%99+%d7%9c%d7%91) | N/A |
-| 49 | [מנור סולומון](http://twitter.com/search?q=%d7%9e%d7%a0%d7%95%d7%a8+%d7%a1%d7%95%d7%9c%d7%95%d7%9e%d7%95%d7%9f) | N/A |
-| 50 | [עד תום](http://twitter.com/search?q=%d7%a2%d7%93+%d7%aa%d7%95%d7%9d) | N/A |
+| 46 | [של דמוקרטיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
+| 47 | [אורלי לב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9c%d7%99+%d7%9c%d7%91) | N/A |
+| 48 | [מנור סולומון](http://twitter.com/search?q=%d7%9e%d7%a0%d7%95%d7%a8+%d7%a1%d7%95%d7%9c%d7%95%d7%9e%d7%95%d7%9f) | N/A |
+| 49 | [עד תום](http://twitter.com/search?q=%d7%a2%d7%93+%d7%aa%d7%95%d7%9d) | N/A |
+| 50 | [הראשון של](http://twitter.com/search?q=%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
 
 
 

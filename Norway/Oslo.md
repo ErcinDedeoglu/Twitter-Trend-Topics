@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-13 03:15:59 UTC`
+📆 Last Updated: `2023-03-13 04:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for [Norway](</Norway>)
 | 18 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
 | 19 | [Molde](http://twitter.com/search?q=Molde) | N/A |
 | 20 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 21 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 21 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 23 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
 | 24 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
@@ -52,12 +52,12 @@ This is top 50 for [Norway](</Norway>)
 | 35 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 36 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 37 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 38 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 38 | [norwegians](http://twitter.com/search?q=norwegians) | N/A |
 | 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 40 | [obos](http://twitter.com/search?q=obos) | N/A |
 | 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 42 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
-| 43 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 43 | [brann](http://twitter.com/search?q=brann) | N/A |
 | 44 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
 | 45 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
 | 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |

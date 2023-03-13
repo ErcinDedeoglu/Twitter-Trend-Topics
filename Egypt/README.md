@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-13 03:16:29 UTC`
+📆 Last Updated: `2023-03-13 04:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Egypt
 | 12 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 13 | [المركز الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 14 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 15 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 16 | [رفيق كابو](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d9%83%d8%a7%d8%a8%d9%88) | N/A |
-| 17 | [تراك بابلو](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%83+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
-| 18 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 19 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 20 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 21 | [فيلا محمد صلاح](http://twitter.com/search?q=%d9%81%d9%8a%d9%84%d8%a7+%d9%85%d8%ad%d9%85%d8%af+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
-| 22 | [#كفايه_يا_خطيب](http://twitter.com/search?q=%23%d9%83%d9%81%d8%a7%d9%8a%d9%87_%d9%8a%d8%a7_%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 23 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
-| 24 | [وايل جمعه](http://twitter.com/search?q=%d9%88%d8%a7%d9%8a%d9%84+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 25 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 26 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 27 | [ويليامز](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%85%d8%b2) | N/A |
-| 28 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 15 | [رفيق كابو](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d9%83%d8%a7%d8%a8%d9%88) | N/A |
+| 16 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 17 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 18 | [فيلا محمد صلاح](http://twitter.com/search?q=%d9%81%d9%8a%d9%84%d8%a7+%d9%85%d8%ad%d9%85%d8%af+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
+| 19 | [#كفايه_يا_خطيب](http://twitter.com/search?q=%23%d9%83%d9%81%d8%a7%d9%8a%d9%87_%d9%8a%d8%a7_%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
+| 20 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 21 | [وايل جمعه](http://twitter.com/search?q=%d9%88%d8%a7%d9%8a%d9%84+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 22 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 23 | [ويليامز](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%85%d8%b2) | N/A |
+| 24 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 25 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 26 | [انتوني تايلور](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a+%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
+| 27 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 28 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
 | 29 | [مروان بابلو](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
-| 30 | [الشباب التايهه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d9%87%d9%87) | N/A |
-| 31 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 32 | [انتوني تايلور](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a+%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
-| 33 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 34 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
-| 35 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 36 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 37 | [تريكة](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
+| 30 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 31 | [تريكة](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
+| 32 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 33 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
+| 34 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
+| 35 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 36 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 37 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 38 | [الابن الضال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%b6%d8%a7%d9%84) | N/A |
-| 39 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
-| 40 | [علي الدكه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%83%d9%87) | N/A |
-| 41 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 42 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 43 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 44 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 45 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 46 | [التجمع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 47 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 48 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 49 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
-| 50 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 39 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 40 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 41 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 42 | [التجمع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 43 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 44 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
+| 45 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
+| 46 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 47 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 48 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 49 | [تراك بابلو](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%83+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
+| 50 | [آرسنال](http://twitter.com/search?q=%d8%a2%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-13 03:15:58 UTC`
+📆 Last Updated: `2023-03-13 04:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 4 | [berset](http://twitter.com/search?q=berset) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 20 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 21 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 22 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 22 | [bildung](http://twitter.com/search?q=bildung) | N/A |
 | 23 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 24 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
 | 25 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Eier](http://twitter.com/search?q=Eier) | N/A |
 | 34 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 | 35 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 36 | [willen](http://twitter.com/search?q=willen) | N/A |
+| 36 | [Willen](http://twitter.com/search?q=Willen) | N/A |
 | 37 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
 | 38 | [idioten](http://twitter.com/search?q=idioten) | N/A |
 | 39 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |

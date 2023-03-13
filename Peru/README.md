@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-13 03:16:32 UTC`
+📆 Last Updated: `2023-03-13 04:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 3 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 4 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 5 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 6 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 7 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 8 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 2 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 3 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 6 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 7 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 8 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 9 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 11 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 12 | [Cordova](http://twitter.com/search?q=Cordova) | N/A |
-| 13 | [Ugarriza](http://twitter.com/search?q=Ugarriza) | N/A |
-| 14 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 15 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 16 | [Garcilaso](http://twitter.com/search?q=Garcilaso) | N/A |
-| 17 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 19 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 20 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
-| 21 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 22 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 23 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 24 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
-| 25 | [Kevin Ortega](http://twitter.com/search?q=Kevin+Ortega) | N/A |
-| 26 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 27 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
-| 28 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 29 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 30 | [le tongue](http://twitter.com/search?q=le+tongue) | N/A |
-| 31 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 34 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
-| 35 | [Donen](http://twitter.com/search?q=Donen) | N/A |
-| 36 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
-| 37 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
-| 38 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 39 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 40 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 41 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 42 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 44 | [Stick](http://twitter.com/search?q=Stick) | N/A |
-| 45 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 46 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 47 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 48 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
-| 49 | [lizzie](http://twitter.com/search?q=lizzie) | N/A |
-| 50 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 10 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 11 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 12 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 13 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
+| 14 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 15 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 16 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 17 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 18 | [Garcilaso](http://twitter.com/search?q=Garcilaso) | N/A |
+| 19 | [#lluvias](http://twitter.com/search?q=%23lluvias) | N/A |
+| 20 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 21 | [le tongue](http://twitter.com/search?q=le+tongue) | N/A |
+| 22 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 23 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
+| 24 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 25 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 26 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 27 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 28 | [Donen](http://twitter.com/search?q=Donen) | N/A |
+| 29 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
+| 30 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
+| 31 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 32 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
+| 33 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 34 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 35 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 36 | [Matute](http://twitter.com/search?q=Matute) | N/A |
+| 37 | [Stick](http://twitter.com/search?q=Stick) | N/A |
+| 38 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [Ugarriza](http://twitter.com/search?q=Ugarriza) | N/A |
+| 41 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 42 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 43 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 44 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 45 | [lizzie](http://twitter.com/search?q=lizzie) | N/A |
+| 46 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
+| 47 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 48 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 49 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 50 | [Palacin](http://twitter.com/search?q=Palacin) | N/A |
 
 
 

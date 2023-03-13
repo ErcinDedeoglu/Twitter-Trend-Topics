@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 03:16:28 UTC`
+📆 Last Updated: `2023-03-13 04:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CluSta](http://twitter.com/search?q=%23CluSta) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
+| 1 | [#CLUSTA](http://twitter.com/search?q=%23CLUSTA) | N/A |
+| 2 | [#andcer](http://twitter.com/search?q=%23andcer) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 4 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
 | 5 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
 | 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 8 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 8 | [yoka](http://twitter.com/search?q=yoka) | N/A |
 | 9 | [perica](http://twitter.com/search?q=perica) | N/A |
 | 10 | [visser](http://twitter.com/search?q=visser) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Belgium
 | 28 | [seraing](http://twitter.com/search?q=seraing) | N/A |
 | 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 30 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 31 | [J'attends](http://twitter.com/search?q=J%27attends) | N/A |
+| 31 | [j'attends](http://twitter.com/search?q=j%27attends) | N/A |
 | 32 | [wetstraat](http://twitter.com/search?q=wetstraat) | N/A |
 | 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 34 | [Standard](http://twitter.com/search?q=Standard) | N/A |

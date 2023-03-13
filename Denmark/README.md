@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 03:16:28 UTC`
+📆 Last Updated: `2023-03-13 04:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,11 +23,11 @@ This is top 50 for Denmark
 | 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 7 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 8 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 9 | [Claesson](http://twitter.com/search?q=Claesson) | N/A |
+| 9 | [claesson](http://twitter.com/search?q=claesson) | N/A |
 | 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 12 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 13 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 11 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 12 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 14 | [mette](http://twitter.com/search?q=mette) | N/A |
 | 15 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 | 16 | [capellas](http://twitter.com/search?q=capellas) | N/A |
@@ -36,13 +36,13 @@ This is top 50 for Denmark
 | 19 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 20 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
 | 21 | [tripadvisor reviews](http://twitter.com/search?q=tripadvisor+reviews) | N/A |
-| 22 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 22 | [problemet](http://twitter.com/search?q=problemet) | N/A |
 | 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 24 | [vingegaard](http://twitter.com/search?q=vingegaard) | N/A |
 | 25 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
 | 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 27 | [diks](http://twitter.com/search?q=diks) | N/A |
-| 28 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 28 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
 | 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 30 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 31 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Denmark
 | 38 | [fint](http://twitter.com/search?q=fint) | N/A |
 | 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 40 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 41 | [SKAT](http://twitter.com/search?q=SKAT) | N/A |
+| 41 | [skat](http://twitter.com/search?q=skat) | N/A |
 | 42 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 44 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
