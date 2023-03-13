@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-13 18:17:21 UTC`
+📆 Last Updated: `2023-03-13 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 1 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 2 | [Jags](http://twitter.com/search?q=Jags) | Jags is an abbreviation for the Jacksonville Jaguars, a professional American football team based in Jacksonville, Florida. |
 | 3 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 4 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 5 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 6 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 7 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 10 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
-| 11 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 12 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
-| 13 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 14 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
-| 15 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 16 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 17 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
-| 18 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 19 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 20 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 21 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 22 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 23 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 24 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
-| 25 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
-| 26 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 27 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
-| 28 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 29 | [Pitts](http://twitter.com/search?q=Pitts) | N/A |
-| 30 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
-| 31 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
-| 32 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
-| 33 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
-| 34 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 35 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 36 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
-| 37 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
-| 38 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 39 | [Ben Powers](http://twitter.com/search?q=Ben+Powers) | N/A |
-| 40 | [Nick Gates](http://twitter.com/search?q=Nick+Gates) | N/A |
-| 41 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
-| 42 | [Keenum](http://twitter.com/search?q=Keenum) | N/A |
-| 43 | [Welcome to the Bay](http://twitter.com/search?q=Welcome+to+the+Bay) | N/A |
-| 44 | [Davante Adams](http://twitter.com/search?q=Davante+Adams) | Davante Adams is an American football wide receiver for the Green Bay Packers of the National Football League (NFL). He was drafted by the Packers in the second round of the 2014 NFL Draft. Adams has been selected to two Pro Bowls and was named an All-Pro in 2020. |
-| 45 | [Jordan Davis](http://twitter.com/search?q=Jordan+Davis) | N/A |
-| 46 | [Tuttle](http://twitter.com/search?q=Tuttle) | N/A |
-| 47 | [Onyemata](http://twitter.com/search?q=Onyemata) | N/A |
-| 48 | [Eli White](http://twitter.com/search?q=Eli+White) | N/A |
-| 49 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 50 | [Arthur Smith](http://twitter.com/search?q=Arthur+Smith) | Arthur Smith is a common English surname. It is derived from the given name Arthur, which is of Celtic origin and means "bear" or "strong as a bear". |
+| 4 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 6 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 7 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 8 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 9 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 10 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 11 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 12 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 13 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 14 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 15 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
+| 16 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
+| 17 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 18 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 19 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 20 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
+| 21 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 22 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
+| 23 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
+| 24 | [Jawaan Taylor](http://twitter.com/search?q=Jawaan+Taylor) | N/A |
+| 25 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 26 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
+| 27 | [Keenum](http://twitter.com/search?q=Keenum) | N/A |
+| 28 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 29 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
+| 30 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 31 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 32 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 33 | [#BuschSpringCleaning](http://twitter.com/search?q=%23BuschSpringCleaning) | N/A |
+| 34 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 35 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 36 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
+| 37 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
+| 38 | [Davante Adams](http://twitter.com/search?q=Davante+Adams) | Davante Adams is an American football wide receiver for the Green Bay Packers of the National Football League (NFL). He was drafted by the Packers in the second round of the 2014 NFL Draft. Adams has been selected to two Pro Bowls and was named an All-Pro in 2020. |
+| 39 | [Claudio Reyna](http://twitter.com/search?q=Claudio+Reyna) | Claudio Reyna is a former professional soccer player from the United States. He played for several teams in Europe and the United States, including Manchester City, Sunderland, and the New York Red Bulls. He was also a member of the US National Team from 1994 to 2006. The name Claudio Reyna is derived from Spanish and translates to "loud king" in English. |
+| 40 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 41 | [Reynas](http://twitter.com/search?q=Reynas) | N/A |
+| 42 | [Nick Gates](http://twitter.com/search?q=Nick+Gates) | N/A |
+| 43 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 44 | [Poles](http://twitter.com/search?q=Poles) | N/A |
+| 45 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 46 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 47 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
+| 48 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
+| 49 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
 
 
 

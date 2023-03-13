@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-13 18:16:55 UTC`
+📆 Last Updated: `2023-03-13 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#eenvandaag](http://twitter.com/search?q=%23eenvandaag) | N/A |
 | 2 | [#feyvol](http://twitter.com/search?q=%23feyvol) | N/A |
-| 3 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 4 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
-| 5 | [bergwijn](http://twitter.com/search?q=bergwijn) | N/A |
-| 6 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 7 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 9 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 10 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 11 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 12 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 13 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
-| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 15 | [rulli](http://twitter.com/search?q=rulli) | N/A |
-| 16 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 17 | [Marino](http://twitter.com/search?q=Marino) | N/A |
-| 18 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 19 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
-| 20 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 21 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 22 | [ruim 600.000](http://twitter.com/search?q=ruim+600.000) | N/A |
-| 23 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 24 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 25 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
-| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 27 | [Oprapen](http://twitter.com/search?q=Oprapen) | N/A |
-| 28 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 29 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 3 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [#1Vdebat](http://twitter.com/search?q=%231Vdebat) | N/A |
+| 5 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 6 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 7 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 9 | [sophie hermans](http://twitter.com/search?q=sophie+hermans) | N/A |
+| 10 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
+| 13 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 14 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 15 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
+| 16 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
+| 17 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 18 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
+| 19 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
+| 20 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 21 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 22 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 23 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 24 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 25 | [Attje Kuiken](http://twitter.com/search?q=Attje+Kuiken) | N/A |
+| 26 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
+| 27 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
+| 28 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 29 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 30 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 31 | [bergsma](http://twitter.com/search?q=bergsma) | N/A |
-| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 33 | [Teruggeven](http://twitter.com/search?q=Teruggeven) | N/A |
+| 32 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
+| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 34 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 35 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 36 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 37 | [hoofdredactie nos sport](http://twitter.com/search?q=hoofdredactie+nos+sport) | N/A |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [veerman](http://twitter.com/search?q=veerman) | N/A |
-| 40 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 41 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 42 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 43 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 45 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 46 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 47 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 48 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 49 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 35 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 36 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [libië](http://twitter.com/search?q=libi%c3%ab) | N/A |
+| 39 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 40 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 41 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
+| 42 | [vincent janssen](http://twitter.com/search?q=vincent+janssen) | N/A |
+| 43 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 44 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 46 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 47 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 48 | [Klassieker](http://twitter.com/search?q=Klassieker) | N/A |
+| 49 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
 
 
 

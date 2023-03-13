@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-13 18:17:31 UTC`
+📆 Last Updated: `2023-03-13 19:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 2 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 3 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 4 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 7 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 3 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 4 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 5 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 6 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 7 | [MAGNET MV 1M VIEWS](http://twitter.com/search?q=MAGNET+MV+1M+VIEWS) | N/A |
 | 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 9 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 10 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 11 | [paji](http://twitter.com/search?q=paji) | N/A |
-| 12 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
-| 13 | [MAGNET MV 1M VIEWS](http://twitter.com/search?q=MAGNET+MV+1M+VIEWS) | N/A |
-| 14 | [JOSHCULLEN IN THE DARK](http://twitter.com/search?q=JOSHCULLEN+IN+THE+DARK) | N/A |
-| 15 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 16 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 17 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 20 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 10 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 11 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 12 | [Lynette](http://twitter.com/search?q=Lynette) | N/A |
+| 13 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 14 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 15 | [Toty x Bright](http://twitter.com/search?q=Toty+x+Bright) | N/A |
+| 16 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 18 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 19 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 20 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 21 | [kai comeback d-day](http://twitter.com/search?q=kai+comeback+d-day) | N/A |
-| 22 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 22 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 23 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
-| 24 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 25 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 27 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 28 | [Sunsun](http://twitter.com/search?q=Sunsun) | N/A |
-| 29 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 30 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 31 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 32 | [There MV](http://twitter.com/search?q=There+MV) | N/A |
-| 33 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
-| 34 | [DREIm PICK](http://twitter.com/search?q=DREIm+PICK) | N/A |
-| 35 | [jompie kamusta ka na](http://twitter.com/search?q=jompie+kamusta+ka+na) | N/A |
-| 36 | [KODREA TC BLUE CARPET](http://twitter.com/search?q=KODREA+TC+BLUE+CARPET) | N/A |
-| 37 | [Say You Love Me](http://twitter.com/search?q=Say+You+Love+Me) | N/A |
-| 38 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
-| 39 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
-| 40 | [xian inheartsonice](http://twitter.com/search?q=xian+inheartsonice) | N/A |
-| 41 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 42 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 43 | [Vhong Navarro](http://twitter.com/search?q=Vhong+Navarro) | N/A |
-| 44 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
-| 45 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
-| 46 | [kim kai](http://twitter.com/search?q=kim+kai) | N/A |
-| 47 | [dolly de leon](http://twitter.com/search?q=dolly+de+leon) | N/A |
-| 48 | [janenella move the glass](http://twitter.com/search?q=janenella+move+the+glass) | N/A |
-| 49 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 50 | [Bomba](http://twitter.com/search?q=Bomba) | N/A |
+| 24 | [janenella move the glass](http://twitter.com/search?q=janenella+move+the+glass) | N/A |
+| 25 | [Paji](http://twitter.com/search?q=Paji) | N/A |
+| 26 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 27 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 28 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 29 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 30 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 31 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
+| 32 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 33 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 34 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 35 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 36 | [SUNSUN](http://twitter.com/search?q=SUNSUN) | N/A |
+| 37 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 38 | [subic na sayong pagibig bini](http://twitter.com/search?q=subic+na+sayong+pagibig+bini) | N/A |
+| 39 | [Dolly de Leon](http://twitter.com/search?q=Dolly+de+Leon) | N/A |
+| 40 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 41 | [Greenbelt](http://twitter.com/search?q=Greenbelt) | N/A |
+| 42 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
+| 43 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 45 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 46 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 47 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 48 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 49 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 50 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 
 
 

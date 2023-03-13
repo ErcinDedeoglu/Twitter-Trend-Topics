@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-13 18:17:15 UTC`
+📆 Last Updated: `2023-03-13 19:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
-| 2 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
-| 3 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 4 | [#SSRajamouli](http://twitter.com/search?q=%23SSRajamouli) | N/A |
-| 5 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
-| 6 | [#DCvRCB](http://twitter.com/search?q=%23DCvRCB) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
+| 3 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 4 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
+| 5 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
+| 6 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
 | 7 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
-| 8 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
-| 9 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
-| 10 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
-| 11 | [Ellyse Perry](http://twitter.com/search?q=Ellyse+Perry) | N/A |
-| 12 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
-| 13 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 14 | [Mandhana](http://twitter.com/search?q=Mandhana) | N/A |
-| 15 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
-| 16 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
-| 17 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
-| 18 | [Richa Ghosh](http://twitter.com/search?q=Richa+Ghosh) | N/A |
-| 19 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
-| 20 | [Deepika](http://twitter.com/search?q=Deepika) | N/A |
-| 21 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 24 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [प्रदेश कांग्रेस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 27 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 28 | [Raghu](http://twitter.com/search?q=Raghu) | N/A |
-| 29 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
-| 30 | [#ATKMBHFC](http://twitter.com/search?q=%23ATKMBHFC) | N/A |
-| 31 | [#CervicalRelief](http://twitter.com/search?q=%23CervicalRelief) | N/A |
-| 32 | [#HappyBirthdayAamirKhan](http://twitter.com/search?q=%23HappyBirthdayAamirKhan) | N/A |
-| 33 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 34 | [#RCBW](http://twitter.com/search?q=%23RCBW) | N/A |
-| 35 | [#ATKMohunBagan](http://twitter.com/search?q=%23ATKMohunBagan) | N/A |
-| 36 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
-| 37 | [#JoyMohunBagan](http://twitter.com/search?q=%23JoyMohunBagan) | N/A |
-| 38 | [#JanaSenaFormationDay](http://twitter.com/search?q=%23JanaSenaFormationDay) | N/A |
-| 39 | [#RRRWinsOscar](http://twitter.com/search?q=%23RRRWinsOscar) | N/A |
-| 40 | [#HyderabadFC](http://twitter.com/search?q=%23HyderabadFC) | N/A |
-| 41 | [#ChaloMachilipatnam](http://twitter.com/search?q=%23ChaloMachilipatnam) | N/A |
-| 42 | [#cha_nurses_want_job](http://twitter.com/search?q=%23cha_nurses_want_job) | N/A |
-| 43 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
-| 44 | [#DowJones](http://twitter.com/search?q=%23DowJones) | N/A |
-| 45 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
-| 46 | [#FIHProLeague](http://twitter.com/search?q=%23FIHProLeague) | N/A |
-| 47 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 48 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 49 | [#RajasthanMeinBhiKejriwal](http://twitter.com/search?q=%23RajasthanMeinBhiKejriwal) | N/A |
-| 50 | [#Ninaivirukka](http://twitter.com/search?q=%23Ninaivirukka) | N/A |
+| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 9 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
+| 10 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
+| 11 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
+| 12 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 13 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 14 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 15 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 16 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 17 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
+| 18 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
+| 19 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 20 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
+| 21 | [Jess Jonassen](http://twitter.com/search?q=Jess+Jonassen) | N/A |
+| 22 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
+| 23 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
+| 24 | [Mandhana](http://twitter.com/search?q=Mandhana) | N/A |
+| 25 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
+| 26 | [Proud Moment](http://twitter.com/search?q=Proud+Moment) | N/A |
+| 27 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 28 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
+| 29 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 30 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 31 | [Oval](http://twitter.com/search?q=Oval) | N/A |
+| 32 | [Royal Challengers Bangalore](http://twitter.com/search?q=Royal+Challengers+Bangalore) | N/A |
+| 33 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 34 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 35 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 36 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 37 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
+| 38 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 39 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
+| 40 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 41 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
+| 42 | [Maheer](http://twitter.com/search?q=Maheer) | N/A |
+| 43 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
+| 44 | [Devine](http://twitter.com/search?q=Devine) | N/A |
+| 45 | [चयन सूची](http://twitter.com/search?q=%e0%a4%9a%e0%a4%af%e0%a4%a8+%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a5%80) | N/A |
+| 46 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
+| 47 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 48 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
+| 49 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
+| 50 | [Border Gavaskar Trophy](http://twitter.com/search?q=Border+Gavaskar+Trophy) | N/A |
 
 
 

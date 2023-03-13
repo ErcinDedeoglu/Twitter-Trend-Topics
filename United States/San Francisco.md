@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-13 18:17:24 UTC`
+📆 Last Updated: `2023-03-13 19:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 2 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
-| 3 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 4 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
-| 5 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
-| 6 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 7 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 8 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 9 | [#BankRuns](http://twitter.com/search?q=%23BankRuns) | N/A |
-| 10 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 11 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
-| 12 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 13 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 14 | [March Madness](http://twitter.com/search?q=March+Madness) | N/A |
-| 15 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 16 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
-| 17 | [First Republic](http://twitter.com/search?q=First+Republic) | N/A |
-| 18 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 19 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 20 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 21 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 22 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 23 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 24 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
-| 25 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 26 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
-| 27 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 28 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
-| 29 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 1 | [Mark Davis](http://twitter.com/search?q=Mark+Davis) | Mark Davis is a name, and it has no particular meaning in English. |
+| 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 3 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
+| 4 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 5 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 6 | [Caleb Williams](http://twitter.com/search?q=Caleb+Williams) | Caleb Williams is a novel written by William Godwin in 1794. It tells the story of a young man named Caleb Williams who is persecuted by his employer, Mr. Falkland, for uncovering a dark secret from his past. The novel explores themes of justice, oppression, and freedom of thought and expression. The title has come to be used as an idiom to refer to someone who is persecuted for uncovering the truth. |
+| 7 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 8 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 9 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 10 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 11 | [#SXSW](http://twitter.com/search?q=%23SXSW) | N/A |
+| 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 13 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
+| 14 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 15 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 17 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 18 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 19 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 20 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 21 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 22 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 23 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 24 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 25 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 26 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
+| 27 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 28 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 29 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
 | 30 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
 | 31 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
-| 32 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 33 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 34 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 35 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 36 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 37 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
-| 38 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
-| 39 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
-| 40 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 41 | [Pitts](http://twitter.com/search?q=Pitts) | N/A |
-| 42 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
-| 43 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
-| 44 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
-| 45 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 46 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
-| 47 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
-| 48 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 32 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
+| 33 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 34 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
+| 35 | [Jawaan Taylor](http://twitter.com/search?q=Jawaan+Taylor) | N/A |
+| 36 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 37 | [Wylie](http://twitter.com/search?q=Wylie) | N/A |
+| 38 | [Keenum](http://twitter.com/search?q=Keenum) | N/A |
+| 39 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 40 | [Kinlaw](http://twitter.com/search?q=Kinlaw) | N/A |
+| 41 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 42 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 43 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 44 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 45 | [Armstead](http://twitter.com/search?q=Armstead) | Armstead is a surname of English origin. It is derived from the Old English words "earm" and "stede," meaning "place by the river." The name is most commonly found in the United States, where it is believed to have been brought over by early settlers. |
+| 46 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
+| 47 | [Davante Adams](http://twitter.com/search?q=Davante+Adams) | Davante Adams is an American football wide receiver for the Green Bay Packers of the National Football League (NFL). He was drafted by the Packers in the second round of the 2014 NFL Draft. Adams has been selected to two Pro Bowls and was named an All-Pro in 2020. |
+| 48 | [Claudio Reyna](http://twitter.com/search?q=Claudio+Reyna) | Claudio Reyna is a former professional soccer player from the United States. He played for several teams in Europe and the United States, including Manchester City, Sunderland, and the New York Red Bulls. He was also a member of the US National Team from 1994 to 2006. The name Claudio Reyna is derived from Spanish and translates to "loud king" in English. |
 | 49 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 50 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
+| 50 | [Reynas](http://twitter.com/search?q=Reynas) | N/A |
 
 
 

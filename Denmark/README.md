@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 18:17:27 UTC`
+📆 Last Updated: `2023-03-13 19:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
-| 2 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
-| 3 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
-| 4 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
+| 2 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
+| 3 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
+| 4 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
+| 5 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
+| 6 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
 | 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 8 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 9 | [capellas](http://twitter.com/search?q=capellas) | N/A |
-| 10 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 11 | [Brøndbys](http://twitter.com/search?q=Br%c3%b8ndbys) | N/A |
-| 12 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 13 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 14 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 15 | [Diks](http://twitter.com/search?q=Diks) | N/A |
-| 16 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 18 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
-| 19 | [Alves](http://twitter.com/search?q=Alves) | N/A |
-| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 23 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 25 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 26 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 27 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
-| 28 | [Claesson](http://twitter.com/search?q=Claesson) | N/A |
-| 29 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 30 | [Malte](http://twitter.com/search?q=Malte) | N/A |
-| 31 | [aske](http://twitter.com/search?q=aske) | N/A |
-| 32 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 33 | [Slap](http://twitter.com/search?q=Slap) | N/A |
-| 34 | [Liberal Alliance](http://twitter.com/search?q=Liberal+Alliance) | N/A |
-| 35 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [statsministeriet](http://twitter.com/search?q=statsministeriet) | N/A |
-| 38 | [Tager](http://twitter.com/search?q=Tager) | N/A |
-| 39 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
-| 40 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 43 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 44 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 45 | [viaplays](http://twitter.com/search?q=viaplays) | N/A |
-| 46 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
-| 47 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 48 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 49 | [Estland](http://twitter.com/search?q=Estland) | N/A |
-| 50 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 8 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 9 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 10 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 11 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 12 | [Farum](http://twitter.com/search?q=Farum) | N/A |
+| 13 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 14 | [capellas](http://twitter.com/search?q=capellas) | N/A |
+| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 19 | [Folk](http://twitter.com/search?q=Folk) | N/A |
+| 20 | [troede](http://twitter.com/search?q=troede) | N/A |
+| 21 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 22 | [Claesson](http://twitter.com/search?q=Claesson) | N/A |
+| 23 | [Mette](http://twitter.com/search?q=Mette) | N/A |
+| 24 | [Herning](http://twitter.com/search?q=Herning) | N/A |
+| 25 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 28 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 29 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 30 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 31 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 32 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 33 | [America](http://twitter.com/search?q=America) | N/A |
+| 34 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
+| 37 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 38 | [aske](http://twitter.com/search?q=aske) | N/A |
+| 39 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 40 | [aarhus](http://twitter.com/search?q=aarhus) | N/A |
+| 41 | [Slap](http://twitter.com/search?q=Slap) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 44 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 45 | [Elsker](http://twitter.com/search?q=Elsker) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 50 | [vesten](http://twitter.com/search?q=vesten) | N/A |
 
 
 
