@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-13 15:17:11 UTC`
+📆 Last Updated: `2023-03-13 16:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,11 +22,11 @@ This is top 50 for [Jordan](</Jordan>)
 | 5 | [السمو الملكي الاميره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87) | N/A |
 | 6 | [رانيا العبدالله](http://twitter.com/search?q=%d8%b1%d8%a7%d9%86%d9%8a%d8%a7+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 7 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 8 | [إيمان بنت عبدالله](http://twitter.com/search?q=%d8%a5%d9%8a%d9%85%d8%a7%d9%86+%d8%a8%d9%86%d8%aa+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 9 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 10 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 11 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 12 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 8 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 9 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 10 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 11 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 12 | [إيمان بنت عبدالله](http://twitter.com/search?q=%d8%a5%d9%8a%d9%85%d8%a7%d9%86+%d8%a8%d9%86%d8%aa+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 13 | [علي العرس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%b3) | N/A |
 | 14 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
 | 15 | [علي السيد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
@@ -47,12 +47,12 @@ This is top 50 for [Jordan](</Jordan>)
 | 30 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
 | 31 | [علي سوريا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 32 | [بيت الاردن](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 33 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 34 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 35 | [#حفل_توثيق_وليد_قشران](http://twitter.com/search?q=%23%d8%ad%d9%81%d9%84_%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d9%88%d9%84%d9%8a%d8%af_%d9%82%d8%b4%d8%b1%d8%a7%d9%86) | N/A |
-| 36 | [سالت الشيخ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d8%aa+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 37 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 38 | [#عمان](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 33 | [#عمان](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 34 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 35 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 36 | [#حفل_توثيق_وليد_قشران](http://twitter.com/search?q=%23%d8%ad%d9%81%d9%84_%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d9%88%d9%84%d9%8a%d8%af_%d9%82%d8%b4%d8%b1%d8%a7%d9%86) | N/A |
+| 37 | [سالت الشيخ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d8%aa+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 38 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 39 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 40 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
 | 41 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |

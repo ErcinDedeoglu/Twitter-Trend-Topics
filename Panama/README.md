@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-13 15:17:32 UTC`
+📆 Last Updated: `2023-03-13 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,19 +52,19 @@ This is top 50 for Panama
 | 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
 | 37 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
-| 38 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
+| 38 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 39 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 40 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
-| 41 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
+| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 42 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 43 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 44 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 45 | [#todosxlacopa](http://twitter.com/search?q=%23todosxlacopa) | N/A |
-| 46 | [panameños](http://twitter.com/search?q=paname%c3%b1os) | N/A |
-| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 48 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 50 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 43 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 44 | [#todosxlacopa](http://twitter.com/search?q=%23todosxlacopa) | N/A |
+| 45 | [panameños](http://twitter.com/search?q=paname%c3%b1os) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 47 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 49 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 50 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 
 
 

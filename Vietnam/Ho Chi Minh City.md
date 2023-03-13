@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-13 15:17:07 UTC`
+📆 Last Updated: `2023-03-13 16:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 5 | [#MEbyJisoo](http://twitter.com/search?q=%23MEbyJisoo) | N/A |
 | 6 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 7 | [#FBXsuolachashan](http://twitter.com/search?q=%23FBXsuolachashan) | N/A |
-| 8 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 9 | [#vichym89xbible](http://twitter.com/search?q=%23vichym89xbible) | N/A |
-| 10 | [rosé solo anniversary](http://twitter.com/search?q=ros%c3%a9+solo+anniversary) | N/A |
+| 7 | [#fbxsuolachashan](http://twitter.com/search?q=%23fbxsuolachashan) | N/A |
+| 8 | [#vichym89xbible](http://twitter.com/search?q=%23vichym89xbible) | N/A |
+| 9 | [rosé solo anniversary](http://twitter.com/search?q=ros%c3%a9+solo+anniversary) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 11 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
 | 12 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 13 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
@@ -38,18 +38,18 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
 | 22 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
 | 23 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 24 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 27 | [thung](http://twitter.com/search?q=thung) | N/A |
-| 28 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 29 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 32 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 35 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
+| 26 | [thung](http://twitter.com/search?q=thung) | N/A |
+| 27 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 31 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 34 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 35 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
 | 36 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
 | 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 38 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |

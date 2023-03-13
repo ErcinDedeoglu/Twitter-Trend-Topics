@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-13 15:17:32 UTC`
+📆 Last Updated: `2023-03-13 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for New Zealand
 | 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 23 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [BRONTE](http://twitter.com/search?q=BRONTE) | N/A |
+| 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 26 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 27 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 | 28 | [breakers](http://twitter.com/search?q=breakers) | N/A |

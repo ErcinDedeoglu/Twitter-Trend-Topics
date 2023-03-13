@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 15:17:29 UTC`
+📆 Last Updated: `2023-03-13 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Denmark
 | 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 13 | [Malte](http://twitter.com/search?q=Malte) | N/A |
-| 14 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
+| 14 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 | 15 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 16 | [Tripadvisor Reviews](http://twitter.com/search?q=Tripadvisor+Reviews) | N/A |
 | 17 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Denmark
 | 27 | [Folk](http://twitter.com/search?q=Folk) | N/A |
 | 28 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 29 | [elsker](http://twitter.com/search?q=elsker) | N/A |
-| 30 | [mette](http://twitter.com/search?q=mette) | N/A |
+| 30 | [Mette](http://twitter.com/search?q=Mette) | N/A |
 | 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 32 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 33 | [skat](http://twitter.com/search?q=skat) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Denmark
 | 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 39 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 41 | [danske](http://twitter.com/search?q=danske) | N/A |
-| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 43 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 41 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 42 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 44 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
 | 45 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 46 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 47 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
-| 50 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 50 | [aske](http://twitter.com/search?q=aske) | N/A |
 
 
 

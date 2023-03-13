@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-13 15:16:58 UTC`
+📆 Last Updated: `2023-03-13 16:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,21 +49,21 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
 | 33 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 35 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
-| 36 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 37 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 38 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 40 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 41 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 42 | [England](http://twitter.com/search?q=England) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 45 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 46 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 47 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 48 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 49 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 35 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 36 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 37 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 39 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 40 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 41 | [England](http://twitter.com/search?q=England) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 44 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 45 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 46 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 47 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 48 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 49 | [verhandlungen](http://twitter.com/search?q=verhandlungen) | N/A |
 
 
 

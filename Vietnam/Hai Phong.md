@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-13 15:17:07 UTC`
+📆 Last Updated: `2023-03-13 16:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MISSING BIBLEBUILD](http://twitter.com/search?q=MISSING+BIBLEBUILD) | N/A |
-| 2 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 3 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 4 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 5 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 6 | [#BuildisLuved](http://twitter.com/search?q=%23BuildisLuved) | N/A |
-| 7 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 8 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 9 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
-| 10 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 11 | [ROSÉ SOLO ANNIVERSARY](http://twitter.com/search?q=ROS%c3%89+SOLO+ANNIVERSARY) | N/A |
-| 12 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 13 | [seokjin ăn nhiều vào nhé](http://twitter.com/search?q=seokjin+%c4%83n+nhi%e1%bb%81u+v%c3%a0o+nh%c3%a9) | N/A |
-| 14 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
-| 15 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 16 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 17 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
-| 18 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 19 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
-| 20 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 22 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 25 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 26 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
-| 27 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 28 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
-| 29 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 30 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 31 | [bằng](http://twitter.com/search?q=b%e1%ba%b1ng) | N/A |
-| 32 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 33 | [Cuối](http://twitter.com/search?q=Cu%e1%bb%91i) | N/A |
-| 34 | [Meow](http://twitter.com/search?q=Meow) | N/A |
-| 35 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
-| 36 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 37 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 38 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 39 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 40 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 41 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 42 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 43 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 44 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
-| 45 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 46 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 47 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 48 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
-| 50 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 2 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 3 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
+| 4 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 5 | [#MEbyJisoo](http://twitter.com/search?q=%23MEbyJisoo) | N/A |
+| 6 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 7 | [#fbxsuolachashan](http://twitter.com/search?q=%23fbxsuolachashan) | N/A |
+| 8 | [#vichym89xbible](http://twitter.com/search?q=%23vichym89xbible) | N/A |
+| 9 | [rosé solo anniversary](http://twitter.com/search?q=ros%c3%a9+solo+anniversary) | N/A |
+| 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 11 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 12 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 13 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 14 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 17 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 18 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 19 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 20 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 21 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
+| 22 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 23 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
+| 26 | [thung](http://twitter.com/search?q=thung) | N/A |
+| 27 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 30 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 31 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 34 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 35 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 36 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 38 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 41 | [mong](http://twitter.com/search?q=mong) | N/A |
+| 42 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 43 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 44 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 45 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 46 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
+| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 48 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 49 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 50 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 
 
 

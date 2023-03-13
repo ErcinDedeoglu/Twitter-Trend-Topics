@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-13 15:16:49 UTC`
+📆 Last Updated: `2023-03-13 16:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,19 +20,19 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
 | 4 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
 | 5 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 6 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 7 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 8 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
+| 6 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 7 | [#respectthegiants](http://twitter.com/search?q=%23respectthegiants) | N/A |
+| 8 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
 | 9 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
 | 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 11 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 12 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 11 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 12 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 13 | [sapato merece respeito](http://twitter.com/search?q=sapato+merece+respeito) | N/A |
 | 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 16 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
 | 17 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 18 | [#themaskedsingerbr](http://twitter.com/search?q=%23themaskedsingerbr) | N/A |
+| 18 | [#MomentoAnacapri](http://twitter.com/search?q=%23MomentoAnacapri) | N/A |
 | 19 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
 | 20 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 21 | [Angela](http://twitter.com/search?q=Angela) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Brazil](</Brazil>)
 | 27 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
 | 28 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
 | 29 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 30 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 31 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 30 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 31 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
 | 32 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 33 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 34 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
+| 33 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
+| 34 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 35 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 36 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 37 | [Fausto vera](http://twitter.com/search?q=Fausto+vera) | N/A |
-| 38 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 36 | [Fausto vera](http://twitter.com/search?q=Fausto+vera) | N/A |
+| 37 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 39 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
 | 40 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
 | 41 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
-| 42 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 43 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
+| 42 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
+| 43 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 44 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
 | 45 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
 | 46 | [solange couto](http://twitter.com/search?q=solange+couto) | N/A |
-| 47 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 48 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 47 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 48 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 49 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 50 | [edna](http://twitter.com/search?q=edna) | N/A |
+| 50 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
 
 
 

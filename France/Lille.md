@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-13 15:16:53 UTC`
+📆 Last Updated: `2023-03-13 16:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,39 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#omrcsa](http://twitter.com/search?q=%23omrcsa) | N/A |
+| 1 | [#OMRCSA](http://twitter.com/search?q=%23OMRCSA) | N/A |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 3 | [#ANGFRA](http://twitter.com/search?q=%23ANGFRA) | N/A |
-| 4 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 5 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
+| 4 | [#SB29PSG](http://twitter.com/search?q=%23SB29PSG) | N/A |
+| 5 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
 | 6 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 7 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
 | 8 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 9 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 10 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 11 | [openda](http://twitter.com/search?q=openda) | N/A |
-| 12 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
-| 13 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 14 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 16 | [sanson](http://twitter.com/search?q=sanson) | N/A |
-| 17 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 18 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 9 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 10 | [openda](http://twitter.com/search?q=openda) | N/A |
+| 11 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 14 | [sanson](http://twitter.com/search?q=sanson) | N/A |
+| 15 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 16 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | Strasbourg is a city in France, located on the border with Germany. It is the capital of the Grand Est region and the Alsace department. The name Strasbourg comes from the Germanic word Strateburg, which means "city of roads". In English, Strasbourg can be translated to mean "city of roads". |
+| 17 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 18 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
 | 19 | [BAILLY](http://twitter.com/search?q=BAILLY) | N/A |
-| 20 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
-| 21 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 25 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 20 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 21 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 22 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 23 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
 | 26 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 27 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 27 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 28 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 29 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 30 | [Merab](http://twitter.com/search?q=Merab) | N/A |
-| 31 | [aholou](http://twitter.com/search?q=aholou) | N/A |
-| 32 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 33 | [embolo](http://twitter.com/search?q=embolo) | N/A |
+| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 31 | [Merab](http://twitter.com/search?q=Merab) | N/A |
+| 32 | [aholou](http://twitter.com/search?q=aholou) | N/A |
+| 33 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
 | 34 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 35 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 36 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
@@ -63,7 +63,7 @@ This is top 50 for [France](</France>)
 | 46 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
 | 47 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 | 48 | [Samba](http://twitter.com/search?q=Samba) | N/A |
-| 49 | [pau lopez](http://twitter.com/search?q=pau+lopez) | N/A |
+| 49 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
 | 50 | [Lucet](http://twitter.com/search?q=Lucet) | N/A |
 
 

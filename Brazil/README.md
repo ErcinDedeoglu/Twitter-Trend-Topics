@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-13 15:17:28 UTC`
+📆 Last Updated: `2023-03-13 16:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for Brazil
 | 27 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
 | 28 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
 | 29 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 30 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 31 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 30 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 31 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
 | 32 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 33 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 34 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
-| 35 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 36 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 37 | [Fausto vera](http://twitter.com/search?q=Fausto+vera) | N/A |
-| 38 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 33 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
+| 34 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 35 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 36 | [Fausto vera](http://twitter.com/search?q=Fausto+vera) | N/A |
+| 37 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 39 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
 | 40 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
 | 41 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
-| 42 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 43 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
+| 42 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
+| 43 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 44 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
 | 45 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
 | 46 | [solange couto](http://twitter.com/search?q=solange+couto) | N/A |
-| 47 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 48 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 47 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 48 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 49 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 50 | [edna](http://twitter.com/search?q=edna) | N/A |
+| 50 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
 
 
 

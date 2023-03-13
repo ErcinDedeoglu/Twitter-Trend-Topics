@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-13 15:17:00 UTC`
+📆 Last Updated: `2023-03-13 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,17 +19,17 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#nrltigersknights](http://twitter.com/search?q=%23nrltigersknights) | N/A |
 | 3 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 4 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 5 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 6 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 7 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 5 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 6 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 7 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 8 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 9 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 10 | [BRONTE](http://twitter.com/search?q=BRONTE) | N/A |
-| 11 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 14 | [adelaide cup](http://twitter.com/search?q=adelaide+cup) | N/A |
-| 15 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 9 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 10 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 13 | [adelaide cup](http://twitter.com/search?q=adelaide+cup) | N/A |
+| 14 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 15 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 16 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 | 17 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 18 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
@@ -40,21 +40,21 @@ This is top 50 for [Australia](</Australia>)
 | 23 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
 | 24 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
 | 25 | [klemmer](http://twitter.com/search?q=klemmer) | N/A |
-| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 27 | [rebel racer](http://twitter.com/search?q=rebel+racer) | N/A |
-| 28 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 29 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 30 | [labour day](http://twitter.com/search?q=labour+day) | N/A |
-| 31 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 32 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 33 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 34 | [talau](http://twitter.com/search?q=talau) | N/A |
-| 35 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 36 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 37 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 38 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
-| 39 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 40 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 26 | [rebel racer](http://twitter.com/search?q=rebel+racer) | N/A |
+| 27 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 28 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 29 | [labour day](http://twitter.com/search?q=labour+day) | N/A |
+| 30 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 31 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 32 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 33 | [talau](http://twitter.com/search?q=talau) | N/A |
+| 34 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 36 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 37 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 38 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 39 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 41 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
 | 42 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
 | 43 | [clubsnsw](http://twitter.com/search?q=clubsnsw) | N/A |

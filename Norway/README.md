@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-13 15:17:32 UTC`
+📆 Last Updated: `2023-03-13 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Norway
 | 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 25 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 27 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
-| 28 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 30 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [tenk](http://twitter.com/search?q=tenk) | N/A |
-| 34 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 35 | [obos](http://twitter.com/search?q=obos) | N/A |
-| 36 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
-| 37 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 40 | [ganske](http://twitter.com/search?q=ganske) | N/A |
-| 41 | [DE GEA](http://twitter.com/search?q=DE+GEA) | N/A |
-| 42 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
-| 43 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 44 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 46 | [sylvi listhaug](http://twitter.com/search?q=sylvi+listhaug) | N/A |
-| 47 | [T-banen](http://twitter.com/search?q=T-banen) | N/A |
-| 48 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 49 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
-| 50 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
+| 27 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 28 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 31 | [tenk](http://twitter.com/search?q=tenk) | N/A |
+| 32 | [obos](http://twitter.com/search?q=obos) | N/A |
+| 33 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
+| 34 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 37 | [ganske](http://twitter.com/search?q=ganske) | N/A |
+| 38 | [DE GEA](http://twitter.com/search?q=DE+GEA) | N/A |
+| 39 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
+| 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 43 | [sylvi listhaug](http://twitter.com/search?q=sylvi+listhaug) | N/A |
+| 44 | [T-banen](http://twitter.com/search?q=T-banen) | N/A |
+| 45 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 46 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
+| 47 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
+| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 49 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

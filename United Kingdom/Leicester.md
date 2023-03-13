@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-13 15:16:42 UTC`
+📆 Last Updated: `2023-03-13 16:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
-| 2 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 3 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 4 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 5 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 6 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 4 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 5 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 7 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 8 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
-| 9 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 10 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 11 | [#BritishScienceWeek](http://twitter.com/search?q=%23BritishScienceWeek) | N/A |
-| 12 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 13 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 14 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 15 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 16 | [Monster Munch](http://twitter.com/search?q=Monster+Munch) | N/A |
-| 17 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
-| 18 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
-| 19 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 20 | [Westminster Abbey](http://twitter.com/search?q=Westminster+Abbey) | N/A |
-| 21 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 22 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 24 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 25 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
-| 26 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 27 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 29 | [Budget](http://twitter.com/search?q=Budget) | N/A |
-| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 31 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
-| 32 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 33 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 34 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
-| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 36 | [Endeavour](http://twitter.com/search?q=Endeavour) | N/A |
-| 37 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 38 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
-| 39 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
-| 40 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 41 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
-| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 43 | [#ITAKOM](http://twitter.com/search?q=%23ITAKOM) | N/A |
-| 44 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 45 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 46 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 47 | [#BSW23](http://twitter.com/search?q=%23BSW23) | N/A |
-| 48 | [#Dunblane](http://twitter.com/search?q=%23Dunblane) | N/A |
-| 49 | [#HumzaForScotland](http://twitter.com/search?q=%23HumzaForScotland) | N/A |
+| 8 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 9 | [#engvfra](http://twitter.com/search?q=%23engvfra) | N/A |
+| 10 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 11 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
+| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 13 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 14 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
+| 15 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 16 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 19 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 22 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 24 | [will and jessie](http://twitter.com/search?q=will+and+jessie) | N/A |
+| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 26 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 27 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 28 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 29 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 30 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 31 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
+| 32 | [England](http://twitter.com/search?q=England) | N/A |
+| 33 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 34 | [Monster Munch](http://twitter.com/search?q=Monster+Munch) | N/A |
+| 35 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 36 | [Commonwealth](http://twitter.com/search?q=Commonwealth) | N/A |
+| 37 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 38 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 40 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 41 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 42 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 43 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 44 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
+| 45 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 46 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
+| 47 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 48 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 49 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
 
 
 

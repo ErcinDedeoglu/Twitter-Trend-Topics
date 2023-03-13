@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-13 15:17:30 UTC`
+📆 Last Updated: `2023-03-13 16:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,12 +33,12 @@ This is top 50 for Israel
 | 16 | [צלם אנוש](http://twitter.com/search?q=%d7%a6%d7%9c%d7%9d+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
 | 17 | [עם פטיש](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a4%d7%98%d7%99%d7%a9) | N/A |
 | 18 | [ה של](http://twitter.com/search?q=%d7%94+%d7%a9%d7%9c) | N/A |
-| 19 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 19 | [בני גנץ](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%92%d7%a0%d7%a5) | N/A |
 | 20 | [ביום שני](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a9%d7%a0%d7%99) | N/A |
 | 21 | [אריה דרעי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 22 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 23 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 24 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 22 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
+| 23 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 24 | [של ראש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%90%d7%a9) | N/A |
 | 25 | [מ נתניהו](http://twitter.com/search?q=%d7%9e+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 26 | [ר ההסתדרות](http://twitter.com/search?q=%d7%a8+%d7%94%d7%94%d7%a1%d7%aa%d7%93%d7%a8%d7%95%d7%aa) | N/A |
 | 27 | [של דמוקרטיה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Israel
 | 41 | [עד תום](http://twitter.com/search?q=%d7%a2%d7%93+%d7%aa%d7%95%d7%9d) | N/A |
 | 42 | [#Israeli](http://twitter.com/search?q=%23Israeli) | N/A |
 | 43 | [כת של](http://twitter.com/search?q=%d7%9b%d7%aa+%d7%a9%d7%9c) | N/A |
-| 44 | [בן ברננקי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%91%d7%a8%d7%a0%d7%a0%d7%a7%d7%99) | N/A |
-| 45 | [קשה להאמין](http://twitter.com/search?q=%d7%a7%d7%a9%d7%94+%d7%9c%d7%94%d7%90%d7%9e%d7%99%d7%9f) | N/A |
-| 46 | [תואר שני](http://twitter.com/search?q=%d7%aa%d7%95%d7%90%d7%a8+%d7%a9%d7%a0%d7%99) | N/A |
-| 47 | [רק שטראוס](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a9%d7%98%d7%a8%d7%90%d7%95%d7%a1) | N/A |
-| 48 | [בית קפה](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a7%d7%a4%d7%94) | N/A |
-| 49 | [כמות האנשים](http://twitter.com/search?q=%d7%9b%d7%9e%d7%95%d7%aa+%d7%94%d7%90%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 50 | [וואו איזה](http://twitter.com/search?q=%d7%95%d7%95%d7%90%d7%95+%d7%90%d7%99%d7%96%d7%94) | N/A |
+| 44 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 45 | [בן ברננקי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%91%d7%a8%d7%a0%d7%a0%d7%a7%d7%99) | N/A |
+| 46 | [קשה להאמין](http://twitter.com/search?q=%d7%a7%d7%a9%d7%94+%d7%9c%d7%94%d7%90%d7%9e%d7%99%d7%9f) | N/A |
+| 47 | [תואר שני](http://twitter.com/search?q=%d7%aa%d7%95%d7%90%d7%a8+%d7%a9%d7%a0%d7%99) | N/A |
+| 48 | [רק שטראוס](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a9%d7%98%d7%a8%d7%90%d7%95%d7%a1) | N/A |
+| 49 | [בית קפה](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%a7%d7%a4%d7%94) | N/A |
+| 50 | [כמות האנשים](http://twitter.com/search?q=%d7%9b%d7%9e%d7%95%d7%aa+%d7%94%d7%90%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
 
 
 

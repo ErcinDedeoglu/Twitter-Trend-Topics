@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-13 15:17:34 UTC`
+📆 Last Updated: `2023-03-13 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 2 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
-| 3 | [Devletimiz Kaldı](http://twitter.com/search?q=Devletimiz+Kald%c4%b1) | N/A |
+| 1 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
+| 2 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
+| 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
 | 4 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 5 | [Birlikte Aşıyoruz](http://twitter.com/search?q=Birlikte+A%c5%9f%c4%b1yoruz) | N/A |
-| 6 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 7 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 8 | [#yökkararvakti](http://twitter.com/search?q=%23y%c3%b6kkararvakti) | N/A |
-| 9 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 10 | [#StajaMartMüjdesi](http://twitter.com/search?q=%23StajaMartM%c3%bcjdesi) | N/A |
-| 11 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 12 | [S-400](http://twitter.com/search?q=S-400) | N/A |
-| 13 | [Medeniyet](http://twitter.com/search?q=Medeniyet) | N/A |
-| 14 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 15 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 16 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 17 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 18 | [Aysun Kayacı](http://twitter.com/search?q=Aysun+Kayac%c4%b1) | N/A |
-| 19 | [Mehmet Akif Ersoy'u Anma Günü](http://twitter.com/search?q=Mehmet+Akif+Ersoy%27u+Anma+G%c3%bcn%c3%bc) | N/A |
-| 20 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
-| 21 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 22 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
-| 23 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
-| 24 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 25 | [Şeref](http://twitter.com/search?q=%c5%9eeref) | N/A |
-| 26 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 27 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 28 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 29 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 30 | [#Yoekegitimekulakver](http://twitter.com/search?q=%23Yoekegitimekulakver) | N/A |
-| 31 | [#TekÇareReis](http://twitter.com/search?q=%23Tek%c3%87areReis) | N/A |
-| 32 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 33 | [#SeçimdenÖnce5000VeKısmi](http://twitter.com/search?q=%23Se%c3%a7imden%c3%96nce5000VeK%c4%b1smi) | N/A |
-| 34 | [#HayvancılıkYokEdiliyor](http://twitter.com/search?q=%23Hayvanc%c4%b1l%c4%b1kYokEdiliyor) | N/A |
-| 35 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 36 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 37 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 38 | [#EmekliSEÇİMİbekliyor](http://twitter.com/search?q=%23EmekliSE%c3%87%c4%b0M%c4%b0bekliyor) | N/A |
-| 39 | [#memleketpartisi](http://twitter.com/search?q=%23memleketpartisi) | N/A |
-| 40 | [#AKFYE](http://twitter.com/search?q=%23AKFYE) | N/A |
-| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 42 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
-| 43 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 44 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 45 | [#1283İçimizde](http://twitter.com/search?q=%231283%c4%b0%c3%a7imizde) | N/A |
-| 46 | [#5BinVeKismiyiMujdele](http://twitter.com/search?q=%235BinVeKismiyiMujdele) | N/A |
-| 47 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
-| 48 | [#alark](http://twitter.com/search?q=%23alark) | N/A |
-| 49 | [#emkel](http://twitter.com/search?q=%23emkel) | N/A |
-| 50 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
+| 5 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 6 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 7 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 8 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 9 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 10 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 11 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 12 | [güzelkızlar caminoyagelin](http://twitter.com/search?q=g%c3%bczelk%c4%b1zlar+caminoyagelin) | N/A |
+| 13 | [başım belada atvde](http://twitter.com/search?q=ba%c5%9f%c4%b1m+belada+atvde) | N/A |
+| 14 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 15 | [muharreminceye aşığız](http://twitter.com/search?q=muharreminceye+a%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
+| 16 | [Seninleyiz Cansu](http://twitter.com/search?q=Seninleyiz+Cansu) | N/A |
+| 17 | [Testere Necmi](http://twitter.com/search?q=Testere+Necmi) | N/A |
+| 18 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 19 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
+| 20 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 21 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 22 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
+| 23 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 24 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 25 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 26 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 27 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 28 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 29 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 32 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 33 | [aboubakar](http://twitter.com/search?q=aboubakar) | N/A |
+| 34 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 35 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 36 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 37 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
+| 38 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 39 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 40 | [recep tayyip erdoğan kazanacak](http://twitter.com/search?q=recep+tayyip+erdo%c4%9fan+kazanacak) | N/A |
+| 41 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 42 | [VİSCA](http://twitter.com/search?q=V%c4%b0SCA) | N/A |
+| 43 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 44 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 45 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 46 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
+| 47 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 48 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 49 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 50 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
 
 
 

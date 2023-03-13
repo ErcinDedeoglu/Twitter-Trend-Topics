@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-13 15:17:14 UTC`
+📆 Last Updated: `2023-03-13 16:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,34 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
-| 2 | [#SSRajamouli](http://twitter.com/search?q=%23SSRajamouli) | N/A |
-| 3 | [#JrNTR](http://twitter.com/search?q=%23JrNTR) | N/A |
-| 4 | [#WTC2023](http://twitter.com/search?q=%23WTC2023) | N/A |
-| 5 | [#RamCharan](http://twitter.com/search?q=%23RamCharan) | N/A |
-| 6 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
-| 7 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
-| 8 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
-| 9 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 10 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 11 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
-| 12 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 13 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 14 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 15 | [स्पर्श दर्शन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%b0%e0%a5%8d%e0%a4%b6+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 16 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 17 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Oval](http://twitter.com/search?q=Oval) | N/A |
-| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 21 | [प्रदेश कांग्रेस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 22 | [Raghu](http://twitter.com/search?q=Raghu) | N/A |
-| 23 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 24 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
-| 25 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 26 | [#MaziMatic](http://twitter.com/search?q=%23MaziMatic) | N/A |
-| 27 | [#CervicalRelief](http://twitter.com/search?q=%23CervicalRelief) | N/A |
-| 28 | [#HBDKavithaDidi](http://twitter.com/search?q=%23HBDKavithaDidi) | N/A |
-| 29 | [#DCvRCB](http://twitter.com/search?q=%23DCvRCB) | N/A |
-| 30 | [#Custody](http://twitter.com/search?q=%23Custody) | N/A |
-| 31 | [#cha_nurses_want_job](http://twitter.com/search?q=%23cha_nurses_want_job) | N/A |
-| 32 | [#ATKMBHFC](http://twitter.com/search?q=%23ATKMBHFC) | N/A |
-| 33 | [#Ninaivirukka](http://twitter.com/search?q=%23Ninaivirukka) | N/A |
-| 34 | [#WTCFinals](http://twitter.com/search?q=%23WTCFinals) | N/A |
-| 35 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
-| 36 | [#RajasthanMeinBhiKejriwal](http://twitter.com/search?q=%23RajasthanMeinBhiKejriwal) | N/A |
-| 37 | [#TheElephantWhisperer](http://twitter.com/search?q=%23TheElephantWhisperer) | N/A |
-| 38 | [#BankCrash](http://twitter.com/search?q=%23BankCrash) | N/A |
-| 39 | [#ArrestBaltejPannu](http://twitter.com/search?q=%23ArrestBaltejPannu) | N/A |
-| 40 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
-| 41 | [#ChaloMachilipatnam](http://twitter.com/search?q=%23ChaloMachilipatnam) | N/A |
-| 42 | [#KeerthySuresh](http://twitter.com/search?q=%23KeerthySuresh) | N/A |
-| 43 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 44 | [#SinghamAgain](http://twitter.com/search?q=%23SinghamAgain) | N/A |
-| 45 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 46 | [#NagaChaitanya](http://twitter.com/search?q=%23NagaChaitanya) | N/A |
-| 47 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 48 | [#RRRWinsOscar](http://twitter.com/search?q=%23RRRWinsOscar) | N/A |
-| 49 | [#SignatureBank](http://twitter.com/search?q=%23SignatureBank) | N/A |
+| 1 | [#CervicalRelief](http://twitter.com/search?q=%23CervicalRelief) | N/A |
+| 2 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [#Custody](http://twitter.com/search?q=%23Custody) | N/A |
+| 5 | [#NaatuNaatu](http://twitter.com/search?q=%23NaatuNaatu) | #NaatuNaatu is a Tamil phrase that translates to “Let it be” in English. It is used as an expression of acceptance or resignation, and can also be used to express hope or faith in a situation. |
+| 6 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 8 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 9 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 10 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 11 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
+| 12 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
+| 13 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
+| 14 | [#NagaChaitanya](http://twitter.com/search?q=%23NagaChaitanya) | N/A |
+| 15 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
+| 16 | [#WTC2023](http://twitter.com/search?q=%23WTC2023) | N/A |
+| 17 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 18 | [#SLvsNZ](http://twitter.com/search?q=%23SLvsNZ) | N/A |
+| 19 | [#SSRajamouli](http://twitter.com/search?q=%23SSRajamouli) | N/A |
+| 20 | [#BestOriginalSong](http://twitter.com/search?q=%23BestOriginalSong) | N/A |
+| 21 | [#DeepikaPadukone](http://twitter.com/search?q=%23DeepikaPadukone) | N/A |
+| 22 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
+| 23 | [#JrNTR](http://twitter.com/search?q=%23JrNTR) | N/A |
+| 24 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 25 | [#MMKeeravani](http://twitter.com/search?q=%23MMKeeravani) | N/A |
+| 26 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 27 | [#Chandrabose](http://twitter.com/search?q=%23Chandrabose) | N/A |
+| 28 | [#SSMB29](http://twitter.com/search?q=%23SSMB29) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-13 15:17:34 UTC`
+📆 Last Updated: `2023-03-13 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Switzerland
 | 6 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
 | 7 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
 | 8 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 9 | [#switzerland](http://twitter.com/search?q=%23switzerland) | N/A |
+| 9 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 11 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
 | 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Switzerland
 | 33 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
 | 34 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 35 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 36 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
-| 37 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 38 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 39 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 41 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 42 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 43 | [England](http://twitter.com/search?q=England) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 46 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 47 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 48 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 49 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 50 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 36 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 37 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 38 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 40 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 41 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 45 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 46 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 47 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 48 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 49 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 50 | [verhandlungen](http://twitter.com/search?q=verhandlungen) | N/A |
 
 
 

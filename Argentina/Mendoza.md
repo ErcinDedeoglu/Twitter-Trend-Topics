@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-13 15:16:47 UTC`
+📆 Last Updated: `2023-03-13 16:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,22 +16,22 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 3 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 2 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 3 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
 | 4 | [#LollapaloozaEnFMLike](http://twitter.com/search?q=%23LollapaloozaEnFMLike) | N/A |
-| 5 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 6 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 5 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
+| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 7 | [camila al 9009](http://twitter.com/search?q=camila+al+9009) | N/A |
-| 8 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 9 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 10 | [romina al 9009](http://twitter.com/search?q=romina+al+9009) | N/A |
-| 11 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 8 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 9 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 10 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 11 | [romina al 9009](http://twitter.com/search?q=romina+al+9009) | N/A |
 | 12 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
 | 13 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 14 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 15 | [Darin](http://twitter.com/search?q=Darin) | N/A |
-| 16 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
-| 17 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 14 | [Darin](http://twitter.com/search?q=Darin) | N/A |
+| 15 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
+| 16 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 17 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 18 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
 | 19 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
 | 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Argentina](</Argentina>)
 | 27 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 28 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
 | 29 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 30 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 31 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 32 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
-| 33 | [ADVINCULA](http://twitter.com/search?q=ADVINCULA) | N/A |
-| 34 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 35 | [larrix](http://twitter.com/search?q=larrix) | N/A |
-| 36 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 37 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 38 | [FABRA](http://twitter.com/search?q=FABRA) | N/A |
-| 39 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 40 | [ELIZABETH OLSEN](http://twitter.com/search?q=ELIZABETH+OLSEN) | N/A |
-| 41 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 42 | [Dolores Fonzi](http://twitter.com/search?q=Dolores+Fonzi) | N/A |
-| 43 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 45 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 46 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 47 | [rapallini](http://twitter.com/search?q=rapallini) | N/A |
-| 48 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 30 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 31 | [ADVINCULA](http://twitter.com/search?q=ADVINCULA) | N/A |
+| 32 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 33 | [larrix](http://twitter.com/search?q=larrix) | N/A |
+| 34 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 35 | [FABRA](http://twitter.com/search?q=FABRA) | N/A |
+| 36 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 37 | [Kami](http://twitter.com/search?q=Kami) | N/A |
+| 38 | [ELIZABETH OLSEN](http://twitter.com/search?q=ELIZABETH+OLSEN) | N/A |
+| 39 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 40 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 41 | [Dolores Fonzi](http://twitter.com/search?q=Dolores+Fonzi) | N/A |
+| 42 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 43 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 44 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 45 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 46 | [rapallini](http://twitter.com/search?q=rapallini) | N/A |
+| 47 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 48 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
 | 49 | [Sin Novedad](http://twitter.com/search?q=Sin+Novedad) | N/A |
-| 50 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 50 | [Vilma Palma](http://twitter.com/search?q=Vilma+Palma) | N/A |
 
 
 

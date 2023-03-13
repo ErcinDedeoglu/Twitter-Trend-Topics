@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-13 15:17:08 UTC`
+📆 Last Updated: `2023-03-13 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Ghana](</Ghana>)
 | 5 | [Bench](http://twitter.com/search?q=Bench) | N/A |
 | 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 7 | [WALCOTT](http://twitter.com/search?q=WALCOTT) | N/A |
-| 8 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 9 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
 | 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 11 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
 | 12 | [#sportsultras](http://twitter.com/search?q=%23sportsultras) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Ghana](</Ghana>)
 | 19 | [Dede Ayew](http://twitter.com/search?q=Dede+Ayew) | N/A |
 | 20 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
 | 21 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
-| 22 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 24 | [ward-prowse](http://twitter.com/search?q=ward-prowse) | N/A |
-| 25 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 26 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 27 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 28 | [what is 50](http://twitter.com/search?q=what+is+50) | N/A |
-| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 30 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 31 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 32 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
-| 33 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
-| 34 | [today de3](http://twitter.com/search?q=today+de3) | N/A |
-| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [nana adwubi](http://twitter.com/search?q=nana+adwubi) | N/A |
-| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 42 | [LEWANDOWSKI](http://twitter.com/search?q=LEWANDOWSKI) | N/A |
-| 43 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
-| 46 | [SportyBet](http://twitter.com/search?q=SportyBet) | N/A |
-| 47 | [mtn momo](http://twitter.com/search?q=mtn+momo) | N/A |
-| 48 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 49 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 50 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 22 | [ward-prowse](http://twitter.com/search?q=ward-prowse) | N/A |
+| 23 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 27 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 28 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 29 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 30 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
+| 31 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
+| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [nana adwubi](http://twitter.com/search?q=nana+adwubi) | N/A |
+| 35 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 38 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 39 | [LEWANDOWSKI](http://twitter.com/search?q=LEWANDOWSKI) | N/A |
+| 40 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
+| 43 | [SportyBet](http://twitter.com/search?q=SportyBet) | N/A |
+| 44 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 45 | [mtn momo](http://twitter.com/search?q=mtn+momo) | N/A |
+| 46 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 47 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 48 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 49 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 50 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
 
 
 

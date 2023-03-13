@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 15:17:31 UTC`
+📆 Last Updated: `2023-03-13 16:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,6 @@ This is top 50 for Latvia
 | 25 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 26 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 27 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 28 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 
 
 
