@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-13 09:16:32 UTC`
+📆 Last Updated: `2023-03-13 10:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Germany](</Germany>)
 | 14 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 15 | [hackl](http://twitter.com/search?q=hackl) | N/A |
 | 16 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
-| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 18 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 19 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
-| 20 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 22 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 23 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 24 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 25 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 26 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 27 | [bhakdi](http://twitter.com/search?q=bhakdi) | N/A |
-| 28 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
-| 29 | [appletv save warrior nun](http://twitter.com/search?q=appletv+save+warrior+nun) | N/A |
-| 30 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 31 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 33 | [gegentore](http://twitter.com/search?q=gegentore) | N/A |
-| 34 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 36 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 37 | [haller](http://twitter.com/search?q=haller) | N/A |
-| 38 | [zeugen jehovas](http://twitter.com/search?q=zeugen+jehovas) | N/A |
-| 39 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 40 | [Bundespolizei](http://twitter.com/search?q=Bundespolizei) | N/A |
-| 41 | [malen](http://twitter.com/search?q=malen) | N/A |
-| 42 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 43 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 44 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
-| 45 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 46 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 47 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
-| 48 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 49 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 18 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 19 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 20 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 21 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
+| 22 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 24 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 25 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 26 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 27 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 28 | [bhakdi](http://twitter.com/search?q=bhakdi) | N/A |
+| 29 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
+| 30 | [appletv save warrior nun](http://twitter.com/search?q=appletv+save+warrior+nun) | N/A |
+| 31 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 32 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [gegentore](http://twitter.com/search?q=gegentore) | N/A |
+| 35 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 36 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
+| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 38 | [bachmut](http://twitter.com/search?q=bachmut) | N/A |
+| 39 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 40 | [zeugen jehovas](http://twitter.com/search?q=zeugen+jehovas) | N/A |
+| 41 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 42 | [Bundespolizei](http://twitter.com/search?q=Bundespolizei) | N/A |
+| 43 | [malen](http://twitter.com/search?q=malen) | N/A |
+| 44 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 45 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 46 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
+| 47 | [ploß](http://twitter.com/search?q=plo%c3%9f) | N/A |
+| 48 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
+| 49 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 
 
 

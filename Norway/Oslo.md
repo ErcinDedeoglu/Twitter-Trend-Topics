@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-13 09:16:37 UTC`
+📆 Last Updated: `2023-03-13 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,20 +27,20 @@ This is top 50 for [Norway](</Norway>)
 | 10 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 | 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 12 | [sanyang](http://twitter.com/search?q=sanyang) | N/A |
-| 13 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
-| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 16 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
-| 17 | [Kristiansand](http://twitter.com/search?q=Kristiansand) | N/A |
-| 18 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 15 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
+| 16 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
+| 17 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 18 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
 | 19 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 20 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 21 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
-| 22 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
-| 23 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
-| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 25 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 26 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 20 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 21 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 22 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 23 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
+| 24 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
+| 25 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 26 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 28 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
 | 29 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |

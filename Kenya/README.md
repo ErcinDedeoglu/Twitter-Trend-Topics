@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-13 09:17:16 UTC`
+📆 Last Updated: `2023-03-13 10:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,42 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
 | 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 6 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
 | 7 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 8 | [#SackAnthonyTaylor](http://twitter.com/search?q=%23SackAnthonyTaylor) | N/A |
-| 9 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
-| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 11 | [Register For SMEsEXpo](http://twitter.com/search?q=Register+For+SMEsEXpo) | N/A |
-| 12 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 13 | [Get SMEs Expo Booth](http://twitter.com/search?q=Get+SMEs+Expo+Booth) | N/A |
-| 14 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 15 | [Robisearch ICT](http://twitter.com/search?q=Robisearch+ICT) | N/A |
-| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 17 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 18 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 19 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 20 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 9 | [#AttendSMEsEXpoKICC](http://twitter.com/search?q=%23AttendSMEsEXpoKICC) | N/A |
+| 10 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
+| 11 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 12 | [Register For SMEsEXpo](http://twitter.com/search?q=Register+For+SMEsEXpo) | N/A |
+| 13 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 14 | [Get SMEs Expo Booth](http://twitter.com/search?q=Get+SMEs+Expo+Booth) | N/A |
+| 15 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 16 | [Robisearch ICT](http://twitter.com/search?q=Robisearch+ICT) | N/A |
+| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 18 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 19 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
+| 20 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
 | 21 | [Muthaiga Golf](http://twitter.com/search?q=Muthaiga+Golf) | N/A |
-| 22 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 23 | [Jakakimba](http://twitter.com/search?q=Jakakimba) | N/A |
+| 22 | [Jakakimba](http://twitter.com/search?q=Jakakimba) | N/A |
+| 23 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
 | 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
 | 25 | [GABRIEL JESUS](http://twitter.com/search?q=GABRIEL+JESUS) | N/A |
 | 26 | [Uniform Motion](http://twitter.com/search?q=Uniform+Motion) | N/A |
 | 27 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
 | 28 | [absa bank](http://twitter.com/search?q=absa+bank) | N/A |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 32 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 33 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 30 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 32 | [Benji](http://twitter.com/search?q=Benji) | N/A |
+| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 34 | [Nithi](http://twitter.com/search?q=Nithi) | N/A |
-| 35 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 36 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 35 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 36 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 37 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 39 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |

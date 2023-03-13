@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 09:17:13 UTC`
+📆 Last Updated: `2023-03-13 10:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,16 +25,16 @@ This is top 50 for Belgium
 | 8 | [Gift Orban](http://twitter.com/search?q=Gift+Orban) | N/A |
 | 9 | [perica](http://twitter.com/search?q=perica) | N/A |
 | 10 | [visser](http://twitter.com/search?q=visser) | N/A |
-| 11 | [cercle](http://twitter.com/search?q=cercle) | N/A |
-| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 13 | [deila](http://twitter.com/search?q=deila) | N/A |
-| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
-| 16 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 17 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 18 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 19 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 13 | [cercle](http://twitter.com/search?q=cercle) | N/A |
+| 14 | [deila](http://twitter.com/search?q=deila) | N/A |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
+| 17 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 18 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 19 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 21 | [Merab](http://twitter.com/search?q=Merab) | N/A |
 | 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 23 | [tijl](http://twitter.com/search?q=tijl) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Belgium
 | 44 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 45 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 46 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 47 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
-| 48 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
-| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 50 | [Maastricht](http://twitter.com/search?q=Maastricht) | N/A |
+| 47 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
+| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 49 | [maastricht](http://twitter.com/search?q=maastricht) | N/A |
+| 50 | [STEM](http://twitter.com/search?q=STEM) | N/A |
 
 
 

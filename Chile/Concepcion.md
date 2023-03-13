@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-13 09:16:23 UTC`
+📆 Last Updated: `2023-03-13 10:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
-| 3 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 3 | [#vamoslau](http://twitter.com/search?q=%23vamoslau) | N/A |
 | 4 | [#SuperclasicoxTNTSports](http://twitter.com/search?q=%23SuperclasicoxTNTSports) | N/A |
-| 5 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 6 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 5 | [poblete](http://twitter.com/search?q=poblete) | N/A |
+| 6 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
 | 7 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
 | 8 | [quinteros](http://twitter.com/search?q=quinteros) | N/A |
-| 9 | [#FinalYoSoy](http://twitter.com/search?q=%23FinalYoSoy) | N/A |
+| 9 | [#finalyosoy](http://twitter.com/search?q=%23finalyosoy) | N/A |
 | 10 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 11 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 11 | [assadi](http://twitter.com/search?q=assadi) | N/A |
 | 12 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 13 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 13 | [casanova](http://twitter.com/search?q=casanova) | N/A |
 | 14 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 15 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
 | 16 | [benegas](http://twitter.com/search?q=benegas) | N/A |
@@ -45,15 +45,15 @@ This is top 50 for [Chile](</Chile>)
 | 28 | [Palma](http://twitter.com/search?q=Palma) | N/A |
 | 29 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 30 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 31 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 31 | [pavez](http://twitter.com/search?q=pavez) | N/A |
 | 32 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 33 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 34 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 34 | [matamala](http://twitter.com/search?q=matamala) | N/A |
 | 35 | [Garin](http://twitter.com/search?q=Garin) | N/A |
 | 36 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 37 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 | 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 39 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 39 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
 | 40 | [bolados](http://twitter.com/search?q=bolados) | N/A |
 | 41 | [holan](http://twitter.com/search?q=holan) | N/A |
 | 42 | [segovia](http://twitter.com/search?q=segovia) | N/A |

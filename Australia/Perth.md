@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-13 09:16:40 UTC`
+📆 Last Updated: `2023-03-13 10:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,43 +23,43 @@ This is top 50 for [Australia](</Australia>)
 | 6 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 | 7 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 8 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 9 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 10 | [Rebel Racer](http://twitter.com/search?q=Rebel+Racer) | N/A |
+| 9 | [Rebel Racer](http://twitter.com/search?q=Rebel+Racer) | N/A |
+| 10 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 11 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 12 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 13 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
 | 15 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
 | 16 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 17 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 18 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 19 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 20 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 21 | [Adelaide Cup](http://twitter.com/search?q=Adelaide+Cup) | N/A |
-| 22 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 23 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 24 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 25 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 26 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 27 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 28 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 29 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 30 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 31 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 32 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 35 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 36 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 37 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 38 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 39 | [Labour Day](http://twitter.com/search?q=Labour+Day) | N/A |
-| 40 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 41 | [Talau](http://twitter.com/search?q=Talau) | N/A |
-| 42 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 17 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 18 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 19 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 20 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 21 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 22 | [Adelaide Cup](http://twitter.com/search?q=Adelaide+Cup) | N/A |
+| 23 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 24 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 25 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 26 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 27 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 28 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 29 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 30 | [Klemmer](http://twitter.com/search?q=Klemmer) | N/A |
+| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 33 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 34 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 35 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 36 | [Labour Day](http://twitter.com/search?q=Labour+Day) | N/A |
+| 37 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 38 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 39 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 40 | [Talau](http://twitter.com/search?q=Talau) | N/A |
+| 41 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 42 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
 | 43 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 44 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 45 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 45 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 46 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 47 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 

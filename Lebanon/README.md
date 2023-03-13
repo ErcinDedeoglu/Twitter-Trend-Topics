@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-13 09:17:16 UTC`
+📆 Last Updated: `2023-03-13 10:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#العهد_الانصار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
-| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 2 | [#العهد_الانصار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
 | 3 | [فؤاد شهاب](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%b4%d9%87%d8%a7%d8%a8) | N/A |
 | 4 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 5 | [#كتاب_الشهره](http://twitter.com/search?q=%23%d9%83%d8%aa%d8%a7%d8%a8_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%87) | N/A |
@@ -28,9 +28,9 @@ This is top 50 for Lebanon
 | 11 | [نبيل بدر](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%84+%d8%a8%d8%af%d8%b1) | N/A |
 | 12 | [فريق العهد](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
 | 13 | [راغب حرب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%ba%d8%a8+%d8%ad%d8%b1%d8%a8) | N/A |
-| 14 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 15 | [#صباحو](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d9%88) | N/A |
-| 16 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 14 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 15 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 16 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 | 17 | [نهر الموت](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d8%aa) | N/A |
 | 18 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
 | 19 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
@@ -40,8 +40,8 @@ This is top 50 for Lebanon
 | 23 | [نهار الاحد](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 24 | [دار العجزه](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%ac%d8%b2%d9%87) | N/A |
 | 25 | [نادي العهد](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 26 | [ابو علي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d9%84%d9%8a) | N/A |
-| 27 | [نهر ابراهيم](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 26 | [نهر ابراهيم](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 27 | [طريق الجديده](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
 | 28 | [سوريا بشار](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7+%d8%a8%d8%b4%d8%a7%d8%b1) | N/A |
 | 29 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 30 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
@@ -49,11 +49,11 @@ This is top 50 for Lebanon
 | 32 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
 | 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 34 | [ناجي](http://twitter.com/search?q=%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
-| 35 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 36 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
-| 37 | [يسوع المسيح](http://twitter.com/search?q=%d9%8a%d8%b3%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
-| 38 | [الخدمه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [ابو الفوارس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d8%b3) | N/A |
+| 35 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 36 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 37 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 38 | [يسوع المسيح](http://twitter.com/search?q=%d9%8a%d8%b3%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
+| 39 | [الخدمه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
 | 40 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 41 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 42 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Lebanon
 | 47 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 48 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
 | 49 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 50 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 50 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
 
 
 

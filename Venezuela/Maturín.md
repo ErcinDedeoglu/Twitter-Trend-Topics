@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-13 09:16:28 UTC`
+📆 Last Updated: `2023-03-13 10:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#12Mar](http://twitter.com/search?q=%2312Mar) | N/A |
-| 3 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 2 | [#12mar](http://twitter.com/search?q=%2312mar) | N/A |
+| 3 | [#beisbolxteleven](http://twitter.com/search?q=%23beisbolxteleven) | N/A |
 | 4 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 6 | [#chávezcomunicador](http://twitter.com/search?q=%23ch%c3%a1vezcomunicador) | N/A |
@@ -28,18 +28,18 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 11 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 13 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 14 | [ANTHONY SANTANDER](http://twitter.com/search?q=ANTHONY+SANTANDER) | N/A |
+| 14 | [anthony santander](http://twitter.com/search?q=anthony+santander) | N/A |
 | 15 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
 | 16 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 18 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 18 | [miguel cabrera](http://twitter.com/search?q=miguel+cabrera) | N/A |
 | 19 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 20 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
-| 21 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 22 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 21 | [daniel santos](http://twitter.com/search?q=daniel+santos) | N/A |
+| 22 | [julio jaramillo](http://twitter.com/search?q=julio+jaramillo) | N/A |
 | 23 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
 | 24 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
-| 25 | [multigrafo](http://twitter.com/search?q=multigrafo) | N/A |
+| 25 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
 | 26 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
 | 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 28 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 35 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
 | 36 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 37 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 38 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 38 | [omar lópez](http://twitter.com/search?q=omar+l%c3%b3pez) | N/A |
 | 39 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
 | 40 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 41 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
@@ -62,7 +62,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 45 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
 | 46 | [Silvino Bracho](http://twitter.com/search?q=Silvino+Bracho) | N/A |
 | 47 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
-| 48 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
+| 48 | [yadier molina](http://twitter.com/search?q=yadier+molina) | N/A |
 | 49 | [Walt Disney](http://twitter.com/search?q=Walt+Disney) | N/A |
 | 50 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
 

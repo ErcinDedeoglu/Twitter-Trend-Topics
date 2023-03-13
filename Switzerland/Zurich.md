@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-13 09:16:37 UTC`
+📆 Last Updated: `2023-03-13 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,35 +35,35 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 19 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 20 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 21 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 22 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 23 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 24 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 25 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 26 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
-| 27 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 28 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 29 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
-| 30 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 31 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 32 | [Wege](http://twitter.com/search?q=Wege) | N/A |
-| 33 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 34 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 35 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 36 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 37 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 38 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 39 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 40 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 41 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 42 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 43 | [gelegenheit](http://twitter.com/search?q=gelegenheit) | N/A |
-| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 45 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 46 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 47 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 48 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 22 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 23 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 24 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 25 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
+| 26 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 27 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 28 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
+| 29 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 30 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 31 | [Wege](http://twitter.com/search?q=Wege) | N/A |
+| 32 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 33 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 34 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 35 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 36 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 37 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 38 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 39 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 40 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 41 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 42 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 44 | [berne](http://twitter.com/search?q=berne) | N/A |
+| 45 | [sohn](http://twitter.com/search?q=sohn) | N/A |
+| 46 | [mieten](http://twitter.com/search?q=mieten) | N/A |
+| 47 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Justement](http://twitter.com/search?q=Justement) | N/A |
 
 
 

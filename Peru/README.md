@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-13 09:17:18 UTC`
+📆 Last Updated: `2023-03-13 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 

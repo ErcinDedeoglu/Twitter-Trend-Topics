@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-13 09:17:13 UTC`
+📆 Last Updated: `2023-03-13 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,20 +33,20 @@ This is top 50 for Colombia
 | 16 | [Dan Reynolds](http://twitter.com/search?q=Dan+Reynolds) | N/A |
 | 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 18 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 19 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
+| 19 | [bajo cauca](http://twitter.com/search?q=bajo+cauca) | N/A |
 | 20 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 21 | [#THEDREAMSHOW_IN_LATAM](http://twitter.com/search?q=%23THEDREAMSHOW_IN_LATAM) | N/A |
 | 22 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
 | 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 25 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 25 | [vanegas](http://twitter.com/search?q=vanegas) | N/A |
 | 26 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
 | 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 28 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 29 | [Segurito](http://twitter.com/search?q=Segurito) | N/A |
+| 29 | [segurito](http://twitter.com/search?q=segurito) | N/A |
 | 30 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 31 | [Pirry](http://twitter.com/search?q=Pirry) | N/A |
-| 32 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
+| 32 | [narcolas](http://twitter.com/search?q=narcolas) | N/A |
 | 33 | [lokillo](http://twitter.com/search?q=lokillo) | N/A |
 | 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 35 | [Viera](http://twitter.com/search?q=Viera) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Colombia
 | 42 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 43 | [loaiza](http://twitter.com/search?q=loaiza) | N/A |
 | 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 45 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 45 | [bacca](http://twitter.com/search?q=bacca) | N/A |
 | 46 | [rusinque](http://twitter.com/search?q=rusinque) | N/A |
 | 47 | [cariaco](http://twitter.com/search?q=cariaco) | N/A |
 | 48 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 49 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 50 | [jader](http://twitter.com/search?q=jader) | N/A |
+| 50 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 
 
 

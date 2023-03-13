@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-13 09:17:14 UTC`
+📆 Last Updated: `2023-03-13 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Ireland
 | 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 10 | [mack hansen](http://twitter.com/search?q=mack+hansen) | N/A |
 | 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [ringrose](http://twitter.com/search?q=ringrose) | N/A |
-| 14 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 12 | [ringrose](http://twitter.com/search?q=ringrose) | N/A |
+| 13 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 15 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
 | 16 | [England](http://twitter.com/search?q=England) | N/A |
 | 17 | [rip liam](http://twitter.com/search?q=rip+liam) | N/A |
@@ -40,16 +40,16 @@ This is top 50 for Ireland
 | 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 24 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
 | 25 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
-| 26 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 27 | [Scots](http://twitter.com/search?q=Scots) | N/A |
-| 28 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 29 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 30 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 31 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 32 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 33 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
-| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 35 | [hogg](http://twitter.com/search?q=hogg) | N/A |
+| 26 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 27 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 28 | [half time](http://twitter.com/search?q=half+time) | N/A |
+| 29 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 30 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 31 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
+| 32 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 34 | [hogg](http://twitter.com/search?q=hogg) | N/A |
+| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 36 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 38 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Ireland
 | 43 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 44 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 | 45 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 46 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 47 | [Liam Burke](http://twitter.com/search?q=Liam+Burke) | N/A |
-| 48 | [sheehan](http://twitter.com/search?q=sheehan) | N/A |
-| 49 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 50 | [Brendan Gleeson](http://twitter.com/search?q=Brendan+Gleeson) | N/A |
+| 46 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 47 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 48 | [Liam Burke](http://twitter.com/search?q=Liam+Burke) | N/A |
+| 49 | [sheehan](http://twitter.com/search?q=sheehan) | N/A |
+| 50 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 
 
 

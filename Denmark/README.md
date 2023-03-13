@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 09:17:13 UTC`
+📆 Last Updated: `2023-03-13 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 2 | [#FCMLBK](http://twitter.com/search?q=%23FCMLBK) | N/A |
-| 3 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
-| 4 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
-| 5 | [#BIFSIF](http://twitter.com/search?q=%23BIFSIF) | N/A |
-| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 1 | [#FCMLBK](http://twitter.com/search?q=%23FCMLBK) | N/A |
+| 2 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
+| 3 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
+| 4 | [#BIFSIF](http://twitter.com/search?q=%23BIFSIF) | N/A |
+| 5 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 7 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 8 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
 | 9 | [claesson](http://twitter.com/search?q=claesson) | N/A |
 | 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Denmark
 | 32 | [Folk](http://twitter.com/search?q=Folk) | N/A |
 | 33 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 34 | [elsker](http://twitter.com/search?q=elsker) | N/A |
-| 35 | [Fint](http://twitter.com/search?q=Fint) | N/A |
+| 35 | [fint](http://twitter.com/search?q=fint) | N/A |
 | 36 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 37 | [Mette](http://twitter.com/search?q=Mette) | N/A |
 | 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
@@ -60,7 +60,7 @@ This is top 50 for Denmark
 | 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 44 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 45 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 46 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
+| 46 | [frederiksberg bibliotek](http://twitter.com/search?q=frederiksberg+bibliotek) | N/A |
 | 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 49 | [danske](http://twitter.com/search?q=danske) | N/A |
