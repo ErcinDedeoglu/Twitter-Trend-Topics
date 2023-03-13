@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-13 00:29:09 UTC`
+📆 Last Updated: `2023-03-13 01:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 2 | [#ForksUp](http://twitter.com/search?q=%23ForksUp) | N/A |
-| 3 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 4 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 5 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 8 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 9 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 10 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 11 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 12 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 13 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 14 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 16 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 17 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 18 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 19 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 20 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 21 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 23 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 24 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 27 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
-| 28 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 29 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 30 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 31 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 32 | [Bryce Hopkins](http://twitter.com/search?q=Bryce+Hopkins) | Bryce Hopkins is a name of a person. It is not an English phrase or expression and therefore does not have a meaning in English. |
-| 33 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 34 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 35 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 36 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 37 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 38 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
-| 39 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 40 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 41 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 42 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 43 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 44 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 45 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 46 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 47 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 48 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 49 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 1 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 2 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 4 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 5 | [#ForksUp](http://twitter.com/search?q=%23ForksUp) | N/A |
+| 6 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 7 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 9 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 10 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 11 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 12 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 13 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 14 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 15 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 16 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 18 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 19 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
+| 20 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 21 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 22 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 23 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 24 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 25 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 26 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 27 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 28 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 29 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 30 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 31 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 32 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 34 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
+| 35 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 36 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 37 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 38 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 39 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 40 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 41 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 42 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 43 | [Paul Dano](http://twitter.com/search?q=Paul+Dano) | N/A |
+| 44 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 45 | [Riz Ahmed](http://twitter.com/search?q=Riz+Ahmed) | Riz Ahmed is a British actor, rapper, and activist. He is best known for his roles in films such as Rogue One: A Star Wars Story, Venom, and The Night Of. He has also appeared in television series such as The OA and Four Lions. His activism focuses on issues of representation and diversity in the media. |
+| 46 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 47 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 48 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 49 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
 
 
 

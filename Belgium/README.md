@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-13 00:29:10 UTC`
+📆 Last Updated: `2023-03-13 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CluSta](http://twitter.com/search?q=%23CluSta) | N/A |
-| 2 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
-| 3 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
-| 4 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
-| 5 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#ANDCER](http://twitter.com/search?q=%23ANDCER) | N/A |
+| 4 | [#gnkusg](http://twitter.com/search?q=%23gnkusg) | N/A |
+| 5 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
 | 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 7 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 8 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for Belgium
 | 10 | [visser](http://twitter.com/search?q=visser) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 13 | [cercle](http://twitter.com/search?q=cercle) | N/A |
 | 14 | [deila](http://twitter.com/search?q=deila) | N/A |
 | 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 16 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Belgium
 | 31 | [J'attends](http://twitter.com/search?q=J%27attends) | N/A |
 | 32 | [wetstraat](http://twitter.com/search?q=wetstraat) | N/A |
 | 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 34 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 35 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 36 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 37 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 34 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 35 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 36 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 37 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 38 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 39 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
-| 40 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
-| 43 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 44 | [RWDM](http://twitter.com/search?q=RWDM) | N/A |
-| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 46 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 47 | [Geloof](http://twitter.com/search?q=Geloof) | N/A |
-| 48 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 49 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 50 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Petr Yan](http://twitter.com/search?q=Petr+Yan) | N/A |
+| 42 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 43 | [rwdm](http://twitter.com/search?q=rwdm) | N/A |
+| 44 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 45 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
+| 46 | [geloof](http://twitter.com/search?q=geloof) | N/A |
+| 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 49 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 50 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
 
 
 

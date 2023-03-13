@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-13 00:28:29 UTC`
+📆 Last Updated: `2023-03-13 01:43:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,52 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#NoTapenLoDeNicolas](http://twitter.com/search?q=%23NoTapenLoDeNicolas) | N/A |
-| 3 | [#THEDREAMSHOW_IN_LATAM](http://twitter.com/search?q=%23THEDREAMSHOW_IN_LATAM) | N/A |
-| 4 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
-| 5 | [Merlano](http://twitter.com/search?q=Merlano) | N/A |
-| 6 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 7 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 8 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 2 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 3 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 4 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 5 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 6 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 7 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 8 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
 | 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 10 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 11 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
-| 12 | [Bajo Cauca](http://twitter.com/search?q=Bajo+Cauca) | N/A |
-| 13 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 14 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 15 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 16 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 17 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
-| 18 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 19 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 20 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
-| 21 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
-| 22 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 23 | [Pirry](http://twitter.com/search?q=Pirry) | N/A |
-| 24 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 25 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 28 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 29 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 10 | [#THEDREAMSHOW_IN_LATAM](http://twitter.com/search?q=%23THEDREAMSHOW_IN_LATAM) | N/A |
+| 11 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 12 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 13 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 14 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 15 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 16 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 17 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 18 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 19 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 20 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 21 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 22 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 23 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
+| 24 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 25 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 27 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 28 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 29 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
 | 30 | [Valles](http://twitter.com/search?q=Valles) | N/A |
-| 31 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 32 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
-| 33 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 34 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 35 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
-| 36 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 38 | [Brayan León](http://twitter.com/search?q=Brayan+Le%c3%b3n) | N/A |
-| 39 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 40 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 41 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
-| 42 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 43 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 45 | [Rusinque](http://twitter.com/search?q=Rusinque) | N/A |
-| 46 | [Segurito](http://twitter.com/search?q=Segurito) | N/A |
-| 47 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 48 | [Ni Judas](http://twitter.com/search?q=Ni+Judas) | N/A |
-| 49 | [Loaiza](http://twitter.com/search?q=Loaiza) | N/A |
+| 31 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 32 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 33 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 35 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 36 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 38 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 39 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 40 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 41 | [Lokillo](http://twitter.com/search?q=Lokillo) | N/A |
+| 42 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 43 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 44 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 45 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 46 | [#NoTapenLoDeNicolás](http://twitter.com/search?q=%23NoTapenLoDeNicol%c3%a1s) | N/A |
+| 47 | [#PetroEsUnaVerguenza](http://twitter.com/search?q=%23PetroEsUnaVerguenza) | N/A |
 
 
 

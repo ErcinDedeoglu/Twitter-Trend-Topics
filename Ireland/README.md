@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-13 00:29:11 UTC`
+📆 Last Updated: `2023-03-13 01:44:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
-| 3 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
+| 2 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
+| 3 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
 | 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 5 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
-| 6 | [#Smother](http://twitter.com/search?q=%23Smother) | N/A |
-| 7 | [#DWTSIRL](http://twitter.com/search?q=%23DWTSIRL) | N/A |
-| 8 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 10 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 11 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
-| 12 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 13 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
-| 14 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 16 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 17 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
-| 18 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 19 | [England](http://twitter.com/search?q=England) | N/A |
-| 20 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 21 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 22 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
-| 23 | [Luke Pearce](http://twitter.com/search?q=Luke+Pearce) | N/A |
-| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 25 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 26 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 29 | [Scots](http://twitter.com/search?q=Scots) | N/A |
-| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 31 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 32 | [Cian Healy](http://twitter.com/search?q=Cian+Healy) | N/A |
-| 33 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 34 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 36 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 37 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 5 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 6 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
+| 7 | [#AnIrishGoodbye](http://twitter.com/search?q=%23AnIrishGoodbye) | N/A |
+| 8 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 9 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 10 | [#DWTSIRL](http://twitter.com/search?q=%23DWTSIRL) | N/A |
+| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 12 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 14 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 15 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 16 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
+| 17 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 18 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 21 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
+| 22 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 23 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 24 | [England](http://twitter.com/search?q=England) | N/A |
+| 25 | [Luke Pearce](http://twitter.com/search?q=Luke+Pearce) | N/A |
+| 26 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 27 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 29 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
+| 30 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 31 | [Brendan Gleeson](http://twitter.com/search?q=Brendan+Gleeson) | N/A |
+| 32 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 33 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 34 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 35 | [Cian Healy](http://twitter.com/search?q=Cian+Healy) | N/A |
+| 36 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 37 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 39 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 40 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 41 | [Liam Burke](http://twitter.com/search?q=Liam+Burke) | N/A |
-| 42 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 43 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 44 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 45 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 46 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 47 | [GABRIEL JESUS](http://twitter.com/search?q=GABRIEL+JESUS) | N/A |
-| 48 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
-| 49 | [James Lowe](http://twitter.com/search?q=James+Lowe) | N/A |
-| 50 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 41 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 42 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 43 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 44 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 45 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
+| 46 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 47 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 50 | [GABRIEL JESUS](http://twitter.com/search?q=GABRIEL+JESUS) | N/A |
 
 
 

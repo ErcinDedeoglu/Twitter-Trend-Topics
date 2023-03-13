@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-13 00:28:31 UTC`
+📆 Last Updated: `2023-03-13 01:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 2 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
-| 3 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 4 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
-| 5 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
-| 6 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 7 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 8 | [Curintia](http://twitter.com/search?q=Curintia) | N/A |
-| 9 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
-| 10 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
-| 11 | [Vessoni](http://twitter.com/search?q=Vessoni) | N/A |
-| 12 | [Entre Mulheres](http://twitter.com/search?q=Entre+Mulheres) | N/A |
-| 13 | [#TheMaskedSingerBrasil](http://twitter.com/search?q=%23TheMaskedSingerBrasil) | N/A |
-| 14 | [Neo Química Arena](http://twitter.com/search?q=Neo+Qu%c3%admica+Arena) | N/A |
-| 15 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
-| 16 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 17 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 18 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 19 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 20 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 21 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 22 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
-| 23 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 24 | [#DançaDosFamosos](http://twitter.com/search?q=%23Dan%c3%a7aDosFamosos) | N/A |
-| 25 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 26 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 27 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 28 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 29 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 30 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 31 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
-| 32 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 33 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 34 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 35 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 36 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 37 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 38 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 39 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 40 | [Marrony](http://twitter.com/search?q=Marrony) | Marrony is a Portuguese slang term that is used to describe someone who is clumsy or awkward. In English, it can be translated to mean "clumsy" or "awkward". |
-| 41 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
-| 42 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 43 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 44 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 45 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 46 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 47 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 48 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
-| 49 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 1 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 2 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 3 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 4 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 5 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 6 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 7 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 8 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 9 | [JOÃO VITOR](http://twitter.com/search?q=JO%c3%83O+VITOR) | N/A |
+| 10 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 11 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
+| 12 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 13 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 14 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 15 | [Vexame](http://twitter.com/search?q=Vexame) | N/A |
+| 16 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
+| 17 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
+| 18 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
+| 19 | [Andrew](http://twitter.com/search?q=Andrew) | N/A |
+| 20 | [STEGEN](http://twitter.com/search?q=STEGEN) | N/A |
+| 21 | [Baleia](http://twitter.com/search?q=Baleia) | N/A |
+| 22 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 23 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 24 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 25 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 26 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 27 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 28 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 29 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 30 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 31 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 32 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 33 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 34 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 35 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 36 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
+| 37 | [#DançaDosFamosos](http://twitter.com/search?q=%23Dan%c3%a7aDosFamosos) | N/A |
+| 38 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 39 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 40 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
+| 41 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
+| 42 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
+| 43 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 44 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 45 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 46 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 47 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 48 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 49 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
 
 
 

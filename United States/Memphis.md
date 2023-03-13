@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-13 00:29:05 UTC`
+📆 Last Updated: `2023-03-13 01:44:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
-| 2 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 3 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 4 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 5 | [Kendric Davis](http://twitter.com/search?q=Kendric+Davis) | N/A |
-| 6 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 7 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
-| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 9 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 10 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 11 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 12 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 14 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 15 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 16 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 17 | [#SelectionSunday](http://twitter.com/search?q=%23SelectionSunday) | N/A |
-| 18 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 19 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 21 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 23 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 24 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 25 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 27 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 28 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 29 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
-| 30 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 31 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 33 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 34 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 35 | [Bryce Hopkins](http://twitter.com/search?q=Bryce+Hopkins) | Bryce Hopkins is a name of a person. It is not an English phrase or expression and therefore does not have a meaning in English. |
-| 36 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 37 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 38 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 39 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 40 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 41 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 42 | [Seth Davis](http://twitter.com/search?q=Seth+Davis) | N/A |
-| 43 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
-| 44 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 45 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 46 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 47 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 48 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 49 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 50 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [Louisiana](http://twitter.com/search?q=Louisiana) | N/A |
+| 3 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 5 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 6 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 7 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 8 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 9 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 11 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 12 | [Vanderbilt](http://twitter.com/search?q=Vanderbilt) | N/A |
+| 13 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 14 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 16 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 17 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 18 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 19 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 20 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 21 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 22 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 23 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 24 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 25 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
+| 26 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 27 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 28 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 29 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 30 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 31 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 32 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 33 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 34 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 35 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 36 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 37 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 38 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 39 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 40 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 41 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 42 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
+| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 44 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 45 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 46 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 47 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 48 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 49 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 50 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 
 
 

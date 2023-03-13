@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-13 00:28:36 UTC`
+📆 Last Updated: `2023-03-13 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 4 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 5 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
-| 6 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 7 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 9 | [Svenrik](http://twitter.com/search?q=Svenrik) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
+| 3 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
+| 4 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 5 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 6 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 7 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 9 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 10 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 12 | [kaufmann](http://twitter.com/search?q=kaufmann) | N/A |
-| 13 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 14 | [Rouladen](http://twitter.com/search?q=Rouladen) | N/A |
-| 15 | [Hackl](http://twitter.com/search?q=Hackl) | N/A |
-| 16 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 17 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
-| 18 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 19 | [Teppich](http://twitter.com/search?q=Teppich) | N/A |
-| 20 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 21 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 23 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 24 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 25 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 26 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
-| 27 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
-| 28 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 13 | [hackl](http://twitter.com/search?q=hackl) | N/A |
+| 14 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 16 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
+| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 18 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 19 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 20 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 21 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 22 | [Teppich](http://twitter.com/search?q=Teppich) | N/A |
+| 23 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 24 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
+| 25 | [APPLETV SAVE WARRIOR NUN](http://twitter.com/search?q=APPLETV+SAVE+WARRIOR+NUN) | N/A |
+| 26 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 27 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 28 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
 | 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [Gegentore](http://twitter.com/search?q=Gegentore) | N/A |
-| 31 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 30 | [gegentore](http://twitter.com/search?q=gegentore) | N/A |
+| 31 | [hass und hetze](http://twitter.com/search?q=hass+und+hetze) | N/A |
 | 32 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 33 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 34 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 33 | [bachmut](http://twitter.com/search?q=bachmut) | N/A |
+| 34 | [haller](http://twitter.com/search?q=haller) | N/A |
 | 35 | [Zeugen Jehovas](http://twitter.com/search?q=Zeugen+Jehovas) | N/A |
-| 36 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 36 | [malen](http://twitter.com/search?q=malen) | N/A |
 | 37 | [heyer](http://twitter.com/search?q=heyer) | N/A |
-| 38 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 39 | [amoklauf](http://twitter.com/search?q=amoklauf) | N/A |
-| 40 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 41 | [wölfin](http://twitter.com/search?q=w%c3%b6lfin) | N/A |
-| 42 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 43 | [klassenerhalt](http://twitter.com/search?q=klassenerhalt) | N/A |
-| 44 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
-| 45 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 46 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
-| 47 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 48 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 49 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 50 | [schulversager](http://twitter.com/search?q=schulversager) | N/A |
+| 38 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 40 | [wölfin](http://twitter.com/search?q=w%c3%b6lfin) | N/A |
+| 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 42 | [klassenerhalt](http://twitter.com/search?q=klassenerhalt) | N/A |
+| 43 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
+| 44 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
+| 45 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 46 | [schulversager](http://twitter.com/search?q=schulversager) | N/A |
+| 47 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 48 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 49 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 50 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
 
 
 

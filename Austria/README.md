@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-13 00:29:10 UTC`
+📆 Last Updated: `2023-03-13 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
+| 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 4 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
-| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 6 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 7 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
-| 8 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 8 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
 | 9 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
 | 10 | [kanzlerrede](http://twitter.com/search?q=kanzlerrede) | N/A |
 | 11 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Austria
 | 15 | [leitner](http://twitter.com/search?q=leitner) | N/A |
 | 16 | [Wert](http://twitter.com/search?q=Wert) | N/A |
 | 17 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 18 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 18 | [technologien](http://twitter.com/search?q=technologien) | N/A |
 | 19 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
 | 20 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
 | 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Austria
 | 33 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 34 | [wahlversprechen](http://twitter.com/search?q=wahlversprechen) | N/A |
 | 35 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 36 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 36 | [mitteln](http://twitter.com/search?q=mitteln) | N/A |
 | 37 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 38 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
 | 39 | [Orban](http://twitter.com/search?q=Orban) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Austria
 | 43 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
 | 44 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
 | 45 | [Karten](http://twitter.com/search?q=Karten) | N/A |
-| 46 | [Nimm](http://twitter.com/search?q=Nimm) | N/A |
+| 46 | [nimm](http://twitter.com/search?q=nimm) | N/A |
 | 47 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 48 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
 | 49 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 50 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 50 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
 
 
 

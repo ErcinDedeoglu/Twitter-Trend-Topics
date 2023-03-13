@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-13 00:29:00 UTC`
+📆 Last Updated: `2023-03-13 01:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Seninleyiz Cansu](http://twitter.com/search?q=Seninleyiz+Cansu) | N/A |
-| 2 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
-| 5 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
-| 6 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 7 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 8 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 9 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
-| 10 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 11 | [Pars](http://twitter.com/search?q=Pars) | N/A |
-| 12 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
-| 13 | [ŞoförPuanı SandıktaVerecek](http://twitter.com/search?q=%c5%9eof%c3%b6rPuan%c4%b1+Sand%c4%b1ktaVerecek) | N/A |
-| 14 | [Şero](http://twitter.com/search?q=%c5%9eero) | N/A |
-| 15 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 16 | [Şeref](http://twitter.com/search?q=%c5%9eeref) | N/A |
-| 17 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
-| 18 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
-| 19 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 20 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
-| 21 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
-| 22 | [Tayfun Taşdemir](http://twitter.com/search?q=Tayfun+Ta%c5%9fdemir) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 25 | [Muhafazakar](http://twitter.com/search?q=Muhafazakar) | N/A |
-| 26 | [Patates](http://twitter.com/search?q=Patates) | N/A |
-| 27 | [Helallik](http://twitter.com/search?q=Helallik) | N/A |
-| 28 | [Oyları](http://twitter.com/search?q=Oylar%c4%b1) | N/A |
-| 29 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 30 | [Cehalet](http://twitter.com/search?q=Cehalet) | N/A |
-| 31 | [Güzellik](http://twitter.com/search?q=G%c3%bczellik) | N/A |
-| 32 | [#HayvancılıkYokEdiliyor](http://twitter.com/search?q=%23Hayvanc%c4%b1l%c4%b1kYokEdiliyor) | N/A |
-| 33 | [#selincigerci](http://twitter.com/search?q=%23selincigerci) | N/A |
-| 34 | [#StajaMartMüjdesi](http://twitter.com/search?q=%23StajaMartM%c3%bcjdesi) | N/A |
-| 35 | [#SahipÇıkacağız](http://twitter.com/search?q=%23Sahip%c3%87%c4%b1kaca%c4%9f%c4%b1z) | N/A |
-| 36 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
-| 37 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
-| 38 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 39 | [#Kraliçe](http://twitter.com/search?q=%23Krali%c3%a7e) | N/A |
-| 40 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
-| 41 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
-| 42 | [#GüzelGünler](http://twitter.com/search?q=%23G%c3%bczelG%c3%bcnler) | N/A |
-| 43 | [#Yoekegitimekulakver](http://twitter.com/search?q=%23Yoekegitimekulakver) | N/A |
-| 44 | [#survivor2023](http://twitter.com/search?q=%23survivor2023) | N/A |
-| 45 | [#TorbaYasa](http://twitter.com/search?q=%23TorbaYasa) | N/A |
-| 46 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 47 | [#BurcuÖzberk](http://twitter.com/search?q=%23Burcu%c3%96zberk) | N/A |
-| 48 | [#5BinVeKismiyiMujdele](http://twitter.com/search?q=%235BinVeKismiyiMujdele) | N/A |
-| 49 | [#ZehMer](http://twitter.com/search?q=%23ZehMer) | N/A |
+| 1 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
+| 2 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
+| 3 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 4 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 5 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 6 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 7 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 8 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 9 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 10 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 11 | [Seninleyiz Cansu](http://twitter.com/search?q=Seninleyiz+Cansu) | N/A |
+| 12 | [güzelkızlar caminoyagelin](http://twitter.com/search?q=g%c3%bczelk%c4%b1zlar+caminoyagelin) | N/A |
+| 13 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 14 | [başım belada atvde](http://twitter.com/search?q=ba%c5%9f%c4%b1m+belada+atvde) | N/A |
+| 15 | [Muharremİnceye Aşığız](http://twitter.com/search?q=Muharrem%c4%b0nceye+A%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
+| 16 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 17 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 18 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
+| 19 | [testere necmi](http://twitter.com/search?q=testere+necmi) | N/A |
+| 20 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 21 | [milli şairimiz](http://twitter.com/search?q=milli+%c5%9fairimiz) | N/A |
+| 22 | [SiziSevmeyeGeldik ElSed](http://twitter.com/search?q=SiziSevmeyeGeldik+ElSed) | N/A |
+| 23 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 24 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
+| 25 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 26 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 27 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 28 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 29 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
+| 30 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 31 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 32 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 33 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 34 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
+| 35 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 36 | [edin visca](http://twitter.com/search?q=edin+visca) | N/A |
+| 37 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 38 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 39 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 40 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 41 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
+| 42 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
+| 43 | [Recep Tayyip Erdoğan KAZANACAK](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan+KAZANACAK) | N/A |
+| 44 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 45 | [TaşeronSorunu HalaDuruyor](http://twitter.com/search?q=Ta%c5%9feronSorunu+HalaDuruyor) | N/A |
+| 46 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
+| 47 | [Teknoloji Bakanımız Sn](http://twitter.com/search?q=Teknoloji+Bakan%c4%b1m%c4%b1z+Sn) | N/A |
+| 48 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 49 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
 
 
 

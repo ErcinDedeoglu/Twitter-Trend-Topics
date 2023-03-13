@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-13 00:29:13 UTC`
+📆 Last Updated: `2023-03-13 01:44:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#العهد_الانصار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1) | N/A |
-| 2 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 3 | [فؤاد شهاب](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%b4%d9%87%d8%a7%d8%a8) | N/A |
+| 2 | [فؤاد شهاب](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%b4%d9%87%d8%a7%d8%a8) | N/A |
+| 3 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 4 | [#كتاب_الشهره](http://twitter.com/search?q=%23%d9%83%d8%aa%d8%a7%d8%a8_%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%87) | N/A |
 | 5 | [الروح الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%ad+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
 | 6 | [#احد_مبارك](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%af_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Lebanon
 | 20 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
 | 21 | [تيار المستقبل](http://twitter.com/search?q=%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84) | N/A |
 | 22 | [نادي العهد](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 23 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 25 | [نهار الاحد](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 26 | [دار العجزه](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%ac%d8%b2%d9%87) | N/A |
-| 27 | [نهر ابراهيم](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 28 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 29 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 30 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 31 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 32 | [Telethon](http://twitter.com/search?q=Telethon) | N/A |
-| 33 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 34 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
-| 37 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
-| 38 | [الخدمه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [ابو الفوارس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d8%b3) | N/A |
-| 40 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 41 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 42 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 43 | [جورج الراسي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 44 | [ابيب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
-| 45 | [ابو مصطفي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b5%d8%b7%d9%81%d9%8a) | N/A |
-| 46 | [المنطقه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 48 | [شربل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
-| 49 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 50 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 23 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 24 | [نهار الاحد](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 25 | [دار العجزه](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%ac%d8%b2%d9%87) | N/A |
+| 26 | [نهر ابراهيم](http://twitter.com/search?q=%d9%86%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 27 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 28 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 29 | [لال سعود](http://twitter.com/search?q=%d9%84%d8%a7%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 30 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 31 | [Telethon](http://twitter.com/search?q=Telethon) | N/A |
+| 32 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 33 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 35 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 36 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 37 | [الخدمه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 38 | [ابو الفوارس](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%81%d9%88%d8%a7%d8%b1%d8%b3) | N/A |
+| 39 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 40 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 41 | [جورج الراسي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 42 | [ابيب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
+| 43 | [ابو مصطفي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b5%d8%b7%d9%81%d9%8a) | N/A |
+| 44 | [المنطقه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 45 | [شربل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
+| 46 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 47 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 48 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 50 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 
 
 

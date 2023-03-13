@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-13 00:29:07 UTC`
+📆 Last Updated: `2023-03-13 01:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 2 | [#EEAAO](http://twitter.com/search?q=%23EEAAO) | N/A |
-| 3 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 4 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 5 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 6 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 7 | [Federal Reserve](http://twitter.com/search?q=Federal+Reserve) | N/A |
-| 8 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 9 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 10 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 11 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 12 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 13 | [#SVBCollapse](http://twitter.com/search?q=%23SVBCollapse) | N/A |
-| 14 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
-| 15 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 16 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
-| 17 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 18 | [FaZe](http://twitter.com/search?q=FaZe) | N/A |
-| 19 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 20 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 21 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 24 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 25 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 26 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 27 | [The Banshees of Inisherin](http://twitter.com/search?q=The+Banshees+of+Inisherin) | N/A |
-| 28 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 29 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 30 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 31 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 32 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 33 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 34 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 36 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 37 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 38 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 39 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 40 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 41 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 42 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 43 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 44 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 45 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 46 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 47 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 48 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
-| 49 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 50 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 1 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 2 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 3 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 4 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
+| 5 | [Freaky Friday](http://twitter.com/search?q=Freaky+Friday) | N/A |
+| 6 | [Fire of Love](http://twitter.com/search?q=Fire+of+Love) | N/A |
+| 7 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
+| 8 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 9 | [Nicole Kidman](http://twitter.com/search?q=Nicole+Kidman) | N/A |
+| 10 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 11 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 12 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
+| 13 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 14 | [Florence Pugh](http://twitter.com/search?q=Florence+Pugh) | N/A |
+| 15 | [Black Panther](http://twitter.com/search?q=Black+Panther) | N/A |
+| 16 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 17 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 18 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 19 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 20 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 21 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
+| 22 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 23 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 24 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 25 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 26 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 27 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 28 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 29 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 30 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 31 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 32 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 33 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 34 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 35 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 36 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
+| 37 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 38 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 39 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 40 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 41 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 42 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 43 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 44 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 45 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 46 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 47 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 48 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
+| 49 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 50 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 
 
 

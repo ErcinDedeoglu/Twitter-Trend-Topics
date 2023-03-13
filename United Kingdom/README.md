@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-13 00:29:17 UTC`
+📆 Last Updated: `2023-03-13 01:44:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
-| 3 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 4 | [#loveislandaftersun](http://twitter.com/search?q=%23loveislandaftersun) | N/A |
-| 5 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 6 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 7 | [#PotteryThrowdown](http://twitter.com/search?q=%23PotteryThrowdown) | N/A |
-| 8 | [Morse](http://twitter.com/search?q=Morse) | N/A |
-| 9 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 10 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
-| 11 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 12 | [John Thaw](http://twitter.com/search?q=John+Thaw) | N/A |
-| 13 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 14 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 15 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 16 | [Shaqs](http://twitter.com/search?q=Shaqs) | N/A |
-| 17 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 18 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 19 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 20 | [Nile](http://twitter.com/search?q=Nile) | N/A |
-| 21 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 22 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
-| 23 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 24 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 25 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 26 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 27 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 29 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Bill Tidy](http://twitter.com/search?q=Bill+Tidy) | N/A |
-| 32 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 33 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 34 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 35 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 36 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 37 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 38 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
-| 39 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 40 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 3 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 4 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 6 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 7 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 8 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 9 | [#PotteryThrowdown](http://twitter.com/search?q=%23PotteryThrowdown) | N/A |
+| 10 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 11 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 12 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 13 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 14 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
+| 15 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 16 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
+| 17 | [Aftersun](http://twitter.com/search?q=Aftersun) | Aftersun is a type of lotion or cream that is used to soothe and moisturize skin after sun exposure. It is usually applied after a day in the sun to help reduce redness, inflammation, and dryness. The term "aftersun" is derived from the phrase "after the sun," referring to the time period following sun exposure. |
+| 18 | [John Thaw](http://twitter.com/search?q=John+Thaw) | N/A |
+| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 20 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 21 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 22 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 23 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 24 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 25 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 26 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 27 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 28 | [Nile](http://twitter.com/search?q=Nile) | N/A |
+| 29 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 30 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 31 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 34 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 35 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 36 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 37 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 38 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 39 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 40 | [Luther](http://twitter.com/search?q=Luther) | N/A |
 | 41 | [John Barnes](http://twitter.com/search?q=John+Barnes) | N/A |
-| 42 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 43 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 44 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 45 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 46 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 47 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 48 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 49 | [#crufts2023](http://twitter.com/search?q=%23crufts2023) | N/A |
-| 50 | [#forgotten80s](http://twitter.com/search?q=%23forgotten80s) | N/A |
+| 42 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 43 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
+| 44 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 45 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
+| 46 | [#crufts2023](http://twitter.com/search?q=%23crufts2023) | N/A |
+| 47 | [#Paris](http://twitter.com/search?q=%23Paris) | #Paris is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the city of Paris, France. It can also be used to tag posts related to the culture, people, and lifestyle of Paris. |
+| 48 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 49 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 50 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
 
 
 

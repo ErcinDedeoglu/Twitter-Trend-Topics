@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 00:29:13 UTC`
+📆 Last Updated: `2023-03-13 01:44:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,15 +28,15 @@ This is top 50 for Latvia
 | 11 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 12 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
 | 13 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 14 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 14 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 15 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 16 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 | 17 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 18 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 19 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 19 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 20 | [Uzreiz](http://twitter.com/search?q=Uzreiz) | N/A |
-| 21 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 22 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 21 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 22 | [nevis](http://twitter.com/search?q=nevis) | N/A |
 | 23 | [tavs](http://twitter.com/search?q=tavs) | N/A |
 | 24 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
 | 25 | [vakar](http://twitter.com/search?q=vakar) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Latvia
 | 28 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 29 | [viņi](http://twitter.com/search?q=vi%c5%86i) | N/A |
 | 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 31 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 31 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 | 32 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 33 | [virslīgas](http://twitter.com/search?q=virsl%c4%abgas) | N/A |
 | 34 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |

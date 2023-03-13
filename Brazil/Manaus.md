@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-13 00:28:32 UTC`
+📆 Last Updated: `2023-03-13 01:43:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 3 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 4 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 3 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 4 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 5 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 6 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
-| 7 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 8 | [#DançaDosFamosos](http://twitter.com/search?q=%23Dan%c3%a7aDosFamosos) | N/A |
-| 9 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 6 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 7 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 8 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 9 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
 | 10 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 11 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 12 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 13 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 14 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 15 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
-| 16 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 17 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 18 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 19 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 20 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 21 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 22 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 23 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 24 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 25 | [Marrony](http://twitter.com/search?q=Marrony) | Marrony is a Portuguese slang term that is used to describe someone who is clumsy or awkward. In English, it can be translated to mean "clumsy" or "awkward". |
-| 26 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [#Domingao](http://twitter.com/search?q=%23Domingao) | N/A |
-| 29 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 30 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 31 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 32 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 33 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 34 | [fabio santos](http://twitter.com/search?q=fabio+santos) | N/A |
-| 35 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 36 | [#DomingoEspetacular](http://twitter.com/search?q=%23DomingoEspetacular) | N/A |
-| 37 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 38 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 39 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
-| 40 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 41 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 42 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 43 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 45 | [Emily Blunt](http://twitter.com/search?q=Emily+Blunt) | N/A |
-| 46 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 47 | [Jão e Anitta](http://twitter.com/search?q=J%c3%a3o+e+Anitta) | N/A |
-| 48 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 49 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 50 | [Vitor Bueno](http://twitter.com/search?q=Vitor+Bueno) | N/A |
+| 11 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 12 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 13 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
+| 14 | [#DançaDosFamosos](http://twitter.com/search?q=%23Dan%c3%a7aDosFamosos) | N/A |
+| 15 | [Sofia Carson](http://twitter.com/search?q=Sofia+Carson) | N/A |
+| 16 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 17 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
+| 18 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
+| 19 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 20 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
+| 21 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 22 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 24 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 25 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 26 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
+| 27 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 28 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 29 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 30 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 31 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
+| 32 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
+| 33 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 34 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 35 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 36 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 37 | [Riz Ahmed](http://twitter.com/search?q=Riz+Ahmed) | Riz Ahmed is a British actor, rapper, and activist. He is best known for his roles in films such as Rogue One: A Star Wars Story, Venom, and The Night Of. He has also appeared in television series such as The OA and Four Lions. His activism focuses on issues of representation and diversity in the media. |
+| 38 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 39 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 40 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 41 | [Jão e Anitta](http://twitter.com/search?q=J%c3%a3o+e+Anitta) | N/A |
+| 42 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 43 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
+| 44 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 45 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 46 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 47 | [#Domingao](http://twitter.com/search?q=%23Domingao) | N/A |
+| 48 | [Marrony](http://twitter.com/search?q=Marrony) | Marrony is a Portuguese slang term that is used to describe someone who is clumsy or awkward. In English, it can be translated to mean "clumsy" or "awkward". |
+| 49 | [Cara Delevingne](http://twitter.com/search?q=Cara+Delevingne) | N/A |
+| 50 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 
 
 
