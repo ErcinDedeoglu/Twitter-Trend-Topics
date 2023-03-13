@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-13 10:17:15 UTC`
+📆 Last Updated: `2023-03-13 11:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Portugal
 | 8 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
 | 9 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
 | 10 | [#sousaveiga](http://twitter.com/search?q=%23sousaveiga) | N/A |
-| 11 | [Marítimo](http://twitter.com/search?q=Mar%c3%adtimo) | N/A |
-| 12 | [ivandro](http://twitter.com/search?q=ivandro) | N/A |
+| 11 | [ivandro](http://twitter.com/search?q=ivandro) | N/A |
+| 12 | [Marítimo](http://twitter.com/search?q=Mar%c3%adtimo) | N/A |
 | 13 | [nelson évora](http://twitter.com/search?q=nelson+%c3%a9vora) | N/A |
 | 14 | [joão pinheiro](http://twitter.com/search?q=jo%c3%a3o+pinheiro) | N/A |
 | 15 | [jesus quisto](http://twitter.com/search?q=jesus+quisto) | N/A |
@@ -34,14 +34,14 @@ This is top 50 for Portugal
 | 17 | [#premiereleven](http://twitter.com/search?q=%23premiereleven) | N/A |
 | 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 19 | [grimaldo](http://twitter.com/search?q=grimaldo) | N/A |
-| 20 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
-| 21 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
-| 22 | [sport lisboa](http://twitter.com/search?q=sport+lisboa) | N/A |
-| 23 | [Maro](http://twitter.com/search?q=Maro) | N/A |
-| 24 | [ai coração](http://twitter.com/search?q=ai+cora%c3%a7%c3%a3o) | N/A |
-| 25 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 26 | [joão mário](http://twitter.com/search?q=jo%c3%a3o+m%c3%a1rio) | N/A |
-| 27 | [Ice Merchants](http://twitter.com/search?q=Ice+Merchants) | N/A |
+| 20 | [vitória](http://twitter.com/search?q=vit%c3%b3ria) | N/A |
+| 21 | [sport lisboa](http://twitter.com/search?q=sport+lisboa) | N/A |
+| 22 | [Maro](http://twitter.com/search?q=Maro) | N/A |
+| 23 | [ai coração](http://twitter.com/search?q=ai+cora%c3%a7%c3%a3o) | N/A |
+| 24 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
+| 25 | [Ice Merchants](http://twitter.com/search?q=Ice+Merchants) | N/A |
+| 26 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 27 | [joão mário](http://twitter.com/search?q=jo%c3%a3o+m%c3%a1rio) | N/A |
 | 28 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 29 | [vamos benfica](http://twitter.com/search?q=vamos+benfica) | N/A |
 | 30 | [#csmslb](http://twitter.com/search?q=%23csmslb) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Portugal
 | 47 | [bebida alcoólica favorita](http://twitter.com/search?q=bebida+alco%c3%b3lica+favorita) | N/A |
 | 48 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 49 | [veríssimo](http://twitter.com/search?q=ver%c3%adssimo) | N/A |
-| 50 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 50 | [puskas](http://twitter.com/search?q=puskas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-13 10:16:30 UTC`
+📆 Last Updated: `2023-03-13 11:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
 | 3 | [#vamoslau](http://twitter.com/search?q=%23vamoslau) | N/A |
-| 4 | [#SuperclasicoxTNTSports](http://twitter.com/search?q=%23SuperclasicoxTNTSports) | N/A |
+| 4 | [#superclasicoxtntsports](http://twitter.com/search?q=%23superclasicoxtntsports) | N/A |
 | 5 | [poblete](http://twitter.com/search?q=poblete) | N/A |
-| 6 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
-| 7 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 6 | [ZALDIVIA](http://twitter.com/search?q=ZALDIVIA) | N/A |
+| 7 | [pellegrino](http://twitter.com/search?q=pellegrino) | N/A |
 | 8 | [quinteros](http://twitter.com/search?q=quinteros) | N/A |
 | 9 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
 | 10 | [assadi](http://twitter.com/search?q=assadi) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [Chile](</Chile>)
 | 15 | [benegas](http://twitter.com/search?q=benegas) | N/A |
 | 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 17 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 18 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 18 | [ramiro](http://twitter.com/search?q=ramiro) | N/A |
 | 19 | [Campos](http://twitter.com/search?q=Campos) | N/A |
 | 20 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
 | 21 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
@@ -47,8 +47,8 @@ This is top 50 for [Chile](</Chile>)
 | 30 | [pavez](http://twitter.com/search?q=pavez) | N/A |
 | 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 32 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 33 | [matamala](http://twitter.com/search?q=matamala) | N/A |
-| 34 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 33 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 34 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
 | 35 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 36 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 | 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
@@ -58,11 +58,11 @@ This is top 50 for [Chile](</Chile>)
 | 41 | [segovia](http://twitter.com/search?q=segovia) | N/A |
 | 42 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
 | 43 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 44 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 44 | [pizarro](http://twitter.com/search?q=pizarro) | N/A |
 | 45 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 46 | [dituro](http://twitter.com/search?q=dituro) | N/A |
 | 47 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 48 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 48 | [isla](http://twitter.com/search?q=isla) | N/A |
 | 49 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 
 

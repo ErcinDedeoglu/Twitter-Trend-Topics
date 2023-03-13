@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-13 10:16:41 UTC`
+📆 Last Updated: `2023-03-13 11:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,17 +45,17 @@ This is top 50 for [Norway](</Norway>)
 | 28 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
 | 29 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
 | 30 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 31 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 31 | [staten](http://twitter.com/search?q=staten) | N/A |
 | 32 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 36 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 37 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
-| 38 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
-| 39 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
+| 35 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
+| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 38 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 39 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
+| 40 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 42 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 | 43 | [Herregud](http://twitter.com/search?q=Herregud) | N/A |
 | 44 | [Ganske](http://twitter.com/search?q=Ganske) | N/A |

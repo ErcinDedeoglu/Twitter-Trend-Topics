@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-13 10:17:11 UTC`
+📆 Last Updated: `2023-03-13 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,10 +40,10 @@ This is top 50 for Ecuador
 | 23 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 24 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
 | 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [blanca](http://twitter.com/search?q=blanca) | N/A |
+| 26 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
 | 27 | [montalvo](http://twitter.com/search?q=montalvo) | N/A |
 | 28 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 29 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
+| 29 | [don omar](http://twitter.com/search?q=don+omar) | N/A |
 | 30 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 31 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
 | 32 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
@@ -57,8 +57,8 @@ This is top 50 for Ecuador
 | 40 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
 | 41 | [deportivo quito](http://twitter.com/search?q=deportivo+quito) | N/A |
 | 42 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 43 | [Lassie](http://twitter.com/search?q=Lassie) | N/A |
-| 44 | [Trío](http://twitter.com/search?q=Tr%c3%ado) | N/A |
+| 43 | [lassie](http://twitter.com/search?q=lassie) | N/A |
+| 44 | [trío](http://twitter.com/search?q=tr%c3%ado) | N/A |
 | 45 | [judicatura](http://twitter.com/search?q=judicatura) | N/A |
 | 46 | [All Quiet On The Western Front](http://twitter.com/search?q=All+Quiet+On+The+Western+Front) | N/A |
 | 47 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-13 10:17:14 UTC`
+📆 Last Updated: `2023-03-13 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Norway
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
+| 2 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
 | 3 | [skeid](http://twitter.com/search?q=skeid) | N/A |
 | 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
@@ -45,17 +45,17 @@ This is top 50 for Norway
 | 28 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
 | 29 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
 | 30 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 31 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 31 | [staten](http://twitter.com/search?q=staten) | N/A |
 | 32 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 36 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 37 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
-| 38 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
-| 39 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
+| 35 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
+| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 38 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 39 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
+| 40 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 42 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 | 43 | [Herregud](http://twitter.com/search?q=Herregud) | N/A |
 | 44 | [Ganske](http://twitter.com/search?q=Ganske) | N/A |

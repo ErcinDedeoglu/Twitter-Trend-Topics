@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-13 10:16:35 UTC`
+📆 Last Updated: `2023-03-13 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Austria](</Austria>)
 | 7 | [landbauer](http://twitter.com/search?q=landbauer) | N/A |
 | 8 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
 | 9 | [kanzlerrede](http://twitter.com/search?q=kanzlerrede) | N/A |
-| 10 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 10 | [unglaublich](http://twitter.com/search?q=unglaublich) | N/A |
 | 11 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 12 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 13 | [Peter](http://twitter.com/search?q=Peter) | N/A |
@@ -36,12 +36,12 @@ This is top 50 for [Austria](</Austria>)
 | 19 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
 | 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 21 | [neos](http://twitter.com/search?q=neos) | N/A |
-| 22 | [koalitionspartner](http://twitter.com/search?q=koalitionspartner) | N/A |
-| 23 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 24 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 22 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 23 | [menschheit](http://twitter.com/search?q=menschheit) | N/A |
+| 24 | [irrtum](http://twitter.com/search?q=irrtum) | N/A |
 | 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 27 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 26 | [modell](http://twitter.com/search?q=modell) | N/A |
+| 27 | [sturm](http://twitter.com/search?q=sturm) | N/A |
 | 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
 | 29 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 30 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
@@ -56,12 +56,12 @@ This is top 50 for [Austria](</Austria>)
 | 39 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 40 | [rauch](http://twitter.com/search?q=rauch) | N/A |
 | 41 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 42 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 42 | [botschaft](http://twitter.com/search?q=botschaft) | N/A |
 | 43 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 44 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 44 | [erde](http://twitter.com/search?q=erde) | N/A |
 | 45 | [Visionen](http://twitter.com/search?q=Visionen) | N/A |
 | 46 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 47 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
+| 47 | [schuhe](http://twitter.com/search?q=schuhe) | N/A |
 | 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 49 | [neuwahlen](http://twitter.com/search?q=neuwahlen) | N/A |
 | 50 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |

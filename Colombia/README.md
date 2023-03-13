@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-13 10:17:11 UTC`
+📆 Last Updated: `2023-03-13 11:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for Colombia
 | 6 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
 | 7 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 8 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 9 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 9 | [juanfer](http://twitter.com/search?q=juanfer) | N/A |
 | 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 11 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 | 12 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 13 | [Merlano](http://twitter.com/search?q=Merlano) | N/A |
+| 13 | [merlano](http://twitter.com/search?q=merlano) | N/A |
 | 14 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 15 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 16 | [Dan Reynolds](http://twitter.com/search?q=Dan+Reynolds) | N/A |
+| 16 | [dan reynolds](http://twitter.com/search?q=dan+reynolds) | N/A |
 | 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 18 | [Soacha](http://twitter.com/search?q=Soacha) | N/A |
 | 19 | [bajo cauca](http://twitter.com/search?q=bajo+cauca) | N/A |
 | 20 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 21 | [#THEDREAMSHOW_IN_LATAM](http://twitter.com/search?q=%23THEDREAMSHOW_IN_LATAM) | N/A |
+| 21 | [#thedreamshow_in_latam](http://twitter.com/search?q=%23thedreamshow_in_latam) | N/A |
 | 22 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
 | 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 24 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
@@ -49,13 +49,13 @@ This is top 50 for Colombia
 | 32 | [narcolas](http://twitter.com/search?q=narcolas) | N/A |
 | 33 | [lokillo](http://twitter.com/search?q=lokillo) | N/A |
 | 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 35 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 36 | [Rapder](http://twitter.com/search?q=Rapder) | N/A |
+| 35 | [viera](http://twitter.com/search?q=viera) | N/A |
+| 36 | [rapder](http://twitter.com/search?q=rapder) | N/A |
 | 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 38 | [Gazir](http://twitter.com/search?q=Gazir) | N/A |
 | 39 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
 | 40 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 41 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 41 | [chuty](http://twitter.com/search?q=chuty) | N/A |
 | 42 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 43 | [loaiza](http://twitter.com/search?q=loaiza) | N/A |
 | 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |

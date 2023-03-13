@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-13 10:17:12 UTC`
+📆 Last Updated: `2023-03-13 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,8 +29,8 @@ This is top 50 for Guatemala
 | 12 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 13 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 15 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 16 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 17 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 18 | [#Cuaresma2023](http://twitter.com/search?q=%23Cuaresma2023) | N/A |
 | 19 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
@@ -41,10 +41,10 @@ This is top 50 for Guatemala
 | 24 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 25 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 27 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 27 | [explica tu twitter](http://twitter.com/search?q=explica+tu+twitter) | N/A |
 | 28 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
 | 29 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 30 | [Canela](http://twitter.com/search?q=Canela) | N/A |
+| 30 | [canela](http://twitter.com/search?q=canela) | N/A |
 | 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 32 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 33 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Guatemala
 | 44 | [xelajú mc](http://twitter.com/search?q=xelaj%c3%ba+mc) | N/A |
 | 45 | [tercer domingo de cuaresma](http://twitter.com/search?q=tercer+domingo+de+cuaresma) | N/A |
 | 46 | [#euelecciones2023](http://twitter.com/search?q=%23euelecciones2023) | N/A |
-| 47 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
+| 47 | [santa lucía](http://twitter.com/search?q=santa+luc%c3%ada) | N/A |
 | 48 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
 | 50 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |

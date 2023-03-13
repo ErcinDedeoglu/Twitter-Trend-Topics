@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-13 10:16:42 UTC`
+📆 Last Updated: `2023-03-13 11:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,23 +48,23 @@ This is top 50 for [Greece](</Greece>)
 | 31 | [κουλα](http://twitter.com/search?q=%ce%ba%ce%bf%cf%85%ce%bb%ce%b1) | N/A |
 | 32 | [κορο](http://twitter.com/search?q=%ce%ba%ce%bf%cf%81%ce%bf) | N/A |
 | 33 | [Opap Arena](http://twitter.com/search?q=Opap+Arena) | N/A |
-| 34 | [κυριακες](http://twitter.com/search?q=%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b5%cf%82) | N/A |
-| 35 | [εξαρχειων](http://twitter.com/search?q=%ce%b5%ce%be%ce%b1%cf%81%cf%87%ce%b5%ce%b9%cf%89%ce%bd) | N/A |
-| 36 | [ελισαβετ](http://twitter.com/search?q=%ce%b5%ce%bb%ce%b9%cf%83%ce%b1%ce%b2%ce%b5%cf%84) | N/A |
-| 37 | [ματσουκαρου](http://twitter.com/search?q=%ce%bc%ce%b1%cf%84%cf%83%ce%bf%cf%85%ce%ba%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 38 | [σιλας](http://twitter.com/search?q=%cf%83%ce%b9%ce%bb%ce%b1%cf%82) | N/A |
-| 39 | [Αλεξια](http://twitter.com/search?q=%ce%91%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | Αλεξια is a female Greek name, derived from the name Alexander. It is pronounced ah-LEH-ksi-ah. In English, it means "defender of mankind". |
-| 40 | [Αμραμπατ](http://twitter.com/search?q=%ce%91%ce%bc%cf%81%ce%b1%ce%bc%cf%80%ce%b1%cf%84) | N/A |
-| 41 | [βιλντοζα](http://twitter.com/search?q=%ce%b2%ce%b9%ce%bb%ce%bd%cf%84%ce%bf%ce%b6%ce%b1) | N/A |
-| 42 | [Μουκουντι](http://twitter.com/search?q=%ce%9c%ce%bf%cf%85%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b9) | N/A |
-| 43 | [μπισμπικη](http://twitter.com/search?q=%ce%bc%cf%80%ce%b9%cf%83%ce%bc%cf%80%ce%b9%ce%ba%ce%b7) | N/A |
-| 44 | [νεα φιλαδελφεια](http://twitter.com/search?q=%ce%bd%ce%b5%ce%b1+%cf%86%ce%b9%ce%bb%ce%b1%ce%b4%ce%b5%ce%bb%cf%86%ce%b5%ce%b9%ce%b1) | N/A |
-| 45 | [ΙΒΑΝ](http://twitter.com/search?q=%ce%99%ce%92%ce%91%ce%9d) | N/A |
-| 46 | [καραιβαζ](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%b1%ce%b9%ce%b2%ce%b1%ce%b6) | N/A |
-| 47 | [Ονειρα](http://twitter.com/search?q=%ce%9f%ce%bd%ce%b5%ce%b9%cf%81%ce%b1) | N/A |
-| 48 | [Δεκελειας](http://twitter.com/search?q=%ce%94%ce%b5%ce%ba%ce%b5%ce%bb%ce%b5%ce%b9%ce%b1%cf%82) | N/A |
-| 49 | [αναρχικοι](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%ce%b9) | N/A |
-| 50 | [μαντσινι](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%84%cf%83%ce%b9%ce%bd%ce%b9) | N/A |
+| 34 | [εξαρχειων](http://twitter.com/search?q=%ce%b5%ce%be%ce%b1%cf%81%cf%87%ce%b5%ce%b9%cf%89%ce%bd) | N/A |
+| 35 | [ελισαβετ](http://twitter.com/search?q=%ce%b5%ce%bb%ce%b9%cf%83%ce%b1%ce%b2%ce%b5%cf%84) | N/A |
+| 36 | [ματσουκαρου](http://twitter.com/search?q=%ce%bc%ce%b1%cf%84%cf%83%ce%bf%cf%85%ce%ba%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 37 | [σιλας](http://twitter.com/search?q=%cf%83%ce%b9%ce%bb%ce%b1%cf%82) | N/A |
+| 38 | [αλεξια](http://twitter.com/search?q=%ce%b1%ce%bb%ce%b5%ce%be%ce%b9%ce%b1) | N/A |
+| 39 | [αμραμπατ](http://twitter.com/search?q=%ce%b1%ce%bc%cf%81%ce%b1%ce%bc%cf%80%ce%b1%cf%84) | N/A |
+| 40 | [βιλντοζα](http://twitter.com/search?q=%ce%b2%ce%b9%ce%bb%ce%bd%cf%84%ce%bf%ce%b6%ce%b1) | N/A |
+| 41 | [μουκουντι](http://twitter.com/search?q=%ce%bc%ce%bf%cf%85%ce%ba%ce%bf%cf%85%ce%bd%cf%84%ce%b9) | N/A |
+| 42 | [μπισμπικη](http://twitter.com/search?q=%ce%bc%cf%80%ce%b9%cf%83%ce%bc%cf%80%ce%b9%ce%ba%ce%b7) | N/A |
+| 43 | [νεα φιλαδελφεια](http://twitter.com/search?q=%ce%bd%ce%b5%ce%b1+%cf%86%ce%b9%ce%bb%ce%b1%ce%b4%ce%b5%ce%bb%cf%86%ce%b5%ce%b9%ce%b1) | N/A |
+| 44 | [ιβαν](http://twitter.com/search?q=%ce%b9%ce%b2%ce%b1%ce%bd) | N/A |
+| 45 | [καραιβαζ](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%b1%ce%b9%ce%b2%ce%b1%ce%b6) | N/A |
+| 46 | [ονειρα](http://twitter.com/search?q=%ce%bf%ce%bd%ce%b5%ce%b9%cf%81%ce%b1) | N/A |
+| 47 | [Δεκελειας](http://twitter.com/search?q=%ce%94%ce%b5%ce%ba%ce%b5%ce%bb%ce%b5%ce%b9%ce%b1%cf%82) | N/A |
+| 48 | [αναρχικοι](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%ce%b9) | N/A |
+| 49 | [μαντσινι](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%84%cf%83%ce%b9%ce%bd%ce%b9) | N/A |
+| 50 | [αλμειδα](http://twitter.com/search?q=%ce%b1%ce%bb%ce%bc%ce%b5%ce%b9%ce%b4%ce%b1) | N/A |
 
 
 

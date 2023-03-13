@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-13 10:16:32 UTC`
+📆 Last Updated: `2023-03-13 11:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Brazil](</Brazil>)
 | 15 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
 | 16 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 17 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 18 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 18 | [#fantastico](http://twitter.com/search?q=%23fantastico) | N/A |
 | 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 20 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 21 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 22 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 23 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
+| 20 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 21 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 22 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 23 | [camila morgado](http://twitter.com/search?q=camila+morgado) | N/A |
 | 24 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 25 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
 | 26 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
 | 27 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
-| 28 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 28 | [pilantra](http://twitter.com/search?q=pilantra) | N/A |
 | 29 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
 | 30 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 31 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
 | 32 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
 | 33 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
 | 34 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 35 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 36 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 37 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 38 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 35 | [decode](http://twitter.com/search?q=decode) | N/A |
+| 36 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 37 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 38 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
 | 39 | [Pantera Negra](http://twitter.com/search?q=Pantera+Negra) | N/A |
-| 40 | [Isabela Boscov](http://twitter.com/search?q=Isabela+Boscov) | N/A |
-| 41 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
-| 42 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
-| 43 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 44 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 45 | [Merecido](http://twitter.com/search?q=Merecido) | N/A |
-| 46 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 48 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 49 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
-| 50 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 40 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
+| 41 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 42 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 43 | [merecido](http://twitter.com/search?q=merecido) | N/A |
+| 44 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 45 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 47 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
+| 48 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 49 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 50 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
 
 
 

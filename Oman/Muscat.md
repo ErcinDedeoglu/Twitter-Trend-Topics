@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-13 10:16:57 UTC`
+📆 Last Updated: `2023-03-13 11:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for [Oman](</Oman>)
 | 23 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
 | 24 | [صاحب الجلاله السلطان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
 | 25 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 26 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 27 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 28 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 29 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 30 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 26 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 27 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 28 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 29 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 30 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 31 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 32 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 33 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 34 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 35 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 36 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 37 | [الساميه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 38 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
-| 39 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 40 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 41 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 42 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 43 | [الانشطه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 44 | [محمد المسلمي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a) | N/A |
-| 45 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 46 | [بن حبيب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 47 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 48 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 49 | [سالم عبدالله الجابر الصباح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 50 | [الهييه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 32 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 33 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 34 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 35 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
+| 36 | [الساميه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 37 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
+| 38 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 39 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 40 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 41 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 42 | [الانشطه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 43 | [محمد المسلمي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a) | N/A |
+| 44 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [بن حبيب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 46 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 47 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 48 | [سالم عبدالله الجابر الصباح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 49 | [الهييه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 50 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
 
 
 

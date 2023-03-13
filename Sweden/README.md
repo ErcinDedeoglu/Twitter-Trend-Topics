@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-13 10:17:16 UTC`
+📆 Last Updated: `2023-03-13 11:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 2 | [Oscarsgalan](http://twitter.com/search?q=Oscarsgalan) | N/A |
-| 3 | [#melodifestivalen](http://twitter.com/search?q=%23melodifestivalen) | N/A |
-| 4 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 5 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
-| 6 | [kalmar](http://twitter.com/search?q=kalmar) | N/A |
+| 2 | [#melodifestivalen](http://twitter.com/search?q=%23melodifestivalen) | N/A |
+| 3 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 4 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
+| 5 | [kalmar](http://twitter.com/search?q=kalmar) | N/A |
+| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 7 | [nordman](http://twitter.com/search?q=nordman) | N/A |
 | 8 | [Mello](http://twitter.com/search?q=Mello) | N/A |
 | 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
@@ -48,22 +48,22 @@ This is top 50 for Sweden
 | 31 | [Tone](http://twitter.com/search?q=Tone) | N/A |
 | 32 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
 | 33 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 34 | [#innebandy](http://twitter.com/search?q=%23innebandy) | N/A |
-| 35 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
-| 36 | [EXPO](http://twitter.com/search?q=EXPO) | EXPO is short for exposition, which is an event or exhibition where people can display and view new products, ideas, or achievements. It is often used to refer to large international events such as the World's Fair. |
-| 37 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |
-| 38 | [lindberg](http://twitter.com/search?q=lindberg) | N/A |
-| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 40 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 41 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
-| 42 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
-| 43 | [förutom](http://twitter.com/search?q=f%c3%b6rutom) | N/A |
-| 44 | [wilderäng](http://twitter.com/search?q=wilder%c3%a4ng) | N/A |
-| 45 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
-| 46 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 47 | [Tinnerholm](http://twitter.com/search?q=Tinnerholm) | N/A |
-| 48 | [gasten](http://twitter.com/search?q=gasten) | N/A |
-| 49 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 34 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
+| 35 | [EXPO](http://twitter.com/search?q=EXPO) | EXPO is short for exposition, which is an event or exhibition where people can display and view new products, ideas, or achievements. It is often used to refer to large international events such as the World's Fair. |
+| 36 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |
+| 37 | [lindberg](http://twitter.com/search?q=lindberg) | N/A |
+| 38 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 39 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 40 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 41 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 42 | [förutom](http://twitter.com/search?q=f%c3%b6rutom) | N/A |
+| 43 | [wilderäng](http://twitter.com/search?q=wilder%c3%a4ng) | N/A |
+| 44 | [Rödin](http://twitter.com/search?q=R%c3%b6din) | N/A |
+| 45 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 46 | [tinnerholm](http://twitter.com/search?q=tinnerholm) | N/A |
+| 47 | [gasten](http://twitter.com/search?q=gasten) | N/A |
+| 48 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 49 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
 | 50 | [håkan](http://twitter.com/search?q=h%c3%a5kan) | N/A |
 
 
