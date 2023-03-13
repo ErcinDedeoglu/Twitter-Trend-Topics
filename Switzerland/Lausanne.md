@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-13 08:17:31 UTC`
+📆 Last Updated: `2023-03-13 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 3 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 4 | [#Airbnb](http://twitter.com/search?q=%23Airbnb) | N/A |
+| 3 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 5 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 7 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 8 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 8 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
 | 9 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
-| 12 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 13 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 14 | ["Friedensdemo"](http://twitter.com/search?q=%22Friedensdemo%22) | N/A |
-| 15 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 16 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 17 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 18 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 19 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 20 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 21 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 22 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 23 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 24 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 25 | [Gedankengut](http://twitter.com/search?q=Gedankengut) | N/A |
-| 26 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
-| 29 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 30 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 31 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 32 | [Deutscher](http://twitter.com/search?q=Deutscher) | N/A |
-| 33 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 34 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 35 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
-| 36 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 37 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 38 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 39 | [schwurbler](http://twitter.com/search?q=schwurbler) | N/A |
-| 40 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 41 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
-| 42 | [recherche](http://twitter.com/search?q=recherche) | N/A |
-| 43 | [Beides](http://twitter.com/search?q=Beides) | N/A |
-| 44 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 45 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 47 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 10 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 11 | ["Friedensdemo"](http://twitter.com/search?q=%22Friedensdemo%22) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 14 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 15 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 16 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
+| 17 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 18 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 20 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 21 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 22 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 23 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 24 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 25 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 26 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 27 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
+| 28 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 29 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 30 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
+| 31 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 32 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 33 | [Wege](http://twitter.com/search?q=Wege) | N/A |
+| 34 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 35 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 36 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 37 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 38 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 39 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 40 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 41 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 42 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 43 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 44 | [gelegenheit](http://twitter.com/search?q=gelegenheit) | N/A |
+| 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 46 | [berne](http://twitter.com/search?q=berne) | N/A |
+| 47 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
 
 
 
