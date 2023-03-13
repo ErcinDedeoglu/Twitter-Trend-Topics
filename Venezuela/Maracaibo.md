@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-13 04:16:57 UTC`
+📆 Last Updated: `2023-03-13 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 4 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 7 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
+| 6 | [#ChávezComunicador](http://twitter.com/search?q=%23Ch%c3%a1vezComunicador) | N/A |
+| 7 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
 | 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 9 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 10 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 11 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 12 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 9 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 10 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 11 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 13 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 14 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 15 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 16 | [Chacín](http://twitter.com/search?q=Chac%c3%adn) | N/A |
-| 17 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 18 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 19 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 14 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 15 | [Anthony Santander](http://twitter.com/search?q=Anthony+Santander) | N/A |
+| 16 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 17 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 19 | [Chacin](http://twitter.com/search?q=Chacin) | N/A |
+| 20 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 21 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 22 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
-| 23 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 24 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
-| 25 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
-| 26 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 23 | [Catalana](http://twitter.com/search?q=Catalana) | N/A |
+| 24 | [Daniel Santos](http://twitter.com/search?q=Daniel+Santos) | N/A |
+| 25 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 27 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
 | 28 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
 | 29 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 30 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 30 | [Multigrafo](http://twitter.com/search?q=Multigrafo) | N/A |
 | 31 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
 | 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 33 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 34 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 35 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 36 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
-| 37 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 38 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
-| 39 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 40 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 41 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 42 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 43 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 45 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 33 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 34 | [Ultraman](http://twitter.com/search?q=Ultraman) | N/A |
+| 35 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 36 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
+| 37 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 38 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 39 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 40 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 41 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 42 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 43 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 44 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 46 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 48 | [Yadier Molina](http://twitter.com/search?q=Yadier+Molina) | N/A |
-| 49 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 50 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 47 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 48 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 49 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
+| 50 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
 
 
 

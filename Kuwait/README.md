@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-13 04:17:48 UTC`
+📆 Last Updated: `2023-03-13 05:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#صوت_بيروت](http://twitter.com/search?q=%23%d8%b5%d9%88%d8%aa_%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
-| 2 | [#عقود_الصحه](http://twitter.com/search?q=%23%d8%b9%d9%82%d9%88%d8%af_%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
-| 3 | [#اعضاء_المجلس_خذلوا_الاوقاف](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%b6%d8%a7%d8%a1_%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3_%d8%ae%d8%b0%d9%84%d9%88%d8%a7_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
-| 4 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 5 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 6 | [#برشلونه](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 2 | [#اعضاء_المجلس_خذلوا_الاوقاف](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%b6%d8%a7%d8%a1_%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3_%d8%ae%d8%b0%d9%84%d9%88%d8%a7_%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
+| 3 | [#عقود_الصحه](http://twitter.com/search?q=%23%d8%b9%d9%82%d9%88%d8%af_%d8%a7%d9%84%d8%b5%d8%ad%d9%87) | N/A |
+| 4 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
+| 5 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 6 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
 | 7 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
 | 8 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 9 | [القراءات العشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
+| 9 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 10 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
-| 11 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 11 | [القراءات العشر](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
 | 12 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
 | 13 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
 | 14 | [الاتحاد البرلماني الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
@@ -37,8 +37,8 @@ This is top 50 for Kuwait
 | 20 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 21 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
 | 22 | [الرعايه السكنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b9%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d9%87) | N/A |
-| 23 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 24 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 23 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 24 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 25 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
 | 26 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
 | 27 | [تجار المخدرات](http://twitter.com/search?q=%d8%aa%d8%ac%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Kuwait
 | 42 | [بنك بوبيان](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
 | 43 | [اسبانيول](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84) | N/A |
 | 44 | [الابديت اليديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d9%8a%d8%aa+%d8%a7%d9%84%d9%8a%d8%af%d9%8a%d8%af) | N/A |
-| 45 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 46 | [عبدالسلام المجدلي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%af%d9%84%d9%8a) | N/A |
-| 47 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 48 | [الاسف الشديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%81+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af) | N/A |
-| 49 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
-| 50 | [الدرجه الممتازه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%87) | N/A |
+| 45 | [عبدالسلام المجدلي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ac%d8%af%d9%84%d9%8a) | N/A |
+| 46 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 47 | [الاسف الشديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%81+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af) | N/A |
+| 48 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
+| 49 | [الدرجه الممتازه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%87) | N/A |
+| 50 | [المدعي العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 
 
 

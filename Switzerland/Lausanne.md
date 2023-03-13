@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-13 04:17:10 UTC`
+📆 Last Updated: `2023-03-13 05:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 4 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
 | 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 20 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 21 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 22 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 22 | [interessant](http://twitter.com/search?q=interessant) | N/A |
 | 23 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
 | 24 | [bildung](http://twitter.com/search?q=bildung) | N/A |
 | 25 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |

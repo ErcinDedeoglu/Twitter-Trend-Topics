@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-13 04:16:59 UTC`
+📆 Last Updated: `2023-03-13 05:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
-| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 3 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 4 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 5 | [Marrony](http://twitter.com/search?q=Marrony) | Marrony is a Portuguese slang term that is used to describe someone who is clumsy or awkward. In English, it can be translated to mean "clumsy" or "awkward". |
-| 6 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 7 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 8 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 9 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
-| 10 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 13 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 14 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 15 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 17 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 18 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 19 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 20 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 22 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 23 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 24 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 25 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 26 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 27 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
-| 28 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 29 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
-| 30 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 31 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
-| 32 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 33 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
-| 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 35 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 36 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 37 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 38 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 39 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 40 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
-| 41 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 42 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 43 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
-| 44 | [Lenny Kravitz](http://twitter.com/search?q=Lenny+Kravitz) | N/A |
-| 45 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 46 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
-| 47 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 48 | [sofia carson](http://twitter.com/search?q=sofia+carson) | N/A |
-| 49 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
-| 50 | [Pantera Negra](http://twitter.com/search?q=Pantera+Negra) | N/A |
+| 1 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 2 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 3 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 4 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 5 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
+| 6 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 9 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
+| 10 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 11 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 12 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 13 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 14 | [#foralaritruci](http://twitter.com/search?q=%23foralaritruci) | N/A |
+| 15 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 17 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 18 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 19 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 20 | [Tchau Larissa](http://twitter.com/search?q=Tchau+Larissa) | N/A |
+| 21 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 22 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 24 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 25 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 26 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
+| 27 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 29 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 30 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
+| 31 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 32 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 33 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 34 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
+| 35 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 36 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 37 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 38 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 39 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 40 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 41 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 42 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 43 | [Pantera Negra](http://twitter.com/search?q=Pantera+Negra) | N/A |
+| 44 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
+| 45 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
+| 46 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 47 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 48 | [ADMs](http://twitter.com/search?q=ADMs) | N/A |
+| 49 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
+| 50 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 04:17:46 UTC`
+📆 Last Updated: `2023-03-13 05:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
-| 4 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
-| 5 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
-| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 7 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 8 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 2 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
+| 3 | [#achfck](http://twitter.com/search?q=%23achfck) | N/A |
+| 4 | [#BIFSIF](http://twitter.com/search?q=%23BIFSIF) | N/A |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 7 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 9 | [claesson](http://twitter.com/search?q=claesson) | N/A |
 | 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 11 | [farum](http://twitter.com/search?q=farum) | N/A |
@@ -32,21 +32,21 @@ This is top 50 for Denmark
 | 15 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 | 16 | [capellas](http://twitter.com/search?q=capellas) | N/A |
 | 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 18 | [malte](http://twitter.com/search?q=malte) | N/A |
 | 19 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 20 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
 | 21 | [tripadvisor reviews](http://twitter.com/search?q=tripadvisor+reviews) | N/A |
 | 22 | [problemet](http://twitter.com/search?q=problemet) | N/A |
 | 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [vingegaard](http://twitter.com/search?q=vingegaard) | N/A |
+| 24 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
 | 25 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [diks](http://twitter.com/search?q=diks) | N/A |
-| 28 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
-| 29 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 30 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 31 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
-| 32 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [diks](http://twitter.com/search?q=diks) | N/A |
+| 27 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
+| 28 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 29 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 30 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
+| 31 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 33 | [Folk](http://twitter.com/search?q=Folk) | N/A |
 | 34 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 35 | [troede](http://twitter.com/search?q=troede) | N/A |

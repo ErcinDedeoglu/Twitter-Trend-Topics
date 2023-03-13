@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-13 04:17:10 UTC`
+📆 Last Updated: `2023-03-13 05:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Norway](</Norway>)
 | 6 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 7 | [England](http://twitter.com/search?q=England) | N/A |
 | 8 | [mjøndalen](http://twitter.com/search?q=mj%c3%b8ndalen) | N/A |
-| 9 | [Rekdal](http://twitter.com/search?q=Rekdal) | N/A |
+| 9 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
 | 10 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
 | 11 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
 | 12 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Norway](</Norway>)
 | 16 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
 | 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 18 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
-| 19 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 19 | [molde](http://twitter.com/search?q=molde) | N/A |
 | 20 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
 | 21 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |

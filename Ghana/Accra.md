@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-13 04:17:22 UTC`
+📆 Last Updated: `2023-03-13 05:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,23 +27,23 @@ This is top 50 for [Ghana](</Ghana>)
 | 10 | [#BOULIV](http://twitter.com/search?q=%23BOULIV) | N/A |
 | 11 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 12 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 15 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 16 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 19 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
-| 20 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 21 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 13 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
+| 14 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 15 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 17 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 18 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 21 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
 | 22 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 23 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
 | 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Kobby Fresh](http://twitter.com/search?q=Kobby+Fresh) | N/A |
+| 25 | [kobby fresh](http://twitter.com/search?q=kobby+fresh) | N/A |
 | 26 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 27 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
+| 27 | [inaki williams](http://twitter.com/search?q=inaki+williams) | N/A |
 | 28 | [dede ayew](http://twitter.com/search?q=dede+ayew) | N/A |
-| 29 | [king nasir](http://twitter.com/search?q=king+nasir) | N/A |
+| 29 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
 | 30 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
 | 31 | [mtn momo](http://twitter.com/search?q=mtn+momo) | N/A |
 | 32 | [ward-prowse](http://twitter.com/search?q=ward-prowse) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for [Ghana](</Ghana>)
 | 40 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
 | 41 | [today de3](http://twitter.com/search?q=today+de3) | N/A |
 | 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 43 | [Nana Adwubi](http://twitter.com/search?q=Nana+Adwubi) | N/A |
+| 43 | [nana adwubi](http://twitter.com/search?q=nana+adwubi) | N/A |
 | 44 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |

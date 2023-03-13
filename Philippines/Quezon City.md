@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-13 04:17:21 UTC`
+📆 Last Updated: `2023-03-13 05:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 7 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 | 8 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 9 | [donnys asap comeback](http://twitter.com/search?q=donnys+asap+comeback) | N/A |
-| 10 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
-| 11 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 9 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
+| 10 | [donnys asap comeback](http://twitter.com/search?q=donnys+asap+comeback) | N/A |
+| 11 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 12 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 13 | [JANENELLA MOVE THE GLASS](http://twitter.com/search?q=JANENELLA+MOVE+THE+GLASS) | N/A |
-| 14 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 15 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 16 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
-| 17 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 18 | [bgyo asap takeover](http://twitter.com/search?q=bgyo+asap+takeover) | N/A |
-| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 13 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 14 | [KAI COMEBACK D-DAY](http://twitter.com/search?q=KAI+COMEBACK+D-DAY) | N/A |
+| 15 | [bgyo asap takeover](http://twitter.com/search?q=bgyo+asap+takeover) | N/A |
+| 16 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 17 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 18 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 20 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 21 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 21 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
 | 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 23 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
-| 24 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 25 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
-| 26 | [popstar royalty for lazada](http://twitter.com/search?q=popstar+royalty+for+lazada) | N/A |
-| 27 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 28 | [kodrea summerkilig on asap](http://twitter.com/search?q=kodrea+summerkilig+on+asap) | N/A |
-| 29 | [weloveyou queen regine](http://twitter.com/search?q=weloveyou+queen+regine) | N/A |
-| 30 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 31 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
-| 32 | [Brendan](http://twitter.com/search?q=Brendan) | Brendan is an Irish name derived from the Gaelic Breandán, meaning "prince". It is also used as a surname. |
-| 33 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 34 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 35 | [the sarah geronimo](http://twitter.com/search?q=the+sarah+geronimo) | N/A |
-| 36 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 37 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 38 | [tubu](http://twitter.com/search?q=tubu) | N/A |
-| 39 | [subic na sayong pagibig bini](http://twitter.com/search?q=subic+na+sayong+pagibig+bini) | N/A |
-| 40 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
-| 41 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
-| 42 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
-| 43 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 44 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
-| 45 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 46 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
-| 47 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 49 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 50 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 23 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
+| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 25 | [JANENELLA MOVE THE GLASS](http://twitter.com/search?q=JANENELLA+MOVE+THE+GLASS) | N/A |
+| 26 | [kodrea summerkilig on asap](http://twitter.com/search?q=kodrea+summerkilig+on+asap) | N/A |
+| 27 | [weloveyou queen regine](http://twitter.com/search?q=weloveyou+queen+regine) | N/A |
+| 28 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 29 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
+| 30 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 31 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 32 | [THE SARAH GERONIMO](http://twitter.com/search?q=THE+SARAH+GERONIMO) | N/A |
+| 33 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 34 | [tubu](http://twitter.com/search?q=tubu) | N/A |
+| 35 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 36 | [subic na sayong pagibig bini](http://twitter.com/search?q=subic+na+sayong+pagibig+bini) | N/A |
+| 37 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 38 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 40 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 41 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
+| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 43 | [KATHNIEL INCANTA MILANO](http://twitter.com/search?q=KATHNIEL+INCANTA+MILANO) | N/A |
+| 44 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 45 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 46 | [Shana](http://twitter.com/search?q=Shana) | N/A |
+| 47 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 48 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 49 | [HORI7ON 1N GAPAN](http://twitter.com/search?q=HORI7ON+1N+GAPAN) | N/A |
+| 50 | [Halle](http://twitter.com/search?q=Halle) | N/A |
 
 
 

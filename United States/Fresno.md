@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-13 04:17:37 UTC`
+📆 Last Updated: `2023-03-13 05:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Boy](http://twitter.com/search?q=The+Boy) | N/A |
-| 2 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 3 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
-| 4 | [The Elephant Whisperers](http://twitter.com/search?q=The+Elephant+Whisperers) | N/A |
+| 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 2 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 3 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 4 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 5 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 6 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
-| 7 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 7 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
 | 8 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 9 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 10 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 11 | [Jessica Chastain](http://twitter.com/search?q=Jessica+Chastain) | Jessica Chastain is an American actress and producer. She is known for her roles in films such as The Help, Zero Dark Thirty, Interstellar, and Molly's Game. Her name is derived from the Latin word "castus," which means pure or chaste. |
-| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [Michael B Jordan](http://twitter.com/search?q=Michael+B+Jordan) | N/A |
-| 14 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 15 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
-| 16 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
-| 17 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 18 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 19 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 20 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 21 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 22 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 23 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 24 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 25 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 26 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 27 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 29 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 30 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 31 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 32 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 33 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
-| 34 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 36 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 37 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 38 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 39 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 40 | [David Byrne](http://twitter.com/search?q=David+Byrne) | David Byrne is the name of an English-born American musician, singer, songwriter, record producer, actor, and filmmaker. He was the founding member of the band Talking Heads and has released several solo albums. He is known for his eclectic and experimental musical style. |
-| 41 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 42 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 43 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 44 | [Lenny](http://twitter.com/search?q=Lenny) | N/A |
-| 45 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 46 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
-| 47 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
-| 48 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 49 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 9 | [Best Supporting Actress](http://twitter.com/search?q=Best+Supporting+Actress) | N/A |
+| 10 | [ROBBED](http://twitter.com/search?q=ROBBED) | N/A |
+| 11 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 12 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 13 | [Black Panther](http://twitter.com/search?q=Black+Panther) | N/A |
+| 14 | [Best Actor](http://twitter.com/search?q=Best+Actor) | N/A |
+| 15 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 16 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 17 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 18 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 19 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 20 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 21 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 22 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 25 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 26 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 27 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 29 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 30 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 32 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 33 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 34 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 35 | [Identifies as Asian](http://twitter.com/search?q=Identifies+as+Asian) | N/A |
+| 36 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 37 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 38 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 39 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 40 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
+| 41 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 42 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
+| 43 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 44 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 45 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
+| 46 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 47 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 48 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 49 | [Ruth Carter](http://twitter.com/search?q=Ruth+Carter) | N/A |
 
 
 
