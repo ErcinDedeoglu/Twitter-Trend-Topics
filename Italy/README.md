@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-13 11:16:49 UTC`
+📆 Last Updated: `2023-03-13 12:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Italy
 | 15 | [niveo](http://twitter.com/search?q=niveo) | N/A |
 | 16 | [isobel](http://twitter.com/search?q=isobel) | N/A |
 | 17 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 18 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 19 | [bucava](http://twitter.com/search?q=bucava) | N/A |
-| 20 | [maddalena](http://twitter.com/search?q=maddalena) | N/A |
-| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 22 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 23 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 24 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 25 | [Buongiorno Maria](http://twitter.com/search?q=Buongiorno+Maria) | N/A |
-| 26 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 27 | [severgnini](http://twitter.com/search?q=severgnini) | N/A |
+| 18 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 19 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 20 | [bucava](http://twitter.com/search?q=bucava) | N/A |
+| 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 22 | [maddalena](http://twitter.com/search?q=maddalena) | N/A |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
+| 25 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 26 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
+| 27 | [Buongiorno Maria](http://twitter.com/search?q=Buongiorno+Maria) | N/A |
 | 28 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 29 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 30 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
-| 31 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 32 | [de andré](http://twitter.com/search?q=de+andr%c3%a9) | N/A |
-| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 34 | [miretti](http://twitter.com/search?q=miretti) | N/A |
-| 35 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 36 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 37 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 38 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 29 | [severgnini](http://twitter.com/search?q=severgnini) | N/A |
+| 30 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 31 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
+| 32 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 33 | [de andré](http://twitter.com/search?q=de+andr%c3%a9) | N/A |
+| 34 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 35 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 36 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 37 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 38 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
 | 39 | [Alarm Phone](http://twitter.com/search?q=Alarm+Phone) | N/A |
 | 40 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 41 | [marelli](http://twitter.com/search?q=marelli) | N/A |
 | 42 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 43 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 44 | [benedetta](http://twitter.com/search?q=benedetta) | N/A |
-| 45 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 46 | [ragione](http://twitter.com/search?q=ragione) | N/A |
-| 47 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 48 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 49 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 50 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 43 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 44 | [buongiorno francesca](http://twitter.com/search?q=buongiorno+francesca) | N/A |
+| 45 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 46 | [benedetta](http://twitter.com/search?q=benedetta) | N/A |
+| 47 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 48 | [ragione](http://twitter.com/search?q=ragione) | N/A |
+| 49 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 50 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
 
 
 

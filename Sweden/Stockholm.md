@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-13 11:16:16 UTC`
+📆 Last Updated: `2023-03-13 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,27 +27,27 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 11 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
 | 12 | [Manner](http://twitter.com/search?q=Manner) | N/A |
-| 13 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 15 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 13 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 14 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 16 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
 | 17 | [panetoz](http://twitter.com/search?q=panetoz) | N/A |
-| 18 | [theoz](http://twitter.com/search?q=theoz) | N/A |
-| 19 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 20 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 21 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 22 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
-| 23 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 24 | [smash into pieces](http://twitter.com/search?q=smash+into+pieces) | N/A |
-| 25 | [habib chaab](http://twitter.com/search?q=habib+chaab) | N/A |
-| 26 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
-| 27 | [dahlin](http://twitter.com/search?q=dahlin) | N/A |
-| 28 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 29 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 30 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 31 | [Tone](http://twitter.com/search?q=Tone) | N/A |
-| 32 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
-| 33 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 18 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 19 | [theoz](http://twitter.com/search?q=theoz) | N/A |
+| 20 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 21 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 23 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 24 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 25 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 26 | [smash into pieces](http://twitter.com/search?q=smash+into+pieces) | N/A |
+| 27 | [habib chaab](http://twitter.com/search?q=habib+chaab) | N/A |
+| 28 | [alcén](http://twitter.com/search?q=alc%c3%a9n) | N/A |
+| 29 | [dahlin](http://twitter.com/search?q=dahlin) | N/A |
+| 30 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 32 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 33 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
 | 34 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
 | 35 | [EXPO](http://twitter.com/search?q=EXPO) | EXPO is short for exposition, which is an event or exhibition where people can display and view new products, ideas, or achievements. It is often used to refer to large international events such as the World's Fair. |
 | 36 | [ladebäck](http://twitter.com/search?q=ladeb%c3%a4ck) | N/A |

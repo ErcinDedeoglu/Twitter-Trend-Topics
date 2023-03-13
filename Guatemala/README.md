@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-13 11:16:48 UTC`
+📆 Last Updated: `2023-03-13 12:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Guatemala
 | 6 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
 | 7 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
 | 8 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 9 | [manuel baldizón](http://twitter.com/search?q=manuel+baldiz%c3%b3n) | N/A |
+| 9 | [MANUEL BALDIZÓN](http://twitter.com/search?q=MANUEL+BALDIZ%c3%93N) | N/A |
 | 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 12 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [santa lucía](http://twitter.com/search?q=santa+luc%c3%ada) | N/A |
 | 48 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 49 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 50 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 50 | [selección](http://twitter.com/search?q=selecci%c3%b3n) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-13 11:16:11 UTC`
+📆 Last Updated: `2023-03-13 12:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,25 +21,25 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 7 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 8 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 10 | [erstmal kaffee](http://twitter.com/search?q=erstmal+kaffee) | N/A |
-| 11 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
-| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 13 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 7 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [erstmal kaffee](http://twitter.com/search?q=erstmal+kaffee) | N/A |
+| 10 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 12 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 13 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 14 | [hackl](http://twitter.com/search?q=hackl) | N/A |
 | 15 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
 | 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [schalke](http://twitter.com/search?q=schalke) | N/A |
-| 18 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 19 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 20 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
-| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 23 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 24 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 25 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 17 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 18 | [flüge](http://twitter.com/search?q=fl%c3%bcge) | N/A |
+| 19 | [montero](http://twitter.com/search?q=montero) | N/A |
+| 20 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 21 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 22 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 23 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 24 | [Sackgasse](http://twitter.com/search?q=Sackgasse) | N/A |
+| 25 | [lebenslauf](http://twitter.com/search?q=lebenslauf) | N/A |
 | 26 | [bhakdi](http://twitter.com/search?q=bhakdi) | N/A |
 | 27 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
 | 28 | [appletv save warrior nun](http://twitter.com/search?q=appletv+save+warrior+nun) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for [Germany](</Germany>)
 | 37 | [bachmut](http://twitter.com/search?q=bachmut) | N/A |
 | 38 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
 | 39 | [zeugen jehovas](http://twitter.com/search?q=zeugen+jehovas) | N/A |
-| 40 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 40 | [wölfin](http://twitter.com/search?q=w%c3%b6lfin) | N/A |
 | 41 | [bundespolizei](http://twitter.com/search?q=bundespolizei) | N/A |
 | 42 | [malen](http://twitter.com/search?q=malen) | N/A |
 | 43 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
 | 44 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 45 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
-| 46 | [ploß](http://twitter.com/search?q=plo%c3%9f) | N/A |
-| 47 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 48 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
+| 45 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 46 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
+| 47 | [ploß](http://twitter.com/search?q=plo%c3%9f) | N/A |
+| 48 | [Moin](http://twitter.com/search?q=Moin) | N/A |
 
 
 

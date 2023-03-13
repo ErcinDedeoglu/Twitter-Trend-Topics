@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-13 11:16:48 UTC`
+📆 Last Updated: `2023-03-13 12:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,11 +60,11 @@ This is top 50 for Greece
 | 43 | [νεα φιλαδελφεια](http://twitter.com/search?q=%ce%bd%ce%b5%ce%b1+%cf%86%ce%b9%ce%bb%ce%b1%ce%b4%ce%b5%ce%bb%cf%86%ce%b5%ce%b9%ce%b1) | N/A |
 | 44 | [ιβαν](http://twitter.com/search?q=%ce%b9%ce%b2%ce%b1%ce%bd) | N/A |
 | 45 | [καραιβαζ](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%b1%ce%b9%ce%b2%ce%b1%ce%b6) | N/A |
-| 46 | [ονειρα](http://twitter.com/search?q=%ce%bf%ce%bd%ce%b5%ce%b9%cf%81%ce%b1) | N/A |
-| 47 | [Δεκελειας](http://twitter.com/search?q=%ce%94%ce%b5%ce%ba%ce%b5%ce%bb%ce%b5%ce%b9%ce%b1%cf%82) | N/A |
-| 48 | [αναρχικοι](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%ce%b9) | N/A |
-| 49 | [μαντσινι](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%84%cf%83%ce%b9%ce%bd%ce%b9) | N/A |
-| 50 | [αλμειδα](http://twitter.com/search?q=%ce%b1%ce%bb%ce%bc%ce%b5%ce%b9%ce%b4%ce%b1) | N/A |
+| 46 | [Αλμειδα](http://twitter.com/search?q=%ce%91%ce%bb%ce%bc%ce%b5%ce%b9%ce%b4%ce%b1) | N/A |
+| 47 | [ονειρα](http://twitter.com/search?q=%ce%bf%ce%bd%ce%b5%ce%b9%cf%81%ce%b1) | N/A |
+| 48 | [Δεκελειας](http://twitter.com/search?q=%ce%94%ce%b5%ce%ba%ce%b5%ce%bb%ce%b5%ce%b9%ce%b1%cf%82) | N/A |
+| 49 | [αναρχικοι](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%ce%b9) | N/A |
+| 50 | [μαντσινι](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%84%cf%83%ce%b9%ce%bd%ce%b9) | N/A |
 
 
 

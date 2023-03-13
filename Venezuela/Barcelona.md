@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-13 11:16:06 UTC`
+📆 Last Updated: `2023-03-13 12:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 7 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
 | 8 | [vamos venezuela](http://twitter.com/search?q=vamos+venezuela) | N/A |
-| 9 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 9 | [dominicana](http://twitter.com/search?q=dominicana) | N/A |
 | 10 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 12 | [pablo lópez](http://twitter.com/search?q=pablo+l%c3%b3pez) | N/A |
+| 12 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
 | 13 | [anthony santander](http://twitter.com/search?q=anthony+santander) | N/A |
 | 14 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
 | 15 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
@@ -57,10 +57,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 40 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 42 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 43 | [miggy](http://twitter.com/search?q=miggy) | N/A |
+| 43 | [MIGGY](http://twitter.com/search?q=MIGGY) | N/A |
 | 44 | [sergi roberto](http://twitter.com/search?q=sergi+roberto) | N/A |
 | 45 | [silvino bracho](http://twitter.com/search?q=silvino+bracho) | N/A |
-| 46 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 46 | [salvy](http://twitter.com/search?q=salvy) | N/A |
 | 47 | [yadier molina](http://twitter.com/search?q=yadier+molina) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-13 11:16:05 UTC`
+📆 Last Updated: `2023-03-13 12:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,31 +33,31 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 16 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 17 | [félix sánchez](http://twitter.com/search?q=f%c3%a9lix+s%c3%a1nchez) | N/A |
 | 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [sybel](http://twitter.com/search?q=sybel) | N/A |
-| 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 22 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 23 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 24 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 27 | [montalvo](http://twitter.com/search?q=montalvo) | N/A |
-| 28 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 29 | [don omar](http://twitter.com/search?q=don+omar) | N/A |
-| 30 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 31 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
-| 32 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 33 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 35 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
-| 36 | [unase](http://twitter.com/search?q=unase) | N/A |
-| 37 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 38 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 39 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 40 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 19 | [sybel](http://twitter.com/search?q=sybel) | N/A |
+| 20 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 21 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 22 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 25 | [montalvo](http://twitter.com/search?q=montalvo) | N/A |
+| 26 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 27 | [don omar](http://twitter.com/search?q=don+omar) | N/A |
+| 28 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 29 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
+| 30 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 31 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 33 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
+| 34 | [unase](http://twitter.com/search?q=unase) | N/A |
+| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 36 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 37 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 38 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 39 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 40 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 41 | [deportivo quito](http://twitter.com/search?q=deportivo+quito) | N/A |
 | 42 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 43 | [Lassie](http://twitter.com/search?q=Lassie) | N/A |
+| 43 | [lassie](http://twitter.com/search?q=lassie) | N/A |
 | 44 | [trío](http://twitter.com/search?q=tr%c3%ado) | N/A |
 | 45 | [judicatura](http://twitter.com/search?q=judicatura) | N/A |
 | 46 | [All Quiet On The Western Front](http://twitter.com/search?q=All+Quiet+On+The+Western+Front) | N/A |

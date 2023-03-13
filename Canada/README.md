@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-13 11:16:47 UTC`
+📆 Last Updated: `2023-03-13 12:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,17 +28,17 @@ This is top 50 for Canada
 | 11 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 12 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 13 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 14 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 16 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 17 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
 | 18 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 19 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
+| 19 | [great britain](http://twitter.com/search?q=great+britain) | N/A |
 | 20 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 | 21 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 | 22 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 23 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 25 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
 | 26 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
 | 27 | [Desharnais](http://twitter.com/search?q=Desharnais) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Canada
 | 38 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
 | 39 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
 | 40 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 41 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 42 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 43 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 44 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 45 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
-| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 47 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 48 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 49 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 41 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 42 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 43 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 44 | [Ashley Graham](http://twitter.com/search?q=Ashley+Graham) | N/A |
+| 45 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 46 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 47 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 48 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 50 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 
 
 

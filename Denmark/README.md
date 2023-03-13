@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-13 11:16:47 UTC`
+📆 Last Updated: `2023-03-13 12:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,11 +60,11 @@ This is top 50 for Denmark
 | 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 44 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 45 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [danske](http://twitter.com/search?q=danske) | N/A |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 50 | [i danmark](http://twitter.com/search?q=i+danmark) | N/A |
+| 46 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 49 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 
 
 

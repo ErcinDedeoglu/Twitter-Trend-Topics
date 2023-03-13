@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-13 11:16:36 UTC`
+📆 Last Updated: `2023-03-13 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for [Turkey](</Turkey>)
 | 13 | [seninleyiz cansu](http://twitter.com/search?q=seninleyiz+cansu) | N/A |
 | 14 | [başım belada atvde](http://twitter.com/search?q=ba%c5%9f%c4%b1m+belada+atvde) | N/A |
 | 15 | [muharreminceye aşığız](http://twitter.com/search?q=muharreminceye+a%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
-| 16 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
-| 17 | [testere necmi](http://twitter.com/search?q=testere+necmi) | N/A |
-| 18 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 16 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 17 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 18 | [testere necmi](http://twitter.com/search?q=testere+necmi) | N/A |
 | 19 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
 | 20 | [milli şairimiz](http://twitter.com/search?q=milli+%c5%9fairimiz) | N/A |
 | 21 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
-| 22 | [Aysun Kayacı](http://twitter.com/search?q=Aysun+Kayac%c4%b1) | N/A |
-| 23 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 24 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
+| 22 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 23 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
+| 24 | [Aysun Kayacı](http://twitter.com/search?q=Aysun+Kayac%c4%b1) | N/A |
 | 25 | [ghezzal](http://twitter.com/search?q=ghezzal) | N/A |
 | 26 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 27 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 28 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 27 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 28 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
 | 29 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
 | 30 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
 | 31 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 32 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 33 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
-| 34 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 35 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 36 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
-| 37 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 38 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 39 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
-| 40 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 41 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
-| 42 | [Goldman Sachs](http://twitter.com/search?q=Goldman+Sachs) | N/A |
-| 43 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
-| 44 | [Yılmaz Gruda](http://twitter.com/search?q=Y%c4%b1lmaz+Gruda) | N/A |
-| 45 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 46 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 47 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 48 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 32 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 33 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 34 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 35 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 36 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 37 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 38 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 39 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 40 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
+| 41 | [Goldman Sachs](http://twitter.com/search?q=Goldman+Sachs) | N/A |
+| 42 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 43 | [Kara Harp Okuluna](http://twitter.com/search?q=Kara+Harp+Okuluna) | N/A |
+| 44 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 45 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 46 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 47 | [hakkıdır](http://twitter.com/search?q=hakk%c4%b1d%c4%b1r) | N/A |
+| 48 | [recep tayyip erdoğan kazanacak](http://twitter.com/search?q=recep+tayyip+erdo%c4%9fan+kazanacak) | N/A |
 | 49 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 
 

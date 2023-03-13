@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-13 11:16:26 UTC`
+📆 Last Updated: `2023-03-13 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Ghana](</Ghana>)
 | ------- | ------------ | ------------ |
 | 1 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 5 | [#RoyalSports](http://twitter.com/search?q=%23RoyalSports) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 8 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 3 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [#RoyalSports](http://twitter.com/search?q=%23RoyalSports) | N/A |
+| 8 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 9 | [Bench](http://twitter.com/search?q=Bench) | N/A |
 | 10 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 11 | [WALCOTT](http://twitter.com/search?q=WALCOTT) | N/A |
@@ -45,11 +45,11 @@ This is top 50 for [Ghana](</Ghana>)
 | 28 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 29 | [ward-prowse](http://twitter.com/search?q=ward-prowse) | N/A |
 | 30 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 31 | [blaqboi](http://twitter.com/search?q=blaqboi) | N/A |
+| 31 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
 | 32 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
 | 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 34 | [gambo](http://twitter.com/search?q=gambo) | N/A |
-| 35 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
+| 34 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
+| 35 | [gambo](http://twitter.com/search?q=gambo) | N/A |
 | 36 | [what is 50](http://twitter.com/search?q=what+is+50) | N/A |
 | 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 38 | [Anita](http://twitter.com/search?q=Anita) | N/A |

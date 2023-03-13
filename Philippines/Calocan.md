@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-13 11:16:24 UTC`
+📆 Last Updated: `2023-03-13 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,32 +34,32 @@ This is top 50 for [Philippines](</Philippines>)
 | 17 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 18 | [asap-tb90s saya with alexa](http://twitter.com/search?q=asap-tb90s+saya+with+alexa) | N/A |
 | 19 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
-| 20 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
-| 21 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 22 | [KAI COMEBACK D-DAY](http://twitter.com/search?q=KAI+COMEBACK+D-DAY) | N/A |
+| 20 | [KAI COMEBACK D-DAY](http://twitter.com/search?q=KAI+COMEBACK+D-DAY) | N/A |
+| 21 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
+| 22 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 23 | [NEW CANDYBONG](http://twitter.com/search?q=NEW+CANDYBONG) | N/A |
 | 24 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 25 | [barcelonight with kathniel](http://twitter.com/search?q=barcelonight+with+kathniel) | N/A |
-| 26 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 27 | [pH-1](http://twitter.com/search?q=pH-1) | N/A |
-| 28 | [the sarah geronimo](http://twitter.com/search?q=the+sarah+geronimo) | N/A |
-| 29 | [TNTHuradoDARREN-D8](http://twitter.com/search?q=TNTHuradoDARREN-D8) | N/A |
-| 30 | [House of Representatives](http://twitter.com/search?q=House+of+Representatives) | The House of Representatives is the lower house of the United States Congress, and is composed of 435 members who are elected from districts across the country. The primary purpose of the House of Representatives is to pass laws that affect the nation as a whole. |
-| 31 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 32 | [janenella move the glass](http://twitter.com/search?q=janenella+move+the+glass) | N/A |
-| 33 | [SCENE 1](http://twitter.com/search?q=SCENE+1) | N/A |
-| 34 | [House Speaker Martin Romualdez](http://twitter.com/search?q=House+Speaker+Martin+Romualdez) | N/A |
-| 35 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 38 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 39 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
-| 40 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 41 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
-| 42 | [kathniel incanta milano](http://twitter.com/search?q=kathniel+incanta+milano) | N/A |
-| 43 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
-| 44 | [dolly de leon](http://twitter.com/search?q=dolly+de+leon) | N/A |
-| 45 | [ACT 1](http://twitter.com/search?q=ACT+1) | N/A |
+| 26 | [SCENE 1](http://twitter.com/search?q=SCENE+1) | N/A |
+| 27 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 28 | [pH-1](http://twitter.com/search?q=pH-1) | N/A |
+| 29 | [the sarah geronimo](http://twitter.com/search?q=the+sarah+geronimo) | N/A |
+| 30 | [TNTHuradoDARREN-D8](http://twitter.com/search?q=TNTHuradoDARREN-D8) | N/A |
+| 31 | [House of Representatives](http://twitter.com/search?q=House+of+Representatives) | The House of Representatives is the lower house of the United States Congress, and is composed of 435 members who are elected from districts across the country. The primary purpose of the House of Representatives is to pass laws that affect the nation as a whole. |
+| 32 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 33 | [ACT 1](http://twitter.com/search?q=ACT+1) | N/A |
+| 34 | [janenella move the glass](http://twitter.com/search?q=janenella+move+the+glass) | N/A |
+| 35 | [House Speaker Martin Romualdez](http://twitter.com/search?q=House+Speaker+Martin+Romualdez) | N/A |
+| 36 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 37 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 38 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 39 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 40 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
+| 41 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 42 | [OUR HEART HEALER TAEHYUNG](http://twitter.com/search?q=OUR+HEART+HEALER+TAEHYUNG) | N/A |
+| 43 | [kathniel incanta milano](http://twitter.com/search?q=kathniel+incanta+milano) | N/A |
+| 44 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
+| 45 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
 | 46 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 47 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 48 | [hori7on 1n gapan](http://twitter.com/search?q=hori7on+1n+gapan) | N/A |

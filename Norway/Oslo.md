@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-13 11:16:16 UTC`
+📆 Last Updated: `2023-03-13 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,25 +16,25 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 2 | [Holmenkollen](http://twitter.com/search?q=Holmenkollen) | N/A |
+| 2 | [holmenkollen](http://twitter.com/search?q=holmenkollen) | N/A |
 | 3 | [skeid](http://twitter.com/search?q=skeid) | N/A |
-| 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 6 | [England](http://twitter.com/search?q=England) | N/A |
-| 7 | [mjøndalen](http://twitter.com/search?q=mj%c3%b8ndalen) | N/A |
-| 8 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
-| 9 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
-| 10 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [sanyang](http://twitter.com/search?q=sanyang) | N/A |
-| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 15 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
-| 16 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
-| 17 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 18 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
-| 19 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 20 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 5 | [England](http://twitter.com/search?q=England) | N/A |
+| 6 | [mjøndalen](http://twitter.com/search?q=mj%c3%b8ndalen) | N/A |
+| 7 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
+| 8 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 9 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 10 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
+| 11 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
+| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 13 | [sanyang](http://twitter.com/search?q=sanyang) | N/A |
+| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [lsk-hallen](http://twitter.com/search?q=lsk-hallen) | N/A |
+| 17 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
+| 18 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 19 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
+| 20 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 21 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
 | 22 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
 | 23 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
@@ -52,13 +52,13 @@ This is top 50 for [Norway](</Norway>)
 | 35 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
 | 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 38 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 38 | [obos](http://twitter.com/search?q=obos) | N/A |
 | 39 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
 | 40 | [norgescupen](http://twitter.com/search?q=norgescupen) | N/A |
 | 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 42 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
 | 43 | [Herregud](http://twitter.com/search?q=Herregud) | N/A |
-| 44 | [Ganske](http://twitter.com/search?q=Ganske) | N/A |
+| 44 | [ganske](http://twitter.com/search?q=ganske) | N/A |
 | 45 | [DE GEA](http://twitter.com/search?q=DE+GEA) | N/A |
 | 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |

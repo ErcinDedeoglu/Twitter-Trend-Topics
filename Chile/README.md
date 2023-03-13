@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-13 11:16:47 UTC`
+📆 Last Updated: `2023-03-13 12:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Chile
 | 4 | [#superclasicoxtntsports](http://twitter.com/search?q=%23superclasicoxtntsports) | N/A |
 | 5 | [poblete](http://twitter.com/search?q=poblete) | N/A |
 | 6 | [ZALDIVIA](http://twitter.com/search?q=ZALDIVIA) | N/A |
-| 7 | [pellegrino](http://twitter.com/search?q=pellegrino) | N/A |
+| 7 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
 | 8 | [quinteros](http://twitter.com/search?q=quinteros) | N/A |
 | 9 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
 | 10 | [assadi](http://twitter.com/search?q=assadi) | N/A |
@@ -51,12 +51,12 @@ This is top 50 for Chile
 | 34 | [Garin](http://twitter.com/search?q=Garin) | N/A |
 | 35 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
 | 36 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 37 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 37 | [castro](http://twitter.com/search?q=castro) | N/A |
 | 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 39 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
 | 40 | [bolados](http://twitter.com/search?q=bolados) | N/A |
 | 41 | [holan](http://twitter.com/search?q=holan) | N/A |
-| 42 | [segovia](http://twitter.com/search?q=segovia) | N/A |
+| 42 | [Segovia](http://twitter.com/search?q=Segovia) | N/A |
 | 43 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
 | 44 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
 | 45 | [pizarro](http://twitter.com/search?q=pizarro) | N/A |

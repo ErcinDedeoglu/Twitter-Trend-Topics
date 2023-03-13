@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-13 11:16:16 UTC`
+📆 Last Updated: `2023-03-13 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 5 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
 | 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 9 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 10 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 11 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 7 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
+| 8 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 9 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 10 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 14 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 15 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
 | 16 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
@@ -44,12 +44,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 27 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 28 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
 | 29 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 30 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 30 | [eier](http://twitter.com/search?q=eier) | N/A |
 | 31 | [wege](http://twitter.com/search?q=wege) | N/A |
 | 32 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 33 | [Willen](http://twitter.com/search?q=Willen) | N/A |
 | 34 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 35 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 35 | [faschisten](http://twitter.com/search?q=faschisten) | N/A |
 | 36 | [Pause](http://twitter.com/search?q=Pause) | N/A |
 | 37 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
 | 38 | [Regel](http://twitter.com/search?q=Regel) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 | 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 44 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 45 | [sohn](http://twitter.com/search?q=sohn) | N/A |
+| 45 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
 | 46 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
 | 47 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
 

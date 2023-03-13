@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-13 11:16:16 UTC`
+📆 Last Updated: `2023-03-13 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 5 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
 | 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 8 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 9 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 10 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 7 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
+| 8 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 9 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 14 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
 | 15 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
@@ -43,12 +43,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 27 | [hölle](http://twitter.com/search?q=h%c3%b6lle) | N/A |
 | 28 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 29 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 29 | [eier](http://twitter.com/search?q=eier) | N/A |
 | 30 | [wege](http://twitter.com/search?q=wege) | N/A |
 | 31 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 32 | [Willen](http://twitter.com/search?q=Willen) | N/A |
 | 33 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 34 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 34 | [faschisten](http://twitter.com/search?q=faschisten) | N/A |
 | 35 | [Pause](http://twitter.com/search?q=Pause) | N/A |
 | 36 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
 | 37 | [Regel](http://twitter.com/search?q=Regel) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
 | 42 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 43 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 44 | [sohn](http://twitter.com/search?q=sohn) | N/A |
+| 44 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
 | 45 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
 | 46 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
 | 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 48 | [Justement](http://twitter.com/search?q=Justement) | N/A |
-| 49 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
+| 49 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 
 
 

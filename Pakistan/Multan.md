@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-13 11:16:32 UTC`
+📆 Last Updated: `2023-03-13 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,36 +24,36 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 8 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 9 | [Shoaib Shaikh](http://twitter.com/search?q=Shoaib+Shaikh) | N/A |
-| 10 | [usman khan](http://twitter.com/search?q=usman+khan) | N/A |
-| 11 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 12 | [khurram](http://twitter.com/search?q=khurram) | N/A |
-| 13 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 14 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 10 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 11 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 12 | [Usman Khan](http://twitter.com/search?q=Usman+Khan) | N/A |
+| 13 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 14 | [khurram](http://twitter.com/search?q=khurram) | N/A |
 | 15 | [Ban Nasra School](http://twitter.com/search?q=Ban+Nasra+School) | N/A |
-| 16 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 17 | [Gifts](http://twitter.com/search?q=Gifts) | N/A |
-| 18 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 16 | [Gifts](http://twitter.com/search?q=Gifts) | N/A |
+| 17 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 18 | [section 144](http://twitter.com/search?q=section+144) | N/A |
 | 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 20 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
 | 21 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 22 | [hussain talat](http://twitter.com/search?q=hussain+talat) | N/A |
 | 23 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 24 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 24 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
 | 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
 | 26 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 27 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 29 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 30 | [pm in 2008](http://twitter.com/search?q=pm+in+2008) | N/A |
-| 31 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 32 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
-| 33 | [faheem](http://twitter.com/search?q=faheem) | N/A |
-| 34 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 35 | [Sharifs](http://twitter.com/search?q=Sharifs) | N/A |
+| 27 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 28 | [pm in 2008](http://twitter.com/search?q=pm+in+2008) | N/A |
+| 29 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 30 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 31 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
+| 32 | [faheem](http://twitter.com/search?q=faheem) | N/A |
+| 33 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 34 | [Sharifs](http://twitter.com/search?q=Sharifs) | N/A |
+| 35 | [Cabinet Division](http://twitter.com/search?q=Cabinet+Division) | N/A |
 | 36 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 37 | [Cabinet Division](http://twitter.com/search?q=Cabinet+Division) | N/A |
-| 38 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 39 | [Azam](http://twitter.com/search?q=Azam) | N/A |
+| 37 | [Choor](http://twitter.com/search?q=Choor) | N/A |
+| 38 | [Azam](http://twitter.com/search?q=Azam) | N/A |
+| 39 | [Asif Zardari](http://twitter.com/search?q=Asif+Zardari) | N/A |
 | 40 | [Fair](http://twitter.com/search?q=Fair) | N/A |
 | 41 | [The Pakistani](http://twitter.com/search?q=The+Pakistani) | N/A |
 | 42 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
@@ -61,9 +61,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 44 | [patwari](http://twitter.com/search?q=patwari) | N/A |
 | 45 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
 | 46 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 47 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 48 | [Shaheen Afridi](http://twitter.com/search?q=Shaheen+Afridi) | N/A |
-| 49 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 47 | [Shaheen Afridi](http://twitter.com/search?q=Shaheen+Afridi) | N/A |
+| 48 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 49 | [Omggg](http://twitter.com/search?q=Omggg) | N/A |
 
 
 

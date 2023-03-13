@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-13 11:16:51 UTC`
+📆 Last Updated: `2023-03-13 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,7 +51,7 @@ This is top 50 for Panama
 | 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 35 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 37 | [sigan](http://twitter.com/search?q=sigan) | N/A |
+| 37 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
 | 38 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
 | 39 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 40 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |

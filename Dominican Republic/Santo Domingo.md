@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-13 11:16:01 UTC`
+📆 Last Updated: `2023-03-13 12:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 7 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 8 | [linares](http://twitter.com/search?q=linares) | N/A |
 | 9 | [david ortiz](http://twitter.com/search?q=david+ortiz) | N/A |
-| 10 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 10 | [dominicana](http://twitter.com/search?q=dominicana) | N/A |
 | 11 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 13 | [raquel](http://twitter.com/search?q=raquel) | N/A |
+| 13 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
 | 14 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
 | 15 | [nelson cruz](http://twitter.com/search?q=nelson+cruz) | N/A |
 | 16 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |

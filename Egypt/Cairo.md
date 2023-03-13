@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-03-13 11:16:27 UTC`
+📆 Last Updated: `2023-03-13 12:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Egypt](</Egypt>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 2 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
 | 4 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
 | 5 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 6 | [انبي](http://twitter.com/search?q=%d8%a7%d9%86%d8%a8%d9%8a) | N/A |
@@ -30,37 +30,37 @@ This is top 50 for [Egypt](</Egypt>)
 | 13 | [رفيق كابو](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d9%83%d8%a7%d8%a8%d9%88) | N/A |
 | 14 | [المركز الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 15 | [#يوم_العلم](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%84%d9%85) | N/A |
-| 16 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 17 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 18 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 19 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 16 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 17 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 18 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 19 | [مجلس الاداره](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
 | 20 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 21 | [انتوني تايلور](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a+%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
-| 22 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 23 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 24 | [جماهير الزمالك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 25 | [مروان بابلو](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
-| 26 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
-| 27 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
-| 28 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 29 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
-| 30 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 31 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 32 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 33 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 34 | [ويليامز](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%85%d8%b2) | N/A |
-| 35 | [وائل جمعة](http://twitter.com/search?q=%d9%88%d8%a7%d8%a6%d9%84+%d8%ac%d9%85%d8%b9%d8%a9) | N/A |
-| 36 | [الابن الضال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%b6%d8%a7%d9%84) | N/A |
-| 37 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 38 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 22 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 23 | [جماهير الزمالك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
+| 24 | [مروان بابلو](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
+| 25 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 26 | [بنك سيليكون فالي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
+| 27 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 28 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |
+| 29 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 30 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 32 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 33 | [ويليامز](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%85%d8%b2) | N/A |
+| 34 | [وائل جمعة](http://twitter.com/search?q=%d9%88%d8%a7%d8%a6%d9%84+%d8%ac%d9%85%d8%b9%d8%a9) | N/A |
+| 35 | [الابن الضال](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%b6%d8%a7%d9%84) | N/A |
+| 36 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 37 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 38 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
 | 39 | [التجمع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 40 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 40 | [13 مارس 2023](http://twitter.com/search?q=13+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
 | 41 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 42 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 43 | [آرسنال](http://twitter.com/search?q=%d8%a2%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 44 | [متعب](http://twitter.com/search?q=%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
-| 45 | [تراك بابلو](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%83+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
-| 46 | [ارسنال جميل](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84+%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 42 | [آرسنال](http://twitter.com/search?q=%d8%a2%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 43 | [متعب](http://twitter.com/search?q=%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
+| 44 | [تراك بابلو](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%83+%d8%a8%d8%a7%d8%a8%d9%84%d9%88) | N/A |
+| 45 | [ارسنال جميل](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84+%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 46 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 47 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 48 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 49 | [رييس النادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |

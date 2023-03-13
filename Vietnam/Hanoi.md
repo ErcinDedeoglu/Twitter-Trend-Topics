@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-13 11:16:25 UTC`
+📆 Last Updated: `2023-03-13 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,25 +16,25 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 2 | [#umgseriesep1](http://twitter.com/search?q=%23umgseriesep1) | N/A |
+| 2 | [#UMGSeriesEP1](http://twitter.com/search?q=%23UMGSeriesEP1) | N/A |
 | 3 | [#BuildisLuved](http://twitter.com/search?q=%23BuildisLuved) | N/A |
 | 4 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 5 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 6 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 5 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 6 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 7 | [#MEbyJISOO](http://twitter.com/search?q=%23MEbyJISOO) | N/A |
 | 8 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
 | 9 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 10 | [rosé solo anniversary](http://twitter.com/search?q=ros%c3%a9+solo+anniversary) | N/A |
-| 11 | [xinh](http://twitter.com/search?q=xinh) | N/A |
+| 11 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 12 | [set me free pt2 poster](http://twitter.com/search?q=set+me+free+pt2+poster) | N/A |
 | 13 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
 | 14 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 15 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
 | 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 17 | [englot](http://twitter.com/search?q=englot) | N/A |
-| 18 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 19 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 20 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 18 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 19 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 20 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
 | 21 | [cũng](http://twitter.com/search?q=c%c5%a9ng) | N/A |
 | 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 23 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 47 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 48 | [dApps](http://twitter.com/search?q=dApps) | N/A |
 | 49 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 50 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 50 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 
 
 

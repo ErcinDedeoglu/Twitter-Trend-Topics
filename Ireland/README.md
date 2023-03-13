@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-13 11:16:48 UTC`
+📆 Last Updated: `2023-03-13 12:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for Ireland
 | 2 | [#SCOvIRE](http://twitter.com/search?q=%23SCOvIRE) | N/A |
 | 3 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
 | 4 | [#dwtsirl](http://twitter.com/search?q=%23dwtsirl) | N/A |
-| 5 | [#ENGvFRA](http://twitter.com/search?q=%23ENGvFRA) | N/A |
-| 6 | [#munsou](http://twitter.com/search?q=%23munsou) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [#engvfra](http://twitter.com/search?q=%23engvfra) | N/A |
 | 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 10 | [mack hansen](http://twitter.com/search?q=mack+hansen) | N/A |
+| 10 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
 | 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 12 | [ringrose](http://twitter.com/search?q=ringrose) | N/A |
 | 13 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
@@ -42,13 +42,13 @@ This is top 50 for Ireland
 | 25 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
 | 26 | [Scots](http://twitter.com/search?q=Scots) | N/A |
 | 27 | [cork](http://twitter.com/search?q=cork) | N/A |
-| 28 | [half time](http://twitter.com/search?q=half+time) | N/A |
-| 29 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 30 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
-| 31 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 32 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
-| 33 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 34 | [hogg](http://twitter.com/search?q=hogg) | N/A |
+| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 29 | [half time](http://twitter.com/search?q=half+time) | N/A |
+| 30 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 31 | [Edinburgh](http://twitter.com/search?q=Edinburgh) | N/A |
+| 32 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
+| 33 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 34 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 36 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |

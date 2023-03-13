@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-13 11:16:52 UTC`
+📆 Last Updated: `2023-03-13 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 

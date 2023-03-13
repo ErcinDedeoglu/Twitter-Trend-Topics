@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-13 11:16:04 UTC`
+📆 Last Updated: `2023-03-13 12:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,28 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 4 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
+| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [#allstardespide](http://twitter.com/search?q=%23allstardespide) | N/A |
 | 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 6 | [#allstardespide](http://twitter.com/search?q=%23allstardespide) | N/A |
+| 6 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
 | 7 | [#NarcoAntonioSolis](http://twitter.com/search?q=%23NarcoAntonioSolis) | N/A |
 | 8 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 9 | [Joey Meneses](http://twitter.com/search?q=Joey+Meneses) | N/A |
 | 10 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 11 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 12 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
-| 13 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 14 | [Fogel](http://twitter.com/search?q=Fogel) | N/A |
-| 15 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 16 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 13 | [Fogel](http://twitter.com/search?q=Fogel) | N/A |
+| 14 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 15 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 16 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 17 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 18 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 19 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 20 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 21 | [heliud](http://twitter.com/search?q=heliud) | N/A |
-| 22 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 23 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 21 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 22 | [heliud](http://twitter.com/search?q=heliud) | N/A |
+| 23 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 24 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
 | 25 | [Cabajoey](http://twitter.com/search?q=Cabajoey) | N/A |
 | 26 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
@@ -49,17 +49,17 @@ This is top 50 for [Mexico](</Mexico>)
 | 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 33 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
 | 34 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 36 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 37 | [In Memoriam](http://twitter.com/search?q=In+Memoriam) | N/A |
-| 38 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 39 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 35 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 36 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 37 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 38 | [In Memoriam](http://twitter.com/search?q=In+Memoriam) | N/A |
+| 39 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 40 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 41 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
-| 42 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 43 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 44 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 45 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 41 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 42 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 43 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 44 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 45 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
 | 46 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 | 47 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
 | 48 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |

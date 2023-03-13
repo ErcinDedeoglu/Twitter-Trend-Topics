@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-13 11:16:09 UTC`
+📆 Last Updated: `2023-03-13 12:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,11 +33,11 @@ This is top 50 for [Poland](</Poland>)
 | 16 | [pruszkowie](http://twitter.com/search?q=pruszkowie) | N/A |
 | 17 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
 | 18 | [lech kaczyński](http://twitter.com/search?q=lech+kaczy%c5%84ski) | N/A |
-| 19 | [Łapy](http://twitter.com/search?q=%c5%81apy) | N/A |
+| 19 | [łapy](http://twitter.com/search?q=%c5%82apy) | N/A |
 | 20 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
 | 21 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 24 | [newsweek](http://twitter.com/search?q=newsweek) | N/A |
 | 25 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
 | 26 | [Kibole](http://twitter.com/search?q=Kibole) | N/A |
@@ -57,11 +57,11 @@ This is top 50 for [Poland](</Poland>)
 | 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 41 | [piast](http://twitter.com/search?q=piast) | N/A |
 | 42 | [kazik](http://twitter.com/search?q=kazik) | N/A |
-| 43 | [duchy inisherin](http://twitter.com/search?q=duchy+inisherin) | N/A |
-| 44 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 45 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 46 | [Na Zachodzie](http://twitter.com/search?q=Na+Zachodzie) | N/A |
-| 47 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 43 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 44 | [duchy inisherin](http://twitter.com/search?q=duchy+inisherin) | N/A |
+| 45 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 46 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 47 | [Na Zachodzie](http://twitter.com/search?q=Na+Zachodzie) | N/A |
 | 48 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 49 | [strzałka](http://twitter.com/search?q=strza%c5%82ka) | N/A |
 

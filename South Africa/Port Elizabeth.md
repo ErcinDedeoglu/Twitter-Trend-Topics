@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-13 11:16:28 UTC`
+📆 Last Updated: `2023-03-13 12:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,22 +27,22 @@ This is top 50 for [South Africa](</South Africa>)
 | 10 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 11 | [mobi dixon](http://twitter.com/search?q=mobi+dixon) | N/A |
 | 12 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 13 | [blaqboi](http://twitter.com/search?q=blaqboi) | N/A |
+| 13 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
 | 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 15 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 16 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 17 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 18 | [stage 1](http://twitter.com/search?q=stage+1) | N/A |
-| 19 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
-| 20 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 21 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
+| 15 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
+| 16 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 17 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 18 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 19 | [stage 1](http://twitter.com/search?q=stage+1) | N/A |
+| 20 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
+| 21 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
 | 22 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 23 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
 | 24 | [casric](http://twitter.com/search?q=casric) | N/A |
 | 25 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
 | 26 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 27 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 29 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 30 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 31 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [South Africa](</South Africa>)
 | 41 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
 | 42 | [boity](http://twitter.com/search?q=boity) | N/A |
 | 43 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 44 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
-| 45 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 44 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 45 | [DJ PH](http://twitter.com/search?q=DJ+PH) | N/A |
 | 46 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 47 | [block 11](http://twitter.com/search?q=block+11) | N/A |
-| 48 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 49 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 47 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 48 | [block 11](http://twitter.com/search?q=block+11) | N/A |
+| 49 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 
 
 

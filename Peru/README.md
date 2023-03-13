@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-13 11:16:51 UTC`
+📆 Last Updated: `2023-03-13 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for Peru
 | 21 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
 | 22 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 24 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 24 | [garcía](http://twitter.com/search?q=garc%c3%ada) | N/A |
 | 25 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 26 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 27 | [Donen](http://twitter.com/search?q=Donen) | N/A |
