@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-13 14:17:23 UTC`
+📆 Last Updated: `2023-03-13 15:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 4 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 5 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 7 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 8 | [Happy 313](http://twitter.com/search?q=Happy+313) | N/A |
-| 9 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 10 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
-| 11 | [All A Blur Tour](http://twitter.com/search?q=All+A+Blur+Tour) | N/A |
-| 12 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
-| 13 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 14 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 15 | [She is Asian](http://twitter.com/search?q=She+is+Asian) | N/A |
-| 16 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 17 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 18 | [Charles Schwab](http://twitter.com/search?q=Charles+Schwab) | N/A |
-| 19 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 20 | [Identifies as Asian](http://twitter.com/search?q=Identifies+as+Asian) | N/A |
-| 21 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 22 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
-| 23 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 24 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 25 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 26 | [The Lincoln Project](http://twitter.com/search?q=The+Lincoln+Project) | N/A |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 29 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 30 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 31 | [$SCHW](http://twitter.com/search?q=%24SCHW) | N/A |
-| 32 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 33 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 36 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 37 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 38 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 39 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 40 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 41 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
-| 42 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 43 | [Nor'easter](http://twitter.com/search?q=Nor%27easter) | N/A |
-| 44 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 45 | [Oscars 2023](http://twitter.com/search?q=Oscars+2023) | N/A |
-| 46 | [Goldman Sachs](http://twitter.com/search?q=Goldman+Sachs) | N/A |
-| 47 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
-| 48 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 49 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 50 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 3 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
+| 4 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
+| 5 | [#BuschSpringCleaning](http://twitter.com/search?q=%23BuschSpringCleaning) | N/A |
+| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 7 | [Happy 313](http://twitter.com/search?q=Happy+313) | N/A |
+| 8 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 9 | [Isaiah Buggs](http://twitter.com/search?q=Isaiah+Buggs) | N/A |
+| 10 | [Charles Schwab](http://twitter.com/search?q=Charles+Schwab) | N/A |
+| 11 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 12 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
+| 13 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 14 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 15 | [All A Blur](http://twitter.com/search?q=All+A+Blur) | N/A |
+| 16 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 17 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
+| 18 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
+| 19 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 20 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 21 | [She is Asian](http://twitter.com/search?q=She+is+Asian) | N/A |
+| 22 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 23 | [The Lincoln Project](http://twitter.com/search?q=The+Lincoln+Project) | N/A |
+| 24 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
+| 25 | [$SCHW](http://twitter.com/search?q=%24SCHW) | N/A |
+| 26 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 27 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 28 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
+| 29 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
+| 30 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 31 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 32 | [Identifies as Asian](http://twitter.com/search?q=Identifies+as+Asian) | N/A |
+| 33 | [Great Depression](http://twitter.com/search?q=Great+Depression) | N/A |
+| 34 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 35 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 36 | [Monday the 13th](http://twitter.com/search?q=Monday+the+13th) | N/A |
+| 37 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 39 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
+| 40 | [Tremaine Edmunds](http://twitter.com/search?q=Tremaine+Edmunds) | N/A |
+| 41 | [Javon Hargrave](http://twitter.com/search?q=Javon+Hargrave) | N/A |
+| 42 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 43 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
+| 44 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 45 | [Dre'Mont Jones](http://twitter.com/search?q=Dre%27Mont+Jones) | N/A |
+| 46 | [shownu](http://twitter.com/search?q=shownu) | N/A |
+| 47 | [Nor'easter](http://twitter.com/search?q=Nor%27easter) | N/A |
+| 48 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
+| 49 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 50 | [McGlinchey](http://twitter.com/search?q=McGlinchey) | McGlinchey is an Irish surname derived from the Gaelic Mac Giolla Fhionnghaile, meaning "son of the fair-haired servant". |
 
 
 

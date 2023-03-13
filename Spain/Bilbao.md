@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-03-13 14:16:57 UTC`
+📆 Last Updated: `2023-03-13 15:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 6 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 7 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 8 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 9 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 8 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 9 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
 | 10 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
 | 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 13 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 14 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
 | 15 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 16 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 17 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 18 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 19 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 20 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 16 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 17 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 18 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 19 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 20 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
 | 21 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
 | 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 24 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 25 | [Jorge Molina](http://twitter.com/search?q=Jorge+Molina) | N/A |
-| 26 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 29 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 30 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 31 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 23 | [Azerbaiyán](http://twitter.com/search?q=Azerbaiy%c3%a1n) | N/A |
+| 24 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 25 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 26 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 27 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
+| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 30 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 31 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 32 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 33 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 34 | [11-m](http://twitter.com/search?q=11-m) | N/A |
-| 35 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 34 | [Jorge Molina](http://twitter.com/search?q=Jorge+Molina) | N/A |
+| 35 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 36 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 37 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 38 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 39 | [Azerbaiyán](http://twitter.com/search?q=Azerbaiy%c3%a1n) | N/A |
-| 40 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 37 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 38 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 39 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
+| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 41 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 42 | [Tapón](http://twitter.com/search?q=Tap%c3%b3n) | N/A |
-| 43 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 44 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 45 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 46 | [Raúl García](http://twitter.com/search?q=Ra%c3%bal+Garc%c3%ada) | N/A |
-| 47 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 42 | [RMTV](http://twitter.com/search?q=RMTV) | N/A |
+| 43 | [Tapón](http://twitter.com/search?q=Tap%c3%b3n) | N/A |
+| 44 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
+| 45 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 46 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 47 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
 
 
 

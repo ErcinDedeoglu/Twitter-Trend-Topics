@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-13 14:17:18 UTC`
+📆 Last Updated: `2023-03-13 15:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 2 | [Devletimiz Kaldı](http://twitter.com/search?q=Devletimiz+Kald%c4%b1) | N/A |
-| 3 | [Birlikte Aşıyoruz](http://twitter.com/search?q=Birlikte+A%c5%9f%c4%b1yoruz) | N/A |
-| 4 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
-| 5 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 7 | [#StajaMartMüjdesi](http://twitter.com/search?q=%23StajaMartM%c3%bcjdesi) | N/A |
-| 8 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 9 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 10 | [#Yoekegitimekulakver](http://twitter.com/search?q=%23Yoekegitimekulakver) | N/A |
+| 1 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
+| 2 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
+| 3 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 4 | [Devletimiz Kaldı](http://twitter.com/search?q=Devletimiz+Kald%c4%b1) | N/A |
+| 5 | [Birlikte Aşıyoruz](http://twitter.com/search?q=Birlikte+A%c5%9f%c4%b1yoruz) | N/A |
+| 6 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
+| 7 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
+| 8 | [#yökkararvakti](http://twitter.com/search?q=%23y%c3%b6kkararvakti) | N/A |
+| 9 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 10 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
 | 11 | [S-400](http://twitter.com/search?q=S-400) | N/A |
-| 12 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 13 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 14 | [ToplumsalBarış MahkumAffı](http://twitter.com/search?q=ToplumsalBar%c4%b1%c5%9f+MahkumAff%c4%b1) | N/A |
-| 15 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
-| 16 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 17 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 18 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
-| 19 | [Aysun Kayacı](http://twitter.com/search?q=Aysun+Kayac%c4%b1) | N/A |
-| 20 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
-| 21 | [mehdi](http://twitter.com/search?q=mehdi) | N/A |
-| 22 | [Mehmet Akif Ersoy'u Anma Günü](http://twitter.com/search?q=Mehmet+Akif+Ersoy%27u+Anma+G%c3%bcn%c3%bc) | N/A |
-| 23 | [Şeref](http://twitter.com/search?q=%c5%9eeref) | N/A |
-| 24 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 25 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 26 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 27 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 28 | [ABD'de](http://twitter.com/search?q=ABD%27de) | N/A |
-| 29 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 30 | [#SeçimdenÖnce5000VeKısmi](http://twitter.com/search?q=%23Se%c3%a7imden%c3%96nce5000VeK%c4%b1smi) | N/A |
-| 31 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 32 | [#AKFYE](http://twitter.com/search?q=%23AKFYE) | N/A |
-| 33 | [#MemleketPartisi](http://twitter.com/search?q=%23MemleketPartisi) | N/A |
-| 34 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 35 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 36 | [#5BinVeKismiyiMujdele](http://twitter.com/search?q=%235BinVeKismiyiMujdele) | N/A |
-| 37 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
-| 38 | [#emkel](http://twitter.com/search?q=%23emkel) | N/A |
-| 39 | [#1283İçimizde](http://twitter.com/search?q=%231283%c4%b0%c3%a7imizde) | N/A |
-| 40 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 41 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
-| 42 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 43 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 44 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 45 | [#HayvancılıkYokEdiliyor](http://twitter.com/search?q=%23Hayvanc%c4%b1l%c4%b1kYokEdiliyor) | N/A |
-| 46 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
-| 47 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
+| 12 | [Medeniyet](http://twitter.com/search?q=Medeniyet) | N/A |
+| 13 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 14 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
+| 15 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 16 | [Aysun Kayacı](http://twitter.com/search?q=Aysun+Kayac%c4%b1) | N/A |
+| 17 | [Mehmet Akif Ersoy'u Anma Günü](http://twitter.com/search?q=Mehmet+Akif+Ersoy%27u+Anma+G%c3%bcn%c3%bc) | N/A |
+| 18 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 19 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
+| 20 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 21 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
+| 22 | [Solcu](http://twitter.com/search?q=Solcu) | N/A |
+| 23 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 24 | [Şeref](http://twitter.com/search?q=%c5%9eeref) | N/A |
+| 25 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 26 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 27 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 28 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 29 | [#StajaMartMüjdesi](http://twitter.com/search?q=%23StajaMartM%c3%bcjdesi) | N/A |
+| 30 | [#Yoekegitimekulakver](http://twitter.com/search?q=%23Yoekegitimekulakver) | N/A |
+| 31 | [#TekÇareReis](http://twitter.com/search?q=%23Tek%c3%87areReis) | N/A |
+| 32 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 33 | [#HayvancılıkYokEdiliyor](http://twitter.com/search?q=%23Hayvanc%c4%b1l%c4%b1kYokEdiliyor) | N/A |
+| 34 | [#SeçimdenÖnce5000VeKısmi](http://twitter.com/search?q=%23Se%c3%a7imden%c3%96nce5000VeK%c4%b1smi) | N/A |
+| 35 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 36 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 37 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
+| 38 | [#EmekliSEÇİMİbekliyor](http://twitter.com/search?q=%23EmekliSE%c3%87%c4%b0M%c4%b0bekliyor) | N/A |
+| 39 | [#memleketpartisi](http://twitter.com/search?q=%23memleketpartisi) | N/A |
+| 40 | [#AKFYE](http://twitter.com/search?q=%23AKFYE) | N/A |
+| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 42 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
+| 43 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 44 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 45 | [#1283İçimizde](http://twitter.com/search?q=%231283%c4%b0%c3%a7imizde) | N/A |
+| 46 | [#emkel](http://twitter.com/search?q=%23emkel) | N/A |
+| 47 | [#5BinVeKismiyiMujdele](http://twitter.com/search?q=%235BinVeKismiyiMujdele) | N/A |
+| 48 | [#BUSD](http://twitter.com/search?q=%23BUSD) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-13 14:17:09 UTC`
+📆 Last Updated: `2023-03-13 15:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EkoforSanwo](http://twitter.com/search?q=%23EkoforSanwo) | N/A |
-| 2 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 3 | [#JEKAJO](http://twitter.com/search?q=%23JEKAJO) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#GRVforCivilService](http://twitter.com/search?q=%23GRVforCivilService) | N/A |
-| 6 | [Oluwa Dolarz](http://twitter.com/search?q=Oluwa+Dolarz) | N/A |
-| 7 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 8 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 9 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 10 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 14 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 15 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
-| 16 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [ward prowse](http://twitter.com/search?q=ward+prowse) | N/A |
-| 20 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 21 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
-| 22 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 23 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 24 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
-| 29 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
-| 30 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 31 | [the money is kanalized](http://twitter.com/search?q=the+money+is+kanalized) | N/A |
-| 32 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 33 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
-| 34 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
-| 35 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 36 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 37 | [yvonne the party goddess](http://twitter.com/search?q=yvonne+the+party+goddess) | N/A |
-| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 39 | [today is sunday](http://twitter.com/search?q=today+is+sunday) | N/A |
-| 40 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
-| 41 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
-| 42 | [EXCEPTIONAL YEMI CREGX](http://twitter.com/search?q=EXCEPTIONAL+YEMI+CREGX) | N/A |
-| 43 | [HE IS SHEGGZ OLU](http://twitter.com/search?q=HE+IS+SHEGGZ+OLU) | N/A |
-| 44 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 45 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 46 | [Toph](http://twitter.com/search?q=Toph) | N/A |
-| 47 | [Harvesters](http://twitter.com/search?q=Harvesters) | N/A |
-| 48 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 49 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 50 | [Met Gala](http://twitter.com/search?q=Met+Gala) | N/A |
+| 2 | [#JEKAJO](http://twitter.com/search?q=%23JEKAJO) | N/A |
+| 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 4 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 5 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 11 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 14 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 18 | [ward prowse](http://twitter.com/search?q=ward+prowse) | N/A |
+| 19 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
+| 20 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
+| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [WALCOTT](http://twitter.com/search?q=WALCOTT) | N/A |
+| 24 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 25 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 26 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 27 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
+| 28 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 29 | [harvesters](http://twitter.com/search?q=harvesters) | N/A |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [yvonne the party goddess](http://twitter.com/search?q=yvonne+the+party+goddess) | N/A |
+| 32 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 33 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
+| 34 | [today is sunday](http://twitter.com/search?q=today+is+sunday) | N/A |
+| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 36 | [HE IS SHEGGZ OLU](http://twitter.com/search?q=HE+IS+SHEGGZ+OLU) | N/A |
+| 37 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
+| 38 | [no kanaga jnr no party](http://twitter.com/search?q=no+kanaga+jnr+no+party) | N/A |
+| 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 41 | [Padre](http://twitter.com/search?q=Padre) | N/A |
+| 42 | [Usher](http://twitter.com/search?q=Usher) | N/A |
+| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 44 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
+| 45 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 46 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 47 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
+| 48 | [richarlison](http://twitter.com/search?q=richarlison) | N/A |
+| 49 | [Kanayo](http://twitter.com/search?q=Kanayo) | N/A |
+| 50 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 
 
 

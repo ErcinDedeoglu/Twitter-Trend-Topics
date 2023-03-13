@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-13 14:16:51 UTC`
+📆 Last Updated: `2023-03-13 15:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 2 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 1 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
+| 2 | [Decode](http://twitter.com/search?q=Decode) | N/A |
 | 3 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 4 | [#ForaLarisa](http://twitter.com/search?q=%23ForaLarisa) | N/A |
+| 4 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 5 | [#MomentoAnacapri](http://twitter.com/search?q=%23MomentoAnacapri) | N/A |
-| 6 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 7 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 8 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 9 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 10 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 11 | [Jorge Teixeira](http://twitter.com/search?q=Jorge+Teixeira) | N/A |
-| 12 | [JOHN FRUSCIANTE](http://twitter.com/search?q=JOHN+FRUSCIANTE) | N/A |
-| 13 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 14 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 15 | [Evandro Mesquita](http://twitter.com/search?q=Evandro+Mesquita) | N/A |
-| 16 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 17 | [Paulão](http://twitter.com/search?q=Paul%c3%a3o) | N/A |
-| 18 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 19 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 22 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 23 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
-| 24 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 25 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 26 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
-| 27 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
-| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 29 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
-| 30 | [hailee](http://twitter.com/search?q=hailee) | N/A |
-| 31 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 33 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 34 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 36 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
-| 37 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 38 | [#foralaritruci](http://twitter.com/search?q=%23foralaritruci) | N/A |
-| 39 | [#SemanaDoConsumidorAmazon](http://twitter.com/search?q=%23SemanaDoConsumidorAmazon) | N/A |
-| 40 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
-| 41 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
+| 6 | [Pilantra](http://twitter.com/search?q=Pilantra) | N/A |
+| 7 | [#ForaLarisa](http://twitter.com/search?q=%23ForaLarisa) | N/A |
+| 8 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 9 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 10 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 11 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 12 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 13 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 14 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 15 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [#SemanaDoConsumidorAmazon](http://twitter.com/search?q=%23SemanaDoConsumidorAmazon) | N/A |
+| 18 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 20 | [Evandro Mesquita](http://twitter.com/search?q=Evandro+Mesquita) | N/A |
+| 21 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 22 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 23 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 24 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
+| 25 | [Paulão](http://twitter.com/search?q=Paul%c3%a3o) | N/A |
+| 26 | [Jorge Teixeira](http://twitter.com/search?q=Jorge+Teixeira) | N/A |
+| 27 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 28 | [Dia 13](http://twitter.com/search?q=Dia+13) | N/A |
+| 29 | [R$1,99](http://twitter.com/search?q=R%241%2c99) | N/A |
+| 30 | [JOHN FRUSCIANTE](http://twitter.com/search?q=JOHN+FRUSCIANTE) | N/A |
+| 31 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
+| 32 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 33 | [Kindle Unlimited](http://twitter.com/search?q=Kindle+Unlimited) | N/A |
+| 34 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
+| 35 | [Inês](http://twitter.com/search?q=In%c3%aas) | N/A |
+| 36 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 37 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 38 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 39 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 40 | [hailee](http://twitter.com/search?q=hailee) | N/A |
+| 41 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 42 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 43 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
+| 44 | [Compadecida](http://twitter.com/search?q=Compadecida) | N/A |
+| 45 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 46 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
+| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 48 | [Brendan](http://twitter.com/search?q=Brendan) | Brendan is an Irish name derived from the Gaelic Breandán, meaning "prince". It is also used as a surname. |
+| 49 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
+| 50 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 
 
 

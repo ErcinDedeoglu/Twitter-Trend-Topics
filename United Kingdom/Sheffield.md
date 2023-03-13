@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-13 14:16:43 UTC`
+📆 Last Updated: `2023-03-13 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
 | 2 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
 | 4 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
 | 5 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 6 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 6 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
 | 7 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 8 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
-| 9 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 10 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
-| 11 | [Refuge](http://twitter.com/search?q=Refuge) | N/A |
-| 12 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
-| 13 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 14 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 15 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 16 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 8 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
+| 9 | [Fredo](http://twitter.com/search?q=Fredo) | N/A |
+| 10 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 11 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 12 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 13 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 14 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 15 | [Monster Munch](http://twitter.com/search?q=Monster+Munch) | N/A |
+| 16 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
 | 17 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 18 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 20 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 21 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 22 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 23 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 24 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 25 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 26 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
-| 27 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
-| 28 | [Endeavour](http://twitter.com/search?q=Endeavour) | N/A |
+| 18 | [Happy Birthday To Roo](http://twitter.com/search?q=Happy+Birthday+To+Roo) | N/A |
+| 19 | [Westminster Abbey](http://twitter.com/search?q=Westminster+Abbey) | N/A |
+| 20 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 21 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
+| 22 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 23 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 24 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
+| 25 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 26 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 27 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 28 | [Budget](http://twitter.com/search?q=Budget) | N/A |
 | 29 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 30 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 31 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 32 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
-| 33 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 34 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 35 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
-| 36 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
-| 37 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 38 | [#CommonwealthDay](http://twitter.com/search?q=%23CommonwealthDay) | N/A |
-| 39 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 40 | [#BritishScienceWeek](http://twitter.com/search?q=%23BritishScienceWeek) | N/A |
-| 41 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 42 | [#CheltenhamFestivalNAP](http://twitter.com/search?q=%23CheltenhamFestivalNAP) | N/A |
-| 43 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 44 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
-| 45 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 46 | [#Dunblane](http://twitter.com/search?q=%23Dunblane) | N/A |
+| 30 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
+| 31 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 32 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 33 | [SVB UK](http://twitter.com/search?q=SVB+UK) | N/A |
+| 34 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 35 | [Endeavour](http://twitter.com/search?q=Endeavour) | N/A |
+| 36 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 37 | [#BritishScienceWeek](http://twitter.com/search?q=%23BritishScienceWeek) | N/A |
+| 38 | [#NeurodiversityCelebrationWeek](http://twitter.com/search?q=%23NeurodiversityCelebrationWeek) | N/A |
+| 39 | [#AskBroony](http://twitter.com/search?q=%23AskBroony) | N/A |
+| 40 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 41 | [#IStandWithShumirunNessa](http://twitter.com/search?q=%23IStandWithShumirunNessa) | N/A |
+| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 43 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 44 | [#ITAKOM](http://twitter.com/search?q=%23ITAKOM) | N/A |
+| 45 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 46 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
 | 47 | [#BSW23](http://twitter.com/search?q=%23BSW23) | N/A |
-| 48 | [#HumzaForScotland](http://twitter.com/search?q=%23HumzaForScotland) | N/A |
+| 48 | [#Dunblane](http://twitter.com/search?q=%23Dunblane) | N/A |
 
 
 

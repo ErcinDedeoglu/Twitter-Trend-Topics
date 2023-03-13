@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-13 14:17:21 UTC`
+📆 Last Updated: `2023-03-13 15:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 4 | [#Match2023](http://twitter.com/search?q=%23Match2023) | N/A |
-| 5 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 7 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 8 | [Happy 313](http://twitter.com/search?q=Happy+313) | N/A |
-| 9 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 10 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
-| 11 | [All A Blur Tour](http://twitter.com/search?q=All+A+Blur+Tour) | N/A |
-| 12 | [Daily Quordle 413](http://twitter.com/search?q=Daily+Quordle+413) | N/A |
-| 13 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 14 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 15 | [She is Asian](http://twitter.com/search?q=She+is+Asian) | N/A |
-| 16 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 17 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 18 | [Charles Schwab](http://twitter.com/search?q=Charles+Schwab) | N/A |
-| 19 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 20 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 21 | [Identifies as Asian](http://twitter.com/search?q=Identifies+as+Asian) | N/A |
-| 22 | [Stepped](http://twitter.com/search?q=Stepped) | N/A |
-| 23 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
-| 24 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
-| 25 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 26 | [The Lincoln Project](http://twitter.com/search?q=The+Lincoln+Project) | N/A |
-| 27 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 28 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 29 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 30 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 31 | [Equality](http://twitter.com/search?q=Equality) | N/A |
-| 32 | [$SCHW](http://twitter.com/search?q=%24SCHW) | N/A |
-| 33 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 34 | [Chrisean](http://twitter.com/search?q=Chrisean) | Chrisean is not a word in English. It does not have a meaning. |
-| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 36 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 38 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 39 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 40 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
-| 41 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 42 | [Happy Spring Break](http://twitter.com/search?q=Happy+Spring+Break) | N/A |
-| 43 | [shownu](http://twitter.com/search?q=shownu) | N/A |
-| 44 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 45 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
-| 46 | [Nor'easter](http://twitter.com/search?q=Nor%27easter) | N/A |
-| 47 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 48 | [Oscars 2023](http://twitter.com/search?q=Oscars+2023) | N/A |
-| 49 | [Goldman Sachs](http://twitter.com/search?q=Goldman+Sachs) | N/A |
-| 50 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 3 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 5 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 6 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 7 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 8 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 9 | [#313Day](http://twitter.com/search?q=%23313Day) | N/A |
+| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 12 | [The Monday](http://twitter.com/search?q=The+Monday) | N/A |
+| 13 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 14 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 17 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 18 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 19 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
+| 20 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 21 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 22 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 24 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
+| 25 | [She is Asian](http://twitter.com/search?q=She+is+Asian) | N/A |
+| 26 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 27 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 28 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 29 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 30 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 31 | [GM Nick](http://twitter.com/search?q=GM+Nick) | N/A |
+| 32 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 33 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
+| 34 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 35 | [Academy](http://twitter.com/search?q=Academy) | Academy is a term used to refer to a school or institution of higher learning. It typically refers to a private school, college, or university that offers specialized instruction in a particular field or area of study. The term can also be used more broadly to refer to any organization devoted to the advancement of knowledge or skill in a particular area. |
+| 36 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 37 | [Deshaun Watson](http://twitter.com/search?q=Deshaun+Watson) | N/A |
+| 38 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 39 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 40 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 41 | [Kilmeade](http://twitter.com/search?q=Kilmeade) | N/A |
+| 42 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 45 | [GWOT](http://twitter.com/search?q=GWOT) | N/A |
+| 46 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 47 | [$SPY](http://twitter.com/search?q=%24SPY) | N/A |
+| 48 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 49 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 50 | [Vanity Fair](http://twitter.com/search?q=Vanity+Fair) | N/A |
 
 
 
