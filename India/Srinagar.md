@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-13 16:16:38 UTC`
+📆 Last Updated: `2023-03-13 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CervicalRelief](http://twitter.com/search?q=%23CervicalRelief) | N/A |
-| 2 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#Custody](http://twitter.com/search?q=%23Custody) | N/A |
-| 5 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 6 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 7 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 8 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 9 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 10 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
-| 11 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
-| 12 | [#NaatuNaatu](http://twitter.com/search?q=%23NaatuNaatu) | #NaatuNaatu is a Tamil phrase that translates to “Let it be” in English. It is used as an expression of acceptance or resignation, and can also be used to express hope or faith in a situation. |
-| 13 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
-| 14 | [#NagaChaitanya](http://twitter.com/search?q=%23NagaChaitanya) | N/A |
-| 15 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
-| 16 | [#WTC2023](http://twitter.com/search?q=%23WTC2023) | N/A |
-| 17 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 18 | [#SLvsNZ](http://twitter.com/search?q=%23SLvsNZ) | N/A |
-| 19 | [#SSRajamouli](http://twitter.com/search?q=%23SSRajamouli) | N/A |
-| 20 | [#BestOriginalSong](http://twitter.com/search?q=%23BestOriginalSong) | N/A |
-| 21 | [#DeepikaPadukone](http://twitter.com/search?q=%23DeepikaPadukone) | N/A |
-| 22 | [#TestCricket](http://twitter.com/search?q=%23TestCricket) | N/A |
-| 23 | [#JrNTR](http://twitter.com/search?q=%23JrNTR) | N/A |
-| 24 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 25 | [#MMKeeravani](http://twitter.com/search?q=%23MMKeeravani) | N/A |
-| 26 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 27 | [#Chandrabose](http://twitter.com/search?q=%23Chandrabose) | N/A |
-| 28 | [#SSMB29](http://twitter.com/search?q=%23SSMB29) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
+| 3 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 4 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
+| 5 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
+| 6 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 8 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
+| 9 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
+| 10 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
+| 11 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 12 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 13 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 14 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 15 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 16 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
+| 17 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
+| 18 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
+| 19 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
+| 20 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
+| 21 | [Proud Moment](http://twitter.com/search?q=Proud+Moment) | N/A |
+| 22 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 23 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
+| 24 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
+| 25 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 26 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
+| 27 | [Oval](http://twitter.com/search?q=Oval) | N/A |
+| 28 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
+| 29 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 30 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 31 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 32 | [प्रज्ञा ठाकुर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%b0) | N/A |
+| 33 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
+| 34 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 35 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
+| 36 | [राजस्थान कांग्रेस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 37 | [First Republic Bank](http://twitter.com/search?q=First+Republic+Bank) | N/A |
+| 38 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 39 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 40 | [Prachi](http://twitter.com/search?q=Prachi) | N/A |
+| 41 | [Second Single](http://twitter.com/search?q=Second+Single) | N/A |
+| 42 | [Kapp](http://twitter.com/search?q=Kapp) | N/A |
+| 43 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 44 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 45 | [$BITE](http://twitter.com/search?q=%24BITE) | N/A |
+| 46 | [रात्रि वंदन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 47 | [सार्वजनिक जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%9c%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 48 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 49 | [विजय कांग्रेस](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
 
 
 

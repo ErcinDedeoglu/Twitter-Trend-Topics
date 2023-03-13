@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-13 16:16:48 UTC`
+📆 Last Updated: `2023-03-13 17:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 4 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 4 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 5 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 6 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 7 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 10 | [#AcademyAwards](http://twitter.com/search?q=%23AcademyAwards) | N/A |
-| 11 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 15 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 16 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 17 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 18 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 19 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 20 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 21 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 22 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 23 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 24 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 25 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 26 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 27 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 28 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 29 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 31 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 33 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 34 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 35 | [Dodd-Frank](http://twitter.com/search?q=Dodd-Frank) | N/A |
-| 36 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 37 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 38 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 39 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 40 | [Short Round](http://twitter.com/search?q=Short+Round) | Short Round is a character from the 1984 movie Indiana Jones and the Temple of Doom. He is an 11-year-old Chinese boy who serves as Indiana Jones' sidekick and helps him on his adventures. The phrase "Short Round" is often used to refer to someone who is small in stature or young in age. |
-| 41 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 42 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 43 | [Encino Man](http://twitter.com/search?q=Encino+Man) | N/A |
-| 44 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 45 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 46 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 47 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 48 | [Pinocchio](http://twitter.com/search?q=Pinocchio) | N/A |
-| 49 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
+| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 7 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 8 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 9 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 10 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 11 | [Calais Campbell](http://twitter.com/search?q=Calais+Campbell) | N/A |
+| 12 | [TJ Edwards](http://twitter.com/search?q=TJ+Edwards) | N/A |
+| 13 | [Nakobe Dean](http://twitter.com/search?q=Nakobe+Dean) | N/A |
+| 14 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 15 | [Cardigan](http://twitter.com/search?q=Cardigan) | N/A |
+| 16 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 17 | [Ben Powers](http://twitter.com/search?q=Ben+Powers) | N/A |
+| 18 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 19 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
+| 20 | [Sanborn](http://twitter.com/search?q=Sanborn) | N/A |
+| 21 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 22 | [Damon Stoudamire](http://twitter.com/search?q=Damon+Stoudamire) | N/A |
+| 23 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 24 | [Risner](http://twitter.com/search?q=Risner) | N/A |
+| 25 | [Flannel](http://twitter.com/search?q=Flannel) | N/A |
+| 26 | [Jonnu Smith](http://twitter.com/search?q=Jonnu+Smith) | N/A |
+| 27 | [Pitts](http://twitter.com/search?q=Pitts) | N/A |
+| 28 | [Jonathan Jones](http://twitter.com/search?q=Jonathan+Jones) | N/A |
+| 29 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
+| 30 | [Keisean Nixon](http://twitter.com/search?q=Keisean+Nixon) | N/A |
+| 31 | [Mike McGlinchey](http://twitter.com/search?q=Mike+McGlinchey) | N/A |
+| 32 | [Mighty Mouse](http://twitter.com/search?q=Mighty+Mouse) | N/A |
+| 33 | [Onyemata](http://twitter.com/search?q=Onyemata) | N/A |
+| 34 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
+| 35 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
+| 36 | [Jimmy Garoppolo](http://twitter.com/search?q=Jimmy+Garoppolo) | N/A |
+| 37 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 38 | [Brissett](http://twitter.com/search?q=Brissett) | N/A |
+| 39 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 40 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 41 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 42 | [Equality](http://twitter.com/search?q=Equality) | N/A |
+| 43 | [Jessie Bates](http://twitter.com/search?q=Jessie+Bates) | N/A |
+| 44 | [Merle Oberon](http://twitter.com/search?q=Merle+Oberon) | N/A |
+| 45 | [$FRC](http://twitter.com/search?q=%24FRC) | N/A |
+| 46 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 47 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 48 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 49 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
 
 
 

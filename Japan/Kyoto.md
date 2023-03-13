@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-03-13 16:16:49 UTC`
+📆 Last Updated: `2023-03-13 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
-| 2 | [#エフシロ](http://twitter.com/search?q=%23%e3%82%a8%e3%83%95%e3%82%b7%e3%83%ad) | N/A |
-| 3 | [#かなマリ](http://twitter.com/search?q=%23%e3%81%8b%e3%81%aa%e3%83%9e%e3%83%aa) | N/A |
-| 4 | [#月曜から夜ふかし](http://twitter.com/search?q=%23%e6%9c%88%e6%9b%9c%e3%81%8b%e3%82%89%e5%a4%9c%e3%81%b5%e3%81%8b%e3%81%97) | #月曜から夜ふかし is a Japanese phrase that literally translates to "staying up late from Monday". It is used to describe someone who has a habit of staying up late during the week, usually due to work or other commitments. |
-| 5 | [キュケオーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%b1%e3%82%aa%e3%83%bc%e3%83%b3) | キュケオーン is a Japanese onomatopoeia that is used to describe the sound of something being sucked up, such as a vacuum cleaner. In English, it can be translated as "suck-a-thon". |
-| 6 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
-| 7 | [#草彅剛](http://twitter.com/search?q=%23%e8%8d%89%e5%bd%85%e5%89%9b) | #草彅剛 is the name of a Japanese actor, singer, and television personality. His full name is Kusanagi Tsuyoshi. He is best known for his roles in the popular Japanese television series Gokusen and the movie 20th Century Boys. In English, his name translates to "Strong Grass Curtain". |
-| 8 | [グレーテルのかまど](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%86%e3%83%ab%e3%81%ae%e3%81%8b%e3%81%be%e3%81%a9) | N/A |
-| 9 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
-| 10 | [秘書のせい](http://twitter.com/search?q=%e7%a7%98%e6%9b%b8%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 11 | [内川さん](http://twitter.com/search?q=%e5%86%85%e5%b7%9d%e3%81%95%e3%82%93) | 内川さん is a Japanese honorific title used to refer to someone with the surname Uchikawa. It is similar to the English titles of Mr. or Mrs., and is used as a sign of respect. |
-| 12 | [恵比寿田町多摩五反田](http://twitter.com/search?q=%e6%81%b5%e6%af%94%e5%af%bf%e7%94%b0%e7%94%ba%e5%a4%9a%e6%91%a9%e4%ba%94%e5%8f%8d%e7%94%b0) | N/A |
-| 13 | [多田さん](http://twitter.com/search?q=%e5%a4%9a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 14 | [サウンズオブアース](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%96%e3%82%a2%e3%83%bc%e3%82%b9) | N/A |
-| 15 | [マツケンサンバのイントロ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90%e3%81%ae%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad) | N/A |
-| 16 | [FB777](http://twitter.com/search?q=FB777) | N/A |
-| 17 | [扉バーン](http://twitter.com/search?q=%e6%89%89%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
-| 18 | [ヴァモネさん](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a2%e3%83%8d%e3%81%95%e3%82%93) | N/A |
-| 19 | [ギルガメシュ叙事詩](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%82%ac%e3%83%a1%e3%82%b7%e3%83%a5%e5%8f%99%e4%ba%8b%e8%a9%a9) | N/A |
-| 20 | [青江単騎](http://twitter.com/search?q=%e9%9d%92%e6%b1%9f%e5%8d%98%e9%a8%8e) | N/A |
-| 21 | [クンヤズ](http://twitter.com/search?q=%e3%82%af%e3%83%b3%e3%83%a4%e3%82%ba) | N/A |
-| 22 | [ThereのMV](http://twitter.com/search?q=There%e3%81%aeMV) | N/A |
-| 23 | [英吸不滅](http://twitter.com/search?q=%e8%8b%b1%e5%90%b8%e4%b8%8d%e6%bb%85) | N/A |
-| 24 | [王子様衣装](http://twitter.com/search?q=%e7%8e%8b%e5%ad%90%e6%a7%98%e8%a1%a3%e8%a3%85) | N/A |
-| 25 | [侮辱動画](http://twitter.com/search?q=%e4%be%ae%e8%be%b1%e5%8b%95%e7%94%bb) | N/A |
-| 26 | [Your Eyes](http://twitter.com/search?q=Your+Eyes) | N/A |
-| 27 | [アキラさん](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%a9%e3%81%95%e3%82%93) | N/A |
-| 28 | [FBさん](http://twitter.com/search?q=FB%e3%81%95%e3%82%93) | N/A |
-| 29 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
-| 30 | [モルカーの香水](http://twitter.com/search?q=%e3%83%a2%e3%83%ab%e3%82%ab%e3%83%bc%e3%81%ae%e9%a6%99%e6%b0%b4) | N/A |
-| 31 | [投稿生徒の憔悴](http://twitter.com/search?q=%e6%8a%95%e7%a8%bf%e7%94%9f%e5%be%92%e3%81%ae%e6%86%94%e6%82%b4) | N/A |
-| 32 | [ウルクの民](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%af%e3%81%ae%e6%b0%91) | N/A |
-| 33 | [ナギリさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%83%aa%e3%81%95%e3%82%93) | N/A |
-| 34 | [滝沢ガレソ](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e3%82%ac%e3%83%ac%e3%82%bd) | N/A |
-| 35 | [残り4戦](http://twitter.com/search?q=%e6%ae%8b%e3%82%8a4%e6%88%a6) | N/A |
-| 36 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
-| 37 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
-| 38 | [いじめっこ](http://twitter.com/search?q=%e3%81%84%e3%81%98%e3%82%81%e3%81%a3%e3%81%93) | N/A |
-| 39 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
-| 40 | [コアラのマーチ](http://twitter.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81) | N/A |
-| 41 | [扇千景さん](http://twitter.com/search?q=%e6%89%87%e5%8d%83%e6%99%af%e3%81%95%e3%82%93) | N/A |
-| 42 | [エブエブ](http://twitter.com/search?q=%e3%82%a8%e3%83%96%e3%82%a8%e3%83%96) | N/A |
-| 43 | [ダクソ2](http://twitter.com/search?q=%e3%83%80%e3%82%af%e3%82%bd2) | N/A |
-| 44 | [サマータイム](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 45 | [独身中年男性](http://twitter.com/search?q=%e7%8b%ac%e8%ba%ab%e4%b8%ad%e5%b9%b4%e7%94%b7%e6%80%a7) | N/A |
-| 46 | [スカポンタヌキ構文](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%9d%e3%83%b3%e3%82%bf%e3%83%8c%e3%82%ad%e6%a7%8b%e6%96%87) | N/A |
-| 47 | [ナートゥ](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%83%88%e3%82%a5) | ナートゥ (Nātū) is a Japanese word that means "to be natural". It is often used to describe someone who is relaxed and comfortable in their own skin. |
-| 48 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 49 | [無名の司祭](http://twitter.com/search?q=%e7%84%a1%e5%90%8d%e3%81%ae%e5%8f%b8%e7%a5%ad) | N/A |
-| 50 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 1 | [バウアー](http://twitter.com/search?q=%e3%83%90%e3%82%a6%e3%82%a2%e3%83%bc) | バウアー (bauer) is a type of Japanese sake made from rice, water, and koji (a type of mold). It is a dry sake with a light flavor and is often served chilled. In English, it can be translated as "dry sake". |
+| 2 | [#すきすきワンワン](http://twitter.com/search?q=%23%e3%81%99%e3%81%8d%e3%81%99%e3%81%8d%e3%83%af%e3%83%b3%e3%83%af%e3%83%b3) | #すきすきワンワン is an expression used to express love and affection for someone or something. It is often used as a hashtag on social media. In English, it can be translated to "I love you so much!" |
+| 3 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
+| 4 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
+| 5 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
+| 6 | [#ぴるあぽ拡散希望](http://twitter.com/search?q=%23%e3%81%b4%e3%82%8b%e3%81%82%e3%81%bd%e6%8b%a1%e6%95%a3%e5%b8%8c%e6%9c%9b) | N/A |
+| 7 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
+| 8 | [サイ・ヤング](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%bb%e3%83%a4%e3%83%b3%e3%82%b0) | N/A |
+| 9 | [#ijuin](http://twitter.com/search?q=%23ijuin) | N/A |
+| 10 | [ベイクドモチョチョ](http://twitter.com/search?q=%e3%83%99%e3%82%a4%e3%82%af%e3%83%89%e3%83%a2%e3%83%81%e3%83%a7%e3%83%81%e3%83%a7) | N/A |
+| 11 | [蜂楽饅頭](http://twitter.com/search?q=%e8%9c%82%e6%a5%bd%e9%a5%85%e9%a0%ad) | N/A |
+| 12 | [エリー様](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e6%a7%98) | N/A |
+| 13 | [第417回](http://twitter.com/search?q=%e7%ac%ac417%e5%9b%9e) | N/A |
+| 14 | [ガッシュ2](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%b7%e3%83%a52) | N/A |
+| 15 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
+| 16 | [ＤｅＮＡ](http://twitter.com/search?q=%ef%bc%a4%ef%bd%85%ef%bc%ae%ef%bc%a1) | N/A |
+| 17 | [キャンチョメ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%81%e3%83%a7%e3%83%a1) | N/A |
+| 18 | [キュケオーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%b1%e3%82%aa%e3%83%bc%e3%83%b3) | キュケオーン is a Japanese onomatopoeia that is used to describe the sound of something being sucked up, such as a vacuum cleaner. In English, it can be translated as "suck-a-thon". |
+| 19 | [エリーさん](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 20 | [グレーテルのかまど](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%86%e3%83%ab%e3%81%ae%e3%81%8b%e3%81%be%e3%81%a9) | N/A |
+| 21 | [ThereのMV](http://twitter.com/search?q=There%e3%81%aeMV) | N/A |
+| 22 | [滝沢ガレソ](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e3%82%ac%e3%83%ac%e3%82%bd) | N/A |
+| 23 | [サウンズオブアース](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%96%e3%82%a2%e3%83%bc%e3%82%b9) | N/A |
+| 24 | [菅田さん](http://twitter.com/search?q=%e8%8f%85%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 25 | [いじめっこ](http://twitter.com/search?q=%e3%81%84%e3%81%98%e3%82%81%e3%81%a3%e3%81%93) | N/A |
+| 26 | [恵比寿田町多摩五反田](http://twitter.com/search?q=%e6%81%b5%e6%af%94%e5%af%bf%e7%94%b0%e7%94%ba%e5%a4%9a%e6%91%a9%e4%ba%94%e5%8f%8d%e7%94%b0) | N/A |
+| 27 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
+| 28 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
+| 29 | [Your Eyes](http://twitter.com/search?q=Your+Eyes) | N/A |
+| 30 | [内川さん](http://twitter.com/search?q=%e5%86%85%e5%b7%9d%e3%81%95%e3%82%93) | 内川さん is a Japanese honorific title used to refer to someone with the surname Uchikawa. It is similar to the English titles of Mr. or Mrs., and is used as a sign of respect. |
+| 31 | [侮辱動画](http://twitter.com/search?q=%e4%be%ae%e8%be%b1%e5%8b%95%e7%94%bb) | N/A |
+| 32 | [ドジャース](http://twitter.com/search?q=%e3%83%89%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%b9) | N/A |
+| 33 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
+| 34 | [ハンギョドン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%ae%e3%83%a7%e3%83%89%e3%83%b3) | ハンギョドン is a Korean term used to describe someone who is very shy or timid. It literally translates to "half-hearted person". |
+| 35 | [無名の司祭](http://twitter.com/search?q=%e7%84%a1%e5%90%8d%e3%81%ae%e5%8f%b8%e7%a5%ad) | N/A |
+| 36 | [大江健三郎](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e5%81%a5%e4%b8%89%e9%83%8e) | N/A |
+| 37 | [アキラさん](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%a9%e3%81%95%e3%82%93) | N/A |
+| 38 | [マンチョコ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
+| 39 | [ジェジュン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%83%a5%e3%83%b3) | ジェジュン is a Japanese name, and it is written in kanji as 藤樹純. It can be translated to English as "Pure Fujitree". |
+| 40 | [蒼空の旅](http://twitter.com/search?q=%e8%92%bc%e7%a9%ba%e3%81%ae%e6%97%85) | N/A |
+| 41 | [コアラのマーチ](http://twitter.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81) | N/A |
+| 42 | [サマータイム](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 43 | [キャンペーン実施中](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3%e5%ae%9f%e6%96%bd%e4%b8%ad) | N/A |
+| 44 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
+| 45 | [扇千景さん](http://twitter.com/search?q=%e6%89%87%e5%8d%83%e6%99%af%e3%81%95%e3%82%93) | N/A |
+| 46 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 47 | [独身中年男性](http://twitter.com/search?q=%e7%8b%ac%e8%ba%ab%e4%b8%ad%e5%b9%b4%e7%94%b7%e6%80%a7) | N/A |
+| 48 | [グーニーズ](http://twitter.com/search?q=%e3%82%b0%e3%83%bc%e3%83%8b%e3%83%bc%e3%82%ba) | N/A |
+| 49 | [ジングル](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%82%b0%e3%83%ab) | N/A |
+| 50 | [あと2話](http://twitter.com/search?q=%e3%81%82%e3%81%a82%e8%a9%b1) | N/A |
 
 
 

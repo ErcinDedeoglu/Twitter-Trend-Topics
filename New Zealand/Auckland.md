@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-13 16:16:41 UTC`
+📆 Last Updated: `2023-03-13 17:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,17 +21,17 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 4 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 5 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 6 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 7 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 9 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 10 | [chris hipkins](http://twitter.com/search?q=chris+hipkins) | N/A |
-| 11 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 12 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 13 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 14 | [big gay out](http://twitter.com/search?q=big+gay+out) | N/A |
-| 15 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 9 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 10 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 11 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 12 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 13 | [big gay out](http://twitter.com/search?q=big+gay+out) | N/A |
+| 14 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 15 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
 | 16 | [#blackcaps](http://twitter.com/search?q=%23blackcaps) | N/A |
-| 17 | [chippy](http://twitter.com/search?q=chippy) | N/A |
+| 17 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
 | 18 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 19 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 20 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
@@ -42,8 +42,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 26 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
 | 27 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 28 | [breakers](http://twitter.com/search?q=breakers) | N/A |
-| 29 | [Hagley Oval](http://twitter.com/search?q=Hagley+Oval) | N/A |
+| 28 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 29 | [hagley oval](http://twitter.com/search?q=hagley+oval) | N/A |
 | 30 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 31 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 32 | [Council](http://twitter.com/search?q=Council) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 41 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 43 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 44 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
+| 44 | [tvnz](http://twitter.com/search?q=tvnz) | N/A |
 | 45 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
 | 46 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
 | 47 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 48 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 49 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 50 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 48 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 49 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 50 | [pukekohe](http://twitter.com/search?q=pukekohe) | N/A |
 
 
 

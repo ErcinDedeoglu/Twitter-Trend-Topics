@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-13 16:16:21 UTC`
+📆 Last Updated: `2023-03-13 17:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 3 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 4 | [#abst23](http://twitter.com/search?q=%23abst23) | N/A |
-| 5 | [#chvote](http://twitter.com/search?q=%23chvote) | N/A |
-| 6 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
-| 7 | [friedensdemo](http://twitter.com/search?q=friedensdemo) | N/A |
+| 5 | [kriegsrausch](http://twitter.com/search?q=kriegsrausch) | N/A |
+| 6 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
+| 7 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 9 | [kreisen](http://twitter.com/search?q=kreisen) | N/A |
 | 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 11 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 12 | [herzliche gratulation](http://twitter.com/search?q=herzliche+gratulation) | N/A |
 | 13 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 15 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 16 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 17 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
-| 18 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 19 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 20 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 21 | [Hölle](http://twitter.com/search?q=H%c3%b6lle) | N/A |
-| 22 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 23 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 24 | [strasse](http://twitter.com/search?q=strasse) | N/A |
-| 25 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 26 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 27 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 28 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 29 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
-| 30 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 31 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 32 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 33 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 34 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
-| 35 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 36 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 39 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 40 | [England](http://twitter.com/search?q=England) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 43 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 44 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 45 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 46 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 47 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 48 | [verhandlungen](http://twitter.com/search?q=verhandlungen) | N/A |
+| 14 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 15 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 17 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 18 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 19 | [strasse](http://twitter.com/search?q=strasse) | N/A |
+| 20 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 21 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 22 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
+| 23 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 24 | [Esatto](http://twitter.com/search?q=Esatto) | N/A |
+| 25 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 26 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 27 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 28 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 31 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 32 | [England](http://twitter.com/search?q=England) | N/A |
+| 33 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 34 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 35 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 36 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 37 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 38 | [Schande](http://twitter.com/search?q=Schande) | N/A |
+| 39 | [Laden](http://twitter.com/search?q=Laden) | N/A |
+| 40 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 41 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
+| 42 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 43 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 44 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 45 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
+| 46 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-13 16:16:37 UTC`
+📆 Last Updated: `2023-03-13 17:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Oman](</Oman>)
 | ------- | ------------ | ------------ |
 | 1 | [#نظام_التقاعد_العماني_الجديد](http://twitter.com/search?q=%23%d9%86%d8%b8%d8%a7%d9%85_%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d8%b9%d8%af_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a_%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 2 | [#يوم_التمريض_الخليجي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d9%85%d8%b1%d9%8a%d8%b6_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 3 | [#يحدث_الان](http://twitter.com/search?q=%23%d9%8a%d8%ad%d8%af%d8%ab_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 4 | [#البزنس96](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b396) | N/A |
+| 3 | [#البزنس97](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b397) | N/A |
+| 4 | [#يحدث_الان](http://twitter.com/search?q=%23%d9%8a%d8%ad%d8%af%d8%ab_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
 | 5 | [#نتايج_الثانويه_العامه](http://twitter.com/search?q=%23%d9%86%d8%aa%d8%a7%d9%8a%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | #نتايج_الثانويه_العامه is a hashtag used on social media in Arabic to refer to the results of the General Secondary Education Examination. In English, it translates to "General Secondary Education Exam Results". |
 | 6 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
 | 7 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
 | 8 | [ادم الجويه](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 9 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 10 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 11 | [التحول الرقمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84+%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a) | N/A |
-| 12 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 13 | [اليوم العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 14 | [المكتبه العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 15 | [وزير الاسكان](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%83%d8%a7%d9%86) | N/A |
-| 16 | [اسعد بن طارق](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
-| 17 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 18 | [التطوير العقاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a) | N/A |
-| 19 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 20 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 21 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 11 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 12 | [اليوم العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 13 | [المكتبه العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 14 | [اسعد بن طارق](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
+| 15 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 16 | [التطوير العقاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a) | N/A |
+| 17 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 18 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 19 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 20 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 21 | [التحول الرقمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84+%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a) | N/A |
 | 22 | [العلوم التطبيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 23 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 24 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 25 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 26 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 27 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 28 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 29 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 30 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 32 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 33 | [صاحب الجلاله السلطان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 34 | [الساميه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 35 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 36 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 37 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 38 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 39 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
-| 40 | [محمد المسلمي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a) | N/A |
-| 41 | [بن حبيب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 42 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 43 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 44 | [سالم عبدالله الجابر الصباح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 45 | [الهييه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 46 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 47 | [التصفيات النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 48 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
-| 49 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 50 | [الفنون التشكيليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 23 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 25 | [صاحب الجلاله السلطان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 26 | [الحمايه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 27 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 28 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 29 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 30 | [الساميه الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 31 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 32 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 33 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
+| 34 | [علي الزواج](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 35 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 36 | [محمد المسلمي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a) | N/A |
+| 37 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 38 | [سالم عبدالله الجابر الصباح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 39 | [هيثم بن طارق المعظم](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%a8%d9%86+%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
+| 40 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 41 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 42 | [العيش الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 43 | [الفنون التشكيليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [قابوس بن سعيد](http://twitter.com/search?q=%d9%82%d8%a7%d8%a8%d9%88%d8%b3+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 45 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 46 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 47 | [طيران السلام](http://twitter.com/search?q=%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 48 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 49 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
+| 50 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 
 
 

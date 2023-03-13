@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-13 16:16:40 UTC`
+📆 Last Updated: `2023-03-13 17:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
-| 2 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
-| 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 4 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 5 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 6 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 7 | [#İstiklalMarşı](http://twitter.com/search?q=%23%c4%b0stiklalMar%c5%9f%c4%b1) | N/A |
-| 8 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 9 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 10 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 11 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 12 | [güzelkızlar caminoyagelin](http://twitter.com/search?q=g%c3%bczelk%c4%b1zlar+caminoyagelin) | N/A |
-| 13 | [başım belada atvde](http://twitter.com/search?q=ba%c5%9f%c4%b1m+belada+atvde) | N/A |
-| 14 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 15 | [muharreminceye aşığız](http://twitter.com/search?q=muharreminceye+a%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
-| 16 | [Seninleyiz Cansu](http://twitter.com/search?q=Seninleyiz+Cansu) | N/A |
-| 17 | [Testere Necmi](http://twitter.com/search?q=Testere+Necmi) | N/A |
-| 18 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 19 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
-| 20 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
-| 21 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
-| 22 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
-| 23 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
-| 24 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 25 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 26 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
-| 27 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 28 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 29 | [Mustafa Varank](http://twitter.com/search?q=Mustafa+Varank) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 32 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
-| 33 | [aboubakar](http://twitter.com/search?q=aboubakar) | N/A |
-| 34 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
-| 35 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 36 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 37 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
-| 38 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
-| 39 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 40 | [recep tayyip erdoğan kazanacak](http://twitter.com/search?q=recep+tayyip+erdo%c4%9fan+kazanacak) | N/A |
-| 41 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 42 | [VİSCA](http://twitter.com/search?q=V%c4%b0SCA) | N/A |
-| 43 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 44 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
-| 45 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 46 | [Ali Haydar Varank](http://twitter.com/search?q=Ali+Haydar+Varank) | N/A |
-| 47 | [Hakkıdır](http://twitter.com/search?q=Hakk%c4%b1d%c4%b1r) | N/A |
-| 48 | [Kemal Sunal](http://twitter.com/search?q=Kemal+Sunal) | N/A |
-| 49 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 50 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
+| 1 | [#BayKemalUnvYeTayin](http://twitter.com/search?q=%23BayKemalUnvYeTayin) | N/A |
+| 2 | [#MaltepeÜniKaçakDersler](http://twitter.com/search?q=%23Maltepe%c3%9cniKa%c3%a7akDersler) | N/A |
+| 3 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 4 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
+| 5 | [CbKemalZiraate15Bin](http://twitter.com/search?q=CbKemalZiraate15Bin) | N/A |
+| 6 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
+| 7 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
+| 8 | [#MehmetAkifErsoy](http://twitter.com/search?q=%23MehmetAkifErsoy) | N/A |
+| 9 | [AsistnHekimlrEnkazAltnda](http://twitter.com/search?q=AsistnHekimlrEnkazAltnda) | N/A |
+| 10 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
+| 11 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
+| 12 | [EbruŞahin HarikaylaDönüyor](http://twitter.com/search?q=Ebru%c5%9eahin+HarikaylaD%c3%b6n%c3%bcyor) | N/A |
+| 13 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 14 | [güzelkızlar caminoyagelin](http://twitter.com/search?q=g%c3%bczelk%c4%b1zlar+caminoyagelin) | N/A |
+| 15 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 16 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
+| 17 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
+| 18 | [başım belada atvde](http://twitter.com/search?q=ba%c5%9f%c4%b1m+belada+atvde) | N/A |
+| 19 | [muharreminceye aşığız](http://twitter.com/search?q=muharreminceye+a%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
+| 20 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 21 | [AlparslanıBitirme EmreKonuk](http://twitter.com/search?q=Alparslan%c4%b1Bitirme+EmreKonuk) | N/A |
+| 22 | [Seninleyiz Cansu](http://twitter.com/search?q=Seninleyiz+Cansu) | N/A |
+| 23 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 24 | [sizisevmeyegeldik elsed](http://twitter.com/search?q=sizisevmeyegeldik+elsed) | N/A |
+| 25 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 26 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 27 | [Tayyip Dede](http://twitter.com/search?q=Tayyip+Dede) | N/A |
+| 28 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
+| 29 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
+| 30 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
+| 31 | [Bülent Ersoy](http://twitter.com/search?q=B%c3%bclent+Ersoy) | N/A |
+| 32 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 33 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 34 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 35 | [mete kalkavan](http://twitter.com/search?q=mete+kalkavan) | N/A |
+| 36 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 37 | [Mustafa VARANK](http://twitter.com/search?q=Mustafa+VARANK) | N/A |
+| 38 | [Zihin Yaşı Testi](http://twitter.com/search?q=Zihin+Ya%c5%9f%c4%b1+Testi) | N/A |
+| 39 | [Semih Saygıner](http://twitter.com/search?q=Semih+Sayg%c4%b1ner) | N/A |
+| 40 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 41 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 42 | [Milli Şairimiz](http://twitter.com/search?q=Milli+%c5%9eairimiz) | N/A |
+| 43 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 45 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 46 | [Devletimiz Kaldı](http://twitter.com/search?q=Devletimiz+Kald%c4%b1) | N/A |
+| 47 | [Bozkurt Kemal](http://twitter.com/search?q=Bozkurt+Kemal) | N/A |
+| 48 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 49 | [Yavuz Bingöl](http://twitter.com/search?q=Yavuz+Bing%c3%b6l) | N/A |
+| 50 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
 
 
 
