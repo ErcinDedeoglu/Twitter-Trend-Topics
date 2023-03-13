@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gwangju
 
-📆 Last Updated: `2023-03-13 21:16:22 UTC`
+📆 Last Updated: `2023-03-13 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,9 +30,9 @@ This is top 50 for [Korea](</Korea>)
 | 13 | [스테파니](http://twitter.com/search?q=%ec%8a%a4%ed%85%8c%ed%8c%8c%eb%8b%88) | N/A |
 | 14 | [개쓰레기요일](http://twitter.com/search?q=%ea%b0%9c%ec%93%b0%eb%a0%88%ea%b8%b0%ec%9a%94%ec%9d%bc) | N/A |
 | 15 | [트러블메이커](http://twitter.com/search?q=%ed%8a%b8%eb%9f%ac%eb%b8%94%eb%a9%94%ec%9d%b4%ec%bb%a4) | N/A |
-| 16 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
-| 17 | [사탕키스](http://twitter.com/search?q=%ec%82%ac%ed%83%95%ed%82%a4%ec%8a%a4) | N/A |
-| 18 | [꼬들 436](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+436) | N/A |
+| 16 | [사탕키스](http://twitter.com/search?q=%ec%82%ac%ed%83%95%ed%82%a4%ec%8a%a4) | N/A |
+| 17 | [꼬들 436](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+436) | N/A |
+| 18 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
 | 19 | [여우주연상](http://twitter.com/search?q=%ec%97%ac%ec%9a%b0%ec%a3%bc%ec%97%b0%ec%83%81) | N/A |
 | 20 | [부모님 편지](http://twitter.com/search?q=%eb%b6%80%eb%aa%a8%eb%8b%98+%ed%8e%b8%ec%a7%80) | N/A |
 | 21 | [검정고무신](http://twitter.com/search?q=%ea%b2%80%ec%a0%95%ea%b3%a0%eb%ac%b4%ec%8b%a0) | N/A |

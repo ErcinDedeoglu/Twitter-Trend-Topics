@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-13 21:16:51 UTC`
+📆 Last Updated: `2023-03-13 22:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Panama
 | 6 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
 | 7 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
 | 8 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 9 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 10 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
-| 11 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 12 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 14 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 15 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 16 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 19 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 20 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 21 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 22 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 23 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 28 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 29 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 31 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 32 | [#todosxlacopa](http://twitter.com/search?q=%23todosxlacopa) | N/A |
-| 33 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
-| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 35 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 36 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
-| 37 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 38 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
-| 39 | [California](http://twitter.com/search?q=California) | N/A |
-| 40 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 41 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 42 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 43 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 44 | [#Venezuela](http://twitter.com/search?q=%23Venezuela) | N/A |
-| 45 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 46 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 47 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 48 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 49 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 11 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 12 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 13 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 14 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 15 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
+| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 18 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
+| 19 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 20 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 21 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 23 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 24 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
+| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 26 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 27 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 29 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 30 | [#todosxlacopa](http://twitter.com/search?q=%23todosxlacopa) | N/A |
+| 31 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 32 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
+| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 34 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 35 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
+| 36 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 37 | [Concuerdo](http://twitter.com/search?q=Concuerdo) | N/A |
+| 38 | [California](http://twitter.com/search?q=California) | N/A |
+| 39 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 40 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 41 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 42 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 43 | [#Venezuela](http://twitter.com/search?q=%23Venezuela) | N/A |
+| 44 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 45 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 46 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 47 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
+| 48 | [Uffff](http://twitter.com/search?q=Uffff) | N/A |
+| 49 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 50 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 
 
 

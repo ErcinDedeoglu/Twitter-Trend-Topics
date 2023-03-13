@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-13 21:16:27 UTC`
+📆 Last Updated: `2023-03-13 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#IvoryCoastChapter](http://twitter.com/search?q=%23IvoryCoastChapter) | N/A |
 | 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 3 | [#MondayReport](http://twitter.com/search?q=%23MondayReport) | N/A |
-| 4 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 5 | [#weloveafricanacity](http://twitter.com/search?q=%23weloveafricanacity) | N/A |
-| 6 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 3 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 4 | [#weloveafricanacity](http://twitter.com/search?q=%23weloveafricanacity) | N/A |
+| 5 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 8 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 9 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 10 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Kenya](</Kenya>)
 | 27 | [Jakakimba](http://twitter.com/search?q=Jakakimba) | N/A |
 | 28 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
 | 29 | [uniform motion](http://twitter.com/search?q=uniform+motion) | N/A |
-| 30 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 31 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 32 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
-| 33 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
-| 34 | [robisearch ict](http://twitter.com/search?q=robisearch+ict) | N/A |
-| 35 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
-| 36 | [Truthful](http://twitter.com/search?q=Truthful) | N/A |
-| 37 | [Obado](http://twitter.com/search?q=Obado) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [Ugandans](http://twitter.com/search?q=Ugandans) | N/A |
-| 40 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
-| 41 | [League](http://twitter.com/search?q=League) | N/A |
-| 42 | [GABRIEL JESUS](http://twitter.com/search?q=GABRIEL+JESUS) | N/A |
-| 43 | [the magical kenya open](http://twitter.com/search?q=the+magical+kenya+open) | N/A |
-| 44 | [Church](http://twitter.com/search?q=Church) | N/A |
-| 45 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 48 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 49 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 50 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 30 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 31 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
+| 32 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
+| 33 | [robisearch ict](http://twitter.com/search?q=robisearch+ict) | N/A |
+| 34 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
+| 35 | [Truthful](http://twitter.com/search?q=Truthful) | N/A |
+| 36 | [Obado](http://twitter.com/search?q=Obado) | N/A |
+| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 38 | [Ugandans](http://twitter.com/search?q=Ugandans) | N/A |
+| 39 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
+| 40 | [League](http://twitter.com/search?q=League) | N/A |
+| 41 | [GABRIEL JESUS](http://twitter.com/search?q=GABRIEL+JESUS) | N/A |
+| 42 | [the magical kenya open](http://twitter.com/search?q=the+magical+kenya+open) | N/A |
+| 43 | [Church](http://twitter.com/search?q=Church) | N/A |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
+| 46 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 47 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 48 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 49 | [wee mzee](http://twitter.com/search?q=wee+mzee) | N/A |
+| 50 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 
 
 

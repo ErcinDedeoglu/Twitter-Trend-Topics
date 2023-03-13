@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-13 21:16:12 UTC`
+📆 Last Updated: `2023-03-13 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 3 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 5 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 6 | [#S04BVB](http://twitter.com/search?q=%23S04BVB) | N/A |
+| 6 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
 | 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 8 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
 | 9 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
@@ -41,22 +41,22 @@ This is top 50 for [Germany](</Germany>)
 | 24 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 25 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 26 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 27 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 27 | [kerstin](http://twitter.com/search?q=kerstin) | N/A |
 | 28 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 | 29 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 30 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
 | 31 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 34 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 32 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 33 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 34 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 35 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
 | 36 | [schulversager](http://twitter.com/search?q=schulversager) | N/A |
-| 37 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 38 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 40 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 37 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 38 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 39 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 40 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
 | 41 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 42 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 42 | [ganser](http://twitter.com/search?q=ganser) | N/A |
 | 43 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
 | 44 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 | 45 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |

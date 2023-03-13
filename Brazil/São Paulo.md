@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-13 21:16:07 UTC`
+📆 Last Updated: `2023-03-13 22:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [Canisso](http://twitter.com/search?q=Canisso) | N/A |
 | 6 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
 | 7 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 8 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 9 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 8 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 9 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
 | 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 11 | [JULIETTE NO TVZ POCAH](http://twitter.com/search?q=JULIETTE+NO+TVZ+POCAH) | N/A |
 | 12 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
@@ -36,26 +36,26 @@ This is top 50 for [Brazil](</Brazil>)
 | 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 20 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
 | 21 | [#dançadosfamosos](http://twitter.com/search?q=%23dan%c3%a7adosfamosos) | N/A |
-| 22 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 23 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
+| 22 | [SAPATO MERECE RESPEITO](http://twitter.com/search?q=SAPATO+MERECE+RESPEITO) | N/A |
+| 23 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 24 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 25 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 26 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 27 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
-| 28 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 29 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 30 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 28 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 29 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 30 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 | 31 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
 | 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 33 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
 | 34 | [Nalu](http://twitter.com/search?q=Nalu) | N/A |
 | 35 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 | 36 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 37 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 38 | [Solange Couto](http://twitter.com/search?q=Solange+Couto) | N/A |
-| 39 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 37 | [Solange Couto](http://twitter.com/search?q=Solange+Couto) | N/A |
+| 38 | [São Bernardo](http://twitter.com/search?q=S%c3%a3o+Bernardo) | São Bernardo is a municipality in the state of São Paulo, Brazil. The name São Bernardo translates to Saint Bernard in English. |
+| 39 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 40 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 41 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 41 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
 | 42 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
 | 43 | [Edna](http://twitter.com/search?q=Edna) | Edna is a female given name of Hebrew origin, meaning “pleasure” or “delight”. |
 | 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Brazil](</Brazil>)
 | 46 | [O Auto da Compadecida 2](http://twitter.com/search?q=O+Auto+da+Compadecida+2) | N/A |
 | 47 | [Sassá](http://twitter.com/search?q=Sass%c3%a1) | N/A |
 | 48 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 49 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 50 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 49 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 50 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
 
 
 

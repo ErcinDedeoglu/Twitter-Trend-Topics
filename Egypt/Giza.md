@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-03-13 21:16:27 UTC`
+📆 Last Updated: `2023-03-13 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Egypt](</Egypt>)
 | 1 | [#عل_بن](http://twitter.com/search?q=%23%d8%b9%d9%84_%d8%a8%d9%86) | N/A |
 | 2 | [#الاتحاد_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الاتحاد_الفيحاء is a hashtag used by the Yemeni Union of Feihan, a political and social movement in Yemen. The English translation of the hashtag is "Feihan Union". The movement seeks to promote democracy, human rights, and social justice in Yemen. |
 | 3 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 4 | [#الجمع_بين_الدراسه_والعمل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%85%d8%b9_%d8%a8%d9%8a%d9%86_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87_%d9%88%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 5 | [#لازم_ثوره_عالسيسي_ونظامه](http://twitter.com/search?q=%23%d9%84%d8%a7%d8%b2%d9%85_%d8%ab%d9%88%d8%b1%d9%87_%d8%b9%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d9%88%d9%86%d8%b8%d8%a7%d9%85%d9%87) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [#الجمع_بين_الدراسه_والعمل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%85%d8%b9_%d8%a8%d9%8a%d9%86_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87_%d9%88%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 7 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
 | 8 | [إنبي](http://twitter.com/search?q=%d8%a5%d9%86%d8%a8%d9%8a) | N/A |
 | 9 | [شتيجن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ac%d9%86) | N/A |
@@ -30,8 +30,8 @@ This is top 50 for [Egypt](</Egypt>)
 | 13 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
 | 14 | [رفيق كابو](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d9%83%d8%a7%d8%a8%d9%88) | N/A |
 | 15 | [عبدالغني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ba%d9%86%d9%8a) | N/A |
-| 16 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
-| 17 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 16 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 17 | [عدلي القيعي](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d9%8a%d8%b9%d9%8a) | N/A |
 | 18 | [المركز الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 19 | [سيليكون فالي](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%86+%d9%81%d8%a7%d9%84%d9%8a) | N/A |
 | 20 | [علي فوزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%88%d8%b2%d9%8a) | N/A |

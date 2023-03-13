@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-03-13 21:16:43 UTC`
+📆 Last Updated: `2023-03-13 22:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [United States](</United States>)
 | 12 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
 | 13 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
 | 14 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 15 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 16 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
-| 17 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 18 | [Nate Davis](http://twitter.com/search?q=Nate+Davis) | N/A |
-| 19 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
-| 20 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 21 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
+| 15 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 16 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
+| 17 | [Nate Davis](http://twitter.com/search?q=Nate+Davis) | N/A |
+| 18 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 19 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 20 | [Trey Wingo](http://twitter.com/search?q=Trey+Wingo) | N/A |
+| 21 | [Pat Pete](http://twitter.com/search?q=Pat+Pete) | N/A |
 | 22 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 23 | [Pat Pete](http://twitter.com/search?q=Pat+Pete) | N/A |
+| 23 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
 | 24 | [Vonn Bell](http://twitter.com/search?q=Vonn+Bell) | N/A |
-| 25 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
-| 26 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 25 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 26 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
 | 27 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
-| 28 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 29 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
-| 30 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 31 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
-| 32 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 28 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 29 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 30 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
+| 31 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 32 | [Berhalter](http://twitter.com/search?q=Berhalter) | Berhalter is a German surname. It is derived from the Middle High German words "beraht" and "halter," which mean "shield holder." In English, it can be translated to mean "shield bearer." |
 | 33 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 34 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 35 | [Dax Hill](http://twitter.com/search?q=Dax+Hill) | Dax Hill is a term used in the United States to refer to a hill or mountain that is located in the Appalachian Mountains. The name comes from the town of Dax, Virginia, which is located near the base of the hill. The term is often used to refer to any mountain or hill in the Appalachian region. In English, it means a hill or mountain located in the Appalachian Mountains. |
-| 36 | [Berhalter](http://twitter.com/search?q=Berhalter) | Berhalter is a German surname. It is derived from the Middle High German words "beraht" and "halter," which mean "shield holder." In English, it can be translated to mean "shield bearer." |
-| 37 | [#Browns](http://twitter.com/search?q=%23Browns) | #Browns is a hashtag used to refer to the Cleveland Browns, an American professional football team based in Cleveland, Ohio. The hashtag is often used on social media platforms such as Twitter and Instagram to discuss the team and its players. |
-| 38 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 39 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 40 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
-| 41 | [Rolly Crump](http://twitter.com/search?q=Rolly+Crump) | N/A |
-| 42 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 43 | [Reynas](http://twitter.com/search?q=Reynas) | N/A |
-| 44 | [Anzalone](http://twitter.com/search?q=Anzalone) | N/A |
-| 45 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 46 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
-| 47 | [Sanborn](http://twitter.com/search?q=Sanborn) | N/A |
-| 48 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
-| 49 | [Chinn](http://twitter.com/search?q=Chinn) | N/A |
+| 35 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 36 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 37 | [Dax Hill](http://twitter.com/search?q=Dax+Hill) | Dax Hill is a term used in the United States to refer to a hill or mountain that is located in the Appalachian Mountains. The name comes from the town of Dax, Virginia, which is located near the base of the hill. The term is often used to refer to any mountain or hill in the Appalachian region. In English, it means a hill or mountain located in the Appalachian Mountains. |
+| 38 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 39 | [#Browns](http://twitter.com/search?q=%23Browns) | #Browns is a hashtag used to refer to the Cleveland Browns, an American professional football team based in Cleveland, Ohio. The hashtag is often used on social media platforms such as Twitter and Instagram to discuss the team and its players. |
+| 40 | [Reynas](http://twitter.com/search?q=Reynas) | N/A |
+| 41 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
+| 42 | [Rolly Crump](http://twitter.com/search?q=Rolly+Crump) | N/A |
+| 43 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 44 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 45 | [Anzalone](http://twitter.com/search?q=Anzalone) | N/A |
+| 46 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
+| 47 | [Chinn](http://twitter.com/search?q=Chinn) | N/A |
+| 48 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
+| 49 | [Sanborn](http://twitter.com/search?q=Sanborn) | N/A |
 
 
 

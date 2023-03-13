@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-13 21:16:52 UTC`
+📆 Last Updated: `2023-03-13 22:17:26 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-13 21:16:18 UTC`
+📆 Last Updated: `2023-03-13 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,27 +24,27 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 7 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
 | 8 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
 | 9 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 10 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [pak prabowo](http://twitter.com/search?q=pak+prabowo) | N/A |
 | 11 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 12 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 13 | [Konjungsi](http://twitter.com/search?q=Konjungsi) | N/A |
+| 13 | [konjungsi](http://twitter.com/search?q=konjungsi) | N/A |
 | 14 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 16 | [cwts](http://twitter.com/search?q=cwts) | N/A |
-| 17 | [Menikah](http://twitter.com/search?q=Menikah) | N/A |
-| 18 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
+| 17 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
+| 18 | [Menikah](http://twitter.com/search?q=Menikah) | N/A |
 | 19 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
 | 20 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 21 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 22 | [Surene JAYA JAYA JAYA](http://twitter.com/search?q=Surene+JAYA+JAYA+JAYA) | N/A |
-| 23 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 24 | [Pilihlah Prabowo](http://twitter.com/search?q=Pilihlah+Prabowo) | N/A |
-| 25 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 26 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 27 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
-| 28 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 29 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
-| 30 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
+| 22 | [surene jaya jaya jaya](http://twitter.com/search?q=surene+jaya+jaya+jaya) | N/A |
+| 23 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 24 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 25 | [pilihlah prabowo](http://twitter.com/search?q=pilihlah+prabowo) | N/A |
+| 26 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 27 | [kunjungi dekade 08](http://twitter.com/search?q=kunjungi+dekade+08) | N/A |
+| 28 | [2024 prabowo menang](http://twitter.com/search?q=2024+prabowo+menang) | N/A |
+| 29 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 30 | [YOU DID WELL CHENLE](http://twitter.com/search?q=YOU+DID+WELL+CHENLE) | N/A |
 | 31 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 32 | [prabowo lebih pantas](http://twitter.com/search?q=prabowo+lebih+pantas) | N/A |
 | 33 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
@@ -55,13 +55,13 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 38 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 39 | [kegiatan run 10k](http://twitter.com/search?q=kegiatan+run+10k) | N/A |
 | 40 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 41 | [Iqlab](http://twitter.com/search?q=Iqlab) | N/A |
+| 41 | [iqlab](http://twitter.com/search?q=iqlab) | N/A |
 | 42 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 43 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
 | 44 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 45 | [garda bangsa](http://twitter.com/search?q=garda+bangsa) | N/A |
-| 46 | [Kamulah](http://twitter.com/search?q=Kamulah) | N/A |
-| 47 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 46 | [kamulah](http://twitter.com/search?q=kamulah) | N/A |
+| 47 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
 | 48 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
 | 49 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
 | 50 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |

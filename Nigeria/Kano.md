@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-13 21:16:26 UTC`
+📆 Last Updated: `2023-03-13 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,40 +28,40 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Parody](http://twitter.com/search?q=Parody) | N/A |
 | 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 14 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
-| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 14 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 15 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
 | 16 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
 | 17 | [THE MONEY IS KANALIZED](http://twitter.com/search?q=THE+MONEY+IS+KANALIZED) | N/A |
 | 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 20 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 21 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [President Buhari](http://twitter.com/search?q=President+Buhari) | N/A |
+| 22 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
+| 25 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
 | 26 | [Harvesters](http://twitter.com/search?q=Harvesters) | N/A |
 | 27 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
 | 28 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
 | 29 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
-| 32 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 33 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 34 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
-| 35 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
+| 31 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 32 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 33 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
+| 34 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 36 | [today is sunday](http://twitter.com/search?q=today+is+sunday) | N/A |
 | 37 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 38 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 39 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
-| 40 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 41 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 38 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
+| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 40 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 41 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
 | 42 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 | 43 | [Padre](http://twitter.com/search?q=Padre) | N/A |
 | 44 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
 | 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 46 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 47 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 46 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 47 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 48 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
 | 49 | [alpha beta](http://twitter.com/search?q=alpha+beta) | N/A |
 | 50 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |

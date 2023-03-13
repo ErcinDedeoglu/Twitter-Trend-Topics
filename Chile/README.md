@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-13 21:16:47 UTC`
+📆 Last Updated: `2023-03-13 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,18 +35,18 @@ This is top 50 for Chile
 | 18 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 19 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 | 20 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 21 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 22 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 23 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 24 | [dituro](http://twitter.com/search?q=dituro) | N/A |
-| 25 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 26 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 21 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 22 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 23 | [dituro](http://twitter.com/search?q=dituro) | N/A |
+| 24 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 25 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 26 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
 | 27 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 28 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
+| 28 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
 | 29 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 30 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 31 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 32 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 30 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 31 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 32 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 | 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 34 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
 | 35 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
@@ -57,9 +57,9 @@ This is top 50 for Chile
 | 40 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 41 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
 | 42 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 43 | [Garín](http://twitter.com/search?q=Gar%c3%adn) | N/A |
+| 43 | [garín](http://twitter.com/search?q=gar%c3%adn) | N/A |
 | 44 | [ELIZABETH OLSEN](http://twitter.com/search?q=ELIZABETH+OLSEN) | N/A |
-| 45 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 45 | [bouzat](http://twitter.com/search?q=bouzat) | N/A |
 | 46 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
 | 47 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
 | 48 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |

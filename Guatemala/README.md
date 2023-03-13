@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-13 21:16:48 UTC`
+📆 Last Updated: `2023-03-13 22:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for Guatemala
 | 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 23 | [#guatevota2023](http://twitter.com/search?q=%23guatevota2023) | N/A |
-| 24 | [PayPal Park](http://twitter.com/search?q=PayPal+Park) | N/A |
+| 24 | [paypal park](http://twitter.com/search?q=paypal+park) | N/A |
 | 25 | [tercer domingo de cuaresma](http://twitter.com/search?q=tercer+domingo+de+cuaresma) | N/A |
 | 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 27 | [#euelecciones2023](http://twitter.com/search?q=%23euelecciones2023) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Guatemala
 | 35 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
 | 36 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 37 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 38 | [LEPP](http://twitter.com/search?q=LEPP) | N/A |
+| 38 | [lepp](http://twitter.com/search?q=lepp) | N/A |
 | 39 | [dulce rabí](http://twitter.com/search?q=dulce+rab%c3%ad) | N/A |
 | 40 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 41 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 42 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 43 | [FERRAN](http://twitter.com/search?q=FERRAN) | N/A |
 | 44 | [El TSE](http://twitter.com/search?q=El+TSE) | N/A |
 | 45 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 46 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
 | 47 | [Thelma Cabrera](http://twitter.com/search?q=Thelma+Cabrera) | N/A |
 | 48 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 49 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 50 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
+| 49 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
+| 50 | [Roberto González](http://twitter.com/search?q=Roberto+Gonz%c3%a1lez) | N/A |
 
 
 

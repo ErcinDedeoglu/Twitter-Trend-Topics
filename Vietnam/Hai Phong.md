@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-13 21:16:25 UTC`
+📆 Last Updated: `2023-03-13 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
 | 11 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 12 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 13 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 13 | [xinh](http://twitter.com/search?q=xinh) | N/A |
 | 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 15 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
 | 16 | [Englot](http://twitter.com/search?q=Englot) | N/A |

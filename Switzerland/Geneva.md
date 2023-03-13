@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-13 21:16:16 UTC`
+📆 Last Updated: `2023-03-13 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,13 +49,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
 | 33 | [aggressor](http://twitter.com/search?q=aggressor) | N/A |
 | 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 35 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 35 | [herzlichen dank](http://twitter.com/search?q=herzlichen+dank) | N/A |
 | 36 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
 | 37 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
 | 38 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
 | 39 | [Form](http://twitter.com/search?q=Form) | N/A |
 | 40 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 41 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
+| 41 | [kreise](http://twitter.com/search?q=kreise) | N/A |
 | 42 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 43 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 44 | [Verein](http://twitter.com/search?q=Verein) | N/A |

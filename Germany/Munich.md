@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-13 21:16:13 UTC`
+📆 Last Updated: `2023-03-13 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,22 +40,22 @@ This is top 50 for [Germany](</Germany>)
 | 23 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 24 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 25 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 26 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 26 | [kerstin](http://twitter.com/search?q=kerstin) | N/A |
 | 27 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 | 28 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
 | 29 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
 | 30 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 31 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 33 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 31 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 34 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
 | 35 | [schulversager](http://twitter.com/search?q=schulversager) | N/A |
-| 36 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 37 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 36 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 37 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
 | 38 | [Joko](http://twitter.com/search?q=Joko) | N/A |
 | 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
 | 40 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 41 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 41 | [ganser](http://twitter.com/search?q=ganser) | N/A |
 | 42 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
 | 43 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 | 44 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |

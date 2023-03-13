@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-13 21:16:10 UTC`
+📆 Last Updated: `2023-03-13 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Ireland](</Ireland>)
 | 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 15 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
 | 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 17 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 18 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 19 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
-| 20 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
-| 21 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
-| 22 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
-| 23 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 24 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 25 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
-| 26 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
-| 27 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 28 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 29 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 18 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 19 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
+| 20 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 21 | [RIP Liam](http://twitter.com/search?q=RIP+Liam) | N/A |
+| 22 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
+| 23 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 24 | [Mack Hansen](http://twitter.com/search?q=Mack+Hansen) | N/A |
+| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 26 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 27 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 28 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 29 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 30 | [liam burke](http://twitter.com/search?q=liam+burke) | N/A |
 | 31 | [Cian Healy](http://twitter.com/search?q=Cian+Healy) | N/A |
 | 32 | [Banshees](http://twitter.com/search?q=Banshees) | N/A |
-| 33 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 35 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 37 | [c'mon ireland](http://twitter.com/search?q=c%27mon+ireland) | N/A |
-| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 39 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 40 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 41 | [England](http://twitter.com/search?q=England) | N/A |
-| 42 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 43 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 44 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 45 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 46 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 47 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 48 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 49 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 50 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 33 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 34 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 36 | [c'mon ireland](http://twitter.com/search?q=c%27mon+ireland) | N/A |
+| 37 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 38 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 39 | [England](http://twitter.com/search?q=England) | N/A |
+| 40 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 41 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 42 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 43 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 44 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 45 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 46 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 47 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 48 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 49 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 50 | [Scots](http://twitter.com/search?q=Scots) | N/A |
 
 
 

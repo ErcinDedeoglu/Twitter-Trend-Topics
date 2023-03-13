@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-13 21:16:10 UTC`
+📆 Last Updated: `2023-03-13 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
 | 16 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 17 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 18 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 19 | [Modell](http://twitter.com/search?q=Modell) | N/A |
-| 20 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 21 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 22 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
-| 23 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 25 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 26 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 27 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 28 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
-| 29 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
-| 30 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 31 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 32 | [övp und fpö](http://twitter.com/search?q=%c3%b6vp+und+fp%c3%b6) | N/A |
-| 33 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
-| 34 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
-| 35 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 36 | [Reise](http://twitter.com/search?q=Reise) | N/A |
-| 37 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 40 | [Menge](http://twitter.com/search?q=Menge) | N/A |
-| 41 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 42 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 43 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 44 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
-| 45 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 46 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 47 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
-| 48 | [Maschine](http://twitter.com/search?q=Maschine) | N/A |
-| 49 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 50 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 18 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 19 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 20 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 21 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 22 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 23 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 24 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 25 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 26 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 27 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 28 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
+| 29 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 30 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 31 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 32 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 33 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
+| 34 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 35 | [Reise](http://twitter.com/search?q=Reise) | N/A |
+| 36 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 37 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 38 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 39 | [Menge](http://twitter.com/search?q=Menge) | N/A |
+| 40 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 41 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 42 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 43 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
+| 44 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 45 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
+| 46 | [Maschine](http://twitter.com/search?q=Maschine) | N/A |
+| 47 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 48 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 49 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 50 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
 
 
 

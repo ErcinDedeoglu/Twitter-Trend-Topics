@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-13 21:16:24 UTC`
+📆 Last Updated: `2023-03-13 22:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,14 +39,14 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 23 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
 | 24 | [Malaysia Boleh](http://twitter.com/search?q=Malaysia+Boleh) | N/A |
-| 25 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 25 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
 | 26 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 27 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
 | 28 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 31 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 32 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 32 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
 | 33 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
 | 34 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
 | 35 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
@@ -62,7 +62,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 46 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 47 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 48 | [Kuching](http://twitter.com/search?q=Kuching) | N/A |
+| 48 | [kuching](http://twitter.com/search?q=kuching) | N/A |
 | 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 50 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 

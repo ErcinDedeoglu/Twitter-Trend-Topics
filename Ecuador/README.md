@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-13 21:16:48 UTC`
+📆 Last Updated: `2023-03-13 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for Ecuador
 | 26 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 27 | [Sybel](http://twitter.com/search?q=Sybel) | N/A |
 | 28 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 29 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 30 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 29 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 30 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 31 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
+| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 33 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
 | 34 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 35 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 36 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
-| 37 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 38 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 39 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 40 | [Trío](http://twitter.com/search?q=Tr%c3%ado) | N/A |
-| 41 | [All Quiet on the Western Front](http://twitter.com/search?q=All+Quiet+on+the+Western+Front) | N/A |
-| 42 | [Casa de la Selección](http://twitter.com/search?q=Casa+de+la+Selecci%c3%b3n) | N/A |
-| 43 | [Ordoñez](http://twitter.com/search?q=Ordo%c3%b1ez) | N/A |
-| 44 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 45 | [Montalvo](http://twitter.com/search?q=Montalvo) | N/A |
-| 46 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 47 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 48 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 49 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 37 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
+| 38 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 39 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 40 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 41 | [Trío](http://twitter.com/search?q=Tr%c3%ado) | N/A |
+| 42 | [All Quiet on the Western Front](http://twitter.com/search?q=All+Quiet+on+the+Western+Front) | N/A |
+| 43 | [Casa de la Selección](http://twitter.com/search?q=Casa+de+la+Selecci%c3%b3n) | N/A |
+| 44 | [Ordoñez](http://twitter.com/search?q=Ordo%c3%b1ez) | N/A |
+| 45 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 46 | [Montalvo](http://twitter.com/search?q=Montalvo) | N/A |
+| 47 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 48 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 49 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 50 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
 
 
 

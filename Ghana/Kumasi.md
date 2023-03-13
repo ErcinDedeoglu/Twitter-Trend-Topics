@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-13 21:16:26 UTC`
+📆 Last Updated: `2023-03-13 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,28 @@ This is top 50 for [Ghana](</Ghana>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DateRush](http://twitter.com/search?q=%23DateRush) | N/A |
-| 2 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 3 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 4 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 5 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 6 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
-| 7 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
-| 8 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 9 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 2 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 3 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 4 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 5 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
+| 6 | [#MUNSOU](http://twitter.com/search?q=%23MUNSOU) | N/A |
+| 7 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 11 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 13 | [kobby fresh](http://twitter.com/search?q=kobby+fresh) | N/A |
 | 14 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 15 | [Onua](http://twitter.com/search?q=Onua) | N/A |
-| 16 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
-| 17 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Costa Titch](http://twitter.com/search?q=Costa+Titch) | N/A |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [Onua](http://twitter.com/search?q=Onua) | N/A |
 | 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 19 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
+| 19 | [kennedy agyapong](http://twitter.com/search?q=kennedy+agyapong) | N/A |
 | 20 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 21 | [Nana Ama Mcbrown](http://twitter.com/search?q=Nana+Ama+Mcbrown) | N/A |
 | 22 | [Media General](http://twitter.com/search?q=Media+General) | N/A |
-| 23 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
+| 23 | [inaki williams](http://twitter.com/search?q=inaki+williams) | N/A |
 | 24 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
 | 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 26 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |

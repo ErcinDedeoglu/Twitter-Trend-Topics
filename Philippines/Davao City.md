@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-13 21:16:25 UTC`
+📆 Last Updated: `2023-03-13 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 | 8 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 | 9 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 10 | [JISOO SOLO TEASER](http://twitter.com/search?q=JISOO+SOLO+TEASER) | N/A |
+| 10 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
 | 11 | [Lynette](http://twitter.com/search?q=Lynette) | N/A |
 | 12 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 13 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
@@ -44,11 +44,11 @@ This is top 50 for [Philippines](</Philippines>)
 | 27 | [barda ondknlk](http://twitter.com/search?q=barda+ondknlk) | N/A |
 | 28 | [kathniel incanta milano](http://twitter.com/search?q=kathniel+incanta+milano) | N/A |
 | 29 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 30 | [Paji](http://twitter.com/search?q=Paji) | N/A |
+| 30 | [paji](http://twitter.com/search?q=paji) | N/A |
 | 31 | [SUNSUN](http://twitter.com/search?q=SUNSUN) | N/A |
 | 32 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
 | 33 | [rover d-day](http://twitter.com/search?q=rover+d-day) | N/A |
-| 34 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 34 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
 | 35 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
 | 36 | [Dolly de Leon](http://twitter.com/search?q=Dolly+de+Leon) | N/A |
 | 37 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 44 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
 | 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 46 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 47 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 48 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 48 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
 
 
 
