@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-13 19:16:49 UTC`
+📆 Last Updated: `2023-03-13 20:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [AsistnHekimlrEnkazAltnda](http://twitter.com/search?q=AsistnHekimlrEnkazAltnda) | N/A |
 | 2 | [#MutlakaGeriDöneceğiz](http://twitter.com/search?q=%23MutlakaGeriD%c3%b6nece%c4%9fiz) | N/A |
-| 3 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 4 | [#BayKemalUnvYeTayin](http://twitter.com/search?q=%23BayKemalUnvYeTayin) | N/A |
-| 5 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
-| 6 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 7 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 8 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 9 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 10 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 11 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
-| 12 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
-| 13 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
-| 14 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 15 | [EbruŞahin HarikaylaDönüyor](http://twitter.com/search?q=Ebru%c5%9eahin+HarikaylaD%c3%b6n%c3%bcyor) | N/A |
-| 16 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
-| 17 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
-| 18 | [Cansel](http://twitter.com/search?q=Cansel) | N/A |
-| 19 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 20 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 21 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 22 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 23 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
-| 24 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 25 | [#DepremAnı](http://twitter.com/search?q=%23DepremAn%c4%b1) | N/A |
-| 26 | [#MaltepeÜniKaçakDersler](http://twitter.com/search?q=%23Maltepe%c3%9cniKa%c3%a7akDersler) | N/A |
-| 27 | [#isiasinsanlıksuçu](http://twitter.com/search?q=%23isiasinsanl%c4%b1ksu%c3%a7u) | N/A |
-| 28 | [#HayatiSedefNedenTutuklu](http://twitter.com/search?q=%23HayatiSedefNedenTutuklu) | N/A |
-| 29 | [#DibYedeklerAkademiye](http://twitter.com/search?q=%23DibYedeklerAkademiye) | N/A |
-| 30 | [#İyikiDoğdunOAn](http://twitter.com/search?q=%23%c4%b0yikiDo%c4%9fdunOAn) | N/A |
-| 31 | [#YasakElma](http://twitter.com/search?q=%23YasakElma) | N/A |
-| 32 | [#merkeztaşraayrımıhaksızlıktır](http://twitter.com/search?q=%23merkezta%c5%9fraayr%c4%b1m%c4%b1haks%c4%b1zl%c4%b1kt%c4%b1r) | N/A |
-| 33 | [#SeçimdenÖnce5000VeKısmi](http://twitter.com/search?q=%23Se%c3%a7imden%c3%96nce5000VeK%c4%b1smi) | N/A |
-| 34 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
-| 35 | [#Tabakademisi](http://twitter.com/search?q=%23Tabakademisi) | N/A |
-| 36 | [#GelecekTarımda](http://twitter.com/search?q=%23GelecekTar%c4%b1mda) | N/A |
-| 37 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 38 | [#foxhaber](http://twitter.com/search?q=%23foxhaber) | N/A |
-| 39 | [#MilletSeçiminiYaptı](http://twitter.com/search?q=%23MilletSe%c3%a7iminiYapt%c4%b1) | N/A |
-| 40 | [#ABOsuzYoksulKalırız](http://twitter.com/search?q=%23ABOsuzYoksulKal%c4%b1r%c4%b1z) | N/A |
-| 41 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
-| 42 | [#SonSeçiminTürkiye](http://twitter.com/search?q=%23SonSe%c3%a7iminT%c3%bcrkiye) | N/A |
-| 43 | [#StajaMartMüjdesi](http://twitter.com/search?q=%23StajaMartM%c3%bcjdesi) | N/A |
-| 44 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 45 | [#TekÇareReis](http://twitter.com/search?q=%23Tek%c3%87areReis) | N/A |
-| 46 | [#oğcan](http://twitter.com/search?q=%23o%c4%9fcan) | N/A |
-| 47 | [#odas](http://twitter.com/search?q=%23odas) | N/A |
-| 48 | [#bimas](http://twitter.com/search?q=%23bimas) | N/A |
-| 49 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [#infazkorumayaborcunuzvar](http://twitter.com/search?q=%23infazkorumayaborcunuzvar) | N/A |
+| 4 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
+| 5 | [Profilime KimBakıyo](http://twitter.com/search?q=Profilime+KimBak%c4%b1yo) | N/A |
+| 6 | [#DepremAnı](http://twitter.com/search?q=%23DepremAn%c4%b1) | N/A |
+| 7 | [#BayKemalUnvYeTayin](http://twitter.com/search?q=%23BayKemalUnvYeTayin) | N/A |
+| 8 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 9 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
+| 10 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 11 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
+| 12 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
+| 13 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
+| 14 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 15 | [TaşeronaKim Kadroverecek](http://twitter.com/search?q=Ta%c5%9feronaKim+Kadroverecek) | N/A |
+| 16 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 17 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 18 | [Rıza Çalımbay](http://twitter.com/search?q=R%c4%b1za+%c3%87al%c4%b1mbay) | N/A |
+| 19 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 20 | [EbruŞahin HarikaylaDönüyor](http://twitter.com/search?q=Ebru%c5%9eahin+HarikaylaD%c3%b6n%c3%bcyor) | N/A |
+| 21 | [BAŞI BOŞ MASA](http://twitter.com/search?q=BA%c5%9eI+BO%c5%9e+MASA) | N/A |
+| 22 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
+| 23 | [Cansel](http://twitter.com/search?q=Cansel) | N/A |
+| 24 | [S-400](http://twitter.com/search?q=S-400) | N/A |
+| 25 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
+| 26 | [İstanbulspor](http://twitter.com/search?q=%c4%b0stanbulspor) | İstanbulspor is a Turkish professional football club based in Istanbul. The club was founded in 1926 and currently plays in the TFF First League, the second tier of Turkish football. The name İstanbulspor translates to "Istanbul Sports" in English. |
+| 27 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
+| 28 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 29 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 30 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 31 | [Bozkurt](http://twitter.com/search?q=Bozkurt) | N/A |
+| 32 | [Sigara](http://twitter.com/search?q=Sigara) | N/A |
+| 33 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 34 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 35 | [#ömer](http://twitter.com/search?q=%23%c3%b6mer) | N/A |
+| 36 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
+| 37 | [#YasakElma](http://twitter.com/search?q=%23YasakElma) | N/A |
+| 38 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 39 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
+| 40 | [#MaltepeÜniKaçakDersler](http://twitter.com/search?q=%23Maltepe%c3%9cniKa%c3%a7akDersler) | N/A |
+| 41 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 42 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
+| 43 | [#HayatiSedefNedenTutuklu](http://twitter.com/search?q=%23HayatiSedefNedenTutuklu) | N/A |
+| 44 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 45 | [#foxhaber](http://twitter.com/search?q=%23foxhaber) | N/A |
+| 46 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 47 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
+| 48 | [#Tabakademisi](http://twitter.com/search?q=%23Tabakademisi) | N/A |
+| 49 | [#GelecekTarımda](http://twitter.com/search?q=%23GelecekTar%c4%b1mda) | N/A |
 
 
 

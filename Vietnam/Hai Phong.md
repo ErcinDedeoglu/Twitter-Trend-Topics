@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-13 19:16:38 UTC`
+📆 Last Updated: `2023-03-13 20:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [#MEbyJisoo](http://twitter.com/search?q=%23MEbyJisoo) | N/A |
 | 4 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 5 | [#SS9inHCM](http://twitter.com/search?q=%23SS9inHCM) | N/A |
-| 6 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 7 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 8 | [#SUPERJUNIOR](http://twitter.com/search?q=%23SUPERJUNIOR) | N/A |
+| 6 | [#massage_in_riyadh](http://twitter.com/search?q=%23massage_in_riyadh) | N/A |
+| 7 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
+| 8 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
 | 9 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
 | 10 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 11 | [ngân](http://twitter.com/search?q=ng%c3%a2n) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 20 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
 | 21 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 22 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 23 | [Circle](http://twitter.com/search?q=Circle) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 26 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 23 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 24 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
 | 27 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
 | 28 | [thung](http://twitter.com/search?q=thung) | N/A |
 | 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 30 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
 | 31 | [nhiều](http://twitter.com/search?q=nhi%e1%bb%81u) | N/A |
 | 32 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
-| 33 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 34 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 35 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 36 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 37 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
-| 38 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 33 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
+| 34 | [America](http://twitter.com/search?q=America) | N/A |
+| 35 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 37 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 38 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
 | 39 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
-| 40 | [America](http://twitter.com/search?q=America) | N/A |
+| 40 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 42 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 43 | [dApps](http://twitter.com/search?q=dApps) | N/A |
 | 44 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 45 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 46 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 47 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 48 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 49 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 50 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 46 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 47 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 48 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 50 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
 
 
 

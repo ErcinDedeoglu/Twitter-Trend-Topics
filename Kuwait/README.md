@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-13 19:17:02 UTC`
+📆 Last Updated: `2023-03-13 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for Kuwait
 | 27 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 28 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
 | 29 | [الدرجه الممتازه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%87) | N/A |
-| 30 | [المدعي العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 31 | [القياده السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 32 | [القسم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 33 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 34 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
-| 35 | [الاتفاق السعودي الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 36 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 37 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
-| 38 | [وزراء الاعلام العرب](http://twitter.com/search?q=%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 39 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
-| 40 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 41 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 42 | [ابن باز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a8%d8%a7%d8%b2) | N/A |
-| 43 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 44 | [يابو سعد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d8%af) | N/A |
-| 45 | [السله الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [السبب الرييسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3%d9%8a) | N/A |
-| 47 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 48 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
-| 49 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 50 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 30 | [القياده السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 31 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 32 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 33 | [وزراء الاعلام العرب](http://twitter.com/search?q=%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 34 | [بورنموث](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab) | N/A |
+| 35 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
+| 36 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 38 | [ابن باز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a8%d8%a7%d8%b2) | N/A |
+| 39 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
+| 40 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 41 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 42 | [السله الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 43 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 44 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
+| 45 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 46 | [علي الحكام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85) | N/A |
+| 47 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 49 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 50 | [غرب اسيا](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a8+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
 
 
 

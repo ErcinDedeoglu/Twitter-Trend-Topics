@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-13 19:17:04 UTC`
+📆 Last Updated: `2023-03-13 20:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#festivaldacanção](http://twitter.com/search?q=%23festivaldacan%c3%a7%c3%a3o) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#FestivaldaCancao](http://twitter.com/search?q=%23FestivaldaCancao) | N/A |
 | 3 | [Mimicat](http://twitter.com/search?q=Mimicat) | N/A |
 | 4 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
 | 5 | [Pichardo](http://twitter.com/search?q=Pichardo) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Portugal
 | 21 | [david fonseca](http://twitter.com/search?q=david+fonseca) | N/A |
 | 22 | [Ice Merchants](http://twitter.com/search?q=Ice+Merchants) | N/A |
 | 23 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 24 | [e o benfica](http://twitter.com/search?q=e+o+benfica) | N/A |
-| 25 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
-| 26 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 27 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 30 | [Veríssimo](http://twitter.com/search?q=Ver%c3%adssimo) | N/A |
-| 31 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 32 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 33 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 34 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 35 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 36 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 37 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 38 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 39 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 40 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 41 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
-| 42 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 43 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 44 | [Casper](http://twitter.com/search?q=Casper) | N/A |
-| 45 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
-| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 47 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 50 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 24 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
+| 25 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 26 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 27 | [Veríssimo](http://twitter.com/search?q=Ver%c3%adssimo) | N/A |
+| 28 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 29 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 30 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 31 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 32 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 34 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 35 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 36 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 37 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 38 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 39 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
+| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 41 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 43 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 44 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 45 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
+| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 47 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 48 | [Sport Lisboa](http://twitter.com/search?q=Sport+Lisboa) | N/A |
+| 49 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 50 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-13 19:16:46 UTC`
+📆 Last Updated: `2023-03-13 20:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [India](</India>)
 | 2 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
 | 3 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
 | 4 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
-| 5 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 6 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
-| 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 8 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
-| 9 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
-| 10 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
-| 11 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 12 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 13 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 5 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
+| 6 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 7 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
+| 8 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
+| 9 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 10 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 11 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
+| 12 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 13 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
 | 14 | [Perry](http://twitter.com/search?q=Perry) | N/A |
 | 15 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
 | 16 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
-| 17 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
-| 18 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 17 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 18 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
 | 19 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
-| 20 | [Jess Jonassen](http://twitter.com/search?q=Jess+Jonassen) | N/A |
-| 21 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
-| 22 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
-| 23 | [Mandhana](http://twitter.com/search?q=Mandhana) | N/A |
-| 24 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
-| 25 | [Proud Moment](http://twitter.com/search?q=Proud+Moment) | N/A |
-| 26 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 20 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
+| 21 | [Vishal Kaith](http://twitter.com/search?q=Vishal+Kaith) | N/A |
+| 22 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
+| 23 | [Proud Moment](http://twitter.com/search?q=Proud+Moment) | N/A |
+| 24 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 25 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 26 | [Oval](http://twitter.com/search?q=Oval) | N/A |
 | 27 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
-| 28 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 29 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 30 | [Oval](http://twitter.com/search?q=Oval) | N/A |
-| 31 | [Royal Challengers Bangalore](http://twitter.com/search?q=Royal+Challengers+Bangalore) | N/A |
-| 32 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 33 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 34 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 35 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
-| 36 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 37 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 38 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 39 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 40 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
-| 41 | [Maheer](http://twitter.com/search?q=Maheer) | N/A |
-| 42 | [Devine](http://twitter.com/search?q=Devine) | N/A |
-| 43 | [चयन सूची](http://twitter.com/search?q=%e0%a4%9a%e0%a4%af%e0%a4%a8+%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a5%80) | N/A |
-| 44 | [Health Tips](http://twitter.com/search?q=Health+Tips) | N/A |
-| 45 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
-| 46 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
-| 47 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
-| 48 | [Marizanne Kapp](http://twitter.com/search?q=Marizanne+Kapp) | N/A |
-| 49 | [Border Gavaskar Trophy](http://twitter.com/search?q=Border+Gavaskar+Trophy) | N/A |
+| 28 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 29 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 30 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 31 | [World Test Championship](http://twitter.com/search?q=World+Test+Championship) | N/A |
+| 32 | [ऑस्कर पुरस्कार](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 34 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 35 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 36 | [Splash Resistant](http://twitter.com/search?q=Splash+Resistant) | N/A |
+| 37 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
+| 38 | [Maheer](http://twitter.com/search?q=Maheer) | N/A |
+| 39 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 40 | [Devine](http://twitter.com/search?q=Devine) | N/A |
+| 41 | [चयन सूची](http://twitter.com/search?q=%e0%a4%9a%e0%a4%af%e0%a4%a8+%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a5%80) | N/A |
+| 42 | [Swift City](http://twitter.com/search?q=Swift+City) | N/A |
+| 43 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
+| 44 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
+| 45 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
+| 46 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 47 | [Raghuram Rajan](http://twitter.com/search?q=Raghuram+Rajan) | N/A |
+| 48 | [Royal Challengers Bangalore](http://twitter.com/search?q=Royal+Challengers+Bangalore) | N/A |
+| 49 | [Jess](http://twitter.com/search?q=Jess) | N/A |
 
 
 

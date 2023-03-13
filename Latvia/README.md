@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 19:17:02 UTC`
+📆 Last Updated: `2023-03-13 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,8 @@ This is top 50 for Latvia
 | 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 10 | [uzreiz](http://twitter.com/search?q=uzreiz) | N/A |
 | 11 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 12 | [Ukrainā](http://twitter.com/search?q=Ukrain%c4%81) | N/A |
-| 13 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 14 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 15 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 16 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 17 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 12 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 13 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 
 
 
