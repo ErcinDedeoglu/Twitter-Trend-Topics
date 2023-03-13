@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-13 06:17:33 UTC`
+📆 Last Updated: `2023-03-13 07:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
 | 2 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 3 | [#شعیب_شیخ_بےقصور](http://twitter.com/search?q=%23%d8%b4%d8%b9%db%8c%d8%a8_%d8%b4%db%8c%d8%ae_%d8%a8%db%92%d9%82%d8%b5%d9%88%d8%b1) | N/A |
-| 4 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
-| 5 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 3 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
+| 4 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 5 | [#شعیب_شیخ_بےقصور](http://twitter.com/search?q=%23%d8%b4%d8%b9%db%8c%d8%a8_%d8%b4%db%8c%d8%ae_%d8%a8%db%92%d9%82%d8%b5%d9%88%d8%b1) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 7 | [Shoaib Sheikh](http://twitter.com/search?q=Shoaib+Sheikh) | N/A |
-| 8 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 9 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 10 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 11 | [The Pakistani](http://twitter.com/search?q=The+Pakistani) | N/A |
+| 7 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 9 | [usman khan](http://twitter.com/search?q=usman+khan) | N/A |
+| 10 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 11 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
 | 12 | [Ban Nasra School](http://twitter.com/search?q=Ban+Nasra+School) | N/A |
-| 13 | [khurram](http://twitter.com/search?q=khurram) | N/A |
-| 14 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 15 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 17 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 18 | [Hussain talat](http://twitter.com/search?q=Hussain+talat) | N/A |
-| 19 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 20 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 21 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 22 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 23 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 24 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 25 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
-| 26 | [mohammad haris](http://twitter.com/search?q=mohammad+haris) | N/A |
-| 27 | [Abbas afridi](http://twitter.com/search?q=Abbas+afridi) | N/A |
-| 28 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 29 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 30 | [PM in 2008](http://twitter.com/search?q=PM+in+2008) | N/A |
-| 31 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 32 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 34 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 35 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 36 | [Parade](http://twitter.com/search?q=Parade) | N/A |
-| 37 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 38 | [Cabinet Division](http://twitter.com/search?q=Cabinet+Division) | N/A |
-| 39 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 40 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 41 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 42 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 43 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
-| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 45 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 46 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 47 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
-| 48 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 49 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 50 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 13 | [The Pakistani](http://twitter.com/search?q=The+Pakistani) | N/A |
+| 14 | [khurram](http://twitter.com/search?q=khurram) | N/A |
+| 15 | [Hussain talat](http://twitter.com/search?q=Hussain+talat) | N/A |
+| 16 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 17 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 18 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 19 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 21 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
+| 22 | [PM in 2008](http://twitter.com/search?q=PM+in+2008) | N/A |
+| 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 24 | [Abbas afridi](http://twitter.com/search?q=Abbas+afridi) | N/A |
+| 25 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 26 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 27 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 28 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 30 | [Parade](http://twitter.com/search?q=Parade) | N/A |
+| 31 | [Cabinet Division](http://twitter.com/search?q=Cabinet+Division) | N/A |
+| 32 | [Asif Zardari](http://twitter.com/search?q=Asif+Zardari) | N/A |
+| 33 | [Gifts](http://twitter.com/search?q=Gifts) | N/A |
+| 34 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 36 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 37 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 38 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
+| 39 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 40 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 41 | [Baji](http://twitter.com/search?q=Baji) | N/A |
+| 42 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 43 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 44 | [Patwari](http://twitter.com/search?q=Patwari) | N/A |
+| 45 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 46 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 47 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 48 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 49 | [Shahid Khaqan Abbasi](http://twitter.com/search?q=Shahid+Khaqan+Abbasi) | N/A |
+| 50 | [Sharifs](http://twitter.com/search?q=Sharifs) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-13 06:17:13 UTC`
+📆 Last Updated: `2023-03-13 07:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#kschsv](http://twitter.com/search?q=%23kschsv) | N/A |
-| 4 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
-| 5 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 6 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 8 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 9 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 11 | [kaufmann](http://twitter.com/search?q=kaufmann) | N/A |
-| 12 | [hackl](http://twitter.com/search?q=hackl) | N/A |
-| 13 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 14 | [nuhr](http://twitter.com/search?q=nuhr) | N/A |
-| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 16 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
-| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 18 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 19 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 20 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 22 | [Erkrankung von Personal](http://twitter.com/search?q=Erkrankung+von+Personal) | N/A |
-| 23 | [lebenslauf](http://twitter.com/search?q=lebenslauf) | N/A |
-| 24 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 25 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 26 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 27 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 28 | [Bhakdi](http://twitter.com/search?q=Bhakdi) | N/A |
-| 29 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
-| 30 | [appletv save warrior nun](http://twitter.com/search?q=appletv+save+warrior+nun) | N/A |
-| 31 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 32 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [gegentore](http://twitter.com/search?q=gegentore) | N/A |
-| 35 | [Bachmut](http://twitter.com/search?q=Bachmut) | N/A |
-| 36 | [haller](http://twitter.com/search?q=haller) | N/A |
-| 37 | [zeugen jehovas](http://twitter.com/search?q=zeugen+jehovas) | N/A |
-| 38 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 39 | [malen](http://twitter.com/search?q=malen) | N/A |
-| 40 | [Bundespolizei](http://twitter.com/search?q=Bundespolizei) | N/A |
-| 41 | [klassenerhalt](http://twitter.com/search?q=klassenerhalt) | N/A |
-| 42 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 43 | [rückrunde](http://twitter.com/search?q=r%c3%bcckrunde) | N/A |
-| 44 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 45 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 46 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
-| 47 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 48 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 49 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 50 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
+| 3 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
+| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 6 | [#KSCHSV](http://twitter.com/search?q=%23KSCHSV) | N/A |
+| 7 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 8 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 11 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 14 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 15 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 16 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
+| 17 | [hackl](http://twitter.com/search?q=hackl) | N/A |
+| 18 | [nuhr](http://twitter.com/search?q=nuhr) | N/A |
+| 19 | [waffenrecht](http://twitter.com/search?q=waffenrecht) | N/A |
+| 20 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 23 | [Erkrankung von Personal](http://twitter.com/search?q=Erkrankung+von+Personal) | N/A |
+| 24 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
+| 25 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 26 | [kaufmann](http://twitter.com/search?q=kaufmann) | N/A |
+| 27 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 28 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 29 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
+| 30 | [lichtbildausweis](http://twitter.com/search?q=lichtbildausweis) | N/A |
+| 31 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 32 | [appletv save warrior nun](http://twitter.com/search?q=appletv+save+warrior+nun) | N/A |
+| 33 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 36 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 37 | [Bundespolizei](http://twitter.com/search?q=Bundespolizei) | N/A |
+| 38 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 40 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 41 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 42 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 43 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 44 | [svenrik](http://twitter.com/search?q=svenrik) | N/A |
+| 45 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 46 | [halbzeit](http://twitter.com/search?q=halbzeit) | N/A |
+| 47 | [jugendpolitiker](http://twitter.com/search?q=jugendpolitiker) | N/A |
+| 48 | [hummels](http://twitter.com/search?q=hummels) | N/A |
+| 49 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 50 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
 
 
 

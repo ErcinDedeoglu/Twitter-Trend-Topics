@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-13 06:17:08 UTC`
+📆 Last Updated: `2023-03-13 07:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 2 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 6 | [#ForaAlface](http://twitter.com/search?q=%23ForaAlface) | N/A |
-| 7 | [#foralaritruci](http://twitter.com/search?q=%23foralaritruci) | N/A |
+| 1 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
+| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
+| 7 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 8 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 9 | [Ana Furtado](http://twitter.com/search?q=Ana+Furtado) | Ana Furtado is a Portuguese name. It is derived from the Latin words "anna" meaning "grace" and "furtum" meaning "theft". In English, it can be translated to mean "graceful thief". |
-| 10 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 11 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 12 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 13 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 14 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 15 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 9 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 11 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 12 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 13 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
+| 14 | [#foralaritruci](http://twitter.com/search?q=%23foralaritruci) | N/A |
+| 15 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 16 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 17 | [Truce](http://twitter.com/search?q=Truce) | N/A |
 | 18 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 19 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 20 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 21 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 22 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
-| 23 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 24 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 25 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 26 | [Camila Morgado](http://twitter.com/search?q=Camila+Morgado) | N/A |
-| 27 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
-| 28 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 29 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
-| 30 | [Todo Lugar](http://twitter.com/search?q=Todo+Lugar) | N/A |
-| 31 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 32 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 33 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 34 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 35 | [Halle](http://twitter.com/search?q=Halle) | N/A |
-| 36 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
-| 37 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 38 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 39 | [Pinóquio](http://twitter.com/search?q=Pin%c3%b3quio) | N/A |
-| 40 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
-| 41 | [ADMs](http://twitter.com/search?q=ADMs) | N/A |
-| 42 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 43 | [Del Toro](http://twitter.com/search?q=Del+Toro) | N/A |
-| 44 | [Pantera Negra](http://twitter.com/search?q=Pantera+Negra) | N/A |
-| 45 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 46 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 47 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
-| 48 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 49 | [Ashley Johnson](http://twitter.com/search?q=Ashley+Johnson) | N/A |
-| 50 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 19 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 20 | [Mesmo Tempo](http://twitter.com/search?q=Mesmo+Tempo) | N/A |
+| 21 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 22 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 23 | [Nada de Novo](http://twitter.com/search?q=Nada+de+Novo) | N/A |
+| 24 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 25 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
+| 26 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 27 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 28 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 29 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 30 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 31 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
+| 32 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 33 | [Spielberg](http://twitter.com/search?q=Spielberg) | N/A |
+| 34 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 35 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 36 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
+| 37 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 38 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 39 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 40 | [Scarpinha](http://twitter.com/search?q=Scarpinha) | N/A |
+| 41 | [Halle](http://twitter.com/search?q=Halle) | N/A |
+| 42 | [PILANTRA](http://twitter.com/search?q=PILANTRA) | N/A |
+| 43 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 44 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 45 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 46 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 47 | [Isabela Boscov](http://twitter.com/search?q=Isabela+Boscov) | N/A |
+| 48 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 49 | [Melhor Filme](http://twitter.com/search?q=Melhor+Filme) | N/A |
+| 50 | [Merecido](http://twitter.com/search?q=Merecido) | N/A |
 
 
 
