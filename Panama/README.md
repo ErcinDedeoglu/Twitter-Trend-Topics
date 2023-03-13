@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-13 07:16:52 UTC`
+📆 Last Updated: `2023-03-13 08:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Panama
 | 12 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 13 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
 | 14 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 15 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 15 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
 | 16 | [Angela](http://twitter.com/search?q=Angela) | N/A |
 | 17 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 18 | [Italia](http://twitter.com/search?q=Italia) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Panama
 | 32 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
 | 33 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
 | 34 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 35 | [Carlos Harvey](http://twitter.com/search?q=Carlos+Harvey) | N/A |
+| 35 | [carlos harvey](http://twitter.com/search?q=carlos+harvey) | N/A |
 | 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 37 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 38 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
@@ -63,8 +63,8 @@ This is top 50 for Panama
 | 46 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 47 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
 | 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 49 | [torrijos](http://twitter.com/search?q=torrijos) | N/A |
-| 50 | [#burgerweek](http://twitter.com/search?q=%23burgerweek) | N/A |
+| 49 | [#burgerweek](http://twitter.com/search?q=%23burgerweek) | N/A |
+| 50 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 
 
 

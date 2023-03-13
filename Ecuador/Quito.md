@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-13 07:16:01 UTC`
+📆 Last Updated: `2023-03-13 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 3 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
 | 4 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#DondeEstánMauricioyVanessa](http://twitter.com/search?q=%23DondeEst%c3%a1nMauricioyVanessa) | N/A |
-| 7 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 6 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 7 | [#DondeEstánMauricioyVanessa](http://twitter.com/search?q=%23DondeEst%c3%a1nMauricioyVanessa) | N/A |
 | 8 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
 | 9 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
 | 10 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
@@ -31,34 +31,34 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 14 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
 | 15 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 16 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 17 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 18 | [Ruta Viva](http://twitter.com/search?q=Ruta+Viva) | N/A |
-| 19 | [Sybel](http://twitter.com/search?q=Sybel) | N/A |
+| 17 | [Ruta Viva](http://twitter.com/search?q=Ruta+Viva) | N/A |
+| 18 | [Sybel](http://twitter.com/search?q=Sybel) | N/A |
+| 19 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 20 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 21 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 22 | [#nocheazulgrana](http://twitter.com/search?q=%23nocheazulgrana) | N/A |
-| 23 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 27 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 28 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 29 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
-| 30 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 31 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
-| 32 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 33 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 34 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 35 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 36 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 37 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 38 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
-| 39 | [All Quiet On The Western Front](http://twitter.com/search?q=All+Quiet+On+The+Western+Front) | N/A |
-| 40 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 41 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
-| 42 | [Lenny Kravitz](http://twitter.com/search?q=Lenny+Kravitz) | N/A |
-| 43 | [viva portoviejo](http://twitter.com/search?q=viva+portoviejo) | N/A |
-| 44 | [UNASE](http://twitter.com/search?q=UNASE) | N/A |
+| 21 | [#nocheazulgrana](http://twitter.com/search?q=%23nocheazulgrana) | N/A |
+| 22 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
+| 23 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 24 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 25 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 26 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 27 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
+| 28 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 29 | [Don Omar](http://twitter.com/search?q=Don+Omar) | N/A |
+| 30 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 31 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 32 | [TER STEGEN](http://twitter.com/search?q=TER+STEGEN) | N/A |
+| 33 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 35 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 36 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 37 | [yanazarapata](http://twitter.com/search?q=yanazarapata) | N/A |
+| 38 | [All Quiet on the Western Front](http://twitter.com/search?q=All+Quiet+on+the+Western+Front) | N/A |
+| 39 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 40 | [John Travolta](http://twitter.com/search?q=John+Travolta) | N/A |
+| 41 | [Lenny Kravitz](http://twitter.com/search?q=Lenny+Kravitz) | N/A |
+| 42 | [viva portoviejo](http://twitter.com/search?q=viva+portoviejo) | N/A |
+| 43 | [unase](http://twitter.com/search?q=unase) | N/A |
+| 44 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 45 | [Mejor Película](http://twitter.com/search?q=Mejor+Pel%c3%adcula) | N/A |
 | 46 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
 | 47 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
