@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-14 15:16:38 UTC`
+📆 Last Updated: `2023-03-14 16:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 3 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
 | 4 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
-| 7 | [#5AnosSemRespostas](http://twitter.com/search?q=%235AnosSemRespostas) | N/A |
-| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 9 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 10 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 11 | [#SetMeFree_Pt2_Teaser](http://twitter.com/search?q=%23SetMeFree_Pt2_Teaser) | N/A |
-| 12 | [#AsRaposasNaGalera](http://twitter.com/search?q=%23AsRaposasNaGalera) | N/A |
-| 13 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
-| 14 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 16 | [Edmilson](http://twitter.com/search?q=Edmilson) | N/A |
-| 17 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 18 | [Fogo & Sangue](http://twitter.com/search?q=Fogo+%26+Sangue) | N/A |
-| 19 | [o jk](http://twitter.com/search?q=o+jk) | N/A |
-| 20 | [Há 5](http://twitter.com/search?q=H%c3%a1+5) | N/A |
-| 21 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 22 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 23 | [R$24,90](http://twitter.com/search?q=R%2424%2c90) | N/A |
-| 24 | [Eliseu Padilha](http://twitter.com/search?q=Eliseu+Padilha) | N/A |
-| 25 | [Animais](http://twitter.com/search?q=Animais) | N/A |
-| 26 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
-| 27 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 28 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 29 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 30 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 31 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
-| 32 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
-| 33 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 34 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
-| 35 | [Casares](http://twitter.com/search?q=Casares) | N/A |
-| 36 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 37 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
-| 38 | [Novinho](http://twitter.com/search?q=Novinho) | N/A |
-| 39 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 40 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 41 | [Sigma](http://twitter.com/search?q=Sigma) | N/A |
-| 42 | [Ceilândia](http://twitter.com/search?q=Ceil%c3%a2ndia) | N/A |
-| 43 | [FAAP](http://twitter.com/search?q=FAAP) | N/A |
-| 44 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 45 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 46 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 47 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 48 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 49 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
-| 50 | [Barão](http://twitter.com/search?q=Bar%c3%a3o) | N/A |
+| 5 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [#SetMeFree_Pt2_Teaser](http://twitter.com/search?q=%23SetMeFree_Pt2_Teaser) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 10 | [#5AnosSemRespostas](http://twitter.com/search?q=%235AnosSemRespostas) | N/A |
+| 11 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 12 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
+| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 14 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 15 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 16 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 17 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
+| 18 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 19 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 20 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
+| 21 | [The Stage](http://twitter.com/search?q=The+Stage) | N/A |
+| 22 | [Palmeiras e Flamengo](http://twitter.com/search?q=Palmeiras+e+Flamengo) | N/A |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
+| 25 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 26 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 27 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
+| 28 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 29 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 30 | [Sweet Tooth](http://twitter.com/search?q=Sweet+Tooth) | N/A |
+| 31 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 32 | [Edmilson](http://twitter.com/search?q=Edmilson) | N/A |
+| 33 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
+| 34 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 35 | [Animais](http://twitter.com/search?q=Animais) | N/A |
+| 36 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 37 | [xurrasco](http://twitter.com/search?q=xurrasco) | N/A |
+| 38 | [Copa do Mundo](http://twitter.com/search?q=Copa+do+Mundo) | N/A |
+| 39 | [Fogo & Sangue](http://twitter.com/search?q=Fogo+%26+Sangue) | N/A |
+| 40 | [R$24,90](http://twitter.com/search?q=R%2424%2c90) | N/A |
+| 41 | [Velozes e Furiosos](http://twitter.com/search?q=Velozes+e+Furiosos) | N/A |
+| 42 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 43 | [Jack Robinson](http://twitter.com/search?q=Jack+Robinson) | N/A |
+| 44 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
+| 45 | [Whole Cake](http://twitter.com/search?q=Whole+Cake) | N/A |
+| 46 | [O Jk](http://twitter.com/search?q=O+Jk) | N/A |
+| 47 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 48 | [Casares](http://twitter.com/search?q=Casares) | N/A |
+| 49 | [Há 5](http://twitter.com/search?q=H%c3%a1+5) | N/A |
+| 50 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
 
 
 

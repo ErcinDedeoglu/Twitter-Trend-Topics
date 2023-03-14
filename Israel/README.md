@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-14 15:17:20 UTC`
+📆 Last Updated: `2023-03-14 16:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
 | 4 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
 | 5 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 6 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 7 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
 | 8 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
-| 9 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 10 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
-| 11 | [של גפני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%a4%d7%a0%d7%99) | N/A |
-| 12 | [גיא פלג](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%a4%d7%9c%d7%92) | N/A |
-| 13 | [כ פוגל](http://twitter.com/search?q=%d7%9b+%d7%a4%d7%95%d7%92%d7%9c) | N/A |
-| 14 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 15 | [European](http://twitter.com/search?q=European) | N/A |
-| 16 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 17 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 18 | [בני אנוש](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
-| 19 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 20 | [של שני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a0%d7%99) | N/A |
+| 9 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [גיא פלג](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%a4%d7%9c%d7%92) | N/A |
+| 12 | [כ פוגל](http://twitter.com/search?q=%d7%9b+%d7%a4%d7%95%d7%92%d7%9c) | N/A |
+| 13 | [של גפני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%a4%d7%a0%d7%99) | N/A |
+| 14 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 15 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 16 | [European](http://twitter.com/search?q=European) | N/A |
+| 17 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 18 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 19 | [של שני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a0%d7%99) | N/A |
+| 20 | [מערכת החינוך](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
 | 21 | [עם השגריר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a9%d7%92%d7%a8%d7%99%d7%a8) | N/A |
 | 22 | [חוק צרפתי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a6%d7%a8%d7%a4%d7%aa%d7%99) | N/A |
 | 23 | [הרב אליהו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
-| 24 | [שגריר ישראל](http://twitter.com/search?q=%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 25 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
-| 26 | [שמואל אליהו](http://twitter.com/search?q=%d7%a9%d7%9e%d7%95%d7%90%d7%9c+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
-| 27 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 28 | [מכל מקום](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%9e%d7%a7%d7%95%d7%9d) | N/A |
-| 29 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 30 | [לנו עם](http://twitter.com/search?q=%d7%9c%d7%a0%d7%95+%d7%a2%d7%9d) | N/A |
-| 31 | [בן שלום](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
-| 32 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
-| 33 | [עם ישראלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%9d) | N/A |
-| 34 | [היום יום](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%99%d7%95%d7%9d) | N/A |
-| 35 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 36 | [יורד גשם](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%93+%d7%92%d7%a9%d7%9d) | N/A |
-| 37 | [עידן חדש](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%97%d7%93%d7%a9) | N/A |
-| 38 | [מערכת החינוך](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 39 | [של ריקלין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%a7%d7%9c%d7%99%d7%9f) | N/A |
-| 40 | [חותמת גומי](http://twitter.com/search?q=%d7%97%d7%95%d7%aa%d7%9e%d7%aa+%d7%92%d7%95%d7%9e%d7%99) | N/A |
-| 41 | [עבד כי](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%9b%d7%99) | N/A |
-| 42 | [בית הספר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a1%d7%a4%d7%a8) | N/A |
-| 43 | [של מנדלבליט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%93%d7%9c%d7%91%d7%9c%d7%99%d7%98) | N/A |
+| 24 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 25 | [שמואל אליהו](http://twitter.com/search?q=%d7%a9%d7%9e%d7%95%d7%90%d7%9c+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 26 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 27 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 28 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 29 | [לנו עם](http://twitter.com/search?q=%d7%9c%d7%a0%d7%95+%d7%a2%d7%9d) | N/A |
+| 30 | [בן שלום](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
+| 31 | [עם ישראלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%9d) | N/A |
+| 32 | [היום יום](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%99%d7%95%d7%9d) | N/A |
+| 33 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 34 | [יורד גשם](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%93+%d7%92%d7%a9%d7%9d) | N/A |
+| 35 | [עם שגריר ישראל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 36 | [עידן חדש](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%97%d7%93%d7%a9) | N/A |
+| 37 | [של אמסלם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9e%d7%a1%d7%9c%d7%9d) | N/A |
+| 38 | [חותמת גומי](http://twitter.com/search?q=%d7%97%d7%95%d7%aa%d7%9e%d7%aa+%d7%92%d7%95%d7%9e%d7%99) | N/A |
+| 39 | [עבד כי](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%9b%d7%99) | N/A |
+| 40 | [בית הספר](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%94%d7%a1%d7%a4%d7%a8) | N/A |
+| 41 | [של ריקלין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%a7%d7%9c%d7%99%d7%9f) | N/A |
+| 42 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
+| 43 | [נגד גזענות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa) | N/A |
 | 44 | [דין דוד](http://twitter.com/search?q=%d7%93%d7%99%d7%9f+%d7%93%d7%95%d7%93) | N/A |
 | 45 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
-| 46 | [אישה אחת](http://twitter.com/search?q=%d7%90%d7%99%d7%a9%d7%94+%d7%90%d7%97%d7%aa) | N/A |
-| 47 | [אריה לוין](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 46 | [אריה לוין](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 47 | [של טראוויס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a1) | N/A |
 | 48 | [חוק נבצרות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa) | N/A |
-| 49 | [מינוי פוליטי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a0%d7%95%d7%99+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 50 | [הרב עובדיה](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94) | N/A |
+| 49 | [הפועל תל אביב](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 50 | [מינוי פוליטי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a0%d7%95%d7%99+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
 
 
 

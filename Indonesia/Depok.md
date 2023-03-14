@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-14 15:16:48 UTC`
+📆 Last Updated: `2023-03-14 16:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
-| 4 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
+| 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#BCAExpoversary](http://twitter.com/search?q=%23BCAExpoversary) | N/A |
 | 5 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
 | 6 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 7 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
-| 8 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 11 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 7 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
+| 8 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
+| 9 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
+| 10 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 12 | [Bahasa](http://twitter.com/search?q=Bahasa) | N/A |
-| 13 | [50mp camera](http://twitter.com/search?q=50mp+camera) | N/A |
-| 14 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
-| 15 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Tally](http://twitter.com/search?q=Tally) | N/A |
-| 18 | [EXO JAYA JAYA JAYA](http://twitter.com/search?q=EXO+JAYA+JAYA+JAYA) | N/A |
-| 19 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 20 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 21 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
-| 22 | [Basreng](http://twitter.com/search?q=Basreng) | N/A |
-| 23 | [Iklan](http://twitter.com/search?q=Iklan) | N/A |
-| 24 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 25 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
-| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 27 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 28 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
-| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 13 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 14 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
+| 15 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 16 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 17 | [50MP Camera](http://twitter.com/search?q=50MP+Camera) | N/A |
+| 18 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 19 | [Tally](http://twitter.com/search?q=Tally) | N/A |
+| 20 | [BASRENG](http://twitter.com/search?q=BASRENG) | N/A |
+| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 22 | [Iklan](http://twitter.com/search?q=Iklan) | N/A |
+| 23 | [Ajudan Pribadi](http://twitter.com/search?q=Ajudan+Pribadi) | N/A |
+| 24 | [EXO JAYA JAYA JAYA](http://twitter.com/search?q=EXO+JAYA+JAYA+JAYA) | N/A |
+| 25 | [Ginting](http://twitter.com/search?q=Ginting) | Ginting is a common surname in Indonesia. It is derived from the Sanskrit word "Ginata", which means "protector". In English, Ginting can be translated to mean "protector". |
+| 26 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 27 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 28 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 29 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
 | 30 | [CAN'T WAIT](http://twitter.com/search?q=CAN%27T+WAIT) | N/A |
-| 31 | [Robin Van Persie](http://twitter.com/search?q=Robin+Van+Persie) | N/A |
-| 32 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
+| 31 | [Pidato AHY](http://twitter.com/search?q=Pidato+AHY) | N/A |
+| 32 | [Robin Van Persie](http://twitter.com/search?q=Robin+Van+Persie) | N/A |
 | 33 | [Harta](http://twitter.com/search?q=Harta) | N/A |
 | 34 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 35 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
-| 36 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 37 | [#MyEpicMusic](http://twitter.com/search?q=%23MyEpicMusic) | N/A |
-| 38 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 39 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 40 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
-| 41 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
-| 43 | [#MidnightMuseumEP4](http://twitter.com/search?q=%23MidnightMuseumEP4) | N/A |
-| 44 | [#GalaxyZFold4](http://twitter.com/search?q=%23GalaxyZFold4) | N/A |
-| 45 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
+| 35 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 36 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
+| 37 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 38 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 39 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 40 | [#NUEST_11th_Anniversary](http://twitter.com/search?q=%23NUEST_11th_Anniversary) | N/A |
+| 41 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 42 | [#MyEpicMusic](http://twitter.com/search?q=%23MyEpicMusic) | N/A |
+| 43 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 44 | [#MidnightMuseumEP4](http://twitter.com/search?q=%23MidnightMuseumEP4) | N/A |
+| 45 | [#GalaxyZFold4](http://twitter.com/search?q=%23GalaxyZFold4) | N/A |
 | 46 | [#64MPchampion](http://twitter.com/search?q=%2364MPchampion) | N/A |
-| 47 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 48 | [#mystalive](http://twitter.com/search?q=%23mystalive) | N/A |
-| 49 | [#PERSISDAY](http://twitter.com/search?q=%23PERSISDAY) | N/A |
+| 47 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
+| 48 | [#shotbyphone](http://twitter.com/search?q=%23shotbyphone) | N/A |
+| 49 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
 
 
 

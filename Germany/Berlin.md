@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-14 15:16:43 UTC`
+📆 Last Updated: `2023-03-14 16:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 2 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 3 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
-| 6 | [#rtl2](http://twitter.com/search?q=%23rtl2) | N/A |
-| 7 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 8 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 11 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 12 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 13 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 14 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 15 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 16 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 17 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 18 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 19 | [vereine](http://twitter.com/search?q=vereine) | N/A |
-| 20 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 21 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 22 | [merkel](http://twitter.com/search?q=merkel) | N/A |
-| 23 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 24 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 25 | [Beratung](http://twitter.com/search?q=Beratung) | N/A |
-| 26 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 27 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 28 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 29 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 30 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 31 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
-| 32 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 33 | [Erwachsenen](http://twitter.com/search?q=Erwachsenen) | N/A |
-| 34 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 35 | [#Bundeswehr](http://twitter.com/search?q=%23Bundeswehr) | N/A |
-| 36 | [#CovidIsntOver](http://twitter.com/search?q=%23CovidIsntOver) | N/A |
-| 37 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
-| 38 | [#SchnibloTag](http://twitter.com/search?q=%23SchnibloTag) | N/A |
-| 39 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 40 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 41 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
-| 42 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
-| 43 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
+| 1 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
+| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 3 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 4 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 5 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 8 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 9 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 11 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 12 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 13 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 14 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 15 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 16 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 17 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 18 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 19 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 20 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 21 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 22 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
+| 23 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 24 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 25 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 27 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 28 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 29 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 30 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 31 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 32 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 33 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 34 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 35 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 36 | [hetzer](http://twitter.com/search?q=hetzer) | N/A |
+| 37 | [Vorfahrt](http://twitter.com/search?q=Vorfahrt) | N/A |
+| 38 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 39 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 40 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 41 | [konzern](http://twitter.com/search?q=konzern) | N/A |
+| 42 | [Marken](http://twitter.com/search?q=Marken) | N/A |
+| 43 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 44 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 45 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 46 | [Schrittgeschwindigkeit](http://twitter.com/search?q=Schrittgeschwindigkeit) | N/A |
+| 47 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 48 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 49 | [Köpfen](http://twitter.com/search?q=K%c3%b6pfen) | N/A |
+| 50 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 
 
 

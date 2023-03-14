@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-14 15:17:24 UTC`
+📆 Last Updated: `2023-03-14 16:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 2 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 4 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 6 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 7 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 7 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
 | 8 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 9 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
-| 10 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 11 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 9 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 10 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 11 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 | 12 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 13 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 14 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 15 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 16 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 17 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 18 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 19 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 22 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 24 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 27 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 28 | [#Oscars2023](http://twitter.com/search?q=%23Oscars2023) | #Oscars2023 is a hashtag used to refer to the Academy Awards ceremony that will take place in 2023. It is used to discuss potential nominees, winners, and other related topics. |
-| 29 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 30 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 31 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 32 | [#bscyb](http://twitter.com/search?q=%23bscyb) | N/A |
-| 33 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 34 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 35 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 36 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 37 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 38 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 39 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
+| 13 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 14 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 15 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 16 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 17 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 18 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
+| 23 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 26 | [London](http://twitter.com/search?q=London) | N/A |
+| 27 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 28 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 29 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 30 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 31 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 32 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 33 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 34 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 35 | [#bscyb](http://twitter.com/search?q=%23bscyb) | N/A |
+| 36 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 37 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 38 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
+| 39 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
 | 40 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 41 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 42 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 43 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 44 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 46 | [Runde](http://twitter.com/search?q=Runde) | N/A |
-| 47 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 48 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 49 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
-| 50 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 41 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
+| 42 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 44 | [flüchtlinge](http://twitter.com/search?q=fl%c3%bcchtlinge) | N/A |
+| 45 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 48 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 49 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 50 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
 
 
 

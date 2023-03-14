@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-14 15:16:36 UTC`
+📆 Last Updated: `2023-03-14 16:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,41 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 2 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
-| 5 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
+| 1 | [#JusticiaParaCaicedo](http://twitter.com/search?q=%23JusticiaParaCaicedo) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
+| 4 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
+| 5 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
 | 6 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
-| 7 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 8 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 9 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [#SueñoConAlejandroFernandez](http://twitter.com/search?q=%23Sue%c3%b1oConAlejandroFernandez) | N/A |
-| 13 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 14 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 15 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 16 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 17 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 18 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 19 | [Exsenadora](http://twitter.com/search?q=Exsenadora) | N/A |
-| 20 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 21 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 22 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 23 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 24 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 25 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 26 | [Luis Ernesto](http://twitter.com/search?q=Luis+Ernesto) | N/A |
-| 27 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
-| 28 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
-| 29 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 30 | [Selección Colombia](http://twitter.com/search?q=Selecci%c3%b3n+Colombia) | N/A |
-| 31 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 33 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 35 | [la silla vacía](http://twitter.com/search?q=la+silla+vac%c3%ada) | N/A |
-| 36 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 37 | [Río de oro](http://twitter.com/search?q=R%c3%ado+de+oro) | N/A |
-| 38 | [nadies](http://twitter.com/search?q=nadies) | N/A |
-| 39 | [Davinson](http://twitter.com/search?q=Davinson) | N/A |
-| 40 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
-| 41 | [Fondos](http://twitter.com/search?q=Fondos) | N/A |
-| 42 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 43 | [Nelson Palacio](http://twitter.com/search?q=Nelson+Palacio) | N/A |
-| 44 | [Dilian Francisca Toro](http://twitter.com/search?q=Dilian+Francisca+Toro) | N/A |
-| 45 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 46 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 47 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
-| 48 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 49 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 7 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 8 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 9 | [Canallas](http://twitter.com/search?q=Canallas) | N/A |
+| 10 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 11 | [Exsenadora](http://twitter.com/search?q=Exsenadora) | N/A |
+| 12 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 13 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
+| 14 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 15 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 16 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 17 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 18 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 19 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 20 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
+| 21 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 22 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 23 | [Junior de Barranquilla](http://twitter.com/search?q=Junior+de+Barranquilla) | N/A |
+| 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 25 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 26 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
+| 27 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 28 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 29 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
+| 30 | [Linero](http://twitter.com/search?q=Linero) | N/A |
+| 31 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
+| 32 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 33 | [#suenoconalejandrofernandez](http://twitter.com/search?q=%23suenoconalejandrofernandez) | N/A |
+| 34 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 35 | [#FelizMartesATodos](http://twitter.com/search?q=%23FelizMartesATodos) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-14 15:16:41 UTC`
+📆 Last Updated: `2023-03-14 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 3 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 6 | [#wpłwid](http://twitter.com/search?q=%23wp%c5%82wid) | N/A |
-| 7 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
-| 8 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 5 | [#JakJustyna](http://twitter.com/search?q=%23JakJustyna) | N/A |
+| 6 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 7 | [#wpłwid](http://twitter.com/search?q=%23wp%c5%82wid) | N/A |
+| 8 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
 | 9 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
-| 10 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
-| 11 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 12 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 13 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
-| 14 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 15 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 16 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
-| 17 | [Lange](http://twitter.com/search?q=Lange) | N/A |
-| 18 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
-| 19 | [zdrówka](http://twitter.com/search?q=zdr%c3%b3wka) | N/A |
-| 20 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 21 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
-| 22 | [glocka](http://twitter.com/search?q=glocka) | N/A |
-| 23 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 24 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
-| 25 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 26 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 27 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
-| 28 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
-| 29 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 10 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 11 | [Cenzura](http://twitter.com/search?q=Cenzura) | N/A |
+| 12 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 13 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 14 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
+| 15 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 16 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 17 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 18 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
+| 19 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 20 | [Wolność](http://twitter.com/search?q=Wolno%c5%9b%c4%87) | N/A |
+| 21 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
+| 22 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 23 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 24 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
+| 25 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 26 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 27 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 28 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
+| 29 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
 | 30 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 31 | [broń](http://twitter.com/search?q=bro%c5%84) | N/A |
-| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 33 | [Pogromca](http://twitter.com/search?q=Pogromca) | N/A |
-| 34 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
-| 35 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 31 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 32 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
+| 33 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 34 | [kodeksu](http://twitter.com/search?q=kodeksu) | N/A |
+| 35 | [Tygodnik NIE](http://twitter.com/search?q=Tygodnik+NIE) | N/A |
 | 36 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 37 | [#tujestprzyszłość](http://twitter.com/search?q=%23tujestprzysz%c5%82o%c5%9b%c4%87) | N/A |
-| 38 | [Tygodnik NIE](http://twitter.com/search?q=Tygodnik+NIE) | N/A |
-| 39 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 40 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
-| 41 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 42 | [prokurator generalny](http://twitter.com/search?q=prokurator+generalny) | N/A |
-| 43 | [Milego](http://twitter.com/search?q=Milego) | N/A |
-| 44 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 45 | [Parlament Europejski](http://twitter.com/search?q=Parlament+Europejski) | N/A |
-| 46 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
-| 47 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 48 | [III RP](http://twitter.com/search?q=III+RP) | N/A |
-| 49 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
-| 50 | [Totalnie](http://twitter.com/search?q=Totalnie) | N/A |
+| 37 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
+| 38 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 39 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 40 | [Mieszkanie](http://twitter.com/search?q=Mieszkanie) | N/A |
+| 41 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 42 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 43 | [Parlament Europejski](http://twitter.com/search?q=Parlament+Europejski) | N/A |
+| 44 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 45 | [prezydent andrzej duda](http://twitter.com/search?q=prezydent+andrzej+duda) | N/A |
+| 46 | [Milego](http://twitter.com/search?q=Milego) | N/A |
+| 47 | [Zmień](http://twitter.com/search?q=Zmie%c5%84) | N/A |
+| 48 | [PROKURATOR GENERALNY](http://twitter.com/search?q=PROKURATOR+GENERALNY) | N/A |
+| 49 | [Gontarczyk](http://twitter.com/search?q=Gontarczyk) | N/A |
+| 50 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
 
 
 

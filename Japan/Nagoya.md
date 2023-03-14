@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-14 15:16:52 UTC`
+📆 Last Updated: `2023-03-14 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
-| 2 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
+| 1 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
+| 2 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
 | 3 | [滑り込み](http://twitter.com/search?q=%e6%bb%91%e3%82%8a%e8%be%bc%e3%81%bf) | 滑り込み is a Japanese phrase that literally translates to “sliding in”. It is used to describe the act of entering a situation or group without being noticed or causing any disruption. In English, it could be translated as “sneaking in” or “slipping in”. |
-| 4 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
-| 5 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
-| 6 | [ハイボール](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 7 | [スタツア](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%84%e3%82%a2) | スタツア is a Japanese word that means "startup". It is used to refer to a company or business that is just starting out. |
-| 8 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 4 | [Happy White](http://twitter.com/search?q=Happy+White) | N/A |
+| 5 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 6 | [#ツイートAI分析](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%bc%e3%83%88AI%e5%88%86%e6%9e%90) | N/A |
+| 7 | [ハイボール](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 8 | [マカロン](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%ad%e3%83%b3) | N/A |
 | 9 | [ビットコイン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3) | N/A |
-| 10 | [結婚記念日](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 11 | [#アークナイツ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%bc%e3%82%af%e3%83%8a%e3%82%a4%e3%83%84) | N/A |
-| 12 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
-| 13 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
-| 14 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 15 | [Blessing](http://twitter.com/search?q=Blessing) | N/A |
-| 16 | [彗星の空](http://twitter.com/search?q=%e5%bd%97%e6%98%9f%e3%81%ae%e7%a9%ba) | N/A |
-| 17 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 18 | [シーズン2](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b32) | シーズン2 is the second season of a television show, anime, or other series. In English, it translates to "Season 2". |
-| 19 | [バレンタイン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | バレンタイン (Barentain) is a Japanese holiday celebrated on February 14th. It is similar to Valentine's Day in the West, where people exchange gifts and cards to show their love and appreciation for one another. The name comes from the combination of the words "bari" (meaning "rose") and "tai" (meaning "day"). |
-| 20 | [海未ちゃん](http://twitter.com/search?q=%e6%b5%b7%e6%9c%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [村雨さん](http://twitter.com/search?q=%e6%9d%91%e9%9b%a8%e3%81%95%e3%82%93) | N/A |
-| 22 | [平賀源内](http://twitter.com/search?q=%e5%b9%b3%e8%b3%80%e6%ba%90%e5%86%85) | N/A |
-| 23 | [PARODY](http://twitter.com/search?q=PARODY) | N/A |
-| 24 | [じさんじ元2期生](http://twitter.com/search?q=%e3%81%98%e3%81%95%e3%82%93%e3%81%98%e5%85%832%e6%9c%9f%e7%94%9f) | N/A |
-| 25 | [クリスタ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf) | N/A |
-| 26 | [オリジナルMV](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%abMV) | N/A |
-| 27 | [鈴木杏ちゃん](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [カリスマピクニック](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%9e%e3%83%94%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 29 | [俺と結婚](http://twitter.com/search?q=%e4%bf%ba%e3%81%a8%e7%b5%90%e5%a9%9a) | N/A |
-| 30 | [アポバンポ](http://twitter.com/search?q=%e3%82%a2%e3%83%9d%e3%83%90%e3%83%b3%e3%83%9d) | N/A |
-| 31 | [虎於誕生日](http://twitter.com/search?q=%e8%99%8e%e6%96%bc%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 32 | [鈴木杏さん](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e6%9d%8f%e3%81%95%e3%82%93) | N/A |
-| 33 | [第418回](http://twitter.com/search?q=%e7%ac%ac418%e5%9b%9e) | N/A |
-| 34 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
-| 35 | [ナムさん](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%81%95%e3%82%93) | N/A |
-| 36 | [デンニャン](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
-| 37 | [グクちゃん](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [グク大丈夫](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 39 | [虎於くん](http://twitter.com/search?q=%e8%99%8e%e6%96%bc%e3%81%8f%e3%82%93) | N/A |
-| 40 | [送信取り消し](http://twitter.com/search?q=%e9%80%81%e4%bf%a1%e5%8f%96%e3%82%8a%e6%b6%88%e3%81%97) | N/A |
-| 41 | [田沼意次](http://twitter.com/search?q=%e7%94%b0%e6%b2%bc%e6%84%8f%e6%ac%a1) | N/A |
-| 42 | [ぐぅちゃん](http://twitter.com/search?q=%e3%81%90%e3%81%85%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [こよちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [根源的恐怖](http://twitter.com/search?q=%e6%a0%b9%e6%ba%90%e7%9a%84%e6%81%90%e6%80%96) | N/A |
-| 45 | [世界史界隈](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e5%8f%b2%e7%95%8c%e9%9a%88) | N/A |
-| 46 | [カシスウーロン](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%82%b9%e3%82%a6%e3%83%bc%e3%83%ad%e3%83%b3) | N/A |
-| 47 | [白シャツ](http://twitter.com/search?q=%e7%99%bd%e3%82%b7%e3%83%a3%e3%83%84) | N/A |
-| 48 | [あぽばんぽ](http://twitter.com/search?q=%e3%81%82%e3%81%bd%e3%81%b0%e3%82%93%e3%81%bd) | N/A |
-| 49 | [ジヌさん](http://twitter.com/search?q=%e3%82%b8%e3%83%8c%e3%81%95%e3%82%93) | N/A |
-| 50 | [衣装チェンジ](http://twitter.com/search?q=%e8%a1%a3%e8%a3%85%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8) | N/A |
+| 10 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
+| 11 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
+| 12 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
+| 13 | [#園田海未生誕祭2023](http://twitter.com/search?q=%23%e5%9c%92%e7%94%b0%e6%b5%b7%e6%9c%aa%e7%94%9f%e8%aa%95%e7%a5%ad2023) | N/A |
+| 14 | [#マリン船長のスペース](http://twitter.com/search?q=%23%e3%83%9e%e3%83%aa%e3%83%b3%e8%88%b9%e9%95%b7%e3%81%ae%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9) | N/A |
+| 15 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 16 | [海未ちゃん](http://twitter.com/search?q=%e6%b5%b7%e6%9c%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [カリスマピクニック](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%9e%e3%83%94%e3%82%af%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 18 | [Blessing](http://twitter.com/search?q=Blessing) | N/A |
+| 19 | [クラムボン](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%a0%e3%83%9c%e3%83%b3) | N/A |
+| 20 | [彗星の空](http://twitter.com/search?q=%e5%bd%97%e6%98%9f%e3%81%ae%e7%a9%ba) | N/A |
+| 21 | [根源的恐怖](http://twitter.com/search?q=%e6%a0%b9%e6%ba%90%e7%9a%84%e6%81%90%e6%80%96) | N/A |
+| 22 | [第418回](http://twitter.com/search?q=%e7%ac%ac418%e5%9b%9e) | N/A |
+| 23 | [星5確定](http://twitter.com/search?q=%e6%98%9f5%e7%a2%ba%e5%ae%9a) | N/A |
+| 24 | [バレンタイン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | バレンタイン (Barentain) is a Japanese holiday celebrated on February 14th. It is similar to Valentine's Day in the West, where people exchange gifts and cards to show their love and appreciation for one another. The name comes from the combination of the words "bari" (meaning "rose") and "tai" (meaning "day"). |
+| 25 | [セミのモノマネ](http://twitter.com/search?q=%e3%82%bb%e3%83%9f%e3%81%ae%e3%83%a2%e3%83%8e%e3%83%9e%e3%83%8d) | N/A |
+| 26 | [シーズン2](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b32) | シーズン2 is the second season of a television show, anime, or other series. In English, it translates to "Season 2". |
+| 27 | [村雨さん](http://twitter.com/search?q=%e6%9d%91%e9%9b%a8%e3%81%95%e3%82%93) | N/A |
+| 28 | [PARODY](http://twitter.com/search?q=PARODY) | N/A |
+| 29 | [平賀源内](http://twitter.com/search?q=%e5%b9%b3%e8%b3%80%e6%ba%90%e5%86%85) | N/A |
+| 30 | [虎於くん](http://twitter.com/search?q=%e8%99%8e%e6%96%bc%e3%81%8f%e3%82%93) | N/A |
+| 31 | [クリスタ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf) | N/A |
+| 32 | [虎於誕生日](http://twitter.com/search?q=%e8%99%8e%e6%96%bc%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 33 | [じさんじ元2期生](http://twitter.com/search?q=%e3%81%98%e3%81%95%e3%82%93%e3%81%98%e5%85%832%e6%9c%9f%e7%94%9f) | N/A |
+| 34 | [アサちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%b5%e3%81%a1%e3%82%83%e3%82%93) | アサちゃん is a nickname for the Japanese character Asahi, who is a popular mascot for the Asahi Soft Drinks company. The name translates to "Asahi-chan" in English. |
+| 35 | [ニセさん](http://twitter.com/search?q=%e3%83%8b%e3%82%bb%e3%81%95%e3%82%93) | ニセさん is a Japanese term that literally translates to "fake person". It is used to refer to someone who pretends to be someone else, or who acts in a way that is not genuine. |
+| 36 | [アポバンポ](http://twitter.com/search?q=%e3%82%a2%e3%83%9d%e3%83%90%e3%83%b3%e3%83%9d) | N/A |
+| 37 | [藤本タツ](http://twitter.com/search?q=%e8%97%a4%e6%9c%ac%e3%82%bf%e3%83%84) | 藤本タツ is a Japanese surname. In English, it can be translated as Fujimoto Tatsu. |
+| 38 | [Basic](http://twitter.com/search?q=Basic) | N/A |
+| 39 | [ポイギャン](http://twitter.com/search?q=%e3%83%9d%e3%82%a4%e3%82%ae%e3%83%a3%e3%83%b3) | N/A |
+| 40 | [こよちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [ジヌさん](http://twitter.com/search?q=%e3%82%b8%e3%83%8c%e3%81%95%e3%82%93) | N/A |
+| 42 | [オリジナルMV](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%abMV) | N/A |
+| 43 | [いちごちゃん](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [グク大丈夫](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 45 | [俺と結婚](http://twitter.com/search?q=%e4%bf%ba%e3%81%a8%e7%b5%90%e5%a9%9a) | N/A |
+| 46 | [喜矢武さん](http://twitter.com/search?q=%e5%96%9c%e7%9f%a2%e6%ad%a6%e3%81%95%e3%82%93) | N/A |
+| 47 | [鈴木杏ちゃん](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [ランララ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%a9%e3%83%a9) | N/A |
+| 49 | [Wordle 634](http://twitter.com/search?q=Wordle+634) | N/A |
+| 50 | [相席食堂](http://twitter.com/search?q=%e7%9b%b8%e5%b8%ad%e9%a3%9f%e5%a0%82) | N/A |
 
 
 

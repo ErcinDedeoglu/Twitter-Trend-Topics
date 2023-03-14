@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-14 15:16:32 UTC`
+📆 Last Updated: `2023-03-14 16:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 3 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
-| 4 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 5 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 6 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 7 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 2 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 3 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
+| 6 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 7 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
 | 8 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
-| 9 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 10 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 11 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
-| 12 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 13 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 14 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
-| 15 | [#BritishScienceWeek2023](http://twitter.com/search?q=%23BritishScienceWeek2023) | N/A |
-| 16 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
-| 17 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 18 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
-| 19 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 20 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 21 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
-| 22 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
-| 23 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
-| 24 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
-| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
-| 27 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 28 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 29 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
-| 30 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 31 | [Greg Taylor](http://twitter.com/search?q=Greg+Taylor) | Greg Taylor is a name, and it has no particular meaning in English. |
-| 32 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
-| 33 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 34 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
-| 35 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 36 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 37 | [guildford](http://twitter.com/search?q=guildford) | N/A |
-| 38 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 39 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
-| 40 | [Happy 90th](http://twitter.com/search?q=Happy+90th) | N/A |
-| 41 | [Captain Birdseye](http://twitter.com/search?q=Captain+Birdseye) | N/A |
-| 42 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 43 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 44 | [Shopping Spree](http://twitter.com/search?q=Shopping+Spree) | N/A |
-| 45 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 46 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
-| 47 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
+| 9 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 10 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 11 | [#ScienceWeek](http://twitter.com/search?q=%23ScienceWeek) | N/A |
+| 12 | [#CelebsAndTheirSuperpowers](http://twitter.com/search?q=%23CelebsAndTheirSuperpowers) | N/A |
+| 13 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
+| 14 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 15 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 16 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 17 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 18 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 19 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
+| 20 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 21 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
+| 22 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 23 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 24 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
+| 25 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 26 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
+| 27 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 28 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 31 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
+| 32 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
+| 33 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
+| 34 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
+| 35 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 36 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 37 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
+| 38 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
+| 39 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 40 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 41 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 42 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 43 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
+| 44 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 45 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
+| 46 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 47 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-14 15:17:09 UTC`
+📆 Last Updated: `2023-03-14 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 4 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 2 | [#mawx](http://twitter.com/search?q=%23mawx) | N/A |
+| 3 | [Worcester](http://twitter.com/search?q=Worcester) | N/A |
+| 4 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 7 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 6 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 7 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
 | 8 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 10 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 11 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 12 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 13 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 14 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 9 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 10 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 11 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 12 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 13 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 14 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
 | 15 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 18 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 19 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
-| 20 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 21 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
-| 22 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 23 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Las Vegas Patriots](http://twitter.com/search?q=Las+Vegas+Patriots) | N/A |
-| 26 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
-| 27 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
-| 28 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 30 | [Dono](http://twitter.com/search?q=Dono) | N/A |
-| 31 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 32 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 33 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 34 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 35 | [Krabs](http://twitter.com/search?q=Krabs) | N/A |
-| 36 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
-| 37 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 38 | [JJ Starling](http://twitter.com/search?q=JJ+Starling) | N/A |
-| 39 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
-| 40 | [USGA](http://twitter.com/search?q=USGA) | N/A |
-| 41 | [Howell](http://twitter.com/search?q=Howell) | Howell is a surname of English origin. It is derived from the Old English personal name "Hugh" and the Old English word "halh", meaning "nook" or "small valley". The name can also be found in Scotland, where it is derived from the Gaelic personal name "Uallas". |
-| 42 | [Tyler Perry](http://twitter.com/search?q=Tyler+Perry) | N/A |
-| 43 | [Shaq Mason](http://twitter.com/search?q=Shaq+Mason) | N/A |
-| 44 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 45 | [Hollins](http://twitter.com/search?q=Hollins) | N/A |
-| 46 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 47 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 48 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 49 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 50 | [Pecan](http://twitter.com/search?q=Pecan) | N/A |
+| 16 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 17 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
+| 18 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 19 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 20 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 21 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 22 | [51% of Americans](http://twitter.com/search?q=51%25+of+Americans) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 25 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 26 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 28 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
+| 29 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 30 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 31 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 34 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 35 | [Greg Jennings](http://twitter.com/search?q=Greg+Jennings) | N/A |
+| 36 | [PS5 Pro](http://twitter.com/search?q=PS5+Pro) | N/A |
+| 37 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 38 | [Mostert](http://twitter.com/search?q=Mostert) | Mostert is a Dutch surname derived from the word "mostaard," which means "mustard." It is also a South African surname, and can be found in other countries as well. The English translation of Mostert is "Mustard." |
+| 39 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
+| 40 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 41 | [Noah Brown](http://twitter.com/search?q=Noah+Brown) | Noah Brown is a name, most likely of a person. It does not have any particular meaning in English. |
+| 42 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 43 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 44 | [Donovan Wilson](http://twitter.com/search?q=Donovan+Wilson) | N/A |
+| 45 | [Nike app](http://twitter.com/search?q=Nike+app) | N/A |
+| 46 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 47 | [Key Lime](http://twitter.com/search?q=Key+Lime) | N/A |
+| 48 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 49 | [Donald Driver](http://twitter.com/search?q=Donald+Driver) | N/A |
+| 50 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
 
 
 

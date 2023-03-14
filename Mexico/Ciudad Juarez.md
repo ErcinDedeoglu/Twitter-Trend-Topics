@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-14 15:16:33 UTC`
+📆 Last Updated: `2023-03-14 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,43 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [#KornoSeco](http://twitter.com/search?q=%23KornoSeco) | N/A |
-| 4 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 7 | [Guillermo Del Toro](http://twitter.com/search?q=Guillermo+Del+Toro) | N/A |
-| 8 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
-| 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 10 | [siempre con heliud](http://twitter.com/search?q=siempre+con+heliud) | N/A |
-| 11 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
-| 12 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 13 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 14 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 15 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 16 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 17 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 18 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 20 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 21 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 22 | [IMSS Bienestar](http://twitter.com/search?q=IMSS+Bienestar) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 25 | [Stephen Hawking](http://twitter.com/search?q=Stephen+Hawking) | N/A |
-| 26 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 27 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 28 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 29 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 30 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 31 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 32 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 33 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 34 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 35 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
-| 36 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 38 | [Soyoon](http://twitter.com/search?q=Soyoon) | N/A |
-| 39 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 40 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 41 | [Huele](http://twitter.com/search?q=Huele) | N/A |
-| 42 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 43 | [Patán](http://twitter.com/search?q=Pat%c3%a1n) | N/A |
-| 44 | [tuzas](http://twitter.com/search?q=tuzas) | N/A |
-| 45 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
-| 46 | [dormilon dorado](http://twitter.com/search?q=dormilon+dorado) | N/A |
-| 47 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 48 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 2 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
+| 3 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [#KornoSeco](http://twitter.com/search?q=%23KornoSeco) | N/A |
+| 6 | [Alejandro Zendejas](http://twitter.com/search?q=Alejandro+Zendejas) | N/A |
+| 7 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Stephen Hawking](http://twitter.com/search?q=Stephen+Hawking) | N/A |
+| 10 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
+| 11 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 12 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 13 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 14 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 15 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 17 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 18 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 19 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 20 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 21 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 22 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 23 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 24 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
+| 25 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 26 | [#PoderosoChoncho](http://twitter.com/search?q=%23PoderosoChoncho) | N/A |
+| 27 | [#setmefree_mvteaser1](http://twitter.com/search?q=%23setmefree_mvteaser1) | N/A |
+| 28 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 29 | [#EntretenimientoMañanero](http://twitter.com/search?q=%23EntretenimientoMa%c3%b1anero) | N/A |
+| 30 | [#CosasQueNoSirvenParaNada](http://twitter.com/search?q=%23CosasQueNoSirvenParaNada) | N/A |
+| 31 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 32 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 33 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 34 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 35 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 36 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 37 | [#AmloFracasoPresidencial](http://twitter.com/search?q=%23AmloFracasoPresidencial) | N/A |
+| 38 | [#Monterrey](http://twitter.com/search?q=%23Monterrey) | N/A |
 
 
 
