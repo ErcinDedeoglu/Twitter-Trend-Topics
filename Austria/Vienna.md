@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-14 06:19:19 UTC`
+📆 Last Updated: `2023-03-14 07:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
 | 3 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 4 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 5 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 6 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
-| 7 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
-| 8 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 9 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 12 | [#landbauer](http://twitter.com/search?q=%23landbauer) | N/A |
-| 13 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 14 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 15 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 16 | [einlagen](http://twitter.com/search?q=einlagen) | N/A |
-| 17 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 4 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 5 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 6 | [#kaffeegang](http://twitter.com/search?q=%23kaffeegang) | N/A |
+| 7 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 8 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 9 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 10 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 11 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 12 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 13 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 14 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
+| 15 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 16 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 17 | [#Nehammer](http://twitter.com/search?q=%23Nehammer) | N/A |
+| 18 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
 | 19 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 20 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 21 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 22 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 23 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 24 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 25 | [Branchen](http://twitter.com/search?q=Branchen) | N/A |
-| 26 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 27 | [Linien](http://twitter.com/search?q=Linien) | N/A |
-| 28 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 29 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 30 | [Verständlich](http://twitter.com/search?q=Verst%c3%a4ndlich) | N/A |
-| 31 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 32 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 33 | [Panik](http://twitter.com/search?q=Panik) | N/A |
-| 34 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 36 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 37 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 38 | [Karli](http://twitter.com/search?q=Karli) | N/A |
-| 39 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 40 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 41 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 43 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 44 | [Richtungen](http://twitter.com/search?q=Richtungen) | N/A |
-| 45 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 46 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
-| 47 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 48 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 49 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 50 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 20 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 21 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 22 | [Modell](http://twitter.com/search?q=Modell) | N/A |
+| 23 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 24 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 25 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 26 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
+| 27 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 28 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 29 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 30 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 31 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 32 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 33 | [Reise](http://twitter.com/search?q=Reise) | N/A |
+| 34 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 35 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 36 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 37 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 38 | [Irrtum](http://twitter.com/search?q=Irrtum) | N/A |
+| 39 | [Karten](http://twitter.com/search?q=Karten) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
+| 42 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 43 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 44 | [Maschine](http://twitter.com/search?q=Maschine) | N/A |
+| 45 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 46 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 47 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 48 | [Ansatz](http://twitter.com/search?q=Ansatz) | N/A |
+| 49 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 50 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-14 06:19:35 UTC`
+📆 Last Updated: `2023-03-14 07:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Algeria](</Algeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 2 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 3 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 4 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 5 | [التمور الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 6 | [رييس اللجنه الاوروبيه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 7 | [السياسه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 8 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 9 | [الممثل السامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 10 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 11 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
-| 12 | [الاموال المهربه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%87%d8%b1%d8%a8%d9%87) | N/A |
-| 13 | [جوزيب بوريل](http://twitter.com/search?q=%d8%ac%d9%88%d8%b2%d9%8a%d8%a8+%d8%a8%d9%88%d8%b1%d9%8a%d9%84) | N/A |
-| 14 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 15 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
-| 16 | [حزب العداله](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a8+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 17 | [بن سبعيني](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b3%d8%a8%d8%b9%d9%8a%d9%86%d9%8a) | N/A |
-| 18 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
-| 19 | [الحمايه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 21 | [الحبس الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
-| 22 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 23 | [#ONEPIECE1078](http://twitter.com/search?q=%23ONEPIECE1078) | N/A |
-| 24 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 25 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 26 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 27 | [13 مارس 2023](http://twitter.com/search?q=13+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 28 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 29 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 30 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 31 | [عدم الانحياز](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d9%8a%d8%a7%d8%b2) | N/A |
-| 32 | [بدر الدين](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 33 | [الرييس الاوغندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%88%d8%ba%d9%86%d8%af%d9%8a) | N/A |
-| 34 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 35 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 36 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 37 | [امير المدمنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 38 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 39 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 40 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 41 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 42 | [الشيخ الدكتور](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
-| 43 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
-| 44 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 45 | [بلادهم](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af%d9%87%d9%85) | N/A |
-| 46 | [إنجلترا](http://twitter.com/search?q=%d8%a5%d9%86%d8%ac%d9%84%d8%aa%d8%b1%d8%a7) | N/A |
-| 47 | [هواري بومدين](http://twitter.com/search?q=%d9%87%d9%88%d8%a7%d8%b1%d9%8a+%d8%a8%d9%88%d9%85%d8%af%d9%8a%d9%86) | N/A |
-| 48 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 49 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 50 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 2 | [التمور الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 3 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 6 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
+| 7 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 8 | [الممثل السامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 9 | [بيلباو](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%a8%d8%a7%d9%88) | N/A |
+| 10 | [السياسه الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 11 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 12 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 13 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 14 | [#ONEPIECE1078](http://twitter.com/search?q=%23ONEPIECE1078) | N/A |
+| 15 | [Oran](http://twitter.com/search?q=Oran) | N/A |
+| 16 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 17 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 18 | [#اوغندا](http://twitter.com/search?q=%23%d8%a7%d9%88%d8%ba%d9%86%d8%af%d8%a7) | N/A |
+| 19 | [صالح الفوزان](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%81%d9%88%d8%b2%d8%a7%d9%86) | N/A |
+| 20 | [المره الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 21 | [الحسن الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 23 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 24 | [الجزاير العاصمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 25 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 26 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 27 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 28 | [Amine](http://twitter.com/search?q=Amine) | N/A |
+| 29 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 30 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 31 | [الشعب المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
+| 32 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 33 | [عدم الانحياز](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d9%8a%d8%a7%d8%b2) | N/A |
+| 34 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 35 | [ابن عثيمين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d8%ab%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 36 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 37 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 38 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 39 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 40 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 41 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 42 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 43 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 44 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 45 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 48 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 49 | [العبيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%8a%d8%af) | N/A |
+| 50 | [هواري بومدين](http://twitter.com/search?q=%d9%87%d9%88%d8%a7%d8%b1%d9%8a+%d8%a8%d9%88%d9%85%d8%af%d9%8a%d9%86) | N/A |
 
 
 

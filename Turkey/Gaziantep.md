@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-14 06:19:45 UTC`
+📆 Last Updated: `2023-03-14 07:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,36 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
 | 2 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 3 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
-| 4 | [#YüzBinYoksaOyMoyYok](http://twitter.com/search?q=%23Y%c3%bczBinYoksaOyMoyYok) | N/A |
-| 5 | [asistnhekimlrenkazaltnda](http://twitter.com/search?q=asistnhekimlrenkazaltnda) | N/A |
-| 6 | [enuygunfiyatta tthizmeti](http://twitter.com/search?q=enuygunfiyatta+tthizmeti) | N/A |
-| 7 | [Hizbullah](http://twitter.com/search?q=Hizbullah) | N/A |
-| 8 | [profilebakanı görmekk](http://twitter.com/search?q=profilebakan%c4%b1+g%c3%b6rmekk) | N/A |
-| 9 | [Hüdapar](http://twitter.com/search?q=H%c3%bcdapar) | N/A |
-| 10 | [Birlikte Aşıyoruz](http://twitter.com/search?q=Birlikte+A%c5%9f%c4%b1yoruz) | N/A |
-| 11 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
-| 12 | [devletimiz kaldı](http://twitter.com/search?q=devletimiz+kald%c4%b1) | N/A |
-| 13 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 14 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 15 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 16 | [KILIÇDAROĞLUNA OY YOK](http://twitter.com/search?q=KILI%c3%87DARO%c4%9eLUNA+OY+YOK) | N/A |
-| 17 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 18 | [hüseyin yüksek](http://twitter.com/search?q=h%c3%bcseyin+y%c3%bcksek) | N/A |
-| 19 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
-| 20 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 21 | [ömer faruk başaran](http://twitter.com/search?q=%c3%b6mer+faruk+ba%c5%9faran) | N/A |
-| 22 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 23 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 24 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 25 | [profilimizee bakanlar](http://twitter.com/search?q=profilimizee+bakanlar) | N/A |
-| 26 | [profile bakanıgörüyorumm](http://twitter.com/search?q=profile+bakan%c4%b1g%c3%b6r%c3%bcyorumm) | N/A |
-| 27 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 28 | [seninleyiz cansu](http://twitter.com/search?q=seninleyiz+cansu) | N/A |
-| 29 | [haber odak](http://twitter.com/search?q=haber+odak) | N/A |
-| 30 | [büyükbirader burada](http://twitter.com/search?q=b%c3%bcy%c3%bckbirader+burada) | N/A |
-| 31 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 32 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 33 | [cbkemalziraate15bin](http://twitter.com/search?q=cbkemalziraate15bin) | N/A |
-| 34 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 35 | [Mareşal](http://twitter.com/search?q=Mare%c5%9fal) | N/A |
-| 36 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 37 | [profilime kimbakıyo](http://twitter.com/search?q=profilime+kimbak%c4%b1yo) | N/A |
-| 38 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 39 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 40 | [tayyip dede](http://twitter.com/search?q=tayyip+dede) | N/A |
-| 41 | [Tüm Sağlık](http://twitter.com/search?q=T%c3%bcm+Sa%c4%9fl%c4%b1k) | N/A |
-| 42 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 43 | [başi boş masa](http://twitter.com/search?q=ba%c5%9fi+bo%c5%9f+masa) | N/A |
-| 44 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
-| 45 | [zihin yaşı testi](http://twitter.com/search?q=zihin+ya%c5%9f%c4%b1+testi) | N/A |
-| 46 | [Benim Kelime Dağarcık Puanım](http://twitter.com/search?q=Benim+Kelime+Da%c4%9farc%c4%b1k+Puan%c4%b1m) | N/A |
-| 47 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 48 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 49 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 3 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 4 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
+| 5 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
+| 6 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 7 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 8 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 9 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 10 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 11 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
+| 12 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 13 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 14 | [Edip](http://twitter.com/search?q=Edip) | N/A |
+| 15 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 16 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 17 | [İşid](http://twitter.com/search?q=%c4%b0%c5%9fid) | N/A |
+| 18 | [#TeşekkürlerErbakan](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerErbakan) | N/A |
+| 19 | [#StajyerTorbadanUmutlu](http://twitter.com/search?q=%23StajyerTorbadanUmutlu) | N/A |
+| 20 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
+| 21 | [#SALI](http://twitter.com/search?q=%23SALI) | N/A |
+| 22 | [#sağlık](http://twitter.com/search?q=%23sa%c4%9fl%c4%b1k) | N/A |
+| 23 | [#doktor](http://twitter.com/search?q=%23doktor) | N/A |
+| 24 | [#5000veKısmiGecikmesin](http://twitter.com/search?q=%235000veK%c4%b1smiGecikmesin) | N/A |
+| 25 | [#İhtiyacımızVar](http://twitter.com/search?q=%23%c4%b0htiyac%c4%b1m%c4%b1zVar) | N/A |
+| 26 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 27 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
+| 28 | [#odas](http://twitter.com/search?q=%23odas) | N/A |
+| 29 | [#ABOsuzYoksulKalırız](http://twitter.com/search?q=%23ABOsuzYoksulKal%c4%b1r%c4%b1z) | N/A |
+| 30 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 31 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 32 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
 
 
 

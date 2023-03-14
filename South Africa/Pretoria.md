@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-14 06:19:37 UTC`
+📆 Last Updated: `2023-03-14 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
 | 2 | [#40YearsOfCTM](http://twitter.com/search?q=%2340YearsOfCTM) | N/A |
-| 3 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
-| 4 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 5 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 6 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 7 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
-| 8 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 3 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
+| 4 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 5 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
+| 6 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 7 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 8 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
 | 9 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
 | 10 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 11 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 12 | [The IEC](http://twitter.com/search?q=The+IEC) | N/A |
-| 13 | [Dondol](http://twitter.com/search?q=Dondol) | N/A |
-| 14 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
-| 15 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
-| 16 | [Tbo Touch](http://twitter.com/search?q=Tbo+Touch) | N/A |
-| 17 | [melita](http://twitter.com/search?q=melita) | N/A |
-| 18 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 19 | [nana and justin](http://twitter.com/search?q=nana+and+justin) | N/A |
-| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 21 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 22 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
-| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 24 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 25 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 26 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 27 | [Airtime](http://twitter.com/search?q=Airtime) | N/A |
-| 28 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
-| 29 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 30 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 31 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 32 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 33 | [Zille](http://twitter.com/search?q=Zille) | N/A |
-| 34 | [Thuso](http://twitter.com/search?q=Thuso) | N/A |
+| 11 | [JUICY JAY X SUPERSPORT PHAKA](http://twitter.com/search?q=JUICY+JAY+X+SUPERSPORT+PHAKA) | N/A |
+| 12 | [Tbo Touch](http://twitter.com/search?q=Tbo+Touch) | N/A |
+| 13 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
+| 14 | [melita](http://twitter.com/search?q=melita) | N/A |
+| 15 | [nana and justin](http://twitter.com/search?q=nana+and+justin) | N/A |
+| 16 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 17 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 18 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 19 | [The IEC](http://twitter.com/search?q=The+IEC) | N/A |
+| 20 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
+| 21 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
+| 22 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
+| 23 | [Shower](http://twitter.com/search?q=Shower) | N/A |
+| 24 | [congratulations ebubu](http://twitter.com/search?q=congratulations+ebubu) | N/A |
+| 25 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 26 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 27 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
+| 28 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 29 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 30 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 31 | [congratulations blaqboi](http://twitter.com/search?q=congratulations+blaqboi) | N/A |
+| 32 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 33 | [Zimbos](http://twitter.com/search?q=Zimbos) | N/A |
+| 34 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
 | 35 | [Kairo](http://twitter.com/search?q=Kairo) | N/A |
-| 36 | [Maduka](http://twitter.com/search?q=Maduka) | N/A |
-| 37 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
-| 40 | [12 Windmills](http://twitter.com/search?q=12+Windmills) | N/A |
-| 41 | [Vusi](http://twitter.com/search?q=Vusi) | N/A |
-| 42 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 43 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 44 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 45 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 46 | [honeydew](http://twitter.com/search?q=honeydew) | N/A |
-| 47 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 48 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 49 | [Christo De Jager](http://twitter.com/search?q=Christo+De+Jager) | N/A |
-| 50 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 36 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 37 | [Maduka](http://twitter.com/search?q=Maduka) | N/A |
+| 38 | [Thuso](http://twitter.com/search?q=Thuso) | N/A |
+| 39 | [Zille](http://twitter.com/search?q=Zille) | N/A |
+| 40 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 41 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 44 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 45 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 46 | [Blue Diamonds](http://twitter.com/search?q=Blue+Diamonds) | N/A |
+| 47 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 48 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 49 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 50 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 
 
 

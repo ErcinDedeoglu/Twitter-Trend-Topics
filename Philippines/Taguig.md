@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-14 06:19:33 UTC`
+📆 Last Updated: `2023-03-14 07:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
 | 6 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
 | 7 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 8 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 8 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
 | 9 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
 | 10 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 11 | [Paji](http://twitter.com/search?q=Paji) | N/A |
-| 12 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
-| 13 | [Percy Lapid](http://twitter.com/search?q=Percy+Lapid) | N/A |
-| 14 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 15 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 16 | [Jun Villamor](http://twitter.com/search?q=Jun+Villamor) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [joshcullen in the dark](http://twitter.com/search?q=joshcullen+in+the+dark) | N/A |
-| 19 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 20 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
-| 21 | [kai comeback d-day](http://twitter.com/search?q=kai+comeback+d-day) | N/A |
-| 22 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 23 | [Gerald Bantag](http://twitter.com/search?q=Gerald+Bantag) | N/A |
-| 24 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
-| 25 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 26 | [BOBBY SiR CONCEPT PHOTO](http://twitter.com/search?q=BOBBY+SiR+CONCEPT+PHOTO) | N/A |
-| 27 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
-| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 29 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
-| 30 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 31 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 32 | [dreim pick](http://twitter.com/search?q=dreim+pick) | N/A |
-| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 34 | [jompie kamusta ka na](http://twitter.com/search?q=jompie+kamusta+ka+na) | N/A |
-| 35 | [kodrea tc blue carpet](http://twitter.com/search?q=kodrea+tc+blue+carpet) | N/A |
-| 36 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 37 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 11 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 12 | [Percy Lapid](http://twitter.com/search?q=Percy+Lapid) | N/A |
+| 13 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 14 | [Jun Villamor](http://twitter.com/search?q=Jun+Villamor) | N/A |
+| 15 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 16 | [Gerald Bantag](http://twitter.com/search?q=Gerald+Bantag) | N/A |
+| 17 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
+| 18 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 19 | [kai comeback d-day](http://twitter.com/search?q=kai+comeback+d-day) | N/A |
+| 20 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
+| 21 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 22 | [Paji](http://twitter.com/search?q=Paji) | N/A |
+| 23 | [LALISA NINETY MILLION](http://twitter.com/search?q=LALISA+NINETY+MILLION) | N/A |
+| 24 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 25 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
+| 26 | [TNTHuradoDARREN-D9](http://twitter.com/search?q=TNTHuradoDARREN-D9) | N/A |
+| 27 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 28 | [Bang Chan](http://twitter.com/search?q=Bang+Chan) | N/A |
+| 29 | [BOBBY SiR CONCEPT PHOTO](http://twitter.com/search?q=BOBBY+SiR+CONCEPT+PHOTO) | N/A |
+| 30 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 31 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 32 | [MAGNET MV 1M VIEWS](http://twitter.com/search?q=MAGNET+MV+1M+VIEWS) | N/A |
+| 33 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
+| 34 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 35 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 36 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 37 | [Lynette](http://twitter.com/search?q=Lynette) | N/A |
 | 38 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 39 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 40 | [Maritime Industry Authority](http://twitter.com/search?q=Maritime+Industry+Authority) | N/A |
-| 41 | [Vhong Navarro](http://twitter.com/search?q=Vhong+Navarro) | N/A |
-| 42 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 43 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 44 | [MT Princess Empress](http://twitter.com/search?q=MT+Princess+Empress) | N/A |
-| 45 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 46 | [MAGNET MV 1M VIEWS](http://twitter.com/search?q=MAGNET+MV+1M+VIEWS) | N/A |
-| 47 | [janenella move the glass](http://twitter.com/search?q=janenella+move+the+glass) | N/A |
-| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 49 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 40 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 41 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 42 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 43 | [Vhong Navarro](http://twitter.com/search?q=Vhong+Navarro) | N/A |
+| 44 | [Maritime Industry Authority](http://twitter.com/search?q=Maritime+Industry+Authority) | N/A |
+| 45 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 46 | [Sarah Geronimo](http://twitter.com/search?q=Sarah+Geronimo) | N/A |
+| 47 | [Itto](http://twitter.com/search?q=Itto) | N/A |
+| 48 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 49 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
 
 
 

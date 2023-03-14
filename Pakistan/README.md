@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-14 06:19:59 UTC`
+📆 Last Updated: `2023-03-14 07:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Pakistan
 | 2 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
 | 3 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
 | 4 | [#اوپئی_آزادی_دی_جنگ](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%be%d8%a6%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%af%db%8c_%d8%ac%d9%86%da%af) | N/A |
-| 5 | [#ننھی_مُنی_ریلی](http://twitter.com/search?q=%23%d9%86%d9%86%da%be%db%8c_%d9%85%d9%8f%d9%86%db%8c_%d8%b1%db%8c%d9%84%db%8c) | N/A |
+| 5 | [#ٹوچہ_خانہ_چور_نسل](http://twitter.com/search?q=%23%d9%b9%d9%88%da%86%db%81_%d8%ae%d8%a7%d9%86%db%81_%da%86%d9%88%d8%b1_%d9%86%d8%b3%d9%84) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 7 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 8 | [shoaib sheikh](http://twitter.com/search?q=shoaib+sheikh) | N/A |
-| 9 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 10 | [Zahir Jaffer](http://twitter.com/search?q=Zahir+Jaffer) | N/A |
-| 11 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 12 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 13 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 14 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
-| 15 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 8 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 9 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
+| 10 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
+| 11 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 12 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 13 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 14 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 15 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
 | 16 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
-| 17 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
-| 18 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 19 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 20 | [fifa 2022 rights](http://twitter.com/search?q=fifa+2022+rights) | N/A |
-| 21 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 22 | [Prime Minister of Pakistan](http://twitter.com/search?q=Prime+Minister+of+Pakistan) | N/A |
-| 23 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 24 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
-| 25 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
-| 26 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 27 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 28 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 29 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
-| 30 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 31 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 32 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 33 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 34 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 17 | [cabinet division](http://twitter.com/search?q=cabinet+division) | N/A |
+| 18 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 19 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
+| 20 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 21 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 22 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
+| 23 | [Maryam Nawaz sharif](http://twitter.com/search?q=Maryam+Nawaz+sharif) | N/A |
+| 24 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 25 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 27 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 28 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 29 | [KE Live](http://twitter.com/search?q=KE+Live) | N/A |
+| 30 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 31 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
+| 32 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 34 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
 | 35 | [Upwork](http://twitter.com/search?q=Upwork) | N/A |
 | 36 | [Mazay](http://twitter.com/search?q=Mazay) | N/A |
-| 37 | [Superb](http://twitter.com/search?q=Superb) | N/A |
-| 38 | [Weldon](http://twitter.com/search?q=Weldon) | N/A |
-| 39 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 40 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 41 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
-| 42 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 43 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 44 | [Rehman](http://twitter.com/search?q=Rehman) | N/A |
-| 45 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 46 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 47 | [Noon](http://twitter.com/search?q=Noon) | N/A |
-| 48 | [Dear Sir](http://twitter.com/search?q=Dear+Sir) | N/A |
-| 49 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 50 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 37 | [Weldon](http://twitter.com/search?q=Weldon) | N/A |
+| 38 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
+| 39 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 40 | [Azam](http://twitter.com/search?q=Azam) | N/A |
+| 41 | [Rehman](http://twitter.com/search?q=Rehman) | N/A |
+| 42 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 43 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 44 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
+| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 46 | [President](http://twitter.com/search?q=President) | N/A |
+| 47 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 48 | [Superb](http://twitter.com/search?q=Superb) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [Salam](http://twitter.com/search?q=Salam) | N/A |
 
 
 
