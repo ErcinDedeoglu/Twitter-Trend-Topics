@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-14 07:16:44 UTC`
+📆 Last Updated: `2023-03-14 08:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,34 +19,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
 | 3 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
 | 4 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
-| 5 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 6 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 7 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 8 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 9 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 5 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 6 | [#StajyerTorbadanUmutlu](http://twitter.com/search?q=%23StajyerTorbadanUmutlu) | N/A |
+| 7 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 8 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 9 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
 | 10 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 11 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 12 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 13 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 14 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 15 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 16 | [İşid](http://twitter.com/search?q=%c4%b0%c5%9fid) | N/A |
-| 17 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
-| 18 | [#TeşekkürlerErbakan](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerErbakan) | N/A |
-| 19 | [#StajyerTorbadanUmutlu](http://twitter.com/search?q=%23StajyerTorbadanUmutlu) | N/A |
-| 20 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
-| 21 | [#SALI](http://twitter.com/search?q=%23SALI) | N/A |
-| 22 | [#sağlık](http://twitter.com/search?q=%23sa%c4%9fl%c4%b1k) | N/A |
-| 23 | [#doktor](http://twitter.com/search?q=%23doktor) | N/A |
-| 24 | [#5000veKısmiGecikmesin](http://twitter.com/search?q=%235000veK%c4%b1smiGecikmesin) | N/A |
-| 25 | [#İhtiyacımızVar](http://twitter.com/search?q=%23%c4%b0htiyac%c4%b1m%c4%b1zVar) | N/A |
-| 26 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 27 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
-| 28 | [#odas](http://twitter.com/search?q=%23odas) | N/A |
-| 29 | [#ABOsuzYoksulKalırız](http://twitter.com/search?q=%23ABOsuzYoksulKal%c4%b1r%c4%b1z) | N/A |
-| 30 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 31 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 32 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
+| 11 | [Kahramanmaraş'ta 4.7](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+4.7) | N/A |
+| 12 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 13 | [Hikmet Boran](http://twitter.com/search?q=Hikmet+Boran) | N/A |
+| 14 | [Varsınız](http://twitter.com/search?q=Vars%c4%b1n%c4%b1z) | N/A |
+| 15 | [Edip](http://twitter.com/search?q=Edip) | N/A |
+| 16 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 17 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 18 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 19 | [Alır](http://twitter.com/search?q=Al%c4%b1r) | N/A |
+| 20 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 21 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 22 | [Resmi Gazete](http://twitter.com/search?q=Resmi+Gazete) | N/A |
+| 23 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 25 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 26 | [Toplanan](http://twitter.com/search?q=Toplanan) | N/A |
+| 27 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
+| 28 | [#TeşekkürlerErbakan](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerErbakan) | N/A |
+| 29 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
+| 30 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
+| 31 | [#doktor](http://twitter.com/search?q=%23doktor) | N/A |
+| 32 | [#sağlık](http://twitter.com/search?q=%23sa%c4%9fl%c4%b1k) | N/A |
+| 33 | [#sigara](http://twitter.com/search?q=%23sigara) | N/A |
+| 34 | [#37GünGeçti](http://twitter.com/search?q=%2337G%c3%bcnGe%c3%a7ti) | N/A |
+| 35 | [#SALI](http://twitter.com/search?q=%23SALI) | N/A |
+| 36 | [#13üncüCBbayKemal](http://twitter.com/search?q=%2313%c3%bcnc%c3%bcCBbayKemal) | N/A |
+| 37 | [#5000veKısmiGecikmesin](http://twitter.com/search?q=%235000veK%c4%b1smiGecikmesin) | N/A |
+| 38 | [#İhtiyacımızVar](http://twitter.com/search?q=%23%c4%b0htiyac%c4%b1m%c4%b1zVar) | N/A |
+| 39 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
+| 40 | [#KarlMarx](http://twitter.com/search?q=%23KarlMarx) | N/A |
+| 41 | [#odas](http://twitter.com/search?q=%23odas) | N/A |
+| 42 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
+| 43 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 44 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
+| 45 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 46 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 47 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 48 | [#biletarıyorum](http://twitter.com/search?q=%23biletar%c4%b1yorum) | N/A |
+| 49 | [#BIMAS](http://twitter.com/search?q=%23BIMAS) | N/A |
 
 
 

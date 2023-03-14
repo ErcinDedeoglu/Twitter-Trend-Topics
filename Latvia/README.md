@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-14 07:16:57 UTC`
+📆 Last Updated: `2023-03-14 08:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,36 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 2 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
-| 3 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 4 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
-| 5 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 6 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 7 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 8 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
-| 9 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 10 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 1 | [#YUNARMY](http://twitter.com/search?q=%23YUNARMY) | N/A |
+| 2 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 3 | [Oskaru](http://twitter.com/search?q=Oskaru) | N/A |
+| 4 | [#TEIRDARBS](http://twitter.com/search?q=%23TEIRDARBS) | N/A |
+| 5 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 6 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
+| 7 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 8 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 9 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
+| 10 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 11 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
+| 12 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 13 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 14 | [latgales](http://twitter.com/search?q=latgales) | N/A |
+| 15 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 16 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 17 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 18 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 19 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
+| 20 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 21 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 22 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
+| 23 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 24 | [Tagad](http://twitter.com/search?q=Tagad) | N/A |
+| 25 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 26 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
+| 27 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
+| 28 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 29 | [Pieļauju](http://twitter.com/search?q=Pie%c4%bcauju) | N/A |
+| 30 | [Iespējams](http://twitter.com/search?q=Iesp%c4%93jams) | N/A |
 
 
 

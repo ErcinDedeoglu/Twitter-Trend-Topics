@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-14 07:16:22 UTC`
+📆 Last Updated: `2023-03-14 08:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 3 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 4 | [#FEYvol](http://twitter.com/search?q=%23FEYvol) | N/A |
-| 5 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
-| 6 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 7 | [#linksomofrechtsom](http://twitter.com/search?q=%23linksomofrechtsom) | N/A |
-| 8 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 9 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 10 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 11 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 12 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 13 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 14 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 15 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 16 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 17 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 2 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 3 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 4 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 6 | [#FEYvol](http://twitter.com/search?q=%23FEYvol) | N/A |
+| 7 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 8 | [Bouweis Brussel](http://twitter.com/search?q=Bouweis+Brussel) | N/A |
+| 9 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
+| 10 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 11 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 12 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 13 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 14 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 15 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 16 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
+| 17 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
 | 18 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 19 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 21 | [Attje](http://twitter.com/search?q=Attje) | N/A |
-| 22 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 24 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 25 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 26 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 27 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 28 | [bergwijn](http://twitter.com/search?q=bergwijn) | N/A |
-| 29 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
-| 30 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 31 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 32 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 33 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 34 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 35 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 36 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 37 | [Koen](http://twitter.com/search?q=Koen) | N/A |
-| 38 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [klassieker](http://twitter.com/search?q=klassieker) | N/A |
-| 41 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 43 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 45 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 46 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 47 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 48 | [mores](http://twitter.com/search?q=mores) | N/A |
-| 49 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 50 | [dilrosun](http://twitter.com/search?q=dilrosun) | N/A |
+| 19 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 20 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 21 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 22 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 23 | [Advies](http://twitter.com/search?q=Advies) | N/A |
+| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 25 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 26 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
+| 27 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 28 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 29 | [Spirituality](http://twitter.com/search?q=Spirituality) | N/A |
+| 30 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
+| 31 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 32 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 33 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 34 | [Knoepert](http://twitter.com/search?q=Knoepert) | N/A |
+| 35 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 36 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 37 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 38 | [Stavoren](http://twitter.com/search?q=Stavoren) | N/A |
+| 39 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 40 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 41 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 42 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 43 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 44 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
+| 45 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 46 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 47 | [Pinokkio](http://twitter.com/search?q=Pinokkio) | N/A |
+| 48 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 49 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
 
 
 

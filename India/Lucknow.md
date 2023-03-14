@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-14 07:16:41 UTC`
+📆 Last Updated: `2023-03-14 08:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
-| 2 | [#KejriwalTransformsDelhi](http://twitter.com/search?q=%23KejriwalTransformsDelhi) | N/A |
-| 3 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
-| 4 | [#JSP10thFormationDayMeet](http://twitter.com/search?q=%23JSP10thFormationDayMeet) | N/A |
-| 5 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
-| 6 | [#BhopalGasTragedy](http://twitter.com/search?q=%23BhopalGasTragedy) | N/A |
-| 7 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
-| 8 | [भोपाल गैस](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%97%e0%a5%88%e0%a4%b8) | N/A |
+| 1 | [#SafeRahoUPIKaro](http://twitter.com/search?q=%23SafeRahoUPIKaro) | N/A |
+| 2 | [#ठाण्यात_सरकारी_गुंडांचाराज](http://twitter.com/search?q=%23%e0%a4%a0%e0%a4%be%e0%a4%a3%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a4_%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80_%e0%a4%97%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 3 | [#KejriwalTransformsDelhi](http://twitter.com/search?q=%23KejriwalTransformsDelhi) | N/A |
+| 4 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
+| 5 | [वेद प्रताप वैदिक](http://twitter.com/search?q=%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa+%e0%a4%b5%e0%a5%88%e0%a4%a6%e0%a4%bf%e0%a4%95) | N/A |
+| 6 | [#JSP10thFormationDayMeet](http://twitter.com/search?q=%23JSP10thFormationDayMeet) | N/A |
+| 7 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
+| 8 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
 | 9 | [श्री राजपूत करणी सेना](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
-| 10 | [राजपूत समाज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 11 | [Ritu Parivartan](http://twitter.com/search?q=Ritu+Parivartan) | N/A |
-| 12 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
-| 13 | [Kaithi](http://twitter.com/search?q=Kaithi) | N/A |
-| 14 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 15 | [संजय राणा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
-| 16 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 17 | [मंत्री गुलाब देवी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ac+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 18 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 19 | [सुखी जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a5%80+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 20 | [क्षत्रिय समाज](http://twitter.com/search?q=%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 21 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 22 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 23 | [एड्स जैसी](http://twitter.com/search?q=%e0%a4%8f%e0%a4%a1%e0%a5%8d%e0%a4%b8+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
-| 24 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 25 | [नोबेल पुरस्कार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8b%e0%a4%ac%e0%a5%87%e0%a4%b2+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 27 | [पुण्य आत्मा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a3%e0%a5%8d%e0%a4%af+%e0%a4%86%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 28 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
-| 29 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
-| 30 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 31 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 32 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 33 | [Very Good Morning](http://twitter.com/search?q=Very+Good+Morning) | N/A |
-| 34 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 35 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
-| 36 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
-| 37 | [#FullyLoadedYou](http://twitter.com/search?q=%23FullyLoadedYou) | N/A |
-| 38 | [#AamirKhan](http://twitter.com/search?q=%23AamirKhan) | N/A |
-| 39 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
-| 40 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 41 | [#ModaniLoot](http://twitter.com/search?q=%23ModaniLoot) | N/A |
-| 42 | [#iQOOZ7](http://twitter.com/search?q=%23iQOOZ7) | N/A |
-| 43 | [#धारीवाल_माफ़ी_मांगें](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a4%bc%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%82) | N/A |
-| 44 | [#AlbertEinstein](http://twitter.com/search?q=%23AlbertEinstein) | N/A |
-| 45 | [#lokendrasinghkalvi](http://twitter.com/search?q=%23lokendrasinghkalvi) | N/A |
-| 46 | [#JanaSena10thformationday](http://twitter.com/search?q=%23JanaSena10thformationday) | N/A |
-| 47 | [#RRRWinsOscar](http://twitter.com/search?q=%23RRRWinsOscar) | N/A |
-| 48 | [#RohitShetty](http://twitter.com/search?q=%23RohitShetty) | N/A |
-| 49 | [#HealthCareAfterHoli](http://twitter.com/search?q=%23HealthCareAfterHoli) | N/A |
-| 50 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 10 | [भोपाल गैस](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%97%e0%a5%88%e0%a4%b8) | N/A |
+| 11 | [राजपूत समाज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 12 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 13 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
+| 14 | [पत्रकार संजय राणा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 15 | [Kaithi](http://twitter.com/search?q=Kaithi) | N/A |
+| 16 | [मंत्री गुलाब देवी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ac+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 17 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 18 | [क्षत्रिय समाज](http://twitter.com/search?q=%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 19 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 20 | [एड्स जैसी](http://twitter.com/search?q=%e0%a4%8f%e0%a4%a1%e0%a5%8d%e0%a4%b8+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
+| 21 | [Ritu Parivartan](http://twitter.com/search?q=Ritu+Parivartan) | N/A |
+| 22 | [नोबेल पुरस्कार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8b%e0%a4%ac%e0%a5%87%e0%a4%b2+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 23 | [सुखी जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a5%80+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 24 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 25 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 26 | [Sayema](http://twitter.com/search?q=Sayema) | N/A |
+| 27 | [शांति धारीवाल](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 28 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
+| 29 | [#112Haryana](http://twitter.com/search?q=%23112Haryana) | N/A |
+| 30 | [#FullyLoadedYou](http://twitter.com/search?q=%23FullyLoadedYou) | N/A |
+| 31 | [#AmazonSpecials](http://twitter.com/search?q=%23AmazonSpecials) | N/A |
+| 32 | [#HBDLokeshKanagaraj](http://twitter.com/search?q=%23HBDLokeshKanagaraj) | N/A |
+| 33 | [#BhopalGasTragedy](http://twitter.com/search?q=%23BhopalGasTragedy) | N/A |
+| 34 | [#iQOOZ7](http://twitter.com/search?q=%23iQOOZ7) | N/A |
+| 35 | [#AamirKhan](http://twitter.com/search?q=%23AamirKhan) | N/A |
+| 36 | [#VedPratapVaidik](http://twitter.com/search?q=%23VedPratapVaidik) | N/A |
+| 37 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 38 | [#JanaSena10thformationday](http://twitter.com/search?q=%23JanaSena10thformationday) | N/A |
+| 39 | [#धारीवाल_माफ़ी_मांगें](http://twitter.com/search?q=%23%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a4%bc%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%82) | N/A |
+| 40 | [#ModaniLoot](http://twitter.com/search?q=%23ModaniLoot) | N/A |
+| 41 | [#AlbertEinstein](http://twitter.com/search?q=%23AlbertEinstein) | N/A |
+| 42 | [#GandhadaGudi](http://twitter.com/search?q=%23GandhadaGudi) | N/A |
+| 43 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 44 | [#lokendrasinghkalvi](http://twitter.com/search?q=%23lokendrasinghkalvi) | N/A |
+| 45 | [#बूथ_विस्तारक_अभियान2](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%82%e0%a4%a5_%e0%a4%b5%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a4%95_%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a82) | N/A |
+| 46 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
+| 47 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 48 | [#HarshadArora](http://twitter.com/search?q=%23HarshadArora) | N/A |
+| 49 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
+| 50 | [#SurekhaYadav](http://twitter.com/search?q=%23SurekhaYadav) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-14 07:16:24 UTC`
+📆 Last Updated: `2023-03-14 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 3 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 4 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 5 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 6 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
-| 7 | [#myriampalombapedosataniste](http://twitter.com/search?q=%23myriampalombapedosataniste) | N/A |
-| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 9 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 10 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 11 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 12 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 16 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 17 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
-| 18 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 19 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 20 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
-| 21 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 22 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 23 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 24 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 26 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 27 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 1 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 3 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 4 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 5 | ["Rapier"](http://twitter.com/search?q=%22Rapier%22) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
+| 8 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 9 | [Runde](http://twitter.com/search?q=Runde) | N/A |
+| 10 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 11 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 12 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 13 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
+| 14 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 15 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 16 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 17 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 18 | [bundesplatz](http://twitter.com/search?q=bundesplatz) | N/A |
+| 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 20 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 21 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 22 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 24 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 25 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 26 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 27 | [kriegen](http://twitter.com/search?q=kriegen) | N/A |
 | 28 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 29 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 30 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 31 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 32 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 33 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 34 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 35 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
-| 36 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 37 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
-| 38 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 39 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 40 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 42 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 43 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 44 | [England](http://twitter.com/search?q=England) | N/A |
-| 45 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 46 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 47 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 48 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 49 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 29 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 30 | [Kreise](http://twitter.com/search?q=Kreise) | N/A |
+| 31 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 32 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
+| 33 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
+| 34 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 35 | [füsse](http://twitter.com/search?q=f%c3%bcsse) | N/A |
+| 36 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 37 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 38 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 39 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
+| 40 | [Pre Order](http://twitter.com/search?q=Pre+Order) | N/A |
+| 41 | [Franken](http://twitter.com/search?q=Franken) | N/A |
+| 42 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 43 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 44 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 45 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 46 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 47 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 48 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 49 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 
 
 

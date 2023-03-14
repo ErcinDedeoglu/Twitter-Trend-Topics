@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-14 07:16:17 UTC`
+📆 Last Updated: `2023-03-14 08:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 2 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
-| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 4 | [#WPŁWID](http://twitter.com/search?q=%23WP%c5%81WID) | N/A |
+| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
+| 4 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
 | 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [#legstm](http://twitter.com/search?q=%23legstm) | N/A |
-| 7 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 9 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 10 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 11 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 12 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 13 | [Arki](http://twitter.com/search?q=Arki) | N/A |
-| 14 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 15 | [Franciszek](http://twitter.com/search?q=Franciszek) | N/A |
-| 16 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 17 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 18 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 19 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 20 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 21 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
-| 22 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 23 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
-| 24 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
-| 25 | [stal](http://twitter.com/search?q=stal) | N/A |
-| 26 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
-| 27 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
-| 28 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 29 | [Pruszkowie](http://twitter.com/search?q=Pruszkowie) | N/A |
-| 30 | [Kibole](http://twitter.com/search?q=Kibole) | N/A |
-| 31 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 32 | [Łapy](http://twitter.com/search?q=%c5%81apy) | N/A |
-| 33 | [Amaral](http://twitter.com/search?q=Amaral) | N/A |
-| 34 | [Minister Sprawiedliwości](http://twitter.com/search?q=Minister+Sprawiedliwo%c5%9bci) | N/A |
-| 35 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 36 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 37 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
-| 38 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 39 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 40 | [Newsweek](http://twitter.com/search?q=Newsweek) | N/A |
-| 41 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 42 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 43 | [sandomierzu](http://twitter.com/search?q=sandomierzu) | N/A |
-| 44 | [Wiśle](http://twitter.com/search?q=Wi%c5%9ble) | N/A |
-| 45 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 46 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 47 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 6 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 7 | [#WPŁWID](http://twitter.com/search?q=%23WP%c5%81WID) | N/A |
+| 8 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
+| 9 | [Franciszek](http://twitter.com/search?q=Franciszek) | N/A |
+| 10 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 11 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
+| 12 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
+| 13 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
+| 14 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
+| 15 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 16 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 17 | [Kibole](http://twitter.com/search?q=Kibole) | N/A |
+| 18 | [Pruszkowa](http://twitter.com/search?q=Pruszkowa) | N/A |
+| 19 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 22 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 23 | [Zostawić](http://twitter.com/search?q=Zostawi%c4%87) | N/A |
+| 24 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 25 | [stefan hula](http://twitter.com/search?q=stefan+hula) | N/A |
+| 26 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
+| 27 | [pawła adamowicza](http://twitter.com/search?q=paw%c5%82a+adamowicza) | N/A |
+| 28 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 29 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
+| 30 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 31 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 32 | [Glock](http://twitter.com/search?q=Glock) | N/A |
+| 33 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 34 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 35 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
+| 36 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 37 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 38 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
+| 39 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
+| 40 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 41 | [Łapy](http://twitter.com/search?q=%c5%81apy) | N/A |
+| 42 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 43 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 44 | [kolejka](http://twitter.com/search?q=kolejka) | N/A |
+| 45 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 46 | [gaviego](http://twitter.com/search?q=gaviego) | N/A |
+| 47 | [hładun](http://twitter.com/search?q=h%c5%82adun) | N/A |
 | 48 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 49 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 50 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 49 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 50 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 
 
 

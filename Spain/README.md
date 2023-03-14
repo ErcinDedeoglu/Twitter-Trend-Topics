@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-14 07:17:00 UTC`
+📆 Last Updated: `2023-03-14 08:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Spain
 | 1 | [#LaIslaDeLasTentaciones8](http://twitter.com/search?q=%23LaIslaDeLasTentaciones8) | N/A |
 | 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
-| 5 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 6 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 7 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 8 | [#conexiónhonduras2](http://twitter.com/search?q=%23conexi%c3%b3nhonduras2) | N/A |
+| 4 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 5 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 8 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 9 | [#LidlDeCine](http://twitter.com/search?q=%23LidlDeCine) | N/A |
-| 10 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 11 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 15 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
-| 16 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 17 | [montilivi](http://twitter.com/search?q=montilivi) | N/A |
-| 18 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 19 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 20 | [Santa Matilde](http://twitter.com/search?q=Santa+Matilde) | N/A |
-| 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 22 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 23 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 24 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
-| 25 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 26 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 10 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 12 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 13 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 14 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 15 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 16 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 17 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 18 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 19 | [Nuevos Ministerios](http://twitter.com/search?q=Nuevos+Ministerios) | N/A |
+| 20 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 22 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 23 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 24 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 25 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 26 | [Santa Matilde](http://twitter.com/search?q=Santa+Matilde) | N/A |
 | 27 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 28 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 29 | [gerard moreno](http://twitter.com/search?q=gerard+moreno) | N/A |
-| 30 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 31 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 32 | [IÑAKI WILLIAMS](http://twitter.com/search?q=I%c3%91AKI+WILLIAMS) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [Adrian](http://twitter.com/search?q=Adrian) | N/A |
-| 35 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 36 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 38 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 39 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 40 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 41 | [Chuty](http://twitter.com/search?q=Chuty) | N/A |
-| 42 | [Vaquerizo](http://twitter.com/search?q=Vaquerizo) | N/A |
-| 43 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
-| 44 | [baena](http://twitter.com/search?q=baena) | N/A |
+| 28 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 29 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
+| 30 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
+| 31 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 33 | [Félix Rodríguez de la Fuente](http://twitter.com/search?q=F%c3%a9lix+Rodr%c3%adguez+de+la+Fuente) | N/A |
+| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 35 | [Azerbaiyán](http://twitter.com/search?q=Azerbaiy%c3%a1n) | N/A |
+| 36 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 37 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 38 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 39 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 40 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
+| 41 | [Mario Vaquerizo](http://twitter.com/search?q=Mario+Vaquerizo) | Mario Vaquerizo is a Spanish singer, actor, and television presenter. He is best known for his work on the television show La Movida and his collaborations with his wife Alaska. The name Mario Vaquerizo roughly translates to "Mario the Cowboy" in English. |
+| 42 | [IÑAKI WILLIAMS](http://twitter.com/search?q=I%c3%91AKI+WILLIAMS) | N/A |
+| 43 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 44 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
 | 45 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 46 | [Modo Tildes](http://twitter.com/search?q=Modo+Tildes) | N/A |
-| 47 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
-| 48 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 49 | [Toni Nadal](http://twitter.com/search?q=Toni+Nadal) | N/A |
-| 50 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 46 | [HOY 14](http://twitter.com/search?q=HOY+14) | N/A |
+| 47 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 48 | [Tapón](http://twitter.com/search?q=Tap%c3%b3n) | N/A |
+| 49 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 50 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
 
 
 
