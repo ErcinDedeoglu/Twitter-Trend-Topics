@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-14 00:27:28 UTC`
+📆 Last Updated: `2023-03-14 01:43:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#Argentina1985](http://twitter.com/search?q=%23Argentina1985) | #Argentina1985 is a hashtag used to refer to the 1985 presidential election in Argentina, which saw the return of democracy after seven years of military rule. The hashtag is often used to commemorate the event and celebrate its significance in Argentine history. |
-| 3 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
-| 4 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
-| 5 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 6 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 7 | [#UruguayParaisoProfugo](http://twitter.com/search?q=%23UruguayParaisoProfugo) | N/A |
-| 8 | [Sabag Montiel](http://twitter.com/search?q=Sabag+Montiel) | N/A |
-| 9 | [Felipe Miguel](http://twitter.com/search?q=Felipe+Miguel) | N/A |
-| 10 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 11 | [#PotenciaPyMEX](http://twitter.com/search?q=%23PotenciaPyMEX) | N/A |
-| 12 | [Garec](http://twitter.com/search?q=Garec) | N/A |
-| 13 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | #GranHermano2022 is a hashtag used to refer to the upcoming season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2022". |
-| 14 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 15 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
-| 16 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 17 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 18 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 19 | [Darin](http://twitter.com/search?q=Darin) | N/A |
-| 20 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 21 | [BARFI SUSTO Y PROPUESTA](http://twitter.com/search?q=BARFI+SUSTO+Y+PROPUESTA) | N/A |
-| 22 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 23 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 24 | [alan gomez](http://twitter.com/search?q=alan+gomez) | N/A |
-| 25 | [MARCOS A LA FINAL](http://twitter.com/search?q=MARCOS+A+LA+FINAL) | N/A |
-| 26 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 27 | [UN MILLON PARA CONE](http://twitter.com/search?q=UN+MILLON+PARA+CONE) | N/A |
-| 28 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 30 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 31 | [Peter Lanzani](http://twitter.com/search?q=Peter+Lanzani) | N/A |
-| 32 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 33 | [Pinamar](http://twitter.com/search?q=Pinamar) | N/A |
-| 34 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 35 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 36 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 37 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 38 | [Valentín Gómez](http://twitter.com/search?q=Valent%c3%adn+G%c3%b3mez) | N/A |
-| 39 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 40 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 41 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 42 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 43 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 44 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 45 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
-| 46 | [Fito](http://twitter.com/search?q=Fito) | N/A |
-| 47 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 48 | [paul mescal](http://twitter.com/search?q=paul+mescal) | N/A |
-| 49 | [Camila al 9009](http://twitter.com/search?q=Camila+al+9009) | N/A |
-| 50 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 1 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 2 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 3 | [#apagonGH](http://twitter.com/search?q=%23apagonGH) | N/A |
+| 4 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 5 | [Garec](http://twitter.com/search?q=Garec) | N/A |
+| 6 | [BOFFE TE AMAMOS](http://twitter.com/search?q=BOFFE+TE+AMAMOS) | N/A |
+| 7 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 8 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 9 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
+| 10 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
+| 11 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 12 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 13 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 14 | [1- Messi](http://twitter.com/search?q=1-+Messi) | N/A |
+| 15 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
+| 16 | [#UruguayParaisoProfugo](http://twitter.com/search?q=%23UruguayParaisoProfugo) | N/A |
+| 17 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 18 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
+| 19 | [Sabag Montiel](http://twitter.com/search?q=Sabag+Montiel) | N/A |
+| 20 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 21 | [alan gomez](http://twitter.com/search?q=alan+gomez) | N/A |
+| 22 | [Felipe Miguel](http://twitter.com/search?q=Felipe+Miguel) | N/A |
+| 23 | [#Newells](http://twitter.com/search?q=%23Newells) | N/A |
+| 24 | [perez tica](http://twitter.com/search?q=perez+tica) | N/A |
+| 25 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 26 | [UN MILLON PARA CONE](http://twitter.com/search?q=UN+MILLON+PARA+CONE) | N/A |
+| 27 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 28 | [Pinamar](http://twitter.com/search?q=Pinamar) | N/A |
+| 29 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 30 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 31 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 32 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 33 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 34 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
+| 35 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 36 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 37 | [Ledesma](http://twitter.com/search?q=Ledesma) | N/A |
+| 38 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 39 | [Bussi](http://twitter.com/search?q=Bussi) | N/A |
+| 40 | [Ruggeri](http://twitter.com/search?q=Ruggeri) | N/A |
+| 41 | [Alejandro Garnacho](http://twitter.com/search?q=Alejandro+Garnacho) | N/A |
+| 42 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 43 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 44 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 45 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
+| 46 | [San Telmo](http://twitter.com/search?q=San+Telmo) | N/A |
+| 47 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 48 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
+| 49 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 50 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
 
 
 

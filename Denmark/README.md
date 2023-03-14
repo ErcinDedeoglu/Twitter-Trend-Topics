@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-14 00:27:30 UTC`
+📆 Last Updated: `2023-03-14 01:43:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
-| 2 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 1 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 2 | [#rfcagf](http://twitter.com/search?q=%23rfcagf) | N/A |
 | 3 | [#fcmlbk](http://twitter.com/search?q=%23fcmlbk) | N/A |
-| 4 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
-| 5 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
-| 6 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 7 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 8 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 4 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
+| 5 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 6 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 7 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
+| 8 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 9 | [Holger Rune](http://twitter.com/search?q=Holger+Rune) | N/A |
+| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 12 | [capellas](http://twitter.com/search?q=capellas) | N/A |
-| 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 16 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 17 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 18 | [viborg](http://twitter.com/search?q=viborg) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [America](http://twitter.com/search?q=America) | N/A |
-| 21 | [farum](http://twitter.com/search?q=farum) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 12 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 13 | [capellas](http://twitter.com/search?q=capellas) | N/A |
+| 14 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 15 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
+| 16 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 17 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 18 | [fc midtjylland](http://twitter.com/search?q=fc+midtjylland) | N/A |
+| 19 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 20 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 21 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
+| 22 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 23 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 24 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 25 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [Elsker](http://twitter.com/search?q=Elsker) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 30 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
-| 31 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 32 | [Mette](http://twitter.com/search?q=Mette) | N/A |
-| 33 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
-| 34 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 35 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 36 | [David](http://twitter.com/search?q=David) | N/A |
-| 37 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
-| 38 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [estland](http://twitter.com/search?q=estland) | N/A |
-| 41 | [Skat](http://twitter.com/search?q=Skat) | N/A |
+| 25 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 26 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 27 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 28 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 29 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 30 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
+| 31 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 32 | [tripadvisor reviews](http://twitter.com/search?q=tripadvisor+reviews) | N/A |
+| 33 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
+| 34 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 35 | [Liberal Alliance](http://twitter.com/search?q=Liberal+Alliance) | N/A |
+| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 37 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 41 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 44 | [Slet](http://twitter.com/search?q=Slet) | N/A |
-| 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 46 | [England](http://twitter.com/search?q=England) | N/A |
-| 47 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 48 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
-| 49 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
-| 50 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 43 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
+| 44 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 45 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 48 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
+| 49 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 50 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-14 00:26:49 UTC`
+📆 Last Updated: `2023-03-14 01:42:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 2 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 3 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 4 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 5 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 6 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 7 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 8 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 9 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 10 | [Ne-Yo](http://twitter.com/search?q=Ne-Yo) | N/A |
-| 11 | [SERENATA STELOISA](http://twitter.com/search?q=SERENATA+STELOISA) | N/A |
-| 12 | [David](http://twitter.com/search?q=David) | N/A |
-| 13 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 14 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
-| 15 | [Porchat](http://twitter.com/search?q=Porchat) | N/A |
-| 16 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 17 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 19 | [Vamos Flamengo](http://twitter.com/search?q=Vamos+Flamengo) | N/A |
-| 20 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
-| 21 | [Erison](http://twitter.com/search?q=Erison) | N/A |
-| 22 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 23 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
-| 24 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
-| 25 | [Orejuela](http://twitter.com/search?q=Orejuela) | Orejuela is a Spanish word that literally translates to "little ear". It is used to describe something small or insignificant. |
-| 26 | [Ferraresi](http://twitter.com/search?q=Ferraresi) | Ferraresi is a surname of Italian origin. It is derived from the city of Ferrara, located in the Emilia-Romagna region of Italy. The literal translation of Ferraresi into English is "from Ferrara". |
-| 27 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 28 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
-| 29 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 30 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
-| 31 | [Crossfit](http://twitter.com/search?q=Crossfit) | N/A |
-| 32 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
-| 33 | [Gallopo](http://twitter.com/search?q=Gallopo) | N/A |
-| 34 | [Garbage](http://twitter.com/search?q=Garbage) | N/A |
-| 35 | [JULIETTE NO TVZ POCAH](http://twitter.com/search?q=JULIETTE+NO+TVZ+POCAH) | N/A |
-| 36 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 37 | [O X9](http://twitter.com/search?q=O+X9) | N/A |
-| 38 | [DRAXX NA LOUD](http://twitter.com/search?q=DRAXX+NA+LOUD) | N/A |
-| 39 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 40 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 41 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 42 | [Canisso](http://twitter.com/search?q=Canisso) | N/A |
-| 43 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 44 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
-| 45 | [Venê](http://twitter.com/search?q=Ven%c3%aa) | N/A |
-| 46 | [Gramado](http://twitter.com/search?q=Gramado) | N/A |
-| 47 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 48 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 49 | [rogerio](http://twitter.com/search?q=rogerio) | N/A |
-| 50 | [#ForaLarisa](http://twitter.com/search?q=%23ForaLarisa) | N/A |
+| 1 | [O X9](http://twitter.com/search?q=O+X9) | N/A |
+| 2 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 3 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 4 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 5 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 6 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 7 | [Tonho](http://twitter.com/search?q=Tonho) | N/A |
+| 8 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 9 | [3 ZAGUEIROS](http://twitter.com/search?q=3+ZAGUEIROS) | N/A |
+| 10 | [Falha](http://twitter.com/search?q=Falha) | N/A |
+| 11 | [Sérgio Maurício](http://twitter.com/search?q=S%c3%a9rgio+Maur%c3%adcio) | N/A |
+| 12 | [Vamos Vasco](http://twitter.com/search?q=Vamos+Vasco) | N/A |
+| 13 | [FlaTV](http://twitter.com/search?q=FlaTV) | N/A |
+| 14 | [Bora Vasco](http://twitter.com/search?q=Bora+Vasco) | N/A |
+| 15 | [O Pedro](http://twitter.com/search?q=O+Pedro) | N/A |
+| 16 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 17 | [Péo Lelé](http://twitter.com/search?q=P%c3%a9o+Lel%c3%a9) | N/A |
+| 18 | [Puskas](http://twitter.com/search?q=Puskas) | N/A |
+| 19 | [Basco](http://twitter.com/search?q=Basco) | N/A |
+| 20 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 21 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 22 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
+| 23 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 24 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 25 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 26 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 27 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 28 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 29 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
+| 30 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 31 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 32 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 33 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 34 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 35 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 36 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 37 | [Rogério Ceni](http://twitter.com/search?q=Rog%c3%a9rio+Ceni) | Rogério Ceni is a Brazilian retired professional footballer who played as a goalkeeper. He is widely regarded as one of the greatest goalkeepers of all time and holds the record for most goals scored by a goalkeeper, with 131 goals in his career. In English, Rogério Ceni means Rogerio Ceni. |
+| 38 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
+| 39 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 40 | [GABRIEL PEC](http://twitter.com/search?q=GABRIEL+PEC) | N/A |
+| 41 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 42 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
+| 43 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 44 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
+| 45 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 46 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 47 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 48 | [Cabaço](http://twitter.com/search?q=Caba%c3%a7o) | N/A |
+| 49 | [LIONEL PEC](http://twitter.com/search?q=LIONEL+PEC) | N/A |
+| 50 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
 
 
 

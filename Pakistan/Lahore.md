@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-14 00:27:14 UTC`
+📆 Last Updated: `2023-03-14 01:42:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
 | 2 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
-| 3 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
-| 4 | [#اوپئی_آزادی_دی_جنگ](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%be%d8%a6%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%af%db%8c_%d8%ac%d9%86%da%af) | N/A |
-| 5 | [#ننھی_مُنی_ریلی](http://twitter.com/search?q=%23%d9%86%d9%86%da%be%db%8c_%d9%85%d9%8f%d9%86%db%8c_%d8%b1%db%8c%d9%84%db%8c) | N/A |
+| 3 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 4 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
+| 5 | [#اوپئی_آزادی_دی_جنگ](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%be%d8%a6%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%af%db%8c_%d8%ac%d9%86%da%af) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 7 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 8 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
-| 9 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 10 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
+| 8 | [najam sethi](http://twitter.com/search?q=najam+sethi) | N/A |
+| 9 | [shoaib sheikh](http://twitter.com/search?q=shoaib+sheikh) | N/A |
+| 10 | [Malala](http://twitter.com/search?q=Malala) | N/A |
 | 11 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 12 | [section 144](http://twitter.com/search?q=section+144) | N/A |
-| 13 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 14 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
-| 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 16 | [prime minister of pakistan](http://twitter.com/search?q=prime+minister+of+pakistan) | N/A |
-| 17 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 18 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 19 | [ban nasra school](http://twitter.com/search?q=ban+nasra+school) | N/A |
-| 20 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 21 | [Gifts](http://twitter.com/search?q=Gifts) | N/A |
-| 22 | [cabinet division](http://twitter.com/search?q=cabinet+division) | N/A |
-| 23 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
-| 24 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
-| 25 | [najam sethi](http://twitter.com/search?q=najam+sethi) | N/A |
-| 26 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 27 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 28 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
-| 29 | [pm in 2008](http://twitter.com/search?q=pm+in+2008) | N/A |
-| 30 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 31 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 32 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
-| 36 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 37 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 38 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 39 | [Sharifs](http://twitter.com/search?q=Sharifs) | N/A |
-| 40 | [Test Cricket](http://twitter.com/search?q=Test+Cricket) | N/A |
-| 41 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 42 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 43 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 45 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 46 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 47 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 48 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 49 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 50 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 12 | [zahir jaffer](http://twitter.com/search?q=zahir+jaffer) | N/A |
+| 13 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
+| 16 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 17 | [islamabad high court](http://twitter.com/search?q=islamabad+high+court) | N/A |
+| 18 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
+| 19 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 20 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 21 | [fifa 2022 rights](http://twitter.com/search?q=fifa+2022+rights) | N/A |
+| 22 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 23 | [prime minister of pakistan](http://twitter.com/search?q=prime+minister+of+pakistan) | N/A |
+| 24 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 25 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 26 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 27 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
+| 28 | [Slide](http://twitter.com/search?q=Slide) | N/A |
+| 29 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 30 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
+| 31 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 32 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 33 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 34 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 35 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 36 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 37 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
+| 38 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
+| 39 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 40 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
+| 41 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 43 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 44 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
+| 45 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 46 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
+| 47 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 49 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 50 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-14 00:27:09 UTC`
+📆 Last Updated: `2023-03-14 01:42:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#ekoforsanwo](http://twitter.com/search?q=%23ekoforsanwo) | N/A |
-| 4 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 6 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#grvforcivilservice](http://twitter.com/search?q=%23grvforcivilservice) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [#alathackaholics](http://twitter.com/search?q=%23alathackaholics) | N/A |
+| 6 | [oluwa dolarz](http://twitter.com/search?q=oluwa+dolarz) | N/A |
+| 7 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
 | 8 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 11 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 12 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 13 | [THE MONEY IS KANALIZED](http://twitter.com/search?q=THE+MONEY+IS+KANALIZED) | N/A |
-| 14 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
-| 15 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
-| 19 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
-| 20 | [Harvesters](http://twitter.com/search?q=Harvesters) | N/A |
-| 21 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
-| 24 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 25 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 28 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 29 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
-| 30 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 31 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 32 | [Waist](http://twitter.com/search?q=Waist) | N/A |
-| 33 | [Padre](http://twitter.com/search?q=Padre) | N/A |
-| 34 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 38 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 39 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
-| 43 | [Coding](http://twitter.com/search?q=Coding) | N/A |
-| 44 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 45 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
-| 46 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 47 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 48 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 9 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 10 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 11 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 12 | [THE MONEY IS KANALIZED](http://twitter.com/search?q=THE+MONEY+IS+KANALIZED) | N/A |
+| 13 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 14 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 15 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 16 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
+| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 18 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 19 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
+| 20 | [ELITE LEAGUE](http://twitter.com/search?q=ELITE+LEAGUE) | N/A |
+| 21 | [MASH TATIN IS HERE](http://twitter.com/search?q=MASH+TATIN+IS+HERE) | N/A |
+| 22 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
+| 23 | [PHYNA THE TOPIC](http://twitter.com/search?q=PHYNA+THE+TOPIC) | N/A |
+| 24 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
+| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 26 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
+| 27 | [VOTE YVONNE](http://twitter.com/search?q=VOTE+YVONNE) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 30 | [EXCEPTIONAL YEMI CREGX](http://twitter.com/search?q=EXCEPTIONAL+YEMI+CREGX) | N/A |
+| 31 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
+| 32 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 33 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 34 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 35 | [HE IS SHEGGZ OLU](http://twitter.com/search?q=HE+IS+SHEGGZ+OLU) | N/A |
+| 36 | [Toph](http://twitter.com/search?q=Toph) | N/A |
+| 37 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 38 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 39 | [Mercy Johnson](http://twitter.com/search?q=Mercy+Johnson) | N/A |
+| 40 | [Congratulations Doc](http://twitter.com/search?q=Congratulations+Doc) | N/A |
+| 41 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
+| 42 | [Tofa](http://twitter.com/search?q=Tofa) | N/A |
+| 43 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 44 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
+| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 46 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 47 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
+| 48 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
 
 
 

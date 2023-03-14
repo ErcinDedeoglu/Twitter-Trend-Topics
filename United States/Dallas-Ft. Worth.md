@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-14 00:27:21 UTC`
+📆 Last Updated: `2023-03-14 01:42:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 1 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
 | 2 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 3 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 4 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
-| 5 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 6 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 3 | [Scoot](http://twitter.com/search?q=Scoot) | N/A |
+| 4 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 6 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 7 | [#Texans](http://twitter.com/search?q=%23Texans) | N/A |
-| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 10 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 11 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 12 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 13 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 14 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 16 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 17 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 18 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 19 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
-| 20 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 21 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 22 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 23 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
-| 24 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 25 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
-| 26 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 29 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
-| 30 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 31 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 32 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
-| 33 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 34 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
-| 35 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
-| 36 | [Sam Darnold](http://twitter.com/search?q=Sam+Darnold) | Sam Darnold is an American football quarterback who currently plays for the New York Jets of the National Football League (NFL). He was drafted third overall by the Jets in the 2018 NFL Draft. The meaning of Sam Darnold in English is a professional American football player who plays for the New York Jets. |
-| 37 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 38 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 39 | [Scoot](http://twitter.com/search?q=Scoot) | N/A |
-| 40 | [Bates](http://twitter.com/search?q=Bates) | N/A |
-| 41 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 42 | [Nickel](http://twitter.com/search?q=Nickel) | N/A |
-| 43 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 44 | [chim](http://twitter.com/search?q=chim) | N/A |
-| 45 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 46 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 47 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
-| 48 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 49 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 50 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 8 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
+| 9 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 11 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 13 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 14 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 15 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 16 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 18 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 19 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 20 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 21 | [José De León](http://twitter.com/search?q=Jos%c3%a9+De+Le%c3%b3n) | N/A |
+| 22 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 23 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
+| 24 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 25 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 26 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 27 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 28 | [Zach Allen](http://twitter.com/search?q=Zach+Allen) | N/A |
+| 29 | [Kentrell](http://twitter.com/search?q=Kentrell) | N/A |
+| 30 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
+| 31 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
+| 32 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 33 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 34 | [Peter Griffin](http://twitter.com/search?q=Peter+Griffin) | N/A |
+| 35 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 36 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 37 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
+| 38 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 39 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 40 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 41 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 42 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 43 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 44 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 45 | [Counseling](http://twitter.com/search?q=Counseling) | N/A |
+| 46 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 47 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
+| 48 | [Dexter Lumis](http://twitter.com/search?q=Dexter+Lumis) | N/A |
+| 49 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 50 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
 
 
 

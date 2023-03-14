@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-14 00:27:27 UTC`
+📆 Last Updated: `2023-03-14 01:42:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jags](http://twitter.com/search?q=Jags) | Jags is an abbreviation for the Jacksonville Jaguars, a professional American football team based in Jacksonville, Florida. |
-| 2 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 3 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 4 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
-| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 6 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 10 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 11 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 12 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 13 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 14 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 15 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 16 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 17 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 18 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 19 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 20 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
-| 21 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
-| 22 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 23 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 24 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
-| 25 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 26 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
-| 27 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 28 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 29 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 30 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
-| 31 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 32 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 33 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 34 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
-| 35 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
-| 36 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
-| 37 | [Sam Darnold](http://twitter.com/search?q=Sam+Darnold) | Sam Darnold is an American football quarterback who currently plays for the New York Jets of the National Football League (NFL). He was drafted third overall by the Jets in the 2018 NFL Draft. The meaning of Sam Darnold in English is a professional American football player who plays for the New York Jets. |
-| 38 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 39 | [Scoot](http://twitter.com/search?q=Scoot) | N/A |
-| 40 | [Bates](http://twitter.com/search?q=Bates) | N/A |
-| 41 | [Nickel](http://twitter.com/search?q=Nickel) | N/A |
-| 42 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 43 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 44 | [chim](http://twitter.com/search?q=chim) | N/A |
-| 45 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 46 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 47 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 48 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
-| 49 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 1 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
+| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 4 | [Jags](http://twitter.com/search?q=Jags) | Jags is an abbreviation for the Jacksonville Jaguars, a professional American football team based in Jacksonville, Florida. |
+| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 6 | [Chargers](http://twitter.com/search?q=Chargers) | Chargers are devices used to charge batteries or other electronic devices. They are typically used to provide power to a device, such as a laptop, smartphone, or tablet. Chargers come in many different shapes and sizes and can be powered by either AC or DC power sources. |
+| 7 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
+| 8 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
+| 9 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 10 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 11 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 13 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 14 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 15 | [#YUNARMY](http://twitter.com/search?q=%23YUNARMY) | N/A |
+| 16 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 17 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 18 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 19 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 20 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 21 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 22 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 23 | [José De León](http://twitter.com/search?q=Jos%c3%a9+De+Le%c3%b3n) | N/A |
+| 24 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 25 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
+| 26 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 27 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 28 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 29 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 30 | [Zach Allen](http://twitter.com/search?q=Zach+Allen) | N/A |
+| 31 | [Kentrell](http://twitter.com/search?q=Kentrell) | N/A |
+| 32 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
+| 33 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
+| 34 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 35 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 36 | [Peter Griffin](http://twitter.com/search?q=Peter+Griffin) | N/A |
+| 37 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 38 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 39 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
+| 40 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 41 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 42 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 43 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 44 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 45 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 46 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 47 | [Counseling](http://twitter.com/search?q=Counseling) | N/A |
+| 48 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 49 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
 
 
 

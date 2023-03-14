@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Russia
 
-📆 Last Updated: `2023-03-14 00:27:34 UTC`
+📆 Last Updated: `2023-03-14 01:43:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Russia
 | ------- | ------------ | ------------ |
 | 1 | [Оскар](http://twitter.com/search?q=%d0%9e%d1%81%d0%ba%d0%b0%d1%80) | N/A |
 | 2 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 3 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 4 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 5 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 6 | [интересно](http://twitter.com/search?q=%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 8 | [Алексея](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d1%8f) | N/A |
-| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 10 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 11 | [франции](http://twitter.com/search?q=%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 12 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 13 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 14 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 15 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 16 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 17 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 18 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
-| 19 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 20 | [солнце](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%bd%d1%86%d0%b5) | N/A |
-| 21 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
-| 22 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
-| 23 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 24 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 25 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 26 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 27 | [земле](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 28 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 30 | [Фильм](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bb%d1%8c%d0%bc) | N/A |
-| 31 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 32 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 33 | [Италии](http://twitter.com/search?q=%d0%98%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
-| 34 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 35 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 36 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
-| 37 | [боюсь](http://twitter.com/search?q=%d0%b1%d0%be%d1%8e%d1%81%d1%8c) | N/A |
-| 38 | [жалко](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d0%ba%d0%be) | N/A |
-| 39 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 40 | [Миша](http://twitter.com/search?q=%d0%9c%d0%b8%d1%88%d0%b0) | N/A |
-| 41 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 42 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 43 | [норм](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc) | N/A |
-| 44 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 45 | [Аналогично](http://twitter.com/search?q=%d0%90%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 46 | [добрый](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d1%8b%d0%b9) | N/A |
-| 47 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 48 | [типа](http://twitter.com/search?q=%d1%82%d0%b8%d0%bf%d0%b0) | N/A |
-| 49 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 50 | [красивый](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9) | N/A |
+| 3 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 4 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 5 | [Брендан Фрейзер](http://twitter.com/search?q=%d0%91%d1%80%d0%b5%d0%bd%d0%b4%d0%b0%d0%bd+%d0%a4%d1%80%d0%b5%d0%b9%d0%b7%d0%b5%d1%80) | N/A |
+| 6 | [алексея](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d1%8f) | N/A |
+| 7 | [франции](http://twitter.com/search?q=%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 8 | [#arbitrumm](http://twitter.com/search?q=%23arbitrumm) | N/A |
+| 9 | [Зеленскому](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
+| 10 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 11 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
+| 12 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 13 | [Юлия](http://twitter.com/search?q=%d0%ae%d0%bb%d0%b8%d1%8f) | N/A |
+| 14 | [светов](http://twitter.com/search?q=%d1%81%d0%b2%d0%b5%d1%82%d0%be%d0%b2) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [путиным](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 17 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
+| 18 | [Фильм](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bb%d1%8c%d0%bc) | N/A |
+| 19 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 20 | [бали](http://twitter.com/search?q=%d0%b1%d0%b0%d0%bb%d0%b8) | N/A |
+| 21 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 23 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 24 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 25 | [элли](http://twitter.com/search?q=%d1%8d%d0%bb%d0%bb%d0%b8) | N/A |
+| 26 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 27 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 28 | [посмотри](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 29 | [Любовь](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
+| 30 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 31 | [Грузия](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d1%8f) | N/A |
+| 32 | [Автор](http://twitter.com/search?q=%d0%90%d0%b2%d1%82%d0%be%d1%80) | N/A |
+| 33 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 34 | [#yargi](http://twitter.com/search?q=%23yargi) | N/A |
+| 35 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 36 | [совершенно](http://twitter.com/search?q=%d1%81%d0%be%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
+| 37 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 38 | [Coins](http://twitter.com/search?q=Coins) | N/A |
+| 39 | [Италии](http://twitter.com/search?q=%d0%98%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
+| 40 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 41 | [Земли](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b8) | N/A |
+| 42 | [америку](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d1%83) | N/A |
+| 43 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
+| 44 | [родину](http://twitter.com/search?q=%d1%80%d0%be%d0%b4%d0%b8%d0%bd%d1%83) | N/A |
+| 45 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 46 | [Твиттера](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 47 | [яндекса](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d0%b0) | N/A |
+| 48 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
+| 49 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 50 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-14 00:26:48 UTC`
+📆 Last Updated: `2023-03-14 01:42:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 3 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 4 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 5 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
-| 6 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
-| 7 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 8 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 9 | [Valera](http://twitter.com/search?q=Valera) | N/A |
-| 10 | [Galván](http://twitter.com/search?q=Galv%c3%a1n) | N/A |
-| 11 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 14 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 15 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 16 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
-| 17 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 18 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 19 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 20 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
-| 21 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
-| 22 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 23 | [Garcilaso](http://twitter.com/search?q=Garcilaso) | N/A |
-| 24 | [Muñante](http://twitter.com/search?q=Mu%c3%b1ante) | N/A |
-| 25 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 26 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
-| 27 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 28 | [#FmsInternacional](http://twitter.com/search?q=%23FmsInternacional) | N/A |
-| 29 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 30 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 32 | [Sunedu](http://twitter.com/search?q=Sunedu) | N/A |
-| 33 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 34 | [Donen](http://twitter.com/search?q=Donen) | N/A |
-| 35 | [Cusco](http://twitter.com/search?q=Cusco) | N/A |
-| 36 | [Chiclayo](http://twitter.com/search?q=Chiclayo) | N/A |
-| 37 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 38 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
-| 39 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 40 | [hohberg](http://twitter.com/search?q=hohberg) | N/A |
-| 41 | [ELIZABETH OLSEN](http://twitter.com/search?q=ELIZABETH+OLSEN) | N/A |
-| 42 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 43 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 44 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 45 | [Huaycoloro](http://twitter.com/search?q=Huaycoloro) | N/A |
-| 46 | [Indecopi](http://twitter.com/search?q=Indecopi) | N/A |
-| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 48 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 49 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 50 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 1 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
+| 2 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 5 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
+| 6 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 7 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 8 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
+| 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 10 | [Cusco](http://twitter.com/search?q=Cusco) | N/A |
+| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 12 | [Galván](http://twitter.com/search?q=Galv%c3%a1n) | N/A |
+| 13 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 14 | [#ConLaUHastaElFinal](http://twitter.com/search?q=%23ConLaUHastaElFinal) | N/A |
+| 15 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 16 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 17 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 18 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
+| 19 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
+| 20 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
+| 21 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 22 | [Muñante](http://twitter.com/search?q=Mu%c3%b1ante) | N/A |
+| 23 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 24 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 25 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 26 | [Pérez Guedes](http://twitter.com/search?q=P%c3%a9rez+Guedes) | N/A |
+| 27 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
+| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 29 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
+| 30 | [REINAS SIN CORONA](http://twitter.com/search?q=REINAS+SIN+CORONA) | N/A |
+| 31 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 32 | [Chillón](http://twitter.com/search?q=Chill%c3%b3n) | N/A |
+| 33 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 34 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 35 | [Juliaca](http://twitter.com/search?q=Juliaca) | Juliaca is a city in Peru located in the Puno Region. It is the capital of San Roman Province and the region's largest city. The name Juliaca comes from the Aymara language and means "the place of rest". |
+| 36 | [Chosica](http://twitter.com/search?q=Chosica) | N/A |
+| 37 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 38 | [Elizabeth Olsen](http://twitter.com/search?q=Elizabeth+Olsen) | N/A |
+| 39 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 40 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 41 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 42 | [#FMSInternacional](http://twitter.com/search?q=%23FMSInternacional) | N/A |
+| 43 | [Donen](http://twitter.com/search?q=Donen) | N/A |
+| 44 | [Saquen](http://twitter.com/search?q=Saquen) | N/A |
+| 45 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 46 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
+| 47 | [Andy Polar](http://twitter.com/search?q=Andy+Polar) | N/A |
+| 48 | [nehemías 11](http://twitter.com/search?q=nehem%c3%adas+11) | N/A |
+| 49 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
+| 50 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
 
 
 
