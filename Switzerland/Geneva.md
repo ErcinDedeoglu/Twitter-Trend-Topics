@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-14 18:17:59 UTC`
+📆 Last Updated: `2023-03-14 19:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
 | 5 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 8 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 7 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 8 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
 | 9 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
 | 10 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 11 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 14 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 15 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 16 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 17 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 18 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 19 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 20 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 21 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 24 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
-| 25 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 26 | [Wert](http://twitter.com/search?q=Wert) | N/A |
-| 27 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 28 | [Forum 2023](http://twitter.com/search?q=Forum+2023) | N/A |
-| 29 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 30 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 31 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 32 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
-| 33 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 34 | [Harus](http://twitter.com/search?q=Harus) | N/A |
-| 35 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 36 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 37 | [Rapier](http://twitter.com/search?q=Rapier) | N/A |
-| 38 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
-| 39 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
-| 40 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 41 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 42 | [Runde](http://twitter.com/search?q=Runde) | N/A |
-| 43 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
-| 44 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 45 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
-| 46 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 47 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
-| 48 | [Serbian](http://twitter.com/search?q=Serbian) | N/A |
+| 11 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 12 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 13 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 14 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 15 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 16 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 17 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 18 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 19 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 20 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 21 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
+| 24 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 26 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
+| 27 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 28 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 29 | [Forum 2023](http://twitter.com/search?q=Forum+2023) | N/A |
+| 30 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 31 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 32 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 33 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 34 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 35 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 36 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 39 | [Rapier](http://twitter.com/search?q=Rapier) | N/A |
+| 40 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
+| 41 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
+| 42 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 43 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 44 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
+| 45 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 46 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 47 | [Raketen](http://twitter.com/search?q=Raketen) | N/A |
+| 48 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
 
 
 

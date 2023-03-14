@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-14 18:17:45 UTC`
+📆 Last Updated: `2023-03-14 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#MeAburriDe](http://twitter.com/search?q=%23MeAburriDe) | N/A |
 | 3 | [#AbusarEs](http://twitter.com/search?q=%23AbusarEs) | N/A |
 | 4 | [#DeMalas](http://twitter.com/search?q=%23DeMalas) | N/A |
-| 5 | [#JusticiaParaCaicedo](http://twitter.com/search?q=%23JusticiaParaCaicedo) | N/A |
+| 5 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
 | 6 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 7 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 10 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 12 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 7 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [#JusticiaParaCaicedo](http://twitter.com/search?q=%23JusticiaParaCaicedo) | N/A |
+| 11 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 12 | [#sueñoconalejandrofernandez](http://twitter.com/search?q=%23sue%c3%b1oconalejandrofernandez) | N/A |
 | 13 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
 | 14 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
 | 15 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 16 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 17 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 18 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 19 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 20 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 21 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
-| 22 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 23 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 24 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
-| 25 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
-| 26 | [Ciudad Equidad](http://twitter.com/search?q=Ciudad+Equidad) | N/A |
-| 27 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 29 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
-| 30 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 31 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 32 | [Asamblea del Atlántico](http://twitter.com/search?q=Asamblea+del+Atl%c3%a1ntico) | N/A |
+| 16 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 17 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 18 | [Linero](http://twitter.com/search?q=Linero) | N/A |
+| 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 20 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
+| 21 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 22 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 23 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 24 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
+| 25 | [Pepe Mujica](http://twitter.com/search?q=Pepe+Mujica) | N/A |
+| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 27 | [Laura Gil](http://twitter.com/search?q=Laura+Gil) | N/A |
+| 28 | [Colpensiones](http://twitter.com/search?q=Colpensiones) | N/A |
+| 29 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
+| 30 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 31 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
+| 32 | [Negra](http://twitter.com/search?q=Negra) | N/A |
 | 33 | [La Silla Vacía](http://twitter.com/search?q=La+Silla+Vac%c3%ada) | N/A |
-| 34 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 34 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 36 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 37 | [Luis Ernesto](http://twitter.com/search?q=Luis+Ernesto) | N/A |
-| 38 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 39 | [EXSENADORA](http://twitter.com/search?q=EXSENADORA) | N/A |
+| 36 | [Luis Ernesto](http://twitter.com/search?q=Luis+Ernesto) | N/A |
+| 37 | [Néstor Lorenzo](http://twitter.com/search?q=N%c3%a9stor+Lorenzo) | N/A |
+| 38 | [Reinaldo Rueda](http://twitter.com/search?q=Reinaldo+Rueda) | N/A |
+| 39 | [Exsenadora](http://twitter.com/search?q=Exsenadora) | N/A |
 | 40 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 41 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
+| 41 | [Ciudad Equidad](http://twitter.com/search?q=Ciudad+Equidad) | N/A |
 | 42 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
 | 43 | [río de oro](http://twitter.com/search?q=r%c3%ado+de+oro) | N/A |
-| 44 | [Air France](http://twitter.com/search?q=Air+France) | N/A |
+| 44 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
 | 45 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 46 | [Reinaldo Rueda](http://twitter.com/search?q=Reinaldo+Rueda) | N/A |
-| 47 | [Inaudito](http://twitter.com/search?q=Inaudito) | N/A |
-| 48 | [Kudai](http://twitter.com/search?q=Kudai) | N/A |
-| 49 | [Davinson](http://twitter.com/search?q=Davinson) | N/A |
-| 50 | [Luis Grau](http://twitter.com/search?q=Luis+Grau) | N/A |
+| 46 | [Asamblea del Atlántico](http://twitter.com/search?q=Asamblea+del+Atl%c3%a1ntico) | N/A |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [India Catalina](http://twitter.com/search?q=India+Catalina) | N/A |
+| 49 | [Luis Grau](http://twitter.com/search?q=Luis+Grau) | N/A |
+| 50 | [Davinson](http://twitter.com/search?q=Davinson) | N/A |
 
 
 

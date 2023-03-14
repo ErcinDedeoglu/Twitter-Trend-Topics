@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-14 18:18:43 UTC`
+📆 Last Updated: `2023-03-14 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
-| 5 | [#PoderosoChoncho](http://twitter.com/search?q=%23PoderosoChoncho) | N/A |
-| 6 | [#JoshuaHalling](http://twitter.com/search?q=%23JoshuaHalling) | N/A |
-| 7 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 8 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 9 | [Alejandro Zendejas](http://twitter.com/search?q=Alejandro+Zendejas) | N/A |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 11 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
-| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 13 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 14 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 15 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 16 | [FACE PRERELEASE MV TEASER](http://twitter.com/search?q=FACE+PRERELEASE+MV+TEASER) | N/A |
-| 17 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 18 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 19 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 20 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 21 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 22 | [Stephen Hawking](http://twitter.com/search?q=Stephen+Hawking) | N/A |
-| 23 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 26 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
-| 27 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 28 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 29 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
-| 30 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 31 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 32 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 34 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
-| 35 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
-| 36 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 37 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 38 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 39 | [Lozoya](http://twitter.com/search?q=Lozoya) | N/A |
-| 40 | [#FaveTourPhotographer](http://twitter.com/search?q=%23FaveTourPhotographer) | N/A |
-| 41 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 42 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 43 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 44 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 45 | [#endometriosis](http://twitter.com/search?q=%23endometriosis) | N/A |
-| 46 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 47 | [#Guelaguetza2023](http://twitter.com/search?q=%23Guelaguetza2023) | N/A |
-| 48 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 49 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 50 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 1 | [John Ryder](http://twitter.com/search?q=John+Ryder) | N/A |
+| 2 | [LIVE CON EVE](http://twitter.com/search?q=LIVE+CON+EVE) | N/A |
+| 3 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Estadio Akron](http://twitter.com/search?q=Estadio+Akron) | N/A |
+| 6 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
+| 7 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 8 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 9 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
+| 10 | [#JoshuaHalling](http://twitter.com/search?q=%23JoshuaHalling) | N/A |
+| 11 | [#FaveTourPhotographer](http://twitter.com/search?q=%23FaveTourPhotographer) | N/A |
+| 12 | [Descansa Reb](http://twitter.com/search?q=Descansa+Reb) | Descansa Reb is a Spanish phrase that translates to "Rest in Peace" in English. It is typically used as a way to express condolences or sympathy for someone who has passed away. |
+| 13 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 14 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 15 | [Alejandro Zendejas](http://twitter.com/search?q=Alejandro+Zendejas) | N/A |
+| 16 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 17 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 18 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 19 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 20 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
+| 21 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 22 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 23 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
+| 24 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 25 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 27 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 28 | [Matemáticas](http://twitter.com/search?q=Matem%c3%a1ticas) | N/A |
+| 29 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 30 | [Stephen Hawking](http://twitter.com/search?q=Stephen+Hawking) | N/A |
+| 31 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [Martes 14](http://twitter.com/search?q=Martes+14) | N/A |
+| 34 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
+| 35 | [Remdesivir](http://twitter.com/search?q=Remdesivir) | N/A |
+| 36 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
+| 37 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 38 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 39 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 41 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 42 | [Placebo](http://twitter.com/search?q=Placebo) | N/A |
+| 43 | [Lozoya](http://twitter.com/search?q=Lozoya) | N/A |
+| 44 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
+| 45 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
+| 46 | [#endometriosis](http://twitter.com/search?q=%23endometriosis) | N/A |
+| 47 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 48 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 49 | [#Guelaguetza2023](http://twitter.com/search?q=%23Guelaguetza2023) | N/A |
+| 50 | [#Meta](http://twitter.com/search?q=%23Meta) | N/A |
 
 
 

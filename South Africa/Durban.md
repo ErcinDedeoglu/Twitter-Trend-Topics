@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-14 18:18:14 UTC`
+📆 Last Updated: `2023-03-14 19:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 3 | [#RIPGloriaBosman](http://twitter.com/search?q=%23RIPGloriaBosman) | N/A |
-| 4 | [Nascimento](http://twitter.com/search?q=Nascimento) | N/A |
-| 5 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 6 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 7 | [JUICY JAY X SUPERSPORT PHAKA](http://twitter.com/search?q=JUICY+JAY+X+SUPERSPORT+PHAKA) | N/A |
-| 8 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 9 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 10 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 11 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 12 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 13 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 14 | [Junior Khanye](http://twitter.com/search?q=Junior+Khanye) | N/A |
-| 15 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
-| 16 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
-| 17 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
-| 18 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 19 | [nana and justin](http://twitter.com/search?q=nana+and+justin) | N/A |
-| 20 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 21 | [Tbo Touch](http://twitter.com/search?q=Tbo+Touch) | N/A |
-| 22 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 25 | [Zonke](http://twitter.com/search?q=Zonke) | N/A |
-| 26 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 27 | [Cape Independence](http://twitter.com/search?q=Cape+Independence) | N/A |
-| 28 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
-| 29 | [Luthuli House](http://twitter.com/search?q=Luthuli+House) | N/A |
-| 30 | [The IEC](http://twitter.com/search?q=The+IEC) | N/A |
-| 31 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 32 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
-| 33 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 34 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
-| 35 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 36 | [Transaction Capital](http://twitter.com/search?q=Transaction+Capital) | N/A |
+| 3 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 4 | [#face2face](http://twitter.com/search?q=%23face2face) | N/A |
+| 5 | [#RIPGloriaBosman](http://twitter.com/search?q=%23RIPGloriaBosman) | N/A |
+| 6 | [Nascimento](http://twitter.com/search?q=Nascimento) | N/A |
+| 7 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 8 | [JUICY JAY X SUPERSPORT PHAKA](http://twitter.com/search?q=JUICY+JAY+X+SUPERSPORT+PHAKA) | N/A |
+| 9 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
+| 10 | [Shalulile](http://twitter.com/search?q=Shalulile) | N/A |
+| 11 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 12 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 13 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 14 | [Zonke](http://twitter.com/search?q=Zonke) | N/A |
+| 15 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 16 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 17 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 18 | [Junior Khanye](http://twitter.com/search?q=Junior+Khanye) | N/A |
+| 19 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
+| 20 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 21 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 22 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
+| 23 | [nana and justin](http://twitter.com/search?q=nana+and+justin) | N/A |
+| 24 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 27 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 28 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 29 | [Tbo Touch](http://twitter.com/search?q=Tbo+Touch) | N/A |
+| 30 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 31 | [Mabena](http://twitter.com/search?q=Mabena) | N/A |
+| 32 | [Cape Independence](http://twitter.com/search?q=Cape+Independence) | N/A |
+| 33 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
+| 34 | [Luthuli House](http://twitter.com/search?q=Luthuli+House) | N/A |
+| 35 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 36 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 37 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
-| 38 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 39 | [Block 9](http://twitter.com/search?q=Block+9) | N/A |
-| 40 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
-| 41 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 42 | [Fortuner](http://twitter.com/search?q=Fortuner) | N/A |
-| 43 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 45 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 46 | [Supersport United](http://twitter.com/search?q=Supersport+United) | N/A |
-| 47 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 48 | [Cape Town City](http://twitter.com/search?q=Cape+Town+City) | N/A |
-| 49 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 50 | [VOTE FOR TSATSII](http://twitter.com/search?q=VOTE+FOR+TSATSII) | N/A |
+| 38 | [The IEC](http://twitter.com/search?q=The+IEC) | N/A |
+| 39 | [Maema](http://twitter.com/search?q=Maema) | N/A |
+| 40 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 41 | [SADTU](http://twitter.com/search?q=SADTU) | N/A |
+| 42 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 43 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 44 | [Rhulani](http://twitter.com/search?q=Rhulani) | N/A |
+| 45 | [Transaction Capital](http://twitter.com/search?q=Transaction+Capital) | N/A |
+| 46 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 47 | [Block 9](http://twitter.com/search?q=Block+9) | N/A |
+| 48 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
+| 49 | [Shasha](http://twitter.com/search?q=Shasha) | N/A |
+| 50 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
 
 
 

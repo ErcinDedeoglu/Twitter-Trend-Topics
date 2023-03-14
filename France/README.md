@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-14 18:18:40 UTC`
+📆 Last Updated: `2023-03-14 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 2 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 3 | [Noire](http://twitter.com/search?q=Noire) | N/A |
-| 4 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 5 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 6 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 7 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 8 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
-| 9 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
-| 10 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 11 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 12 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
-| 13 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 14 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 15 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 16 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 17 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
-| 18 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 21 | [Rendez-vous avec X](http://twitter.com/search?q=Rendez-vous+avec+X) | N/A |
-| 22 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
-| 23 | [Parasite](http://twitter.com/search?q=Parasite) | N/A |
-| 24 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
-| 25 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 26 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
-| 27 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 28 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 29 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 30 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
-| 31 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 32 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 33 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 34 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
-| 35 | [Vald](http://twitter.com/search?q=Vald) | N/A |
-| 36 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 37 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 38 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
-| 39 | [Mercredi 15](http://twitter.com/search?q=Mercredi+15) | N/A |
-| 40 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 41 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 42 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 43 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 44 | [#Parispoubelle](http://twitter.com/search?q=%23Parispoubelle) | N/A |
-| 45 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 46 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 47 | [#Punchline](http://twitter.com/search?q=%23Punchline) | N/A |
-| 48 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
-| 49 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 50 | [#poubelles](http://twitter.com/search?q=%23poubelles) | N/A |
+| 2 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 3 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 4 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 6 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 7 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 8 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 9 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 10 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 11 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 12 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 13 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 14 | [#Parispoubelle](http://twitter.com/search?q=%23Parispoubelle) | N/A |
+| 15 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
+| 16 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 17 | [Yass](http://twitter.com/search?q=Yass) | N/A |
+| 18 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 19 | [Bouilleur](http://twitter.com/search?q=Bouilleur) | N/A |
+| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 21 | [Hulot](http://twitter.com/search?q=Hulot) | N/A |
+| 22 | [Pastore](http://twitter.com/search?q=Pastore) | N/A |
+| 23 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 24 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 25 | [Gouiri](http://twitter.com/search?q=Gouiri) | N/A |
+| 26 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 27 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 29 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
+| 30 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 33 | [Parasite](http://twitter.com/search?q=Parasite) | N/A |
+| 34 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 35 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
+| 36 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 37 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 38 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
+| 39 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 40 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 41 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 42 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 43 | [Vald](http://twitter.com/search?q=Vald) | N/A |
+| 44 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 45 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
+| 46 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 47 | [#DemainNousAppartient](http://twitter.com/search?q=%23DemainNousAppartient) | N/A |
+| 48 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
+| 49 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 50 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
 
 
 

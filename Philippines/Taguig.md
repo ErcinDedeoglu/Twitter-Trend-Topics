@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-14 18:18:10 UTC`
+📆 Last Updated: `2023-03-14 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 3 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
-| 4 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
-| 5 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
-| 6 | [#LoveOnTourManila](http://twitter.com/search?q=%23LoveOnTourManila) | N/A |
-| 7 | [#HarryStylesinPH](http://twitter.com/search?q=%23HarryStylesinPH) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
-| 10 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
-| 11 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
-| 12 | [JAY UR BACK](http://twitter.com/search?q=JAY+UR+BACK) | N/A |
-| 13 | [2ne1](http://twitter.com/search?q=2ne1) | N/A |
-| 14 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 15 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 16 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 17 | [Minzy](http://twitter.com/search?q=Minzy) | N/A |
-| 18 | [THANK YOU LORD](http://twitter.com/search?q=THANK+YOU+LORD) | N/A |
-| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 2 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
+| 3 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 4 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 5 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 6 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
+| 7 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 8 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
+| 9 | [#뽀뽀귀신_진우_생일축하해_쪽쪽](http://twitter.com/search?q=%23%eb%bd%80%eb%bd%80%ea%b7%80%ec%8b%a0_%ec%a7%84%ec%9a%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%aa%bd%ec%aa%bd) | N/A |
+| 10 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
+| 11 | [felip sinagot ang pangungulila](http://twitter.com/search?q=felip+sinagot+ang+pangungulila) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 14 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 15 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
+| 16 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 17 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
+| 18 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 20 | [GIVE ME YOUR FOREVER](http://twitter.com/search?q=GIVE+ME+YOUR+FOREVER) | N/A |
-| 21 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 22 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 23 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 25 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
-| 26 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 27 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 28 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 29 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
-| 30 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 31 | [#뉴이스트_데뷔11주년_축하해](http://twitter.com/search?q=%23%eb%89%b4%ec%9d%b4%ec%8a%a4%ed%8a%b8_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 32 | [#RandomBuskingForJisooEp2](http://twitter.com/search?q=%23RandomBuskingForJisooEp2) | N/A |
-| 33 | [#NUEST_11th_Anniversary](http://twitter.com/search?q=%23NUEST_11th_Anniversary) | N/A |
-| 34 | [#HSLOTinPH](http://twitter.com/search?q=%23HSLOTinPH) | N/A |
-| 35 | [#InvestorsBingoNight](http://twitter.com/search?q=%23InvestorsBingoNight) | N/A |
-| 36 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 37 | [#EPICON2023](http://twitter.com/search?q=%23EPICON2023) | N/A |
-| 38 | [#FLY_BY_で世界に急接近](http://twitter.com/search?q=%23FLY_BY_%e3%81%a7%e4%b8%96%e7%95%8c%e3%81%ab%e6%80%a5%e6%8e%a5%e8%bf%91) | N/A |
-| 39 | [#HSLOTMNL](http://twitter.com/search?q=%23HSLOTMNL) | N/A |
-| 40 | [#HSLOTMANILA](http://twitter.com/search?q=%23HSLOTMANILA) | N/A |
+| 21 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
+| 22 | [BOOMERANG MV OUTNOW](http://twitter.com/search?q=BOOMERANG+MV+OUTNOW) | N/A |
+| 23 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
+| 24 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
+| 25 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
+| 26 | [lalisa ninety million](http://twitter.com/search?q=lalisa+ninety+million) | N/A |
+| 27 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 28 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 29 | [bgyo official merch box](http://twitter.com/search?q=bgyo+official+merch+box) | N/A |
+| 30 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
+| 31 | [Paji](http://twitter.com/search?q=Paji) | N/A |
+| 32 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 33 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
+| 34 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
+| 35 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
+| 36 | [magnet mv 1m views](http://twitter.com/search?q=magnet+mv+1m+views) | N/A |
+| 37 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 38 | [prince pienabalik](http://twitter.com/search?q=prince+pienabalik) | N/A |
+| 39 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 40 | [VIBRENT MATAPANG VLOG](http://twitter.com/search?q=VIBRENT+MATAPANG+VLOG) | N/A |
+| 41 | [Dara](http://twitter.com/search?q=Dara) | N/A |
+| 42 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 43 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
+| 44 | [2ne1](http://twitter.com/search?q=2ne1) | N/A |
+| 45 | [OMG JAY](http://twitter.com/search?q=OMG+JAY) | N/A |
+| 46 | [Filo ARMYs](http://twitter.com/search?q=Filo+ARMYs) | N/A |
+| 47 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 48 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
+| 49 | [Puregold](http://twitter.com/search?q=Puregold) | N/A |
+| 50 | [chico dl expectations](http://twitter.com/search?q=chico+dl+expectations) | N/A |
 
 
 

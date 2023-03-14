@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-14 18:17:40 UTC`
+📆 Last Updated: `2023-03-14 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 2 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 3 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 4 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 5 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 6 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 8 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
-| 9 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 10 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
-| 11 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
-| 12 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 13 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 14 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 17 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 3 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 4 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 5 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 6 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 7 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 8 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 9 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 10 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 11 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
+| 12 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
+| 13 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 14 | [Ryder](http://twitter.com/search?q=Ryder) | N/A |
+| 15 | [#Sims4](http://twitter.com/search?q=%23Sims4) | N/A |
+| 16 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 17 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
 | 18 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 19 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
-| 20 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 21 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 22 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 23 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
-| 24 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 25 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
-| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 27 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 28 | [Istabraq](http://twitter.com/search?q=Istabraq) | N/A |
-| 29 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 30 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 31 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
-| 32 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 33 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 35 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 36 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
-| 37 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
-| 38 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 39 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 40 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 41 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 42 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 43 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 44 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 45 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
-| 46 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
-| 47 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 48 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 19 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 20 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 21 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 22 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 23 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 24 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 25 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 26 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 27 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 28 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 29 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 30 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 33 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 34 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 35 | [Bean](http://twitter.com/search?q=Bean) | N/A |
+| 36 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
+| 39 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
+| 40 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 41 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 42 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
+| 43 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 44 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 45 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 46 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 47 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 48 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
 
 
 

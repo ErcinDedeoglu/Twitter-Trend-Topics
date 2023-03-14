@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-14 18:18:28 UTC`
+📆 Last Updated: `2023-03-14 19:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 2 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 1 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 3 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 4 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 5 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 6 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 4 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 5 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 6 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
 | 7 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 8 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 9 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 10 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
-| 13 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 14 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 15 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
-| 16 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 17 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 18 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
-| 19 | [Marcedes Lewis](http://twitter.com/search?q=Marcedes+Lewis) | Marcedes Lewis is an American football tight end who currently plays for the Green Bay Packers of the National Football League (NFL). His name is a combination of his parents' names, Marcell and Mercedes. |
-| 20 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
-| 21 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 22 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 23 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 24 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 25 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 26 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 27 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 28 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 29 | [Donald Driver](http://twitter.com/search?q=Donald+Driver) | N/A |
-| 30 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 31 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 32 | [Greg Jennings](http://twitter.com/search?q=Greg+Jennings) | N/A |
-| 33 | [51% of Americans](http://twitter.com/search?q=51%25+of+Americans) | N/A |
-| 34 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
-| 35 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
-| 36 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 37 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 38 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
-| 39 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 40 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 41 | [EA App](http://twitter.com/search?q=EA+App) | N/A |
-| 42 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 43 | [Eddie Lacy](http://twitter.com/search?q=Eddie+Lacy) | N/A |
-| 44 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 45 | [UMBC](http://twitter.com/search?q=UMBC) | N/A |
-| 46 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 47 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 48 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 49 | [Draya](http://twitter.com/search?q=Draya) | N/A |
+| 8 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 9 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 10 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
+| 11 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 12 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 13 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
+| 14 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
+| 15 | [Josh McDaniels](http://twitter.com/search?q=Josh+McDaniels) | Josh McDaniels is an American football coach who is currently the offensive coordinator for the New England Patriots of the National Football League (NFL). He has previously served as head coach of the Denver Broncos and offensive coordinator for the St. Louis Rams. |
+| 16 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 17 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 18 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 21 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 22 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 23 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
+| 24 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 25 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 26 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
+| 27 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
+| 28 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 29 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 30 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
+| 31 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 32 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 33 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 34 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 35 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
+| 36 | [5 TE](http://twitter.com/search?q=5+TE) | N/A |
+| 37 | [GPT-3.5](http://twitter.com/search?q=GPT-3.5) | N/A |
+| 38 | [Draya](http://twitter.com/search?q=Draya) | N/A |
+| 39 | [Mostert](http://twitter.com/search?q=Mostert) | Mostert is a Dutch surname derived from the word "mostaard," which means "mustard." It is also a South African surname, and can be found in other countries as well. The English translation of Mostert is "Mustard." |
+| 40 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
+| 41 | [Green Bay](http://twitter.com/search?q=Green+Bay) | Green Bay is a city in Wisconsin, United States. It is located on the western shore of Lake Michigan at the mouth of the Fox River. The city is known for its association with the National Football League's Green Bay Packers, which play their home games at Lambeau Field. The name "Green Bay" comes from the French phrase "la baie des Puants," which translates to "the bay of stinks." |
+| 42 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
+| 43 | [Donald Driver](http://twitter.com/search?q=Donald+Driver) | N/A |
+| 44 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 45 | [Jacobs](http://twitter.com/search?q=Jacobs) | N/A |
+| 46 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 47 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 48 | [Foster Moreau](http://twitter.com/search?q=Foster+Moreau) | Foster Moreau is a French phrase that translates to “foster more” or “foster growth.” It is a phrase that encourages people to foster growth in their lives, whether it be personal, professional, or spiritual. |
+| 49 | [Pick 100](http://twitter.com/search?q=Pick+100) | N/A |
 
 
 

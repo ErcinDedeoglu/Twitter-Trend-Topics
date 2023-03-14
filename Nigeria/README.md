@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-14 18:18:44 UTC`
+📆 Last Updated: `2023-03-14 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,49 @@ This is top 50 for Nigeria
 | ------- | ------------ | ------------ |
 | 1 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
 | 2 | [#TheApartmentTvseries](http://twitter.com/search?q=%23TheApartmentTvseries) | N/A |
-| 3 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 4 | [#OPPOLevelUp](http://twitter.com/search?q=%23OPPOLevelUp) | N/A |
-| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 6 | [#alathackaholics4ishere](http://twitter.com/search?q=%23alathackaholics4ishere) | N/A |
-| 7 | [#YPPYouthGovernor](http://twitter.com/search?q=%23YPPYouthGovernor) | N/A |
-| 8 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 9 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 10 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 11 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 12 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 13 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 14 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 15 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 16 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 17 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 18 | [Enya](http://twitter.com/search?q=Enya) | N/A |
-| 19 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 20 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
-| 21 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 22 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
-| 23 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 24 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 25 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 26 | [VOTE YVONNE](http://twitter.com/search?q=VOTE+YVONNE) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Accord](http://twitter.com/search?q=Accord) | N/A |
-| 29 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 30 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 31 | [Shortbread](http://twitter.com/search?q=Shortbread) | N/A |
-| 32 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 33 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 34 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
-| 35 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 36 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 37 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 38 | [star girl day](http://twitter.com/search?q=star+girl+day) | N/A |
-| 39 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 40 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 41 | [Tofa](http://twitter.com/search?q=Tofa) | N/A |
-| 42 | [HYPE PHYNA](http://twitter.com/search?q=HYPE+PHYNA) | N/A |
-| 43 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 44 | [Old N200](http://twitter.com/search?q=Old+N200) | N/A |
-| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 46 | [$NXRA](http://twitter.com/search?q=%24NXRA) | N/A |
-| 47 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 48 | [mash tatin is here](http://twitter.com/search?q=mash+tatin+is+here) | N/A |
-| 49 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
-| 50 | [the money is kanalized](http://twitter.com/search?q=the+money+is+kanalized) | N/A |
+| 3 | [#BawaMustGo](http://twitter.com/search?q=%23BawaMustGo) | N/A |
+| 4 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 5 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 6 | [When God](http://twitter.com/search?q=When+God) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Accord](http://twitter.com/search?q=Accord) | N/A |
+| 9 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 10 | [Omo Ale](http://twitter.com/search?q=Omo+Ale) | N/A |
+| 11 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 12 | [#GoldenPennySugar](http://twitter.com/search?q=%23GoldenPennySugar) | N/A |
+| 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 14 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 15 | [Rinu](http://twitter.com/search?q=Rinu) | N/A |
+| 16 | [#OPPOLevelUp](http://twitter.com/search?q=%23OPPOLevelUp) | N/A |
+| 17 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 18 | [Jehoshaphat](http://twitter.com/search?q=Jehoshaphat) | N/A |
+| 19 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 20 | [Enya](http://twitter.com/search?q=Enya) | N/A |
+| 21 | [England](http://twitter.com/search?q=England) | N/A |
+| 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 23 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 25 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 26 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 27 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 28 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 31 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 32 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 33 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 34 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 35 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 36 | [Omah](http://twitter.com/search?q=Omah) | N/A |
+| 37 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 38 | [#AamirKhan](http://twitter.com/search?q=%23AamirKhan) | N/A |
+| 39 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 40 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 41 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 42 | [#OPPOReno8TLaunch](http://twitter.com/search?q=%23OPPOReno8TLaunch) | N/A |
+| 43 | [#PiNetwork](http://twitter.com/search?q=%23PiNetwork) | N/A |
+| 44 | [#Naira](http://twitter.com/search?q=%23Naira) | N/A |
+| 45 | [#KhosiTwala𓃵](http://twitter.com/search?q=%23KhosiTwala%f0%93%83%b5) | N/A |
 
 
 

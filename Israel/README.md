@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-14 18:18:42 UTC`
+📆 Last Updated: `2023-03-14 19:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 2 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 3 | [אודי סגל](http://twitter.com/search?q=%d7%90%d7%95%d7%93%d7%99+%d7%a1%d7%92%d7%9c) | N/A |
-| 4 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 5 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 6 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 7 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 8 | [טראוויס סקוט](http://twitter.com/search?q=%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a1+%d7%a1%d7%a7%d7%95%d7%98) | N/A |
-| 9 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
-| 10 | [כ פוגל](http://twitter.com/search?q=%d7%9b+%d7%a4%d7%95%d7%92%d7%9c) | N/A |
+| 2 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
+| 3 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 4 | [גז פלפל](http://twitter.com/search?q=%d7%92%d7%96+%d7%a4%d7%9c%d7%a4%d7%9c) | N/A |
+| 5 | [של גפני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%a4%d7%a0%d7%99) | N/A |
+| 6 | [אודי סגל](http://twitter.com/search?q=%d7%90%d7%95%d7%93%d7%99+%d7%a1%d7%92%d7%9c) | N/A |
+| 7 | [חוק פרטיות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa) | N/A |
+| 8 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 9 | [שבועות של](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2%d7%95%d7%aa+%d7%a9%d7%9c) | N/A |
+| 10 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
 | 11 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 12 | [נגד גזענות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa) | N/A |
-| 13 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 14 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [פוסט אמת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a1%d7%98+%d7%90%d7%9e%d7%aa) | N/A |
-| 17 | [חוק צרפתי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a6%d7%a8%d7%a4%d7%aa%d7%99) | N/A |
-| 18 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 19 | [של גפני](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%a4%d7%a0%d7%99) | N/A |
-| 20 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
-| 21 | [European](http://twitter.com/search?q=European) | N/A |
-| 22 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 23 | [בני אנוש](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
-| 24 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 25 | [הרב אליהו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
-| 26 | [עם השגריר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a9%d7%92%d7%a8%d7%99%d7%a8) | N/A |
-| 27 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 28 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
-| 29 | [יורד גשם](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%93+%d7%92%d7%a9%d7%9d) | N/A |
-| 30 | [עם שגריר ישראל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 31 | [עידן חדש](http://twitter.com/search?q=%d7%a2%d7%99%d7%93%d7%9f+%d7%97%d7%93%d7%a9) | N/A |
-| 32 | [שמואל אליהו](http://twitter.com/search?q=%d7%a9%d7%9e%d7%95%d7%90%d7%9c+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
-| 33 | [فؤاد الشوبكي](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d9%88%d8%a8%d9%83%d9%8a) | N/A |
-| 34 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
-| 35 | [דברים רעים](http://twitter.com/search?q=%d7%93%d7%91%d7%a8%d7%99%d7%9d+%d7%a8%d7%a2%d7%99%d7%9d) | N/A |
-| 36 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 37 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 38 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 39 | [טומי לפיד](http://twitter.com/search?q=%d7%98%d7%95%d7%9e%d7%99+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 40 | [מירב כהן](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%9b%d7%94%d7%9f) | N/A |
-| 41 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
-| 42 | [דין דוד](http://twitter.com/search?q=%d7%93%d7%99%d7%9f+%d7%93%d7%95%d7%93) | N/A |
-| 43 | [אבי וייס](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%95%d7%99%d7%99%d7%a1) | N/A |
-| 44 | [הכוח רוטנברג](http://twitter.com/search?q=%d7%94%d7%9b%d7%95%d7%97+%d7%a8%d7%95%d7%98%d7%a0%d7%91%d7%a8%d7%92) | N/A |
-| 45 | [מדבר אנגלית](http://twitter.com/search?q=%d7%9e%d7%93%d7%91%d7%a8+%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa) | N/A |
-| 46 | [של קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%99%d7%a9) | N/A |
-| 47 | [תה ירוק](http://twitter.com/search?q=%d7%aa%d7%94+%d7%99%d7%a8%d7%95%d7%a7) | N/A |
-| 48 | [שלוש פעמים](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%a9+%d7%a4%d7%a2%d7%9e%d7%99%d7%9d) | N/A |
-| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 50 | [כוח אדם](http://twitter.com/search?q=%d7%9b%d7%95%d7%97+%d7%90%d7%93%d7%9d) | N/A |
+| 12 | [טראוויס סקוט](http://twitter.com/search?q=%d7%98%d7%a8%d7%90%d7%95%d7%95%d7%99%d7%a1+%d7%a1%d7%a7%d7%95%d7%98) | N/A |
+| 13 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 14 | [גיוס חובה](http://twitter.com/search?q=%d7%92%d7%99%d7%95%d7%a1+%d7%97%d7%95%d7%91%d7%94) | N/A |
+| 15 | [רחל עזריה](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%a2%d7%96%d7%a8%d7%99%d7%94) | N/A |
+| 16 | [נגד גזענות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa) | N/A |
+| 17 | [כ פוגל](http://twitter.com/search?q=%d7%9b+%d7%a4%d7%95%d7%92%d7%9c) | N/A |
+| 18 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 19 | [מבקר המדינה](http://twitter.com/search?q=%d7%9e%d7%91%d7%a7%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [חוק צרפתי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a6%d7%a8%d7%a4%d7%aa%d7%99) | N/A |
+| 22 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 23 | [כי טוב](http://twitter.com/search?q=%d7%9b%d7%99+%d7%98%d7%95%d7%91) | N/A |
+| 24 | [European](http://twitter.com/search?q=European) | N/A |
+| 25 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 26 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
+| 27 | [בני אנוש](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%90%d7%a0%d7%95%d7%a9) | N/A |
+| 28 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 29 | [הרב אליהו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 30 | [רז שלמה](http://twitter.com/search?q=%d7%a8%d7%96+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 31 | [יורד גשם](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%93+%d7%92%d7%a9%d7%9d) | N/A |
+| 32 | [עם שגריר ישראל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 33 | [שמואל אליהו](http://twitter.com/search?q=%d7%a9%d7%9e%d7%95%d7%90%d7%9c+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 34 | [גלית דיסטל](http://twitter.com/search?q=%d7%92%d7%9c%d7%99%d7%aa+%d7%93%d7%99%d7%a1%d7%98%d7%9c) | N/A |
+| 35 | [فؤاد الشوبكي](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d9%88%d8%a8%d9%83%d9%8a) | N/A |
+| 36 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
+| 37 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
+| 38 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 39 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
+| 40 | [טומי לפיד](http://twitter.com/search?q=%d7%98%d7%95%d7%9e%d7%99+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 41 | [ערוץ הכנסת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 42 | [עם חולצה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%95%d7%9c%d7%a6%d7%94) | N/A |
+| 43 | [מירב כהן](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%9b%d7%94%d7%9f) | N/A |
+| 44 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 45 | [דין דוד](http://twitter.com/search?q=%d7%93%d7%99%d7%9f+%d7%93%d7%95%d7%93) | N/A |
+| 46 | [מדבר אנגלית](http://twitter.com/search?q=%d7%9e%d7%93%d7%91%d7%a8+%d7%90%d7%a0%d7%92%d7%9c%d7%99%d7%aa) | N/A |
+| 47 | [הכוח רוטנברג](http://twitter.com/search?q=%d7%94%d7%9b%d7%95%d7%97+%d7%a8%d7%95%d7%98%d7%a0%d7%91%d7%a8%d7%92) | N/A |
+| 48 | [אבי וייס](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%95%d7%99%d7%99%d7%a1) | N/A |
+| 49 | [של קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%99%d7%a9) | N/A |
+| 50 | [בן שלום](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
 
 
 

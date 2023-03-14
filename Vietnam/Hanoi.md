@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-14 18:18:11 UTC`
+📆 Last Updated: `2023-03-14 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,19 +29,19 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 12 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
 | 13 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
 | 14 | [Happy White Valentine](http://twitter.com/search?q=Happy+White+Valentine) | N/A |
-| 15 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 16 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 17 | [Kols](http://twitter.com/search?q=Kols) | N/A |
+| 15 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 16 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 17 | [KOLs](http://twitter.com/search?q=KOLs) | N/A |
 | 18 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 19 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
 | 20 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 21 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 22 | [CoinMarketCap](http://twitter.com/search?q=CoinMarketCap) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [CoinMarketCap](http://twitter.com/search?q=CoinMarketCap) | N/A |
 | 24 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 25 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 26 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 27 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 26 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 27 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
 | 28 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
 | 29 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 30 | [Omega](http://twitter.com/search?q=Omega) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 32 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
 | 33 | [Tham](http://twitter.com/search?q=Tham) | N/A |
 | 34 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 35 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 36 | [Trong](http://twitter.com/search?q=Trong) | N/A |
-| 37 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 39 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
-| 40 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 41 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
-| 42 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 43 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 44 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
-| 45 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 47 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 49 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
-| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 35 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Trong](http://twitter.com/search?q=Trong) | N/A |
+| 38 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
+| 39 | [Thiệt](http://twitter.com/search?q=Thi%e1%bb%87t) | N/A |
+| 40 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
+| 41 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 42 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
+| 43 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 44 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 45 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
+| 46 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 48 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 50 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
 
 
 

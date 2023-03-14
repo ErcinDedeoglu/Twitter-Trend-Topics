@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-14 18:18:47 UTC`
+📆 Last Updated: `2023-03-14 19:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 3 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 4 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 5 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 6 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 7 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
-| 8 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 9 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 11 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
-| 12 | [#Sims4](http://twitter.com/search?q=%23Sims4) | N/A |
-| 13 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 14 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 15 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
-| 16 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 17 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
-| 20 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 21 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 22 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 23 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 24 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 25 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
-| 26 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
-| 29 | [Istabraq](http://twitter.com/search?q=Istabraq) | N/A |
-| 30 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 32 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
-| 33 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
-| 34 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 35 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 36 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
-| 37 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 38 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
-| 39 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 40 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 41 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 42 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
-| 43 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 44 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 45 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 46 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 47 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
-| 48 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 49 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 50 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 2 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 3 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 4 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 5 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 6 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 7 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 8 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 9 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 10 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
+| 11 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
+| 12 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
+| 13 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 14 | [#Sims4](http://twitter.com/search?q=%23Sims4) | N/A |
+| 15 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 16 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 17 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 18 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 19 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 20 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 21 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 23 | [#Hollyoaks](http://twitter.com/search?q=%23Hollyoaks) | N/A |
+| 24 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 25 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 26 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
+| 27 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 28 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 29 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 30 | [Bean](http://twitter.com/search?q=Bean) | N/A |
+| 31 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 32 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 33 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 36 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
+| 37 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 38 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 40 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 41 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
+| 42 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 43 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
+| 44 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 45 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 46 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 47 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 48 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
+| 49 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 50 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
 
 
 
