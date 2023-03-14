@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-14 09:17:01 UTC`
+📆 Last Updated: `2023-03-14 10:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
-| 3 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 6 | [Seine](http://twitter.com/search?q=Seine) | N/A |
-| 7 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
+| 1 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
+| 2 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 3 | [Seine](http://twitter.com/search?q=Seine) | N/A |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [Sophia Aram](http://twitter.com/search?q=Sophia+Aram) | N/A |
+| 6 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 7 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
 | 8 | [J-500](http://twitter.com/search?q=J-500) | N/A |
 | 9 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
 | 10 | [Dick Fosbury](http://twitter.com/search?q=Dick+Fosbury) | N/A |
-| 11 | [Laurent Alexandre](http://twitter.com/search?q=Laurent+Alexandre) | N/A |
-| 12 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 14 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 16 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 17 | [Courson](http://twitter.com/search?q=Courson) | N/A |
-| 18 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 19 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [Navigo](http://twitter.com/search?q=Navigo) | N/A |
-| 22 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
-| 23 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
-| 24 | [Maurice Couve de Murville](http://twitter.com/search?q=Maurice+Couve+de+Murville) | N/A |
-| 25 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 26 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 27 | [Digidix](http://twitter.com/search?q=Digidix) | N/A |
-| 28 | [Alain Bashung](http://twitter.com/search?q=Alain+Bashung) | N/A |
-| 29 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 30 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 31 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 32 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 33 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 34 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 35 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 36 | [aholou](http://twitter.com/search?q=aholou) | N/A |
-| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 39 | [Daniel Kretinsky](http://twitter.com/search?q=Daniel+Kretinsky) | N/A |
-| 40 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 41 | [Cyrielle](http://twitter.com/search?q=Cyrielle) | N/A |
-| 42 | [1h25](http://twitter.com/search?q=1h25) | N/A |
-| 43 | [Stephanie](http://twitter.com/search?q=Stephanie) | N/A |
-| 44 | [Mathilde](http://twitter.com/search?q=Mathilde) | N/A |
-| 45 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
-| 46 | [Oliv Oliv](http://twitter.com/search?q=Oliv+Oliv) | N/A |
-| 47 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 11 | [Hanouna](http://twitter.com/search?q=Hanouna) | N/A |
+| 12 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 13 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 14 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 16 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 17 | [Yoka](http://twitter.com/search?q=Yoka) | N/A |
+| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 19 | [Digidix](http://twitter.com/search?q=Digidix) | N/A |
+| 20 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 21 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 25 | [Courson](http://twitter.com/search?q=Courson) | N/A |
+| 26 | [Jacques Attali](http://twitter.com/search?q=Jacques+Attali) | N/A |
+| 27 | [Cyrielle](http://twitter.com/search?q=Cyrielle) | N/A |
+| 28 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 29 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 30 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 31 | [Platini](http://twitter.com/search?q=Platini) | N/A |
+| 32 | [Daniel Kretinsky](http://twitter.com/search?q=Daniel+Kretinsky) | N/A |
+| 33 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 34 | [1h25](http://twitter.com/search?q=1h25) | N/A |
+| 35 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 36 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 37 | [Sonia Mabrouk](http://twitter.com/search?q=Sonia+Mabrouk) | N/A |
+| 38 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 39 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 40 | [Wawrinka](http://twitter.com/search?q=Wawrinka) | N/A |
+| 41 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 42 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 43 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 44 | [Chalamet](http://twitter.com/search?q=Chalamet) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 
 
 

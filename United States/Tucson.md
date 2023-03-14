@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-14 09:17:34 UTC`
+📆 Last Updated: `2023-03-14 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 2 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 3 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 4 | [Trey Lyles](http://twitter.com/search?q=Trey+Lyles) | Trey Lyles is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). His name is derived from his given name, Trey, and his middle name, Lyles. The name Trey Lyles can be translated to mean "third son of Lyles". |
-| 5 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 1 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 2 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 3 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 4 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 5 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
 | 6 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
-| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 10 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 11 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 12 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 13 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 14 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 15 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 16 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 17 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 18 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 19 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 20 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 21 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 22 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 23 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 24 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 25 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 26 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 27 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 28 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 29 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 30 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 31 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 32 | [Damion Lee](http://twitter.com/search?q=Damion+Lee) | Damion Lee is a name of American professional basketball player. He currently plays for the Golden State Warriors of the National Basketball Association (NBA). The name Damion is derived from the Latin word "damare" which means "to tame or subdue". |
-| 33 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 34 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 36 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 37 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 38 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 39 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 40 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
-| 41 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 42 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 43 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 44 | [Sour](http://twitter.com/search?q=Sour) | N/A |
-| 45 | [Khris Middleton](http://twitter.com/search?q=Khris+Middleton) | N/A |
-| 46 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 47 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 48 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 49 | [Gravity Falls](http://twitter.com/search?q=Gravity+Falls) | N/A |
+| 7 | [#Wordle633](http://twitter.com/search?q=%23Wordle633) | N/A |
+| 8 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 9 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 10 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 11 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 12 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 13 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 14 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 15 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 16 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 17 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 18 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 20 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 21 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 22 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 23 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 24 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 25 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 26 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 27 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 28 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 29 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 30 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 31 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 32 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 33 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 34 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 35 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 36 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 37 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 38 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 39 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 40 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 41 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 42 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 43 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 44 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 45 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 46 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 47 | [Paul Sorvino](http://twitter.com/search?q=Paul+Sorvino) | N/A |
+| 48 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 49 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
 
 
 

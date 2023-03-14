@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-14 09:17:25 UTC`
+📆 Last Updated: `2023-03-14 10:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 2 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 3 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
+| 1 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 2 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
+| 3 | [#sasa](http://twitter.com/search?q=%23sasa) | N/A |
 | 4 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 5 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 6 | [#SaglikciUlusMeydanında](http://twitter.com/search?q=%23SaglikciUlusMeydan%c4%b1nda) | N/A |
-| 7 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 8 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 9 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
-| 10 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
-| 11 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 12 | [Kahramanmaraş'ta 4.7](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+4.7) | N/A |
+| 5 | [#SaglikciUlusMeydanında](http://twitter.com/search?q=%23SaglikciUlusMeydan%c4%b1nda) | N/A |
+| 6 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
+| 7 | [#5000ŞartsızKısmiHakkımız](http://twitter.com/search?q=%235000%c5%9earts%c4%b1zK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
+| 8 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
+| 9 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
+| 10 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 11 | [OyumEhliyet AffınıVerene](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1n%c4%b1Verene) | N/A |
+| 12 | [Beni Türk](http://twitter.com/search?q=Beni+T%c3%bcrk) | N/A |
 | 13 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 14 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 15 | [Hikmet Boran](http://twitter.com/search?q=Hikmet+Boran) | N/A |
-| 16 | [Varsınız](http://twitter.com/search?q=Vars%c4%b1n%c4%b1z) | N/A |
-| 17 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 18 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 19 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 20 | [Begüm](http://twitter.com/search?q=Beg%c3%bcm) | N/A |
-| 21 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 22 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
-| 23 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
-| 24 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
-| 25 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 26 | [Tevfik](http://twitter.com/search?q=Tevfik) | N/A |
-| 27 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 28 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
-| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 30 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
-| 31 | [#5000ŞartsızKısmiHakkımız](http://twitter.com/search?q=%235000%c5%9earts%c4%b1zK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
-| 32 | [#TeşekkürlerErbakan](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerErbakan) | N/A |
-| 33 | [#sigara](http://twitter.com/search?q=%23sigara) | N/A |
-| 34 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
-| 35 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
-| 36 | [#doktor](http://twitter.com/search?q=%23doktor) | N/A |
-| 37 | [#StajyerTorbadanUmutlu](http://twitter.com/search?q=%23StajyerTorbadanUmutlu) | N/A |
-| 38 | [#15Mayısta](http://twitter.com/search?q=%2315May%c4%b1sta) | N/A |
-| 39 | [#SALI](http://twitter.com/search?q=%23SALI) | N/A |
-| 40 | [#sağlık](http://twitter.com/search?q=%23sa%c4%9fl%c4%b1k) | N/A |
-| 41 | [#KarlMarx](http://twitter.com/search?q=%23KarlMarx) | N/A |
-| 42 | [#37GünGeçti](http://twitter.com/search?q=%2337G%c3%bcnGe%c3%a7ti) | N/A |
-| 43 | [#hemşire](http://twitter.com/search?q=%23hem%c5%9fire) | N/A |
-| 44 | [#5000veKısmiGecikmesin](http://twitter.com/search?q=%235000veK%c4%b1smiGecikmesin) | N/A |
-| 45 | [#13üncüCBbayKemal](http://twitter.com/search?q=%2313%c3%bcnc%c3%bcCBbayKemal) | N/A |
-| 46 | [#ABOsuzYoksulKalırız](http://twitter.com/search?q=%23ABOsuzYoksulKal%c4%b1r%c4%b1z) | N/A |
-| 47 | [#universitelilermedyada](http://twitter.com/search?q=%23universitelilermedyada) | N/A |
-| 48 | [#odas](http://twitter.com/search?q=%23odas) | N/A |
-| 49 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 50 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 14 | [Kahramanmaraş'ta 4.7](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+4.7) | N/A |
+| 15 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 16 | [Fenerbahçe - Sevilla](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Sevilla) | N/A |
+| 17 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 18 | [Hikmet Boran](http://twitter.com/search?q=Hikmet+Boran) | N/A |
+| 19 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 20 | [Edip](http://twitter.com/search?q=Edip) | N/A |
+| 21 | [Tıbbiyeli Hikmet](http://twitter.com/search?q=T%c4%b1bbiyeli+Hikmet) | N/A |
+| 22 | [Varsınız](http://twitter.com/search?q=Vars%c4%b1n%c4%b1z) | N/A |
+| 23 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 24 | [Ateist](http://twitter.com/search?q=Ateist) | N/A |
+| 25 | [Haluk Bilginer](http://twitter.com/search?q=Haluk+Bilginer) | N/A |
+| 26 | [Göksu](http://twitter.com/search?q=G%c3%b6ksu) | N/A |
+| 27 | [Begüm](http://twitter.com/search?q=Beg%c3%bcm) | N/A |
+| 28 | [IŞİD](http://twitter.com/search?q=I%c5%9e%c4%b0D) | N/A |
+| 29 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
+| 30 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 31 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 32 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 33 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 34 | [Bir Davul 7 Tokmak](http://twitter.com/search?q=Bir+Davul+7+Tokmak) | N/A |
+| 35 | [Tevfik](http://twitter.com/search?q=Tevfik) | N/A |
+| 36 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 37 | [Arabada](http://twitter.com/search?q=Arabada) | N/A |
+| 38 | [Cinayet](http://twitter.com/search?q=Cinayet) | N/A |
+| 39 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 40 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
+| 41 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 42 | [#TeşekkürlerErbakan](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerErbakan) | N/A |
+| 43 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 44 | [#sigara](http://twitter.com/search?q=%23sigara) | N/A |
+| 45 | [#doktor](http://twitter.com/search?q=%23doktor) | N/A |
+| 46 | [#SedatPeker](http://twitter.com/search?q=%23SedatPeker) | N/A |
+| 47 | [#DeryaYanıkistifa](http://twitter.com/search?q=%23DeryaYan%c4%b1kistifa) | N/A |
+| 48 | [#hemşire](http://twitter.com/search?q=%23hem%c5%9fire) | N/A |
+| 49 | [#StajyerTorbadanUmutlu](http://twitter.com/search?q=%23StajyerTorbadanUmutlu) | N/A |
+| 50 | [#sağlık](http://twitter.com/search?q=%23sa%c4%9fl%c4%b1k) | N/A |
 
 
 

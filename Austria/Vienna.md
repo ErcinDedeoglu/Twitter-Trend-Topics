@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-14 09:16:59 UTC`
+📆 Last Updated: `2023-03-14 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CND66](http://twitter.com/search?q=%23CND66) | N/A |
-| 2 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
-| 3 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 4 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
-| 5 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 6 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 7 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 8 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 9 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 10 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
-| 11 | [Pickerl](http://twitter.com/search?q=Pickerl) | N/A |
-| 12 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 13 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 14 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
-| 15 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 16 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 17 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 18 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 19 | [Einlagen](http://twitter.com/search?q=Einlagen) | N/A |
-| 20 | [#stufak](http://twitter.com/search?q=%23stufak) | N/A |
-| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 22 | [#scrwsg](http://twitter.com/search?q=%23scrwsg) | N/A |
-| 23 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 24 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 25 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 26 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 27 | [Linien](http://twitter.com/search?q=Linien) | N/A |
-| 28 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 29 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 30 | [Verständlich](http://twitter.com/search?q=Verst%c3%a4ndlich) | N/A |
-| 31 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 32 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 33 | [hergovich](http://twitter.com/search?q=hergovich) | N/A |
-| 34 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 35 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 37 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 38 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 39 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 40 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 41 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 42 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 43 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 44 | [Richtungen](http://twitter.com/search?q=Richtungen) | N/A |
-| 45 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 46 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 47 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 48 | [Panik](http://twitter.com/search?q=Panik) | N/A |
-| 49 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
-| 50 | [Karli](http://twitter.com/search?q=Karli) | N/A |
+| 2 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 3 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 4 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 5 | [Seilbahn](http://twitter.com/search?q=Seilbahn) | N/A |
+| 6 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 7 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
+| 8 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 9 | [Impfschaden](http://twitter.com/search?q=Impfschaden) | N/A |
+| 10 | [Guten Morgen Ingrid](http://twitter.com/search?q=Guten+Morgen+Ingrid) | N/A |
+| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 12 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 13 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 14 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 15 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 16 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 17 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 18 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 19 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 20 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 21 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 22 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 23 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 24 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 25 | [#kaffeegang](http://twitter.com/search?q=%23kaffeegang) | N/A |
+| 26 | [Werk](http://twitter.com/search?q=Werk) | N/A |
+| 27 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 28 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 29 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 30 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 31 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 32 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 33 | [Hergovich](http://twitter.com/search?q=Hergovich) | N/A |
+| 34 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 35 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 36 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 37 | [Effekt](http://twitter.com/search?q=Effekt) | N/A |
+| 38 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 39 | [Wert](http://twitter.com/search?q=Wert) | N/A |
+| 40 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 41 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 42 | [Blase](http://twitter.com/search?q=Blase) | N/A |
+| 43 | [Wahlversprechen](http://twitter.com/search?q=Wahlversprechen) | N/A |
+| 44 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 45 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 46 | [Strafe](http://twitter.com/search?q=Strafe) | N/A |
+| 47 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 48 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 49 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
+| 50 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-14 09:16:55 UTC`
+📆 Last Updated: `2023-03-14 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#13Mar](http://twitter.com/search?q=%2313Mar) | N/A |
 | 2 | [#ChávezDelMundo](http://twitter.com/search?q=%23Ch%c3%a1vezDelMundo) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 5 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 6 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 8 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 9 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 10 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
-| 11 | [día de la industria nacional](http://twitter.com/search?q=d%c3%ada+de+la+industria+nacional) | N/A |
-| 12 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 13 | [silvino](http://twitter.com/search?q=silvino) | N/A |
-| 14 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 15 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 16 | [Neceser](http://twitter.com/search?q=Neceser) | N/A |
-| 17 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 18 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 21 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 22 | [Gaceta Oficial](http://twitter.com/search?q=Gaceta+Oficial) | N/A |
-| 23 | [Miguel Ángel Landa](http://twitter.com/search?q=Miguel+%c3%81ngel+Landa) | N/A |
-| 24 | [multigrafo](http://twitter.com/search?q=multigrafo) | N/A |
-| 25 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 26 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 5 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 6 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 7 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 8 | [Culantro](http://twitter.com/search?q=Culantro) | N/A |
+| 9 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 10 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 11 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 12 | [neceser](http://twitter.com/search?q=neceser) | N/A |
+| 13 | [Miguel Ángel Landa](http://twitter.com/search?q=Miguel+%c3%81ngel+Landa) | N/A |
+| 14 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 15 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 16 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 17 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 18 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 19 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 20 | [Saime](http://twitter.com/search?q=Saime) | N/A |
+| 21 | [Gaceta Oficial](http://twitter.com/search?q=Gaceta+Oficial) | N/A |
+| 22 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 23 | [Pepe Grillo](http://twitter.com/search?q=Pepe+Grillo) | N/A |
+| 24 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 25 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 27 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 28 | [Pepe Grillo](http://twitter.com/search?q=Pepe+Grillo) | N/A |
-| 29 | [Saime](http://twitter.com/search?q=Saime) | N/A |
-| 30 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 31 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 32 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 35 | [sonya smith](http://twitter.com/search?q=sonya+smith) | N/A |
-| 36 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
-| 37 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 38 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 41 | [Templario](http://twitter.com/search?q=Templario) | N/A |
-| 42 | [Tren del Llano](http://twitter.com/search?q=Tren+del+Llano) | N/A |
-| 43 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 44 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 45 | [Mia Farrow](http://twitter.com/search?q=Mia+Farrow) | N/A |
-| 46 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 47 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 28 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
+| 29 | [multigrafo](http://twitter.com/search?q=multigrafo) | N/A |
+| 30 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 31 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 32 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 33 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [día de la industria nacional](http://twitter.com/search?q=d%c3%ada+de+la+industria+nacional) | N/A |
+| 36 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 37 | [sonya smith](http://twitter.com/search?q=sonya+smith) | N/A |
+| 38 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 39 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
+| 40 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
+| 44 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 45 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 46 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 47 | [Templario](http://twitter.com/search?q=Templario) | N/A |
 
 
 

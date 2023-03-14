@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-14 09:17:42 UTC`
+📆 Last Updated: `2023-03-14 10:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Vietnam
 | 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
 | 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
 | 3 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 4 | [MISSING BIBLEBUILD](http://twitter.com/search?q=MISSING+BIBLEBUILD) | N/A |
-| 5 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 6 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 7 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 8 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 9 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 10 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 4 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 5 | [#SmokeSpriteftRM](http://twitter.com/search?q=%23SmokeSpriteftRM) | N/A |
+| 6 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 7 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
+| 8 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
+| 9 | [MISSING BIBLEBUILD](http://twitter.com/search?q=MISSING+BIBLEBUILD) | N/A |
+| 10 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 11 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 12 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 13 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 14 | [set me free pt2 poster](http://twitter.com/search?q=set+me+free+pt2+poster) | N/A |
-| 15 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 16 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 17 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 18 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
-| 19 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 20 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 21 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 22 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 23 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 24 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 25 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 26 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
-| 27 | [p'fa](http://twitter.com/search?q=p%27fa) | N/A |
-| 28 | [Có 1](http://twitter.com/search?q=C%c3%b3+1) | N/A |
-| 29 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 12 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 15 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 16 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 19 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
+| 20 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 21 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 22 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 23 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 24 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 25 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 26 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 27 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 28 | [Nhiều](http://twitter.com/search?q=Nhi%e1%bb%81u) | N/A |
+| 29 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
 | 30 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 31 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 32 | [USDC](http://twitter.com/search?q=USDC) | N/A |
-| 33 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 34 | [cuộc](http://twitter.com/search?q=cu%e1%bb%99c) | N/A |
-| 35 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 36 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 37 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 38 | [seokjin ăn nhiều vào nhé](http://twitter.com/search?q=seokjin+%c4%83n+nhi%e1%bb%81u+v%c3%a0o+nh%c3%a9) | N/A |
-| 39 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
-| 40 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
-| 41 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 42 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 44 | [Stablecoin](http://twitter.com/search?q=Stablecoin) | N/A |
-| 45 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 47 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
-| 50 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 31 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 32 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 33 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 34 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 35 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
+| 36 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 38 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
+| 39 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 40 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
+| 41 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
+| 42 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
+| 43 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 44 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 45 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 46 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 47 | [có 1](http://twitter.com/search?q=c%c3%b3+1) | N/A |
+| 48 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 49 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 50 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
 
 
 

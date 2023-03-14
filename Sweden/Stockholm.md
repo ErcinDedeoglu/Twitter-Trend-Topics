@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-14 09:17:06 UTC`
+📆 Last Updated: `2023-03-14 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
+| 1 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
 | 2 | [Durmaz](http://twitter.com/search?q=Durmaz) | N/A |
-| 3 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 4 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 5 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 6 | [Tekie](http://twitter.com/search?q=Tekie) | N/A |
-| 7 | [Salem](http://twitter.com/search?q=Salem) | N/A |
-| 8 | [madjed](http://twitter.com/search?q=madjed) | N/A |
-| 9 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
-| 10 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
-| 11 | [Armalis](http://twitter.com/search?q=Armalis) | N/A |
-| 12 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 13 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 14 | [al hakim](http://twitter.com/search?q=al+hakim) | N/A |
-| 15 | [Nima](http://twitter.com/search?q=Nima) | N/A |
-| 16 | [Hammar](http://twitter.com/search?q=Hammar) | N/A |
-| 17 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
-| 18 | [engsund](http://twitter.com/search?q=engsund) | N/A |
-| 19 | [Brännan](http://twitter.com/search?q=Br%c3%a4nnan) | N/A |
-| 20 | [Tinnerholm](http://twitter.com/search?q=Tinnerholm) | N/A |
-| 21 | [Willys](http://twitter.com/search?q=Willys) | N/A |
-| 22 | [Kurtulus](http://twitter.com/search?q=Kurtulus) | N/A |
-| 23 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
-| 24 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 25 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
-| 26 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 27 | [Fenger](http://twitter.com/search?q=Fenger) | N/A |
-| 28 | [Jim Cramer](http://twitter.com/search?q=Jim+Cramer) | N/A |
-| 29 | [Kristendomen](http://twitter.com/search?q=Kristendomen) | N/A |
-| 30 | [Dovin](http://twitter.com/search?q=Dovin) | N/A |
-| 31 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 32 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 33 | [#svenskacupen](http://twitter.com/search?q=%23svenskacupen) | N/A |
-| 34 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 35 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
-| 36 | [Västervik](http://twitter.com/search?q=V%c3%a4stervik) | N/A |
-| 37 | [Gnaget](http://twitter.com/search?q=Gnaget) | N/A |
-| 38 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
-| 39 | [mikko manner](http://twitter.com/search?q=mikko+manner) | N/A |
-| 40 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 41 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 42 | [Simon Strand](http://twitter.com/search?q=Simon+Strand) | N/A |
-| 43 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 44 | [Larsson](http://twitter.com/search?q=Larsson) | N/A |
-| 45 | [karin pettersson](http://twitter.com/search?q=karin+pettersson) | N/A |
-| 46 | [#svpol](http://twitter.com/search?q=%23svpol) | N/A |
-| 47 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
-| 48 | [Saidi](http://twitter.com/search?q=Saidi) | N/A |
-| 49 | [nordman](http://twitter.com/search?q=nordman) | N/A |
-| 50 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 3 | [#bajen](http://twitter.com/search?q=%23bajen) | N/A |
+| 4 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 5 | [Salem](http://twitter.com/search?q=Salem) | N/A |
+| 6 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
+| 7 | [Milosevic](http://twitter.com/search?q=Milosevic) | N/A |
+| 8 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
+| 9 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 10 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
+| 11 | [Tekie](http://twitter.com/search?q=Tekie) | N/A |
+| 12 | [Oatly](http://twitter.com/search?q=Oatly) | N/A |
+| 13 | [Ungern](http://twitter.com/search?q=Ungern) | N/A |
+| 14 | [Armalis](http://twitter.com/search?q=Armalis) | N/A |
+| 15 | [Hammar](http://twitter.com/search?q=Hammar) | N/A |
+| 16 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
+| 17 | [Simon Strand](http://twitter.com/search?q=Simon+Strand) | N/A |
+| 18 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 19 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 20 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 21 | [Brännan](http://twitter.com/search?q=Br%c3%a4nnan) | N/A |
+| 22 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 23 | [Tinnerholm](http://twitter.com/search?q=Tinnerholm) | N/A |
+| 24 | [Al-Hakim](http://twitter.com/search?q=Al-Hakim) | N/A |
+| 25 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
+| 26 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 27 | [Dovin](http://twitter.com/search?q=Dovin) | N/A |
+| 28 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 29 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 30 | [Fenger](http://twitter.com/search?q=Fenger) | N/A |
+| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 32 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 33 | [Ruben Östlund](http://twitter.com/search?q=Ruben+%c3%96stlund) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [Madjed](http://twitter.com/search?q=Madjed) | N/A |
+| 36 | [Tidöavtalet](http://twitter.com/search?q=Tid%c3%b6avtalet) | N/A |
+| 37 | [Danderyd](http://twitter.com/search?q=Danderyd) | N/A |
+| 38 | [tele 2](http://twitter.com/search?q=tele+2) | N/A |
+| 39 | [Gnaget](http://twitter.com/search?q=Gnaget) | N/A |
+| 40 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 41 | [#SvenskaCupen](http://twitter.com/search?q=%23SvenskaCupen) | N/A |
+| 42 | [Hjälp](http://twitter.com/search?q=Hj%c3%a4lp) | N/A |
+| 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 44 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 45 | [Larsson](http://twitter.com/search?q=Larsson) | N/A |
+| 46 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 47 | [Moderaternas](http://twitter.com/search?q=Moderaternas) | N/A |
+| 48 | [Ulf Kristersson](http://twitter.com/search?q=Ulf+Kristersson) | N/A |
 
 
 

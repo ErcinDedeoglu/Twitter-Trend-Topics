@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-14 09:17:21 UTC`
+📆 Last Updated: `2023-03-14 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
-| 2 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
-| 3 | [#JusticeForShoaibShaikh](http://twitter.com/search?q=%23JusticeForShoaibShaikh) | N/A |
-| 4 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
+| 2 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
+| 3 | [#ImranKhanRally](http://twitter.com/search?q=%23ImranKhanRally) | N/A |
+| 4 | [#ٹوچہ_خانہ_چور_نسل](http://twitter.com/search?q=%23%d9%b9%d9%88%da%86%db%81_%d8%ae%d8%a7%d9%86%db%81_%da%86%d9%88%d8%b1_%d9%86%d8%b3%d9%84) | N/A |
 | 5 | [#مریم_گھڑی_چور](http://twitter.com/search?q=%23%d9%85%d8%b1%db%8c%d9%85_%da%af%da%be%da%91%db%8c_%da%86%d9%88%d8%b1) | N/A |
 | 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 7 | [Malala](http://twitter.com/search?q=Malala) | N/A |
 | 8 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 9 | [Zahir Jaffer](http://twitter.com/search?q=Zahir+Jaffer) | N/A |
-| 10 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
-| 11 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 12 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 13 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 14 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 15 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 16 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 17 | [KAPIL AT SHEHNAAZ SHOW](http://twitter.com/search?q=KAPIL+AT+SHEHNAAZ+SHOW) | N/A |
-| 18 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
-| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 20 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 21 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
-| 22 | [Slide](http://twitter.com/search?q=Slide) | N/A |
-| 23 | [Shadab Azam](http://twitter.com/search?q=Shadab+Azam) | N/A |
+| 9 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
+| 10 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 11 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 14 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
+| 15 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 16 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
+| 17 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 18 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 20 | [Maryam Nawaz sharif](http://twitter.com/search?q=Maryam+Nawaz+sharif) | N/A |
+| 21 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
+| 22 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 23 | [Chor](http://twitter.com/search?q=Chor) | N/A |
 | 24 | [Shaukat Aziz](http://twitter.com/search?q=Shaukat+Aziz) | N/A |
-| 25 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 26 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 28 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 29 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 30 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 25 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 26 | [KE Live](http://twitter.com/search?q=KE+Live) | N/A |
+| 27 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
+| 28 | [Maheer](http://twitter.com/search?q=Maheer) | N/A |
+| 29 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 30 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
 | 31 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
-| 32 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 33 | [Honest](http://twitter.com/search?q=Honest) | N/A |
-| 34 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 35 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 36 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 37 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 38 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
-| 39 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 41 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 42 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
-| 43 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 45 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 46 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 47 | [Patwari](http://twitter.com/search?q=Patwari) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 50 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
+| 32 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
+| 33 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 34 | [Honest](http://twitter.com/search?q=Honest) | N/A |
+| 35 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 36 | [President](http://twitter.com/search?q=President) | N/A |
+| 37 | [America](http://twitter.com/search?q=America) | N/A |
+| 38 | [Correction](http://twitter.com/search?q=Correction) | N/A |
+| 39 | [Kiya](http://twitter.com/search?q=Kiya) | N/A |
+| 40 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 41 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 42 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 43 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
+| 44 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 45 | [Heavy](http://twitter.com/search?q=Heavy) | N/A |
+| 46 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 47 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 48 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 49 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 50 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 
 
 

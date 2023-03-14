@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-14 09:17:16 UTC`
+📆 Last Updated: `2023-03-14 10:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 2 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
+| 1 | [#GlowingSelfie](http://twitter.com/search?q=%23GlowingSelfie) | N/A |
+| 2 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 3 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 4 | [#alathackaholics](http://twitter.com/search?q=%23alathackaholics) | N/A |
-| 5 | [#generationalbusinesspodcast](http://twitter.com/search?q=%23generationalbusinesspodcast) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 8 | [oluwa dolarz](http://twitter.com/search?q=oluwa+dolarz) | N/A |
-| 9 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
-| 10 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 11 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 12 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
-| 13 | [the money is kanalized](http://twitter.com/search?q=the+money+is+kanalized) | N/A |
-| 14 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 15 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 16 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 17 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
-| 18 | [Parody](http://twitter.com/search?q=Parody) | N/A |
-| 19 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 20 | [VOTE YVONNE](http://twitter.com/search?q=VOTE+YVONNE) | N/A |
-| 21 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
-| 22 | [The God](http://twitter.com/search?q=The+God) | N/A |
-| 23 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 24 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 25 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 4 | [#AlatHackaholics4IsHere](http://twitter.com/search?q=%23AlatHackaholics4IsHere) | N/A |
+| 5 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 6 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
+| 7 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 8 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 9 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 10 | [NADECO](http://twitter.com/search?q=NADECO) | N/A |
+| 11 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
+| 12 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 13 | [Abiola](http://twitter.com/search?q=Abiola) | N/A |
+| 14 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 15 | [the money is kanalized](http://twitter.com/search?q=the+money+is+kanalized) | N/A |
+| 16 | [Parody](http://twitter.com/search?q=Parody) | N/A |
+| 17 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 18 | [VOTE YVONNE](http://twitter.com/search?q=VOTE+YVONNE) | N/A |
+| 19 | [Waist](http://twitter.com/search?q=Waist) | N/A |
+| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 21 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 22 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 23 | [Enya](http://twitter.com/search?q=Enya) | N/A |
+| 24 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 25 | [Malami](http://twitter.com/search?q=Malami) | N/A |
 | 26 | [Tofa](http://twitter.com/search?q=Tofa) | N/A |
-| 27 | [KANAGA JNR HAS POWER X FIRE](http://twitter.com/search?q=KANAGA+JNR+HAS+POWER+X+FIRE) | N/A |
-| 28 | [Malami](http://twitter.com/search?q=Malami) | N/A |
-| 29 | [STILL HERE FOR TACHA](http://twitter.com/search?q=STILL+HERE+FOR+TACHA) | N/A |
-| 30 | [Old N200](http://twitter.com/search?q=Old+N200) | N/A |
-| 31 | [Mama G](http://twitter.com/search?q=Mama+G) | N/A |
-| 32 | [Shortbread](http://twitter.com/search?q=Shortbread) | N/A |
-| 33 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 34 | [STAR GIRL DAY](http://twitter.com/search?q=STAR+GIRL+DAY) | N/A |
-| 35 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [Congratulations Doc](http://twitter.com/search?q=Congratulations+Doc) | N/A |
-| 38 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
-| 39 | [Enya](http://twitter.com/search?q=Enya) | N/A |
-| 40 | [he is sheggz olu](http://twitter.com/search?q=he+is+sheggz+olu) | N/A |
-| 41 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 27 | [Born in Lagos](http://twitter.com/search?q=Born+in+Lagos) | N/A |
+| 28 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 29 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 30 | [Shortbread](http://twitter.com/search?q=Shortbread) | N/A |
+| 31 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 32 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 33 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 34 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Meffy](http://twitter.com/search?q=Meffy) | N/A |
+| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 39 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 40 | [London Football Awards](http://twitter.com/search?q=London+Football+Awards) | N/A |
+| 41 | [old n200](http://twitter.com/search?q=old+n200) | N/A |
 | 42 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 43 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
-| 44 | [ONLY PHYNA](http://twitter.com/search?q=ONLY+PHYNA) | N/A |
-| 45 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
-| 48 | [Toph](http://twitter.com/search?q=Toph) | N/A |
+| 43 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 44 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 46 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 47 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 48 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
 
 
 

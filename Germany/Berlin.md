@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-14 09:17:01 UTC`
+📆 Last Updated: `2023-03-14 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 2 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 5 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
-| 6 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
-| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 8 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 9 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 10 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 11 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 12 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 13 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 14 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 15 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 16 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 17 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 18 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
-| 19 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 20 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 21 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 22 | [Warenhäuser](http://twitter.com/search?q=Warenh%c3%a4user) | N/A |
-| 23 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 24 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 25 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 26 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 27 | [Wahlsystem](http://twitter.com/search?q=Wahlsystem) | N/A |
-| 28 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 29 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 30 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 31 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 32 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 33 | [Schmutzkampagne](http://twitter.com/search?q=Schmutzkampagne) | N/A |
-| 34 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 35 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 36 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 37 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 38 | [Zweitstimmen](http://twitter.com/search?q=Zweitstimmen) | N/A |
-| 39 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 40 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 41 | [Gentechnik](http://twitter.com/search?q=Gentechnik) | N/A |
-| 42 | [Zorn](http://twitter.com/search?q=Zorn) | N/A |
-| 43 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
-| 44 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 46 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 47 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 48 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 49 | [CDU und CSU](http://twitter.com/search?q=CDU+und+CSU) | N/A |
-| 50 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 1 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
+| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 3 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 4 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 5 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 6 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 7 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 8 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 9 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
+| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 11 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 12 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 13 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 14 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 15 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
+| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 17 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 18 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 19 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 20 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 21 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 22 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 23 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 24 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 25 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 26 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 28 | [Innenstadt](http://twitter.com/search?q=Innenstadt) | N/A |
+| 29 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 30 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
+| 31 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 32 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 33 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 34 | [Spritze](http://twitter.com/search?q=Spritze) | N/A |
+| 35 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 36 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 37 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 38 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
+| 39 | [Ungeimpften](http://twitter.com/search?q=Ungeimpften) | N/A |
+| 40 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
+| 41 | [#Impfschaeden](http://twitter.com/search?q=%23Impfschaeden) | N/A |
+| 42 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
+| 43 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 
 
 

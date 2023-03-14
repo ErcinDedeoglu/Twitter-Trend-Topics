@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-14 09:17:43 UTC`
+📆 Last Updated: `2023-03-14 10:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 2 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 3 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
-| 4 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 5 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
-| 6 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 1 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 2 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 3 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 4 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 5 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
+| 6 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 7 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 8 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 9 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 10 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 11 | [GOING CRAZY](http://twitter.com/search?q=GOING+CRAZY) | N/A |
-| 12 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
-| 13 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 15 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 9 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 10 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 11 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 12 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 13 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 14 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 15 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
 | 16 | [TSMY](http://twitter.com/search?q=TSMY) | N/A |
-| 17 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 19 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 20 | [KAI IS BACK](http://twitter.com/search?q=KAI+IS+BACK) | N/A |
-| 21 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 22 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 23 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 24 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 25 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 26 | [First Asian](http://twitter.com/search?q=First+Asian) | N/A |
-| 27 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 28 | [kim kai](http://twitter.com/search?q=kim+kai) | N/A |
-| 29 | [Women's March](http://twitter.com/search?q=Women%27s+March) | N/A |
-| 30 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 31 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
-| 32 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 33 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 34 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 36 | [GET WELL SOON JENO](http://twitter.com/search?q=GET+WELL+SOON+JENO) | N/A |
-| 37 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
-| 38 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 39 | [FINAS](http://twitter.com/search?q=FINAS) | N/A |
-| 40 | [BOBBY SiR CONCEPT PHOTO](http://twitter.com/search?q=BOBBY+SiR+CONCEPT+PHOTO) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 18 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 19 | [Women's March](http://twitter.com/search?q=Women%27s+March) | N/A |
+| 20 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 21 | [First MV](http://twitter.com/search?q=First+MV) | N/A |
+| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 24 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 25 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 26 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 27 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 28 | [America](http://twitter.com/search?q=America) | N/A |
+| 29 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 30 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 31 | [FINAS](http://twitter.com/search?q=FINAS) | N/A |
+| 32 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 33 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 34 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 35 | [London](http://twitter.com/search?q=London) | N/A |
+| 36 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [GOING CRAZY](http://twitter.com/search?q=GOING+CRAZY) | N/A |
+| 39 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 40 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
 | 41 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 42 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 43 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 44 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 45 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 46 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
-| 47 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 48 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 49 | [Shownu](http://twitter.com/search?q=Shownu) | N/A |
+| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 43 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 44 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 45 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 46 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
+| 47 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 48 | [Datuk Roy](http://twitter.com/search?q=Datuk+Roy) | N/A |
+| 49 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-14 09:17:41 UTC`
+📆 Last Updated: `2023-03-14 10:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 1 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
 | 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 3 | [#wemissyoukiano](http://twitter.com/search?q=%23wemissyoukiano) | N/A |
-| 4 | [#TotyMusicAwardsXNuNew](http://twitter.com/search?q=%23TotyMusicAwardsXNuNew) | N/A |
-| 5 | [#KAI_RoverOutNow](http://twitter.com/search?q=%23KAI_RoverOutNow) | N/A |
-| 6 | [#MidnightMuseumEP3](http://twitter.com/search?q=%23MidnightMuseumEP3) | N/A |
+| 3 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 4 | [#wemissyoukiano](http://twitter.com/search?q=%23wemissyoukiano) | N/A |
+| 5 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 6 | [NEYO](http://twitter.com/search?q=NEYO) | N/A |
 | 7 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 8 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 9 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
-| 10 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 11 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 12 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 13 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 14 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 15 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 16 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 17 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 18 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 19 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 20 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 21 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 22 | [Huy Quan](http://twitter.com/search?q=Huy+Quan) | N/A |
-| 23 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 24 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 25 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 26 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 29 | [neyo](http://twitter.com/search?q=neyo) | N/A |
-| 30 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 31 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 33 | [Kamal Adli](http://twitter.com/search?q=Kamal+Adli) | N/A |
-| 34 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 35 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 36 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 37 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 38 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 39 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 40 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
-| 41 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 42 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
-| 43 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 44 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 46 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 47 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 48 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 49 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 50 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 8 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 9 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 10 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
+| 11 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
+| 16 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 17 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 20 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 21 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 22 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 23 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 24 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 25 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 28 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 30 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 33 | [shownu](http://twitter.com/search?q=shownu) | N/A |
+| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 35 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 36 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 37 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 38 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 39 | [European](http://twitter.com/search?q=European) | N/A |
+| 40 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 41 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 42 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 43 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 44 | [Kamal Adli](http://twitter.com/search?q=Kamal+Adli) | N/A |
+| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 46 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
+| 49 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 50 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 
 
 
