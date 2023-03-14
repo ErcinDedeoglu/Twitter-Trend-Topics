@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-14 16:17:33 UTC`
+📆 Last Updated: `2023-03-14 17:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Switzerland
 | 1 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 2 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 3 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 4 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 7 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 6 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 7 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 8 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 9 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
 | 10 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 11 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 12 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 13 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 14 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 15 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 16 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 17 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 18 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 11 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 12 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 13 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 14 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 15 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 16 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 17 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 18 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 21 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 22 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 23 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
-| 26 | [London](http://twitter.com/search?q=London) | N/A |
-| 27 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 28 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 29 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 30 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 31 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 32 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 23 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 24 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 25 | [London](http://twitter.com/search?q=London) | N/A |
+| 26 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 29 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 30 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 | 33 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
-| 34 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 35 | [#bscyb](http://twitter.com/search?q=%23bscyb) | N/A |
-| 36 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 37 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 38 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 39 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 40 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 41 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
-| 42 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 44 | [flüchtlinge](http://twitter.com/search?q=fl%c3%bcchtlinge) | N/A |
-| 45 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 48 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 49 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 50 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
+| 34 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 35 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 36 | [Tote](http://twitter.com/search?q=Tote) | N/A |
+| 37 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 38 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 39 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 40 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 41 | [#bscyb](http://twitter.com/search?q=%23bscyb) | N/A |
+| 42 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
+| 43 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
+| 44 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 45 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 46 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 47 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 48 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 49 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
+| 50 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
 
 
 

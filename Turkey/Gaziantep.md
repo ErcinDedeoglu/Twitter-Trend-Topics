@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-14 16:17:17 UTC`
+📆 Last Updated: `2023-03-14 17:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
-| 2 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
+| 2 | [#GidaMuheReistenMujde](http://twitter.com/search?q=%23GidaMuheReistenMujde) | N/A |
 | 3 | [#SeninleyizOsmanYılmaz](http://twitter.com/search?q=%23SeninleyizOsmanY%c4%b1lmaz) | N/A |
-| 4 | [#CoinMatchAI](http://twitter.com/search?q=%23CoinMatchAI) | N/A |
-| 5 | [MebOhalde ŞartsızTayin](http://twitter.com/search?q=MebOhalde+%c5%9earts%c4%b1zTayin) | N/A |
-| 6 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
-| 7 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
-| 8 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
-| 9 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
-| 10 | [953 Bin](http://twitter.com/search?q=953+Bin) | N/A |
-| 11 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 12 | [Kahramanmaraş'ta 4.9](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+4.9) | N/A |
-| 13 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 4 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 5 | [#TaylanAbiMeclise](http://twitter.com/search?q=%23TaylanAbiMeclise) | N/A |
+| 6 | [AlparslanHocaya TelefonYasağı](http://twitter.com/search?q=AlparslanHocaya+TelefonYasa%c4%9f%c4%b1) | N/A |
+| 7 | [#AlparslanHocayaÖzgürlük](http://twitter.com/search?q=%23AlparslanHocaya%c3%96zg%c3%bcrl%c3%bck) | N/A |
+| 8 | [DenklikSorununuCozun](http://twitter.com/search?q=DenklikSorununuCozun) | N/A |
+| 9 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 10 | [MebOhalde ŞartsızTayin](http://twitter.com/search?q=MebOhalde+%c5%9earts%c4%b1zTayin) | N/A |
+| 11 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 12 | [Sosyal Bilgiler](http://twitter.com/search?q=Sosyal+Bilgiler) | N/A |
+| 13 | [Necip Fazıl](http://twitter.com/search?q=Necip+Faz%c4%b1l) | N/A |
 | 14 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
-| 15 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 16 | [Seninleyiz Mehmet Yılmaz Ak](http://twitter.com/search?q=Seninleyiz+Mehmet+Y%c4%b1lmaz+Ak) | N/A |
-| 17 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
-| 18 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
-| 19 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
-| 20 | [Fazıl Kısakürek](http://twitter.com/search?q=Faz%c4%b1l+K%c4%b1sak%c3%bcrek) | N/A |
-| 21 | [Fiyat](http://twitter.com/search?q=Fiyat) | N/A |
-| 22 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
-| 23 | [Bogg](http://twitter.com/search?q=Bogg) | N/A |
-| 24 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
-| 25 | [Ahmet Yener](http://twitter.com/search?q=Ahmet+Yener) | N/A |
-| 26 | [Şair](http://twitter.com/search?q=%c5%9eair) | N/A |
-| 27 | [transfermarkt](http://twitter.com/search?q=transfermarkt) | N/A |
-| 28 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
-| 29 | [standart menzil](http://twitter.com/search?q=standart+menzil) | N/A |
-| 30 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 31 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
+| 15 | [Malatya Valiliği](http://twitter.com/search?q=Malatya+Valili%c4%9fi) | N/A |
+| 16 | [Kahramanmaraş'ta 4.9](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+4.9) | N/A |
+| 17 | [2000DiyetisyenGSBye](http://twitter.com/search?q=2000DiyetisyenGSBye) | N/A |
+| 18 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 19 | [953 Bin](http://twitter.com/search?q=953+Bin) | N/A |
+| 20 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 21 | [Akdeniz](http://twitter.com/search?q=Akdeniz) | N/A |
+| 22 | [Seninleyiz Mehmet Yılmaz Ak](http://twitter.com/search?q=Seninleyiz+Mehmet+Y%c4%b1lmaz+Ak) | N/A |
+| 23 | [Valilik](http://twitter.com/search?q=Valilik) | N/A |
+| 24 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 25 | [BahçeliSözü MahkumaAF](http://twitter.com/search?q=Bah%c3%a7eliS%c3%b6z%c3%bc+MahkumaAF) | N/A |
+| 26 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
+| 27 | [EMPERYALİSTLER KARAR VERDİ](http://twitter.com/search?q=EMPERYAL%c4%b0STLER+KARAR+VERD%c4%b0) | N/A |
+| 28 | [SABAH YALAN AKŞAM YALAN](http://twitter.com/search?q=SABAH+YALAN+AK%c5%9eAM+YALAN) | N/A |
+| 29 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 30 | [Suriyelileri](http://twitter.com/search?q=Suriyelileri) | N/A |
+| 31 | [Geldikleri](http://twitter.com/search?q=Geldikleri) | N/A |
 | 32 | [Araba](http://twitter.com/search?q=Araba) | N/A |
-| 33 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 34 | [Arveles](http://twitter.com/search?q=Arveles) | N/A |
-| 35 | [v2 rwd uzun menzil](http://twitter.com/search?q=v2+rwd+uzun+menzil) | N/A |
-| 36 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 37 | [AfSizden OyBizden](http://twitter.com/search?q=AfSizden+OyBizden) | N/A |
-| 38 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 39 | [Matematik](http://twitter.com/search?q=Matematik) | N/A |
-| 40 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 41 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 42 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
-| 43 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 44 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
-| 45 | [Kurgu](http://twitter.com/search?q=Kurgu) | N/A |
-| 46 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
-| 47 | [Yakışmaz](http://twitter.com/search?q=Yak%c4%b1%c5%9fmaz) | N/A |
-| 48 | [Gökhan Zan](http://twitter.com/search?q=G%c3%b6khan+Zan) | N/A |
-| 49 | [Vedat](http://twitter.com/search?q=Vedat) | N/A |
-| 50 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 33 | [Yerli](http://twitter.com/search?q=Yerli) | N/A |
+| 34 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
+| 35 | [Ahmet Yener](http://twitter.com/search?q=Ahmet+Yener) | N/A |
+| 36 | [Şair](http://twitter.com/search?q=%c5%9eair) | N/A |
+| 37 | [Arveles](http://twitter.com/search?q=Arveles) | N/A |
+| 38 | [CUMHUR İTTİFAKI KAZANACAK](http://twitter.com/search?q=CUMHUR+%c4%b0TT%c4%b0FAKI+KAZANACAK) | N/A |
+| 39 | [Standart Menzil](http://twitter.com/search?q=Standart+Menzil) | N/A |
+| 40 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 42 | [Fahrettin](http://twitter.com/search?q=Fahrettin) | N/A |
+| 43 | [Fiyat](http://twitter.com/search?q=Fiyat) | N/A |
+| 44 | [TL'den](http://twitter.com/search?q=TL%27den) | N/A |
+| 45 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 46 | [Transfermarkt](http://twitter.com/search?q=Transfermarkt) | N/A |
+| 47 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
+| 48 | [V2 RWD Uzun Menzil](http://twitter.com/search?q=V2+RWD+Uzun+Menzil) | N/A |
+| 49 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 50 | [Matematik](http://twitter.com/search?q=Matematik) | N/A |
 
 
 

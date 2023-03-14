@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-14 16:16:41 UTC`
+📆 Last Updated: `2023-03-14 17:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
 | 2 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 3 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
-| 6 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 7 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
-| 8 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
-| 9 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
-| 10 | [Marine Nationale](http://twitter.com/search?q=Marine+Nationale) | N/A |
-| 11 | [#ScienceWeek](http://twitter.com/search?q=%23ScienceWeek) | N/A |
-| 12 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
-| 13 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 14 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 15 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 16 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 17 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 18 | [Michael O'Sullivan](http://twitter.com/search?q=Michael+O%27Sullivan) | N/A |
-| 19 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
-| 20 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
-| 21 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
-| 22 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
-| 23 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
-| 24 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 25 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
-| 26 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
-| 27 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 29 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 30 | [Nisbet](http://twitter.com/search?q=Nisbet) | N/A |
-| 31 | [Supreme](http://twitter.com/search?q=Supreme) | N/A |
-| 32 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
-| 33 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
-| 34 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 35 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 36 | [Ben Davies](http://twitter.com/search?q=Ben+Davies) | N/A |
-| 37 | [Shankland](http://twitter.com/search?q=Shankland) | N/A |
-| 38 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
-| 39 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 40 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 41 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 42 | [Penny Farthing](http://twitter.com/search?q=Penny+Farthing) | N/A |
-| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 44 | [Willie Mullins](http://twitter.com/search?q=Willie+Mullins) | N/A |
-| 45 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
-| 46 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 3 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 4 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 5 | [Wriggle](http://twitter.com/search?q=Wriggle) | N/A |
+| 6 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
+| 7 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 8 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
+| 11 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 12 | [#BritishScienceWeek2023](http://twitter.com/search?q=%23BritishScienceWeek2023) | N/A |
+| 13 | [Dysart Dynamo](http://twitter.com/search?q=Dysart+Dynamo) | N/A |
+| 14 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 15 | [Derek Fox](http://twitter.com/search?q=Derek+Fox) | N/A |
+| 16 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
+| 17 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 18 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 19 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 20 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 21 | [Barry Connell](http://twitter.com/search?q=Barry+Connell) | N/A |
+| 22 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
+| 23 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 24 | [Jonbon](http://twitter.com/search?q=Jonbon) | N/A |
+| 25 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 26 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 27 | [State Man](http://twitter.com/search?q=State+Man) | State Man is a term used in India to refer to a person who is in charge of the affairs of a particular state. It is usually used to refer to the Chief Minister or Governor of a state. In English, it can be translated as "State Leader". |
+| 28 | [Monbeg Genius](http://twitter.com/search?q=Monbeg+Genius) | N/A |
+| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 30 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
+| 31 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
+| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 33 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 34 | [Arkle](http://twitter.com/search?q=Arkle) | N/A |
+| 35 | [Mares](http://twitter.com/search?q=Mares) | N/A |
+| 36 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 37 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 38 | [Chancellor](http://twitter.com/search?q=Chancellor) | N/A |
+| 39 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 40 | [Ultima](http://twitter.com/search?q=Ultima) | N/A |
+| 41 | [Oscar Elite](http://twitter.com/search?q=Oscar+Elite) | N/A |
+| 42 | [Facile Vega](http://twitter.com/search?q=Facile+Vega) | N/A |
+| 43 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 44 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 45 | [Bet365](http://twitter.com/search?q=Bet365) | N/A |
+| 46 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 47 | [Guildford](http://twitter.com/search?q=Guildford) | N/A |
+| 48 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
 
 
 

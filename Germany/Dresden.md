@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-14 16:16:53 UTC`
+📆 Last Updated: `2023-03-14 17:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 5 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 6 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 5 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 6 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 7 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 8 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
 | 9 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
 | 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 11 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
 | 12 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
 | 13 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 14 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 15 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 16 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 17 | [grundmandatsklausel](http://twitter.com/search?q=grundmandatsklausel) | N/A |
-| 18 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 19 | [bock auf arbeit](http://twitter.com/search?q=bock+auf+arbeit) | N/A |
-| 20 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 21 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 22 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 25 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 26 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 27 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 28 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 29 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 30 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 31 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 32 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 33 | [hetzer](http://twitter.com/search?q=hetzer) | N/A |
-| 34 | [Vorfahrt](http://twitter.com/search?q=Vorfahrt) | N/A |
-| 35 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 36 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 37 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
-| 38 | [konzern](http://twitter.com/search?q=konzern) | N/A |
-| 39 | [Marken](http://twitter.com/search?q=Marken) | N/A |
-| 40 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 41 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 42 | [standort](http://twitter.com/search?q=standort) | N/A |
-| 43 | [Köpfen](http://twitter.com/search?q=K%c3%b6pfen) | N/A |
-| 44 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 45 | [Schrittgeschwindigkeit](http://twitter.com/search?q=Schrittgeschwindigkeit) | N/A |
-| 46 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 47 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 14 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 15 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 16 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 17 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 18 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 19 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 20 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 21 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 22 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 23 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 24 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 25 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 26 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 27 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 28 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 29 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 30 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 31 | [Vorfahrt](http://twitter.com/search?q=Vorfahrt) | N/A |
+| 32 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 33 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 34 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 35 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
+| 36 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 37 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 38 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 39 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 40 | [Schrittgeschwindigkeit](http://twitter.com/search?q=Schrittgeschwindigkeit) | N/A |
+| 41 | [Standort](http://twitter.com/search?q=Standort) | N/A |
+| 42 | [Marken](http://twitter.com/search?q=Marken) | N/A |
+| 43 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 44 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 45 | [Köpfen](http://twitter.com/search?q=K%c3%b6pfen) | N/A |
+| 46 | [Konzern](http://twitter.com/search?q=Konzern) | N/A |
+| 47 | [Sender](http://twitter.com/search?q=Sender) | N/A |
 
 
 

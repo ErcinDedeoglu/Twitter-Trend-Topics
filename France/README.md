@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-14 16:17:28 UTC`
+📆 Last Updated: `2023-03-14 17:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#TouchePasàSophiaAram](http://twitter.com/search?q=%23TouchePas%c3%a0SophiaAram) | N/A |
-| 3 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 4 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 5 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
-| 6 | [#PoubelleDansUnTitre](http://twitter.com/search?q=%23PoubelleDansUnTitre) | N/A |
-| 7 | [#MIPIM2023](http://twitter.com/search?q=%23MIPIM2023) | N/A |
-| 8 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 9 | [J-500](http://twitter.com/search?q=J-500) | N/A |
-| 10 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 11 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 12 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 13 | [Rendez-vous avec X](http://twitter.com/search?q=Rendez-vous+avec+X) | N/A |
-| 14 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
-| 15 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
-| 16 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
-| 17 | [Vald](http://twitter.com/search?q=Vald) | N/A |
-| 18 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 19 | [Etoo](http://twitter.com/search?q=Etoo) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
-| 22 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
-| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 25 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
-| 26 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
-| 27 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 28 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
-| 29 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 30 | [Attali](http://twitter.com/search?q=Attali) | N/A |
-| 31 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 32 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 33 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 34 | [Navigo](http://twitter.com/search?q=Navigo) | N/A |
-| 35 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 36 | [#kingdom751](http://twitter.com/search?q=%23kingdom751) | N/A |
-| 37 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
-| 38 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 39 | [#poubelles](http://twitter.com/search?q=%23poubelles) | N/A |
-| 40 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
-| 41 | [#Paris2024](http://twitter.com/search?q=%23Paris2024) | N/A |
-| 42 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 43 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
-| 44 | [#immobilier](http://twitter.com/search?q=%23immobilier) | N/A |
-| 45 | [#ConseildeParis](http://twitter.com/search?q=%23ConseildeParis) | N/A |
-| 46 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 47 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 48 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
+| 1 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 2 | [Noire](http://twitter.com/search?q=Noire) | N/A |
+| 3 | [#chainsawman123](http://twitter.com/search?q=%23chainsawman123) | N/A |
+| 4 | [#Greve15mars](http://twitter.com/search?q=%23Greve15mars) | N/A |
+| 5 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 6 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 7 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 8 | [#TouchePasaSophiaAram](http://twitter.com/search?q=%23TouchePasaSophiaAram) | N/A |
+| 9 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 10 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 13 | [Mylène Farmer](http://twitter.com/search?q=Myl%c3%a8ne+Farmer) | N/A |
+| 14 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 15 | [Rendez-vous avec X](http://twitter.com/search?q=Rendez-vous+avec+X) | N/A |
+| 16 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 17 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 18 | [J-500](http://twitter.com/search?q=J-500) | N/A |
+| 19 | [Blanche Gardin](http://twitter.com/search?q=Blanche+Gardin) | N/A |
+| 20 | [Patrick Pesnot](http://twitter.com/search?q=Patrick+Pesnot) | N/A |
+| 21 | [Alain Chabat](http://twitter.com/search?q=Alain+Chabat) | N/A |
+| 22 | [Vald](http://twitter.com/search?q=Vald) | N/A |
+| 23 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 24 | [Jeux Olympiques](http://twitter.com/search?q=Jeux+Olympiques) | N/A |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [Cymes](http://twitter.com/search?q=Cymes) | N/A |
+| 27 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 28 | [Mercredi 15](http://twitter.com/search?q=Mercredi+15) | N/A |
+| 29 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 30 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 31 | [Florence Foresti](http://twitter.com/search?q=Florence+Foresti) | N/A |
+| 32 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
+| 33 | [Cyril Hanouna](http://twitter.com/search?q=Cyril+Hanouna) | N/A |
+| 34 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 35 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 36 | [Attali](http://twitter.com/search?q=Attali) | N/A |
+| 37 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 38 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 39 | [#PoubelleDansUnTitre](http://twitter.com/search?q=%23PoubelleDansUnTitre) | N/A |
+| 40 | [#SoutienAuxEboueurs](http://twitter.com/search?q=%23SoutienAuxEboueurs) | N/A |
+| 41 | [#EboueursEnGreve](http://twitter.com/search?q=%23EboueursEnGreve) | N/A |
+| 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 43 | [#MIPIM2023](http://twitter.com/search?q=%23MIPIM2023) | N/A |
+| 44 | [#emploi](http://twitter.com/search?q=%23emploi) | N/A |
+| 45 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 46 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
+| 47 | [#Paris2024](http://twitter.com/search?q=%23Paris2024) | N/A |
+| 48 | [#influvoleurs](http://twitter.com/search?q=%23influvoleurs) | N/A |
+| 49 | [#poubelles](http://twitter.com/search?q=%23poubelles) | N/A |
+| 50 | [#immobilier](http://twitter.com/search?q=%23immobilier) | N/A |
 
 
 
