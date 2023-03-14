@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-14 08:17:53 UTC`
+📆 Last Updated: `2023-03-14 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 2 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 3 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 6 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
 | 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 9 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 10 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 11 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
-| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 14 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 15 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 16 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 18 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 19 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 20 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 21 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 22 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 23 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 24 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 25 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 8 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 9 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 11 | [Trey Lyles](http://twitter.com/search?q=Trey+Lyles) | Trey Lyles is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). His name is derived from his given name, Trey, and his middle name, Lyles. The name Trey Lyles can be translated to mean "third son of Lyles". |
+| 12 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 13 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 14 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 16 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 17 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 18 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 19 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 21 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 22 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 23 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 24 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 25 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
 | 26 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 27 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 28 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 29 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 30 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 31 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 32 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 33 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 34 | [Damion Lee](http://twitter.com/search?q=Damion+Lee) | Damion Lee is a name of American professional basketball player. He currently plays for the Golden State Warriors of the National Basketball Association (NBA). The name Damion is derived from the Latin word "damare" which means "to tame or subdue". |
-| 35 | [Khris](http://twitter.com/search?q=Khris) | N/A |
-| 36 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 37 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 38 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 39 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 40 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 41 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 42 | [TREA TURNER](http://twitter.com/search?q=TREA+TURNER) | N/A |
-| 43 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 27 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 28 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 29 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 30 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 31 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 32 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 33 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 34 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 35 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 36 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 37 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 38 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 39 | [Damion Lee](http://twitter.com/search?q=Damion+Lee) | Damion Lee is a name of American professional basketball player. He currently plays for the Golden State Warriors of the National Basketball Association (NBA). The name Damion is derived from the Latin word "damare" which means "to tame or subdue". |
+| 40 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 41 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 42 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 43 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
 | 44 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 45 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 46 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
-| 47 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 48 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 49 | [Gravity Falls](http://twitter.com/search?q=Gravity+Falls) | N/A |
-| 50 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 45 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 46 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 47 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
+| 48 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 49 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 50 | [Snug](http://twitter.com/search?q=Snug) | N/A |
 
 
 

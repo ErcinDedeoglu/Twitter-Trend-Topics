@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-14 08:17:28 UTC`
+📆 Last Updated: `2023-03-14 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#14marzo](http://twitter.com/search?q=%2314marzo) | N/A |
 | 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 4 | [#piùDiQuel](http://twitter.com/search?q=%23pi%c3%b9DiQuel) | N/A |
-| 5 | [#JuveSamp](http://twitter.com/search?q=%23JuveSamp) | N/A |
-| 6 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 5 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 6 | [#Crosetto](http://twitter.com/search?q=%23Crosetto) | N/A |
 | 7 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 8 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 9 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 8 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 9 | [Libia](http://twitter.com/search?q=Libia) | N/A |
 | 10 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 11 | [Libia](http://twitter.com/search?q=Libia) | N/A |
-| 12 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 13 | [orietta](http://twitter.com/search?q=orietta) | N/A |
-| 14 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 15 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 16 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 17 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 18 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
-| 19 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 20 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 21 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 22 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 23 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 24 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 25 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 26 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 27 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 28 | [Pagliuca](http://twitter.com/search?q=Pagliuca) | N/A |
-| 29 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 30 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 31 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 32 | [niveo](http://twitter.com/search?q=niveo) | N/A |
-| 33 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 34 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 35 | [Dory](http://twitter.com/search?q=Dory) | N/A |
-| 36 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 37 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
-| 38 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 39 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
-| 40 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 41 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
-| 42 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 43 | [Marinella](http://twitter.com/search?q=Marinella) | N/A |
-| 44 | [Falco](http://twitter.com/search?q=Falco) | N/A |
-| 45 | [Petto](http://twitter.com/search?q=Petto) | N/A |
-| 46 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 47 | [Il Fatto](http://twitter.com/search?q=Il+Fatto) | N/A |
-| 48 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 49 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 50 | [Sea Watch](http://twitter.com/search?q=Sea+Watch) | N/A |
+| 11 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 12 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 13 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 14 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 15 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 16 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 17 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 18 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 19 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 20 | [Fassino](http://twitter.com/search?q=Fassino) | N/A |
+| 21 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 22 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 24 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 25 | [UN RICORDO PER LULÙ](http://twitter.com/search?q=UN+RICORDO+PER+LUL%c3%99) | N/A |
+| 26 | [Pagliuca](http://twitter.com/search?q=Pagliuca) | N/A |
+| 27 | [niveo](http://twitter.com/search?q=niveo) | N/A |
+| 28 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 29 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 30 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 31 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 32 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 33 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 34 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 35 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 36 | [Fabbri](http://twitter.com/search?q=Fabbri) | N/A |
+| 37 | [Falco](http://twitter.com/search?q=Falco) | N/A |
+| 38 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 39 | [Sea Watch](http://twitter.com/search?q=Sea+Watch) | N/A |
+| 40 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 41 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 42 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 43 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 44 | [Il Fatto](http://twitter.com/search?q=Il+Fatto) | N/A |
+| 45 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
+| 46 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
+| 47 | [Votiamo](http://twitter.com/search?q=Votiamo) | N/A |
+| 48 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 49 | [Petto](http://twitter.com/search?q=Petto) | N/A |
+| 50 | [Torto](http://twitter.com/search?q=Torto) | N/A |
 
 
 

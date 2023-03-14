@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-14 08:18:01 UTC`
+📆 Last Updated: `2023-03-14 09:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,22 +17,22 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [CANALLA](http://twitter.com/search?q=CANALLA) | N/A |
-| 4 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 6 | [#NoTapenLoDeNicolas](http://twitter.com/search?q=%23NoTapenLoDeNicolas) | N/A |
+| 3 | [Canalla](http://twitter.com/search?q=Canalla) | N/A |
+| 4 | [#SmokeSpriteftRM](http://twitter.com/search?q=%23SmokeSpriteftRM) | N/A |
+| 5 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
+| 6 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 7 | [DE MALAS](http://twitter.com/search?q=DE+MALAS) | N/A |
-| 8 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 10 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 11 | [#ElCaosEs](http://twitter.com/search?q=%23ElCaosEs) | N/A |
-| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 13 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 14 | [#conbajocaucaynordeste](http://twitter.com/search?q=%23conbajocaucaynordeste) | N/A |
-| 15 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 16 | [Linero](http://twitter.com/search?q=Linero) | N/A |
-| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 18 | [Néstor Lorenzo](http://twitter.com/search?q=N%c3%a9stor+Lorenzo) | N/A |
+| 8 | [#NoTapenLoDeNicolas](http://twitter.com/search?q=%23NoTapenLoDeNicolas) | N/A |
+| 9 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 10 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 11 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 12 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 13 | [#elcaoses](http://twitter.com/search?q=%23elcaoses) | N/A |
+| 14 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 15 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 16 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 17 | [Linero](http://twitter.com/search?q=Linero) | N/A |
+| 18 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
 | 19 | [Matador](http://twitter.com/search?q=Matador) | N/A |
 | 20 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 21 | [Resentida](http://twitter.com/search?q=Resentida) | N/A |
@@ -45,17 +45,17 @@ This is top 50 for Colombia
 | 28 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
 | 29 | [David Murcia](http://twitter.com/search?q=David+Murcia) | N/A |
 | 30 | [Negra](http://twitter.com/search?q=Negra) | N/A |
-| 31 | [Davinson](http://twitter.com/search?q=Davinson) | N/A |
+| 31 | [davinson](http://twitter.com/search?q=davinson) | N/A |
 | 32 | [Nelson Palacio](http://twitter.com/search?q=Nelson+Palacio) | N/A |
-| 33 | [río de oro](http://twitter.com/search?q=r%c3%ado+de+oro) | N/A |
-| 34 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 35 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 36 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 37 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 38 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 39 | [Corea del Sur y Japón](http://twitter.com/search?q=Corea+del+Sur+y+Jap%c3%b3n) | N/A |
-| 40 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 41 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 33 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 34 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 35 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 36 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 37 | [Corea del Sur y Japón](http://twitter.com/search?q=Corea+del+Sur+y+Jap%c3%b3n) | N/A |
+| 38 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
+| 39 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 40 | [Río de Oro](http://twitter.com/search?q=R%c3%ado+de+Oro) | N/A |
+| 41 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
 | 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 43 | [Argentina 1985](http://twitter.com/search?q=Argentina+1985) | Argentina 1985 is a phrase that refers to the period of time in Argentina during the mid-1980s when the country was under military rule. It is often used to refer to the human rights abuses and economic hardship that occurred during this period. In English, it can be translated as "Argentina in the year 1985". |
 | 44 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |

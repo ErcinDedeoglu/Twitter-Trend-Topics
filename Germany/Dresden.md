@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-14 08:17:27 UTC`
+📆 Last Updated: `2023-03-14 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 3 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 1 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 2 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 4 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 5 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 6 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 7 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 5 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 6 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 7 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
 | 8 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 9 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 10 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 9 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 10 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
 | 11 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 12 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 13 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
-| 14 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 15 | [Warenhäuser](http://twitter.com/search?q=Warenh%c3%a4user) | N/A |
-| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 12 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 13 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 14 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 15 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 16 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 17 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
 | 18 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 19 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 20 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 22 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 23 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 24 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 25 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 26 | [Wahlsystem](http://twitter.com/search?q=Wahlsystem) | N/A |
+| 19 | [Warenhäuser](http://twitter.com/search?q=Warenh%c3%a4user) | N/A |
+| 20 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 21 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 22 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 23 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 24 | [Wahlsystem](http://twitter.com/search?q=Wahlsystem) | N/A |
+| 25 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 26 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
 | 27 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
 | 28 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 29 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
-| 30 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 31 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 32 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 33 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 29 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 30 | [Schmutzkampagne](http://twitter.com/search?q=Schmutzkampagne) | N/A |
+| 31 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 32 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 33 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
 | 34 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 35 | [Schmutzkampagne](http://twitter.com/search?q=Schmutzkampagne) | N/A |
-| 36 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 37 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 38 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 39 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 40 | [Erststimme](http://twitter.com/search?q=Erststimme) | N/A |
-| 41 | [Leuchtturmwärter](http://twitter.com/search?q=Leuchtturmw%c3%a4rter) | N/A |
-| 42 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 43 | [Zorn](http://twitter.com/search?q=Zorn) | N/A |
-| 44 | [Gentechnik](http://twitter.com/search?q=Gentechnik) | N/A |
-| 45 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 46 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
-| 47 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 35 | [Zweitstimmen](http://twitter.com/search?q=Zweitstimmen) | N/A |
+| 36 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 37 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 38 | [Gentechnik](http://twitter.com/search?q=Gentechnik) | N/A |
+| 39 | [Zorn](http://twitter.com/search?q=Zorn) | N/A |
+| 40 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
+| 41 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 43 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 44 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 45 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 46 | [CDU und CSU](http://twitter.com/search?q=CDU+und+CSU) | N/A |
+| 47 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-14 08:18:05 UTC`
+📆 Last Updated: `2023-03-14 09:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Panama
 | 3 | [Calle 7](http://twitter.com/search?q=Calle+7) | N/A |
 | 4 | [Peke](http://twitter.com/search?q=Peke) | N/A |
 | 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 6 | [Ampyme](http://twitter.com/search?q=Ampyme) | N/A |
+| 6 | [ampyme](http://twitter.com/search?q=ampyme) | N/A |
 | 7 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 8 | [gustavo pérez](http://twitter.com/search?q=gustavo+p%c3%a9rez) | N/A |
 | 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |

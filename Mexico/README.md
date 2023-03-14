@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-14 08:18:04 UTC`
+📆 Last Updated: `2023-03-14 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 3 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 4 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [#EnJuegoPorLaVilla](http://twitter.com/search?q=%23EnJuegoPorLaVilla) | N/A |
-| 7 | [#Monterrey](http://twitter.com/search?q=%23Monterrey) | N/A |
-| 8 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
-| 9 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
-| 10 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 11 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 12 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 13 | [#NarcoAntonioSolis](http://twitter.com/search?q=%23NarcoAntonioSolis) | N/A |
-| 14 | [SIEMPRE CON HELIUD](http://twitter.com/search?q=SIEMPRE+CON+HELIUD) | N/A |
-| 15 | [Huele](http://twitter.com/search?q=Huele) | N/A |
+| 2 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 3 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 4 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 5 | [Franco Escamilla](http://twitter.com/search?q=Franco+Escamilla) | N/A |
+| 6 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 8 | [#enjuegoporlavilla](http://twitter.com/search?q=%23enjuegoporlavilla) | N/A |
+| 9 | [Javier Ibarreche](http://twitter.com/search?q=Javier+Ibarreche) | N/A |
+| 10 | [#Monterrey](http://twitter.com/search?q=%23Monterrey) | N/A |
+| 11 | [Gustavo de Hoyos](http://twitter.com/search?q=Gustavo+de+Hoyos) | N/A |
+| 12 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 13 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 14 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 15 | [SIEMPRE CON HELIUD](http://twitter.com/search?q=SIEMPRE+CON+HELIUD) | N/A |
 | 16 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 17 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 18 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 17 | [Comida Favorita](http://twitter.com/search?q=Comida+Favorita) | N/A |
+| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 19 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 20 | [Huele](http://twitter.com/search?q=Huele) | N/A |
 | 21 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 23 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 24 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 25 | [Rels](http://twitter.com/search?q=Rels) | N/A |
-| 26 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 27 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 28 | [JOEY MENESES](http://twitter.com/search?q=JOEY+MENESES) | N/A |
-| 29 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 30 | [Cumbres](http://twitter.com/search?q=Cumbres) | N/A |
-| 31 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 33 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 34 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
-| 35 | [MEJOR PELÍCULA ANIMADA](http://twitter.com/search?q=MEJOR+PEL%c3%8dCULA+ANIMADA) | N/A |
-| 36 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 37 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 38 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 24 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 25 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 26 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 27 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 28 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 29 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 30 | [JOEY MENESES](http://twitter.com/search?q=JOEY+MENESES) | N/A |
+| 31 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 33 | [MEJOR PELÍCULA ANIMADA](http://twitter.com/search?q=MEJOR+PEL%c3%8dCULA+ANIMADA) | N/A |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 36 | [Gran Bretaña](http://twitter.com/search?q=Gran+Breta%c3%b1a) | N/A |
+| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 38 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 39 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 40 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 41 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 42 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 43 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
+| 40 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
+| 41 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 42 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
+| 43 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
 | 44 | [Katty](http://twitter.com/search?q=Katty) | N/A |
 | 45 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 46 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
-| 47 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 48 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 49 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 46 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 47 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 48 | [HAVE A SAFE FLIGHT JIMIN](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JIMIN) | "Have a safe flight Jimin" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase expresses the speaker's hope that the person will have a safe and pleasant journey. |
+| 49 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
 | 50 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
 
 

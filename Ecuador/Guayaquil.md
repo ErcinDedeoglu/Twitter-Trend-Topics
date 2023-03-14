@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-14 08:17:21 UTC`
+📆 Last Updated: `2023-03-14 09:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#MasterchefEcuador](http://twitter.com/search?q=%23MasterchefEcuador) | N/A |
-| 3 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 4 | [Ángeles Duarte](http://twitter.com/search?q=%c3%81ngeles+Duarte) | N/A |
-| 5 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 2 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 3 | [Ángeles Duarte](http://twitter.com/search?q=%c3%81ngeles+Duarte) | N/A |
+| 4 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 | 6 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 7 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 8 | [unase](http://twitter.com/search?q=unase) | N/A |
-| 9 | [#dondeestánmauricioyvanessa](http://twitter.com/search?q=%23dondeest%c3%a1nmauricioyvanessa) | N/A |
+| 7 | [unase](http://twitter.com/search?q=unase) | N/A |
+| 8 | [#dondeestánmauricioyvanessa](http://twitter.com/search?q=%23dondeest%c3%a1nmauricioyvanessa) | N/A |
+| 9 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
 | 10 | [Embajada de Argentina](http://twitter.com/search?q=Embajada+de+Argentina) | N/A |
 | 11 | [#EverythingEverywhereAllAtOnce](http://twitter.com/search?q=%23EverythingEverywhereAllAtOnce) | N/A |
 | 12 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
@@ -35,8 +35,8 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 18 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 19 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 20 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 21 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
-| 22 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 22 | [Francisco Egas](http://twitter.com/search?q=Francisco+Egas) | N/A |
 | 23 | [ferroviaria](http://twitter.com/search?q=ferroviaria) | N/A |
 | 24 | [luis muentes](http://twitter.com/search?q=luis+muentes) | N/A |
 | 25 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 40 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 41 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
 | 42 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 43 | [Más Ecuador](http://twitter.com/search?q=M%c3%a1s+Ecuador) | N/A |
+| 43 | [más ecuador](http://twitter.com/search?q=m%c3%a1s+ecuador) | N/A |
 | 44 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
 | 45 | [Harrison Ford](http://twitter.com/search?q=Harrison+Ford) | N/A |
-| 46 | [Inversión](http://twitter.com/search?q=Inversi%c3%b3n) | N/A |
-| 47 | [teleamazonas](http://twitter.com/search?q=teleamazonas) | N/A |
+| 46 | [inversión](http://twitter.com/search?q=inversi%c3%b3n) | N/A |
+| 47 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
 | 48 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 49 | [Vinicio Angulo](http://twitter.com/search?q=Vinicio+Angulo) | N/A |
-| 50 | [Lenny Kravitz](http://twitter.com/search?q=Lenny+Kravitz) | N/A |
+| 49 | [vinicio angulo](http://twitter.com/search?q=vinicio+angulo) | N/A |
+| 50 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
 
 
 

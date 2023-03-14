@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-14 08:17:29 UTC`
+📆 Last Updated: `2023-03-14 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 3 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 1 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
 | 4 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 6 | [#FEYvol](http://twitter.com/search?q=%23FEYvol) | N/A |
-| 7 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
-| 8 | [Bouweis Brussel](http://twitter.com/search?q=Bouweis+Brussel) | N/A |
-| 9 | [Europees Parlement](http://twitter.com/search?q=Europees+Parlement) | N/A |
-| 10 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 11 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 12 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
-| 13 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 14 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 15 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 16 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 17 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
-| 18 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 19 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 20 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 21 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 22 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 23 | [Advies](http://twitter.com/search?q=Advies) | N/A |
-| 24 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 25 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 26 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 27 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 28 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 29 | [Spirituality](http://twitter.com/search?q=Spirituality) | N/A |
-| 30 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
-| 31 | [Marino](http://twitter.com/search?q=Marino) | N/A |
-| 32 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 33 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 34 | [Knoepert](http://twitter.com/search?q=Knoepert) | N/A |
-| 35 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 36 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 37 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 38 | [Stavoren](http://twitter.com/search?q=Stavoren) | N/A |
-| 39 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 40 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 41 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
-| 42 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 43 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 44 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
-| 45 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 46 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 47 | [Pinokkio](http://twitter.com/search?q=Pinokkio) | N/A |
-| 48 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 5 | [#FEYvol](http://twitter.com/search?q=%23FEYvol) | N/A |
+| 6 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 7 | [#nacjaj](http://twitter.com/search?q=%23nacjaj) | N/A |
+| 8 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 9 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 10 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 11 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 12 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 13 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 14 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
+| 15 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 16 | [Advies](http://twitter.com/search?q=Advies) | N/A |
+| 17 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 18 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 19 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 20 | [Bouweis Brussel](http://twitter.com/search?q=Bouweis+Brussel) | N/A |
+| 21 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 22 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 23 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 24 | [Knoepert](http://twitter.com/search?q=Knoepert) | N/A |
+| 25 | [Steijn](http://twitter.com/search?q=Steijn) | N/A |
+| 26 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 27 | [Spirituality](http://twitter.com/search?q=Spirituality) | N/A |
+| 28 | [janke dekker](http://twitter.com/search?q=janke+dekker) | N/A |
+| 29 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 30 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 32 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 33 | [Stavoren](http://twitter.com/search?q=Stavoren) | N/A |
+| 34 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 35 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 36 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 37 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 38 | [Sambo](http://twitter.com/search?q=Sambo) | N/A |
+| 39 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 40 | [Dienstplicht](http://twitter.com/search?q=Dienstplicht) | N/A |
+| 41 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 42 | [Workum](http://twitter.com/search?q=Workum) | N/A |
+| 43 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 44 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 45 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
+| 46 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 47 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
+| 48 | [rulli](http://twitter.com/search?q=rulli) | N/A |
 | 49 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
 
 
