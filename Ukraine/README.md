@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-14 02:29:47 UTC`
+📆 Last Updated: `2023-03-14 03:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,28 +24,28 @@ This is top 50 for Ukraine
 | 7 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 8 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
 | 9 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 10 | [#war_in_ukraine](http://twitter.com/search?q=%23war_in_ukraine) | N/A |
-| 11 | [бахмута](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
-| 12 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 10 | [бахмута](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 11 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 12 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
 | 13 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
 | 14 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 15 | [московия](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d1%8f) | N/A |
-| 16 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 17 | [руси](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 18 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 19 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 20 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 21 | [русня](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%bd%d1%8f) | N/A |
-| 22 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 23 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 24 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 25 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
-| 26 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 27 | [похоже](http://twitter.com/search?q=%d0%bf%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 28 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 29 | [заздрю](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b7%d0%b4%d1%80%d1%8e) | N/A |
-| 30 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 31 | [#NFTartist](http://twitter.com/search?q=%23NFTartist) | N/A |
+| 16 | [руси](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 17 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 18 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 19 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
+| 20 | [русня](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d0%bd%d1%8f) | N/A |
+| 21 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 22 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 23 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 24 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
+| 25 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 26 | [похоже](http://twitter.com/search?q=%d0%bf%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 27 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 28 | [заздрю](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b7%d0%b4%d1%80%d1%8e) | N/A |
+| 29 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 30 | [#NFTartist](http://twitter.com/search?q=%23NFTartist) | N/A |
+| 31 | [#War_in_Ukraine](http://twitter.com/search?q=%23War_in_Ukraine) | N/A |
 | 32 | [нема](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bc%d0%b0) | N/A |
 | 33 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
 | 34 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
@@ -54,11 +54,11 @@ This is top 50 for Ukraine
 | 37 | [валера](http://twitter.com/search?q=%d0%b2%d0%b0%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
 | 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 39 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 40 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 40 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 41 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 43 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 44 | [краса](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0) | N/A |
+| 44 | [Краса](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b0) | N/A |
 | 45 | [Muscovy](http://twitter.com/search?q=Muscovy) | N/A |
 | 46 | [Armed Forces of Ukraine](http://twitter.com/search?q=Armed+Forces+of+Ukraine) | N/A |
 | 47 | [Azov](http://twitter.com/search?q=Azov) | N/A |

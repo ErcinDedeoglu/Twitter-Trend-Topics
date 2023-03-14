@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-14 02:29:41 UTC`
+📆 Last Updated: `2023-03-14 03:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,15 +21,15 @@ This is top 50 for Denmark
 | 4 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
 | 5 | [#bifsif](http://twitter.com/search?q=%23bifsif) | N/A |
 | 6 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 7 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 8 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 7 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
+| 8 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 9 | [Randers](http://twitter.com/search?q=Randers) | N/A |
 | 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 11 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 12 | [capellas](http://twitter.com/search?q=capellas) | N/A |
 | 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 16 | [claesson](http://twitter.com/search?q=claesson) | N/A |
 | 17 | [herning](http://twitter.com/search?q=herning) | N/A |
 | 18 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
@@ -43,11 +43,11 @@ This is top 50 for Denmark
 | 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 28 | [Elsker](http://twitter.com/search?q=Elsker) | N/A |
-| 29 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
-| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 31 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
-| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 33 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [brøndbys](http://twitter.com/search?q=br%c3%b8ndbys) | N/A |
+| 31 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 32 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
+| 33 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
 | 34 | [Mette](http://twitter.com/search?q=Mette) | N/A |
 | 35 | [problemet](http://twitter.com/search?q=problemet) | N/A |
 | 36 | [horsens](http://twitter.com/search?q=horsens) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Denmark
 | 40 | [frederiksberg](http://twitter.com/search?q=frederiksberg) | N/A |
 | 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 42 | [estland](http://twitter.com/search?q=estland) | N/A |
-| 43 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 43 | [Skat](http://twitter.com/search?q=Skat) | N/A |
 | 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 45 | [slet](http://twitter.com/search?q=slet) | N/A |
 | 46 | [England](http://twitter.com/search?q=England) | N/A |

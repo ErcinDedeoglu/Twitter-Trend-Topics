@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-14 02:29:01 UTC`
+📆 Last Updated: `2023-03-14 03:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 2 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 3 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 4 | [arrascaeta](http://twitter.com/search?q=arrascaeta) | N/A |
-| 5 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 6 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 7 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 8 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 9 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 10 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 12 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 13 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
-| 14 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 15 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
-| 16 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
-| 17 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 18 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 19 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 20 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 21 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 22 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 23 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 24 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 25 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 26 | [Rogério Ceni](http://twitter.com/search?q=Rog%c3%a9rio+Ceni) | Rogério Ceni is a Brazilian retired professional footballer who played as a goalkeeper. He is widely regarded as one of the greatest goalkeepers of all time and holds the record for most goals scored by a goalkeeper, with 131 goals in his career. In English, Rogério Ceni means Rogerio Ceni. |
-| 27 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 28 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
-| 29 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 30 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
-| 31 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 32 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 33 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 34 | [zaga](http://twitter.com/search?q=zaga) | N/A |
-| 35 | [GABRIEL PEC](http://twitter.com/search?q=GABRIEL+PEC) | N/A |
-| 36 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 37 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
-| 38 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 39 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 40 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 41 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 42 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 43 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 44 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 45 | [Trikas](http://twitter.com/search?q=Trikas) | N/A |
-| 46 | [Cabaço](http://twitter.com/search?q=Caba%c3%a7o) | N/A |
-| 47 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 48 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 49 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 50 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 2 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 3 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 4 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 6 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 7 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 8 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 9 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 10 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 11 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 12 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 13 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 14 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 15 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 16 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 17 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 19 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 20 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
+| 21 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 22 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 23 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 24 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 25 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 26 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 27 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
+| 28 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 29 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 30 | [Matheusinho](http://twitter.com/search?q=Matheusinho) | Matheusinho is a Portuguese nickname for the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 31 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 32 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 33 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 34 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 35 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 36 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
+| 37 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 38 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 39 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 40 | [Cezar Black](http://twitter.com/search?q=Cezar+Black) | Cezar Black is a Romanian name derived from the Latin name Caesar, which means "emperor". It is also a surname that is used by some families in Romania. In English, Cezar Black can be translated to mean "Emperor Black". |
+| 41 | [Rogério Ceni](http://twitter.com/search?q=Rog%c3%a9rio+Ceni) | Rogério Ceni is a Brazilian retired professional footballer who played as a goalkeeper. He is widely regarded as one of the greatest goalkeepers of all time and holds the record for most goals scored by a goalkeeper, with 131 goals in his career. In English, Rogério Ceni means Rogerio Ceni. |
+| 42 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 43 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
+| 44 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 45 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
+| 46 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 47 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 48 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 49 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 50 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
 
 
 

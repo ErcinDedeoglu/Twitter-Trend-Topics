@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-14 02:29:40 UTC`
+📆 Last Updated: `2023-03-14 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,8 +32,8 @@ This is top 50 for Algeria
 | 15 | [Oran](http://twitter.com/search?q=Oran) | N/A |
 | 16 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
 | 17 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 18 | [#الجزايرالان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 19 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 18 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 19 | [#اوغندا](http://twitter.com/search?q=%23%d8%a7%d9%88%d8%ba%d9%86%d8%af%d8%a7) | N/A |
 | 20 | [ابن عثيمين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d8%ab%d9%8a%d9%85%d9%8a%d9%86) | N/A |
 | 21 | [المره الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
 | 22 | [الحسن الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
@@ -47,21 +47,21 @@ This is top 50 for Algeria
 | 30 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 31 | [Amine](http://twitter.com/search?q=Amine) | N/A |
 | 32 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 33 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 34 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 33 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 34 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 35 | [عدم الانحياز](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d9%8a%d8%a7%d8%b2) | N/A |
 | 36 | [دليل علي](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
 | 37 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 38 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 39 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 40 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 41 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 42 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 43 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 38 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 39 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 40 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 41 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 42 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 43 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 44 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 45 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 45 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 46 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 47 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 48 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 49 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 50 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |

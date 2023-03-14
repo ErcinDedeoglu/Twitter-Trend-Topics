@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-14 02:29:22 UTC`
+📆 Last Updated: `2023-03-14 03:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 2 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
-| 3 | [#40YearsOfCTM](http://twitter.com/search?q=%2340YearsOfCTM) | N/A |
-| 4 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
+| 2 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 3 | [#AHiFambeni](http://twitter.com/search?q=%23AHiFambeni) | N/A |
+| 4 | [#RIPCostaTitch](http://twitter.com/search?q=%23RIPCostaTitch) | N/A |
 | 5 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 6 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 7 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
-| 8 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 9 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 10 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 11 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
+| 7 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 8 | [ActionSA](http://twitter.com/search?q=ActionSA) | N/A |
+| 9 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 10 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 11 | [dondol stars](http://twitter.com/search?q=dondol+stars) | N/A |
 | 12 | [Melita](http://twitter.com/search?q=Melita) | N/A |
 | 13 | [christian saile](http://twitter.com/search?q=christian+saile) | N/A |
-| 14 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 15 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
-| 16 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 14 | [Sizwe](http://twitter.com/search?q=Sizwe) | N/A |
+| 15 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 16 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
 | 17 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
 | 18 | [Tbo Touch](http://twitter.com/search?q=Tbo+Touch) | N/A |
-| 19 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 21 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 22 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 23 | [Herman](http://twitter.com/search?q=Herman) | N/A |
-| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 25 | [chippa](http://twitter.com/search?q=chippa) | N/A |
-| 26 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 27 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
-| 28 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
-| 29 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 30 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 20 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 21 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 24 | [chippa](http://twitter.com/search?q=chippa) | N/A |
+| 25 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 26 | [THE JUICY JAY EFFECT](http://twitter.com/search?q=THE+JUICY+JAY+EFFECT) | N/A |
+| 27 | [Musa Khawula](http://twitter.com/search?q=Musa+Khawula) | N/A |
+| 28 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
+| 29 | [Hotto](http://twitter.com/search?q=Hotto) | N/A |
+| 30 | [Herman](http://twitter.com/search?q=Herman) | N/A |
 | 31 | [Fort Hare](http://twitter.com/search?q=Fort+Hare) | N/A |
 | 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 33 | [thando](http://twitter.com/search?q=thando) | N/A |
 | 34 | [Shower](http://twitter.com/search?q=Shower) | N/A |
-| 35 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
-| 36 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 37 | [modiba](http://twitter.com/search?q=modiba) | N/A |
-| 38 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 39 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 40 | [Stellies](http://twitter.com/search?q=Stellies) | N/A |
-| 41 | [mahlatsi](http://twitter.com/search?q=mahlatsi) | N/A |
-| 42 | [Zimbos](http://twitter.com/search?q=Zimbos) | N/A |
-| 43 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 44 | [Maduka](http://twitter.com/search?q=Maduka) | N/A |
-| 45 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 46 | [casric](http://twitter.com/search?q=casric) | N/A |
-| 47 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 48 | [Blue Diamonds](http://twitter.com/search?q=Blue+Diamonds) | N/A |
-| 49 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 35 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 36 | [modiba](http://twitter.com/search?q=modiba) | N/A |
+| 37 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 38 | [stellies](http://twitter.com/search?q=stellies) | N/A |
+| 39 | [mahlatsi](http://twitter.com/search?q=mahlatsi) | N/A |
+| 40 | [Zimbos](http://twitter.com/search?q=Zimbos) | N/A |
+| 41 | [Maart](http://twitter.com/search?q=Maart) | N/A |
+| 42 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 43 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 44 | [casric](http://twitter.com/search?q=casric) | N/A |
+| 45 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 46 | [Blue Diamonds](http://twitter.com/search?q=Blue+Diamonds) | N/A |
+| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 48 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 49 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 
 
 

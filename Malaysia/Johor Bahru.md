@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-14 02:29:17 UTC`
+📆 Last Updated: `2023-03-14 03:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,12 +23,12 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 6 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
 | 7 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
 | 8 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
-| 9 | [TSMY](http://twitter.com/search?q=TSMY) | N/A |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 12 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
-| 13 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 14 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 9 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 10 | [TSMY](http://twitter.com/search?q=TSMY) | N/A |
+| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 12 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 13 | [Best Actress](http://twitter.com/search?q=Best+Actress) | N/A |
+| 14 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 15 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
 | 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 17 | [GOING CRAZY](http://twitter.com/search?q=GOING+CRAZY) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 21 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
 | 22 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
 | 23 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
-| 24 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 24 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
 | 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 26 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 27 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 28 | [Joon](http://twitter.com/search?q=Joon) | N/A |
+| 26 | [Joon](http://twitter.com/search?q=Joon) | N/A |
+| 27 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 28 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
 | 29 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 30 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 31 | [Naatu Naatu](http://twitter.com/search?q=Naatu+Naatu) | Naatu Naatu is a Tamil phrase that translates to "Let it be". It is often used as an expression of acceptance or resignation. |
-| 32 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 33 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 34 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 36 | [London](http://twitter.com/search?q=London) | N/A |
-| 37 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 38 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 39 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 40 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 31 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 32 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 33 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 34 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 35 | [London](http://twitter.com/search?q=London) | N/A |
+| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 37 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 38 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 39 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 40 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
 | 41 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 42 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 43 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
 | 44 | [Kuching](http://twitter.com/search?q=Kuching) | N/A |
-| 45 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 46 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 48 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
+| 45 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 46 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 47 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 48 | [charlie](http://twitter.com/search?q=charlie) | N/A |
+| 49 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
 
 
 

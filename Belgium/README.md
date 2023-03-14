@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-14 02:29:41 UTC`
+📆 Last Updated: `2023-03-14 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Belgium
 | 1 | [#andcer](http://twitter.com/search?q=%23andcer) | N/A |
 | 2 | [#clusta](http://twitter.com/search?q=%23clusta) | N/A |
 | 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [#ZWAGNT](http://twitter.com/search?q=%23ZWAGNT) | N/A |
+| 4 | [#zwagnt](http://twitter.com/search?q=%23zwagnt) | N/A |
 | 5 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
 | 6 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 7 | [Odoi](http://twitter.com/search?q=Odoi) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Belgium
 | 31 | [Marie](http://twitter.com/search?q=Marie) | N/A |
 | 32 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 33 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 34 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 35 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 36 | [tinne](http://twitter.com/search?q=tinne) | N/A |
-| 37 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 40 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 41 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
-| 42 | [Sénégal](http://twitter.com/search?q=S%c3%a9n%c3%a9gal) | N/A |
-| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 44 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
-| 45 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 46 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 47 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 48 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 49 | [Tijl](http://twitter.com/search?q=Tijl) | N/A |
-| 50 | [Réal](http://twitter.com/search?q=R%c3%a9al) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 36 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 37 | [tinne](http://twitter.com/search?q=tinne) | N/A |
+| 38 | [Pogi](http://twitter.com/search?q=Pogi) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 40 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 41 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 42 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
+| 43 | [Sénégal](http://twitter.com/search?q=S%c3%a9n%c3%a9gal) | N/A |
+| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 45 | [Gaudu](http://twitter.com/search?q=Gaudu) | N/A |
+| 46 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 47 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 48 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
+| 49 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 50 | [tijl](http://twitter.com/search?q=tijl) | N/A |
 
 
 

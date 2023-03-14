@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-14 02:29:42 UTC`
+📆 Last Updated: `2023-03-14 03:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Ghana
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Daterush](http://twitter.com/search?q=%23Daterush) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 4 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 5 | [#DNBP](http://twitter.com/search?q=%23DNBP) | N/A |
-| 6 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 7 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
-| 8 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 9 | [Sark](http://twitter.com/search?q=Sark) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 5 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 6 | [#DNBP](http://twitter.com/search?q=%23DNBP) | N/A |
+| 7 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 8 | [#FULARS](http://twitter.com/search?q=%23FULARS) | N/A |
+| 9 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 10 | [#UnitedShowbiz](http://twitter.com/search?q=%23UnitedShowbiz) | N/A |
 | 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 12 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
@@ -34,7 +34,7 @@ This is top 50 for Ghana
 | 17 | [Ink Boy](http://twitter.com/search?q=Ink+Boy) | N/A |
 | 18 | [Media General](http://twitter.com/search?q=Media+General) | N/A |
 | 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 20 | [inaki williams](http://twitter.com/search?q=inaki+williams) | N/A |
+| 20 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
 | 21 | [Kennedy Agyapong](http://twitter.com/search?q=Kennedy+Agyapong) | N/A |
 | 22 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
 | 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
@@ -50,21 +50,21 @@ This is top 50 for Ghana
 | 33 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 34 | [what is 50](http://twitter.com/search?q=what+is+50) | N/A |
 | 35 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 36 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 37 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 38 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 39 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
-| 40 | [best urban](http://twitter.com/search?q=best+urban) | N/A |
-| 41 | [today de3](http://twitter.com/search?q=today+de3) | N/A |
-| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 44 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 45 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 36 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 37 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 38 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 39 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 40 | [Sark](http://twitter.com/search?q=Sark) | N/A |
+| 41 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
+| 42 | [best urban](http://twitter.com/search?q=best+urban) | N/A |
+| 43 | [today de3](http://twitter.com/search?q=today+de3) | N/A |
+| 44 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 46 | [Common](http://twitter.com/search?q=Common) | N/A |
 | 47 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
 | 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 50 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 49 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 50 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 
 
 

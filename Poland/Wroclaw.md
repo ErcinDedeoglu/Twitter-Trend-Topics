@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-14 02:29:04 UTC`
+📆 Last Updated: `2023-03-14 03:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,23 +41,23 @@ This is top 50 for [Poland](</Poland>)
 | 24 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
 | 25 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
 | 26 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 27 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 28 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 29 | [Wiśle](http://twitter.com/search?q=Wi%c5%9ble) | N/A |
-| 30 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 31 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 27 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 28 | [Wiśle](http://twitter.com/search?q=Wi%c5%9ble) | N/A |
+| 29 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 30 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 31 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
 | 32 | [Newsweek](http://twitter.com/search?q=Newsweek) | N/A |
 | 33 | [nicola zalewski](http://twitter.com/search?q=nicola+zalewski) | N/A |
-| 34 | [Jaśle](http://twitter.com/search?q=Ja%c5%9ble) | N/A |
+| 34 | [jaśle](http://twitter.com/search?q=ja%c5%9ble) | N/A |
 | 35 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
 | 36 | [sandomierzu](http://twitter.com/search?q=sandomierzu) | N/A |
-| 37 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 38 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 39 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 40 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 41 | [chcemy](http://twitter.com/search?q=chcemy) | N/A |
-| 42 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 43 | [beata szydło](http://twitter.com/search?q=beata+szyd%c5%82o) | N/A |
+| 37 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 39 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 40 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 41 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 42 | [chcemy](http://twitter.com/search?q=chcemy) | N/A |
+| 43 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
 | 44 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
 | 45 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
 | 46 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |

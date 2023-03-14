@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-14 02:29:20 UTC`
+📆 Last Updated: `2023-03-14 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 2 | [MISSING BIBLEBUILD](http://twitter.com/search?q=MISSING+BIBLEBUILD) | N/A |
-| 3 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
-| 4 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 3 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 4 | [jisoo solo teaser](http://twitter.com/search?q=jisoo+solo+teaser) | N/A |
 | 5 | [#BeomgyuOurStageGenius](http://twitter.com/search?q=%23BeomgyuOurStageGenius) | N/A |
 | 6 | [#스물셋_범규가_피워낸_봄의_흔적](http://twitter.com/search?q=%23%ec%8a%a4%eb%ac%bc%ec%85%8b_%eb%b2%94%ea%b7%9c%ea%b0%80_%ed%94%bc%ec%9b%8c%eb%82%b8_%eb%b4%84%ec%9d%98_%ed%9d%94%ec%a0%81) | N/A |
 | 7 | [#SetMeFree_Pt2_Is_Coming](http://twitter.com/search?q=%23SetMeFree_Pt2_Is_Coming) | N/A |
-| 8 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
-| 9 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
-| 10 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 8 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 9 | [SET ME FREE PT2 POSTER](http://twitter.com/search?q=SET+ME+FREE+PT2+POSTER) | N/A |
+| 10 | [#暖かい春の妖精ボムギュ](http://twitter.com/search?q=%23%e6%9a%96%e3%81%8b%e3%81%84%e6%98%a5%e3%81%ae%e5%a6%96%e7%b2%be%e3%83%9c%e3%83%a0%e3%82%ae%e3%83%a5) | N/A |
 | 11 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
-| 12 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
-| 13 | [Englot](http://twitter.com/search?q=Englot) | N/A |
-| 14 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 15 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 12 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 13 | [HAPPY BIRTHDAY BEOMGYU](http://twitter.com/search?q=HAPPY+BIRTHDAY+BEOMGYU) | N/A |
+| 14 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 15 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 16 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 17 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
 | 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 19 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
 | 20 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 21 | [Circle](http://twitter.com/search?q=Circle) | N/A |
+| 21 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 22 | [thứ 2](http://twitter.com/search?q=th%e1%bb%a9+2) | N/A |
-| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
 | 24 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 25 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 26 | [Ngân](http://twitter.com/search?q=Ng%c3%a2n) | N/A |
-| 27 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 26 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 27 | [Vàng](http://twitter.com/search?q=V%c3%a0ng) | N/A |
 | 28 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 29 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
-| 30 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 31 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 32 | [lalisa guncang jakarta](http://twitter.com/search?q=lalisa+guncang+jakarta) | N/A |
-| 33 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
-| 34 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 36 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 37 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 40 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 41 | [Thung](http://twitter.com/search?q=Thung) | N/A |
-| 42 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 43 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 31 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 32 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
+| 33 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 34 | [LALISA GUNCANG JAKARTA](http://twitter.com/search?q=LALISA+GUNCANG+JAKARTA) | N/A |
+| 35 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 38 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 40 | [Nhiều](http://twitter.com/search?q=Nhi%e1%bb%81u) | N/A |
+| 41 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 42 | [Thung](http://twitter.com/search?q=Thung) | N/A |
+| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 44 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
 | 45 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 46 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
-| 47 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 48 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
 
 
 

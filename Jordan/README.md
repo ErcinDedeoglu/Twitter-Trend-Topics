@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-14 02:29:43 UTC`
+📆 Last Updated: `2023-03-14 03:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Jordan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 2 | [#الاميره_ايمان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87_%d8%a7%d9%8a%d9%85%d8%a7%d9%86) | N/A |
-| 3 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 4 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 1 | [#الاميره_ايمان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%87_%d8%a7%d9%8a%d9%85%d8%a7%d9%86) | N/A |
+| 2 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 3 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 4 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 5 | [ايمان بنت عبدالله الثاني](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%a8%d9%86%d8%aa+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 6 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
 | 7 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
@@ -35,8 +35,8 @@ This is top 50 for Jordan
 | 18 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 19 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
 | 20 | [العايله الهاشميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%87%d8%a7%d8%b4%d9%85%d9%8a%d9%87) | N/A |
-| 21 | [بني حسن](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%ad%d8%b3%d9%86) | N/A |
-| 22 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 21 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 22 | [بني حسن](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%ad%d8%b3%d9%86) | N/A |
 | 23 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
 | 24 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 25 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Jordan
 | 45 | [سلطان](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
 | 46 | [الامير الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 | 47 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 48 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 49 | [علم الاردن](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 50 | [سالت الشيخ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d8%aa+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 48 | [علم الاردن](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 49 | [سالت الشيخ](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d8%aa+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 50 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-14 02:29:45 UTC`
+📆 Last Updated: `2023-03-14 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,19 +42,19 @@ This is top 50 for Norway
 | 25 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 26 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
 | 27 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 28 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 28 | [brann](http://twitter.com/search?q=brann) | N/A |
 | 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 33 | [fikk](http://twitter.com/search?q=fikk) | N/A |
+| 33 | [Fikk](http://twitter.com/search?q=Fikk) | N/A |
 | 34 | [sosopa](http://twitter.com/search?q=sosopa) | N/A |
 | 35 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 36 | [T-banen](http://twitter.com/search?q=T-banen) | N/A |
+| 36 | [t-banen](http://twitter.com/search?q=t-banen) | N/A |
 | 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 38 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 40 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
+| 40 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
 | 41 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 42 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 43 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
