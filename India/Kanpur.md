@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-14 01:42:48 UTC`
+📆 Last Updated: `2023-03-14 02:29:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
-| 3 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
-| 4 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
-| 5 | [#OneStopSolution](http://twitter.com/search?q=%23OneStopSolution) | N/A |
+| 1 | [#सतभक्ति_से_सर्व_सुख](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a5%87_%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
+| 2 | [SA True Story](http://twitter.com/search?q=SA+True+Story) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [#OneStopSolution](http://twitter.com/search?q=%23OneStopSolution) | N/A |
+| 5 | [#TheElephantWhisperers](http://twitter.com/search?q=%23TheElephantWhisperers) | N/A |
 | 6 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 7 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 8 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
-| 9 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 10 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
-| 11 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 12 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 13 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
-| 14 | [CONGRATULATIONS INDIA](http://twitter.com/search?q=CONGRATULATIONS+INDIA) | N/A |
+| 7 | [सिंह कालवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%b5%e0%a5%80) | N/A |
+| 8 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 9 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 10 | [Kane williamson](http://twitter.com/search?q=Kane+williamson) | N/A |
+| 11 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 12 | [करणी सेना](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 13 | [SSRCs Throws Spotlight OnNexus](http://twitter.com/search?q=SSRCs+Throws+Spotlight+OnNexus) | N/A |
+| 14 | [एड्स जैसी](http://twitter.com/search?q=%e0%a4%8f%e0%a4%a1%e0%a5%8d%e0%a4%b8+%e0%a4%9c%e0%a5%88%e0%a4%b8%e0%a5%80) | N/A |
 | 15 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 16 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
-| 17 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 18 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
-| 19 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
-| 20 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
-| 21 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
-| 22 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 23 | [proud moment](http://twitter.com/search?q=proud+moment) | N/A |
-| 24 | [you could be next](http://twitter.com/search?q=you+could+be+next) | N/A |
-| 25 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
-| 26 | [Oval](http://twitter.com/search?q=Oval) | N/A |
-| 27 | [ऑस्कर पुरस्कार](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 28 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 29 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 30 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
-| 31 | [advocate kirti ahuja](http://twitter.com/search?q=advocate+kirti+ahuja) | N/A |
-| 32 | [health tips](http://twitter.com/search?q=health+tips) | N/A |
-| 33 | [innocent behind bars](http://twitter.com/search?q=innocent+behind+bars) | N/A |
-| 34 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
-| 35 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 36 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 37 | [Laxman](http://twitter.com/search?q=Laxman) | N/A |
-| 38 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 39 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 40 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 41 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 42 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 43 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 44 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 45 | [राजपूत समाज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 46 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
-| 47 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 48 | [mona](http://twitter.com/search?q=mona) | N/A |
+| 16 | [ऑस्कर अवार्ड](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%85%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 17 | [Best Documentary Short Film](http://twitter.com/search?q=Best+Documentary+Short+Film) | N/A |
+| 18 | [परमेश्वर पुण्य आत्मा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%a3%e0%a5%8d%e0%a4%af+%e0%a4%86%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 19 | [भारतीय फिल्म](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 20 | [शॉर्ट फिल्म](http://twitter.com/search?q=%e0%a4%b6%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae) | N/A |
+| 21 | [Congratulations India](http://twitter.com/search?q=Congratulations+India) | N/A |
+| 22 | [राजपूत समाज](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 23 | [मुस्लिम राष्ट्र](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 24 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 25 | [Beth M](http://twitter.com/search?q=Beth+M) | N/A |
+| 26 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 28 | [Congratulations Team](http://twitter.com/search?q=Congratulations+Team) | N/A |
+| 29 | [Indian Cinema](http://twitter.com/search?q=Indian+Cinema) | N/A |
+| 30 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 31 | [Khursheed J](http://twitter.com/search?q=Khursheed+J) | N/A |
+| 32 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 33 | [Telugu](http://twitter.com/search?q=Telugu) | N/A |
+| 34 | [Christchurch](http://twitter.com/search?q=Christchurch) | N/A |
+| 35 | [proud moment](http://twitter.com/search?q=proud+moment) | N/A |
+| 36 | [Guneet Monga](http://twitter.com/search?q=Guneet+Monga) | N/A |
+| 37 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 38 | [हिंदू राष्ट्र](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0) | N/A |
+| 39 | [ऑस्कर पुरस्कार](http://twitter.com/search?q=%e0%a4%91%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 40 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 41 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 42 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 43 | [Facts Ignored InSSRCase](http://twitter.com/search?q=Facts+Ignored+InSSRCase) | N/A |
+| 44 | [Oval](http://twitter.com/search?q=Oval) | N/A |
+| 45 | [Sushant One OfHis Kind](http://twitter.com/search?q=Sushant+One+OfHis+Kind) | N/A |
+| 46 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 47 | [Lakshman](http://twitter.com/search?q=Lakshman) | N/A |
+| 48 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 49 | [श्री सीताराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 
 
 

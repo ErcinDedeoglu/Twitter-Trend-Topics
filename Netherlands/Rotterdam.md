@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-14 01:42:29 UTC`
+📆 Last Updated: `2023-03-14 02:29:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 2 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 3 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 1 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
+| 2 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 3 | [#psvcam](http://twitter.com/search?q=%23psvcam) | N/A |
 | 4 | [#FeyVol](http://twitter.com/search?q=%23FeyVol) | N/A |
-| 5 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 6 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 7 | [#eenvandaag](http://twitter.com/search?q=%23eenvandaag) | N/A |
-| 8 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
+| 5 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 6 | [Genee](http://twitter.com/search?q=Genee) | N/A |
+| 7 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 8 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
 | 9 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
 | 10 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 11 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 12 | [Vindicat](http://twitter.com/search?q=Vindicat) | N/A |
-| 13 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 14 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 15 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 16 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 18 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 19 | [Marino](http://twitter.com/search?q=Marino) | N/A |
-| 20 | [Tom Egbers](http://twitter.com/search?q=Tom+Egbers) | N/A |
-| 21 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 22 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 23 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 24 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 25 | [Knoepert](http://twitter.com/search?q=Knoepert) | N/A |
-| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 27 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
-| 28 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 29 | [Provinciale Staten](http://twitter.com/search?q=Provinciale+Staten) | N/A |
-| 30 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 31 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 32 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 34 | [teruggeven](http://twitter.com/search?q=teruggeven) | N/A |
-| 35 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 36 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 37 | [veerman](http://twitter.com/search?q=veerman) | N/A |
-| 38 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 39 | [Oprapen](http://twitter.com/search?q=Oprapen) | N/A |
-| 40 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 41 | [bergwijn](http://twitter.com/search?q=bergwijn) | N/A |
-| 42 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 43 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 44 | [Wetin](http://twitter.com/search?q=Wetin) | N/A |
-| 45 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 46 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 47 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 48 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 50 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 11 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
+| 12 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 13 | [Nigerian](http://twitter.com/search?q=Nigerian) | N/A |
+| 14 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
+| 15 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 16 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 17 | [tom egbers](http://twitter.com/search?q=tom+egbers) | N/A |
+| 18 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 19 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 20 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 21 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 22 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 23 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 24 | [bergwijn](http://twitter.com/search?q=bergwijn) | N/A |
+| 25 | [Janke Dekker](http://twitter.com/search?q=Janke+Dekker) | N/A |
+| 26 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 27 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 28 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 29 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 30 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 31 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
+| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 33 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 34 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 35 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Koen](http://twitter.com/search?q=Koen) | N/A |
+| 38 | [Klassieker](http://twitter.com/search?q=Klassieker) | N/A |
+| 39 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 40 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
+| 41 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 45 | [Mores](http://twitter.com/search?q=Mores) | N/A |
+| 46 | [Wetin](http://twitter.com/search?q=Wetin) | N/A |
+| 47 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 48 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 50 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
 
 
 

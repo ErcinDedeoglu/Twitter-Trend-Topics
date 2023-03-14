@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-14 01:42:31 UTC`
+📆 Last Updated: `2023-03-14 02:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,36 +15,19 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YUNARMY](http://twitter.com/search?q=%23YUNARMY) | N/A |
-| 2 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 3 | [Oskaru](http://twitter.com/search?q=Oskaru) | N/A |
-| 4 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
-| 5 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 6 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 7 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
-| 8 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 9 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 10 | [ceru](http://twitter.com/search?q=ceru) | N/A |
-| 11 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 12 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 13 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 14 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 15 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 16 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
-| 17 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 18 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 19 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 20 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 21 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 22 | [turklāt](http://twitter.com/search?q=turkl%c4%81t) | N/A |
-| 23 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 24 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 25 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
-| 26 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 27 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 28 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 29 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 1 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 2 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 3 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 4 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 5 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
+| 6 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 7 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 8 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 9 | [visu](http://twitter.com/search?q=visu) | N/A |
+| 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 11 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 12 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 13 | [vispār](http://twitter.com/search?q=visp%c4%81r) | N/A |
 
 
 

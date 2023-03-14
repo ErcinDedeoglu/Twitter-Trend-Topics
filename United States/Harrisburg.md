@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-14 01:42:54 UTC`
+📆 Last Updated: `2023-03-14 02:29:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Epps](http://twitter.com/search?q=Epps) | N/A |
-| 2 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 3 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 2 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 3 | [#HereWeGo](http://twitter.com/search?q=%23HereWeGo) | #HereWeGo is an expression used to express enthusiasm and excitement for something. It is often used as a rallying cry before beginning a task or activity. In English, it can be translated to mean "Let's do this!" or "Let's get started!" |
 | 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 5 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 6 | [Temple](http://twitter.com/search?q=Temple) | N/A |
-| 7 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 8 | [Bradberry](http://twitter.com/search?q=Bradberry) | Bradberry is a portmanteau of the words "brat" and "strawberry". It is used to describe someone who is spoiled, selfish, and demanding. |
-| 9 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
-| 10 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 13 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 14 | [#YUNARMY](http://twitter.com/search?q=%23YUNARMY) | N/A |
-| 15 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 16 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 17 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 18 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 19 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 20 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 21 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 22 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 23 | [José De León](http://twitter.com/search?q=Jos%c3%a9+De+Le%c3%b3n) | N/A |
-| 24 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 25 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
-| 26 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 27 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 28 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 29 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 30 | [Zach Allen](http://twitter.com/search?q=Zach+Allen) | N/A |
-| 31 | [Kentrell](http://twitter.com/search?q=Kentrell) | N/A |
-| 32 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
-| 33 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
-| 34 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 35 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 36 | [Peter Griffin](http://twitter.com/search?q=Peter+Griffin) | N/A |
-| 37 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
-| 38 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
-| 39 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
-| 40 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 41 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 42 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 43 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 44 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 45 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 46 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 47 | [Counseling](http://twitter.com/search?q=Counseling) | N/A |
-| 48 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 49 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
-| 50 | [Dexter Lumis](http://twitter.com/search?q=Dexter+Lumis) | N/A |
+| 6 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 7 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 8 | [Hargrave](http://twitter.com/search?q=Hargrave) | Hargrave is a surname of English origin. It is derived from the Old English words "har" meaning "grey" and "graef" meaning "grove". The name can be translated to mean "grey grove". |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 11 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 12 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 13 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 14 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 15 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 16 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 17 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 18 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 19 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 20 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 21 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 22 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 23 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 24 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 25 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 26 | [Davenport](http://twitter.com/search?q=Davenport) | N/A |
+| 27 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 28 | [José De León](http://twitter.com/search?q=Jos%c3%a9+De+Le%c3%b3n) | N/A |
+| 29 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 30 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 31 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 32 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 33 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 36 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 37 | [Svech](http://twitter.com/search?q=Svech) | N/A |
+| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 39 | [Perfect Game](http://twitter.com/search?q=Perfect+Game) | N/A |
+| 40 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 41 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 42 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 43 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
+| 44 | [Jalen Green](http://twitter.com/search?q=Jalen+Green) | Jalen Green is an American basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He is considered one of the top prospects in the 2021 NBA Draft. The name Jalen is derived from the Hebrew name “Ya’el”, which means “God will ascend”. |
+| 45 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
+| 46 | [Mitch Bratt](http://twitter.com/search?q=Mitch+Bratt) | N/A |
+| 47 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 48 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 49 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 50 | [Kentrell](http://twitter.com/search?q=Kentrell) | N/A |
 
 
 

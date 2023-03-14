@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-14 01:42:27 UTC`
+📆 Last Updated: `2023-03-14 02:29:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 3 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
-| 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 5 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 7 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 3 | [#s04bvb](http://twitter.com/search?q=%23s04bvb) | N/A |
+| 4 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 6 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
+| 7 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
 | 8 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 9 | [Warenhäuser](http://twitter.com/search?q=Warenh%c3%a4user) | N/A |
-| 10 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 12 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 13 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 14 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 15 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 16 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 17 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 18 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 19 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 20 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
-| 21 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
-| 22 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
-| 23 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 24 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 25 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 26 | [standorte](http://twitter.com/search?q=standorte) | N/A |
-| 27 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 10 | [filialen](http://twitter.com/search?q=filialen) | N/A |
+| 11 | [Dizzy](http://twitter.com/search?q=Dizzy) | N/A |
+| 12 | [warenhäuser](http://twitter.com/search?q=warenh%c3%a4user) | N/A |
+| 13 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 14 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 15 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
+| 16 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 17 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 18 | [hackl](http://twitter.com/search?q=hackl) | N/A |
+| 19 | [Lichtbildausweis](http://twitter.com/search?q=Lichtbildausweis) | N/A |
+| 20 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 21 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 22 | [Steven](http://twitter.com/search?q=Steven) | N/A |
+| 23 | [kerstin](http://twitter.com/search?q=kerstin) | N/A |
+| 24 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 25 | [nuhr](http://twitter.com/search?q=nuhr) | N/A |
+| 26 | [Lebenslauf](http://twitter.com/search?q=Lebenslauf) | N/A |
+| 27 | [Wahlsystem](http://twitter.com/search?q=Wahlsystem) | N/A |
 | 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 29 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 30 | ['verwunschen'](http://twitter.com/search?q=%27verwunschen%27) | N/A |
-| 31 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 32 | [Leuchtturmwärter](http://twitter.com/search?q=Leuchtturmw%c3%a4rter) | N/A |
-| 33 | [hackl](http://twitter.com/search?q=hackl) | N/A |
-| 34 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
-| 35 | [Wahlsystem](http://twitter.com/search?q=Wahlsystem) | N/A |
-| 36 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 37 | [Antikriegsfilm](http://twitter.com/search?q=Antikriegsfilm) | N/A |
-| 38 | [Schmutzkampagne](http://twitter.com/search?q=Schmutzkampagne) | N/A |
-| 39 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 40 | [Wingman](http://twitter.com/search?q=Wingman) | N/A |
-| 41 | [Zorn](http://twitter.com/search?q=Zorn) | N/A |
-| 42 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 43 | [herr söder](http://twitter.com/search?q=herr+s%c3%b6der) | N/A |
-| 44 | [hochzeiten](http://twitter.com/search?q=hochzeiten) | N/A |
-| 45 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 46 | [Big City Club](http://twitter.com/search?q=Big+City+Club) | N/A |
-| 47 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 48 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 29 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 30 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 31 | [Ploß](http://twitter.com/search?q=Plo%c3%9f) | N/A |
+| 32 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 33 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 34 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 35 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 36 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
+| 37 | [Verfassungsgericht](http://twitter.com/search?q=Verfassungsgericht) | N/A |
+| 38 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [regenwald](http://twitter.com/search?q=regenwald) | N/A |
+| 41 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 42 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 43 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 44 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
+| 45 | [USDC](http://twitter.com/search?q=USDC) | N/A |
+| 46 | [Hass und Hetze](http://twitter.com/search?q=Hass+und+Hetze) | N/A |
+| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-14 01:42:25 UTC`
+📆 Last Updated: `2023-03-14 02:29:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
 | 2 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 4 | [#scovire](http://twitter.com/search?q=%23scovire) | N/A |
+| 3 | [#scovire](http://twitter.com/search?q=%23scovire) | N/A |
+| 4 | [#verymodernfamily](http://twitter.com/search?q=%23verymodernfamily) | N/A |
 | 5 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 6 | [Liam Kearns](http://twitter.com/search?q=Liam+Kearns) | N/A |
 | 7 | [Conor Skehan](http://twitter.com/search?q=Conor+Skehan) | N/A |
-| 8 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 9 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 10 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 11 | [Seachtain](http://twitter.com/search?q=Seachtain) | N/A |
-| 12 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
-| 13 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 14 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
-| 15 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 16 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 17 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 18 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
-| 19 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 21 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 22 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 23 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 24 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 26 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 27 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 28 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 30 | [Richard Baneham](http://twitter.com/search?q=Richard+Baneham) | N/A |
-| 31 | [LUKE PEARCE](http://twitter.com/search?q=LUKE+PEARCE) | N/A |
-| 32 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 33 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 34 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
-| 35 | [LISTEN HERE](http://twitter.com/search?q=LISTEN+HERE) | N/A |
-| 36 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 37 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 38 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 39 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 40 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 41 | [cian healy](http://twitter.com/search?q=cian+healy) | N/A |
-| 42 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 43 | [rip liam](http://twitter.com/search?q=rip+liam) | N/A |
-| 44 | [The Way of Water](http://twitter.com/search?q=The+Way+of+Water) | N/A |
-| 45 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
-| 46 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 47 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 48 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 49 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 8 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 9 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 13 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 14 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Niamh](http://twitter.com/search?q=Niamh) | N/A |
+| 17 | [James Martin](http://twitter.com/search?q=James+Martin) | N/A |
+| 18 | [mack hansen](http://twitter.com/search?q=mack+hansen) | N/A |
+| 19 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 20 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
+| 21 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 22 | [Rip Liam](http://twitter.com/search?q=Rip+Liam) | N/A |
+| 23 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 24 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 25 | [cian healy](http://twitter.com/search?q=cian+healy) | N/A |
+| 26 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 27 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 28 | [Kerry Condon](http://twitter.com/search?q=Kerry+Condon) | N/A |
+| 29 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 30 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 31 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 33 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 34 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 35 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 36 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 37 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
+| 38 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 39 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
+| 40 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 41 | [Brendan Gleeson](http://twitter.com/search?q=Brendan+Gleeson) | N/A |
+| 42 | [Ringrose](http://twitter.com/search?q=Ringrose) | N/A |
+| 43 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 44 | [paul mescal](http://twitter.com/search?q=paul+mescal) | N/A |
+| 45 | [St. Patrick's Day](http://twitter.com/search?q=St.+Patrick%27s+Day) | N/A |
+| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 47 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 
 
 

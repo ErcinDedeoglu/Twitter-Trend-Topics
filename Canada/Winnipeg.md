@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-14 01:42:12 UTC`
+📆 Last Updated: `2023-03-14 02:28:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 2 | [#JUNOS](http://twitter.com/search?q=%23JUNOS) | N/A |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 6 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 7 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 8 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
-| 9 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 10 | [Hugh Grant](http://twitter.com/search?q=Hugh+Grant) | N/A |
-| 11 | [Ke Huy Quan](http://twitter.com/search?q=Ke+Huy+Quan) | Ke Huy Quan is a Vietnamese name. It is composed of two words: "Ke" which means "guest" and "Huy Quan" which means "good luck". In English, the name Ke Huy Quan can be translated to mean "Good Luck Guest". |
-| 12 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 13 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 14 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 15 | [Guhle](http://twitter.com/search?q=Guhle) | N/A |
-| 16 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 17 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 18 | [Sarah Polley](http://twitter.com/search?q=Sarah+Polley) | N/A |
-| 19 | [Lehkonen](http://twitter.com/search?q=Lehkonen) | N/A |
-| 20 | [Nickelback](http://twitter.com/search?q=Nickelback) | N/A |
-| 21 | [Everything Everywhere](http://twitter.com/search?q=Everything+Everywhere) | Everything Everywhere is a British mobile network operator, formed in 2010 as a joint venture between the two largest UK mobile network operators, Orange and T-Mobile. The company's name is derived from its aim to provide customers with coverage and services everywhere. In other words, it means that customers can access services and coverage wherever they are. |
-| 22 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 23 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 24 | [St. Thomas](http://twitter.com/search?q=St.+Thomas) | N/A |
-| 25 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 26 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 27 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
-| 28 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 29 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 30 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
-| 31 | [Lehky](http://twitter.com/search?q=Lehky) | N/A |
-| 32 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 33 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 34 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 35 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
-| 36 | [Bowen Byram](http://twitter.com/search?q=Bowen+Byram) | N/A |
-| 37 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 39 | [Best Picture](http://twitter.com/search?q=Best+Picture) | Best Picture is an award given to the best film of the year at the Academy Awards. It is considered to be one of the most prestigious awards in the film industry and is awarded to the director, producer, and cast of a movie that has been deemed to be the best of that year. |
-| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 41 | [Great Britain](http://twitter.com/search?q=Great+Britain) | N/A |
-| 42 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 43 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 44 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
-| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 46 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 47 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 48 | [AISH](http://twitter.com/search?q=AISH) | N/A |
-| 49 | [Women Talking](http://twitter.com/search?q=Women+Talking) | Women Talking is a phrase used to refer to conversations between women, typically about topics that are important to them. It can also be used to describe the act of women coming together to discuss issues that affect them, such as gender equality, reproductive rights, and other social justice issues. |
-| 50 | [Star Spangled Banner](http://twitter.com/search?q=Star+Spangled+Banner) | N/A |
+| 1 | [#JUNOS](http://twitter.com/search?q=%23JUNOS) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 4 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 6 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 7 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 8 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 9 | [Amqui](http://twitter.com/search?q=Amqui) | N/A |
+| 10 | [Nickelback](http://twitter.com/search?q=Nickelback) | N/A |
+| 11 | [Byram](http://twitter.com/search?q=Byram) | N/A |
+| 12 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 13 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 14 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 15 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 16 | [Guhle](http://twitter.com/search?q=Guhle) | N/A |
+| 17 | [Lehkonen](http://twitter.com/search?q=Lehkonen) | N/A |
+| 18 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 19 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 20 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 21 | [Lehky](http://twitter.com/search?q=Lehky) | N/A |
+| 22 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 23 | [Josh Anderson](http://twitter.com/search?q=Josh+Anderson) | N/A |
+| 24 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
+| 25 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
+| 26 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 27 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 28 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 30 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 31 | [Auston](http://twitter.com/search?q=Auston) | N/A |
+| 32 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
+| 33 | [Volkswagen](http://twitter.com/search?q=Volkswagen) | N/A |
+| 34 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 35 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 36 | [St. Thomas](http://twitter.com/search?q=St.+Thomas) | N/A |
+| 37 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 38 | [AISH](http://twitter.com/search?q=AISH) | N/A |
+| 39 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 40 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 41 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 42 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 43 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 44 | [#BUFvsTOR](http://twitter.com/search?q=%23BUFvsTOR) | N/A |
+| 45 | [#SHSA](http://twitter.com/search?q=%23SHSA) | N/A |
+| 46 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 47 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 
 
 
