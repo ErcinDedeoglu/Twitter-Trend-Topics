@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-14 20:16:53 UTC`
+📆 Last Updated: `2023-03-14 21:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 2 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 3 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 4 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
-| 5 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 6 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 7 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 8 | [Ryder](http://twitter.com/search?q=Ryder) | N/A |
-| 9 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 10 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 11 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
-| 12 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
-| 13 | [#Hollyoaks](http://twitter.com/search?q=%23Hollyoaks) | N/A |
-| 14 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 15 | [#Sims4](http://twitter.com/search?q=%23Sims4) | N/A |
-| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 17 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 18 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
-| 19 | [#Cheltenham2023](http://twitter.com/search?q=%23Cheltenham2023) | N/A |
-| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 21 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 22 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 23 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 24 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 25 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 26 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 27 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 28 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 29 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 30 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 31 | [Bean](http://twitter.com/search?q=Bean) | N/A |
-| 32 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 33 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 34 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 35 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
-| 36 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 37 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 38 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
-| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 40 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 43 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
-| 44 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
-| 45 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 46 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 47 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 48 | [Lawrenson](http://twitter.com/search?q=Lawrenson) | N/A |
-| 49 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 2 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 4 | [#bbcdn](http://twitter.com/search?q=%23bbcdn) | N/A |
+| 5 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 6 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 7 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 10 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 13 | [Peter Walton](http://twitter.com/search?q=Peter+Walton) | N/A |
+| 14 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 15 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 16 | [Hoever](http://twitter.com/search?q=Hoever) | N/A |
+| 17 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 18 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 19 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 20 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 21 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 22 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
+| 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 24 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 26 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 27 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 28 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 29 | [Ryder](http://twitter.com/search?q=Ryder) | N/A |
+| 30 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 31 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
+| 32 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
+| 33 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 34 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
+| 35 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 36 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 37 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 38 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 39 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 40 | [Akpom](http://twitter.com/search?q=Akpom) | N/A |
+| 41 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 42 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
+| 43 | [Citeh](http://twitter.com/search?q=Citeh) | N/A |
+| 44 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 46 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 47 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
+| 48 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 49 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
 
 
 

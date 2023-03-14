@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-14 20:17:01 UTC`
+📆 Last Updated: `2023-03-14 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 2 | [kauan](http://twitter.com/search?q=kauan) | N/A |
-| 3 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
+| 3 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
 | 4 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 5 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 6 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 7 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 8 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 9 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 10 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 11 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 12 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
-| 13 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 14 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
-| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 16 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 17 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 18 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 19 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 20 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 21 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 22 | [#AShoulderToCryOnEP1](http://twitter.com/search?q=%23AShoulderToCryOnEP1) | N/A |
-| 23 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
-| 24 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
-| 25 | [pism](http://twitter.com/search?q=pism) | N/A |
-| 26 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 27 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 29 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 30 | [Aquaman](http://twitter.com/search?q=Aquaman) | N/A |
-| 31 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 33 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 34 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 35 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 36 | [Karl Marx](http://twitter.com/search?q=Karl+Marx) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 39 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 40 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 41 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 42 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 43 | [Casa Civil](http://twitter.com/search?q=Casa+Civil) | N/A |
-| 44 | [Carninha](http://twitter.com/search?q=Carninha) | N/A |
-| 45 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
-| 46 | [VERA CRUZ](http://twitter.com/search?q=VERA+CRUZ) | N/A |
-| 47 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
-| 48 | [Creme](http://twitter.com/search?q=Creme) | N/A |
-| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 50 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 8 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 10 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 12 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 13 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 14 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 15 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 18 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
+| 19 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 20 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 21 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 22 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 23 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 24 | [Wiz Khalifa](http://twitter.com/search?q=Wiz+Khalifa) | N/A |
+| 25 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 26 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 27 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 28 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
+| 29 | [Mar Negro](http://twitter.com/search?q=Mar+Negro) | N/A |
+| 30 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
+| 31 | [O City](http://twitter.com/search?q=O+City) | N/A |
+| 32 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 33 | [pism](http://twitter.com/search?q=pism) | N/A |
+| 34 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 35 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 36 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 37 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 38 | [Bobs](http://twitter.com/search?q=Bobs) | N/A |
+| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 40 | [Diplo](http://twitter.com/search?q=Diplo) | N/A |
+| 41 | [Força Nacional](http://twitter.com/search?q=For%c3%a7a+Nacional) | N/A |
+| 42 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 43 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 44 | [Maria José](http://twitter.com/search?q=Maria+Jos%c3%a9) | N/A |
+| 45 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 46 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 47 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 48 | [Roger Cipó](http://twitter.com/search?q=Roger+Cip%c3%b3) | N/A |
+| 49 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
+| 50 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-14 20:17:34 UTC`
+📆 Last Updated: `2023-03-14 21:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LPSC2023](http://twitter.com/search?q=%23LPSC2023) | N/A |
-| 2 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 3 | [Noah Brown](http://twitter.com/search?q=Noah+Brown) | Noah Brown is a name, most likely of a person. It does not have any particular meaning in English. |
-| 4 | [#SXSW23](http://twitter.com/search?q=%23SXSW23) | N/A |
-| 5 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 6 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 7 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 8 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 9 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 10 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
-| 11 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 12 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 13 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 14 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
-| 15 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
-| 16 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 17 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 18 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 19 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
-| 20 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 21 | [Drew](http://twitter.com/search?q=Drew) | N/A |
-| 22 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 23 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
-| 24 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 25 | [Miles Sanders](http://twitter.com/search?q=Miles+Sanders) | N/A |
-| 26 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
-| 27 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 28 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
-| 29 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
-| 30 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 31 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 32 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 33 | [Kittle](http://twitter.com/search?q=Kittle) | Kittle is a Scottish word meaning to tickle or tease. It can also be used to describe someone who is mischievous or playful. |
-| 34 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
-| 35 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 36 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 37 | [Renfrow](http://twitter.com/search?q=Renfrow) | Renfrow is a surname of English origin. It is derived from the Old English words "renne" meaning "rushing stream" and "frowe" meaning "dweller by the stream". The name is thought to have originated in the area around the River Renn in Devon, England. |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 40 | [Jordy Nelson](http://twitter.com/search?q=Jordy+Nelson) | N/A |
-| 41 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 42 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 43 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 44 | [Draya](http://twitter.com/search?q=Draya) | N/A |
-| 45 | [LET'S GO NUNS](http://twitter.com/search?q=LET%27S+GO+NUNS) | N/A |
-| 46 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 47 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 48 | [New York Packers](http://twitter.com/search?q=New+York+Packers) | N/A |
-| 49 | [Jacobs](http://twitter.com/search?q=Jacobs) | N/A |
+| 2 | [#SXSW23](http://twitter.com/search?q=%23SXSW23) | N/A |
+| 3 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 4 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 5 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 6 | [Waller](http://twitter.com/search?q=Waller) | N/A |
+| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 10 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 11 | [#DominosPiDay](http://twitter.com/search?q=%23DominosPiDay) | N/A |
+| 12 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 13 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 15 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 16 | [Rashaad Penny](http://twitter.com/search?q=Rashaad+Penny) | N/A |
+| 17 | [Law Roach](http://twitter.com/search?q=Law+Roach) | N/A |
+| 18 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 19 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 21 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 22 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 23 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 24 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 25 | [Boobie](http://twitter.com/search?q=Boobie) | N/A |
+| 26 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 27 | [Drew](http://twitter.com/search?q=Drew) | N/A |
+| 28 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 29 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 30 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 31 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 32 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 33 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
+| 34 | [12 Years a Slave](http://twitter.com/search?q=12+Years+a+Slave) | N/A |
+| 35 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 36 | [MQ-9](http://twitter.com/search?q=MQ-9) | N/A |
+| 37 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 38 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 39 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 40 | [Kelsey Plum](http://twitter.com/search?q=Kelsey+Plum) | N/A |
+| 41 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 42 | [The Shape of Water](http://twitter.com/search?q=The+Shape+of+Water) | N/A |
+| 43 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 44 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
+| 45 | [Kittle](http://twitter.com/search?q=Kittle) | Kittle is a Scottish word meaning to tickle or tease. It can also be used to describe someone who is mischievous or playful. |
+| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 47 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 48 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 49 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 
 
 

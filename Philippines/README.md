@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-14 20:17:46 UTC`
+📆 Last Updated: `2023-03-14 21:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Philippines
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#LoveOnTourPH](http://twitter.com/search?q=%23LoveOnTourPH) | N/A |
 | 3 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 4 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 5 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 4 | [kdlex walangaray sashowtime](http://twitter.com/search?q=kdlex+walangaray+sashowtime) | N/A |
+| 5 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
 | 6 | [#Shining314JihoonDay](http://twitter.com/search?q=%23Shining314JihoonDay) | N/A |
 | 7 | [#해피믕믕데이_지훈아_생일축하해](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc%eb%af%95%eb%af%95%eb%8d%b0%ec%9d%b4_%ec%a7%80%ed%9b%88%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 8 | [#セクシーで五めんっパクジフン](http://twitter.com/search?q=%23%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%81%a7%e4%ba%94%e3%82%81%e3%82%93%e3%81%a3%e3%83%91%e3%82%af%e3%82%b8%e3%83%95%e3%83%b3) | N/A |
 | 9 | [YOU MEAN THE WORLD TO ME](http://twitter.com/search?q=YOU+MEAN+THE+WORLD+TO+ME) | N/A |
 | 10 | [BGYO ALBUM SHOWCASE](http://twitter.com/search?q=BGYO+ALBUM+SHOWCASE) | N/A |
 | 11 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
-| 12 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 12 | [mahal ko kayo](http://twitter.com/search?q=mahal+ko+kayo) | N/A |
 | 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 14 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 | 15 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
@@ -34,12 +34,12 @@ This is top 50 for Philippines
 | 17 | [Akari](http://twitter.com/search?q=Akari) | N/A |
 | 18 | [JAY COVER](http://twitter.com/search?q=JAY+COVER) | N/A |
 | 19 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
-| 20 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
-| 21 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
-| 22 | [BOOMERANG MV OUTNOW](http://twitter.com/search?q=BOOMERANG+MV+OUTNOW) | N/A |
+| 20 | [Regine Velasquez](http://twitter.com/search?q=Regine+Velasquez) | N/A |
+| 21 | [BOOMERANG MV OUTNOW](http://twitter.com/search?q=BOOMERANG+MV+OUTNOW) | N/A |
+| 22 | [RMT NA AKO](http://twitter.com/search?q=RMT+NA+AKO) | N/A |
 | 23 | [Lea Salonga](http://twitter.com/search?q=Lea+Salonga) | N/A |
 | 24 | [Part 3](http://twitter.com/search?q=Part+3) | N/A |
-| 25 | [Give Me Your Forever](http://twitter.com/search?q=Give+Me+Your+Forever) | N/A |
+| 25 | [GIVE ME YOUR FOREVER](http://twitter.com/search?q=GIVE+ME+YOUR+FOREVER) | N/A |
 | 26 | [Rover](http://twitter.com/search?q=Rover) | N/A |
 | 27 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
 | 28 | [bgyo official merch box](http://twitter.com/search?q=bgyo+official+merch+box) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Philippines
 | 34 | [Ogie](http://twitter.com/search?q=Ogie) | N/A |
 | 35 | [vibrent matapang vlog](http://twitter.com/search?q=vibrent+matapang+vlog) | N/A |
 | 36 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 37 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
-| 38 | [prince pienabalik](http://twitter.com/search?q=prince+pienabalik) | N/A |
-| 39 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
-| 40 | [OMG JAY](http://twitter.com/search?q=OMG+JAY) | N/A |
-| 41 | [LEAVE AMERICA](http://twitter.com/search?q=LEAVE+AMERICA) | Leave America is a phrase used to express the idea of leaving the United States of America. It can be used as a call to action for those who wish to leave the country, or as a statement of intent for those who are planning to do so. It can also be used as a way to express frustration with the current political and social climate in the US. |
-| 42 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 37 | [prince pienabalik](http://twitter.com/search?q=prince+pienabalik) | N/A |
+| 38 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
+| 39 | [LEAVE AMERICA](http://twitter.com/search?q=LEAVE+AMERICA) | Leave America is a phrase used to express the idea of leaving the United States of America. It can be used as a call to action for those who wish to leave the country, or as a statement of intent for those who are planning to do so. It can also be used as a way to express frustration with the current political and social climate in the US. |
+| 40 | [JS1 ME](http://twitter.com/search?q=JS1+ME) | N/A |
+| 41 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 42 | [Dara](http://twitter.com/search?q=Dara) | N/A |
 | 43 | [Paji](http://twitter.com/search?q=Paji) | N/A |
-| 44 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 45 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
-| 46 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
-| 47 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
-| 48 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 49 | [Puregold](http://twitter.com/search?q=Puregold) | N/A |
-| 50 | [chico dl expectations](http://twitter.com/search?q=chico+dl+expectations) | N/A |
+| 44 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 45 | [OLD LOVE](http://twitter.com/search?q=OLD+LOVE) | N/A |
+| 46 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 47 | [Puregold](http://twitter.com/search?q=Puregold) | N/A |
+| 48 | [chico dl expectations](http://twitter.com/search?q=chico+dl+expectations) | N/A |
+| 49 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
+| 50 | [Sarah Geronimo](http://twitter.com/search?q=Sarah+Geronimo) | N/A |
 
 
 

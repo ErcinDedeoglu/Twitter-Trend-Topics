@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-14 20:16:54 UTC`
+📆 Last Updated: `2023-03-14 21:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ryder](http://twitter.com/search?q=Ryder) | N/A |
-| 2 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
-| 3 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 4 | [#womaninbizhour](http://twitter.com/search?q=%23womaninbizhour) | N/A |
-| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 6 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 7 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 8 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 9 | [Rachael Blackmore](http://twitter.com/search?q=Rachael+Blackmore) | N/A |
-| 10 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 11 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 12 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 13 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
-| 14 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 15 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 16 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 17 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 18 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 20 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 21 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
-| 22 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 24 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 25 | [1000 GLUE STICKS](http://twitter.com/search?q=1000+GLUE+STICKS) | N/A |
-| 26 | [The Grants](http://twitter.com/search?q=The+Grants) | N/A |
-| 27 | [Unpatriotic](http://twitter.com/search?q=Unpatriotic) | N/A |
-| 28 | [Jazzy Matty](http://twitter.com/search?q=Jazzy+Matty) | N/A |
-| 29 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 30 | [Leyla](http://twitter.com/search?q=Leyla) | N/A |
-| 31 | [Mahler Mission](http://twitter.com/search?q=Mahler+Mission) | N/A |
-| 32 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 33 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 34 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 35 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 36 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 37 | [Eleanor Williams](http://twitter.com/search?q=Eleanor+Williams) | N/A |
-| 38 | [Tommy Robinson](http://twitter.com/search?q=Tommy+Robinson) | N/A |
-| 39 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 40 | [Green Book](http://twitter.com/search?q=Green+Book) | N/A |
-| 41 | [Bean](http://twitter.com/search?q=Bean) | N/A |
-| 42 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 43 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 44 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 45 | [Putin's Russia](http://twitter.com/search?q=Putin%27s+Russia) | N/A |
-| 46 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 47 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 1 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 2 | [#Millwall](http://twitter.com/search?q=%23Millwall) | N/A |
+| 3 | [#womaninbizhour](http://twitter.com/search?q=%23womaninbizhour) | N/A |
+| 4 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 5 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 6 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 7 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 8 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 9 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 10 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 11 | [MAPs](http://twitter.com/search?q=MAPs) | N/A |
+| 12 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 13 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 14 | [Love Envoi](http://twitter.com/search?q=Love+Envoi) | N/A |
+| 15 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 16 | [#piDay2023](http://twitter.com/search?q=%23piDay2023) | N/A |
+| 17 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 18 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 19 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 20 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 21 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 22 | [Champion Hurdle](http://twitter.com/search?q=Champion+Hurdle) | N/A |
+| 23 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 27 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 29 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 30 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 31 | [Peter Walton](http://twitter.com/search?q=Peter+Walton) | N/A |
+| 32 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 33 | [Hoever](http://twitter.com/search?q=Hoever) | N/A |
+| 34 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 35 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 36 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 37 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 38 | [Wiggle](http://twitter.com/search?q=Wiggle) | N/A |
+| 39 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
+| 42 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 43 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 44 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 45 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 46 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 47 | [Ryder](http://twitter.com/search?q=Ryder) | N/A |
+| 48 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 49 | [Solly March](http://twitter.com/search?q=Solly+March) | Solly March is a phrase used in South African English to describe someone who is being lazy or not working hard enough. It is derived from the Afrikaans phrase "so lui maar," which literally translates to "so lazy but." |
 
 
 

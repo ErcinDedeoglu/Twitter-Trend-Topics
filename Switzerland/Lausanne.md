@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-14 20:17:10 UTC`
+📆 Last Updated: `2023-03-14 21:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 2 | [#Berset](http://twitter.com/search?q=%23Berset) | N/A |
-| 3 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 2 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 3 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 4 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
 | 7 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 8 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 9 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 10 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 11 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 10 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 11 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 12 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 14 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 15 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 16 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 17 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 18 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 19 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 20 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
-| 21 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 22 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 23 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 15 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 16 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 17 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 18 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 19 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 20 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 21 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 22 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 23 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
 | 24 | [Lausanne](http://twitter.com/search?q=Lausanne) | N/A |
-| 25 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 26 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 27 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 28 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 29 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 30 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
-| 31 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 34 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 35 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
-| 36 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 37 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 38 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 39 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 25 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 26 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 27 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 28 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 31 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 32 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 33 | [Eidgenossen](http://twitter.com/search?q=Eidgenossen) | N/A |
+| 34 | [The Swiss](http://twitter.com/search?q=The+Swiss) | N/A |
+| 35 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 36 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 37 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 38 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
+| 39 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 40 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 41 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 42 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
 | 43 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 44 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 45 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 46 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 47 | [London](http://twitter.com/search?q=London) | N/A |
-| 48 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 44 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
+| 45 | [London](http://twitter.com/search?q=London) | N/A |
+| 46 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 47 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 48 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
 
 
 

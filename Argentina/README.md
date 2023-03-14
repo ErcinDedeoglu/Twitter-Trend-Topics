@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-14 20:17:41 UTC`
+📆 Last Updated: `2023-03-14 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#inflacion](http://twitter.com/search?q=%23inflacion) | N/A |
-| 2 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 3 | [Ramón Díaz](http://twitter.com/search?q=Ram%c3%b3n+D%c3%adaz) | N/A |
-| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 5 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
-| 6 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 9 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 10 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 13 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 14 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 15 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 16 | [Oficina Anticorrupción](http://twitter.com/search?q=Oficina+Anticorrupci%c3%b3n) | N/A |
-| 17 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 18 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 19 | [Verónica Gómez](http://twitter.com/search?q=Ver%c3%b3nica+G%c3%b3mez) | N/A |
-| 20 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
-| 21 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 22 | [La VTV](http://twitter.com/search?q=La+VTV) | N/A |
-| 23 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 24 | [Denigrante](http://twitter.com/search?q=Denigrante) | N/A |
-| 25 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
-| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 27 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 28 | [Tolosa Paz](http://twitter.com/search?q=Tolosa+Paz) | N/A |
-| 29 | [Blaquier](http://twitter.com/search?q=Blaquier) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Milito](http://twitter.com/search?q=Milito) | N/A |
-| 32 | [Mundial 2026](http://twitter.com/search?q=Mundial+2026) | N/A |
-| 33 | [Llueve](http://twitter.com/search?q=Llueve) | N/A |
-| 34 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
-| 35 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
-| 36 | [Potenciar Trabajo](http://twitter.com/search?q=Potenciar+Trabajo) | N/A |
-| 37 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 38 | [El Dibu](http://twitter.com/search?q=El+Dibu) | N/A |
-| 39 | [AMBA](http://twitter.com/search?q=AMBA) | N/A |
-| 40 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 41 | [Gaston](http://twitter.com/search?q=Gaston) | N/A |
-| 42 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 43 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 44 | [Angelici](http://twitter.com/search?q=Angelici) | N/A |
-| 45 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 46 | [En Córdoba](http://twitter.com/search?q=En+C%c3%b3rdoba) | N/A |
-| 47 | [Memoria](http://twitter.com/search?q=Memoria) | N/A |
-| 48 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 49 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 50 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 1 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 2 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 3 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 4 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 5 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 6 | [#inflacion](http://twitter.com/search?q=%23inflacion) | N/A |
+| 7 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 8 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 9 | [Ramón Díaz](http://twitter.com/search?q=Ram%c3%b3n+D%c3%adaz) | N/A |
+| 10 | [Halaand](http://twitter.com/search?q=Halaand) | Halaand is a term used in the Indian subcontinent to refer to a person who is generous and kind-hearted. It is derived from the Sanskrit word "hala," which means "generous." In English, it can be translated as "generous" or "kind-hearted." |
+| 11 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 12 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 13 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
+| 14 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
+| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 16 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [Closs](http://twitter.com/search?q=Closs) | N/A |
+| 19 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 20 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 21 | [#Argenzuela](http://twitter.com/search?q=%23Argenzuela) | N/A |
+| 22 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 23 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 24 | [#EdaYSerkan](http://twitter.com/search?q=%23EdaYSerkan) | N/A |
+| 25 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 26 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
+| 29 | [Verónica Gómez](http://twitter.com/search?q=Ver%c3%b3nica+G%c3%b3mez) | N/A |
+| 30 | [Oficina Anticorrupción](http://twitter.com/search?q=Oficina+Anticorrupci%c3%b3n) | N/A |
+| 31 | [La VTV](http://twitter.com/search?q=La+VTV) | N/A |
+| 32 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 33 | [Sergio Massa](http://twitter.com/search?q=Sergio+Massa) | N/A |
+| 34 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 35 | [Ferraresi](http://twitter.com/search?q=Ferraresi) | Ferraresi is a surname of Italian origin. It is derived from the city of Ferrara, located in the Emilia-Romagna region of Italy. The literal translation of Ferraresi into English is "from Ferrara". |
+| 36 | [Edenor](http://twitter.com/search?q=Edenor) | N/A |
+| 37 | [ESTA LLOVIENDO](http://twitter.com/search?q=ESTA+LLOVIENDO) | N/A |
+| 38 | [Fuego](http://twitter.com/search?q=Fuego) | N/A |
+| 39 | [Ushuaia](http://twitter.com/search?q=Ushuaia) | N/A |
+| 40 | [Denigrante](http://twitter.com/search?q=Denigrante) | N/A |
+| 41 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
+| 42 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
+| 43 | [Stornelli](http://twitter.com/search?q=Stornelli) | N/A |
+| 44 | [Llueve](http://twitter.com/search?q=Llueve) | N/A |
+| 45 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 46 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 47 | [AMBA](http://twitter.com/search?q=AMBA) | N/A |
+| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 50 | [El Dibu](http://twitter.com/search?q=El+Dibu) | N/A |
 
 
 

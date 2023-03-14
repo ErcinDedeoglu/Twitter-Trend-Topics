@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-14 20:17:07 UTC`
+📆 Last Updated: `2023-03-14 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
-| 2 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
-| 3 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 4 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 5 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 6 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 7 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 10 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 12 | [Wahlkreis](http://twitter.com/search?q=Wahlkreis) | N/A |
-| 13 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 14 | [Impfschäden](http://twitter.com/search?q=Impfsch%c3%a4den) | N/A |
-| 15 | [Brie](http://twitter.com/search?q=Brie) | N/A |
-| 16 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 17 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 18 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 19 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 20 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
-| 21 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 22 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 23 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 24 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 25 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 26 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 27 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 28 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 29 | [Mörderinnen](http://twitter.com/search?q=M%c3%b6rderinnen) | N/A |
-| 30 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 31 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 32 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 33 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 34 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 35 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
-| 36 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 38 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
-| 39 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
-| 40 | [Vorfahrt](http://twitter.com/search?q=Vorfahrt) | N/A |
-| 41 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 42 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 43 | [guten morgen dietmar](http://twitter.com/search?q=guten+morgen+dietmar) | N/A |
-| 44 | [Marken](http://twitter.com/search?q=Marken) | N/A |
-| 45 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
-| 46 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
-| 47 | [Direktkandidaten](http://twitter.com/search?q=Direktkandidaten) | N/A |
-| 48 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 1 | [#MCIRBL](http://twitter.com/search?q=%23MCIRBL) | N/A |
+| 2 | [#YUNATOKEN](http://twitter.com/search?q=%23YUNATOKEN) | N/A |
+| 3 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 4 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 5 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 6 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 7 | [#HomeforWhovians](http://twitter.com/search?q=%23HomeforWhovians) | N/A |
+| 8 | [#HartzUndHerzlich](http://twitter.com/search?q=%23HartzUndHerzlich) | N/A |
+| 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 12 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 13 | [#Wendler](http://twitter.com/search?q=%23Wendler) | N/A |
+| 14 | [Luftraum](http://twitter.com/search?q=Luftraum) | N/A |
+| 15 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 16 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 17 | [Drohne](http://twitter.com/search?q=Drohne) | N/A |
+| 18 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 19 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
+| 20 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 21 | [Su-27](http://twitter.com/search?q=Su-27) | N/A |
+| 22 | [Kampfjet](http://twitter.com/search?q=Kampfjet) | N/A |
+| 23 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 24 | [Jugendamt](http://twitter.com/search?q=Jugendamt) | N/A |
+| 25 | [Strafmündigkeit](http://twitter.com/search?q=Strafm%c3%bcndigkeit) | N/A |
+| 26 | [Brie](http://twitter.com/search?q=Brie) | N/A |
+| 27 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 28 | [Sanierung](http://twitter.com/search?q=Sanierung) | N/A |
+| 29 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 30 | [Strafrecht](http://twitter.com/search?q=Strafrecht) | N/A |
+| 31 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
+| 32 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 33 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 34 | [Erwachsenen](http://twitter.com/search?q=Erwachsenen) | N/A |
+| 35 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 36 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
+| 37 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 38 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 39 | [#Luise](http://twitter.com/search?q=%23Luise) | N/A |
+| 40 | [#RTL2](http://twitter.com/search?q=%23RTL2) | N/A |
+| 41 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 42 | [#IranianRevolution](http://twitter.com/search?q=%23IranianRevolution) | N/A |
+| 43 | [#MANvsKEC](http://twitter.com/search?q=%23MANvsKEC) | N/A |
+| 44 | [#MANKEC](http://twitter.com/search?q=%23MANKEC) | N/A |
+| 45 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 46 | [#FSVAUE](http://twitter.com/search?q=%23FSVAUE) | N/A |
+| 47 | [#IranRevoIution](http://twitter.com/search?q=%23IranRevoIution) | N/A |
+| 48 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
+| 49 | [#Bundeswehr](http://twitter.com/search?q=%23Bundeswehr) | N/A |
 
 
 
