@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-14 12:19:31 UTC`
+📆 Last Updated: `2023-03-14 13:26:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 3 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 4 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 5 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 6 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
-| 7 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 8 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 9 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 10 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 11 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 12 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 13 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 14 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 15 | [THIAGO MAIA](http://twitter.com/search?q=THIAGO+MAIA) | N/A |
-| 16 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 17 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 19 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 20 | [MATHEUSINHO](http://twitter.com/search?q=MATHEUSINHO) | N/A |
-| 21 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 22 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 23 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 24 | [FABRÍCIO BRUNO](http://twitter.com/search?q=FABR%c3%8dCIO+BRUNO) | N/A |
-| 25 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
-| 26 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 27 | [Canisso](http://twitter.com/search?q=Canisso) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [GABRIEL PEC](http://twitter.com/search?q=GABRIEL+PEC) | N/A |
-| 30 | [SPFC](http://twitter.com/search?q=SPFC) | N/A |
-| 31 | [ALEX TEIXEIRA](http://twitter.com/search?q=ALEX+TEIXEIRA) | N/A |
-| 32 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 33 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 34 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 35 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 36 | [Rogério Ceni](http://twitter.com/search?q=Rog%c3%a9rio+Ceni) | Rogério Ceni is a Brazilian retired professional footballer who played as a goalkeeper. He is widely regarded as one of the greatest goalkeepers of all time and holds the record for most goals scored by a goalkeeper, with 131 goals in his career. In English, Rogério Ceni means Rogerio Ceni. |
-| 37 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 38 | [MATHEUS GONÇALVES](http://twitter.com/search?q=MATHEUS+GON%c3%87ALVES) | N/A |
-| 39 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 40 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 41 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
-| 42 | [serenata steloisa](http://twitter.com/search?q=serenata+steloisa) | N/A |
-| 43 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 44 | [Lionel pec](http://twitter.com/search?q=Lionel+pec) | N/A |
-| 45 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 46 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 47 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 48 | [Léo Jardim](http://twitter.com/search?q=L%c3%a9o+Jardim) | N/A |
-| 49 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 50 | [Ne-Yo](http://twitter.com/search?q=Ne-Yo) | N/A |
+| 1 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 3 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
+| 4 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 5 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 6 | [#5AnosSemRespostas](http://twitter.com/search?q=%235AnosSemRespostas) | N/A |
+| 7 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
+| 8 | [Fernão Dias](http://twitter.com/search?q=Fern%c3%a3o+Dias) | N/A |
+| 9 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
+| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 11 | [Eliseu Padilha](http://twitter.com/search?q=Eliseu+Padilha) | N/A |
+| 12 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 13 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 14 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 15 | [Fogo & Sangue](http://twitter.com/search?q=Fogo+%26+Sangue) | N/A |
+| 16 | [Há 5](http://twitter.com/search?q=H%c3%a1+5) | N/A |
+| 17 | [Picanha](http://twitter.com/search?q=Picanha) | N/A |
+| 18 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 19 | [Animais](http://twitter.com/search?q=Animais) | N/A |
+| 20 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 21 | [Sigma](http://twitter.com/search?q=Sigma) | N/A |
+| 22 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 23 | [Datena](http://twitter.com/search?q=Datena) | N/A |
+| 24 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 25 | [KIM NAMJOON](http://twitter.com/search?q=KIM+NAMJOON) | N/A |
+| 26 | [Novinho](http://twitter.com/search?q=Novinho) | N/A |
+| 27 | [Consumidor](http://twitter.com/search?q=Consumidor) | N/A |
+| 28 | [Coxão](http://twitter.com/search?q=Cox%c3%a3o) | N/A |
+| 29 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 30 | [Pequeno](http://twitter.com/search?q=Pequeno) | N/A |
+| 31 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
+| 32 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
+| 33 | [Morria](http://twitter.com/search?q=Morria) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Barão](http://twitter.com/search?q=Bar%c3%a3o) | N/A |
+| 36 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 37 | [Casares](http://twitter.com/search?q=Casares) | N/A |
+| 38 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 39 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 40 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 41 | [Inês](http://twitter.com/search?q=In%c3%aas) | N/A |
+| 42 | [O Água Santa](http://twitter.com/search?q=O+%c3%81gua+Santa) | N/A |
+| 43 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-14 12:20:15 UTC`
+📆 Last Updated: `2023-03-14 13:27:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 5 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 10 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 1 | [#BCEO](http://twitter.com/search?q=%23BCEO) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 4 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 5 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 6 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 7 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 8 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 9 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 10 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
 | 11 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 12 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 14 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 15 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 16 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 17 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 18 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 19 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 20 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 21 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 22 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 23 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 24 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 25 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 26 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 27 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 28 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 29 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 30 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 31 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 32 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 33 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 34 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 35 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 37 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 38 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 39 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 40 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 41 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 42 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 43 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 44 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 45 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 46 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 47 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 48 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 49 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 12 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 13 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 14 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 15 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 16 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
+| 17 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 18 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 19 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 20 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 21 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 22 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
+| 23 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
+| 24 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 25 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 26 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 27 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 28 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
+| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 30 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
+| 31 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 32 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 33 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 35 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 36 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 38 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 39 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 40 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 41 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 42 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 43 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 44 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 45 | [McAfee](http://twitter.com/search?q=McAfee) | N/A |
+| 46 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 47 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 48 | [Brissett](http://twitter.com/search?q=Brissett) | N/A |
+| 49 | [Collected](http://twitter.com/search?q=Collected) | N/A |
 
 
 

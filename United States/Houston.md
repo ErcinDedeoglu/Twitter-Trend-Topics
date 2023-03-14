@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-14 12:20:18 UTC`
+📆 Last Updated: `2023-03-14 13:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 1 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
 | 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 5 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 6 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 7 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 10 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 11 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 14 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 15 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 16 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 17 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 18 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
-| 19 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 21 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 22 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 23 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
-| 24 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 27 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 28 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 29 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 30 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 31 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 32 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 33 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 35 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 36 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 37 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 38 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 39 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 40 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 41 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 42 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 43 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 44 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 45 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 46 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 47 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 48 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 49 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 50 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 3 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 4 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 5 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
+| 6 | [#bceo](http://twitter.com/search?q=%23bceo) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 10 | [Lazard](http://twitter.com/search?q=Lazard) | Lazard is an American financial services firm that specializes in asset management, investment banking, and other financial services. The name is derived from the French surname of the Lazard family, who founded the company in 1848. In English, it means "one who deals with money or investments". |
+| 11 | [Heinicke](http://twitter.com/search?q=Heinicke) | Heinicke is a German surname. It is derived from the given name Heinrich, which means "home ruler" or "ruler of the household". |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 14 | [#314Day](http://twitter.com/search?q=%23314Day) | N/A |
+| 15 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 16 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 17 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 18 | [#mystalive](http://twitter.com/search?q=%23mystalive) | N/A |
+| 19 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 20 | [Happy 314](http://twitter.com/search?q=Happy+314) | N/A |
+| 21 | [Gabi Garcia](http://twitter.com/search?q=Gabi+Garcia) | N/A |
+| 22 | [Hackett](http://twitter.com/search?q=Hackett) | Hackett is a British clothing brand that specializes in menswear. The brand was founded in 1975 by Jeremy Hackett and Ashley Lloyd-Jennings, and is known for its classic style and quality craftsmanship. The name Hackett is derived from the Old English word "hacket," which means "a small enclosure or hedge." |
+| 23 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 24 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 25 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 26 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 27 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 28 | [THE DAY THAT KRABS FRIES](http://twitter.com/search?q=THE+DAY+THAT+KRABS+FRIES) | N/A |
+| 29 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
+| 30 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 31 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 32 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 33 | [prince eric](http://twitter.com/search?q=prince+eric) | Prince Eric is a character from the Disney movie The Little Mermaid. He is a handsome prince who falls in love with Ariel, the mermaid. In English, Prince Eric means a prince who is charming and romantic. |
+| 34 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 35 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 36 | [Quincy Jones](http://twitter.com/search?q=Quincy+Jones) | N/A |
+| 37 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 38 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 39 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 40 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 41 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 42 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 43 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 44 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 45 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 46 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 47 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 48 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 49 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 50 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-14 12:19:35 UTC`
+📆 Last Updated: `2023-03-14 13:26:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
 | 4 | [Seilbahn](http://twitter.com/search?q=Seilbahn) | N/A |
 | 5 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 6 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 7 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 8 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 9 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 10 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 6 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 9 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 10 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
 | 11 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 12 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
-| 13 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
-| 14 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 15 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 16 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 17 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 18 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 19 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 12 | [Sicherheit](http://twitter.com/search?q=Sicherheit) | N/A |
+| 13 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 14 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 15 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 16 | [Landbauer](http://twitter.com/search?q=Landbauer) | N/A |
+| 17 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 18 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 19 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
 | 20 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
-| 21 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 22 | [vorteil](http://twitter.com/search?q=vorteil) | N/A |
-| 23 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 24 | [Impfschaden](http://twitter.com/search?q=Impfschaden) | N/A |
-| 25 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 26 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
-| 27 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 28 | [Informationen](http://twitter.com/search?q=Informationen) | N/A |
-| 29 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 30 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 31 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 32 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 33 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 34 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 35 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
-| 36 | [Guten Morgen Ingrid](http://twitter.com/search?q=Guten+Morgen+Ingrid) | N/A |
-| 37 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 21 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 22 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 23 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 24 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 25 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
+| 26 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 27 | [Impfschaden](http://twitter.com/search?q=Impfschaden) | N/A |
+| 28 | [Bereich](http://twitter.com/search?q=Bereich) | N/A |
+| 29 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 30 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 31 | [Informationen](http://twitter.com/search?q=Informationen) | N/A |
+| 32 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 33 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 34 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 35 | [kickl](http://twitter.com/search?q=kickl) | N/A |
+| 36 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 37 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 38 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
 | 39 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 40 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 41 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 42 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 43 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 44 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 45 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 46 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 47 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 48 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 49 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 50 | [#Oscar](http://twitter.com/search?q=%23Oscar) | N/A |
+| 40 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 41 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 42 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
+| 43 | [Guten Morgen Ingrid](http://twitter.com/search?q=Guten+Morgen+Ingrid) | N/A |
+| 44 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 45 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 46 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 47 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 48 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 49 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 50 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
 
 
 
