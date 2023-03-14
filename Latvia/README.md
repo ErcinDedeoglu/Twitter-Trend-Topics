@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-13 23:16:55 UTC`
+📆 Last Updated: `2023-03-14 00:27:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Latvia
 | 2 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 3 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
 | 4 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 5 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
-| 6 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
+| 5 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
+| 6 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 7 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 8 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 9 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 11 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
-| 12 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 12 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 13 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
 
 

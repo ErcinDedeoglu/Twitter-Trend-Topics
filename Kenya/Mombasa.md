@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-13 23:16:32 UTC`
+📆 Last Updated: `2023-03-14 00:27:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,19 +34,19 @@ This is top 50 for [Kenya](</Kenya>)
 | 17 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
 | 18 | [register for smesexpo](http://twitter.com/search?q=register+for+smesexpo) | N/A |
 | 19 | [get smes expo booth](http://twitter.com/search?q=get+smes+expo+booth) | N/A |
-| 20 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
-| 21 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
-| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [nithi](http://twitter.com/search?q=nithi) | N/A |
+| 22 | [jakakimba](http://twitter.com/search?q=jakakimba) | N/A |
 | 23 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 24 | [Nithi](http://twitter.com/search?q=Nithi) | N/A |
-| 25 | [Jakakimba](http://twitter.com/search?q=Jakakimba) | N/A |
-| 26 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 27 | [uniform motion](http://twitter.com/search?q=uniform+motion) | N/A |
-| 28 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
-| 29 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
-| 30 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
-| 31 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 32 | [robisearch ict](http://twitter.com/search?q=robisearch+ict) | N/A |
+| 24 | [uniform motion](http://twitter.com/search?q=uniform+motion) | N/A |
+| 25 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 26 | [citizen tv](http://twitter.com/search?q=citizen+tv) | N/A |
+| 27 | [Vacate](http://twitter.com/search?q=Vacate) | N/A |
+| 28 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
+| 29 | [Moody Awori](http://twitter.com/search?q=Moody+Awori) | N/A |
+| 30 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 31 | [robisearch ict](http://twitter.com/search?q=robisearch+ict) | N/A |
+| 32 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
 | 33 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
 | 34 | [Obado](http://twitter.com/search?q=Obado) | N/A |
 | 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
@@ -58,13 +58,13 @@ This is top 50 for [Kenya](</Kenya>)
 | 41 | [Church](http://twitter.com/search?q=Church) | N/A |
 | 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 43 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 44 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 45 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
-| 46 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 47 | [wee mzee](http://twitter.com/search?q=wee+mzee) | N/A |
-| 48 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 50 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 44 | [XHAKA](http://twitter.com/search?q=XHAKA) | N/A |
+| 45 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 46 | [wee mzee](http://twitter.com/search?q=wee+mzee) | N/A |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 49 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 50 | [ndegwa njiru](http://twitter.com/search?q=ndegwa+njiru) | N/A |
 
 
 

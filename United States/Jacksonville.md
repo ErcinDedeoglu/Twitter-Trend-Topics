@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-13 23:16:45 UTC`
+📆 Last Updated: `2023-03-14 00:27:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 2 | [Jags](http://twitter.com/search?q=Jags) | Jags is an abbreviation for the Jacksonville Jaguars, a professional American football team based in Jacksonville, Florida. |
-| 3 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 4 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 7 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 8 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 9 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 10 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
-| 11 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 12 | [Bates](http://twitter.com/search?q=Bates) | N/A |
-| 13 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 14 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 15 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 16 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
-| 17 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 18 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
-| 19 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
-| 20 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 21 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 22 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 23 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 24 | [Marcus Epps](http://twitter.com/search?q=Marcus+Epps) | N/A |
-| 25 | [Bobby Okereke](http://twitter.com/search?q=Bobby+Okereke) | N/A |
-| 26 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 27 | [Nate Davis](http://twitter.com/search?q=Nate+Davis) | N/A |
-| 28 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 29 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
-| 30 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 31 | [Sam Darnold](http://twitter.com/search?q=Sam+Darnold) | Sam Darnold is an American football quarterback who currently plays for the New York Jets of the National Football League (NFL). He was drafted third overall by the Jets in the 2018 NFL Draft. The meaning of Sam Darnold in English is a professional American football player who plays for the New York Jets. |
-| 32 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 33 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 34 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 35 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
-| 36 | [Anzalone](http://twitter.com/search?q=Anzalone) | N/A |
-| 37 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
-| 38 | [Dillard](http://twitter.com/search?q=Dillard) | N/A |
-| 39 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 40 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 41 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 42 | [Vonn Bell](http://twitter.com/search?q=Vonn+Bell) | N/A |
-| 43 | [Pat Pete](http://twitter.com/search?q=Pat+Pete) | N/A |
-| 44 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
-| 45 | [Rolly Crump](http://twitter.com/search?q=Rolly+Crump) | N/A |
-| 46 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 47 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 48 | [Blankenship](http://twitter.com/search?q=Blankenship) | N/A |
-| 49 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
-| 50 | [#NFLFreeAgency](http://twitter.com/search?q=%23NFLFreeAgency) | N/A |
+| 1 | [Jags](http://twitter.com/search?q=Jags) | Jags is an abbreviation for the Jacksonville Jaguars, a professional American football team based in Jacksonville, Florida. |
+| 2 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
+| 3 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 5 | [Bills](http://twitter.com/search?q=Bills) | Bills is a term used to refer to money owed for goods or services. It is usually used in the context of paying for something, such as a restaurant bill or a utility bill. |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 8 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 9 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 10 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 11 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 12 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 14 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 15 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 16 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 17 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 18 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
+| 19 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
+| 20 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 21 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 22 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
+| 23 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 24 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
+| 25 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 27 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
+| 28 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
+| 29 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 30 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 31 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
+| 32 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 33 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
+| 34 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
+| 35 | [Sam Darnold](http://twitter.com/search?q=Sam+Darnold) | Sam Darnold is an American football quarterback who currently plays for the New York Jets of the National Football League (NFL). He was drafted third overall by the Jets in the 2018 NFL Draft. The meaning of Sam Darnold in English is a professional American football player who plays for the New York Jets. |
+| 36 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 37 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 38 | [Scoot](http://twitter.com/search?q=Scoot) | N/A |
+| 39 | [Bates](http://twitter.com/search?q=Bates) | N/A |
+| 40 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 41 | [Nickel](http://twitter.com/search?q=Nickel) | N/A |
+| 42 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 43 | [chim](http://twitter.com/search?q=chim) | N/A |
+| 44 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 45 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 46 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
+| 47 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 48 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 49 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 50 | [Dick Fosbury](http://twitter.com/search?q=Dick+Fosbury) | N/A |
 
 
 

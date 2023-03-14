@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-13 23:16:44 UTC`
+📆 Last Updated: `2023-03-14 00:27:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Playoff P](http://twitter.com/search?q=Playoff+P) | N/A |
-| 2 | [#WhoDey](http://twitter.com/search?q=%23WhoDey) | #WhoDey is a hashtag used by fans of the Cincinnati Bengals, an American football team based in Cincinnati, Ohio. It is a rallying cry for the team and its fans, and is often used on social media to show support for the Bengals. The phrase "Who Dey" is derived from a traditional cheer used by Bengals fans at games. |
-| 3 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
-| 4 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 5 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 7 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 8 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 9 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
-| 10 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
-| 11 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
-| 12 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 13 | [Bates](http://twitter.com/search?q=Bates) | N/A |
-| 14 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 15 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 16 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
-| 17 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 18 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 19 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
-| 20 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
-| 21 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 22 | [#Bankcollapse](http://twitter.com/search?q=%23Bankcollapse) | N/A |
-| 23 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 24 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 25 | [Marcus Epps](http://twitter.com/search?q=Marcus+Epps) | N/A |
-| 26 | [Bobby Okereke](http://twitter.com/search?q=Bobby+Okereke) | N/A |
-| 27 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 28 | [Nate Davis](http://twitter.com/search?q=Nate+Davis) | N/A |
-| 29 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 30 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
-| 31 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 32 | [Sam Darnold](http://twitter.com/search?q=Sam+Darnold) | Sam Darnold is an American football quarterback who currently plays for the New York Jets of the National Football League (NFL). He was drafted third overall by the Jets in the 2018 NFL Draft. The meaning of Sam Darnold in English is a professional American football player who plays for the New York Jets. |
-| 33 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 34 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 35 | [#RaiderNation](http://twitter.com/search?q=%23RaiderNation) | #RaiderNation is a term used to refer to the passionate fan base of the Oakland Raiders, an American football team based in Oakland, California. The term is used to show support for the team and its players. |
-| 36 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 37 | [Mike White](http://twitter.com/search?q=Mike+White) | Mike White is an American screenwriter, director, producer, and actor. He is best known for writing and directing the films School of Rock (2003), Nacho Libre (2006), Year of the Dog (2007), and The Good Girl (2002). He has also written for television shows such as Freaks and Geeks, Enlightened, and Dawson's Creek. |
-| 38 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 39 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
-| 40 | [Anzalone](http://twitter.com/search?q=Anzalone) | N/A |
-| 41 | [Dillard](http://twitter.com/search?q=Dillard) | N/A |
-| 42 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 43 | [Vonn Bell](http://twitter.com/search?q=Vonn+Bell) | N/A |
-| 44 | [Pat Pete](http://twitter.com/search?q=Pat+Pete) | N/A |
-| 45 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
-| 46 | [Ryan Poles](http://twitter.com/search?q=Ryan+Poles) | N/A |
-| 47 | [Rolly Crump](http://twitter.com/search?q=Rolly+Crump) | N/A |
-| 48 | [Blankenship](http://twitter.com/search?q=Blankenship) | N/A |
-| 49 | [Joe Schoen](http://twitter.com/search?q=Joe+Schoen) | N/A |
+| 1 | [#Browns](http://twitter.com/search?q=%23Browns) | #Browns is a hashtag used to refer to the Cleveland Browns, an American professional football team based in Cleveland, Ohio. The hashtag is often used on social media platforms such as Twitter and Instagram to discuss the team and its players. |
+| 2 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
+| 3 | [#WhoDey](http://twitter.com/search?q=%23WhoDey) | #WhoDey is a hashtag used by fans of the Cincinnati Bengals, an American football team based in Cincinnati, Ohio. It is a rallying cry for the team and its fans, and is often used on social media to show support for the Bengals. The phrase "Who Dey" is derived from a traditional cheer used by Bengals fans at games. |
+| 4 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 7 | [Hell in a Cell](http://twitter.com/search?q=Hell+in+a+Cell) | N/A |
+| 8 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 9 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 10 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 11 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 12 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 13 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 14 | [David Long](http://twitter.com/search?q=David+Long) | N/A |
+| 15 | [El Mago](http://twitter.com/search?q=El+Mago) | N/A |
+| 16 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 17 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 18 | [Joe Pepitone](http://twitter.com/search?q=Joe+Pepitone) | N/A |
+| 19 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 20 | [Patrick Peterson](http://twitter.com/search?q=Patrick+Peterson) | Patrick Peterson is a professional American football cornerback for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Cardinals fifth overall in the 2011 NFL Draft. He has been selected to seven Pro Bowls and is a three-time First-team All-Pro selection. |
+| 21 | [Bears](http://twitter.com/search?q=Bears) | Bears is a term used to refer to large, powerful mammals of the family Ursidae. They are found in many parts of the world and are known for their strength and ferocity. In English, the term "bear" can also be used as a verb meaning "to carry or support something." |
+| 22 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 23 | [Roquan](http://twitter.com/search?q=Roquan) | Roquan is a unisex name of French origin. It is derived from the Latin words "rocus" meaning "rock" and "quan" meaning "strong". The name can be translated to mean "strong as a rock". |
+| 24 | [HIAC](http://twitter.com/search?q=HIAC) | N/A |
+| 25 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 26 | [Grea Britain](http://twitter.com/search?q=Grea+Britain) | N/A |
+| 27 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 28 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 29 | [Okereke](http://twitter.com/search?q=Okereke) | N/A |
+| 30 | [Khloe](http://twitter.com/search?q=Khloe) | N/A |
+| 31 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
+| 32 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 33 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 34 | [Scoot](http://twitter.com/search?q=Scoot) | N/A |
+| 35 | [Bates](http://twitter.com/search?q=Bates) | N/A |
+| 36 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 37 | [Nickel](http://twitter.com/search?q=Nickel) | N/A |
+| 38 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
+| 39 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 40 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 41 | [chim](http://twitter.com/search?q=chim) | N/A |
+| 42 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
+| 43 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 44 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 45 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 46 | [Dick Fosbury](http://twitter.com/search?q=Dick+Fosbury) | N/A |
+| 47 | [Charlie Crist](http://twitter.com/search?q=Charlie+Crist) | N/A |
+| 48 | [Jay Electronica](http://twitter.com/search?q=Jay+Electronica) | N/A |
+| 49 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 
 
 

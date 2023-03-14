@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-13 23:16:55 UTC`
+📆 Last Updated: `2023-03-14 00:27:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,31 +22,31 @@ This is top 50 for Norway
 | 5 | [rekdal](http://twitter.com/search?q=rekdal) | N/A |
 | 6 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 7 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
-| 8 | [Kristiansand](http://twitter.com/search?q=Kristiansand) | N/A |
-| 9 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
-| 10 | [fosen](http://twitter.com/search?q=fosen) | N/A |
-| 11 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
-| 12 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 13 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 14 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
-| 15 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
-| 16 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 17 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
-| 18 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 20 | [sveits](http://twitter.com/search?q=sveits) | N/A |
-| 21 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 22 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 23 | [sylvi listhaug](http://twitter.com/search?q=sylvi+listhaug) | N/A |
-| 24 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 25 | [tenk](http://twitter.com/search?q=tenk) | N/A |
-| 26 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 27 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 28 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 8 | [kristiansand](http://twitter.com/search?q=kristiansand) | N/A |
+| 9 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 10 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 11 | [fosen](http://twitter.com/search?q=fosen) | N/A |
+| 12 | [sogndal](http://twitter.com/search?q=sogndal) | N/A |
+| 13 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 14 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 15 | [sandefjord](http://twitter.com/search?q=sandefjord) | N/A |
+| 16 | [kjenner](http://twitter.com/search?q=kjenner) | N/A |
+| 17 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 18 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
+| 19 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 20 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 22 | [sveits](http://twitter.com/search?q=sveits) | N/A |
+| 23 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 24 | [sylvi listhaug](http://twitter.com/search?q=sylvi+listhaug) | N/A |
+| 25 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 26 | [tenk](http://twitter.com/search?q=tenk) | N/A |
+| 27 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 28 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 29 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 34 | [Fikk](http://twitter.com/search?q=Fikk) | N/A |
 | 35 | [SoSoPa](http://twitter.com/search?q=SoSoPa) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Norway
 | 39 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 40 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
 | 41 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 42 | [European](http://twitter.com/search?q=European) | N/A |
-| 43 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
-| 44 | [London](http://twitter.com/search?q=London) | N/A |
-| 45 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 46 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
-| 47 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
-| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 49 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 50 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 42 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 43 | [London](http://twitter.com/search?q=London) | N/A |
+| 44 | [utrolig](http://twitter.com/search?q=utrolig) | N/A |
+| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 48 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 49 | [Tøyen](http://twitter.com/search?q=T%c3%b8yen) | N/A |
+| 50 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 
 
 
