@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-14 11:16:34 UTC`
+📆 Last Updated: `2023-03-14 12:19:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 2 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 3 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 1 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 2 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 3 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 4 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 5 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 6 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 7 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 8 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
-| 9 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 10 | [#BSCYB](http://twitter.com/search?q=%23BSCYB) | N/A |
-| 11 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 12 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 13 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
-| 14 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 15 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 5 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 6 | [#WSIS](http://twitter.com/search?q=%23WSIS) | N/A |
+| 7 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 8 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 9 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 10 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 12 | [#BSCYB](http://twitter.com/search?q=%23BSCYB) | N/A |
+| 13 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 14 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
+| 15 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 | 16 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 17 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 17 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
 | 18 | [La Suisse](http://twitter.com/search?q=La+Suisse) | N/A |
-| 19 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 20 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 23 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 19 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 20 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 21 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 22 | [Zimmermann](http://twitter.com/search?q=Zimmermann) | N/A |
+| 23 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 24 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 25 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
-| 26 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 29 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
-| 30 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 31 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
-| 32 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 33 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 35 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 36 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 37 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 38 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 39 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 40 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
-| 41 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 42 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 43 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 44 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
-| 45 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 46 | [England](http://twitter.com/search?q=England) | N/A |
-| 47 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Kriegen](http://twitter.com/search?q=Kriegen) | N/A |
+| 27 | [jositsch](http://twitter.com/search?q=jositsch) | N/A |
+| 28 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 29 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 30 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 31 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 32 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
+| 33 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 34 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 35 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 36 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 37 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 38 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 39 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 40 | [Mund](http://twitter.com/search?q=Mund) | N/A |
+| 41 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 42 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
+| 43 | [England](http://twitter.com/search?q=England) | N/A |
+| 44 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 45 | [Gegensatz](http://twitter.com/search?q=Gegensatz) | N/A |
+| 46 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 47 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
 
 
 

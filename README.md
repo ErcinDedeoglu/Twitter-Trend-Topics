@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-14 11:16:15 UTC`
+📆 Last Updated: `2023-03-14 12:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ホワイトデー](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%83%bc) | N/A |
-| 2 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
-| 3 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
-| 4 | [バレンタイン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | バレンタイン (Barentain) is a Japanese holiday celebrated on February 14th. It is similar to Valentine's Day in the West, where people exchange gifts and cards to show their love and appreciation for one another. The name comes from the combination of the words "bari" (meaning "rose") and "tai" (meaning "day"). |
-| 5 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [バレンタイン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%b3) | バレンタイン (Barentain) is a Japanese holiday celebrated on February 14th. It is similar to Valentine's Day in the West, where people exchange gifts and cards to show their love and appreciation for one another. The name comes from the combination of the words "bari" (meaning "rose") and "tai" (meaning "day"). |
+| 4 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
+| 5 | [#さんま御殿](http://twitter.com/search?q=%23%e3%81%95%e3%82%93%e3%81%be%e5%be%a1%e6%ae%bf) | #さんま御殿 is a Japanese variety show that has been airing since 1989. It is hosted by comedian Sannma Akashiya and features celebrity guests, comedy skits, and various games. The English translation of the title is "Sannma's Palace". |
 | 6 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
-| 7 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
-| 8 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
-| 9 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
-| 10 | [#滝沢歌舞伎ZEROFINAL](http://twitter.com/search?q=%23%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8eZEROFINAL) | N/A |
-| 11 | [クリスタ2.0](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf2.0) | N/A |
-| 12 | [シカゴピザ](http://twitter.com/search?q=%e3%82%b7%e3%82%ab%e3%82%b4%e3%83%94%e3%82%b6) | N/A |
-| 13 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
-| 14 | [FC先行](http://twitter.com/search?q=FC%e5%85%88%e8%a1%8c) | N/A |
-| 15 | [RM of BTS](http://twitter.com/search?q=RM+of+BTS) | N/A |
-| 16 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
-| 17 | [クッキー](http://twitter.com/search?q=%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 18 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 19 | [開花宣言](http://twitter.com/search?q=%e9%96%8b%e8%8a%b1%e5%ae%a3%e8%a8%80) | N/A |
-| 20 | [短歌ブーム](http://twitter.com/search?q=%e7%9f%ad%e6%ad%8c%e3%83%96%e3%83%bc%e3%83%a0) | N/A |
-| 21 | [復活のコアメダル](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%81%ae%e3%82%b3%e3%82%a2%e3%83%a1%e3%83%80%e3%83%ab) | N/A |
-| 22 | [スタツア](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%84%e3%82%a2) | スタツア is a Japanese word that means "startup". It is used to refer to a company or business that is just starting out. |
-| 23 | [もりーぬ](http://twitter.com/search?q=%e3%82%82%e3%82%8a%e3%83%bc%e3%81%ac) | N/A |
-| 24 | [味のイサム](http://twitter.com/search?q=%e5%91%b3%e3%81%ae%e3%82%a4%e3%82%b5%e3%83%a0) | N/A |
-| 25 | [미니강쥐](http://twitter.com/search?q=%eb%af%b8%eb%8b%88%ea%b0%95%ec%a5%90) | N/A |
-| 26 | [フラゲ完了](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%b2%e5%ae%8c%e4%ba%86) | N/A |
-| 27 | [マカロン](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%ad%e3%83%b3) | N/A |
-| 28 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
-| 29 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
-| 30 | [トライナリー](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%aa%e3%83%bc) | N/A |
-| 31 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 32 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
-| 33 | [地元の映画館](http://twitter.com/search?q=%e5%9c%b0%e5%85%83%e3%81%ae%e6%98%a0%e7%94%bb%e9%a4%a8) | N/A |
-| 34 | [シェルビー](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ab%e3%83%93%e3%83%bc) | N/A |
-| 35 | [チーズチーズ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%82%ba%e3%83%81%e3%83%bc%e3%82%ba) | N/A |
-| 36 | [GODIVA](http://twitter.com/search?q=GODIVA) | N/A |
-| 37 | [宅配ピザ](http://twitter.com/search?q=%e5%ae%85%e9%85%8d%e3%83%94%e3%82%b6) | N/A |
-| 38 | [クリオグリ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%aa%e3%82%b0%e3%83%aa) | N/A |
-| 39 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 40 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 41 | [路上生活者](http://twitter.com/search?q=%e8%b7%af%e4%b8%8a%e7%94%9f%e6%b4%bb%e8%80%85) | N/A |
-| 42 | [アカウントロック](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 43 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 44 | [#ほわーい話](http://twitter.com/search?q=%23%e3%81%bb%e3%82%8f%e3%83%bc%e3%81%84%e8%a9%b1) | N/A |
-| 45 | [#Groovy1stWin](http://twitter.com/search?q=%23Groovy1stWin) | N/A |
-| 46 | [#オモウマい店](http://twitter.com/search?q=%23%e3%82%aa%e3%83%a2%e3%82%a6%e3%83%9e%e3%81%84%e5%ba%97) | #オモウマい店 is a hashtag used on social media in Japan to refer to stores that are particularly enjoyable or fun to visit. In English, it could be translated as "Fun Store". |
-| 47 | [#크래비티_그루비_1위_축하해](http://twitter.com/search?q=%23%ed%81%ac%eb%9e%98%eb%b9%84%ed%8b%b0_%ea%b7%b8%eb%a3%a8%eb%b9%84_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 48 | [#今夜はナゾトレ](http://twitter.com/search?q=%23%e4%bb%8a%e5%a4%9c%e3%81%af%e3%83%8a%e3%82%be%e3%83%88%e3%83%ac) | #今夜はナゾトレ is a hashtag used on Japanese social media to indicate that someone is playing the game "NazoTore" tonight. The English translation of this phrase would be "Tonight is NazoTore". |
-| 49 | [#あなたの推しを知りたいWOWOW](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%8e%a8%e3%81%97%e3%82%92%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%84WOWOW) | N/A |
-| 50 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 7 | [Bikin Jadi Beneran](http://twitter.com/search?q=Bikin+Jadi+Beneran) | N/A |
+| 8 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 9 | [#_فهد](http://twitter.com/search?q=%23_%d9%81%d9%87%d8%af) | N/A |
+| 10 | [クリスタ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%82%bf) | N/A |
+| 11 | [#تقدم_السعوديه_بموشر_الابتكار](http://twitter.com/search?q=%23%d8%aa%d9%82%d8%af%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d9%85%d9%88%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1) | N/A |
+| 12 | [#เขินให้หน่อยMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2MV) | N/A |
+| 13 | [デンニャン](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
+| 14 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
+| 15 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 16 | [シカゴピザ](http://twitter.com/search?q=%e3%82%b7%e3%82%ab%e3%82%b4%e3%83%94%e3%82%b6) | N/A |
+| 17 | [糸井アナ](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%82%a2%e3%83%8a) | N/A |
+| 18 | [ドロシー](http://twitter.com/search?q=%e3%83%89%e3%83%ad%e3%82%b7%e3%83%bc) | N/A |
+| 19 | [中森明菜](http://twitter.com/search?q=%e4%b8%ad%e6%a3%ae%e6%98%8e%e8%8f%9c) | N/A |
+| 20 | [クッキー](http://twitter.com/search?q=%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 21 | [高瀬アナ](http://twitter.com/search?q=%e9%ab%98%e7%80%ac%e3%82%a2%e3%83%8a) | N/A |
+| 22 | [김호중클콘](http://twitter.com/search?q=%ea%b9%80%ed%98%b8%ec%a4%91%ed%81%b4%ec%bd%98) | N/A |
+| 23 | [日本の曲](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e6%9b%b2) | N/A |
+| 24 | [青春のラップタイム](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%81%ae%e3%83%a9%e3%83%83%e3%83%97%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [マカロン](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%ad%e3%83%b3) | N/A |
+| 27 | [スタツア](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%84%e3%82%a2) | スタツア is a Japanese word that means "startup". It is used to refer to a company or business that is just starting out. |
+| 28 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 29 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 30 | [FC先行](http://twitter.com/search?q=FC%e5%85%88%e8%a1%8c) | N/A |
+| 31 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
+| 32 | [魚眼パース](http://twitter.com/search?q=%e9%ad%9a%e7%9c%bc%e3%83%91%e3%83%bc%e3%82%b9) | N/A |
+| 33 | [チーズチーズ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%82%ba%e3%83%81%e3%83%bc%e3%82%ba) | N/A |
+| 34 | [明菜ちゃん](http://twitter.com/search?q=%e6%98%8e%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | 明菜ちゃん is a nickname for the Japanese singer and actress Nakajima Mion. It is a combination of her given name, Mion, and the Japanese word for vegetable, "nasu". In English, it can be translated to mean "Mion the Vegetable". |
+| 35 | [トライナリー](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%aa%e3%83%bc) | N/A |
+| 36 | [制服ディズニー](http://twitter.com/search?q=%e5%88%b6%e6%9c%8d%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc) | N/A |
+| 37 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 38 | [hobi hyung](http://twitter.com/search?q=hobi+hyung) | N/A |
+| 39 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 40 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
+| 41 | [GODIVA](http://twitter.com/search?q=GODIVA) | N/A |
+| 42 | [Jeho](http://twitter.com/search?q=Jeho) | N/A |
+| 43 | [Simon Cowell](http://twitter.com/search?q=Simon+Cowell) | N/A |
+| 44 | [#DasaraTrailer](http://twitter.com/search?q=%23DasaraTrailer) | N/A |
+| 45 | [#زمان_پارک_پُہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%d9%8f%db%81%d9%86%da%86%d9%88) | N/A |
+| 46 | [#TOGG](http://twitter.com/search?q=%23TOGG) | N/A |
+| 47 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 48 | [#ほわーい話](http://twitter.com/search?q=%23%e3%81%bb%e3%82%8f%e3%83%bc%e3%81%84%e8%a9%b1) | N/A |
+| 49 | [#14MartTıpBayramı](http://twitter.com/search?q=%2314MartT%c4%b1pBayram%c4%b1) | N/A |
+| 50 | [#星降る夜に](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab) | "#星降る夜に" is a hashtag in Japanese that translates to "On a night when stars fall". It is often used to describe a romantic or magical evening. |
 
 
 

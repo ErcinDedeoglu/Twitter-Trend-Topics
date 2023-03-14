@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-14 11:16:54 UTC`
+📆 Last Updated: `2023-03-14 12:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [Tim Anderson](http://twitter.com/search?q=Tim+Anderson) | N/A |
-| 4 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 8 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 9 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 12 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 13 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 14 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 15 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 16 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 17 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 1 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Tim Anderson](http://twitter.com/search?q=Tim+Anderson) | N/A |
+| 5 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 7 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 8 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 9 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 10 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 11 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 12 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 13 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 14 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 15 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 17 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
 | 18 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 19 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 20 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 21 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 22 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 23 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 24 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 25 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 26 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 28 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 29 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 30 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 31 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 32 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 33 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 34 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 35 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 36 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 37 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 38 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 39 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 40 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 41 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 42 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 19 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 20 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 23 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 24 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 25 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 26 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 27 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 28 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 29 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 30 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 31 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 32 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 33 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 34 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 35 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 36 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 37 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 38 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 39 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 40 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 41 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 42 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
 | 43 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 44 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 45 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 46 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 47 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 48 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 49 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
+| 44 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 45 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 46 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 47 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 48 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 49 | [Cease](http://twitter.com/search?q=Cease) | N/A |
 
 
 

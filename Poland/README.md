@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-14 11:17:07 UTC`
+📆 Last Updated: `2023-03-14 12:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Poland
 | 1 | [#BiedaPiS](http://twitter.com/search?q=%23BiedaPiS) | N/A |
 | 2 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
 | 3 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
-| 4 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
+| 4 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
 | 5 | [#WPŁWID](http://twitter.com/search?q=%23WP%c5%81WID) | N/A |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
 | 7 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 8 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 9 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 10 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
-| 11 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 12 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 13 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 14 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
-| 15 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 16 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
-| 17 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 18 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 19 | [#pialpo](http://twitter.com/search?q=%23pialpo) | N/A |
-| 20 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 21 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 8 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 9 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 10 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 11 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 12 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
+| 13 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
+| 14 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 15 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 16 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 17 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 20 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
+| 21 | [#pialpo](http://twitter.com/search?q=%23pialpo) | N/A |
 | 22 | [Milego](http://twitter.com/search?q=Milego) | N/A |
-| 23 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
-| 24 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 25 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 26 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
-| 27 | [arki](http://twitter.com/search?q=arki) | N/A |
-| 28 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
-| 29 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
-| 30 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 31 | [państwu](http://twitter.com/search?q=pa%c5%84stwu) | N/A |
-| 32 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 33 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
-| 34 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 35 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 36 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 23 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 24 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 25 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
+| 26 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
+| 27 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
+| 28 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 29 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
+| 30 | [prezydent andrzej duda](http://twitter.com/search?q=prezydent+andrzej+duda) | N/A |
+| 31 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 32 | [arki](http://twitter.com/search?q=arki) | N/A |
+| 33 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 34 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
+| 35 | [Ulubiona FIFA](http://twitter.com/search?q=Ulubiona+FIFA) | N/A |
+| 36 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
 | 37 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
 | 38 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
-| 39 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
-| 40 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
-| 41 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 39 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 40 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 41 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
 | 42 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 43 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
-| 44 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 45 | [Stali](http://twitter.com/search?q=Stali) | N/A |
-| 46 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 47 | [Cyba](http://twitter.com/search?q=Cyba) | N/A |
-| 48 | [zmień](http://twitter.com/search?q=zmie%c5%84) | N/A |
-| 49 | [Zaczyna](http://twitter.com/search?q=Zaczyna) | N/A |
-| 50 | [Moskwę](http://twitter.com/search?q=Moskw%c4%99) | N/A |
+| 43 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 44 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
+| 45 | [Konstytucję](http://twitter.com/search?q=Konstytucj%c4%99) | N/A |
+| 46 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 47 | [Stali](http://twitter.com/search?q=Stali) | N/A |
+| 48 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 49 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 50 | [Zaczyna](http://twitter.com/search?q=Zaczyna) | N/A |
 
 
 

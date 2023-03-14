@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-14 11:16:56 UTC`
+📆 Last Updated: `2023-03-14 12:20:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 6 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 1 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 2 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 4 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 5 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 6 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
 | 7 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 9 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 10 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 11 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 12 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 13 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 14 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 15 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 16 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 17 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 18 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 19 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 20 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 23 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 24 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 25 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 26 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 27 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 28 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 29 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 30 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 31 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 32 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 33 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 34 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 35 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 36 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 37 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 39 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 41 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 42 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 43 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 44 | [Sour](http://twitter.com/search?q=Sour) | N/A |
-| 45 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 46 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 9 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 10 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 11 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 12 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 14 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 15 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 16 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 17 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 18 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 19 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 20 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 21 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 22 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 23 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 24 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 25 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 26 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 27 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 28 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 29 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 30 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 31 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 32 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 33 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 34 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 35 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 36 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 37 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 38 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 39 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 40 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 41 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 42 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 43 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 44 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 45 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 46 | [Drift](http://twitter.com/search?q=Drift) | N/A |
 
 
 

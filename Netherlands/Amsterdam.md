@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-14 11:16:32 UTC`
+📆 Last Updated: `2023-03-14 12:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
 | 2 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 3 | [genee](http://twitter.com/search?q=genee) | N/A |
+| 3 | [Genee](http://twitter.com/search?q=Genee) | N/A |
 | 4 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
 | 5 | [#heeaja](http://twitter.com/search?q=%23heeaja) | N/A |
-| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 7 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 8 | [#necutr](http://twitter.com/search?q=%23necutr) | N/A |
-| 9 | [#FEYvol](http://twitter.com/search?q=%23FEYvol) | N/A |
-| 10 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 11 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 12 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
-| 13 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 14 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 6 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 7 | [#necutr](http://twitter.com/search?q=%23necutr) | N/A |
+| 8 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 9 | [#pauwdebat](http://twitter.com/search?q=%23pauwdebat) | N/A |
+| 10 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 11 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Lauterbach](http://twitter.com/search?q=Lauterbach) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 16 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 17 | [Knoester](http://twitter.com/search?q=Knoester) | N/A |
-| 18 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 19 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
-| 20 | [Ambtenaren](http://twitter.com/search?q=Ambtenaren) | N/A |
-| 21 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 22 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 23 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 24 | [Bouweis Brussel](http://twitter.com/search?q=Bouweis+Brussel) | N/A |
-| 25 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
-| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 27 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
-| 28 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 29 | [steijn](http://twitter.com/search?q=steijn) | N/A |
-| 30 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 31 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 32 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 33 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 34 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 35 | [Spookslot](http://twitter.com/search?q=Spookslot) | N/A |
-| 36 | [Diep](http://twitter.com/search?q=Diep) | N/A |
-| 37 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
-| 38 | [Vandaar](http://twitter.com/search?q=Vandaar) | N/A |
-| 39 | [Elsschot](http://twitter.com/search?q=Elsschot) | N/A |
-| 40 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 41 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
-| 42 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 43 | [KNMI](http://twitter.com/search?q=KNMI) | N/A |
-| 44 | [Gods](http://twitter.com/search?q=Gods) | N/A |
-| 45 | [Woningmarkt](http://twitter.com/search?q=Woningmarkt) | N/A |
-| 46 | [truste](http://twitter.com/search?q=truste) | N/A |
-| 47 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 48 | [Spirituality](http://twitter.com/search?q=Spirituality) | N/A |
-| 49 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 50 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 18 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 19 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 20 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 21 | [ambtenaren](http://twitter.com/search?q=ambtenaren) | N/A |
+| 22 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 23 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 24 | [Fatsoen](http://twitter.com/search?q=Fatsoen) | N/A |
+| 25 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 26 | [Bouweis Brussel](http://twitter.com/search?q=Bouweis+Brussel) | N/A |
+| 27 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 28 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 29 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 30 | [Advies](http://twitter.com/search?q=Advies) | N/A |
+| 31 | [Laura van Geest](http://twitter.com/search?q=Laura+van+Geest) | N/A |
+| 32 | [elsschot](http://twitter.com/search?q=elsschot) | N/A |
+| 33 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 34 | [steijn](http://twitter.com/search?q=steijn) | N/A |
+| 35 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 36 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 37 | [KNMI](http://twitter.com/search?q=KNMI) | N/A |
+| 38 | [Spookslot](http://twitter.com/search?q=Spookslot) | N/A |
+| 39 | [Nabil B.](http://twitter.com/search?q=Nabil+B.) | N/A |
+| 40 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 41 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 42 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
+| 43 | [Gods](http://twitter.com/search?q=Gods) | N/A |
+| 44 | [Dienstplicht](http://twitter.com/search?q=Dienstplicht) | N/A |
+| 45 | [Vandaar](http://twitter.com/search?q=Vandaar) | N/A |
+| 46 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 47 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 48 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 49 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 50 | [Woningmarkt](http://twitter.com/search?q=Woningmarkt) | N/A |
 
 
 

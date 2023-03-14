@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-14 11:17:07 UTC`
+📆 Last Updated: `2023-03-14 12:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
-| 2 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
-| 3 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
+| 1 | [#زمان_پارک_پُہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%d9%8f%db%81%d9%86%da%86%d9%88) | N/A |
+| 2 | [#ZamanPark](http://twitter.com/search?q=%23ZamanPark) | N/A |
+| 3 | [#توشہ_خانہ](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%b4%db%81_%d8%ae%d8%a7%d9%86%db%81) | N/A |
 | 4 | [#ToshaKhana](http://twitter.com/search?q=%23ToshaKhana) | N/A |
 | 5 | [#ٹوچہ_خانہ_چور_نسل](http://twitter.com/search?q=%23%d9%b9%d9%88%da%86%db%81_%d8%ae%d8%a7%d9%86%db%81_%da%86%d9%88%d8%b1_%d9%86%d8%b3%d9%84) | N/A |
-| 6 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 7 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 | 8 | [Abdul Rehman](http://twitter.com/search?q=Abdul+Rehman) | N/A |
-| 9 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 9 | [Malala](http://twitter.com/search?q=Malala) | N/A |
 | 10 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 11 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 14 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 11 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 12 | [Umar Gul](http://twitter.com/search?q=Umar+Gul) | N/A |
+| 13 | [Ahsan Iqbal](http://twitter.com/search?q=Ahsan+Iqbal) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 15 | [Inna](http://twitter.com/search?q=Inna) | N/A |
-| 16 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
-| 17 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 18 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
-| 19 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
-| 20 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [Zeeshan](http://twitter.com/search?q=Zeeshan) | N/A |
-| 23 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 24 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 25 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 26 | [Shaukat Aziz](http://twitter.com/search?q=Shaukat+Aziz) | N/A |
-| 27 | [Maheer](http://twitter.com/search?q=Maheer) | N/A |
-| 28 | [benazir](http://twitter.com/search?q=benazir) | N/A |
-| 29 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 30 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 31 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
-| 32 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 33 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
-| 34 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 35 | [Correction](http://twitter.com/search?q=Correction) | N/A |
-| 36 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 37 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 41 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 42 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 43 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 44 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 45 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 46 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 47 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 48 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 50 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
+| 16 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 17 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 18 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
+| 19 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
+| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 21 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 22 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 23 | [Shehbaz Sharif](http://twitter.com/search?q=Shehbaz+Sharif) | N/A |
+| 24 | [Chor](http://twitter.com/search?q=Chor) | N/A |
+| 25 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 26 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 27 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 28 | [Chal](http://twitter.com/search?q=Chal) | N/A |
+| 29 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 30 | [ARY NEWS](http://twitter.com/search?q=ARY+NEWS) | N/A |
+| 31 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
+| 32 | [Asad](http://twitter.com/search?q=Asad) | N/A |
+| 33 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 34 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 35 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 37 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 38 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 39 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 40 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 41 | [Hassan](http://twitter.com/search?q=Hassan) | N/A |
+| 42 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 43 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 44 | [Maryam Safdar](http://twitter.com/search?q=Maryam+Safdar) | N/A |
+| 45 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 47 | [London](http://twitter.com/search?q=London) | N/A |
+| 48 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 49 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 50 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 
 
 

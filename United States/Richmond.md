@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-14 11:16:59 UTC`
+📆 Last Updated: `2023-03-14 12:20:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 5 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 6 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 7 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 9 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 1 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 6 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 7 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 | 10 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 11 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 12 | [#MCRBRISBANE2](http://twitter.com/search?q=%23MCRBRISBANE2) | N/A |
-| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 14 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 15 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 16 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 11 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 12 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 13 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 14 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 16 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
 | 17 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 18 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 19 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 20 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 21 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 22 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 23 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 24 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 25 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 27 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 28 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 29 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 30 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 31 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 32 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 33 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 34 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 35 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 36 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 37 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 18 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 19 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 21 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 22 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 23 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 24 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 25 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 26 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 27 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 28 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 29 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 30 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 31 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 32 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 33 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 34 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 35 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 36 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 37 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
 | 38 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 39 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 40 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 41 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 42 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 43 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 44 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 39 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 40 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 41 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 42 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 43 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 44 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
 | 45 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 46 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 47 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 48 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 49 | [Sour](http://twitter.com/search?q=Sour) | N/A |
+| 46 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 47 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 48 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 49 | [Dodd Frank](http://twitter.com/search?q=Dodd+Frank) | N/A |
 
 
 

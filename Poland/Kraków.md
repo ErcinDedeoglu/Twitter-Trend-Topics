@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-14 11:16:27 UTC`
+📆 Last Updated: `2023-03-14 12:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#ZemstaMateckiego](http://twitter.com/search?q=%23ZemstaMateckiego) | N/A |
 | 3 | [Ziobro](http://twitter.com/search?q=Ziobro) | N/A |
 | 4 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 5 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 6 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 5 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
+| 6 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
 | 7 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
-| 8 | [Franciszek Blachnicki](http://twitter.com/search?q=Franciszek+Blachnicki) | N/A |
-| 9 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
-| 10 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 11 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
-| 12 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
-| 13 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 8 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 9 | [Lasach Państwowych](http://twitter.com/search?q=Lasach+Pa%c5%84stwowych) | N/A |
+| 10 | [Grabarczyk](http://twitter.com/search?q=Grabarczyk) | N/A |
+| 11 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 12 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
+| 13 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
 | 14 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 15 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 16 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
-| 17 | [Broń](http://twitter.com/search?q=Bro%c5%84) | N/A |
-| 18 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 15 | [Poczta Polska](http://twitter.com/search?q=Poczta+Polska) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Glocka](http://twitter.com/search?q=Glocka) | N/A |
+| 18 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
 | 19 | [Milego](http://twitter.com/search?q=Milego) | N/A |
-| 20 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
-| 21 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
-| 22 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 23 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
-| 24 | [arki](http://twitter.com/search?q=arki) | N/A |
-| 25 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
-| 26 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
+| 20 | [Urbana](http://twitter.com/search?q=Urbana) | N/A |
+| 21 | [Prokurator Generalny](http://twitter.com/search?q=Prokurator+Generalny) | N/A |
+| 22 | [Kabura](http://twitter.com/search?q=Kabura) | N/A |
+| 23 | [Solidarnej Polski](http://twitter.com/search?q=Solidarnej+Polski) | N/A |
+| 24 | [Mt 18](http://twitter.com/search?q=Mt+18) | N/A |
+| 25 | [Lange](http://twitter.com/search?q=Lange) | N/A |
+| 26 | [Prezydent Andrzej Duda](http://twitter.com/search?q=Prezydent+Andrzej+Duda) | N/A |
 | 27 | [Pierwsza FIFA](http://twitter.com/search?q=Pierwsza+FIFA) | N/A |
-| 28 | [państwu](http://twitter.com/search?q=pa%c5%84stwu) | N/A |
-| 29 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
-| 30 | [Mikołaj](http://twitter.com/search?q=Miko%c5%82aj) | N/A |
-| 31 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 32 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 33 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 34 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
+| 28 | [Polskie](http://twitter.com/search?q=Polskie) | N/A |
+| 29 | [arki](http://twitter.com/search?q=arki) | N/A |
+| 30 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 31 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
+| 32 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 33 | [Najgorsza FIFA](http://twitter.com/search?q=Najgorsza+FIFA) | N/A |
+| 34 | [Nosi](http://twitter.com/search?q=Nosi) | N/A |
 | 35 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
-| 36 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
-| 37 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
-| 38 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 39 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 40 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
-| 41 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 42 | [stali](http://twitter.com/search?q=stali) | N/A |
-| 43 | [Cyba](http://twitter.com/search?q=Cyba) | N/A |
-| 44 | [zmień](http://twitter.com/search?q=zmie%c5%84) | N/A |
-| 45 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 46 | [Zaczyna](http://twitter.com/search?q=Zaczyna) | N/A |
-| 47 | [Moskwę](http://twitter.com/search?q=Moskw%c4%99) | N/A |
+| 36 | [ulubiona fifa](http://twitter.com/search?q=ulubiona+fifa) | N/A |
+| 37 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 38 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 39 | [Knobel](http://twitter.com/search?q=Knobel) | N/A |
+| 40 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 41 | [Szeryf](http://twitter.com/search?q=Szeryf) | N/A |
+| 42 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 43 | [Stali](http://twitter.com/search?q=Stali) | N/A |
+| 44 | [Konstytucję](http://twitter.com/search?q=Konstytucj%c4%99) | N/A |
+| 45 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 46 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 47 | [cyba](http://twitter.com/search?q=cyba) | N/A |
 
 
 

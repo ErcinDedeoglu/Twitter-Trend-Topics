@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-03-14 11:16:56 UTC`
+📆 Last Updated: `2023-03-14 12:20:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 2 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 2 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
 | 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 4 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 5 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 6 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 7 | [#MCRBRISBANE2](http://twitter.com/search?q=%23MCRBRISBANE2) | N/A |
-| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 9 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 10 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 11 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 12 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 13 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 14 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 15 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 16 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 17 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 18 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 19 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 20 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 22 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 23 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 24 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 25 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 26 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 27 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 28 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 29 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 30 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 31 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 32 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 4 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 5 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 6 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 7 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 8 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 10 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 11 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 12 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 13 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 16 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 17 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 18 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 19 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 20 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 21 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 22 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 24 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 25 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 26 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 28 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 29 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 30 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 31 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 32 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
 | 33 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 34 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 35 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 36 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 37 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 38 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 39 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 40 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 41 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 42 | [Sour](http://twitter.com/search?q=Sour) | N/A |
-| 43 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 44 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 45 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 46 | [Paul Sorvino](http://twitter.com/search?q=Paul+Sorvino) | N/A |
-| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 34 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 35 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 36 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 37 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 38 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 39 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 41 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 42 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 43 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 44 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 45 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 46 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 47 | [Drift](http://twitter.com/search?q=Drift) | N/A |
 
 
 

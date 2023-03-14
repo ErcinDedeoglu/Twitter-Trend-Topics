@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-14 11:16:58 UTC`
+📆 Last Updated: `2023-03-14 12:20:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 | 2 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 3 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 3 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
 | 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 5 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 7 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 5 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 6 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 7 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
 | 8 | [#MCRBRISBANE2](http://twitter.com/search?q=%23MCRBRISBANE2) | N/A |
-| 9 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 10 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 11 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 12 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 9 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 10 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 12 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
 | 13 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 14 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 15 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 16 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 17 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 18 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 19 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 20 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 21 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 23 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 24 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 25 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 26 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 27 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 28 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 29 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 30 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 31 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 32 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 33 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 34 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 35 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 36 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 37 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 38 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 39 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 41 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 42 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 43 | [Sour](http://twitter.com/search?q=Sour) | N/A |
-| 44 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 45 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 46 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 47 | [Paul Sorvino](http://twitter.com/search?q=Paul+Sorvino) | N/A |
-| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 49 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 50 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 14 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 15 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 16 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 17 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 18 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 19 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 20 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 21 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 22 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 23 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 24 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 25 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 26 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 27 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 28 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 29 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 30 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 31 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 32 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 33 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 34 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 35 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 36 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 37 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 38 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 39 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 40 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 41 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 42 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 43 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 44 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 45 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 46 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 47 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 48 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 49 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
+| 50 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
 
 
 

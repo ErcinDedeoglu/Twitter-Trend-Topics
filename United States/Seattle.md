@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-14 11:17:00 UTC`
+📆 Last Updated: `2023-03-14 12:20:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Welcome to Seattle](http://twitter.com/search?q=Welcome+to+Seattle) | N/A |
-| 2 | [Dre'Mont Jones](http://twitter.com/search?q=Dre%27Mont+Jones) | N/A |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [#Seahawks](http://twitter.com/search?q=%23Seahawks) | N/A |
-| 5 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 6 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 1 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 2 | [WELCOME TO SEATTLE](http://twitter.com/search?q=WELCOME+TO+SEATTLE) | N/A |
+| 3 | [dre'mont jones](http://twitter.com/search?q=dre%27mont+jones) | N/A |
+| 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 5 | [#Seahawks](http://twitter.com/search?q=%23Seahawks) | N/A |
+| 6 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 7 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
+| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 | 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 10 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 11 | [#MCRBRISBANE2](http://twitter.com/search?q=%23MCRBRISBANE2) | N/A |
-| 12 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 13 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 14 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 15 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 10 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 11 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 12 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 13 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
 | 16 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 17 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 18 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 19 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 20 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 21 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 22 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 23 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 24 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 27 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 28 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 29 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 30 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 31 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 32 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 33 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
-| 34 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 35 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 36 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 17 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 18 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 21 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 22 | [Trey Lyles](http://twitter.com/search?q=Trey+Lyles) | Trey Lyles is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). His name is derived from his given name, Trey, and his middle name, Lyles. The name Trey Lyles can be translated to mean "third son of Lyles". |
+| 23 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 24 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 25 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 26 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 27 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 28 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 29 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 30 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 31 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 32 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
+| 33 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 34 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 35 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
 | 37 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 38 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 39 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 40 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 41 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 42 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 43 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 38 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 39 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 40 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
+| 41 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 42 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 43 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
 | 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 45 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 46 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
-| 47 | [Meg White](http://twitter.com/search?q=Meg+White) | N/A |
-| 48 | [Sour](http://twitter.com/search?q=Sour) | N/A |
+| 45 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 46 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 47 | [Dodd Frank](http://twitter.com/search?q=Dodd+Frank) | N/A |
+| 48 | [Timed](http://twitter.com/search?q=Timed) | N/A |
 
 
 

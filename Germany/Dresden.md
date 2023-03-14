@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-14 11:16:30 UTC`
+📆 Last Updated: `2023-03-14 12:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
-| 2 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
-| 3 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 4 | [Kaufhäuser](http://twitter.com/search?q=Kaufh%c3%a4user) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#Bildungsgipfel](http://twitter.com/search?q=%23Bildungsgipfel) | N/A |
+| 3 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
+| 4 | [kaufhäuser](http://twitter.com/search?q=kaufh%c3%a4user) | N/A |
 | 5 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 6 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
-| 7 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
-| 8 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
-| 9 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
-| 10 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 11 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
-| 12 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 13 | [StVO](http://twitter.com/search?q=StVO) | N/A |
-| 14 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
-| 15 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 17 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 18 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 19 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
-| 20 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 21 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
-| 22 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
-| 23 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
-| 24 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 25 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
-| 26 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
-| 27 | [regelung](http://twitter.com/search?q=regelung) | N/A |
-| 28 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
-| 29 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
-| 30 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
-| 31 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
-| 32 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
-| 33 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
-| 34 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 35 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 36 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 37 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 38 | [Spritze](http://twitter.com/search?q=Spritze) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Ungeimpften](http://twitter.com/search?q=Ungeimpften) | N/A |
-| 41 | [#Freudenberg](http://twitter.com/search?q=%23Freudenberg) | N/A |
-| 42 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
-| 43 | [#Galeria](http://twitter.com/search?q=%23Galeria) | N/A |
-| 44 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
-| 45 | [#Impfschaeden](http://twitter.com/search?q=%23Impfschaeden) | N/A |
-| 46 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 47 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
+| 6 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 7 | [Karstadt](http://twitter.com/search?q=Karstadt) | N/A |
+| 8 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 9 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
+| 10 | [Direktmandate](http://twitter.com/search?q=Direktmandate) | N/A |
+| 11 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 12 | [Sitze](http://twitter.com/search?q=Sitze) | N/A |
+| 13 | [Wahlkreise](http://twitter.com/search?q=Wahlkreise) | N/A |
+| 14 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 15 | [Kaufhof](http://twitter.com/search?q=Kaufhof) | N/A |
+| 16 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 17 | [Pendlerpauschale](http://twitter.com/search?q=Pendlerpauschale) | N/A |
+| 18 | [Galeria](http://twitter.com/search?q=Galeria) | N/A |
+| 19 | [StVO](http://twitter.com/search?q=StVO) | N/A |
+| 20 | [Regionalpartei](http://twitter.com/search?q=Regionalpartei) | N/A |
+| 21 | [Grundmandatsklausel](http://twitter.com/search?q=Grundmandatsklausel) | N/A |
+| 22 | [Abgeordnete](http://twitter.com/search?q=Abgeordnete) | N/A |
+| 23 | [Innenstädte](http://twitter.com/search?q=Innenst%c3%a4dte) | N/A |
+| 24 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 25 | [Kreuzung](http://twitter.com/search?q=Kreuzung) | N/A |
+| 26 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 27 | [Geschäftsmodell](http://twitter.com/search?q=Gesch%c3%a4ftsmodell) | N/A |
+| 28 | [Regelung](http://twitter.com/search?q=Regelung) | N/A |
+| 29 | [Hürde](http://twitter.com/search?q=H%c3%bcrde) | N/A |
+| 30 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 31 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 32 | [Volksheld](http://twitter.com/search?q=Volksheld) | N/A |
+| 33 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 34 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 35 | [Filialen](http://twitter.com/search?q=Filialen) | N/A |
+| 36 | [Fußgänger](http://twitter.com/search?q=Fu%c3%9fg%c3%a4nger) | N/A |
+| 37 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 38 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 39 | [Geschäfte](http://twitter.com/search?q=Gesch%c3%a4fte) | N/A |
+| 40 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 41 | [#Wahlrechtsreform](http://twitter.com/search?q=%23Wahlrechtsreform) | N/A |
+| 42 | [#GrueneRausausdenParlamenten](http://twitter.com/search?q=%23GrueneRausausdenParlamenten) | N/A |
+| 43 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 44 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 45 | [#Impfschäden](http://twitter.com/search?q=%23Impfsch%c3%a4den) | N/A |
+| 46 | [#LauterbachRausschmissSofort](http://twitter.com/search?q=%23LauterbachRausschmissSofort) | N/A |
+| 47 | [#Querdenker](http://twitter.com/search?q=%23Querdenker) | N/A |
 
 
 

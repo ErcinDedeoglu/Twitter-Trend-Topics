@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-14 11:16:53 UTC`
+📆 Last Updated: `2023-03-14 12:20:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,31 +31,31 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 14 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 | 15 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
 | 16 | [Reti](http://twitter.com/search?q=Reti) | N/A |
-| 17 | [National MPs](http://twitter.com/search?q=National+MPs) | N/A |
-| 18 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 19 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
-| 20 | [#blackcaps](http://twitter.com/search?q=%23blackcaps) | N/A |
-| 21 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 22 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 18 | [National MPs](http://twitter.com/search?q=National+MPs) | N/A |
+| 19 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 20 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
+| 21 | [#blackcaps](http://twitter.com/search?q=%23blackcaps) | N/A |
+| 22 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 23 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 24 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
 | 25 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 26 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 27 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 28 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 29 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 30 | [winz](http://twitter.com/search?q=winz) | N/A |
-| 31 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 32 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 33 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 34 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
-| 35 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 36 | [LOTO](http://twitter.com/search?q=LOTO) | N/A |
-| 37 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 39 | [Aotearoa New Zealand](http://twitter.com/search?q=Aotearoa+New+Zealand) | N/A |
-| 40 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 41 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 27 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 28 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 29 | [winz](http://twitter.com/search?q=winz) | N/A |
+| 30 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
+| 31 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 32 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 33 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 34 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 35 | [Jamie Lee Curtis](http://twitter.com/search?q=Jamie+Lee+Curtis) | Jamie Lee Curtis is an American actress, author, and activist. She is best known for her roles in films such as Halloween, True Lies, Freaky Friday, and A Fish Called Wanda. She has also written several children's books. |
+| 36 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 37 | [LOTO](http://twitter.com/search?q=LOTO) | N/A |
+| 38 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 39 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 40 | [Aotearoa New Zealand](http://twitter.com/search?q=Aotearoa+New+Zealand) | N/A |
+| 41 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
 | 42 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
 | 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 44 | [neil wagner](http://twitter.com/search?q=neil+wagner) | N/A |

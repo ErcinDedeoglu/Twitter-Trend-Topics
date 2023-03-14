@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-14 11:16:54 UTC`
+📆 Last Updated: `2023-03-14 12:20:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [United States](</United States>)
 | 11 | [Jabari](http://twitter.com/search?q=Jabari) | N/A |
 | 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 13 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 14 | [#SmokeSprite](http://twitter.com/search?q=%23SmokeSprite) | N/A |
+| 14 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
 | 15 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 16 | [Happy Pi](http://twitter.com/search?q=Happy+Pi) | N/A |
-| 17 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
-| 18 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 19 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
-| 20 | [YoON](http://twitter.com/search?q=YoON) | N/A |
-| 21 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 22 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
-| 23 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
-| 24 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 25 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 26 | [Butter](http://twitter.com/search?q=Butter) | N/A |
-| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 28 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 29 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 30 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
-| 31 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 32 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 33 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 34 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 35 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 36 | [Silent](http://twitter.com/search?q=Silent) | N/A |
-| 37 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 38 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 39 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
+| 16 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 17 | [Tom Joyner](http://twitter.com/search?q=Tom+Joyner) | N/A |
+| 18 | [Daily Quordle 414](http://twitter.com/search?q=Daily+Quordle+414) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [Barney Frank](http://twitter.com/search?q=Barney+Frank) | N/A |
+| 21 | [Pat Schroeder](http://twitter.com/search?q=Pat+Schroeder) | N/A |
+| 22 | [Albert Einstein](http://twitter.com/search?q=Albert+Einstein) | N/A |
+| 23 | [Michael Caine](http://twitter.com/search?q=Michael+Caine) | N/A |
+| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 25 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 26 | [White Day](http://twitter.com/search?q=White+Day) | N/A |
+| 27 | [Lyles](http://twitter.com/search?q=Lyles) | N/A |
+| 28 | [YoON](http://twitter.com/search?q=YoON) | N/A |
+| 29 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
+| 30 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 31 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 32 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 33 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 34 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 35 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 36 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 37 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 38 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 39 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
 | 40 | [Datpiff](http://twitter.com/search?q=Datpiff) | N/A |
-| 41 | [Matt Gay](http://twitter.com/search?q=Matt+Gay) | N/A |
-| 42 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 43 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
-| 44 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 45 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 46 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 41 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 42 | [Butter](http://twitter.com/search?q=Butter) | N/A |
+| 43 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 44 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 45 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 46 | [Drift](http://twitter.com/search?q=Drift) | N/A |
 | 47 | [Tomlinson](http://twitter.com/search?q=Tomlinson) | N/A |
-| 48 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 49 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 48 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 49 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
 
 
 
