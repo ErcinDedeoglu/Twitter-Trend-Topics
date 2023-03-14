@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-14 22:17:13 UTC`
+📆 Last Updated: `2023-03-14 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
 | 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 3 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 4 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 3 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 4 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 5 | [#SetMeFree_Pt2](http://twitter.com/search?q=%23SetMeFree_Pt2) | N/A |
 | 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
 | 7 | [#ไวท์เดย์ฮันนี่ชวนไบเบิ้ลเดต](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a7%e0%b8%97%e0%b9%8c%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c%e0%b8%ae%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%95) | N/A |
@@ -43,21 +43,21 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 26 | [BUSD](http://twitter.com/search?q=BUSD) | N/A |
 | 27 | [xinh](http://twitter.com/search?q=xinh) | N/A |
 | 28 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 29 | [được](http://twitter.com/search?q=%c4%91%c6%b0%e1%bb%a3c) | N/A |
-| 30 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 32 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
-| 33 | [nhiều](http://twitter.com/search?q=nhi%e1%bb%81u) | N/A |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [được](http://twitter.com/search?q=%c4%91%c6%b0%e1%bb%a3c) | N/A |
+| 31 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 32 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 33 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
+| 34 | [nhiều](http://twitter.com/search?q=nhi%e1%bb%81u) | N/A |
 | 35 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
 | 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 37 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
 | 38 | [vàng](http://twitter.com/search?q=v%c3%a0ng) | N/A |
-| 39 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 40 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 41 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 43 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 39 | [My Address](http://twitter.com/search?q=My+Address) | N/A |
+| 40 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 41 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 42 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 44 | [Tham](http://twitter.com/search?q=Tham) | N/A |
 | 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |

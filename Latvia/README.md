@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-14 22:17:38 UTC`
+📆 Last Updated: `2023-03-14 23:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,27 +43,25 @@ This is top 50 for Latvia
 | 26 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 27 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
 | 28 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 29 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
+| 29 | [vācijas](http://twitter.com/search?q=v%c4%81cijas) | N/A |
 | 30 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
 | 31 | [Labs](http://twitter.com/search?q=Labs) | N/A |
 | 32 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
 | 33 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 34 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 35 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 35 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 36 | [puškins](http://twitter.com/search?q=pu%c5%a1kins) | N/A |
 | 37 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
-| 38 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
-| 39 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 38 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 39 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
 | 40 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 41 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
 | 42 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
 | 43 | [esmu](http://twitter.com/search?q=esmu) | N/A |
 | 44 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
 | 45 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 46 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 47 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
-| 48 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 49 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 46 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 47 | [Viss](http://twitter.com/search?q=Viss) | N/A |
 
 
 

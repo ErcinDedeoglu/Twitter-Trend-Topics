@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-14 22:17:40 UTC`
+📆 Last Updated: `2023-03-14 23:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for Singapore
 | 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 13 | [Signature Bank](http://twitter.com/search?q=Signature+Bank) | N/A |
 | 14 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 17 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
-| 18 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 15 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 16 | [#PiDay](http://twitter.com/search?q=%23PiDay) | N/A |
+| 17 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 19 | [Artem](http://twitter.com/search?q=Artem) | N/A |
 | 20 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
 | 21 | [neyo](http://twitter.com/search?q=neyo) | N/A |
 | 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 25 | [Asians](http://twitter.com/search?q=Asians) | N/A |
-| 26 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 27 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 28 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
-| 29 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 30 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
-| 31 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 23 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 24 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 25 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 26 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 27 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
+| 28 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 29 | [EEAAO](http://twitter.com/search?q=EEAAO) | EEAAO stands for "Equal Employment Opportunity." It is a policy that prohibits discrimination in the workplace based on race, color, religion, sex, national origin, age, disability or genetic information. |
+| 30 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 32 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
 | 33 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 35 | [kamal adli](http://twitter.com/search?q=kamal+adli) | N/A |
-| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 37 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 38 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 39 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 41 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
-| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 43 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
-| 44 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 46 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 48 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 49 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 36 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 37 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 38 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 39 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 40 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
+| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 42 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
+| 43 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 44 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 45 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 47 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 50 | [Stephanie Hsu](http://twitter.com/search?q=Stephanie+Hsu) | Stephanie Hsu is a Taiwanese-American actress and singer. She is best known for her roles in the Broadway musicals Be More Chill and SpongeBob SquarePants: The Musical. Her name means "graceful lily" in Chinese. |
 
 
